@@ -12,7 +12,7 @@ Esta guía nace con el objetivo de ser una herramienta útil para jugadores y ju
 
 > **Cómo usar esta guía**  
 > - Para enlazar a cualquier sección, escribe `[[01_Reglas/1_Turno]]`  
-> - Encuentra rápidamente una regla pulsando **Ctrl+O** y buscando “Challenge” o “Ward”.  
+> - Encuentra rápidamente una regla pulsando **Ctrl + shift + F** y buscando “Challenge” o “Ward”.  
 > - Arrastra imágenes aquí para que Obsidian las copie a `.attachments/` y las muestre con `![[mi-diagrama.png]]`.  
 > - Revisa las **backlinks** para ver dónde se usa cada término o regla.
 o
