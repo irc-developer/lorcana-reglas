@@ -13,12 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Reglas/7. Habilidades (abilities)/7.1.9. Esa (that).md",
+                "file": "10.4. Evasivo (Evasive).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1.9. Esa (that)"
+              "title": "10.4. Evasivo (Evasive)"
+            }
+          },
+          {
+            "id": "724052cbbf23a9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/8. Zonas (Zones)/8.7.7. Repetir hasta acabar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.7.7. Repetir hasta acabar"
+            }
+          },
+          {
+            "id": "373e9b033b1cd213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/8. Zonas (Zones)/8.7.6. Resolución del jugador no activo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.7.6. Resolución del jugador no activo"
+            }
+          },
+          {
+            "id": "4158f629b2fe3140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/8. Zonas (Zones)/8.7.6. Resolución del jugador no activo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.7.6. Resolución del jugador no activo"
+            }
+          },
+          {
+            "id": "731952c34a8ff91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/8. Zonas (Zones)/8.7.4. Resolución del jugador activo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.7.4. Resolución del jugador activo"
+            }
+          },
+          {
+            "id": "99fcd7a4dacc137d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/8. Zonas (Zones)/8.7.3. Entrando en la bolsa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.7.3. Entrando en la bolsa"
+            }
+          },
+          {
+            "id": "512ca093104a5faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/8. Zonas (Zones)/8.7.2. Sólo entran triggers en la bolsa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.7.2. Sólo entran triggers en la bolsa"
             }
           },
           {
@@ -88,8 +172,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Reglas/7. Habilidades (abilities)/7.1.9. Esa (that).md",
+                "file": "10.4. Evasivo (Evasive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 7.1.9. Esa (that)"
+              "title": "Enlaces entrantes de 10.4. Evasivo (Evasive)"
             }
           },
           {
@@ -184,41 +267,42 @@
   },
   "active": "08d76a13fecad010",
   "lastOpenFiles": [
-    "01_Reglas/7. Habilidades (abilities)/7.1.2.4. Tipo (A) and (B).md",
-    "01_Reglas/7. Habilidades (abilities)/7.1.2.2. Tipo (A) to (B).md",
-    "01_Reglas/8. Zonas/8.5. Pozo de tinta (Inkwell).md",
-    "01_Reglas/8. Zonas/8.4. Juego (Play).md",
-    "8.4.4. Cartas abandonando la zona de juego.md",
-    "8.4.3.  Zona de juego pública.md",
-    "8.4.2. En juego (in play).md",
-    "8.4.1. Zona de Juego (Play zone).md",
-    "01_Reglas/6. Tipos de carta (Card types)/6.4. Objetos (Items).md",
-    "01_Reglas/8. Zonas/8.3. Mano (Hand).md",
-    "8.1.1. Zonas.md",
-    "8.3.2.  Mano como zona privada.md",
-    "8.3.4. Descartar mano.md",
-    "8.3.3. Tamaño de mano.md",
-    "01_Reglas/8. Zonas/8.2. Mazo (Deck).md",
-    "01_Reglas/8. Zonas/8.7. Bolsa (Bag).md",
-    "01_Reglas/7. Habilidades (abilities)/7.1.1. Cláusula.md",
-    "01_Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
-    "01_Reglas/7. Habilidades (abilities)/7.1.2.  Tipos de Cláusulas.md",
-    "01_Reglas/7. Habilidades (abilities)/7.1.8. Hasta N (up to N).md",
-    "01_Reglas/8. Zonas/8.1. General.md",
-    "01_Reglas/8. Zonas/8.6. Descarte (Discard).md",
-    "8.2.4. Cartas que se añaden al mazo.md",
-    "8.2.3. Robar una carta.md",
-    "8.2.2. El mazo es una zona privada.md",
-    "8.1.5. Cartas de zona de juego a zona privada.md",
-    "01_Reglas/8. Zonas",
+    "10.4.2.  Texto recordatorio.md",
+    "10.4. Evasivo (Evasive).md",
+    "10.4.1.  Sólo desafiable por evasivos.md",
+    "10.3.3.  Gana sólo cuando reta.md",
+    "10.3. Desafiador (Challenger).md",
+    "10.3.2. Texto recordatorio.md",
+    "10.3.1. Habilidad estática del desafiante.md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.2.1. Son dos habilidades.md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.2.4. Texto recordatorio.md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.2. Guardaespaldas (Bodyguard).md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.2.3. Obliga a ser desafiado primero (estática).md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.2.2. Entrar agotado (estática).md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.1.3. El texto es recordatorio.md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.1.2. Palabras clave.md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.1.1. Habilidades que se apilan (+N).md",
+    "01_Reglas/10. Palabras clave (Keywords)/10.1. Generalidades (General).md",
+    "10.13. Protección (Ward).md",
+    "Todo el contenido.md",
+    "10.12. Desvanecer (Vanish).md",
+    "10.11. Apoyo (Support).md",
+    "10.10. Cantar Juntos (Sing Together).md",
+    "10.9. Cantante (Singer).md",
+    "10.8. Cambio (Shift).md",
+    "10.7. Prisa (Rush).md",
+    "10.6. Resistir (Resist).md",
+    "10.5. Temerario (Reckless).md",
+    "01_Reglas/10. Palabras clave (Keywords)",
+    "01_Reglas/9. Contadores de daño (Damage counters)",
+    "Pasted image 20250621224814.png",
+    "04_Aclaraciones",
+    "03_Glosario/Sin nombre",
+    "01_Reglas/8. Zonas (Zones)",
     "01_Reglas/7. Habilidades (abilities)",
     "01_Reglas/6. Tipos de carta (Card types)",
     "01_Reglas/5. Cartas (cards)",
     "01_Reglas/4. Estructura del turno (Turn Structure)",
-    "01_Reglas/3. Juego (Gameplay)",
-    "01_Reglas/2. Antes de comenzar",
-    "01_Reglas/1. Conceptos",
-    "03_Glosario",
-    "01_Reglas/4_"
+    "01_Reglas/3. Juego (Gameplay)"
   ]
 }
