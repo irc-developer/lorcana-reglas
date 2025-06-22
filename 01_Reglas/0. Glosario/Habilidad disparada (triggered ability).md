@@ -1,0 +1,1 @@
+Habilidad que añade un efecto a la bolsa cuando se cumple una condición. Comienza con “When”, “Whenever”, “At the start of” o “At the end of”.

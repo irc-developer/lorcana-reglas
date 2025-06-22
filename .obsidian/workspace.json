@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.4. Evasivo (Evasive).md",
+                "file": "01_Reglas/4. Estructura del turno (Turn Structure)/4.3.1 Acciones de turno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.4. Evasivo (Evasive)"
+              "title": "4.3.1 Acciones de turno"
+            }
+          },
+          {
+            "id": "674a0c697893aa25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/4. Estructura del turno (Turn Structure)/4.3.2 Orden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3.2 Orden"
+            }
+          },
+          {
+            "id": "780c616d5ce78f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Reglas/0. Glosario/Carta superior (top card).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carta superior (top card)"
             }
           },
           {
@@ -119,7 +147,8 @@
               "title": "8.4.2. En juego (in play)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,11 +180,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "this",
-                "matchingCase": false,
-                "explainSearch": false,
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -192,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.4. Evasivo (Evasive).md",
+                "file": "01_Reglas/0. Glosario/Carta superior (top card).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 10.4. Evasivo (Evasive)"
+              "title": "Enlaces entrantes de Carta superior (top card)"
             }
           },
           {
@@ -265,44 +294,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08d76a13fecad010",
+  "active": "780c616d5ce78f5d",
   "lastOpenFiles": [
-    "10.4.2.  Texto recordatorio.md",
-    "10.4. Evasivo (Evasive).md",
-    "10.4.1.  Sólo desafiable por evasivos.md",
-    "10.3.3.  Gana sólo cuando reta.md",
-    "10.3. Desafiador (Challenger).md",
-    "10.3.2. Texto recordatorio.md",
-    "10.3.1. Habilidad estática del desafiante.md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.2.1. Son dos habilidades.md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.2.4. Texto recordatorio.md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.2. Guardaespaldas (Bodyguard).md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.2.3. Obliga a ser desafiado primero (estática).md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.2.2. Entrar agotado (estática).md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.1.3. El texto es recordatorio.md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.1.2. Palabras clave.md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.1.1. Habilidades que se apilan (+N).md",
-    "01_Reglas/10. Palabras clave (Keywords)/10.1. Generalidades (General).md",
-    "10.13. Protección (Ward).md",
-    "Todo el contenido.md",
-    "10.12. Desvanecer (Vanish).md",
-    "10.11. Apoyo (Support).md",
-    "10.10. Cantar Juntos (Sing Together).md",
-    "10.9. Cantante (Singer).md",
-    "10.8. Cambio (Shift).md",
-    "10.7. Prisa (Rush).md",
-    "10.6. Resistir (Resist).md",
-    "10.5. Temerario (Reckless).md",
+    "03_Glosario/Deck_Building.md",
+    "01_Reglas/0. Glosario/Carta superior (top card).md",
+    "01_Reglas/0. Glosario/Barajar (shuffle).md",
+    "01_Reglas/0. Glosario/Agotado (exerted).md",
+    "01_Reglas/0. Glosario/Bolsa (bag).md",
+    "01_Reglas/0. Glosario/Agotar (exert).md",
+    "01_Reglas/0. Glosario/Acción (action).md",
+    "01_Reglas/0. Glosario/0. Glosario.md",
+    "01_Reglas/0. Glosario",
+    "01_Reglas/0. Glosario/Todo el contenido.md",
+    "01_Reglas/0. Glosario/Zona (zone).md",
+    "01_Reglas/0. Glosario/Fuerza de Voluntad (Willpower {W}).md",
+    "01_Reglas/0. Glosario/Versión (version).md",
+    "01_Reglas/0. Glosario/Acción de turno (turn action).md",
+    "01_Reglas/0. Glosario/Turno (turn).md",
+    "01_Reglas/0. Glosario/Habilidad disparada (triggered ability).md",
+    "01_Reglas/0. Glosario/Fuerza (Strength {S}).md",
+    "01_Reglas/0. Glosario/Habilidad estática (static ability).md",
+    "01_Reglas/0. Glosario/Jugador inicial (starting player).md",
+    "01_Reglas/0. Glosario/Mano inicial (starting hand).md",
+    "01_Reglas/0. Glosario/Pila (stack).md",
+    "01_Reglas/0. Glosario/Canción (song).md",
+    "01_Reglas/0. Glosario/Saltar (skip).md",
+    "01_Reglas/0. Glosario/Turnos simultáneos (simultaneous turns).md",
+    "01_Reglas/0. Glosario/Paso de Listo (Set step).md",
+    "01_Reglas/0. Glosario/Mostrar (reveal).md",
+    "01_Reglas/0. Glosario/Efecto de reemplazo (replacement effect).md",
+    "01_Reglas/0. Glosario/elsaicemaker.png",
     "01_Reglas/10. Palabras clave (Keywords)",
     "01_Reglas/9. Contadores de daño (Damage counters)",
-    "Pasted image 20250621224814.png",
     "04_Aclaraciones",
     "03_Glosario/Sin nombre",
     "01_Reglas/8. Zonas (Zones)",
     "01_Reglas/7. Habilidades (abilities)",
     "01_Reglas/6. Tipos de carta (Card types)",
     "01_Reglas/5. Cartas (cards)",
-    "01_Reglas/4. Estructura del turno (Turn Structure)",
-    "01_Reglas/3. Juego (Gameplay)"
+    "01_Reglas/4. Estructura del turno (Turn Structure)"
   ]
 }

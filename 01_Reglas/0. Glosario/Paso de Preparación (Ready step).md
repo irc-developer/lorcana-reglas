@@ -1,0 +1,1 @@
+Primer paso de la Beginning Phase. Se enderezan todas las cartas exerted. Se activan efectos de “inicio de turno”.

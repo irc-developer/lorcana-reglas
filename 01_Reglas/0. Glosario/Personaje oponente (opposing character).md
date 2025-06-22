@@ -1,0 +1,1 @@
+Personaje controlado por un oponente.

@@ -1,0 +1,1 @@
+Habilidad que obliga a los personajes oponentes a desafiar primero a este personaje si es un objetivo válido.

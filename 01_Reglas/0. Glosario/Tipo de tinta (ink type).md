@@ -1,0 +1,1 @@
+El tipo de tinta de una carta, mostrado mediante un símbolo en el borde izquierdo, sobre el recuadro de texto. Los seis tipos son: Amber, Amethyst, Emerald, Ruby, Sapphire y Steel. Una carta puede tener uno o dos tipos. Un mazo no puede tener más de dos tipos de tinta.

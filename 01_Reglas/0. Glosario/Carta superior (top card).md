@@ -1,0 +1,1 @@
+La carta superior de una pila (stack).

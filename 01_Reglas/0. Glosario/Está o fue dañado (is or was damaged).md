@@ -1,0 +1,1 @@
+Ha recibido daño este turno o en anteriores.

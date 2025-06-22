@@ -1,0 +1,1 @@
+Zona donde las cartas son visibles para todos. Ej.: zona de juego, pila de descarte.

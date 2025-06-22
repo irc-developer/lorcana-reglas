@@ -1,0 +1,1 @@
+Cualquier jugador contra el que se está jugando.

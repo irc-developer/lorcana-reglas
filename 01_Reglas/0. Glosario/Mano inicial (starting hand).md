@@ -1,0 +1,1 @@
+Las 7 cartas iniciales que se roban al comienzo del juego.

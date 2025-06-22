@@ -1,0 +1,1 @@
+La pila de cartas de un jugador. Cada jugador comienza con un mazo de exactamente 60 cartas.

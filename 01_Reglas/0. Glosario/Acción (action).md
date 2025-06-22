@@ -1,0 +1,1 @@
+Una carta que enumera “Action” en su línea de clasificación. Cuando un jugador juega una acción, la revela, paga su coste, resuelve sus efectos y luego la descarta.

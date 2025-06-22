@@ -1,0 +1,1 @@
+Partida con tres o más jugadores.

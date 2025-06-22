@@ -1,0 +1,1 @@
+El recurso que los jugadores deben acumular para ganar. El primero en alcanzar 20 gana.

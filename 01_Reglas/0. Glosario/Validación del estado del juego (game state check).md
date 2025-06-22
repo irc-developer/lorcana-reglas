@@ -1,0 +1,1 @@
+La comprobación que realiza el juego para verificar condiciones y acciones requeridas al final de cada paso, después de resolver una acción, habilidad o efecto (ver regla 1.9 “Game State Check”).

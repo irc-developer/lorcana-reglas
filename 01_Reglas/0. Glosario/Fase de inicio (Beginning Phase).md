@@ -1,0 +1,1 @@
+La primera fase de la estructura del turno. Contiene tres pasos: el Ready step, el Set step y el Draw step.

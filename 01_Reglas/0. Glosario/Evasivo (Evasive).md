@@ -1,0 +1,1 @@
+Una habilidad clave que impide que un personaje sea desafiado excepto por personajes con Evasive.

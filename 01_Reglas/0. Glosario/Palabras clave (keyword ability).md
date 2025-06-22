@@ -1,0 +1,1 @@
+Habilidad representada por un nombre corto en negrita que siempre tiene el mismo efecto. Ejemplos: Bodyguard, Challenger, Evasive, Reckless, Rush.

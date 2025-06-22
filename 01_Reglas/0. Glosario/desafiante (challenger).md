@@ -1,0 +1,1 @@
+Una habilidad clave que otorga al personaje +[N] de fuerza (strength) al desafiar.

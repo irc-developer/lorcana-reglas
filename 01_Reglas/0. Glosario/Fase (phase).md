@@ -1,0 +1,1 @@
+Una de las tres partes principales de un turno: Beginning Phase, Main Phase y End of Turn Phase.
