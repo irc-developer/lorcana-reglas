@@ -4,151 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c6e89af26b74e690",
+        "id": "fba9ed050df0a123",
         "type": "tabs",
         "children": [
           {
-            "id": "08d76a13fecad010",
+            "id": "bb11343d1590c98e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Reglas/4. Estructura del turno (Turn Structure)/4.3.1 Acciones de turno.md",
+                "file": "01_Reglas/11. Casos de ejemplo y aclaraciones/Daisy Duck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3.1 Acciones de turno"
-            }
-          },
-          {
-            "id": "674a0c697893aa25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/4. Estructura del turno (Turn Structure)/4.3.2 Orden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.3.2 Orden"
-            }
-          },
-          {
-            "id": "780c616d5ce78f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/0. Glosario/Carta superior (top card).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carta superior (top card)"
-            }
-          },
-          {
-            "id": "724052cbbf23a9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/8. Zonas (Zones)/8.7.7. Repetir hasta acabar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.7.7. Repetir hasta acabar"
-            }
-          },
-          {
-            "id": "373e9b033b1cd213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/8. Zonas (Zones)/8.7.6. Resolución del jugador no activo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.7.6. Resolución del jugador no activo"
-            }
-          },
-          {
-            "id": "4158f629b2fe3140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/8. Zonas (Zones)/8.7.6. Resolución del jugador no activo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.7.6. Resolución del jugador no activo"
-            }
-          },
-          {
-            "id": "731952c34a8ff91a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/8. Zonas (Zones)/8.7.4. Resolución del jugador activo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.7.4. Resolución del jugador activo"
-            }
-          },
-          {
-            "id": "99fcd7a4dacc137d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/8. Zonas (Zones)/8.7.3. Entrando en la bolsa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.7.3. Entrando en la bolsa"
-            }
-          },
-          {
-            "id": "512ca093104a5faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Reglas/8. Zonas (Zones)/8.7.2. Sólo entran triggers en la bolsa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.7.2. Sólo entran triggers en la bolsa"
-            }
-          },
-          {
-            "id": "a8786f7955a21043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8.4.2. En juego (in play).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.4.2. En juego (in play)"
+              "title": "Daisy Duck"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "Tinker",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": true,
@@ -221,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Reglas/0. Glosario/Carta superior (top card).md",
+                "file": "01_Reglas/11. Casos de ejemplo y aclaraciones/Daisy Duck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Carta superior (top card)"
+              "title": "Enlaces entrantes de Daisy Duck"
             }
           },
           {
@@ -294,44 +167,51 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "780c616d5ce78f5d",
+  "active": "bb11343d1590c98e",
   "lastOpenFiles": [
-    "03_Glosario/Deck_Building.md",
-    "01_Reglas/0. Glosario/Carta superior (top card).md",
-    "01_Reglas/0. Glosario/Barajar (shuffle).md",
-    "01_Reglas/0. Glosario/Agotado (exerted).md",
-    "01_Reglas/0. Glosario/Bolsa (bag).md",
-    "01_Reglas/0. Glosario/Agotar (exert).md",
-    "01_Reglas/0. Glosario/Acción (action).md",
-    "01_Reglas/0. Glosario/0. Glosario.md",
-    "01_Reglas/0. Glosario",
-    "01_Reglas/0. Glosario/Todo el contenido.md",
-    "01_Reglas/0. Glosario/Zona (zone).md",
-    "01_Reglas/0. Glosario/Fuerza de Voluntad (Willpower {W}).md",
-    "01_Reglas/0. Glosario/Versión (version).md",
-    "01_Reglas/0. Glosario/Acción de turno (turn action).md",
-    "01_Reglas/0. Glosario/Turno (turn).md",
-    "01_Reglas/0. Glosario/Habilidad disparada (triggered ability).md",
-    "01_Reglas/0. Glosario/Fuerza (Strength {S}).md",
-    "01_Reglas/0. Glosario/Habilidad estática (static ability).md",
-    "01_Reglas/0. Glosario/Jugador inicial (starting player).md",
-    "01_Reglas/0. Glosario/Mano inicial (starting hand).md",
-    "01_Reglas/0. Glosario/Pila (stack).md",
-    "01_Reglas/0. Glosario/Canción (song).md",
-    "01_Reglas/0. Glosario/Saltar (skip).md",
-    "01_Reglas/0. Glosario/Turnos simultáneos (simultaneous turns).md",
-    "01_Reglas/0. Glosario/Paso de Listo (Set step).md",
-    "01_Reglas/0. Glosario/Mostrar (reveal).md",
-    "01_Reglas/0. Glosario/Efecto de reemplazo (replacement effect).md",
+    "Pasted image 20250626090422.png",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos.md",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Daisy Duck.md",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Vanish e interacciones.md",
+    "Pasted image 20250625151713.png",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Agotar personajes como coste.md",
+    "02_Habilidades_de_Cartas/Set 8/Set  8 - Cartas.md",
+    "02_Habilidades_de_Cartas/Set 7/Set  7 - Cartas.md",
+    "02_Habilidades_de_Cartas/Set 6/Set  6 - Cartas.md",
+    "02_Habilidades_de_Cartas/Set 5/Set  5 - Cartas.md",
+    "02_Habilidades_de_Cartas/Set 4/Set  4 - Cartas.md",
+    "02_Habilidades_de_Cartas/Set 3/Set  3 - Cartas.md",
+    "02_Habilidades_de_Cartas/Set 2/Set  2 - Cartas.md",
+    "02_Habilidades_de_Cartas/Set 1/Set 1 - Cartas.md",
+    "01_Reglas/7. Habilidades (abilities)/7.1.2.2. Tipo A para B (A to B).md",
+    "02_Habilidades_de_Cartas/Set 7",
+    "02_Habilidades_de_Cartas/Set 6",
+    "02_Habilidades_de_Cartas/Set 5",
+    "02_Cartas 1/Set 8/Cartas.md",
+    "02_Cartas 1/Set 8",
+    "02_Cartas 1/Set 2",
+    "02_Cartas 1/Set 4",
+    "02_Cartas 1/Set 3",
+    "02_Cartas 1/Set 1",
+    "02_Cartas 1",
+    "02_Habilidades_de_Cartas/Set 4",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Habilidades disparadas 'Al final del turno'.md",
+    "Pasted image 20250625111335.png",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Robar carta y tener que descartarla.md",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Elsa - Ice Maker.md",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Cumplir parte de una habilidad.md",
+    "01_Reglas/4. Estructura del turno (Turn Structure)/4.3.2 Orden.md",
+    "01_Reglas/0. Glosario/Mazo (deck).md",
+    "01_Reglas/8. Zonas (Zones)/8.7.4. Resolución del jugador activo.md",
+    "01_Reglas/8. Zonas (Zones)/8.7.5 Habilidades disparadas que disparan otras entrando en bolsa.md",
+    "01_Reglas/8. Zonas (Zones)/8.7.6. Resolución del jugador no activo.md",
+    "imagenes/Pasted image 20250623100100.png",
+    "imagenes/Pasted image 20250623100027.png",
+    "01_Reglas/7. Habilidades (abilities)/7.4.3. Bolsa.md",
+    "01_Reglas/7. Habilidades (abilities)/7.2. Cartas de Acción (Action Cards).md",
+    "imagenes/Pasted image 20250622224318.png",
     "01_Reglas/0. Glosario/elsaicemaker.png",
-    "01_Reglas/10. Palabras clave (Keywords)",
-    "01_Reglas/9. Contadores de daño (Damage counters)",
-    "04_Aclaraciones",
-    "03_Glosario/Sin nombre",
-    "01_Reglas/8. Zonas (Zones)",
-    "01_Reglas/7. Habilidades (abilities)",
-    "01_Reglas/6. Tipos de carta (Card types)",
-    "01_Reglas/5. Cartas (cards)",
-    "01_Reglas/4. Estructura del turno (Turn Structure)"
+    "imagenes/Pasted image 20250622220405.png",
+    "imagenes/Pasted image 20250622213135.png"
   ]
 }
