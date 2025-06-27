@@ -474,8 +474,6 @@ PLAY ROUGH Whenever this character quests, exert chosen opposing character.
 
 ---
 
-  
-
  ### [[Giant Cobra - Ghostly Serpent]]
 
 Vanish (When an opponent chooses this character for an action, banish them.)
@@ -484,7 +482,6 @@ MYSTERIOUS ADVANTAGE When you play this character, you may choose and discard a 
 
 ---
 
-  
 
  ### [[Te Kā - Lava Monster]]
 
