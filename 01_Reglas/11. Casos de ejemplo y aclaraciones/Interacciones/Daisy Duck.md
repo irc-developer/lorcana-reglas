@@ -12,7 +12,7 @@ Depende a quien le preguntes. Como programador actualmente pienso que la equival
 	 `they put it on the bottom of their deck`
 `}`
 
-Aunque no hay reglas que soporten esto. Tampoco hay aclaración oficial.
+Aunque no hay reglas que soporten esto. Tampoco hay aclaración oficial. Todo esto es aplicable también para cartas como [[Set  6 - Cartas#Oswald - The Lucky Rabbit]]
 ### Reglas implicadas:
 - 
 

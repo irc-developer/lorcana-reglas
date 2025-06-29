@@ -8,8 +8,6 @@ Cuando juegas una acción de forma normal hasta que no se resuelve completamente
 
 Ahora bien, cuando hablamos de resolver una acción desde otra carta cambia lo suficiente para que sea completamente diferente. La acción se completa pero no se resuelve hasta que lo que haya provocado jugarla se complete, con lo que estará en el descarte cuando se resuelva esta acción, pudiendo ser seleccionada.
 
-With the latest Kyle ruling on 7.1.6, a second copy of We Know the Way is not required.  4.3.4.8 is superceded by 7.1.6 in this case
-
 Jugar acción normal
 1.  Enseñas *We Know The Way* que vas a jugar desde tu mano
 2.  Pagas el coste de la carta
@@ -25,18 +23,14 @@ Jugarla a través del efecto de Naveen:
 6. El efecto de Naveen ha acabado con lo qué:
 	1. Barajas  *We Know The Way*  jugado en el mazo.
 	2. Enseñas el  *We Know The Way*  y comienza el loop, ejecutándose de nuevo (ya que pasa igual al jugarse).
-
-
+7. Juegas el *We Know The Way* gratis por el mismo *We Know The Way* que has revelado.
+8. La acción se ejecuta entera y acaba en el descarte, aplazándose el efecto hasta que el *We Know The Way* que la ha jugado se resuelva.
+9. Y volver a empezar.
+10. 
 ### Reglas implicadas:
-- 
-
+- [[4.3.4.8 Las acciones no están en el descarte]]
+- [[7.1.6. Carta que provoca jugar otra carta]]
 ### Referencias
+Discord
 
 
-
-
-
-
-[[Set  5 - Cartas#We Know the Way]]
-[[Set  5 - Cartas#Prince Naveen - Ukulele Player]]
-[[Set  5 - Cartas#Alan-a-Dale - Rockin' Rooster]] 
