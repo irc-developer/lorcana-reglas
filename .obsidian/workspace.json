@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"if it\"",
+                "query": "if it's",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,10 @@
   },
   "active": "c7a7a05bf1f42e7b",
   "lastOpenFiles": [
-    "01_Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
+    "02_Habilidades_de_Cartas/Set 3/Set  3 - Cartas.md",
     "01_Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Daisy Duck.md",
+    "02_Habilidades_de_Cartas/Set 2/Set  2 - Cartas.md",
+    "01_Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
     "01_Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Elsa - Ice Maker.md",
     "02_Habilidades_de_Cartas/Set 6/Set  6 - Cartas.md",
     "01_Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Muchas cartas implicadas.md",
@@ -202,8 +205,6 @@
     "imagenes/Pasted image 20250625111335.png",
     "01_Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Vanish e interacciones.md",
     "01_Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
-    "02_Habilidades_de_Cartas/Set 8/Set  8 - Cartas.md",
-    "02_Habilidades_de_Cartas/Set 3/Set  3 - Cartas.md",
     "02_Habilidades_de_Cartas/Set 7",
     "02_Habilidades_de_Cartas/Set 6",
     "02_Habilidades_de_Cartas/Set 5",
