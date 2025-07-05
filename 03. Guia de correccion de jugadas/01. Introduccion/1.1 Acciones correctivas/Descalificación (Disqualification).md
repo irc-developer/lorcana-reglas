@@ -1,0 +1,1 @@
+El jugador pierde inmediatamente el emparejamiento en curso (si lo hubiera) y queda eliminado del torneo, perdiendo la posibilidad de acceder a premios y **no** pudiendo retirarle ninguno ya entregado hasta ese momento.

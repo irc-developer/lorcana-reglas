@@ -1,0 +1,1 @@
+En el caso que ambos jugadores, de forma simultánea, fuesen a recibir una [[Pérdida de partida (Game Loss)]] , en vez de eso, se registra la infracción en la aplicación y se lleva a acabo la partida o la ronda con normalidad. **No** se aplica a [[Emparejamiento perdido (Match Loss)]]

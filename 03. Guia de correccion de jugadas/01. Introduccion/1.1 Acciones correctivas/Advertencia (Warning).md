@@ -1,0 +1,1 @@
+El jugador recibe una advertencia verbal de que ha cometido un error y se le indica que tenga más cuidado en el futuro. Esta advertencia se registra y se rastrea, y puede escalarse si se cometen más errores durante el mismo torneo.
