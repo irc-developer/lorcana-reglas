@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56b07540a02766d0",
+        "id": "8040ea829ef4e599",
         "type": "tabs",
         "children": [
           {
-            "id": "7299d9561b4ccd00",
+            "id": "ced131511aa3c868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Reglas de Torneo/1. Introduccion.md",
+                "file": "3.2 Mínimo de Rondas (Round Minimums).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduccion"
+              "title": "3.2 Mínimo de Rondas (Round Minimums)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Reglas de Torneo/1. Introduccion.md",
+                "file": "3.2 Mínimo de Rondas (Round Minimums).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1. Introduccion"
+              "title": "Enlaces entrantes de 3.2 Mínimo de Rondas (Round Minimums)"
             }
           },
           {
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,44 +167,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7299d9561b4ccd00",
+  "active": "ced131511aa3c868",
   "lastOpenFiles": [
-    "02. Habilidades de las cartas/Set 2 - Cartas.md",
-    "04. Reglas de Torneo/1. Introduccion.md",
-    "02. Habilidades de las cartas/Set 3 - Cartas.md",
-    "02. Habilidades de las cartas/Set 1 - Cartas.md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.0 Operaciones en los torneos.md",
+    "3.2 Mínimo de Rondas (Round Minimums).md",
+    "3.1 Mínimo de Jugadores (Player Minimums).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1. Introduccion.md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.0 Roles del torneo.md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.5 Jugador (Player).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.6 Espectador (Spectator).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.4 Anotador de Puntuaciones (Scorekeeper).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.3 Jueces (Judges).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.2 Torneos Competitivos (Competitive).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.2 Juez Principal (Head Judge).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.1 Organizador del Torneo (Tournament Organizer).md",
+    "03. Reglas de Torneo/Sin nombre",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1 Tipos de Torneo (Tournament Types).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.3 Roles en el Torneo (Tournament Roles).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.5 Legalidad de Sets (Set Legality).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.4 Jugadores y Oficiales Elegibles (Eligible Players and Tournament Officials).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.1 Torneos Casuales.md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2 Niveles de Torneo (Tournament Levels).md",
+    "04. Guia de correccion de jugadas/01. Introduccion/1. Introducción.md",
+    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/1.1 Acciones correctivas.md",
+    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Acciones correctivas compensadas (offsetting corrective actions).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1.2 Construido (Constructed).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1.1 Limitado (Limited).md",
+    "03. Reglas de Torneo/7. Límites de tiempo",
+    "03. Reglas de Torneo/6. Formatos de torneos - Limitado",
+    "03. Reglas de Torneo/5. Formatos de torneos - Construido",
+    "03. Reglas de Torneo/4. Información y comunicación",
+    "03. Reglas de Torneo/3. Operaciones en los torneos",
+    "03. Reglas de Torneo/2. Roles en los torneos",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Giant Cobra sin cartas en la mano.md",
     "02. Habilidades de las cartas/Set 4 - Cartas.md",
-    "02. Habilidades de las cartas/Set 5 - Cartas.md",
-    "02. Habilidades de las cartas/Set 6 - Cartas.md",
     "02. Habilidades de las cartas/Set 7 - Cartas.md",
-    "02. Habilidades de las cartas/Set 8 - Cartas.md",
-    "2025-06-20.md",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva/4.6 Apuestas (Wagering).md",
-    "04. Reglas de Torneo",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de partida inapropiado (Improper Match Result).md",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva/4.4 Trampas (Cheating).md",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva/4.3 Conducta antideportiva – Severa (Unsporting – Severe).md",
-    "03_Guia_Correccion_Jugadas/04. Conducta antideportiva/_plantilla 1 2.md",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva/4.2 Conducta antideportiva – Mayor (Unsporting – Major).md",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva/_plantilla 1.md",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva/4.1 Conducta antideportiva – Menor.md",
-    "03. Guia de correccion de jugadas/03. Errores de torneo/_plantilla.md",
-    "03. Guia de correccion de jugadas/03. Errores de torneo/3.8 Asistencia externa (outside assistance).md",
-    "03. Guia de correccion de jugadas/03. Errores de torneo/3.7 Cartas marcadas (marked cards).md",
-    "03. Guia de correccion de jugadas/03. Errores de torneo/3.6 Error de comunicación e información (Information and communication error).md",
-    "01. Reglas/0. Glosario/desafiante (challenger).md",
-    "03. Guia de correccion de jugadas/03. Errores de torneo/3.5 Error en el formato Limited (Limited Error).md",
-    "03. Guia de correccion de jugadas/03. Errores de torneo/3.4 Error de mazo-registro mayor (Deck-Registration Error major).md",
-    "03. Guia de correccion de jugadas/04. Conducta antideportiva",
-    "03. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md",
-    "03. Guia de correccion de jugadas/03. Errores de torneo",
-    "03. Guia de correccion de jugadas/02. Errores de reglas",
-    "03. Guia de correccion de jugadas/01. Introduccion/1.3 Conjuntos ocultos (Hidden Sets)",
-    "03. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida",
-    "03. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas",
-    "03. Guia de correccion de jugadas/01. Introduccion",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones",
+    "03. Reglas de Torneo",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva",
     "imagenes/Pasted image 20250626090422.png",
     "imagenes/Pasted image 20250625151713.png",
     "imagenes/Pasted image 20250623100100.png",
