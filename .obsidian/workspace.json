@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.7. Concluir la llamada.md",
+                "file": "05. Consejos de jueces/8. El juez principal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.7. Concluir la llamada"
+              "title": "8. El juez principal"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.3.1 Por preponderancia de la evidencia.md",
+                "file": "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
                 "mode": "source",
                 "source": false
               },
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.7. Concluir la llamada.md",
+                "file": "05. Consejos de jueces/8. El juez principal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 6.7. Concluir la llamada"
+              "title": "Enlaces entrantes de 8. El juez principal"
             }
           },
           {
@@ -170,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +181,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "142934e953626319",
+  "active": "bc327d80f4414118",
   "lastOpenFiles": [
-    "05. Consejos de jueces/6. Cómo atender una llamada de Juez.md",
-    "6.6. Ejecutar las acciones correctivas.md",
-    "6.5. Comunicar el fallo.md",
-    "05. Consejos de jueces/6.4. Determinar reglas y políticas aplicables.md",
-    "6.3 Recabar los hechos.md",
-    "6.3.1 Por preponderancia de la evidencia.md",
-    "6.2 Registrar la hora.md",
-    "6.1 Evaluar la situación.md",
+    "05. Consejos de jueces/8.1 Finalidad.md",
+    "05. Consejos de jueces/9.7 Registro.md",
+    "05. Consejos de jueces/9.6 Comunicación del veredicto.md",
+    "05. Consejos de jueces/9.5 Consulta de documentos.md",
+    "05. Consejos de jueces/9.4 Deliberación.md",
+    "05. Consejos de jueces/9.3 Acotar el sentido de la apelación.md",
+    "05. Consejos de jueces/9.2 Explicar el proceso.md",
+    "05. Consejos de jueces/9.1 Confirmar los requisitos.md",
+    "05. Consejos de jueces/8. El juez principal.md",
+    "05. Consejos de jueces/8.3 Rebobinar (“Rewind”).md",
+    "05. Consejos de jueces/9. Apelaciones.md",
+    "05. Consejos de jueces/8.4 Delegación.md",
+    "05. Consejos de jueces/8.2 Desviación.md",
     "05. Consejos de jueces/7. Formatos de Torneo.md",
-    "01. Reglas/3. Juego (Gameplay)/3.2 Acabando el juego (Ending a Game).md",
-    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
-    "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.5 Concesiones y División de Resultados (Concessions and Splits).md",
-    "01. Reglas/7. Habilidades (abilities)/7.4.7.1 Habilidades disparadas flotantes (floating triggered abilities).md",
-    "01. Reglas/7. Habilidades (abilities)/7.8. Modificadores de Habilidad (Ability Modifiers).md",
-    "01. Reglas/1. Conceptos/1.10 Partidas multijugador (Multiplayer Games).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase).md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.4 Procedimiento de Partida (Match Procedure).md",
-    "01. Reglas/1. Conceptos/1.11 Acciones obligatorias.md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.4.1 Procedimiento de final de partida (end‑of‑match procedure).md",
-    "6.A Suplemento A - Cómo enfrentar el Cheat — «Trampa».md",
-    "6.B Suplemento B - Si cometes un error.md",
-    "6.8. Registrar la intervención.md",
-    "6.7. Concluir la llamada.md",
-    "9.1 Confirmar los requisitos.md",
-    "05. Consejos de jueces/5. Las reglas de Disney Lorcana.md",
+    "05. Consejos de jueces/6.1 Evaluar la situación.md",
+    "05. Consejos de jueces/6.4. Determinar reglas y políticas aplicables.md",
+    "05. Consejos de jueces/6. Cómo atender una llamada de Juez.md",
+    "05. Consejos de jueces/6.B Suplemento B - Si cometes un error.md",
+    "05. Consejos de jueces/6.A Suplemento A - Cómo enfrentar una trampa — «cheat».md",
+    "05. Consejos de jueces/6.6. Ejecutar las acciones correctivas.md",
+    "05. Consejos de jueces/6.5. Comunicar el fallo.md",
+    "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
+    "05. Consejos de jueces/6.8. Registrar la intervención.md",
+    "05. Consejos de jueces/6.7. Concluir la llamada.md",
+    "05. Consejos de jueces/6.3 Recabar los hechos.md",
+    "05. Consejos de jueces/6.2 Registrar la hora.md",
     "05. Consejos de jueces",
     "03. Reglas de Torneo/Sin nombre",
     "03. Reglas de Torneo/7. Límites de tiempo",
