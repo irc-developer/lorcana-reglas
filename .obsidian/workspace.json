@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/7. Habilidades (abilities)/7.1 General.md",
+                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6 Desafiar (Challenge).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 General"
+              "title": "4.3.6 Desafiar (Challenge)"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1.9.2",
+                "query": "aplaza",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/7. Habilidades (abilities)/7.1 General.md",
+                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6 Desafiar (Challenge).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 7.1 General"
+              "title": "Enlaces entrantes de 4.3.6 Desafiar (Challenge)"
             }
           },
           {
@@ -181,34 +181,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc327d80f4414118",
+  "active": "142934e953626319",
   "lastOpenFiles": [
-    "Acciones correctivas.canvas",
-    "05. Consejos de jueces/3. Como ser un juez de éxito.md",
-    "05. Consejos de jueces/8. El juez principal.md",
-    "05. Consejos de jueces/8.1 Finalidad.md",
-    "05. Consejos de jueces/9.7 Registro.md",
-    "05. Consejos de jueces/9.6 Comunicación del veredicto.md",
-    "05. Consejos de jueces/9.5 Consulta de documentos.md",
-    "05. Consejos de jueces/9.4 Deliberación.md",
-    "05. Consejos de jueces/9.3 Acotar el sentido de la apelación.md",
-    "05. Consejos de jueces/9.2 Explicar el proceso.md",
-    "05. Consejos de jueces/9.1 Confirmar los requisitos.md",
-    "05. Consejos de jueces/8.3 Rebobinar (“Rewind”).md",
-    "05. Consejos de jueces/9. Apelaciones.md",
-    "05. Consejos de jueces/8.4 Delegación.md",
-    "05. Consejos de jueces/8.2 Desviación.md",
-    "05. Consejos de jueces/7. Formatos de Torneo.md",
-    "05. Consejos de jueces/6.1 Evaluar la situación.md",
-    "05. Consejos de jueces/6.4. Determinar reglas y políticas aplicables.md",
-    "05. Consejos de jueces/6. Cómo atender una llamada de Juez.md",
-    "05. Consejos de jueces/6.B Suplemento B - Si cometes un error.md",
-    "05. Consejos de jueces/6.A Suplemento A - Cómo enfrentar una trampa — «cheat».md",
-    "05. Consejos de jueces/6.6. Ejecutar las acciones correctivas.md",
-    "05. Consejos de jueces/6.5. Comunicar el fallo.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.5 Irse de aventura (quest) y ganar puntos de leyenda (lore).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.8 Las acciones no están en el descarte.md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.6. Carta que provoca jugar otra carta.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
     "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
-    "05. Consejos de jueces/6.8. Registrar la intervención.md",
-    "05. Consejos de jueces/6.7. Concluir la llamada.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.2 Aclaraciones.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.3 Jugar una carta como tinta o entintar (Play a Card for Ink).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3. Fase principal (Main Phase).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.2 Orden.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.1 Acciones de turno.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Robar (Draw).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Preparar (Set).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.1 Enderezar (Ready).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.1. Fases (Phases).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4. Estructura del turno (Turn Structure).md",
+    "01. Reglas/3. Juego (Gameplay)/3.2 Acabando el juego (Ending a Game).md",
+    "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
+    "01. Reglas/3. Juego (Gameplay)/3. Juego (Gameplay).md",
+    "01. Reglas/2. Antes de comenzar/2.1.2 Registro de mazos (Decklist).md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md",
+    "01. Reglas/2. Antes de comenzar/2.1.1 Construcción legal.md",
+    "01. Reglas/2. Antes de comenzar/2.1 Reglas de los mazos (Deck Rules).md",
+    "01. Reglas/2. Antes de comenzar/2. Antes de comenzar.md",
+    "Acciones correctivas.canvas",
     "05. Consejos de jueces",
     "03. Reglas de Torneo/Sin nombre",
     "03. Reglas de Torneo/7. Límites de tiempo",
