@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Consejos de jueces/8. El juez principal.md",
+                "file": "01. Reglas/7. Habilidades (abilities)/7.1 General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. El juez principal"
+              "title": "7.1 General"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05. Consejos de jueces/8. El juez principal.md",
+                "file": "01. Reglas/7. Habilidades (abilities)/7.1 General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 8. El juez principal"
+              "title": "Enlaces entrantes de 7.1 General"
             }
           },
           {
@@ -183,6 +183,9 @@
   },
   "active": "bc327d80f4414118",
   "lastOpenFiles": [
+    "Acciones correctivas.canvas",
+    "05. Consejos de jueces/3. Como ser un juez de éxito.md",
+    "05. Consejos de jueces/8. El juez principal.md",
     "05. Consejos de jueces/8.1 Finalidad.md",
     "05. Consejos de jueces/9.7 Registro.md",
     "05. Consejos de jueces/9.6 Comunicación del veredicto.md",
@@ -191,7 +194,6 @@
     "05. Consejos de jueces/9.3 Acotar el sentido de la apelación.md",
     "05. Consejos de jueces/9.2 Explicar el proceso.md",
     "05. Consejos de jueces/9.1 Confirmar los requisitos.md",
-    "05. Consejos de jueces/8. El juez principal.md",
     "05. Consejos de jueces/8.3 Rebobinar (“Rewind”).md",
     "05. Consejos de jueces/9. Apelaciones.md",
     "05. Consejos de jueces/8.4 Delegación.md",
@@ -207,8 +209,6 @@
     "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
     "05. Consejos de jueces/6.8. Registrar la intervención.md",
     "05. Consejos de jueces/6.7. Concluir la llamada.md",
-    "05. Consejos de jueces/6.3 Recabar los hechos.md",
-    "05. Consejos de jueces/6.2 Registrar la hora.md",
     "05. Consejos de jueces",
     "03. Reglas de Torneo/Sin nombre",
     "03. Reglas de Torneo/7. Límites de tiempo",

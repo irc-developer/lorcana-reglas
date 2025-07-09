@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e2ae40d40f2687fd","x":680,"y":-800,"width":400,"height":400,"type":"file","file":"04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Advertencia menor (Caution).md"},
+		{"id":"57d63d5b9cce15c4","x":680,"y":-240,"width":400,"height":400,"type":"file","file":"04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Descalificación (Disqualification).md"},
+		{"id":"0cabf4b98ac5b47d","x":1280,"y":-800,"width":400,"height":400,"type":"file","file":"04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Emparejamiento perdido (Match Loss).md"},
+		{"id":"6925592b10b7897e","x":1280,"y":-240,"width":400,"height":400,"type":"file","file":"04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Pérdida de partida (Game Loss).md"},
+		{"id":"f1e3d53d31953785","x":20,"y":-800,"width":400,"height":400,"type":"file","file":"04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Advertencia (Warning).md"},
+		{"id":"0f91ff5b88048361","x":1080,"y":-1360,"width":440,"height":320,"type":"file","file":"04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Acciones correctivas compensadas (offsetting corrective actions).md"},
+		{"id":"3f197e7e9d97c67a","x":320,"y":-1360,"width":400,"height":320,"type":"file","file":"04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/1.1 Acciones correctivas.md"}
+	],
+	"edges":[]
+}
