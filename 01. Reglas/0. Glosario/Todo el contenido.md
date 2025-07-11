@@ -78,7 +78,7 @@
 
   
 
-[[Personaje desafiante y Desafiado (challenging and challenged character)]]
+[[Personaje desafiante y desafiado (challenging and challenged character)]]
 
   
 

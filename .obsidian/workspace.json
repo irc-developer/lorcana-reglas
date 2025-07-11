@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6 Desafiar (Challenge).md",
+                "file": "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3.6 Desafiar (Challenge)"
+              "title": "Plantilla de actuación arbitral – Disney Lorcana"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aplaza",
+                "query": "tarde",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6 Desafiar (Challenge).md",
+                "file": "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 4.3.6 Desafiar (Challenge)"
+              "title": "Enlaces entrantes de Plantilla de actuación arbitral – Disney Lorcana"
             }
           },
           {
@@ -183,32 +183,34 @@
   },
   "active": "142934e953626319",
   "lastOpenFiles": [
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.5 Irse de aventura (quest) y ganar puntos de leyenda (lore).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.8 Las acciones no están en el descarte.md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.6. Carta que provoca jugar otra carta.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
-    "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.2 Aclaraciones.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.3 Jugar una carta como tinta o entintar (Play a Card for Ink).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3. Fase principal (Main Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.2 Orden.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.1 Acciones de turno.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Robar (Draw).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Preparar (Set).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.1 Enderezar (Ready).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.1. Fases (Phases).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4. Estructura del turno (Turn Structure).md",
-    "01. Reglas/3. Juego (Gameplay)/3.2 Acabando el juego (Ending a Game).md",
-    "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
-    "01. Reglas/3. Juego (Gameplay)/3. Juego (Gameplay).md",
-    "01. Reglas/2. Antes de comenzar/2.1.2 Registro de mazos (Decklist).md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Diferencias regionales - NA vs EU.md",
+    "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Sin título 1.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Lecciones personales del juez.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/1.- Informe de juez – Worlds 2025 Lecciones aplicables - Por GooglyGlimmers.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Organización del equipo arbitral.md",
+    "04. Guia de correccion de jugadas/03. Errores de torneo/3.1 Retraso (Tardiness).md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Missed Triggers - caso práctico.md",
+    "05. Consejos de jueces/6.A Suplemento A - Cómo enfrentar una trampa — «cheat».md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Jueces en stream - cobertura remota.md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.6 Espectador (Spectator).md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Sin título 3.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Sin título 2.md",
     "03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md",
-    "01. Reglas/2. Antes de comenzar/2.1.1 Construcción legal.md",
-    "01. Reglas/2. Antes de comenzar/2.1 Reglas de los mazos (Deck Rules).md",
-    "01. Reglas/2. Antes de comenzar/2. Antes de comenzar.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025",
+    "06. Reviews de jueces en torneos",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.2 Torneos Competitivos (Competitive).md",
+    "05. Consejos de jueces/1. Introducción.md",
+    "05. Consejos de jueces/2. El rol del Juez.md",
+    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+    "01. Reglas/1. Conceptos/1.11 Acciones obligatorias.md",
+    "04. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md",
+    "04. Guia de correccion de jugadas/03. Errores de torneo/3.2 Juego lento (slow play).md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.4 Trampas (Cheating).md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.3 Conducta antideportiva – Severa (Unsporting – Severe).md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.2 Conducta antideportiva – Mayor (Unsporting – Major).md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.1 Conducta antideportiva – Menor.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6 Desafiar (Challenge).md",
     "Acciones correctivas.canvas",
     "05. Consejos de jueces",
     "03. Reglas de Torneo/Sin nombre",
@@ -218,8 +220,6 @@
     "03. Reglas de Torneo/4. Información y comunicación",
     "03. Reglas de Torneo/3. Operaciones en los torneos",
     "03. Reglas de Torneo/2. Roles en los torneos",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos",
-    "03. Reglas de Torneo",
     "imagenes/Pasted image 20250626090422.png",
     "imagenes/Pasted image 20250625151713.png",
     "imagenes/Pasted image 20250623100100.png",
