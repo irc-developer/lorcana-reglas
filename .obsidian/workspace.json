@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "142934e953626319",
+            "id": "4bd7613f3c48d7a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
+                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.1. Fases (Phases).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla de actuación arbitral – Disney Lorcana"
-            }
-          },
-          {
-            "id": "4ab0bbb843ff00fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.3.1 Por preponderancia de la evidencia"
+              "title": "4.1. Fases (Phases)"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tarde",
+                "query": "step",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
+                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.1. Fases (Phases).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Plantilla de actuación arbitral – Disney Lorcana"
+              "title": "Enlaces entrantes de 4.1. Fases (Phases)"
             }
           },
           {
@@ -181,53 +168,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "142934e953626319",
+  "active": "03d66043e610aaaa",
   "lastOpenFiles": [
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Diferencias regionales - NA vs EU.md",
+    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Preparar (Set).md",
+    "07. Gestión de Aplicación Carde.io/Cómo unirse y participar en un evento.md",
+    "01. Reglas/10. Palabras clave (Keywords)/10.11. Apoyo (Support).md",
+    "01. Reglas/10. Palabras clave (Keywords)/10.11.1. Definición.md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md",
+    "01. Reglas/0. Glosario/Jugador inicial (starting player).md",
+    "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
+    "07. Gestión de Aplicación Carde.io/Índice - Organización de torneos con Carde.md",
+    "07. Gestión de Aplicación Carde.io/Cómo crear y gestionar un evento de torneo suizo (Swiss).md",
+    "07. Gestión de Aplicación Carde.io/Cómo crear un evento de torneo en el panel de administración.md",
+    "07. Gestión de Aplicación Carde.io/Cómo añadir un menor a una cuenta.md",
+    "07. Gestión de Aplicación Carde.io/Imprimir clasificaciones y emparejamientos.md",
+    "07. Gestión de Aplicación Carde.io/Cómo gestionar el Top Cut.md",
+    "07. Gestión de Aplicación Carde.io/Cómo volver a emparejar jugadores (Re-pair).md",
+    "07. Gestión de Aplicación Carde.io/5. Cómo unirse y participar en un evento.md",
+    "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.5 Concesiones y División de Resultados (Concessions and Splits).md",
+    "imagenes/Pasted image 20250623100027.png",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo15.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 730999.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo14.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 349071.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo13.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 268038.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo12.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 592858.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo11.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 604785.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo11.webp",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 601171.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo10.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 691264.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo9.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 237652.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo8.jpeg",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 58756.crdownload",
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 6072.crdownload",
+    "Acciones correctivas.canvas",
     "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Diferencias regionales - NA vs EU.md",
     "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Sin título 1.md",
     "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Lecciones personales del juez.md",
     "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/1.- Informe de juez – Worlds 2025 Lecciones aplicables - Por GooglyGlimmers.md",
     "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Organización del equipo arbitral.md",
-    "04. Guia de correccion de jugadas/03. Errores de torneo/3.1 Retraso (Tardiness).md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Missed Triggers - caso práctico.md",
-    "05. Consejos de jueces/6.A Suplemento A - Cómo enfrentar una trampa — «cheat».md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Jueces en stream - cobertura remota.md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.6 Espectador (Spectator).md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Sin título 3.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Sin título 2.md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025",
-    "06. Reviews de jueces en torneos",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.2 Torneos Competitivos (Competitive).md",
-    "05. Consejos de jueces/1. Introducción.md",
-    "05. Consejos de jueces/2. El rol del Juez.md",
-    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
-    "01. Reglas/1. Conceptos/1.11 Acciones obligatorias.md",
-    "04. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md",
-    "04. Guia de correccion de jugadas/03. Errores de torneo/3.2 Juego lento (slow play).md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.4 Trampas (Cheating).md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.3 Conducta antideportiva – Severa (Unsporting – Severe).md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.2 Conducta antideportiva – Mayor (Unsporting – Major).md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.1 Conducta antideportiva – Menor.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6 Desafiar (Challenge).md",
-    "Acciones correctivas.canvas",
-    "05. Consejos de jueces",
-    "03. Reglas de Torneo/Sin nombre",
-    "03. Reglas de Torneo/7. Límites de tiempo",
-    "03. Reglas de Torneo/6. Formatos de torneos - Limitado",
-    "03. Reglas de Torneo/5. Formatos de torneos - Construido",
-    "03. Reglas de Torneo/4. Información y comunicación",
-    "03. Reglas de Torneo/3. Operaciones en los torneos",
-    "03. Reglas de Torneo/2. Roles en los torneos",
-    "imagenes/Pasted image 20250626090422.png",
-    "imagenes/Pasted image 20250625151713.png",
-    "imagenes/Pasted image 20250623100100.png",
-    "imagenes/Pasted image 20250625111335.png",
-    "imagenes/Pasted image 20250623100027.png",
-    "imagenes/Pasted image 20250622224318.png",
-    "01. Reglas/0. Glosario/elsaicemaker.png",
-    "imagenes/Pasted image 20250622220405.png",
-    "imagenes/Pasted image 20250622213135.png"
+    "04. Guia de correccion de jugadas/03. Errores de torneo/3.1 Retraso (Tardiness).md"
   ]
 }
