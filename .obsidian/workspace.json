@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8040ea829ef4e599",
+        "id": "bb6286b07bbfa22a",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd7613f3c48d7a5",
+            "id": "ab6a92b7d818e6bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.1. Fases (Phases).md",
+                "file": "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1. Fases (Phases)"
+              "title": "7.1.2.1. Tipo (A)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "step",
+                "query": "cláusulas",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.1. Fases (Phases).md",
+                "file": "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 4.1. Fases (Phases)"
+              "title": "Enlaces entrantes de 7.1.2.1. Tipo (A)"
             }
           },
           {
@@ -168,27 +167,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "03d66043e610aaaa",
+  "active": "bc327d80f4414118",
   "lastOpenFiles": [
-    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Preparar (Set).md",
-    "07. Gestión de Aplicación Carde.io/Cómo unirse y participar en un evento.md",
-    "01. Reglas/10. Palabras clave (Keywords)/10.11. Apoyo (Support).md",
-    "01. Reglas/10. Palabras clave (Keywords)/10.11.1. Definición.md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md",
-    "01. Reglas/0. Glosario/Jugador inicial (starting player).md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.  Tipos de Cláusulas.md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.1. Cláusula.md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.4. Tipo (A) and (B).md",
+    "01. Reglas/6. Tipos de carta (Card types)/6.2. Partes de una carta (Parts of a Card).md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.3. Tipo (A) then (B).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cumplir parte de una habilidad.md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.2. Tipo A para B (A to B).md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
+    "01. Reglas/8. Zonas (Zones)/8.6. Descarte (Discard).md",
+    "01. Reglas/8. Zonas (Zones)/8.6.4. Orden de las cartas en el descarte.md",
+    "01. Reglas/1. Conceptos/1.10 Partidas multijugador (Multiplayer Games).md",
     "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
-    "07. Gestión de Aplicación Carde.io/Índice - Organización de torneos con Carde.md",
-    "07. Gestión de Aplicación Carde.io/Cómo crear y gestionar un evento de torneo suizo (Swiss).md",
-    "07. Gestión de Aplicación Carde.io/Cómo crear un evento de torneo en el panel de administración.md",
-    "07. Gestión de Aplicación Carde.io/Cómo añadir un menor a una cuenta.md",
-    "07. Gestión de Aplicación Carde.io/Imprimir clasificaciones y emparejamientos.md",
-    "07. Gestión de Aplicación Carde.io/Cómo gestionar el Top Cut.md",
-    "07. Gestión de Aplicación Carde.io/Cómo volver a emparejar jugadores (Re-pair).md",
-    "07. Gestión de Aplicación Carde.io/5. Cómo unirse y participar en un evento.md",
-    "05. Consejos de jueces/6.3.1 Por preponderancia de la evidencia.md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.5 Concesiones y División de Resultados (Concessions and Splits).md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.4 Procedimiento de Partida (Match Procedure).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.2 Orden.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.2 Aclaraciones.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
+    "01. Reglas/1. Conceptos/1.5 Jugar cartas (Playing Cards).md",
+    "01. Reglas/7. Habilidades (abilities)/7.2. Cartas de Acción (Action Cards).md",
+    "04. Guia de correccion de jugadas/05. Consejos generales/Manipulación social y empujes en torneos.md",
+    "04. Guia de correccion de jugadas/05. Consejos generales/Juego descuidado - responsabilidad del jugador.md",
+    "04. Guia de correccion de jugadas/05. Consejos generales/Triggers omitidos y 'afectar al estado de juego'.md",
+    "04. Guia de correccion de jugadas/05. Consejos generales/Evaluar si rebobinar cambia decisiones significativas.md",
+    "04. Guia de correccion de jugadas/05. Consejos generales/Causa raíz y corrección apropiada (GRE).md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.2 Mínimo de Rondas (Round Minimums).md",
+    "04. Guia de correccion de jugadas/05. Consejos generales",
+    "05. Consejos de jueces/4. Fraternización.md",
     "imagenes/Pasted image 20250623100027.png",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo15.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 730999.crdownload",
@@ -208,14 +215,6 @@
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 237652.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo8.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 58756.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 6072.crdownload",
-    "Acciones correctivas.canvas",
-    "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Diferencias regionales - NA vs EU.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Sin título 1.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Lecciones personales del juez.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/1.- Informe de juez – Worlds 2025 Lecciones aplicables - Por GooglyGlimmers.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Organización del equipo arbitral.md",
-    "04. Guia de correccion de jugadas/03. Errores de torneo/3.1 Retraso (Tardiness).md"
+    "Acciones correctivas.canvas"
   ]
 }

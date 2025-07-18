@@ -1,0 +1,3 @@
+En errores de juego (Gameplay Rules Error - GRE), no siempre es útil castigar solo el error superficial. A veces lo más justo es identificar **la causa raíz**: ¿qué decisión inicial llevó a que todo se desordenara?
+
+Un ejemplo típico es una **secuenciación incorrecta** del jugador activo que deriva en múltiples efectos mal ejecutados. En estos casos, lo correcto es analizar si se puede aplicar un **rebobinado del estado de juego (rewind)** o si se debe aceptar el estado actual (_accepted game state_), basándose en el impacto que tendría revertir.
