@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1.2.1. Tipo (A)"
+              "title": "GSC y habilidades que dañan"
+            }
+          },
+          {
+            "id": "9ff19988036a9b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 6 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 6 - Cartas"
+            }
+          },
+          {
+            "id": "d59de5abf5013b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 8 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 8 - Cartas"
+            }
+          },
+          {
+            "id": "10b8ed0e1d20b429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 7 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 7 - Cartas"
             }
           }
         ]
@@ -53,8 +95,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cláusulas",
-                "matchingCase": false,
+                "query": "estado del juego",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -74,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 7.1.2.1. Tipo (A)"
+              "title": "Enlaces entrantes de GSC y habilidades que dañan"
             }
           },
           {
@@ -155,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,35 +210,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc327d80f4414118",
+  "active": "ab6a92b7d818e6bb",
   "lastOpenFiles": [
-    "01. Reglas/7. Habilidades (abilities)/7.1.2.  Tipos de Cláusulas.md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.1. Cláusula.md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.2.4. Tipo (A) and (B).md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.2. Partes de una carta (Parts of a Card).md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.2.3. Tipo (A) then (B).md",
+    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cumplir parte de una habilidad.md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.2.2. Tipo A para B (A to B).md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
-    "01. Reglas/8. Zonas (Zones)/8.6. Descarte (Discard).md",
-    "01. Reglas/8. Zonas (Zones)/8.6.4. Orden de las cartas en el descarte.md",
-    "01. Reglas/1. Conceptos/1.10 Partidas multijugador (Multiplayer Games).md",
-    "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.4 Procedimiento de Partida (Match Procedure).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.2 Orden.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.2 Aclaraciones.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
-    "01. Reglas/1. Conceptos/1.5 Jugar cartas (Playing Cards).md",
-    "01. Reglas/7. Habilidades (abilities)/7.2. Cartas de Acción (Action Cards).md",
-    "04. Guia de correccion de jugadas/05. Consejos generales/Manipulación social y empujes en torneos.md",
-    "04. Guia de correccion de jugadas/05. Consejos generales/Juego descuidado - responsabilidad del jugador.md",
-    "04. Guia de correccion de jugadas/05. Consejos generales/Triggers omitidos y 'afectar al estado de juego'.md",
-    "04. Guia de correccion de jugadas/05. Consejos generales/Evaluar si rebobinar cambia decisiones significativas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje rete... ocurren cosas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos.md",
+    "02. Habilidades de las cartas/Set 7 - Cartas.md",
+    "02. Habilidades de las cartas/Set 6 - Cartas.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6.2. Paso de daño por reto (Challenge Damage Step).md",
+    "02. Habilidades de las cartas/Set 8 - Cartas.md",
+    "02. Habilidades de las cartas/Set 5 - Cartas.md",
+    "02. Habilidades de las cartas/Set 4 - Cartas.md",
+    "02. Habilidades de las cartas/Set 1 - Cartas.md",
+    "04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/1.- Informe de juez – Worlds 2025 Lecciones aplicables - Por GooglyGlimmers.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Diferencias regionales - NA vs EU.md",
+    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Lecciones personales del juez.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md",
+    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Advertencia (Warning).md",
+    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/1.1 Acciones correctivas.md",
+    "01. Reglas/5. Cartas (cards)/5.1. Estados (Conditions).md",
+    "01. Reglas/5. Cartas (cards)/5. Cartas (cards).md",
+    "01. Reglas/0. Glosario/Pozo de tinta (inkwell).md",
+    "04. Guia de correccion de jugadas/01. Introduccion/1. Introducción.md",
     "04. Guia de correccion de jugadas/05. Consejos generales/Causa raíz y corrección apropiada (GRE).md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.2 Mínimo de Rondas (Round Minimums).md",
+    "04. Guia de correccion de jugadas/05. Consejos generales/Triggers omitidos y 'afectar al estado de juego'.md",
+    "Acciones correctivas.canvas",
+    "imagenes/conductaantideportiva1.png",
     "04. Guia de correccion de jugadas/05. Consejos generales",
-    "05. Consejos de jueces/4. Fraternización.md",
     "imagenes/Pasted image 20250623100027.png",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo15.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 730999.crdownload",
@@ -213,8 +258,6 @@
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 691264.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo9.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 237652.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo8.jpeg",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 58756.crdownload",
-    "Acciones correctivas.canvas"
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 58756.crdownload"
   ]
 }

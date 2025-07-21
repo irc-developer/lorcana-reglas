@@ -396,8 +396,6 @@ SHINING EXAMPLE Whenever this character quests, your other Fairy characters get 
 
 ---
 
-  
-
  ### [[Diablo - Obedient Raven]]
 
 FLY, MY PET! When this character is banished, you may draw a card.
