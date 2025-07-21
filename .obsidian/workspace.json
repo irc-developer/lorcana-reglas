@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab6a92b7d818e6bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GSC y habilidades que dañan"
-            }
-          },
-          {
             "id": "9ff19988036a9b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Habilidades de las cartas/Set 6 - Cartas.md",
+                "file": "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 Comenzando el juego (Starting a Game)"
+            }
+          },
+          {
+            "id": "e9b5939de5ae6b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 1 - Cartas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set 6 - Cartas"
+              "title": "Set 1 - Cartas"
+            }
+          },
+          {
+            "id": "de4ccb689e40a3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 5 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 5 - Cartas"
             }
           },
           {
@@ -95,8 +109,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estado del juego",
-                "matchingCase": true,
+                "query": "BO3",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -116,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
+                "file": "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de GSC y habilidades que dañan"
+              "title": "Enlaces entrantes de 3.1 Comenzando el juego (Starting a Game)"
             }
           },
           {
@@ -210,53 +223,51 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ab6a92b7d818e6bb",
+  "active": "bc327d80f4414118",
   "lastOpenFiles": [
-    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cumplir parte de una habilidad.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje rete... ocurren cosas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos.md",
-    "02. Habilidades de las cartas/Set 7 - Cartas.md",
-    "02. Habilidades de las cartas/Set 6 - Cartas.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6.2. Paso de daño por reto (Challenge Damage Step).md",
     "02. Habilidades de las cartas/Set 8 - Cartas.md",
-    "02. Habilidades de las cartas/Set 5 - Cartas.md",
-    "02. Habilidades de las cartas/Set 4 - Cartas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase).md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.4.1 Procedimiento de final de partida (end‑of‑match procedure).md",
+    "01. Reglas/10. Palabras clave (Keywords)/10.5.3. No puede estar lista al final del turno (estática).md",
+    "01. Reglas/0. Glosario/Fase de final de turno (End of Turn Phase).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje rete... ocurren cosas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Be Prepared y devolver personajes a la mano.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Sin título.md",
+    "07. Gestión de Aplicación Carde.io/Reportar el resultado de una ronda.md",
+    "imagenes/encuentro4.png",
+    "02. Habilidades de las cartas/Set 6 - Cartas.md",
     "02. Habilidades de las cartas/Set 1 - Cartas.md",
+    "Maleficent - Monstrous Dragon.md",
+    "02. Habilidades de las cartas/Set 5 - Cartas.md",
+    "01. Reglas/7. Habilidades (abilities)/7.4.4 Condición de activación C1 si C2 entonces E.md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
+    "01. Reglas/0. Glosario/Acción de turno (turn action).md",
+    "imagenes/encuentro1.png",
+    "imagenes/encuentro2.png",
+    "imagenes/encuentro3.png",
+    "Imagen de WhatsApp 2025-07-20 a las 11.28.34_87690bc1.jpg",
+    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+    "02. Habilidades de las cartas/Set 7 - Cartas.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6.2. Paso de daño por reto (Challenge Damage Step).md",
+    "02. Habilidades de las cartas/Set 4 - Cartas.md",
     "04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md",
     "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/1.- Informe de juez – Worlds 2025 Lecciones aplicables - Por GooglyGlimmers.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Diferencias regionales - NA vs EU.md",
-    "06. Reviews de jueces en torneos/Disney Lorcana World Championship 06272025/Lecciones personales del juez.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md",
-    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Advertencia (Warning).md",
-    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/1.1 Acciones correctivas.md",
-    "01. Reglas/5. Cartas (cards)/5.1. Estados (Conditions).md",
-    "01. Reglas/5. Cartas (cards)/5. Cartas (cards).md",
-    "01. Reglas/0. Glosario/Pozo de tinta (inkwell).md",
-    "04. Guia de correccion de jugadas/01. Introduccion/1. Introducción.md",
-    "04. Guia de correccion de jugadas/05. Consejos generales/Causa raíz y corrección apropiada (GRE).md",
-    "04. Guia de correccion de jugadas/05. Consejos generales/Triggers omitidos y 'afectar al estado de juego'.md",
     "Acciones correctivas.canvas",
     "imagenes/conductaantideportiva1.png",
     "04. Guia de correccion de jugadas/05. Consejos generales",
     "imagenes/Pasted image 20250623100027.png",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo15.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 730999.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo14.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 349071.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo13.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 268038.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo12.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 592858.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo11.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 604785.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo11.webp",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 601171.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo10.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 691264.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/suizo9.jpeg",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 237652.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 58756.crdownload"
   ]

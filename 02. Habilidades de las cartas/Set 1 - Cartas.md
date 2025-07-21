@@ -952,7 +952,7 @@ YOU COWARD! While this character is exerted, opposing characters with Evasive ga
 
   
 
- ### [[Maleficent - Monstrous Dragon]]
+### [[Maleficent - Monstrous Dragon]]
 
  DRAGON FIRE When you play this character, you may banish chosen character.
 
@@ -1076,7 +1076,7 @@ ROUSING SPEECH When you play this character, ready your characters with cost 3 o
 
   
 
- ### [[Be Prepared - undefined]]
+### [[Be Prepared]]
 
  (A character with cost 7 or more can {E} to sing this song for free.)
 

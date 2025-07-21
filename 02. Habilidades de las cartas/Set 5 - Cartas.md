@@ -838,7 +838,7 @@ EXTRACT OF EMERALD 2 {I}, Banish this item — Your characters gain Ward until t
 
   
 
- ### [[Emerald Chromicon]]
+### Emerald Chromicon
 
 EMERALD LIGHT During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand.
 
