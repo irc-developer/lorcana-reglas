@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inicio.md",
+                "file": "inicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inicio"
+              "title": "inicio"
             }
           },
           {
@@ -130,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inicio.md",
+                "file": "inicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Inicio"
+              "title": "Enlaces entrantes de inicio"
             }
           },
           {
@@ -226,10 +225,12 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "03d66043e610aaaa",
+  "active": "bc327d80f4414118",
   "lastOpenFiles": [
+    "imagenes/icono_tmp10765",
     "Acciones correctivas.canvas",
-    "Inicio.md",
+    "inicio.md",
+    "imagenes/icono.png",
     "publish.css.md",
     "02. Habilidades de las cartas/Set 1 - Cartas.md",
     "Minnie Mouse - Drum Major.md",
