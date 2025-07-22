@@ -238,7 +238,7 @@ Remove up to 3 damage from each of your characters.
 
   
 
-### [[Just in Time - undefined]]
+### [[Just in Time]]
 
  You may play a character with cost 5 or less for free.
 

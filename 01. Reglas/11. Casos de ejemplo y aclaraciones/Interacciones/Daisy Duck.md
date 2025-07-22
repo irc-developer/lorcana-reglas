@@ -1,8 +1,5 @@
 ### Duda
-Mi oponente questea con su Daisy duck. Yo revelo un personaje ¿Puedo dejarlo en la parte superior del mazo?
-
-![[Pasted image 20250626090422.png]]
-
+Mi oponente se va de aventura con su [[Set 5 - Cartas#Daisy Duck - Donald's Date]] y revelo un personaje ¿Puedo dejarlo en la parte superior del mazo?
 ### Respuesta
 Depende a quien le preguntes. Como programador actualmente pienso que la equivalencia sería:
 
@@ -17,8 +14,3 @@ Aunque no hay reglas que soporten esto. Tampoco hay aclaración oficial. Todo es
 [[Set 2 - Cartas#Mulan - Reflecting]]
 [[Set 3 - Cartas#Pongo - Determined Father]]
 [[Set 6 - Cartas#Oswald - The Lucky Rabbit]]
-### Reglas implicadas:
-- 
-
-### Referencias
-??

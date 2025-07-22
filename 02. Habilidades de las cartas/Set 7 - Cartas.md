@@ -519,9 +519,7 @@ Vanish (When an opponent chooses this character for an action, banish them.)
 
 ---
 
-  
-
- ### [[Kronk - Laid Back]]
+### [[Kronk - Laid Back]]
 
 Ward (Opponents can't choose this character except to challenge.)
 

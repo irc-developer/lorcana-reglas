@@ -92,7 +92,7 @@ BUILDING TOGETHER Your locations get +2 {W}.
 
   
 
- ### [[Kristoff - Reindeer Keeper]]
+### [[Kristoff - Reindeer Keeper]]
 
 SONG OF THE HERD For each song card in your discard, you pay 1 {I} less to play this character.
 
@@ -102,7 +102,7 @@ Bodyguard (This character may enter play exerted. An opposing character who chal
 
   
 
- ### [[Mirabel Madrigal - Family Gatherer]]
+### [[Mirabel Madrigal - Family Gatherer]]
 
 NOT WITHOUT MY FAMILY You can't play this character unless you have 5 or more characters in play.
 
@@ -118,9 +118,8 @@ PARADE ORDER When you play this character, if you used Shift to play her, you ma
 
 ---
 
-  
 
- ### [[Daisy Duck - Donald's Date]]
+### [[Daisy Duck - Donald's Date]]
 
 BIG PRIZE Whenever this character quests, each opponent reveals the top card of their deck. If it's a character card, they may put it into their hand. Otherwise, they put it on the bottom of their deck.
 
@@ -128,7 +127,7 @@ BIG PRIZE Whenever this character quests, each opponent reveals the top card of 
 
   
 
- ### [[Fix-It Felix, Jr. - Delighted Sightseer]]
+### [[Fix-It Felix, Jr. - Delighted Sightseer]]
 
 OH, MY LAND! When you play this character, if you have a location in play, draw a card.
 
