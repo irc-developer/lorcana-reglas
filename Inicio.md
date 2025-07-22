@@ -11,7 +11,6 @@ Este sitio está diseñado para ayudar a **jugadores, juezas y organizadores** d
 ### 🔎 Reglas Oficiales en Español
 > Traducción íntegra y adaptada del reglamento oficial de Lorcana. Ideal para jugadores competitivos o quienes están aprendiendo.
 
-➡ [[Reglas de Disney Lorcana]]
 
 ---
 

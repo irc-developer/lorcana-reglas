@@ -1,0 +1,178 @@
+/* Tipografía general */
+body {
+  font-family: "Nunito", "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  background-color: #fefcf9;
+  color: #2b2b2b;
+  padding: 0 1rem;
+}
+
+/* Encabezados */
+h1, h2, h3, h4 {
+  font-family: "Nunito", "Segoe UI", sans-serif;
+  font-weight: 700;
+  color: #5b21b6; /* Púrpura elegante */
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 2.2rem;
+  border-bottom: 2px solid #c4b5fd;
+  padding-bottom: 0.3rem;
+}
+h2 {
+  font-size: 1.7rem;
+  border-bottom: 1px dashed #ddd6fe;
+}
+h3 {
+  font-size: 1.4rem;
+}
+h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+/* Enlaces */
+a {
+  color: #2563eb;
+  text-decoration: underline dotted;
+}
+a:hover {
+  color: #1e40af;
+}
+
+/* Código y preformateado */
+pre code {
+  display: block;
+  background-color: #f3f4f6;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-family: "Fira Code", monospace;
+  font-size: 0.95rem;
+  color: #111827;
+}
+
+/* Citas */
+blockquote {
+  border-left: 4px solid #a78bfa;
+  background-color: #f5f3ff;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  color: #4b5563;
+}
+
+/* Tablas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+th, td {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 0.75rem;
+}
+th {
+  background-color: #ede9fe;
+  font-weight: bold;
+}
+
+/* Navegación lateral */
+.nav-folder-title-content {
+  font-weight: 600;
+  color: #5b21b6;
+}
+
+.nav-file-title-content:hover {
+  background-color: #ede9fe;
+  border-radius: 5px;
+}
+
+/* Ajuste para móvil */
+@media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+}
+
+/* Bonus: bordes suaves y contenedores */
+.markdown-preview-view {
+  max-width: 800px;
+  margin: auto;
+  padding-bottom: 3rem;
+}
+
+/* ===========================
+   🌙 Estilos para modo oscuro
+   =========================== */
+body.theme-dark {
+  background-color: #1e1e2e;
+  color: #e0e0e0;
+}
+
+/* Encabezados */
+body.theme-dark h1,
+body.theme-dark h2,
+body.theme-dark h3,
+body.theme-dark h4 {
+  color: #c4b5fd;
+}
+body.theme-dark h1 {
+  border-bottom: 2px solid #7c3aed;
+}
+body.theme-dark h2 {
+  border-bottom: 1px dashed #a78bfa;
+}
+
+/* Enlaces */
+body.theme-dark a {
+  color: #93c5fd;
+}
+body.theme-dark a:hover {
+  color: #60a5fa;
+}
+
+/* Código */
+body.theme-dark pre code {
+  background-color: #2a2a40;
+  color: #e0e0e0;
+}
+
+/* Blockquotes */
+body.theme-dark blockquote {
+  border-left: 4px solid #a78bfa;
+  background-color: #2e1f4e;
+  color: #d1d5db;
+}
+
+/* Tablas */
+body.theme-dark table {
+  border-color: #4b5563;
+}
+body.theme-dark th {
+  background-color: #3f3cbb;
+  color: #fefefe;
+}
+body.theme-dark td {
+  background-color: #2b2b40;
+}
+
+/* Navegación lateral */
+body.theme-dark .nav-folder-title-content {
+  color: #c4b5fd;
+}
+body.theme-dark .nav-file-title-content:hover {
+  background-color: #3f3cbb;
+}
+
+/* Markdown container */
+body.theme-dark .markdown-preview-view {
+  background-color: transparent;
+}
+
+

@@ -130,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,13 +222,16 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "publish:Publicar cambios": false
     }
   },
-  "active": "bc327d80f4414118",
+  "active": "03d66043e610aaaa",
   "lastOpenFiles": [
-    "02. Habilidades de las cartas/Set 1 - Cartas.md",
+    "Acciones correctivas.canvas",
     "Inicio.md",
+    "publish.css.md",
+    "02. Habilidades de las cartas/Set 1 - Cartas.md",
     "Minnie Mouse - Drum Major.md",
     "Kronk - Laid Back.md",
     "Maleficent - Monstrous Dragon.md",
@@ -250,14 +254,11 @@
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al final del turno'.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje rete... ocurren cosas.md",
-    "01. Reglas/3. Juego (Gameplay)/3.1 Comenzando el juego (Starting a Game).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cumplir parte de una habilidad.md",
     "imagenes/encuentro4.png",
     "imagenes/encuentro1.png",
     "imagenes/encuentro2.png",
     "imagenes/encuentro3.png",
     "Imagen de WhatsApp 2025-07-20 a las 11.28.34_87690bc1.jpg",
-    "Acciones correctivas.canvas",
     "imagenes/conductaantideportiva1.png",
     "04. Guia de correccion de jugadas/05. Consejos generales",
     "imagenes/Pasted image 20250623100027.png",
