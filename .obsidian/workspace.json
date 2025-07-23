@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f204c308622a3801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "inicio"
-            }
-          },
-          {
-            "id": "5ffe82ec8ea23e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.3.4.1 Requisitos para jugar una carta"
-            }
-          },
-          {
-            "id": "de4ccb689e40a3c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 5 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 5 - Cartas"
-            }
-          },
-          {
             "id": "d59de5abf5013b19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Habilidades de las cartas/Set 8 - Cartas.md",
+                "file": "Empecemos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set 8 - Cartas"
+              "title": "Empecemos"
             }
           },
           {
@@ -109,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "_plantilla",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -150,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inicio.md",
+                "file": "Empecemos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de inicio"
+              "title": "Enlaces entrantes de Empecemos"
             }
           },
           {
@@ -225,36 +183,40 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "bc327d80f4414118",
+  "active": "d59de5abf5013b19",
   "lastOpenFiles": [
+    "02. Habilidades de las cartas/Set 8 - Cartas.md",
+    "04. Guia de correccion de jugadas/02. Errores de reglas/_plantilla errores en reglas.md",
+    "04. Guia de correccion de jugadas/03. Errores de torneo/_plantilla errores torneo.md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/_plantilla conducta antideportiva.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos de dudas.md",
+    "plantillas",
+    "00. Introducción/Introducción.md",
+    "08. Consejos para jugadores/Cuida tu higiene personal.md",
+    "02. Habilidades de las cartas/Set 5 - Cartas.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
+    "Sin título.canvas",
+    "08. Consejos para jugadores/Esto es un juego.md",
+    "08. Consejos para jugadores/Sé puntual.md",
+    "03. Reglas de Torneo/7. Límites de tiempo/7.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits).md",
+    "08. Consejos para jugadores/Si algo te incomoda avisa al juez inmediatamente.md",
+    "08. Consejos para jugadores/Sé amable y educado.md",
+    "08. Consejos para jugadores/Puedes no dejar rectificar y eso está bien.md",
+    "08. Consejos para jugadores/Interioriza las reglas básicas.md",
+    "08. Consejos para jugadores/No confraternices con el juez.md",
+    "08. Consejos para jugadores/Mantén distancia razonable con las mesas de juego.md",
+    "08. Consejos para jugadores/Lleva comida y bebida siempre encima.md",
+    "08. Consejos para jugadores/Avisa si vas a dejar tu sitio.md",
+    "08. Consejos para jugadores/Pactos.md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md",
+    "08. Consejos para jugadores/Revisa tu mazo.md",
+    "08. Consejos para jugadores/Sé ordenado.md",
+    "08. Consejos para jugadores/Tienes derecho a no estar de acuerdo.md",
+    "08. Consejos para jugadores",
     "imagenes/icono_tmp10765",
     "Acciones correctivas.canvas",
-    "inicio.md",
     "imagenes/icono.png",
-    "publish.css.md",
-    "02. Habilidades de las cartas/Set 1 - Cartas.md",
-    "Minnie Mouse - Drum Major.md",
-    "Kronk - Laid Back.md",
-    "Maleficent - Monstrous Dragon.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Carta que me impide el descarte vs carta que me indica descartar.md",
-    "02. Habilidades de las cartas/Set 7 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Sin título.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Vanish e interacciones.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Daisy Duck.md",
-    "02. Habilidades de las cartas/Set 2 - Cartas.md",
-    "02. Habilidades de las cartas/Set 5 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar gratis una carta con shift.md",
-    "02. Habilidades de las cartas/Set 4 - Cartas.md",
-    "01. Reglas/0. Glosario/Gratis (for free).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
-    "10.8.7. Shift por clasificación o universal.md",
-    "02. Habilidades de las cartas/Set 8 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al final del turno'.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/GSC y habilidades que dañan.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje rete... ocurren cosas.md",
     "imagenes/encuentro4.png",
     "imagenes/encuentro1.png",
     "imagenes/encuentro2.png",
@@ -269,9 +231,6 @@
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 268038.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 592858.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 604785.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 601171.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 691264.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 237652.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 58756.crdownload"
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 601171.crdownload"
   ]
 }

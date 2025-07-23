@@ -1,0 +1,3 @@
+Otra vez con las cosas evidentes pero no hay nada más desagradable que jugar contra una persona que tiene una actitud inadecuada para la situación. No hace falta que mantengáis ningún tipo de conversación, simplemente saluda y da las gracias.
+
+Por otro lado, cualquier interacción con el oponente trátala con el máximo respeto. Si quieres revisar alguna de sus cartas y tienes que cogerla dile de forma clara y amable lo que quieres hacer, así nos evitaremos sustos y malentendidos. Si fueras a tocar el mazo por algún motivo dile al oponente

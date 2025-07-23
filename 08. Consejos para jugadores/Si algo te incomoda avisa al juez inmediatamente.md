@@ -1,0 +1,1 @@
+Estamos para disfrutar del juego y pasarlo mal por cualquier motivo es una sensación muy desagradable. Si crees que el oponente está diciendo o haciendo cosas que te incomodan avisa al juez inmediatamente y plantéale tu situación, esta figura se encargará de corregir al oponente con la máxima asertividad que pueda y si reitera su comportamiento será penalizado de algún modo.

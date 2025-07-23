@@ -1,0 +1,1 @@
+Recuérdalo siempre: es un juego y a pesar de que nos parezca lo más importante de este momento siempre tenemos que tenerlo presente.

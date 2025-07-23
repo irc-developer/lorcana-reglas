@@ -1,0 +1,1 @@
+Todos podemos tener necesidades fisiológicas urgentes o llamadas importantes que atender. Siempre que tengas que dejar momentáneamente la partida que estás jugando avisa a cualquier juez para que lo tenga presente y no te penalicen por ello, así te ahorrarás muchos dolores de cabeza.

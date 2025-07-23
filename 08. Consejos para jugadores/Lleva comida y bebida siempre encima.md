@@ -1,0 +1,1 @@
+Las partidas son largas y uno se va cansando a medida que pasan las rondas. Es recomendable llevar siempre agua en la mochila y algún tipo de snack que dé energía rápida como frutos secos o (yo lo he hecho) azúcar que te sobra del café de la mañana en el bar de al lado. Tener hambre y/o sed nos pone de mal humor a todos.

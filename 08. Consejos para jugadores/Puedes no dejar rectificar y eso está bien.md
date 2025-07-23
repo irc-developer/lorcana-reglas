@@ -1,0 +1,3 @@
+Permitir o no el rectificar una jugada en un torneo grande puede ser la diferencia entre ganar o perder la ronda. No hablamos de errores resultado de cometer una infracción sino de jugadas mal ejecutadas por el oponente u olvidos evidentes frutos de la presión y en los que el oponente se da cuenta durante su turno del error. El oponente puede preguntar si puede rectificar y en tu haber estará dejarle o no, la decisión es completamente libre y tanto digas sí como no estará bien.
+
+Y al revés, si quieres corregir alguna jugada coméntalo con el rival y acepta lo que diga por respuesta. La persona que tienes enfrente también tiene exactamente el mismo derecho que tú a decirte que no y también está bien, acéptalo con madurez.

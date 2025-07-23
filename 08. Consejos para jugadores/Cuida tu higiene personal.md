@@ -1,0 +1,1 @@
+El gran tabú de los TCGs es la higiene personal. A todos nos puede pasar que nos falle el desodorante o tengamos algún percance con lo que siempre que puedas ve a los eventos limpio.

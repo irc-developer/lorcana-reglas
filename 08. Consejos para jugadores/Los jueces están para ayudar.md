@@ -1,0 +1,3 @@
+Los jueces están para ayudar y no para penalizar. No tengas miedo de llamarles cuando cometas un error, no tengas claro una jugada o directamente tengas dudas de la mecánica de alguna de las cartas que tienes en mano o juegue tu oponente. 
+
+Procura evitar corregir tú las cosas sin su supervisión porque puede darte problemas con tu oponente y ser él el que avise al juez, creando una situación incómoda fácilmente prevenible.

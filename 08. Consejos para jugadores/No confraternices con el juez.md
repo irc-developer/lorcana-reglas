@@ -1,0 +1,1 @@
+Suena raro, lo sé. Procura tratar al juez siempre con la máxima neutralidad. Si le conoces y además tenéis relación cercana procura dirigirte a él lo más neutral posible, ya que su decisión podría ser considerada condicionada por vuestra relación, incluso para mal. Si quieres ver una explicación más extensa a esto puedes verlo en la sección [[4. Fraternización]].

@@ -1,0 +1,1 @@
+Suena también a algo muy evidente pero mejor llegar a la hora que te penalicen por llegar tarde ([[3.1 Retraso (Tardiness)]]). También es recomendable que si tienes que reorganizar cosas lo hagas entre rondas, incluyendo el barajeo extremo que quieras hacerle a tu mazo para cuando llegue la nueva ronda no tengas que invertir tiempo en ello.

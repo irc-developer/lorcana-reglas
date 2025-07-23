@@ -1,0 +1,3 @@
+Suena muy evidente pero tienes que revisar concienzudamente el mazo antes de ir a un evento. Procura revisar todas las cartas con la hoja de registro que vas a entregar antes de marchar al evento y así te ahorrarás muchos dolores de cabeza.
+Por otro lado, revisa tus fundas ¿Hay alguna que se vea evidente que está marcada? Cámbiala. Una vez le escuché a una jueza decir que en cada torneo grande decirle a un jugador que siempre fuera a torneos grandes con fundas nuevas y pensé que exageraba (todavía no estaba metido en esto) y ahora lo apoyo completamente ya que así te ahorrarás algún que otro problema.
+Y lleva fundas extra, nunca se sabe.
