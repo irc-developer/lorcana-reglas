@@ -1032,7 +1032,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Maui - Half-Shark]]
+### [[Maui - Half-Shark]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 

@@ -520,8 +520,6 @@ GOT TO KEEP REAL QUIET Once during your turn, whenever you ready this character,
 
 ---
 
-  
-
 ### [[Jiminy Cricket - Level-Headed and Wise]]
 
 Evasive (Only characters with Evasive can challenge this character.)
