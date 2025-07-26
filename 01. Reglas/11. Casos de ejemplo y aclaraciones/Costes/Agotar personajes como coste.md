@@ -38,4 +38,4 @@ No, ya que en la sutileza de la regla en inglés se hace referencia al mismo per
 ---
 
 **Etiquetas:**  
-#coste #agotar #habilidades-estaticas #puede
+#exert #bag #may #a-to-b

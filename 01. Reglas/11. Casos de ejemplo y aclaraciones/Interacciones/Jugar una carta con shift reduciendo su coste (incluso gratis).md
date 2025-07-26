@@ -48,3 +48,6 @@ Solo debes declarar que vas a jugar la carta por Shift, y entonces aplicar la re
     
 
 ---
+
+### Etiquetas
+#free #cost #play-card #shift #alternative-cost

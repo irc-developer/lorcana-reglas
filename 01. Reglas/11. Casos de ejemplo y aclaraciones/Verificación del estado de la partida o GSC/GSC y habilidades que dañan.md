@@ -5,9 +5,9 @@ Sí, el efecto de Madame Medusa está bien aplicado. Aquí lo importante es cuan
 
 ---
 ## Duda
-Tengo en juego [[Set 5 - Cartas#Vanellope von Schweetz - Sugar Rush Champ]] ya seca a la que le queda un punto de vida. La tengo en la ubicacación [[Set 5 - Cartas#Sugar Rush Speedway - Starting Line]] y la agoto y le hago un punto de daño para moverla gratis a mi otra ubicación [[Set 6 - Cartas#Sugar Rush Speedway - Finish Line]] ¿Llega a entrar en la ubicación o muere al recibir el daño?
+Tengo en juego [[Set 5 - Cartas#Vanellope von Schweetz - Sugar Rush Champ]] ya seca a la que le queda un punto de vida. La tengo en la ubicación [[Set 5 - Cartas#Sugar Rush Speedway - Starting Line]] y la agoto y le hago un punto de daño para moverla gratis a mi otra ubicación [[Set 6 - Cartas#Sugar Rush Speedway - Finish Line]] ¿Llega a entrar en la ubicación o muere al recibir el daño?
 ## Respuesta
 Sí, se mueve a la otra ubicación, se dispara la habilidad de la segunda ubicación y se acaba de resolver la habilidad al entrar en la segunda ubicación. En este punto, una vez se ha resuelto toda la habilidad de [[Set 5 - Cartas#Sugar Rush Speedway - Starting Line]] (Pagar Coste -> Mover personaje a la ubicación -> Personaje movido) se hace la [[1.9 Verificación del estado de la partida (Game State Check)]] o GSC, comprobando que el personaje ya ha alcanzado su voluntad en daños con lo que es desterrada.
 
-
-### Tags
+### Etiquetas
+#gsc #location #lethal-damage #movement
