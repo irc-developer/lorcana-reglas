@@ -15,3 +15,27 @@ No, no puedes ya que al agotarlo para la primera habilidad ya no puedes hacerlo 
 
 ### Referencias
 Discord
+
+---
+
+### Duda
+¿Puedo escoger un personaje agotado y resolver la habilidad de [[Set 7 - Cartas#Elsa - Ice Maker]]?
+### Respuesta
+No y es debido a que cuando hacemos referencia a [[7.1.3.  Puede (may)]] el jugador, si quiere, lleva a cabo lo que pide la carta. Si no lo hace porque no quiere o no puede, lo que hay a continuación no se resuelve. En este caso se le pide agotar un personaje con lo que si no lo hace, ya sea por no agotarlo o tratar de agotar uno ya agotado, no se podrá resolver la parte de no enderezarse
+
+### Reglas implicadas:
+- [[7.1.3.  Puede (may)]]
+- [[Agotar (exert)]]
+
+### Duda
+¿Puedo escoger otro personaje que no sea el que he agotado?
+### Respuesta
+No, ya que en la sutileza de la regla en inglés se hace referencia al mismo personaje que se ha agotado.
+### Referencia:
+- Discord de lorcana 
+
+
+---
+
+**Etiquetas:**  
+#coste #agotar #habilidades-estaticas #puede

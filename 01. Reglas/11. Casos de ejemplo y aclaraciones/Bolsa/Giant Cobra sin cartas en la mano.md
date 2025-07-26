@@ -8,3 +8,8 @@ Sí, es una jugada válida. Esto es debido a que ambas habilidades entran en la 
 - [[8.7. Bolsa (Bag)]]
 ### Referencias
 Interacciones en la tienda.
+
+---
+
+**Etiquetas:**  
+#habilidades-disparadas #interaccion-cartas #robar #bolsa

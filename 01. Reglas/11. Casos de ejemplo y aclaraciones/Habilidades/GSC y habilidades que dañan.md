@@ -1,4 +1,0 @@
-## Duda
-Mi oponente juega una [[Set 8 - Cartas#Madame Medusa - Deceiving Partner]] y selecciona a su [[Set 6 - Cartas#Diablo - Obedient Raven]] para hacerle los dos puntos de daño. En la segunda parte de la habilidad, escoge el mismo Diablo para devolverlo a su mano, lo que permite que no muera ¿Es esta jugada correcta?
-## Respuesta
-Sí, el efecto de Madame Medusa está bien aplicado. Aquí lo importante es cuando se lleva a cabo la [[1.9 Verificación del estado de la partida (Game State Check)]] o GSC. El diablo recibe dos daños en un primer paso del efecto de la habilidad disparada. En el segundo paso se subirá a la mano y, una vez finalizada la habilidad, se procede con el GSC que es el momento donde se desterraría el Diablo pero, al haber abandonado el campo de juego, ya no se destierra.

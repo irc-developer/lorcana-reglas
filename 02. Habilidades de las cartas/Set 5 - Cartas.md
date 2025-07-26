@@ -141,16 +141,6 @@ OH, MY LAND! When you play this character, if you have a location in play, draw 
 
   
 
- ### [[Vanellope von Schweetz - Sugar Rush Princess]]
-
-Shift 2 (You may pay 2 {I} to play this on top of one of your characters named Vanellope von Schweetz.)
-
-I HEREBY DECREE Whenever you play another Princess character, all opposing characters get -1 {S} until the start of your next turn.
-
----
-
-  
-
  ### [[Alan-a-Dale - Rockin' Rooster]]
 
 FAN FAVORITE Whenever you play a song, gain 1 lore.
@@ -1129,9 +1119,7 @@ RUBY LIGHT {E} — Chosen character gets +1 {S} this turn.
 
 ---
 
-  
-
- ### [[Sugar Rush Speedway - Starting Line]]
+### [[Sugar Rush Speedway - Starting Line]]
 
 ON YOUR MARKS! Once per turn, you may {E} chosen character here and deal them 1 damage to move them to another location for free.
 

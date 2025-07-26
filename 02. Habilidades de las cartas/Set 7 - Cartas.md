@@ -575,9 +575,7 @@ BACK TO WORK Whenever another character is banished in a challenge, return that 
 
 ---
 
-  
-
- ### [[Elsa - Ice Maker]]
+### [[Elsa - Ice Maker]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Elsa.)
 

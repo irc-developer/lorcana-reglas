@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d59de5abf5013b19",
+            "id": "d29f649711b179ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empecemos.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empecemos"
+              "title": "Agotar personajes como coste"
+            }
+          },
+          {
+            "id": "30b3d36b08bdcc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 5 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 5 - Cartas"
             }
           },
           {
@@ -109,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lilo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empecemos.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Empecemos"
+              "title": "Enlaces entrantes de Agotar personajes como coste"
             }
           },
           {
@@ -225,38 +239,39 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "d59de5abf5013b19",
+  "active": "d29f649711b179ed",
   "lastOpenFiles": [
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
-    "02. Habilidades de las cartas/Set 8 - Cartas.md",
+    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+    "Elsa - Ice Maker.md",
     "02. Habilidades de las cartas/Set 7 - Cartas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Personaje agotado como coste.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Muchas cartas implicadas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Giant Cobra sin cartas en la mano.md",
+    "00. Introducción/Tags.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y habilidades que dañan.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y el final de partida.md",
+    "01. Reglas/1. Conceptos/1.11 Acciones obligatorias.md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.4.1 Procedimiento de final de partida (end‑of‑match procedure).md",
+    "02. Habilidades de las cartas/Set 5 - Cartas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC",
+    "01. Reglas/0. Glosario/Validación del estado del juego (game state check).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cartas que al abandonar el juego hacen cosas.md",
+    "01. Reglas/8. Zonas (Zones)/8.4.4. Cartas abandonando la zona de juego.md",
+    "06. Reviews de jueces en torneos/Review Garhis 18072025 - Torneo de tienda.md",
+    "10.8.6. Abandonar el juego.md",
+    "02. Habilidades de las cartas/Set 8 - Cartas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos de dudas.md",
+    "Empecemos.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
     "01. Reglas/0. Glosario/Coste (cost).md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al principio del turno'.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos de dudas.md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Robar (Draw).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Habilidades estáticas presentes en juego y sus interacciones.md",
     "imagenes/respuestaefectosestaticos.png",
     "Pasted image 20250725105717.png",
-    "02. Habilidades de las cartas/Set 6 - Cartas.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3. Fase principal (Main Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Listo (Set).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.1 Preparar (Ready).md",
-    "00. Introducción/Introducción.md",
-    "Empecemos.md",
-    "04. Guia de correccion de jugadas/02. Errores de reglas/_plantilla errores en reglas.md",
-    "04. Guia de correccion de jugadas/03. Errores de torneo/_plantilla errores torneo.md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/_plantilla conducta antideportiva.md",
     "plantillas",
-    "08. Consejos para jugadores/Cuida tu higiene personal.md",
-    "02. Habilidades de las cartas/Set 5 - Cartas.md",
     "Sin título.canvas",
-    "08. Consejos para jugadores/Esto es un juego.md",
-    "08. Consejos para jugadores/Sé puntual.md",
-    "03. Reglas de Torneo/7. Límites de tiempo/7.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits).md",
-    "08. Consejos para jugadores/Si algo te incomoda avisa al juez inmediatamente.md",
     "08. Consejos para jugadores",
     "imagenes/icono_tmp10765",
     "Acciones correctivas.canvas",
@@ -273,7 +288,6 @@
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 349071.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 268038.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 592858.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 604785.crdownload",
-    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 601171.crdownload"
+    "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 604785.crdownload"
   ]
 }
