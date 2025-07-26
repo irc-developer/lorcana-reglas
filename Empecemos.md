@@ -52,3 +52,5 @@ Este proyecto es de la comunidad y para la comunidad. Si detectas errores, tiene
 ---
 
 _Disney Lorcana TCG es una marca de Ravensburger y Disney. Este sitio es una iniciativa no oficial y sin ánimo de lucro, creada con fines educativos y comunitarios._
+
+*Última actualización 26/07/2025*

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Habilidades estáticas presentes en juego y sus interacciones.md",
-                "mode": "preview",
+                "file": "Empecemos.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Habilidades estáticas presentes en juego y sus interacciones"
+              "title": "Empecemos"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4.3.4.1 Requisitos para jugar una carta",
+                "query": "lilo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Habilidades estáticas presentes en juego y sus interacciones.md",
+                "file": "Empecemos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Habilidades estáticas presentes en juego y sus interacciones"
+              "title": "Enlaces entrantes de Empecemos"
             }
           },
           {
@@ -227,16 +227,20 @@
   },
   "active": "d59de5abf5013b19",
   "lastOpenFiles": [
-    "imagenes/respuestaefectosestaticos.png",
-    "Pasted image 20250725105717.png",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Habilidades estáticas presentes en juego y sus interacciones.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
     "02. Habilidades de las cartas/Set 8 - Cartas.md",
-    "02. Habilidades de las cartas/Set 6 - Cartas.md",
     "02. Habilidades de las cartas/Set 7 - Cartas.md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
+    "01. Reglas/0. Glosario/Coste (cost).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al principio del turno'.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos de dudas.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Robar (Draw).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Habilidades estáticas presentes en juego y sus interacciones.md",
+    "imagenes/respuestaefectosestaticos.png",
+    "Pasted image 20250725105717.png",
+    "02. Habilidades de las cartas/Set 6 - Cartas.md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4 Jugar una carta (Play a Card).md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.3. Fase principal (Main Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Robar (Draw).md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.3 Listo (Set).md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase).md",
     "01. Reglas/4. Estructura del turno (Turn Structure)/4.2.1 Preparar (Ready).md",
@@ -245,7 +249,6 @@
     "04. Guia de correccion de jugadas/02. Errores de reglas/_plantilla errores en reglas.md",
     "04. Guia de correccion de jugadas/03. Errores de torneo/_plantilla errores torneo.md",
     "04. Guia de correccion de jugadas/04. Conducta antideportiva/_plantilla conducta antideportiva.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos de dudas.md",
     "plantillas",
     "08. Consejos para jugadores/Cuida tu higiene personal.md",
     "02. Habilidades de las cartas/Set 5 - Cartas.md",
@@ -254,8 +257,6 @@
     "08. Consejos para jugadores/Sé puntual.md",
     "03. Reglas de Torneo/7. Límites de tiempo/7.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits).md",
     "08. Consejos para jugadores/Si algo te incomoda avisa al juez inmediatamente.md",
-    "08. Consejos para jugadores/Sé amable y educado.md",
-    "08. Consejos para jugadores/Puedes no dejar rectificar y eso está bien.md",
     "08. Consejos para jugadores",
     "imagenes/icono_tmp10765",
     "Acciones correctivas.canvas",

@@ -1,9 +1,0 @@
-## Duda
-En mi mazo tengo una carta que me permite jugar otra gratis como por ejemplo [[Set 8 - Cartas#Lady - Family Dog]], [[Set 7 - Cartas#The Return of Hercules]] o [[Set 1 - Cartas#Just in Time]], en la zona de juego un personaje y en la mano uno con [[10.8. Cambio (Shift)]] compatible ¿Puedo jugar la carta usando el coste alternativo de shift?
-
-### Respuesta
-Sí, se puede jugar una carta por el coste de shift gratis tal y como se jugaría normal. Esto es debido a cómo se definen los [[4.3.4.1 Requisitos para jugar una carta]], donde lo importante son los dos siguientes puntos:
-2. `El jugador enseña la carta que quiere jugar, indica qué coste y como va pagarlo. (CR 4.3.4.4). Costes en tinta pueden ser tanto el impreso en la parte superior izquierda como el de la habilidad "Cambio" (Shift), cuyo valor viene escrito en la propia habilidad.`
-3. `Debe pagar el coste de tinta indicado en el punto 2. Para ello, el jugador determina el total de coste: suma a su coste en tinta o coste alternativo los costes adicionales, luego los incrementos y finalmente las reducciones (CR 4.3.4.5).`
-Al jugarse gratis la reducción hace que sea cero. También hay que recordar la definición de [[Gratis (for free)]], donde es gratis únicamente el coste en tinta y ningún coste más, como en este caso el tener un personaje sobre el cual hacer el shift.
-Nota: importante tener presente que el [[Coste (cost)]] de una carta se define por su valor superior izquierdo, no el de shift, a la hora de considerar costes. Cartas como  [[Set 8 - Cartas#Down in New Orleans]] que restringen a coste seis o menos no permiten jugar cartas como [[Set 4 - Cartas#Sisu - Empowered Sibling]] ya que su coste es ocho aunque su shift sea por seis.
