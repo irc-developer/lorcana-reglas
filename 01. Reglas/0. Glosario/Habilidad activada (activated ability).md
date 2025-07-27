@@ -1,1 +1,2 @@
 Una habilidad que un jugador puede activar voluntariamente pagando sus costes.
+#activated-ability

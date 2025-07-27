@@ -33,4 +33,6 @@ Jugarla a través del efecto de Naveen:
 ### Referencias
 Discord
 
+**Etiquetas:**  
+#free #bag #card-interaction #delay-efect
 

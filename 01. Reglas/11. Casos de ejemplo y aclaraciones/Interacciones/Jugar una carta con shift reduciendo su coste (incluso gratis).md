@@ -14,7 +14,7 @@ Sí, puedes jugar una carta usando su coste de _Shift_ cuando se te permite juga
     > El jugador determina el coste total a pagar, incluyendo coste base o alternativo (como Shift), más costes adicionales o reducciones.
     
 
-Y según la definición de [[Gratis (for free)]], se considera que el jugador **no paga el coste de tinta**. Dado que Shift _es_ un coste de tinta (aunque alternativo), puedes aplicarlo y luego "pagarlo" con la reducción completa: 0 tinta.
+Y según la definición de [[Gratis (free)]], se considera que el jugador **no paga el coste de tinta**. Dado que Shift _es_ un coste de tinta (aunque alternativo), puedes aplicarlo y luego "pagarlo" con la reducción completa: 0 tinta.
 
 ### Fuente
 

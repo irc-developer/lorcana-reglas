@@ -1,1 +1,2 @@
 Enviar una carta de la mano a la pila de descarte.
+#discard

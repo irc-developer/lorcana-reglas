@@ -685,7 +685,7 @@ Return chosen character of yours to your hand. Exert chosen character.
 
   
 
- ### [[This Is My Family]]
+### [[This Is My Family]]
 
 (A character with cost 2 or more can {E} to sing this song for free.)
 

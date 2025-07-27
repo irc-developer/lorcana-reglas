@@ -4,91 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bb6286b07bbfa22a",
+        "id": "e603e0a7393aa7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d29f649711b179ed",
+            "id": "98e94d333c2059c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
+                "file": "01. Reglas/6. Tipos de carta (Card types)/6.5. Ubicaciones (Locations).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jugar una carta con shift reduciendo su coste (incluso gratis)"
+              "title": "6.5. Ubicaciones (Locations)"
             }
           },
           {
-            "id": "30b3d36b08bdcc71",
+            "id": "d8cfc4443bbbdf34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Habilidades de las cartas/Set 5 - Cartas.md",
+                "file": "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set 5 - Cartas"
-            }
-          },
-          {
-            "id": "43ff2fab26d4d1e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 8 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 8 - Cartas"
-            }
-          },
-          {
-            "id": "2397e82469e9f791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 8 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 8 - Cartas"
-            }
-          },
-          {
-            "id": "56e890b5f24f7fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 8 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 8 - Cartas"
-            }
-          },
-          {
-            "id": "10b8ed0e1d20b429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 7 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 7 - Cartas"
+              "title": "7.1.2.1. Tipo (A)"
             }
           }
         ]
@@ -123,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "end",
+                "query": "let storm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -164,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
+                "file": "01. Reglas/6. Tipos de carta (Card types)/6.5. Ubicaciones (Locations).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Jugar una carta con shift reduciendo su coste (incluso gratis)"
+              "title": "Enlaces entrantes de 6.5. Ubicaciones (Locations)"
             }
           },
           {
@@ -239,35 +183,37 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "d29f649711b179ed",
+  "active": "98e94d333c2059c6",
   "lastOpenFiles": [
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y el final de partida.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Vanish e interacciones.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y habilidades que dañan.md",
-    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
-    "01. Reglas/3. Juego (Gameplay)/3.2 Acabando el juego (Ending a Game).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
-    "Elsa - Ice Maker.md",
-    "02. Habilidades de las cartas/Set 7 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Personaje agotado como coste.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Muchas cartas implicadas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Giant Cobra sin cartas en la mano.md",
-    "00. Introducción/Tags.md",
-    "01. Reglas/1. Conceptos/1.11 Acciones obligatorias.md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.4.1 Procedimiento de final de partida (end‑of‑match procedure).md",
-    "02. Habilidades de las cartas/Set 5 - Cartas.md",
+    "01. Reglas/6. Tipos de carta (Card types)/6.4. Objetos (Items).md",
+    "01. Reglas/6. Tipos de carta (Card types)/6.3.3. Canciones (Songs).md",
+    "01. Reglas/6. Tipos de carta (Card types)/6.3.2. Efectos (Effects).md",
+    "01. Reglas/6. Tipos de carta (Card types)/6.3. Acciones (Actions).md",
+    "01. Reglas/6. Tipos de carta (Card types)/6.1. Personajes (Characters).md",
+    "01. Reglas/6. Tipos de carta (Card types)/6.2. Partes de una carta (Parts of a Card).md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.1. Cláusula.md",
+    "01. Reglas/5. Cartas (cards)/5.1.7. En una pila (In a Stack).md",
+    "01. Reglas/5. Cartas (cards)/5.1.6. Encima (On Top).md",
+    "01. Reglas/5. Cartas (cards)/5.1.5. Debajo (on bottom).md",
+    "01. Reglas/5. Cartas (cards)/5.1.4. Sin daño (Undamaged).md",
+    "01. Reglas/5. Cartas (cards)/5.1.3. Dañada (Damaged).md",
+    "01. Reglas/5. Cartas (cards)/5.1.2. Agotada (Exerted).md",
+    "01. Reglas/5. Cartas (cards)/5.1.1. Lista (Ready).md",
+    "01. Reglas/5. Cartas (cards)/5.1. Estados (Conditions).md",
+    "01. Reglas/5. Cartas (cards)/5. Cartas (cards).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.8 Habilidades activadas de cartas en juego.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.7 Mover personajes dentro de una ubicación.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6.3. Finaliza el reto.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6.2. Paso de daño por reto (Challenge Damage Step).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6.1. Seleccionar objetivos válidos para el desafío.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6 Desafiar (Challenge).md",
+    "01. Reglas/0. Glosario/En el desafío (in challenge).md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.1. Tipo (A).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.5 Irse de aventura (quest) y ganar puntos de leyenda (lore).md",
+    "Imagen de WhatsApp 2025-07-27 a las 14.01.33_0b28ee15.jpg",
+    "01. Reglas/0. Glosario/elsaicemaker.png",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC",
-    "01. Reglas/0. Glosario/Validación del estado del juego (game state check).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cartas que al abandonar el juego hacen cosas.md",
-    "01. Reglas/8. Zonas (Zones)/8.4.4. Cartas abandonando la zona de juego.md",
-    "06. Reviews de jueces en torneos/Review Garhis 18072025 - Torneo de tienda.md",
-    "10.8.6. Abandonar el juego.md",
-    "02. Habilidades de las cartas/Set 8 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos de dudas.md",
-    "Empecemos.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.4.1 Requisitos para jugar una carta.md",
-    "01. Reglas/0. Glosario/Coste (cost).md",
     "imagenes/respuestaefectosestaticos.png",
     "Pasted image 20250725105717.png",
     "plantillas",
@@ -281,9 +227,7 @@
     "imagenes/encuentro2.png",
     "imagenes/encuentro3.png",
     "Imagen de WhatsApp 2025-07-20 a las 11.28.34_87690bc1.jpg",
-    "imagenes/conductaantideportiva1.png",
     "04. Guia de correccion de jugadas/05. Consejos generales",
-    "imagenes/Pasted image 20250623100027.png",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 730999.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 349071.crdownload",
     "imagenes/Torneos/Crear y gestionar un evento de torneo suizo (Swiss)/Sin confirmar 268038.crdownload",

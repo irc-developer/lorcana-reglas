@@ -1644,7 +1644,7 @@ PUNY PIRATE! During your turn, whenever this character banishes another characte
 
   
 
-### [[A Whole New World - undefined]]
+### [[A Whole New World]]
 
  (A character with cost 5 or more can {E} to sing this song for free.)
 

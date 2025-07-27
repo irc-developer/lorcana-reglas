@@ -12,4 +12,4 @@ Interacciones en la tienda.
 ---
 
 **Etiquetas:**  
-#habilidades-disparadas #interaccion-cartas #robar #bolsa
+#triggered-ability #bag #card-interaction #draw 

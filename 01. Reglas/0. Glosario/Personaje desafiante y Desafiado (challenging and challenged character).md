@@ -1,1 +1,2 @@
 Personaje implicado en el desafío como desafiante / desafiado. Ambos se consideran “en un desafío” mientras dure.
+#challenging-character #challenged-character

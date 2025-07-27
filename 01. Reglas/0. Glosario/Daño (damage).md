@@ -1,1 +1,2 @@
 El número de contadores de daño que un personaje o lugar ha recibido. Si el daño es igual o superior a su Willpower, es desterrado.
+#damage

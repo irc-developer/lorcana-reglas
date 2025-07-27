@@ -1,1 +1,2 @@
 La zona privada donde se mantienen las cartas robadas por un jugador.
+#hand

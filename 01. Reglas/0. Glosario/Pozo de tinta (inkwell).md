@@ -1,1 +1,2 @@
 Zona privada donde un jugador pone sus cartas de tinta boca abajo. Cada carta representa 1 {I}, independientemente de su cara frontal. No se puede mirar el frente de las cartas en la inkwell.
+#inkwell

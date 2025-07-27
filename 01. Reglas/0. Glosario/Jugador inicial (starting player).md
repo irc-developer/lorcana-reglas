@@ -1,1 +1,2 @@
 El jugador que comienza la partida. No roba carta en su primer turno.
+#starting-player

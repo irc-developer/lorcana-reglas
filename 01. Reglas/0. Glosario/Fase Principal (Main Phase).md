@@ -1,1 +1,2 @@
 Segunda fase del turno. El jugador puede realizar cualquier acción de turno.
+#main-phase

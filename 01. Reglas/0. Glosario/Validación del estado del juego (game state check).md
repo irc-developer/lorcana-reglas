@@ -1,2 +1,3 @@
 La comprobación que realiza el juego para verificar condiciones y acciones requeridas al final de cada paso, después de resolver una acción, habilidad o efecto.
 [[1.9 Verificación del estado de la partida (Game State Check)]]
+#game-state-check #GSC
