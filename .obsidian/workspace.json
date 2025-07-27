@@ -11,10 +11,14 @@
             "id": "46651a6c593514c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Agotar personajes como coste"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Agotar personajes como coste"
             }
           },
           {
@@ -164,13 +169,15 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "bc327d80f4414118",
+  "active": "46651a6c593514c5",
   "lastOpenFiles": [
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Muchas cartas implicadas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Giant Cobra sin cartas en la mano.md",
+    "imagenes/Pasted image 20250622213135.png",
     "imagenes/Pasted image 20250625151713.png",
     "imagenes/Pasted image 20250625111335.png",
     "imagenes/Pasted image 20250622224318.png",
     "imagenes/Pasted image 20250622220405.png",
-    "imagenes/Pasted image 20250622213135.png",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y habilidades que dañan.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/_plantilla para ejemplos de dudas.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y el final de partida.md",
@@ -195,8 +202,6 @@
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al final del turno'.md",
     "01. Reglas/9. Contadores de daño (Damage counters)/9.4. Contadores y abandonar el Juego (Leaving Play).md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Muchas cartas implicadas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Giant Cobra sin cartas en la mano.md",
     "01. Reglas/10. Palabras clave (Keywords)/10.1 Generalidades/10.1. Generalidades (General).md",
     "01. Reglas/10. Palabras clave (Keywords)/10.13 Protección",
     "01. Reglas/10. Palabras clave (Keywords)/10.12 Desvanecer",
@@ -211,7 +216,6 @@
     "Pasted image 20250727154520.png",
     "Imagen de WhatsApp 2025-07-27 a las 14.01.33_0b28ee15.jpg",
     "01. Reglas/0. Glosario/elsaicemaker.png",
-    "imagenes/respuestaefectosestaticos.png",
     "Sin título.canvas",
     "Acciones correctivas.canvas"
   ]
