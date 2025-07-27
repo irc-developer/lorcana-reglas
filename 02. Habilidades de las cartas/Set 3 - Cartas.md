@@ -519,10 +519,7 @@ WHO DISTURBS MY SLUMBER? This character can't challenge or quest unless it is at
 YOU'RE TOO LATE Whenever this character quests, chosen opposing character can't ready at the start of their next turn.
 
 ---
-
-  
-
- ### [[Bestow a Gift]]
+### [[Bestow a Gift]]
 
 Move 1 damage counter from chosen character to chosen opposing character.
 
@@ -603,10 +600,7 @@ MAGICAL POWER Characters get +1 {L} while here.
 THE BEAR Whenever this character moves to a location, he gets +3 {S} this turn.
 
 ---
-
-  
-
- ### [[Cursed Merfolk - Ursula's Handiwork]]
+### [[Cursed Merfolk - Ursula's Handiwork]]
 
 POOR SOULS Whenever this character is challenged, each opponent chooses and discards a card.
 

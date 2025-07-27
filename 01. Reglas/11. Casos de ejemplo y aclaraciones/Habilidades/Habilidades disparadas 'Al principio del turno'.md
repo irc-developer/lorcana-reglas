@@ -7,3 +7,5 @@ Sí, la hay. Esto implica a la [[4.2. Fase inicial (Beginning Phase)]] y los pas
 2. Set -> Aquí se resuelven todos los efectos que las habilidades disparadas han metido en la bolsa en el paso anterior.
 
 Al resolverse en el paso de "listos" (set) los dos triggers implicados ya están en la bolsa con lo que podemos escoger que entre la lilo y después resolver la habilidad de Bolt.
+
+#beginning-phase #triggered-ability #bag #beginning-phase #ready-step #set-step

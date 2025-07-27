@@ -14,3 +14,5 @@ Aunque no hay reglas que soporten esto. Tampoco hay aclaración oficial. Todo es
 [[Set 2 - Cartas#Mulan - Reflecting]]
 [[Set 3 - Cartas#Pongo - Determined Father]]
 [[Set 6 - Cartas#Oswald - The Lucky Rabbit]]
+
+#may #triggered-ability #otherwise

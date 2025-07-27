@@ -15,7 +15,7 @@ Sí, puedes jugar una carta usando su coste de _Shift_ cuando se te permite juga
     
 
 Y según la definición de [[Gratis (free)]], se considera que el jugador **no paga el coste de tinta**. Dado que Shift _es_ un coste de tinta (aunque alternativo), puedes aplicarlo y luego "pagarlo" con la reducción completa: 0 tinta.
-
+#free #shift #alternative-cost 
 ### Fuente
 
 [Shift gratis](https://discord.com/channels/1239209810654793730/1353538874386944212)
@@ -25,12 +25,11 @@ Y según la definición de [[Gratis (free)]], se considera que el jugador **no p
 ## Duda
 
 ¿Puedo usar la reducción de coste de [[Set 2 - Cartas#Zero to Hero]] para reducir el coste de [[10.8. Cambio (Shift)]]?
-
 ### Respuesta
 
 Sí, puedes. Shift es un coste de tinta alternativo, por lo que también puede beneficiarse de cualquier reducción que se aplique **al jugar una carta**.  
 Solo debes declarar que vas a jugar la carta por Shift, y entonces aplicar la reducción sobre ese coste.
-
+#shift #alternative-cost 
 ### Fuente
 
 [Zero to Hero en Discord](https://discord.com/channels/1239209810654793730/1396870349374754939/1396870349374754939)

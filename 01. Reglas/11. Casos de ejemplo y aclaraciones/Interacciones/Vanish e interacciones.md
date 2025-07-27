@@ -1,24 +1,26 @@
 ### Duda
-Mi oponente tiene un personaje con vanish ¿Puedo seleccionarla con _Everybody's got a weakness_ si no tengo personajes dañados y desterrarlo?
-![[Pasted image 20250622220405.png]]
+Mi oponente tiene un personaje con vanish ¿Puedo seleccionarla con [[Set 8 - Cartas#Everybody's Got a Weakness]] si no tengo personajes dañados y desterrarlo?
 
 ### Respuesta
 Sí, puedes. No es obligatorio pasar un daño o más para cumplir la primera parte de la habilidad "mover un contador de cada personaje dañado propio". Se moverán cero contadores al personaje objetivo (el que tiene vanish) con lo que se desterraría.
+Recuerda la [[1.2 Regla dorada o Golden Rule (Prioridad de reglas)]] sobre lo de ejecutar o no todas las partes de una carta. En este caso son dos cláusulas diferentes.
+#clause #varnish #choosen-character
 
 ---
 ### Duda
-¿Qué ocurre cuando juego una acción que provoca que un personaje con varnish abandone la zona de juego? Por ejemplo: "*You're welcome*" tiene como efecto que se el personaje se baraje en el mazo para que su controlador robe dos cartas. El jugador activo lo usa sobre un personaje con varnish ¿se baraja o no?
-![[Pasted image 20250622224318.png]]
+- Juego [[Set 5 - Cartas#You're Welcome]] sobre un personaje con [[10.12. Desvanecer (Vanish)]] ¿Se baraja o no?
 ### Respuesta
-Cuando el jugador juega la acción y hace objetivo al personaje se añade a la bolsa la habilidad disparada de vanish. Una vez se resuelve la acción se resuelve lo que haya en la bolsa y, para entonces, ya no está en juego con lo que falla al resolverse.
+Se baraja. La habilidad varnish se disparará al hacer objetivo y no se resolverá hasta acabar el Welcome con lo que, para cuando vaya a resolverse, ya no estará en mesa con lo que no se desterrará nada.
+#bag #action-card #varnish #lost-trigger
 
 ---
 ### Duda
-¿Afectaría esto a un personaje con vanish si no tengo yo uno con algún daño?
-![[Pasted image 20250625151713.png]]
+- Juego [[Set 3 - Cartas#Bestow a Gift]] seleccionando un personaje con vanish.
+- No tengo daños para mover.
+¿Se dispararía el vanish?
 ### Respuesta
-Los requisitos de la carta son escoger un personaje del que mover daño a otro. No especifica ningún tipo de restricción sobre que deba estar dañado o no. Una vez seleccionados los personajes (A) llevaría al efecto de mover un contador (B) que fallaría. Aun así, esto provocaría que el personaje se desvaneciese porque ha sido objetivo de una carta de acción.
-
+Sí, se dispararía ya que se está seleccionado el personaje. Los requisitos de la carta son escoger un personaje del que mover daño a otro.  Una vez seleccionados los personajes (A) llevaría al efecto de mover un contador (B) que fallaría pero el objetivo ya está hecho.
+#bag #a-to-b-clause #action-card #varnish 
 ### Reglas implicadas:
 - [[7.1.2.2. Tipo A para B (A to B)]]
 - [[7.2. Cartas de Acción (Action Cards)]]

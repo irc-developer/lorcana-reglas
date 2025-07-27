@@ -5,3 +5,4 @@ Mi oponente tiene una [[Set 8 - Cartas#Mother Gothel - Vain Sorceress]] y un [[S
 Sí, la jugada es correcta. Cuando el oponente declara reto y selecciona los [[Personaje desafiante y desafiado (challenging and challenged character)]] la [[Habilidad disparada (triggered ability)]] de Mother entra en la bolsa y se resuelve el efecto de mover daño **antes** de entrar a la [[4.3.6.2. Paso de daño por reto (Challenge Damage Step)]]
 ### Referencias
 Experiencia personal.
+#damage #moving-damage #triggered-ability #challenging-character #challenged-character 

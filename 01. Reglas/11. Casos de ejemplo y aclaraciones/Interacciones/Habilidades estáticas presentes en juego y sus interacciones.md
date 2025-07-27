@@ -6,6 +6,7 @@ Me he inventado la siguiente terminología que me permite estructurar y explicar
 
 [[Set 8 - Cartas#Jiminy Cricket - Level-Headed and Wise]] está agotado en la mesa del oponente. Yo controlo [[Set 4 - Cartas#Peter Pan - Shadow Finder]] y procedo a jugar mi [[Set 6 - Cartas#Maui - Half-Shark]]. El oponente dice que entra agotado ¿Es correcta su afirmación?
 
+#rush #static-ability #replacement-effect #play-card #played
 ### Respuesta
 Sí, en este contexto es correcto que el Maui Shark entre agotado. Utilizando la terminología anterior el efecto de reemplazo de Peter Pan (darle rush a los evasivos) ya está sobre el Shark debido a que es extrínseco, con lo que entra ya con él encima. En resumen: el efecto de reemplazo actúa antes de considerarse "jugada", añadiéndole el rush ([[4.3.4 Jugar una carta (Play a Card)]]).
 
@@ -16,6 +17,8 @@ Relacionada con la anterior. Voy a jugar un  [[Set 4 - Cartas#Prince Eric - Ursu
 
 ### Respuesta
 No, no podría. A diferencia del anterior caso la habilidad estática que le permite el efecto de remplazo en el que gana [[Guardaespaldas (bodyguard)]] pertenece a la propia carta (intrínseca) con lo que hasta que está "jugada" no puede "ver" a Úrsula. Entrará con bodyguard pero el momento de aplicar el efecto de reemplazo "entrar agotado" ya ha pasado.
+
+#bodyguard  #static-ability #replacement-effect #play-card #played
 
 ---
 

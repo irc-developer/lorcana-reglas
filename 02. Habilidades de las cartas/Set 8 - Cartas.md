@@ -705,10 +705,9 @@ Choose one:
 Put chosen exerted character into their player's inkwell facedown and exerted.
 
 ---
-
   
 
- ### [[Everybody's Got a Weakness]]
+### [[Everybody's Got a Weakness]]
 
 Move 1 damage counter from each damaged character you have in play to chosen opposing character. Draw a card for each damage counter moved this way.
 

@@ -38,4 +38,4 @@ No, ya que en la sutileza de la regla en inglés se hace referencia al mismo per
 ---
 
 **Etiquetas:**  
-#exert #bag #may #a-to-b
+#exert #bag #may #a-to-b #exerted

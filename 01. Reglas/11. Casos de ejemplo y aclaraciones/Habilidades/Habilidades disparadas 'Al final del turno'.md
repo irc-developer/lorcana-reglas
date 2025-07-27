@@ -10,4 +10,6 @@ Sí, ya que todas las habilidades de "final de turno" se añaden a la vez a la b
 ### Referencias
 Discord
 
+
 ---
+#end-of-turn-phase #end-of-turn-ability #order #triggered-ability 
