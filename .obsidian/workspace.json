@@ -41,12 +41,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta/Usar cartas de anteriores sets reeditadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla de actuación arbitral – Disney Lorcana"
+              "title": "Usar cartas de anteriores sets reeditadas"
+            }
+          },
+          {
+            "id": "34f01ecda87b74bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.9 Verificación del estado de la partida (Game State Check)"
+            }
+          },
+          {
+            "id": "751600076b9b7b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 7 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 7 - Cartas"
+            }
+          },
+          {
+            "id": "dc417be97a868d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 1 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 1 - Cartas"
+            }
+          },
+          {
+            "id": "9b7ec5d6c3f7e8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 1 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 1 - Cartas"
+            }
+          },
+          {
+            "id": "b00f1087c7eb412b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 6 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 6 - Cartas"
             }
           }
         ],
@@ -82,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plantilla",
+                "query": "compreh",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -123,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06. Reviews de jueces en torneos/Plantilla de actuación arbitral – Disney Lorcana.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta/Usar cartas de anteriores sets reeditadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Plantilla de actuación arbitral – Disney Lorcana"
+              "title": "Enlaces entrantes de Usar cartas de anteriores sets reeditadas"
             }
           },
           {
@@ -200,39 +270,41 @@
   },
   "active": "bc327d80f4414118",
   "lastOpenFiles": [
+    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y el final de partida.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y habilidades que dañan.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta/Usar cartas de anteriores sets reeditadas.md",
     "plantillas/_plantilla para ejemplos de dudas.md",
-    "plantillas/_plantilla conducta antideportiva.md",
-    "plantillas/_plantilla errores en reglas.md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.1 Conducta antideportiva – Menor.md",
-    "plantillas/_plantilla errores torneo.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Muchas cartas implicadas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Giant Cobra sin cartas en la mano.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta/Legalidad de una carta modificada.md",
+    "01. Reglas/0. Glosario/Carta modificada (altered card).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta",
+    "02. Habilidades de las cartas/Set 1 - Cartas.md",
+    "01. Reglas/0. Glosario/Carta erratada (errated card).md",
+    "01. Reglas/0. Glosario/Carta reeditada (reprinted card).md",
+    "01. Reglas/0. Glosario/reeditar.md",
+    "00. Introducción/Introducción.md",
+    "05. Consejos de jueces/5. Las reglas de Disney Lorcana.md",
+    "01. Reglas/0. Glosario/0. Glosario.md",
+    "Empecemos.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Incrementar el coste de una carta gratis.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Bodyguard.md",
+    "02. Habilidades de las cartas/Set 7 - Cartas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al final del turno'.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al principio del turno'.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Requisito previo para disparar una habilidad.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje rete... ocurren cosas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Disparar habilidades mientras se resuelve una carta.md",
+    "02. Habilidades de las cartas/Set 6 - Cartas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Lectura correcta de cartas",
     "imagenes/Pasted image 20250622213135.png",
     "imagenes/Pasted image 20250625151713.png",
     "imagenes/Pasted image 20250625111335.png",
     "imagenes/Pasted image 20250622224318.png",
     "imagenes/Pasted image 20250622220405.png",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y habilidades que dañan.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y el final de partida.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Vanish e interacciones.md",
-    "02. Habilidades de las cartas/Set 3 - Cartas.md",
-    "01. Reglas/1. Conceptos/1.2 Regla dorada o Golden Rule (Prioridad de reglas).md",
-    "02. Habilidades de las cartas/Set 8 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Habilidades estáticas presentes en juego y sus interacciones.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Escoger robar la carta superior o no.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Carta que me impide el descarte vs carta que me indica descartar.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Be Prepared y devolver personajes a la mano.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje rete... ocurren cosas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cartas que al abandonar el juego hacen cosas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Cumplir parte de una habilidad.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Habilidades disparadas 'Al principio del turno'.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Robar carta y tener que descartarla.md",
     "imagenes/Pasted image 20250623100100.png",
     "imagenes/Pasted image 20250623100027.png",
-    "02. Habilidades de las cartas/Set 7 - Cartas.md",
     "01. Reglas/10. Palabras clave (Keywords)/10.13 Protección",
     "01. Reglas/10. Palabras clave (Keywords)/10.12 Desvanecer",
     "01. Reglas/10. Palabras clave (Keywords)/10.11 Apoyo",
@@ -241,8 +313,6 @@
     "01. Reglas/10. Palabras clave (Keywords)/10.8 Cambio",
     "01. Reglas/10. Palabras clave (Keywords)/10.7 Prisa",
     "01. Reglas/10. Palabras clave (Keywords)/10.6 Resistir",
-    "01. Reglas/10. Palabras clave (Keywords)/10.5 Temerario",
-    "01. Reglas/10. Palabras clave (Keywords)/10.4 Evasivo",
     "Pasted image 20250727154520.png",
     "Imagen de WhatsApp 2025-07-27 a las 14.01.33_0b28ee15.jpg",
     "01. Reglas/0. Glosario/elsaicemaker.png",

@@ -1,0 +1,181 @@
+## 🔖 Reglas Generales y Conceptos Básicos 
+- #ability-modifiers — Modificadores que alteran habilidades de cartas.
+- #ability-types — Tipos de habilidades que pueden tener las cartas.  
+- #action — Contenido de las cartas del tipo.  
+- #action-card — Carta de tipo acción.
+- #activate — Acción de turno de activar una habilidad.  
+- #activated-ability — Habilidad que requiere activación explícita para funcionar.
+- #alternative-cost — Coste alternativo para jugar una carta o habilidad.
+- #bag — Lugar en el que acaban las habilidades disparadas.
+- #banish — mover una carta de la zona de juego a la zona de descarte.
+- #beginning-phase — Fase inicial del turno.
+- #bodyguard — Palabra clave. Efecto de reemplazo.
+- #card — Elemento básico del juego; cartas que se usan en partidas.
+- #card-interaction — Interacción o efecto entre cartas en juego.
+- #card-part — Parte o componente específico de una carta.
+- #challenge — Acción o fase donde se reta a otra carta o jugador.
+- #challenged-character — Personaje que está siendo retado en un desafío.
+- #challenger — Palabra clave. Efecto de reemplazo.
+- #challenger-character — Personaje o jugador que inicia el desafío.
+- #character — Carta que representa a un personaje dentro del juego.
+- #clause — Condición o cláusula que regula efectos o acciones.
+- #concession — Rendición o abandono voluntario de la partida.
+- #condition — Estado o requisito para activar efectos o acciones.
+- #cost — Recurso o penalización que hay que pagar para jugar una carta o habilidad.
+- #damage — Daño que recibe un personaje o carta.
+- #damage-counter — Marcador que indica el daño acumulado.
+- #deck — Conjunto de cartas que un jugador usa durante el juego.
+- #deck-list — Lista oficial que contiene las cartas del mazo.
+- #deck-registration — Proceso de registro oficial de un mazo en torneo.
+- #deck-rules — Reglas específicas sobre construcción y composición de mazos.
+- #discard — Acción de descartar cartas del mazo o mano.
+- #discard-hand — Descartar la mano completa.
+- #discard-pile — Zona donde se colocan las cartas descartadas.
+- #discard-zone — Zona física donde quedan las cartas descartadas.
+- #draw — Robar cartas del mazo.
+- #draw-step — Paso del turno en que se roba carta.
+- #end-of-game — Condición o momento en que finaliza la partida.
+- #end-of-turn-ability — Habilidad que se activa al final del turno.
+- #end-of-turn-phase — Fase final del turno.
+- #exert — Agotar una carta.
+- #floating-triggered-ability — Habilidad disparada que permanece pendiente.
+- #game-state-check — Comprobación del estado actual del juego para validar acciones.
+- #golden-rule — Regla principal del juego.
+- #hand — Cartas que un jugador tiene en su mano.
+- #hand-size — Número máximo o actual de cartas en mano permitidas.
+- #in-challenge — Estado de estar involucrado en un desafío.
+- #in-play — Cartas que están activas en el campo de juego.
+- #ink — Recurso relacionado con tinta.
+- #ink-type — Categoría o tipo específico dentro del recurso tinta.
+- #inkwell — Zona donde va la tinta.
+- #instead — Acción que reemplaza o modifica la acción original.
+- #item — Tipo de carta.
+- #keyword — Palabra clave que indica una habilidad o regla específica.
+- #lethal-damage — Daño suficiente para eliminar una carta o personaje.
+- #location — Tipo de carta.
+- #lorcana — Nombre del juego (contexto o marca).
+- #lore — Puntos del juego.
+- #lore-value — Valor impreso en una carta.
+- #lose-game — Condición para perder la partida.
+- #manual — Procedimientos o reglas manuales para jueces o jugadores.
+- #may — Indica posibilidad dentro de las reglas.
+- #move-cost — Coste para mover una carta o efecto.
+- #movement — Acción de turno implica movimiento a localizaciones.
+- #multiplayer-game — Partida con varios jugadores.
+- #opponent — Jugador contrario.
+- #order — Secuencia o prioridad de acciones.
+- #pcg — *Play Correction Guidelines* (directrices para corrección de juego).
+- #penalty — Penalización aplicada por infracciones.
+- #phase — Parte del turno del juego.
+- #play — Jugar.
+- #play-card — Acción de turno de jugar una carta.
+- #play-zone — Zona donde las cartas están en juego.
+- #player — Participante en la partida.
+- #playing-cards — Cartas que se están usando o jugando.
+- #prevent — Evitar o anular un efecto o acción.
+- #private-zone — Zona oculta o privada del jugador.
+- #public-zone — Zona visible para todos los jugadores.
+- #quest — Acción de turno para ganar lore.
+- #ready — Estado en que una carta está lista para usarse.
+- #ready-step — Paso donde se enderezan cartas o se preparan.
+- #reckless — Keyword.
+- #replacement-effect — Efecto que reemplaza otro efecto o condición.
+- #required-action — Acción obligatoria que debe realizarse.
+- #resist — Habilidad o efecto para resistir daño o efectos.
+- #return-to-hand — Acción de devolver una carta a la mano.
+- #reveal — Acción de mostrar cartas o información oculta.
+- #rush — Keyword.
+- #set-step — Paso para establecer el estado inicial o preparar.
+- #shift — Cambio o desplazamiento de cartas o estado.
+- #shuffle — Mezclar el mazo.  
+- #skip — Saltar un paso de turno.  
+- #slow-play — Juego lento.  
+- #stack — Pila de efectos o acciones pendientes.  
+- #stack-ability — Habilidad que se coloca en la pila para resolverse.  
+- #stack-verb — Verbo asociado a colocar efectos en la pila.  
+- #starting-game — Inicio de la partida.  
+- #starting-hand — Mano inicial de cartas.  
+- #starting-player — Jugador que comienza la partida.  
+- #static-ability — Habilidad pasiva.  
+- #strength — Fuerza.  
+- #support — Keyword.  
+- #target — Objetivo de un efecto o acción.  
+- #top-card — Carta superior del mazo o pila de descarte.  
+- #triggered-ability — Habilidad que se activa al cumplirse una condición.  
+- #turn — Turno del jugador.  
+- #turn-action — Acción específica realizada durante un turno.  
+- #undamaged — Estado de no haber recibido daño.  
+- #vanish — Acción o habilidad de hacer desaparecer una carta.  
+- #version — Versión de las reglas o del juego.  
+- #ward — Protección o defensa frente a efectos.  
+- #was-damaged — Estado que indica que una carta recibió daño.  
+- #when — Palabra para indicar condición temporal en las reglas.  
+- #whenever — Palabra para indicar condición repetida o continua.  
+- #while-challenge — Durante la fase de desafío.  
+- #willpower — Recurso o atributo de personajes.
+- #win-game — Condición o acción para ganar la partida.
+- #zone — Zona o área de juego (mano, mesa, descarte, etc.).    
+
+---
+
+## ⚠️ Infracciones, Penalizaciones y Comportamiento
+
+- #cheating — Acción intencional de infringir reglas para obtener ventaja.
+- #challenge-damage-step — Paso en el daño durante un desafío.  
+- #improper-match-result — Resultado incorrecto o inválido de una partida.  
+- #intenci — Evaluación o sospecha de intención (maliciosa o accidental).  
+- #jueces — Referencias o notas para jueces.  
+- #penalty — Penalización por incumplimiento o error.  
+- #slow-play — Juego lento que puede considerarse infracción.  
+- #repeat-offender — Jugador que comete infracciones recurrentes.  
+- #player-behavior — Conducta general del jugador.  
+- #investigation — Investigación de situaciones dudosas o sospechosas.  
+- #malicious-intent — Intención maliciosa en la infracción.    
+
+---
+## 🧑‍⚖️ Procedimientos de Jueces y Torneos
+
+- #deck-errors — Errores relacionados con el mazo.
+- #decklist-error — Error en la lista oficial de mazo.  
+- #deck-registration — Registro oficial de mazos.  
+- #event-procedure — Procedimientos para el desarrollo del torneo.  
+- #judge-guidance — Guías o directrices para jueces.  
+- #policy-application — Aplicación de normas y políticas.  
+- #auto-report — Casos de auto-denuncia.  
+- #edge-cases — Casos poco comunes o complejos.  
+- #ruling-explanation — Explicación de decisiones arbitrales.  
+- #tournament-setup — Preparativos para el torneo.  
+- #round-management — Gestión de rondas y emparejamientos.  
+- #match-slips — Control y manejo de papeletas.  
+- #player-meeting — Reuniones informativas con jugadores.    
+
+---
+## 🎓 Formación y Recursos
+
+- #training — Materiales para formación de jueces o jugadores.  
+- #learning — Notas y reflexiones para el aprendizaje.  
+- #judge-education — Educación y formación específica para árbitros.  
+- #faq — Preguntas frecuentes.  
+- #common-mistakes — Errores comunes.  
+- #review-material — Material para repasar reglas.  
+- #internal-notes — Notas personales o no oficiales.    
+
+---
+## 📚 Casos Prácticos y Ejemplos
+
+- #case-study — Análisis de casos reales o hipotéticos.  
+- #example-scenario — Escenarios ilustrativos.  
+- #prevention-tip — Consejos para evitar errores.  
+- #best-practices — Procedimientos recomendados.  
+- #tournament-scenarios — Situaciones típicas en torneos.   
+
+---
+## 🎲 Mecánicas y Resolución
+
+- #priority — Control del orden y prioridad de acciones.  
+- #replacement-effects — Efectos que reemplazan otros.  
+- #timing — Reglas de orden y tiempos para acciones.  
+- #zones — Gestión de zonas de juego (mano, mazo, mesa, tinta...).  
+- #action-resolution — Resolución de acciones y habilidades.  
+
+---

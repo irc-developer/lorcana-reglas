@@ -1845,3 +1845,9 @@ ROCK THE BOAT When you play this character, deal 1 damage to each opposing chara
 PUNY PIRATE! During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.
 
  ---
+  
+### Sudden Chill
+
+Song
+
+Each opponent chooses and discards a card.

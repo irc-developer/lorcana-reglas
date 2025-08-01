@@ -1118,10 +1118,7 @@ STILL USEFUL While you have an item card in your discard, this character gets +2
 HURRY IT UP! Whenever this character quests, chosen character of yours gains Rush and Resist +1 this turn. (They can challenge the turn they're played. Damage dealt to them is reduced by 1.)
 
 ---
-
-  
-
- ### [[Li Shang - Newly Promoted]]
+### [[Li Shang - Newly Promoted]]
 
 I WON'T LET YOU DOWN This character can challenge ready characters.
 

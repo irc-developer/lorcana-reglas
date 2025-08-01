@@ -387,8 +387,7 @@ Rush (This character can challenge the turn they're played.)
 ---
 
   
-
- ### [[Magic Broom - Dancing Duster]]
+### [[Magic Broom - Dancing Duster]]
 
 POWER CLEAN When you play this character, if you have a Sorcerer character in play, you may exert chosen opposing character. They can't ready at the start of their next turn.
 

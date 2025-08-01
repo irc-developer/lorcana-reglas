@@ -514,9 +514,7 @@ Move 1 damage counter from chosen character to chosen opposing character. Draw a
 
 ---
 
-  
-
- ### [[Lose the Way]]
+### [[Lose the Way]]
 
 Exert chosen character. Then, you may choose and discard a card. If you do, the exerted character can't ready at the start of their next turn.
 
@@ -606,9 +604,7 @@ READY FOR ACTION When you play this character, if you used Shift to play him, yo
 
 ---
 
-  
-
- ### [[Go Go Tomago - Darting Dynamo]]
+### [[Go Go Tomago - Darting Dynamo]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 

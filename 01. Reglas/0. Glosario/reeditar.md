@@ -1,0 +1,1 @@
+Volver a sacar una carta ya existente con las mismas características. Puede variar la ilustración.

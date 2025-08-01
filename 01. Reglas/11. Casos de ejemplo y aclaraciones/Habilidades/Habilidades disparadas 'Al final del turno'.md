@@ -3,13 +3,17 @@ Al final del turno tengo un [[Set 3 - Cartas#Mr. Smee - Bumbling Mate]] agotado 
 
 Y al revés: el Mr.Smee no tiene ningún daño ¿Puedo hacerle recibir el daño primero para curarlo y enderezarlo?
 ### Respuesta
-Sí, ya que todas las habilidades de "final de turno" se añaden a la vez a la bolsa y es el jugador quien escoge cómo resolverlas. Esto permite al jugador primero resolver el Mr.Smee para después hacer el Goofy y así curar y enderezar su personaje y al revés..
+Sí, ya que todas las habilidades de [[4.4. Final del turno (End Of Turn Phase)]] se añaden a la vez a la bolsa y es el jugador quien escoge cómo resolverlas. Esto permite al jugador primero resolver el Mr.Smee para después hacer el Goofy y así curar y enderezar su personaje y al revés.
 
-### Reglas implicadas:
-- [[4.4. Final del turno (End Of Turn Phase)]]
 ### Referencias
 Discord
 
-
 ---
+### Duda
+- En mesa tengo [[Set 5 - Cartas#Clarabelle - Light on Her Hooves]] y dos cartas en mano.
+- Mi oponente un [[Set 4 - Cartas#Diablo - Devoted Herald]] agotado y cuatro cartas en mano.
+
+Declaro el final del turno con lo que la habilidad de Clarabelle va a la bolsa, permitiendo robar dos cartas. Como robo dos cartas, se dispara dos veces la habilidad del Diablo ¿Volvería a robar con Clarabelle debido a su habilidad?
+### Respuesta
+No, los triggers de final de turno sólo se disparan al comienzo del mismo y no se vuelven a disparar hasta la siguiente fase de final de turno.
 #end-of-turn-phase #end-of-turn-ability #order #triggered-ability 
