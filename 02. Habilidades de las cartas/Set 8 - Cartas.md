@@ -612,9 +612,7 @@ Support (Whenever this character quests, you may add their {S} to another chosen
 
 ---
 
-  
-
- ### [[Anna - Magical Mission]]
+### [[Anna - Magical Mission]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Anna.)
 
