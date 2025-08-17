@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46651a6c593514c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantillas/_plantilla errores en reglas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_plantilla errores en reglas"
-            }
-          },
-          {
-            "id": "25c12563d9e25049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantillas/_plantilla conducta antideportiva.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_plantilla conducta antideportiva"
-            }
-          },
-          {
             "id": "6a9f9c8c4bd83bef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Qué pasa cuando se juegan dos cartas a la vez.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué pasa cuando se juegan dos cartas a la vez"
+              "title": "Tiana y su trigger post canción"
             }
           },
           {
-            "id": "9320ee2edb89801b",
+            "id": "85e57ab7ad77bb67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/7. Habilidades (abilities)/7.4.4 Condición de activación C1 si C2 entonces E.md",
+                "file": "02. Habilidades de las cartas/Set 9 - Cartas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4.4 Condición de activación C1 si C2 entonces E"
+              "title": "Set 9 - Cartas"
             }
           },
           {
-            "id": "34f01ecda87b74bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.9 Verificación del estado de la partida (Game State Check)"
-            }
-          },
-          {
-            "id": "751600076b9b7b73",
+            "id": "edd8cf0aedb218e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,51 +48,8 @@
               "icon": "lucide-file",
               "title": "Set 7 - Cartas"
             }
-          },
-          {
-            "id": "dc417be97a868d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 1 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 1 - Cartas"
-            }
-          },
-          {
-            "id": "9b7ec5d6c3f7e8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 1 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 1 - Cartas"
-            }
-          },
-          {
-            "id": "b00f1087c7eb412b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 6 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 6 - Cartas"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4.3.6",
+                "query": "tiana",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 507.5
   },
   "right": {
     "id": "f7702f953fe80687",
@@ -207,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Qué pasa cuando se juegan dos cartas a la vez.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Qué pasa cuando se juegan dos cartas a la vez"
+              "title": "Enlaces entrantes de Tiana y su trigger post canción"
             }
           },
           {
@@ -284,35 +199,35 @@
   },
   "active": "6a9f9c8c4bd83bef",
   "lastOpenFiles": [
-    "01. Reglas/7. Habilidades (abilities)/7.4.4 Condición de activación C1 si C2 entonces E.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Qué pasa cuando se juegan dos cartas a la vez.md",
-    "02. Habilidades de las cartas/Set 4 - Cartas.md",
-    "02. Habilidades de las cartas/Set 8 - Cartas.md",
+    "Sin título.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
+    "02. Habilidades de las cartas/Set 9 - Cartas.md",
     "plantillas/_plantilla para ejemplos de dudas.md",
-    "01. Reglas/1. Conceptos/1.6.2 Efectos simultáneos para todos los jugadores.md",
-    "01. Reglas/1. Conceptos/1.6 Tipos de habilidad (Ability Types).md",
-    "01. Reglas/7. Habilidades (abilities)/7.7. Efectos de Reemplazo (Replacement Effects).md",
-    "01. Reglas/7. Habilidades (abilities)/7.3. Palabras Clave (Keywords).md",
-    "01. Reglas/12. Artículos/No sabemos jugar cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Situaciones 'al mismo tiempo'",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.6.2. Paso de daño por reto (Challenge Damage Step).md",
-    "01. Reglas/12. Artículos",
-    "01. Reglas/6. Tipos de carta (Card types)/6.1. Personajes (Characters).md",
-    "Empecemos.md",
-    "ivan.juez.lorcana@gmail.com.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta/Usar cartas de anteriores sets reeditadas.md",
-    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y el final de partida.md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.  Tipos de Cláusulas.md",
+    "01. Reglas/7. Habilidades (abilities)/7.1.2.3. Tipo (A) then (B).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4. Estructura del turno (Turn Structure).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Cartas en mano y el cálculo de triggers.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Glosario.md",
+    "01. Reglas/7. Habilidades (abilities)/7.4. Habilidades Disparadas (Triggered Abilities).md",
+    "01. Reglas/7. Habilidades (abilities)/7.4.4 Condición de activación C1 si C2 entonces E.md",
+    "01. Reglas/5. Cartas (cards)/5.1. Estados (Conditions).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md",
+    "01. Reglas/7. Habilidades (abilities)/7.4.3. Bolsa.md",
+    "01. Reglas/8. Zonas (Zones)/8.7. Bolsa (Bag).md",
+    "01. Reglas/8. Zonas (Zones)/8.7.4. Resolución del jugador activo.md",
+    "02. Habilidades de las cartas/Set 6 - Cartas.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y habilidades que dañan.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta/Legalidad de una carta modificada.md",
-    "01. Reglas/0. Glosario/Carta modificada (altered card).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Desterrar y volver a la mano desde la zona de juego.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Be Prepared y devolver personajes a la mano.md",
+    "02. Habilidades de las cartas/Set 7 - Cartas.md",
+    "Empecemos.md",
+    "plantillas/_plantilla conducta antideportiva.md",
+    "01. Reglas/0. Glosario/Desterrado (banished).md",
+    "01. Reglas/0. Glosario/Desterrar (banish).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Situaciones 'al mismo tiempo'",
+    "01. Reglas/12. Artículos",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta",
-    "02. Habilidades de las cartas/Set 1 - Cartas.md",
-    "01. Reglas/0. Glosario/Carta erratada (errated card).md",
-    "01. Reglas/0. Glosario/Carta reeditada (reprinted card).md",
-    "01. Reglas/0. Glosario/reeditar.md",
-    "00. Introducción/Introducción.md",
-    "05. Consejos de jueces/5. Las reglas de Disney Lorcana.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Lectura correcta de cartas",
     "imagenes/Pasted image 20250622213135.png",
     "imagenes/Pasted image 20250625151713.png",

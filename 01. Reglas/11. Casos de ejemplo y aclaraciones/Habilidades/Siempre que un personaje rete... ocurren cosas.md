@@ -6,3 +6,14 @@ Sí, la jugada es correcta. Cuando el oponente declara reto y selecciona los [[P
 ### Referencias
 Experiencia personal.
 #damage #moving-damage #triggered-ability #challenging-character #challenged-character 
+
+### Duda 2
+- Tengo en mesa a [[Set 4 - Cartas#Mulan - Elite Archer]] y a [[Set 7 - Cartas#Mushu - Majestic Dragon]]. 
+- Desafío a un personaje con Mulan y con su habilidad disparada mato a otros dos con el daño que hace.
+¿Cuántos puntos de lore gano? ¿Cuentan los otros dos para la habilidad de Mushu?
+
+### Respuesta 2
+Ganarías dos ya que la habilidad de mushu sólo hace efecto a los implicados [[En el desafío (in challenge)]], el resto no están participando del mismo.
+### Referencias
+[discord](https://discord.com/channels/1239209810654793730/1405739132768223322/1405739132768223322)
+#triggered-ability #challenging-character #challenged-character #challenge #challenge #in-challenge

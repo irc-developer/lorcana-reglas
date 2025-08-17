@@ -1051,9 +1051,7 @@ PUMPKIN SPICE When you play this character, each opponent loses 1 lore and you g
 
 ---
 
-  
-
- ### [[Honest John - Shameless Schemer]]
+### [[Honest John - Shameless Schemer]]
 
 ---
 

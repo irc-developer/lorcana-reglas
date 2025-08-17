@@ -35,11 +35,23 @@ Tú, que eres el jugador activo, ganas la partida. Una vez las cabras abandonan 
 ---
 ### Duda 4
 - Mi oponente y yo empatados a dieciocho lores.
-- Juego una canción que, hipotéticamente, dice "Los jugadores ganan dos de lore y roban dos cartas".
+- Juego [[Set 9 - Cartas#I2I]].
 
 ¿Quién gana la partida?
 ### Respuesta
-Tú, que eres el jugador activo, ganas la partida. En este caso ambos jugadores ganan a la vez el lore y, al acabar de resolverla, se procede con la  [[1.9 Verificación del estado de la partida (Game State Check)]] donde se especifica que se resuelve primero el jugador activo.
+Tú, que eres el jugador activo, ganas la partida. En este caso ambos jugadores ganan a la vez el lore y, al acabar de resolverla, se procede con la  [[1.9 Verificación del estado de la partida (Game State Check)]] donde la regla especifica que se resuelve primero el jugador activo.
+
+### Etiquetas
+#gsc #end-of-game #action-card #required-action #win-game 
+
+### Duda 5
+- Mi oponente y yo empatados a dieciocho lores.
+- Me queda una carta en el mazo.
+- Juego [[Set 9 - Cartas#I2I]].
+
+¿Quién gana la partida?
+### Respuesta
+Tú, que eres el jugador activo, ganas la partida. En este caso ambos jugadores ganan a la vez el lore y, al acabar de resolverla, se procede con la  [[1.9 Verificación del estado de la partida (Game State Check)]] donde la regla especifica que se resuelve primero el jugador activo. En ese mismo punto se especifica, además, que si se gana y pierde a la vez se gana.
 
 ### Etiquetas
 #gsc #end-of-game #action-card #required-action #win-game #lose-game

@@ -432,9 +432,7 @@ THIS IS NOT DONE YET During an opponent's turn, whenever one of your Illusion ch
 
 ---
 
-  
-
- ### [[Hades - Fast Talker]]
+### [[Hades - Fast Talker]]
 
 FOR JUST A LITTLE PAIN When you play this character, you may deal 2 damage to another chosen character of yours to banish chosen character with cost 3 or less.
 
@@ -562,10 +560,7 @@ Challenger +2 (While challenging, this character gets +2 {S})
 PRESTIDIGITONIUM Whenever this character quests, name a card, then reveal the top card of your deck. If it's the named card, put it into your inkwell facedown and exerted. Otherwise, put it on the top of your deck.
 
 ---
-
-  
-
- ### [[Yzma - Above It All]]
+### [[Yzma - Above It All]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Yzma.)
 
@@ -1151,10 +1146,7 @@ Rush (This character can challenge the turn they're played.)
 I'VE HAD IT! {E}, 2 {I}, Banish 2 of your items — Deal 5 damage to chosen character.
 
 ---
-
-  
-
- ### [[Mushu - Majestic Dragon]]
+### [[Mushu - Majestic Dragon]]
 
 INTIMIDATING AND AWE-INSPIRING Whenever one of your characters challenges, they gain Resist +2 during that challenge. (Damage dealt to them is reduced by 2.)
 
@@ -1200,9 +1192,7 @@ EXCEPTIONAL LEADER Whenever this character challenges another character, your ot
 
 ---
 
-  
-
- ### [[Baloo - Ol' Iron Paws]]
+### [[Baloo - Ol' Iron Paws]]
 
 FIGHT LIKE A BEAR Your characters with 7 {S} or more can't be dealt damage.
 

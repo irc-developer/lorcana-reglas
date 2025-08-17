@@ -1,4 +1,4 @@
-### Duda
+### Duda 1
 En mi mazo no queda ninguna carta. En mesa tengo [[Set 5 - Cartas#Alan-a-Dale - Rockin' Rooster]] y juego un [[Set 5 - Cartas#Prince Naveen - Ukulele Player]] para que, con su habilidad, jugar un [[Set 5 - Cartas#We Know the Way]], devolver esta misma carta al mazo y, al revelarla, encadenar una y otra vez el jugarla. Esto lleva a un bucle infinito y me permite ganar la partida al ganar infinito lore ¿Es esto correcto?
 
 ### Respuesta
@@ -35,4 +35,29 @@ Discord
 
 **Etiquetas:**  
 #free #bag #card-interaction #delay-efect
+
+
+### Duda 2
+
+- Tengo en mesa un [[Set 9 - Cartas#Max Goof - Chart Topper]] con el que hago quest.
+- En el descarte tengo un [[Set 5 - Cartas#You're Welcome]] que lanzo sobre uno de mis personajes.
+
+La carta va al fondo del mazo ¿Sería antes o después de barajar?
+
+### Respuesta
+Iría al fondo del mazo y se barajaría pues, aun estando jugada, su efecto se aplaza a cuando el trigger de Max se haya acabado de resolver. Quedaría del siguiente modo:
+
+1.  Hago quest con max y su habilidad entra en la bolsa.
+2. Comienzo a resolver su trigger:
+	a. Selecciono el Welcome.
+	b. Hago objetivo a mi personaje.
+	c. Aplazamos el efecto del Welcome
+	d. La carta va al fondo del mazo.
+3. Finalizamos de resolver el trigger de Max.
+4. El efecto aplazado del Welcome se resuelve haciendo que barajemos el personaje y robemos dos cartas.
+### Referencias
+[Discord](https://discord.com/channels/1239209810654793730/1261426629956206773/1404859708413841552)
+
+**Etiquetas:**  
+#free #bag #card-interaction #delay-efect #shuffle #triggered-ability
 
