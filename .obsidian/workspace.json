@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a9f9c8c4bd83bef",
+            "id": "ecb545d04f7d764f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Heredar un estado al hacer shift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiana y su trigger post canción"
-            }
-          },
-          {
-            "id": "85e57ab7ad77bb67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 9 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 9 - Cartas"
-            }
-          },
-          {
-            "id": "edd8cf0aedb218e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Habilidades de las cartas/Set 7 - Cartas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 7 - Cartas"
+              "title": "Heredar un estado al hacer shift"
             }
           }
         ]
@@ -81,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tiana",
+                "query": "estado",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Heredar un estado al hacer shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Tiana y su trigger post canción"
+              "title": "Enlaces entrantes de Heredar un estado al hacer shift"
             }
           },
           {
@@ -197,34 +170,42 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "6a9f9c8c4bd83bef",
+  "active": "ecb545d04f7d764f",
   "lastOpenFiles": [
-    "Sin título.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
-    "02. Habilidades de las cartas/Set 9 - Cartas.md",
-    "plantillas/_plantilla para ejemplos de dudas.md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.2.  Tipos de Cláusulas.md",
-    "01. Reglas/7. Habilidades (abilities)/7.1.2.3. Tipo (A) then (B).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4. Estructura del turno (Turn Structure).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Cartas en mano y el cálculo de triggers.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Glosario.md",
-    "01. Reglas/7. Habilidades (abilities)/7.4. Habilidades Disparadas (Triggered Abilities).md",
-    "01. Reglas/7. Habilidades (abilities)/7.4.4 Condición de activación C1 si C2 entonces E.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3.5 Irse de aventura (quest) y ganar puntos de leyenda (lore).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Heredar un estado al hacer shift.md",
     "01. Reglas/5. Cartas (cards)/5.1. Estados (Conditions).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md",
-    "01. Reglas/7. Habilidades (abilities)/7.4.3. Bolsa.md",
-    "01. Reglas/8. Zonas (Zones)/8.7. Bolsa (Bag).md",
-    "01. Reglas/8. Zonas (Zones)/8.7.4. Resolución del jugador activo.md",
-    "02. Habilidades de las cartas/Set 6 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y habilidades que dañan.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Desterrar y volver a la mano desde la zona de juego.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Be Prepared y devolver personajes a la mano.md",
-    "02. Habilidades de las cartas/Set 7 - Cartas.md",
+    "01. Reglas/10. Palabras clave (Keywords)/10.8 Cambio/10.8.3. Heredar estado.md",
+    "plantillas/_plantilla para ejemplos de dudas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados",
+    "01. Reglas/0. Glosario/Efectos de reemplazo propios (self-replacement effects).md",
+    "01. Reglas/7. Habilidades (abilities)/7.7.6. Un efecto reemplaza a un evento.md",
+    "01. Reglas/10. Palabras clave (Keywords)/10.8 Cambio/10.8. Cambio (Shift).md",
+    "01. Reglas/7. Habilidades (abilities)/7.7.7 Múltiples efectos de reemplazo sobre un reemplazo.md",
     "Empecemos.md",
-    "plantillas/_plantilla conducta antideportiva.md",
-    "01. Reglas/0. Glosario/Desterrado (banished).md",
-    "01. Reglas/0. Glosario/Desterrar (banish).md",
+    "01. Reglas/7. Habilidades (abilities)/7.7.8 Efectos que saltan fases o pasos.md",
+    "01. Reglas/1. Conceptos/1.9 Verificación del estado de la partida (Game State Check).md",
+    "01. Reglas/1. Conceptos/1.6 Tipos de habilidad (Ability Types).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Glosario.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Cartas en mano y el cálculo de triggers.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
+    "01. Reglas/7. Habilidades (abilities)/7.8. Modificadores de Habilidad (Ability Modifiers).md",
+    "01. Reglas/7. Habilidades (abilities)/7.7.5. Efecto y existencia.md",
+    "01. Reglas/10. Palabras clave (Keywords)/10.8 Cambio/10.8.1. Cambiar (shifting).md",
+    "01. Reglas/7. Habilidades (abilities)/7.7. Efectos de Reemplazo (Replacement Effects).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades estáticas y efectos de reemplazo/Tener una habilidad por otro personaje.md",
+    "01. Reglas/0. Glosario/Palabras clave (keyword ability).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Clausulas/Cláusulas independientes.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Modifica su fuerza mientras reta.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades estáticas y efectos de reemplazo",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Personaje no puede enderezarse y no está agotado.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Clausulas",
+    "02. Habilidades de las cartas/Set 2 - Cartas.md",
+    "09. Recursos",
+    "08. Consejos para jugadores/Sin nombre",
+    "imagenes/recursos/turno.png",
+    "imagenes/recursos/definiciones.png",
+    "imagenes/recursos",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Situaciones 'al mismo tiempo'",
     "01. Reglas/12. Artículos",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de una carta",
@@ -236,15 +217,7 @@
     "imagenes/Pasted image 20250622220405.png",
     "imagenes/Pasted image 20250623100100.png",
     "imagenes/Pasted image 20250623100027.png",
-    "01. Reglas/10. Palabras clave (Keywords)/10.13 Protección",
-    "01. Reglas/10. Palabras clave (Keywords)/10.12 Desvanecer",
-    "01. Reglas/10. Palabras clave (Keywords)/10.11 Apoyo",
-    "01. Reglas/10. Palabras clave (Keywords)/10.10 Cantar juntos",
-    "01. Reglas/10. Palabras clave (Keywords)/10.9 Cantante",
-    "01. Reglas/10. Palabras clave (Keywords)/10.8 Cambio",
     "Pasted image 20250727154520.png",
-    "Imagen de WhatsApp 2025-07-27 a las 14.01.33_0b28ee15.jpg",
-    "01. Reglas/0. Glosario/elsaicemaker.png",
     "Sin título.canvas",
     "Acciones correctivas.canvas"
   ]

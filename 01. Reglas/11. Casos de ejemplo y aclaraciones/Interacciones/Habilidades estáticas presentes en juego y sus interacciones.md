@@ -15,10 +15,12 @@ Sí, en este contexto es correcto que el Maui Shark entre agotado. Utilizando la
 
 Relacionada con la anterior. Voy a jugar un  [[Set 4 - Cartas#Prince Eric - Ursula's Groom]] con [[Set 4 - Cartas#Ursula - Eric's Bride]] ya en juego ¿Puede entrar agotado ya que tiene bodyguard?
 
-### Respuesta
+### Respuesta 2
 No, no podría. A diferencia del anterior caso la habilidad estática que le permite el efecto de remplazo en el que gana [[Guardaespaldas (bodyguard)]] pertenece a la propia carta (intrínseca) con lo que hasta que está "jugada" no puede "ver" a Úrsula. Entrará con bodyguard pero el momento de aplicar el efecto de reemplazo "entrar agotado" ya ha pasado.
 
 #bodyguard  #static-ability #replacement-effect #play-card #played
+
+
 
 ---
 

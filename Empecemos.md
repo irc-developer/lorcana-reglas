@@ -1,6 +1,6 @@
 # Guía Completa de Disney Lorcana TCG en Español
 
-*Última actualización 15/08/25*
+*Última actualización 21/08/25*
 
 ¡Hola! Me llamo Iván (Shinobana), apasionado jugador de lorcana y juez en ciernes. Sé bienvenido/a a la **guía definitiva en español sobre Disney Lorcana TCG**, el juego de cartas coleccionables de Disney. Aquí encontrarás **reglas oficiales adaptadas al castellano**, explicaciones detalladas, glosario completo, materiales para árbitros y mucho más.
 
@@ -53,6 +53,15 @@ Este proyecto es de la comunidad y para la comunidad. Si detectas errores, tiene
 
 
 ---
+## 🔗 Links de interés
+
+- 📖 [Documentación sobre Disney Lorcana (Inglés)](https://www.disneylorcana.com/en-US/resources)
+- 🎴 [Base de datos de cartas - Dreamborn](https://dreamborn.ink)
+- 🌐 [Comunidad Discord oficial](https://discord.gg/disneylorcana)
+- 💬 [Comunidad Discord Lorcana Rulebook Hub](https://discord.gg/hRg9KtFE)
+- 🤝 [Github con la documentación oficial](https://github.com/hexastix/disney-lorcana-tcg-resources?tab=readme-ov-file)
+- 🛠️[Lorecast API](https://lorcast.com/docs/api)
+- 🏆 [Clasificación por zonas (ELO)](http://www.eloquest.ink)
 
 _Disney Lorcana TCG es una marca de Ravensburger y Disney. Este sitio es una iniciativa no oficial y sin ánimo de lucro, creada con fines educativos y comunitarios._
 
