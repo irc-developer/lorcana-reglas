@@ -66,7 +66,7 @@ YOU'VE GOT TO PAY TO PLAY Whenever this character quests, chosen opposing charac
 
   
 
- ### [[Fix-It Felix, Jr. - Trusty Builder]]
+### [[Fix-It Felix, Jr. - Trusty Builder]]
 
 Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
 
@@ -74,7 +74,7 @@ Bodyguard (This character may enter play exerted. An opposing character who chal
 
   
 
- ### [[Gazelle - Pop Star]]
+### [[Gazelle - Pop Star]]
 
 Singer 5 (This character counts as cost 5 to sing songs.)
 
@@ -82,7 +82,7 @@ Singer 5 (This character counts as cost 5 to sing songs.)
 
   
 
- ### [[Fix-It Felix, Jr. - Niceland Steward]]
+### [[Fix-It Felix, Jr. - Niceland Steward]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Fix-It Felix, Jr.)
 
@@ -110,7 +110,7 @@ NOT WITHOUT MY FAMILY You can't play this character unless you have 5 or more ch
 
   
 
- ### [[Minnie Mouse - Drum Major]]
+### [[Minnie Mouse - Drum Major]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Minnie Mouse.)
 
@@ -118,6 +118,7 @@ PARADE ORDER When you play this character, if you used Shift to play her, you ma
 
 ---
 
+  
 
 ### [[Daisy Duck - Donald's Date]]
 
@@ -135,13 +136,23 @@ OH, MY LAND! When you play this character, if you have a location in play, draw 
 
   
 
- ### [[Moana - Determined Explorer]]
+### [[Moana - Determined Explorer]]
 
 ---
 
   
 
- ### [[Alan-a-Dale - Rockin' Rooster]]
+### [[Vanellope von Schweetz - Sugar Rush Princess]]
+
+Shift 2 (You may pay 2 {I} to play this on top of one of your characters named Vanellope von Schweetz.)
+
+I HEREBY DECREE Whenever you play another Princess character, all opposing characters get -1 {S} until the start of your next turn.
+
+---
+
+  
+
+### [[Alan-a-Dale - Rockin' Rooster]]
 
 FAN FAVORITE Whenever you play a song, gain 1 lore.
 
@@ -149,7 +160,7 @@ FAN FAVORITE Whenever you play a song, gain 1 lore.
 
   
 
- ### [[Wreck-It Ralph - Admiral Underpants]]
+### [[Wreck-It Ralph - Admiral Underpants]]
 
 I'VE GOT THE COOLEST FRIEND When you play this character, return a character card from your discard to your hand. If that card is a Princess character card, gain 2 lore.
 
@@ -157,7 +168,7 @@ I'VE GOT THE COOLEST FRIEND When you play this character, return a character car
 
   
 
- ### [[Maid Marian - Lady of the Lists]]
+### [[Maid Marian - Lady of the Lists]]
 
 IF IT PLEASES THE LADY When you play this character, chosen opposing character gets -5 {S} until the start of your next turn.
 
@@ -165,7 +176,7 @@ IF IT PLEASES THE LADY When you play this character, chosen opposing character g
 
   
 
- ### [[Sven - Reindeer Steed]]
+### [[Sven - Reindeer Steed]]
 
 REINDEER GAMES When you play this character, you may ready chosen character. They can't quest or challenge for the rest of this turn.
 
@@ -173,7 +184,7 @@ REINDEER GAMES When you play this character, you may ready chosen character. The
 
   
 
- ### [[Minnie Mouse - Compassionate Friend]]
+### [[Minnie Mouse - Compassionate Friend]]
 
 PATCH THEM UP Whenever this character quests, you may remove up to 2 damage from chosen character.
 
@@ -181,7 +192,7 @@ PATCH THEM UP Whenever this character quests, you may remove up to 2 damage from
 
   
 
- ### [[Try Everything]]
+### [[Try Everything]]
 
 (A character with cost 4 or more can {E} to sing this song for free.)
 
@@ -191,7 +202,7 @@ Remove up to 3 damage from chosen character and ready them. They can't quest or 
 
   
 
- ### [[Healing Touch]]
+### [[Healing Touch]]
 
 Remove up to 4 damage from chosen character. Draw a card.
 
@@ -199,7 +210,7 @@ Remove up to 4 damage from chosen character. Draw a card.
 
   
 
- ### [[Revive]]
+### [[Revive]]
 
 Play a character card with cost 5 or less from your discard for free.
 
@@ -207,7 +218,7 @@ Play a character card with cost 5 or less from your discard for free.
 
   
 
- ### [[Blast from Your Past]]
+### [[Blast from Your Past]]
 
 (A character with cost 6 or more can {E} to sing this song for free.)
 
@@ -217,7 +228,7 @@ Name a card. Return all character cards with that name from your discard to your
 
   
 
- ### [[Invited to the Ball]]
+### [[Invited to the Ball]]
 
 Reveal the top 2 cards of your deck. Put revealed character cards into your hand. Put the rest on the bottom of your deck in any order.
 
@@ -225,7 +236,7 @@ Reveal the top 2 cards of your deck. Put revealed character cards into your hand
 
   
 
- ### [[Healing Decanter]]
+### [[Healing Decanter]]
 
 RENEWING ESSENCE {E} — Remove up to 2 damage from chosen character.
 
@@ -233,7 +244,7 @@ RENEWING ESSENCE {E} — Remove up to 2 damage from chosen character.
 
   
 
- ### [[Queen's Sensor Core]]
+### [[Queen's Sensor Core]]
 
 SYMBOL OF NOBILITY At the start of your turn, if you have a Princess or Queen character in play, gain 1 lore.
 
@@ -243,7 +254,7 @@ ROYAL SEARCH {E}, 2 {I} — Reveal the top card of your deck. If it's a Princess
 
   
 
- ### [[Amber Chromicon]]
+### [[Amber Chromicon]]
 
 AMBER LIGHT {E} — Remove up to 1 damage from each of your characters.
 
@@ -251,7 +262,7 @@ AMBER LIGHT {E} — Remove up to 1 damage from each of your characters.
 
   
 
- ### [[Rapunzel's Tower - Secluded Prison]]
+### [[Rapunzel's Tower - Secluded Prison]]
 
 SAFE AND SOUND Characters get +3 {W} while here.
 
@@ -259,7 +270,7 @@ SAFE AND SOUND Characters get +3 {W} while here.
 
   
 
- ### [[Pride Lands - Jungle Oasis]]
+### [[Pride Lands - Jungle Oasis]]
 
 OUR HUMBLE HOME While you have 3 or more characters here, you may banish this location to play a character from your discard for free.
 
@@ -267,7 +278,7 @@ OUR HUMBLE HOME While you have 3 or more characters here, you may banish this lo
 
   
 
- ### [[Maleficent - Formidable Queen]]
+### [[Maleficent - Formidable Queen]]
 
 Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Maleficent.)
 
@@ -277,7 +288,7 @@ LISTEN WELL, ALL OF YOU When you play this character, for each of your character
 
   
 
- ### [[The Nokk - Mythical Spirit]]
+### [[The Nokk - Mythical Spirit]]
 
 TURNING TIDES When you play this character, you may move up to 2 damage counters from chosen character to chosen opposing character.
 
@@ -285,7 +296,7 @@ TURNING TIDES When you play this character, you may move up to 2 damage counters
 
   
 
- ### [[Cogsworth - Illuminary Watchman]]
+### [[Cogsworth - Illuminary Watchman]]
 
 TIME TO MOVE IT! When you play this character, chosen character gains Rush this turn. (They can challenge the turn they're played.)
 
@@ -293,7 +304,7 @@ TIME TO MOVE IT! When you play this character, chosen character gains Rush this 
 
   
 
- ### [[Merlin - Turtle]]
+### [[Merlin - Turtle]]
 
 GIVE ME TIME TO THINK When you play this character and when he leaves play, look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.
 
@@ -301,7 +312,7 @@ GIVE ME TIME TO THINK When you play this character and when he leaves play, look
 
   
 
- ### [[Archimedes - Exasperated Owl]]
+### [[Archimedes - Exasperated Owl]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -309,7 +320,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Bruni - Fire Salamander]]
+### [[Bruni - Fire Salamander]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -319,7 +330,7 @@ PARTING GIFT When this character is banished, you may draw a card.
 
   
 
- ### [[Earth Giant - Living Mountain]]
+### [[Earth Giant - Living Mountain]]
 
 UNEARTHED When you play this character, each opponent draws a card.
 
@@ -327,7 +338,7 @@ UNEARTHED When you play this character, each opponent draws a card.
 
   
 
- ### [[Gale - Wind Spirit]]
+### [[Gale - Wind Spirit]]
 
 RECURRING GUST When this character is banished in a challenge, return this card to your hand.
 
@@ -335,13 +346,13 @@ RECURRING GUST When this character is banished in a challenge, return this card 
 
   
 
- ### [[White Rabbit - Royal Herald]]
+### [[White Rabbit - Royal Herald]]
 
 ---
 
   
 
- ### [[Madam Mim - Elephant]]
+### [[Madam Mim - Elephant]]
 
 A LITTLE GAME When you play this character, banish her or return another chosen character of yours to your hand.
 
@@ -351,13 +362,13 @@ SNEAKY MOVE At the start of your turn, you may move up to 2 damage counters from
 
   
 
- ### [[Luisa Madrigal - Entertaining Muscle]]
+### [[Luisa Madrigal - Entertaining Muscle]]
 
 ---
 
   
 
- ### [[Anna - Mystical Majesty]]
+### [[Anna - Mystical Majesty]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Anna.)
 
@@ -367,7 +378,7 @@ EXCEPTIONAL POWER When you play this character, exert all opposing characters.
 
   
 
- ### [[Archimedes - Electrified Owl]]
+### [[Archimedes - Electrified Owl]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Archimedes.)
 
@@ -379,7 +390,7 @@ Challenger +3 (While challenging, this character gets +3 {S}.)
 
   
 
- ### [[Elsa - The Fifth Spirit]]
+### [[Elsa - The Fifth Spirit]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -391,7 +402,7 @@ CRYSTALLIZE When you play this character, exert chosen opposing character.
 
   
 
- ### [[Genie - Main Attraction]]
+### [[Genie - Main Attraction]]
 
 PHENOMENAL SHOWMAN While this character is exerted, opposing characters can't ready at the start of their turn.
 
@@ -399,7 +410,7 @@ PHENOMENAL SHOWMAN While this character is exerted, opposing characters can't re
 
   
 
- ### [[Olaf - Happy Passenger]]
+### [[Olaf - Happy Passenger]]
 
 CLEAR THE PATH For each exerted character opponents have in play, you pay 1 {I} less to play this character.
 
@@ -409,7 +420,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Maleficent - Vexed Partygoer]]
+### [[Maleficent - Vexed Partygoer]]
 
 WHAT AN AWKWARD SITUATION Whenever this character quests, you may choose and discard a card to return chosen character, item, or location with cost 3 or less to their player's hand.
 
@@ -417,13 +428,13 @@ WHAT AN AWKWARD SITUATION Whenever this character quests, you may choose and dis
 
   
 
- ### [[Monstro - Whale of a Whale]]
+### [[Monstro - Whale of a Whale]]
 
 ---
 
   
 
- ### [[Magica De Spell - Cruel Sorceress]]
+### [[Magica De Spell - Cruel Sorceress]]
 
 PLAYING WITH POWER During opponents' turns, if an effect would cause you to discard one or more cards from your hand, you don't discard.
 
@@ -431,13 +442,13 @@ PLAYING WITH POWER During opponents' turns, if an effect would cause you to disc
 
   
 
- ### [[Maleficent - Vengeful Sorceress]]
+### [[Maleficent - Vengeful Sorceress]]
 
 ---
 
   
 
- ### [[Rafiki - Shaman Duelist]]
+### [[Rafiki - Shaman Duelist]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -447,7 +458,7 @@ SURPRISING SKILL When you play this character, he gains Challenger +4 this turn.
 
   
 
- ### [[Anna - Eager Acolyte]]
+### [[Anna - Eager Acolyte]]
 
 GROWING POWERS When you play this character, each opponent chooses and exerts one of their ready characters.
 
@@ -455,7 +466,7 @@ GROWING POWERS When you play this character, each opponent chooses and exerts on
 
   
 
- ### [[King of Hearts - Monarch of Wonderland]]
+### [[King of Hearts - Monarch of Wonderland]]
 
 PLEASING THE QUEEN {E} — Chosen exerted character can't ready at the start of their next turn.
 
@@ -463,7 +474,7 @@ PLEASING THE QUEEN {E} — Chosen exerted character can't ready at the start of 
 
   
 
- ### [[Camilo Madrigal - Family Copycat]]
+### [[Camilo Madrigal - Family Copycat]]
 
 IMITATE Whenever this character quests, you may gain lore equal to the {L} of chosen other character of yours. Return that character to your hand.
 
@@ -471,7 +482,7 @@ IMITATE Whenever this character quests, you may gain lore equal to the {L} of ch
 
   
 
- ### [[Hypnotic Strength]]
+### [[Hypnotic Strength]]
 
 Draw a card. Chosen character gains Challenger +2 this turn. (They get +2 {S} while challenging.)
 
@@ -479,7 +490,7 @@ Draw a card. Chosen character gains Challenger +2 this turn. (They get +2 {S} wh
 
   
 
- ### [[Finders Keepers]]
+### [[Finders Keepers]]
 
 Draw 3 cards.
 
@@ -487,7 +498,7 @@ Draw 3 cards.
 
   
 
- ### [[We Know the Way]]
+### [[We Know the Way]]
 
 (A character with cost 3 or more can {E} to sing this song for free.)
 
@@ -497,7 +508,7 @@ Shuffle chosen card from your discard into your deck. Reveal the top card of you
 
   
 
- ### [[Gathering Knowledge and Wisdom]]
+### [[Gathering Knowledge and Wisdom]]
 
 Gain 2 lore.
 
@@ -505,7 +516,7 @@ Gain 2 lore.
 
   
 
- ### [[Magical Aid]]
+### [[Magical Aid]]
 
 Chosen character gains Challenger +3 and “When this character is banished in a challenge, return this card to your hand” this turn. (They get +3 {S} while challenging.)
 
@@ -513,7 +524,7 @@ Chosen character gains Challenger +3 and “When this character is banished in a
 
   
 
- ### [[Retrosphere]]
+### [[Retrosphere]]
 
 EXTRACT OF AMETHYST 2 {I}, Banish this item — Return chosen character, item, or location with cost 3 or less to their player's hand.
 
@@ -521,7 +532,7 @@ EXTRACT OF AMETHYST 2 {I}, Banish this item — Return chosen character, item, o
 
   
 
- ### [[Half Hexwell Crown]]
+### [[Half Hexwell Crown]]
 
 AN UNEXPECTED FIND {E}, 2 {I} — Draw a card.
 
@@ -531,7 +542,7 @@ A PERILOUS POWER {E}, 2 {I}, Discard a card — Exert chosen character.
 
   
 
- ### [[Amethyst Chromicon]]
+### [[Amethyst Chromicon]]
 
 AMETHYST LIGHT {E} — Each player may draw a card.
 
@@ -539,7 +550,7 @@ AMETHYST LIGHT {E} — Each player may draw a card.
 
   
 
- ### [[Elsa's Ice Palace - Place of Solitude]]
+### [[Elsa's Ice Palace - Place of Solitude]]
 
 ETERNAL WINTER When you play this location, choose an exerted character. While this location is in play, that character can't ready at the start of their turn.
 
@@ -547,7 +558,7 @@ ETERNAL WINTER When you play this location, choose an exerted character. While t
 
   
 
- ### [[The Library - A Gift for Belle]]
+### [[The Library - A Gift for Belle]]
 
 LOST IN A BOOK Whenever a character is banished while here, you may draw a card.
 
@@ -555,7 +566,7 @@ LOST IN A BOOK Whenever a character is banished while here, you may draw a card.
 
   
 
- ### [[Robin Hood - Timely Contestant]]
+### [[Robin Hood - Timely Contestant]]
 
 TAG ME IN! For each 1 damage on opposing characters, you pay 1 {I} less to play this character.
 
@@ -565,7 +576,7 @@ Ward (Opponents can't choose this character except to challenge.)
 
   
 
- ### [[Shenzi - Scar's Accomplice]]
+### [[Shenzi - Scar's Accomplice]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -575,13 +586,13 @@ EASY PICKINGS While challenging a damaged character, this character gets +2 {S}.
 
   
 
- ### [[Little John - Camp Cook]]
+### [[Little John - Camp Cook]]
 
 ---
 
   
 
- ### [[Zazu - Advisor to Mufasa]]
+### [[Zazu - Advisor to Mufasa]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -589,7 +600,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Ulf - Mime]]
+### [[Ulf - Mime]]
 
 SILENT PERFORMANCE This character can't {E} to sing songs.
 
@@ -597,7 +608,7 @@ SILENT PERFORMANCE This character can't {E} to sing songs.
 
   
 
- ### [[Ed - Laughing Hyena]]
+### [[Ed - Laughing Hyena]]
 
 CAUSE A PANIC When you play this character, you may deal 2 damage to chosen damaged character.
 
@@ -605,7 +616,7 @@ CAUSE A PANIC When you play this character, you may deal 2 damage to chosen dama
 
   
 
- ### [[Flora - Good Fairy]]
+### [[Flora - Good Fairy]]
 
 FIDDLE FADDLE While being challenged, this character gets +2 {S}.
 
@@ -613,7 +624,7 @@ FIDDLE FADDLE While being challenged, this character gets +2 {S}.
 
   
 
- ### [[Merryweather - Good Fairy]]
+### [[Merryweather - Good Fairy]]
 
 RAY OF HOPE When you play this character, you may pay 1 {I} to give chosen character +2 {S} this turn.
 
@@ -621,7 +632,7 @@ RAY OF HOPE When you play this character, you may pay 1 {I} to give chosen chara
 
   
 
- ### [[Robin Hood - Archery Contestant]]
+### [[Robin Hood - Archery Contestant]]
 
 TRICK SHOT When you play this character, if an opponent has a damaged character in play, gain 1 lore.
 
@@ -629,13 +640,13 @@ TRICK SHOT When you play this character, if an opponent has a damaged character 
 
   
 
- ### [[Fauna - Good Fairy]]
+### [[Fauna - Good Fairy]]
 
 ---
 
   
 
- ### [[Iago - Fake Flamingo]]
+### [[Iago - Fake Flamingo]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -645,13 +656,13 @@ IN DISGUISE Whenever this character quests, you pay 2 {I} less for the next acti
 
   
 
- ### [[Banzai - Gluttonous Predator]]
+### [[Banzai - Gluttonous Predator]]
 
 ---
 
   
 
- ### [[Ed - Hysterical Partygoer]]
+### [[Ed - Hysterical Partygoer]]
 
 ROWDY GUEST Damaged characters can't challenge this character.
 
@@ -659,7 +670,7 @@ ROWDY GUEST Damaged characters can't challenge this character.
 
   
 
- ### [[Scroop - Odious Mutineer]]
+### [[Scroop - Odious Mutineer]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -669,7 +680,7 @@ DO SAY HELLO TO MR. ARROW When you play this character, you may pay 3 {I} to ban
 
   
 
- ### [[Prince Phillip - Swordsman of the Realm]]
+### [[Prince Phillip - Swordsman of the Realm]]
 
 SLAYER OF DRAGONS When you play this character, banish chosen opposing Dragon character.
 
@@ -679,7 +690,7 @@ PRESSING THE ADVANTAGE Whenever he challenges a damaged character, ready this ch
 
   
 
- ### [[Clarabelle - Light on Her Hooves]]
+### [[Clarabelle - Light on Her Hooves]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Clarabelle.)
 
@@ -689,7 +700,7 @@ KEEP IN STEP At the end of your turn, if chosen opponent has more cards in their
 
   
 
- ### [[Anna - Diplomatic Queen]]
+### [[Anna - Diplomatic Queen]]
 
 ROYAL RESOLUTION When you play this character, you may pay 2 {I} to choose one:
 
@@ -703,7 +714,7 @@ ROYAL RESOLUTION When you play this character, you may pay 2 {I} to choose one:
 
   
 
- ### [[Clarabelle - Clumsy Guest]]
+### [[Clarabelle - Clumsy Guest]]
 
 BUTTERFINGERS When you play this character, you may pay 2 {I} to banish chosen item.
 
@@ -711,7 +722,7 @@ BUTTERFINGERS When you play this character, you may pay 2 {I} to banish chosen i
 
   
 
- ### [[Banzai - Taunting Hyena]]
+### [[Banzai - Taunting Hyena]]
 
 HERE KITTY, KITTY, KITTY When you play this character, you may exert chosen damaged character.
 
@@ -719,7 +730,7 @@ HERE KITTY, KITTY, KITTY When you play this character, you may exert chosen dama
 
   
 
- ### [[Robin Hood - Sneaky Sleuth]]
+### [[Robin Hood - Sneaky Sleuth]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Robin Hood.)
 
@@ -729,7 +740,7 @@ CLEVER PLAN This character gets +1 {L} for each opposing damaged character in pl
 
   
 
- ### [[Mother Gothel - Conceited Manipulator]]
+### [[Mother Gothel - Conceited Manipulator]]
 
 MOTHER KNOWS BEST When you play this character, you may pay 3 {I} to return chosen character to their player's hand.
 
@@ -737,7 +748,7 @@ MOTHER KNOWS BEST When you play this character, you may pay 3 {I} to return chos
 
   
 
- ### [[Clarabelle - Contented Wallflower]]
+### [[Clarabelle - Contented Wallflower]]
 
 ONE STEP BEHIND When you play this character, if an opponent has more cards in their hand than you, you may draw a card.
 
@@ -745,7 +756,7 @@ ONE STEP BEHIND When you play this character, if an opponent has more cards in t
 
   
 
- ### [[Shenzi - Head Hyena]]
+### [[Shenzi - Head Hyena]]
 
 STICK AROUND FOR DINNER This character gets +1 {S} for each other Hyena character you have in play.
 
@@ -755,7 +766,7 @@ WHAT HAVE WE GOT HERE? Whenever one of your Hyena characters challenges a damage
 
   
 
- ### [[Mother Gothel - Unwavering Schemer]]
+### [[Mother Gothel - Unwavering Schemer]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Mother Gothel.)
 
@@ -765,7 +776,7 @@ THE WORLD IS DARK When you play this character, each opponent chooses one of the
 
   
 
- ### [[Scar - Vengeful Lion]]
+### [[Scar - Vengeful Lion]]
 
 Ward (Opponents can't choose this character except to challenge.)
 
@@ -775,7 +786,7 @@ LIFE'S NOT FAIR, IS IT? Whenever one of your characters challenges a damaged cha
 
   
 
- ### [[Hypnotic Deduction]]
+### [[Hypnotic Deduction]]
 
 Draw 3 cards, then put 2 cards from your hand on the top of your deck in any order.
 
@@ -783,7 +794,7 @@ Draw 3 cards, then put 2 cards from your hand on the top of your deck in any ord
 
   
 
- ### [[Night Howler Rage]]
+### [[Night Howler Rage]]
 
 Draw a card. Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)
 
@@ -791,7 +802,7 @@ Draw a card. Chosen character gains Reckless during their next turn. (They can't
 
   
 
- ### [[You're Welcome]]
+### [[You're Welcome]]
 
 (A character with cost 4 or more can {E} to sing this song for free.)
 
@@ -801,7 +812,7 @@ Shuffle chosen character, item, or location into their player's deck. That playe
 
   
 
- ### [[Remember Who You Are]]
+### [[Remember Who You Are]]
 
 If chosen opponent has more cards in their hand than you, draw cards until you have the same number.
 
@@ -809,7 +820,7 @@ If chosen opponent has more cards in their hand than you, draw cards until you h
 
   
 
- ### [[Prince John's Mirror]]
+### [[Prince John's Mirror]]
 
 YOU LOOK REGAL If you have a character named Prince John in play, you pay 1 {I} less to play this item.
 
@@ -819,7 +830,7 @@ A FEELING OF POWER At the end of each opponent's turn, if they have more than 3 
 
   
 
- ### [[Obscurosphere]]
+### [[Obscurosphere]]
 
 EXTRACT OF EMERALD 2 {I}, Banish this item — Your characters gain Ward until the start of your next turn. (Opponents can't choose them except to challenge.)
 
@@ -827,7 +838,7 @@ EXTRACT OF EMERALD 2 {I}, Banish this item — Your characters gain Ward until t
 
   
 
-### Emerald Chromicon
+### [[Emerald Chromicon]]
 
 EMERALD LIGHT During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand.
 
@@ -835,7 +846,7 @@ EMERALD LIGHT During opponents' turns, whenever one of your characters is banish
 
   
 
- ### [[Sherwood Forest - Outlaw Hideaway]]
+### [[Sherwood Forest - Outlaw Hideaway]]
 
 FOREST HOME Your characters named Robin Hood may move here for free.
 
@@ -845,7 +856,7 @@ FAMILIAR TERRAIN Characters gain Ward and “{E}, 1 {I} — Deal 2 damage to cho
 
   
 
- ### [[Tropical Rainforest - Jaguar Lair]]
+### [[Tropical Rainforest - Jaguar Lair]]
 
 SNACK TIME Opposing damaged characters gain Reckless. (They can't quest and must challenge if able.)
 
@@ -853,13 +864,13 @@ SNACK TIME Opposing damaged characters gain Reckless. (They can't quest and must
 
   
 
- ### [[Taffyta Muttonfudge - Ruthless Rival]]
+### [[Taffyta Muttonfudge - Ruthless Rival]]
 
 ---
 
   
 
- ### [[Wreck-It Ralph - Demolition Dude]]
+### [[Wreck-It Ralph - Demolition Dude]]
 
 REFRESHING BREAK Whenever you ready this character, gain 1 lore for each 1 damage on him.
 
@@ -867,7 +878,7 @@ REFRESHING BREAK Whenever you ready this character, gain 1 lore for each 1 damag
 
   
 
- ### [[Maximus - Team Champion]]
+### [[Maximus - Team Champion]]
 
 ROYALLY BIG REWARDS At the end of your turn, if you have any characters in play with 5 {S} or more, gain 2 lore. If you have any in play with 10 {S} or more, gain 5 lore instead.
 
@@ -875,7 +886,7 @@ ROYALLY BIG REWARDS At the end of your turn, if you have any characters in play 
 
   
 
- ### [[Turbo - Royal Hack]]
+### [[Turbo - Royal Hack]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -885,7 +896,7 @@ GAME JUMP This character also counts as being named King Candy for Shift.
 
   
 
- ### [[Donald Duck - Pie Slinger]]
+### [[Donald Duck - Pie Slinger]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Donald Duck.)
 
@@ -897,13 +908,13 @@ RAGING DUCK While an opponent has 10 or more lore, this character gets +6 {S}.
 
   
 
- ### [[Rancis Fluggerbutter - Chocolate Charger]]
+### [[Rancis Fluggerbutter - Chocolate Charger]]
 
 ---
 
   
 
- ### [[Scar - Betrayer]]
+### [[Scar - Betrayer]]
 
 LONG LIVE THE KING When you play this character, you may banish chosen character named Mufasa.
 
@@ -911,7 +922,7 @@ LONG LIVE THE KING When you play this character, you may banish chosen character
 
   
 
- ### [[Snowanna Rainbeau - Cool Competitor]]
+### [[Snowanna Rainbeau - Cool Competitor]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -919,7 +930,7 @@ Rush (This character can challenge the turn they're played.)
 
   
 
- ### [[Daisy Duck - Spotless Food-Fighter]]
+### [[Daisy Duck - Spotless Food-Fighter]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -927,7 +938,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Mickey Mouse - Enthusiastic Dancer]]
+### [[Mickey Mouse - Enthusiastic Dancer]]
 
 PERFECT PARTNERS While you have a character named Minnie Mouse in play, this character gets +2 {S}.
 
@@ -935,7 +946,7 @@ PERFECT PARTNERS While you have a character named Minnie Mouse in play, this cha
 
   
 
- ### [[Ratigan - Raging Rat]]
+### [[Ratigan - Raging Rat]]
 
 NOTHING CAN STAND IN MY WAY While this character has damage, he gets +2 {S}.
 
@@ -943,7 +954,7 @@ NOTHING CAN STAND IN MY WAY While this character has damage, he gets +2 {S}.
 
   
 
- ### [[Taffyta Muttonfudge - Crowd Favorite]]
+### [[Taffyta Muttonfudge - Crowd Favorite]]
 
 SHOWSTOPPER When you play this character, if you have a location in play, each opponent loses 1 lore.
 
@@ -951,13 +962,13 @@ SHOWSTOPPER When you play this character, if you have a location in play, each o
 
   
 
- ### [[Denahi - Avenging Brother]]
+### [[Denahi - Avenging Brother]]
 
 ---
 
   
 
- ### [[Pete - Steamboat Rival]]
+### [[Pete - Steamboat Rival]]
 
 SCRAM! When you play this character, if you have another character named Pete in play, you may banish chosen opposing character.
 
@@ -965,7 +976,7 @@ SCRAM! When you play this character, if you have another character named Pete in
 
   
 
- ### [[Taffyta Muttonfudge - Sour Speedster]]
+### [[Taffyta Muttonfudge - Sour Speedster]]
 
 Shift 2 (You may pay 2 {I} to play this on top of one of your characters named Taffyta Muttonfudge.)
 
@@ -975,7 +986,7 @@ NEW ROSTER Once per turn, when this character moves to a location, gain 2 lore.
 
   
 
- ### [[Robin Hood - Sharpshooter]]
+### [[Robin Hood - Sharpshooter]]
 
 MY GREATEST PERFORMANCE Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.
 
@@ -983,7 +994,7 @@ MY GREATEST PERFORMANCE Whenever this character quests, look at the top 4 cards 
 
   
 
- ### [[Gaston - Pure Paragon]]
+### [[Gaston - Pure Paragon]]
 
 A MAN AMONG MEN! For each damaged character you have in play, you pay 2 {I} less to play this character.
 
@@ -993,13 +1004,13 @@ Rush (This character can challenge the turn they're played.)
 
   
 
- ### [[Pete - Pastry Chomper]]
+### [[Pete - Pastry Chomper]]
 
 ---
 
   
 
- ### [[Arthur - Novice Sparrow]]
+### [[Arthur - Novice Sparrow]]
 
 Reckless (This character can't quest and must challenge each turn if able.)
 
@@ -1007,7 +1018,7 @@ Reckless (This character can't quest and must challenge each turn if able.)
 
   
 
- ### [[Donald Duck - Daisy's Date]]
+### [[Donald Duck - Daisy's Date]]
 
 PLUCKY PLAY Whenever this character challenges another character, each opponent loses 1 lore.
 
@@ -1015,7 +1026,7 @@ PLUCKY PLAY Whenever this character challenges another character, each opponent 
 
   
 
- ### [[Ratigan - Party Crasher]]
+### [[Ratigan - Party Crasher]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Ratigan.)
 
@@ -1027,7 +1038,7 @@ DELIGHTFULLY WICKED Your damaged characters get +2 {S}.
 
   
 
- ### [[Vanellope von Schweetz - Random Roster Racer]]
+### [[Vanellope von Schweetz - Random Roster Racer]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -1037,7 +1048,7 @@ PIXLEXIA When you play this character, she gains Evasive until the start of your
 
   
 
- ### [[Simba - Adventurous Successor]]
+### [[Simba - Adventurous Successor]]
 
 I LAUGH IN THE FACE OF DANGER When you play this character, chosen character gets +2 {S} this turn.
 
@@ -1045,7 +1056,7 @@ I LAUGH IN THE FACE OF DANGER When you play this character, chosen character get
 
   
 
- ### [[Minnie Mouse - Dazzling Dancer]]
+### [[Minnie Mouse - Dazzling Dancer]]
 
 DANCE-OFF Whenever this character or one of your characters named Mickey Mouse challenges another character, gain 1 lore.
 
@@ -1053,7 +1064,7 @@ DANCE-OFF Whenever this character or one of your characters named Mickey Mouse c
 
   
 
- ### [[Break Free]]
+### [[Break Free]]
 
 Deal 1 damage to chosen character of yours. They gain Rush and get +1 {S} this turn. (They can challenge the turn they're played.)
 
@@ -1061,7 +1072,7 @@ Deal 1 damage to chosen character of yours. They gain Rush and get +1 {S} this t
 
   
 
- ### [[Evil Comes Prepared]]
+### [[Evil Comes Prepared]]
 
 Ready chosen character of yours. They can't quest for the rest of this turn. If a Villain character is chosen, gain 1 lore.
 
@@ -1069,7 +1080,7 @@ Ready chosen character of yours. They can't quest for the rest of this turn. If 
 
   
 
- ### [[Don't Let the Frostbite Bite]]
+### [[Don't Let the Frostbite Bite]]
 
 (A character with cost 7 or more can {E} to sing this song for free.)
 
@@ -1079,7 +1090,7 @@ Ready all your characters. They can't quest for the rest of this turn.
 
   
 
- ### [[Glimmer vs Glimmer]]
+### [[Glimmer vs Glimmer]]
 
 Banish chosen character of yours to banish chosen character.
 
@@ -1087,7 +1098,7 @@ Banish chosen character of yours to banish chosen character.
 
   
 
- ### [[Who's With Me?]]
+### [[Who's With Me?]]
 
 Your characters get +2 {S} this turn.
 
@@ -1097,7 +1108,7 @@ Whenever one of your characters with Reckless challenges another character this 
 
   
 
- ### [[Potion of Might]]
+### [[Potion of Might]]
 
 VILE CONCOCTION 1 {I}, Banish this item — Chosen character gets +3 {S} this turn. If a Villain character is chosen, they get +4 {S} instead.
 
@@ -1105,7 +1116,7 @@ VILE CONCOCTION 1 {I}, Banish this item — Chosen character gets +3 {S} this tu
 
   
 
- ### [[The Sword Released]]
+### [[The Sword Released]]
 
 POWER APPOINTED At the start of your turn, if you have a character in play with more {S} than each opposing character in play, each opponent loses 1 lore and you gain lore equal to the lore lost.
 
@@ -1113,11 +1124,13 @@ POWER APPOINTED At the start of your turn, if you have a character in play with 
 
   
 
- ### [[Ruby Chromicon]]
+### [[Ruby Chromicon]]
 
 RUBY LIGHT {E} — Chosen character gets +1 {S} this turn.
 
 ---
+
+  
 
 ### [[Sugar Rush Speedway - Starting Line]]
 
@@ -1127,7 +1140,7 @@ ON YOUR MARKS! Once per turn, you may {E} chosen character here and deal them 1 
 
   
 
- ### [[Ratigan's Party - Seedy Back Room]]
+### [[Ratigan's Party - Seedy Back Room]]
 
 MISFITS' REVELRY While you have a damaged character here, this location gets +2 {L}.
 
@@ -1135,19 +1148,19 @@ MISFITS' REVELRY While you have a damaged character here, this location gets +2 
 
   
 
- ### [[King Candy - Sovereign of Sugar]]
+### [[King Candy - Sovereign of Sugar]]
 
 ---
 
   
 
- ### [[Chaca - Impressive Daughter]]
+### [[Chaca - Impressive Daughter]]
 
 ---
 
   
 
- ### [[The Queen - Cruelest of All]]
+### [[The Queen - Cruelest of All]]
 
 Ward (Opponents can't choose this character except to challenge.)
 
@@ -1155,13 +1168,13 @@ Ward (Opponents can't choose this character except to challenge.)
 
   
 
- ### [[Scrooge McDuck - Afficionado of Antiquities]]
+### [[Scrooge McDuck - Afficionado of Antiquities]]
 
 ---
 
   
 
- ### [[Prince John - Opportunistic Briber]]
+### [[Prince John - Opportunistic Briber]]
 
 TAXES NEVER FAIL ME Whenever you play an item, this character gets +2 {S} this turn.
 
@@ -1169,7 +1182,7 @@ TAXES NEVER FAIL ME Whenever you play an item, this character gets +2 {S} this t
 
   
 
- ### [[Merlin - Back from Bermuda]]
+### [[Merlin - Back from Bermuda]]
 
 LONG LIVE THE KING! Your characters named Arthur gain Resist +1. (Damage dealt to them is reduced by 1.)
 
@@ -1177,7 +1190,7 @@ LONG LIVE THE KING! Your characters named Arthur gain Resist +1. (Damage dealt t
 
   
 
- ### [[Pacha - Emperor's Guide]]
+### [[Pacha - Emperor's Guide]]
 
 HELPFUL SUPPLIES At the start of your turn, if you have an item in play, gain 1 lore.
 
@@ -1187,7 +1200,7 @@ PERFECT DIRECTIONS At the start of your turn, if you have a location in play, ga
 
   
 
- ### [[The Queen - Fairest of All]]
+### [[The Queen - Fairest of All]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named The Queen.)
 

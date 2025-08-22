@@ -11,4 +11,7 @@ En todos ellos he gestionado a los jugadores, ayudando donde ha sido necesario y
 
 Mantengo además una documentación de reglas clara y actualizada dentro de esta misma wiki.
 
+Podcast donde hablamos de la wiki y de la iniciativa de jueces para lorcana en general:
+[Podcast Baraja de Tres Tintas](https://youtube.com/live/CNfWzwWjYkc)
+
 Estoy disponible para colaborar como árbitro o como apoyo en torneos, tanto en tienda como en eventos de mayor escala. Si te interesa contar conmigo, puedes escribirme a mi [correo](mailto:ivan.juezlorcana@gmail.com).
