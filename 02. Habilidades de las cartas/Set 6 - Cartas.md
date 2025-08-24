@@ -86,7 +86,7 @@ YOU LIKE GAZELLE TOO? While you have a character named Gazelle in play, this cha
 
   
 
- ### [[Chip - Ranger Leader]]
+### [[Chip - Ranger Leader]]
 
 THE VALUE OF FRIENDSHIP While you have a character named Dale in play, this character gains Support. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
 
@@ -94,13 +94,13 @@ THE VALUE OF FRIENDSHIP While you have a character named Dale in play, this char
 
   
 
- ### [[Monterey Jack - Good-Hearted Ranger]]
+### [[Monterey Jack - Good-Hearted Ranger]]
 
 ---
 
   
 
- ### [[Chip 'n' Dale - Recovery Rangers]]
+### [[Chip 'n' Dale - Recovery Rangers]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Chip or Dale.)
 
@@ -112,7 +112,7 @@ SEARCH AND RESCUE During your turn, whenever a card is put into your inkwell, yo
 
   
 
- ### [[Judy Hopps - Resourceful Rabbit]]
+### [[Judy Hopps - Resourceful Rabbit]]
 
 Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)
 
@@ -124,7 +124,7 @@ NEED SOME HELP? At the end of your turn, you may ready another chosen character 
 
   
 
- ### [[Tiana - Restaurant Owner]]
+### [[Tiana - Restaurant Owner]]
 
 SPECIAL RESERVATION Whenever a character of yours is challenged while this character is exerted, the challenging character gets -3 {S} this turn unless their player pays 3 {I}.
 
@@ -132,7 +132,7 @@ SPECIAL RESERVATION Whenever a character of yours is challenged while this chara
 
   
 
- ### [[Grand Councilwoman - Federation Leader]]
+### [[Grand Councilwoman - Federation Leader]]
 
 FIND IT! Whenever this character quests, your other Alien characters get +1 {L} this turn.
 
@@ -140,7 +140,7 @@ FIND IT! Whenever this character quests, your other Alien characters get +1 {L} 
 
   
 
- ### [[Dale - Mischievous Ranger]]
+### [[Dale - Mischievous Ranger]]
 
 NUTS ABOUT PRANKS When you play this character, you may put the top 3 cards of your deck into your discard to give chosen character -3 {S} until the start of your next turn.
 
@@ -148,7 +148,7 @@ NUTS ABOUT PRANKS When you play this character, you may put the top 3 cards of y
 
   
 
- ### [[Nani - Caring Sister]]
+### [[Nani - Caring Sister]]
 
 Support (Whenever this character quests, you may add their {S} to another chosen character’s {S} this turn.)
 
@@ -158,7 +158,7 @@ I AM SO SORRY 2 {I} - Chosen character gets -1 {S} until the start of your next 
 
   
 
- ### [[Simba - Pride Protector]]
+### [[Simba - Pride Protector]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Simba.)
 
@@ -168,7 +168,7 @@ UNDERSTAND THE BALANCE At the end of your turn, if this character is exerted, yo
 
   
 
- ### [[Kanga - Nurturing Mother]]
+### [[Kanga - Nurturing Mother]]
 
 SAFE AND SOUND Whenever this character quests, choose a character of yours and that character can't be challenged until the start of your next turn.
 
@@ -176,7 +176,7 @@ SAFE AND SOUND Whenever this character quests, choose a character of yours and t
 
   
 
- ### [[Rabbit - Indignant Pirate]]
+### [[Rabbit - Indignant Pirate]]
 
 BE MORE CAREFUL When you play this character, you may remove up to 1 damage from chosen character.
 
@@ -184,7 +184,7 @@ BE MORE CAREFUL When you play this character, you may remove up to 1 damage from
 
   
 
- ### [[Roo - Littlest Pirate]]
+### [[Roo - Littlest Pirate]]
 
 I'M A PIRATE TOO! When you play this character, you may give chosen character -2 {S} until the start of your next turn.
 
@@ -192,7 +192,7 @@ I'M A PIRATE TOO! When you play this character, you may give chosen character -2
 
   
 
- ### [[Mr. Litwak - Arcade Owner]]
+### [[Mr. Litwak - Arcade Owner]]
 
 THE GANG'S ALL HERE Once during your turn, whenever you play another character, you may ready this character. He can’t quest or challenge for the rest of this turn.
 
@@ -200,7 +200,7 @@ THE GANG'S ALL HERE Once during your turn, whenever you play another character, 
 
   
 
- ### [[Jim Hawkins - Honorable Pirate]]
+### [[Jim Hawkins - Honorable Pirate]]
 
 Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
 
@@ -210,7 +210,7 @@ HIRE A CREW When you play this character, look at the top 4 cards of your deck. 
 
   
 
- ### [[Stitch - Little Trickster]]
+### [[Stitch - Little Trickster]]
 
 NEED A HAND? 1 {I} - This character gets +1 {S} this turn.
 
@@ -218,7 +218,7 @@ NEED A HAND? 1 {I} - This character gets +1 {S} this turn.
 
   
 
- ### [[Good Job!]]
+### [[Good Job!]]
 
 Chosen character gets +1 {L} this turn.
 
@@ -226,7 +226,7 @@ Chosen character gets +1 {L} this turn.
 
   
 
- ### [[I Won't Give In]]
+### [[I Won't Give In]]
 
 (A character with cost 2 or more can {E} to sing this song for free.)
 
@@ -236,7 +236,7 @@ Return a character card with cost 2 or less from your discard to your hand.
 
   
 
- ### [[Rescue Rangers Away!]]
+### [[Rescue Rangers Away!]]
 
 Count the number of characters you have in play. Chosen character loses {S} equal to that number until the start of your next turn.
 
@@ -244,7 +244,7 @@ Count the number of characters you have in play. Chosen character loses {S} equa
 
   
 
- ### [[Safe and Sound]]
+### [[Safe and Sound]]
 
 Chosen character of yours can’t be challenged until the start of your next turn.
 
@@ -252,7 +252,7 @@ Chosen character of yours can’t be challenged until the start of your next tur
 
   
 
- ### [[Naveen's Ukulele]]
+### [[Naveen's Ukulele]]
 
 MAKE IT SING 1 {I}, Banish this item - Chosen character counts as having +3 cost to sing songs this turn.
 
@@ -260,7 +260,7 @@ MAKE IT SING 1 {I}, Banish this item - Chosen character counts as having +3 cost
 
   
 
- ### [[Pooh Pirate Ship]]
+### [[Pooh Pirate Ship]]
 
 MAKE A RESCUE {E}, 3 {I} – Return a Pirate character card from your discard to your hand.
 
@@ -268,7 +268,7 @@ MAKE A RESCUE {E}, 3 {I} – Return a Pirate character card from your discard to
 
   
 
- ### [[Scrump]]
+### [[Scrump]]
 
 I MADE HER {E} one of your characters - Chosen character gets -2 {S} until the start of your next turn.
 
@@ -276,7 +276,7 @@ I MADE HER {E} one of your characters - Chosen character gets -2 {S} until the s
 
   
 
- ### [[Hundred Acre Island - Pooh's Home]]
+### [[Hundred Acre Island - Pooh's Home]]
 
 FRIENDS FOREVER During an opponent's turn, whenever a character is banished here, gain 1 lore.
 
@@ -284,7 +284,7 @@ FRIENDS FOREVER During an opponent's turn, whenever a character is banished here
 
   
 
- ### [[Sugar Rush Speedway - Finish Line]]
+### [[Sugar Rush Speedway - Finish Line]]
 
 BRING IT HOME, LITTLE ONE! When you move a character here from another location, you may banish this location to gain 3 lore and draw 3 cards.
 
@@ -292,7 +292,7 @@ BRING IT HOME, LITTLE ONE! When you move a character here from another location,
 
   
 
- ### [[Hades - Lord of the Dead]]
+### [[Hades - Lord of the Dead]]
 
 SOUL COLLECTOR Whenever one of your other characters is banished during the opponent's turn, gain 2 lore.
 
@@ -300,7 +300,7 @@ SOUL COLLECTOR Whenever one of your other characters is banished during the oppo
 
   
 
- ### [[Madam Mim - Tiny Adversary]]
+### [[Madam Mim - Tiny Adversary]]
 
 Challenger +1 (While challenging, this character gets +1 {S}.)
 
@@ -310,13 +310,13 @@ ZIM ZABBERIM ZIM Your other characters gain Challenger +1.
 
   
 
- ### [[Genie - Excited Shipbuilder]]
+### [[Genie - Excited Shipbuilder]]
 
 ---
 
   
 
- ### [[Sisu - In Her Element]]
+### [[Sisu - In Her Element]]
 
 Challenger +2 (While challenging, this character gets +2 {S}).
 
@@ -324,7 +324,7 @@ Challenger +2 (While challenging, this character gets +2 {S}).
 
   
 
- ### [[The White Rose - Jewel of the Garden]]
+### [[The White Rose - Jewel of the Garden]]
 
 THE BEAUTY OF THE WORLD When you play this character, gain 1 lore.
 
@@ -332,7 +332,7 @@ THE BEAUTY OF THE WORLD When you play this character, gain 1 lore.
 
   
 
- ### [[Juju - Mama Odie's Companion]]
+### [[Juju - Mama Odie's Companion]]
 
 BEES' KNEES When you play this character, move 1 damage counter from chosen character to chosen opposing character.
 
@@ -340,13 +340,13 @@ BEES' KNEES When you play this character, move 1 damage counter from chosen char
 
   
 
- ### [[Rafiki - Shaman of the Savanna]]
+### [[Rafiki - Shaman of the Savanna]]
 
 ---
 
   
 
- ### [[Tinker Bell - Fast Flier]]
+### [[Tinker Bell - Fast Flier]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -354,7 +354,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[The Carpenter - Dinner Companion]]
+### [[The Carpenter - Dinner Companion]]
 
 I'LL GET YOU! When this character is banished, you may exert chosen character.
 
@@ -362,7 +362,7 @@ I'LL GET YOU! When this character is banished, you may exert chosen character.
 
   
 
- ### [[Iago - Reappearing Parrot]]
+### [[Iago - Reappearing Parrot]]
 
 GUESS WHO When this character is banished in a challenge, return this card to your hand.
 
@@ -370,13 +370,13 @@ GUESS WHO When this character is banished in a challenge, return this card to yo
 
   
 
- ### [[The Walrus - Greedy Gourmand]]
+### [[The Walrus - Greedy Gourmand]]
 
 ---
 
   
 
- ### [[Scar - Tempestuous Lion]]
+### [[Scar - Tempestuous Lion]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -386,7 +386,7 @@ Challenger +3 (While challenging, this character gets +3 {S}.)
 
   
 
- ### [[Tinker Bell - Queen of the Azurite Fairies]]
+### [[Tinker Bell - Queen of the Azurite Fairies]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Tinker Bell.)
 
@@ -396,7 +396,9 @@ SHINING EXAMPLE Whenever this character quests, your other Fairy characters get 
 
 ---
 
- ### [[Diablo - Obedient Raven]]
+  
+
+### [[Diablo - Obedient Raven]]
 
 FLY, MY PET! When this character is banished, you may draw a card.
 
@@ -404,7 +406,7 @@ FLY, MY PET! When this character is banished, you may draw a card.
 
   
 
- ### [[March Hare - Absurd Host]]
+### [[March Hare - Absurd Host]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -412,13 +414,13 @@ Rush (This character can challenge the turn they're played.)
 
   
 
- ### [[Magic Carpet - Amazing Flier]]
+### [[Magic Carpet - Amazing Flier]]
 
 ---
 
   
 
- ### [[Rafiki - Ethereal Guide]]
+### [[Rafiki - Ethereal Guide]]
 
 Shift 7 (You may pay 7 {I} to play this on top of one of your characters named Rafiki.)
 
@@ -428,7 +430,7 @@ ASTRAL ATTUNEMENT During your turn, whenever a card is put into your inkwell, yo
 
   
 
- ### [[Genie - Wish Fulfilled]]
+### [[Genie - Wish Fulfilled]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -438,7 +440,7 @@ WHAT HAPPENS NOW? When you play this character, draw a card.
 
   
 
- ### [[Sisu - Uniting Dragon]]
+### [[Sisu - Uniting Dragon]]
 
 TRUST BUILDS TRUST Whenever this character quests, reveal the top card of your deck. If it’s a Dragon character card, put it into your hand and repeat this effect. Otherwise, put it on either the top or the bottom of your deck.
 
@@ -446,7 +448,7 @@ TRUST BUILDS TRUST Whenever this character quests, reveal the top card of your d
 
   
 
- ### [[Madam Mim - Truly Marvelous]]
+### [[Madam Mim - Truly Marvelous]]
 
 OH, BAT GIZZARDS 2 {I}, Choose and discard a card - Gain 1 lore.
 
@@ -454,7 +456,7 @@ OH, BAT GIZZARDS 2 {I}, Choose and discard a card - Gain 1 lore.
 
   
 
- ### [[Yzma - Conniving Chemist]]
+### [[Yzma - Conniving Chemist]]
 
 FEEL THE POWER {E} - If you have fewer than 3 cards in your hand, draw until you have 3 cards in your hand.
 
@@ -462,7 +464,7 @@ FEEL THE POWER {E} - If you have fewer than 3 cards in your hand, draw until you
 
   
 
- ### [[Mama Odie - Solitary Sage]]
+### [[Mama Odie - Solitary Sage]]
 
 I HAVE TO DO EVERYTHING AROUND HERE Whenever you play a song, you may move up to 2 damage counters from chosen character to chosen opposing character.
 
@@ -470,7 +472,7 @@ I HAVE TO DO EVERYTHING AROUND HERE Whenever you play a song, you may move up to
 
   
 
- ### [[Peter Pan - Shadow Catcher]]
+### [[Peter Pan - Shadow Catcher]]
 
 GOTCHA! During your turn, whenever a card is put into your inkwell, exert chosen opposing character.
 
@@ -478,7 +480,7 @@ GOTCHA! During your turn, whenever a card is put into your inkwell, exert chosen
 
   
 
- ### [[Mad Hatter - Eccentric Host]]
+### [[Mad Hatter - Eccentric Host]]
 
 WE'LL HAVE TO LOOK INTO THIS Whenever this character quests, you may look at the top card of chosen player's deck. Put it on top of their deck or into their discard.
 
@@ -486,7 +488,7 @@ WE'LL HAVE TO LOOK INTO THIS Whenever this character quests, you may look at the
 
   
 
- ### [[A Very Merry Unbirthday]]
+### [[A Very Merry Unbirthday]]
 
 (A character with cost 1 or more can {E} to sing this song for free.)
 
@@ -496,7 +498,7 @@ Each opponent puts the top 2 cards of their deck into their discard.
 
   
 
- ### [[Genie - Wonderful Trickster]]
+### [[Genie - Wonderful Trickster]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Genie.)
 
@@ -508,11 +510,13 @@ FORBIDDEN TREASURE At the end of your turn, put all the cards in your hand on th
 
   
 
- ### [[Making Magic]]
+### [[Making Magic]]
 
 Move 1 damage counter from chosen character to chosen opposing character. Draw a card.
 
 ---
+
+  
 
 ### [[Lose the Way]]
 
@@ -522,7 +526,7 @@ Exert chosen character. Then, you may choose and discard a card. If you do, the 
 
   
 
- ### [[Seeking the Half Crown]]
+### [[Seeking the Half Crown]]
 
 For each Sorcerer character you have in play, you pay 1 {I} less to play this action.
 
@@ -532,7 +536,7 @@ Draw 2 cards.
 
   
 
- ### [[Maleficent's Staff]]
+### [[Maleficent's Staff]]
 
 BACK, FOOLS! Whenever one of your opponents' characters, items, or locations is returned to their hand from play, gain 1 lore.
 
@@ -540,7 +544,7 @@ BACK, FOOLS! Whenever one of your opponents' characters, items, or locations is 
 
   
 
- ### [[Mad Hatter's Teapot]]
+### [[Mad Hatter's Teapot]]
 
 NO ROOM, NO ROOM {E}, 1 {I} - Each opponent puts the top card of their deck into their discard.
 
@@ -548,7 +552,7 @@ NO ROOM, NO ROOM {E}, 1 {I} - Each opponent puts the top card of their deck into
 
   
 
- ### [[Pixie Dust]]
+### [[Pixie Dust]]
 
 FAITH AND TRUST {E}, {2} {I} - Chosen character gains Challenger +2 and Evasive until the start of your next turn. (While challenging, they get +2 {1}. Only characters with Evasive can challenge them.)
 
@@ -556,13 +560,13 @@ FAITH AND TRUST {E}, {2} {I} - Chosen character gains Challenger +2 and Evasive 
 
   
 
- ### [[Fairy Ship - Royal Vessel]]
+### [[Fairy Ship - Royal Vessel]]
 
 ---
 
   
 
- ### [[Mystical Tree - Mama Odie's Home]]
+### [[Mystical Tree - Mama Odie's Home]]
 
 NOT BAD At the start of your turn, you may move 1 damage counter from chosen character here to chosen opposing character.
 
@@ -574,7 +578,7 @@ HARD-EARNED WISDOM At the start of your turn, if you have a character named Mama
 
   
 
- ### [[Jasmine - Royal Seafarer]]
+### [[Jasmine - Royal Seafarer]]
 
 BY ORDER OF THE PRINCESS When you play this character, choose one:
 
@@ -586,7 +590,7 @@ BY ORDER OF THE PRINCESS When you play this character, choose one:
 
   
 
- ### [[Captain Hook - Underhanded]]
+### [[Captain Hook - Underhanded]]
 
 INSPIRES DREAD While this character is exerted, opposing Pirate characters can't quest.
 
@@ -596,13 +600,15 @@ UPPER HAND Whenever this character is challenged, draw a card.
 
   
 
- ### [[Stitch - Alien Buccaneer]]
+### [[Stitch - Alien Buccaneer]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Stitch.)
 
 READY FOR ACTION When you play this character, if you used Shift to play him, you may put an action card from your discard on the top of your deck.
 
 ---
+
+  
 
 ### [[Go Go Tomago - Darting Dynamo]]
 
@@ -614,7 +620,7 @@ STOP WHINING, WOMAN UP When you play this character, you may pay 2 {I} to gain l
 
   
 
- ### [[Honey Lemon - Chemical Genius]]
+### [[Honey Lemon - Chemical Genius]]
 
 HERE'S THE BEST PART When you play this character, you may pay 2 {I} to have each opponent choose and discard a card.
 
@@ -622,7 +628,7 @@ HERE'S THE BEST PART When you play this character, you may pay 2 {I} to have eac
 
   
 
- ### [[Fred - Mascot by Day]]
+### [[Fred - Mascot by Day]]
 
 HOW COOL IS THAT Whenever this character is challenged, gain 2 lore.
 
@@ -630,19 +636,19 @@ HOW COOL IS THAT Whenever this character is challenged, gain 2 lore.
 
   
 
- ### [[Tootles - Lost Boy]]
+### [[Tootles - Lost Boy]]
 
 ---
 
   
 
- ### [[Dawson - Basil's Assistant]]
+### [[Dawson - Basil's Assistant]]
 
 ---
 
   
 
- ### [[Heathcliff - Stoic Butler]]
+### [[Heathcliff - Stoic Butler]]
 
 Ward (Opponents can't choose this character except to challenge.)
 
@@ -650,7 +656,7 @@ Ward (Opponents can't choose this character except to challenge.)
 
   
 
- ### [[Basil - Hypnotized Mouse]]
+### [[Basil - Hypnotized Mouse]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -658,7 +664,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Donald Duck - First Mate]]
+### [[Donald Duck - First Mate]]
 
 CAPTAIN ON DECK While you have a Captain character in play, this character gets +2 {L}.
 
@@ -666,7 +672,7 @@ CAPTAIN ON DECK While you have a Captain character in play, this character gets 
 
   
 
- ### [[Daisy Duck - Pirate Captain]]
+### [[Daisy Duck - Pirate Captain]]
 
 DISTANT SHORES Whenever one of your Pirate characters quests while at a location, draw a card.
 
@@ -674,13 +680,13 @@ DISTANT SHORES Whenever one of your Pirate characters quests while at a location
 
   
 
- ### [[Mertle Edmonds - Lilo's Rival]]
+### [[Mertle Edmonds - Lilo's Rival]]
 
 ---
 
   
 
- ### [[Prince Phillip - Royal Explorer]]
+### [[Prince Phillip - Royal Explorer]]
 
 Ward (Opponents can't choose this character except to challenge.)
 
@@ -688,7 +694,7 @@ Ward (Opponents can't choose this character except to challenge.)
 
   
 
- ### [[Jasmine - Royal Commodore]]
+### [[Jasmine - Royal Commodore]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Jasmine.)
 
@@ -698,7 +704,7 @@ RULER OF THE SEAS When you play this character, if you used Shift to play her, r
 
   
 
- ### [[Peter Pan - Never Land Prankster]]
+### [[Peter Pan - Never Land Prankster]]
 
 LOOK INNOCENT This character enters play exerted.
 
@@ -708,7 +714,7 @@ CAN'T TAKE A JOKE? While this character is exerted, each opposing player can't g
 
   
 
- ### [[Hercules - Baby Demigod]]
+### [[Hercules - Baby Demigod]]
 
 Ward (Opponents can't choose this character except to challenge.)
 
@@ -718,7 +724,7 @@ STRONG LIKE HIS DAD 3 {I} - Deal 1 damage to chosen damaged character.
 
   
 
- ### [[Alistair Krei - Ambitious Entrepreneur]]
+### [[Alistair Krei - Ambitious Entrepreneur]]
 
 AN EYE FOR TECH When you play this character, if an opponent has an item in play, gain 1 lore.
 
@@ -726,7 +732,7 @@ AN EYE FOR TECH When you play this character, if an opponent has an item in play
 
   
 
- ### [[Gazelle - Angel with Horns]]
+### [[Gazelle - Angel with Horns]]
 
 YOU ARE A REALLY HOT DANCER When you play this character, chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)
 
@@ -734,7 +740,7 @@ YOU ARE A REALLY HOT DANCER When you play this character, chosen character gains
 
   
 
- ### [[Goofy - Expert Shipwright]]
+### [[Goofy - Expert Shipwright]]
 
 Ward (Opponents can't choose this character except to challenge.)
 
@@ -744,7 +750,7 @@ CLEVER DESIGN Whenever this character quests, chosen character gains Ward until 
 
   
 
- ### [[Bellwether - Assistant Mayor]]
+### [[Bellwether - Assistant Mayor]]
 
 FEAR ALWAYS WORKS During your turn, whenever a card is put into your inkwell, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)
 
@@ -752,7 +758,7 @@ FEAR ALWAYS WORKS During your turn, whenever a card is put into your inkwell, ch
 
   
 
- ### [[Basil - Disguised Detective]]
+### [[Basil - Disguised Detective]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Basil.)
 
@@ -762,13 +768,13 @@ TWISTS AND TURNS During your turn, whenever a card is put into your inkwell, you
 
   
 
- ### [[Olivia Flaversham - The Toymaker's Daughter]]
+### [[Olivia Flaversham - The Toymaker's Daughter]]
 
 ---
 
   
 
- ### [[Bend to My Will]]
+### [[Bend to My Will]]
 
 Each opponent discards all cards in their hand.
 
@@ -776,7 +782,7 @@ Each opponent discards all cards in their hand.
 
   
 
- ### [[Prepare to Board!]]
+### [[Prepare to Board!]]
 
 Chosen character gets +2 {S} this turn. If a Pirate character is chosen, they get +3 {S} instead.
 
@@ -784,7 +790,7 @@ Chosen character gets +2 {S} this turn. If a Pirate character is chosen, they ge
 
   
 
- ### [[Heffalumps and Woozles]]
+### [[Heffalumps and Woozles]]
 
 (A character with cost 2 or more can {E} to sing this song for free.)
 
@@ -794,7 +800,7 @@ Chosen opposing character can't quest during their next turn. Draw a card.
 
   
 
- ### [[Mosquito Bite]]
+### [[Mosquito Bite]]
 
 Put 1 damage counter on chosen character.
 
@@ -802,7 +808,7 @@ Put 1 damage counter on chosen character.
 
   
 
- ### [[You Came Back]]
+### [[You Came Back]]
 
 Ready chosen character.
 
@@ -810,7 +816,7 @@ Ready chosen character.
 
   
 
- ### [[MegaBot]]
+### [[MegaBot]]
 
 HAPPY FACE This item enters play exerted.
 
@@ -824,7 +830,7 @@ DESTROY! {E}, Banish this item - Choose one:
 
   
 
- ### [[Galactic Communicator]]
+### [[Galactic Communicator]]
 
 RESOURCE ALLOCATION 1 {I}, Banish this item - Return chosen character with 2 {S} or less to their player's hand.
 
@@ -832,7 +838,7 @@ RESOURCE ALLOCATION 1 {I}, Banish this item - Return chosen character with 2 {S}
 
   
 
- ### [[Transport Pod]]
+### [[Transport Pod]]
 
 GIVE 'EM A SHOW At the start of your turn, you may move a character of yours to a location for free.
 
@@ -840,7 +846,7 @@ GIVE 'EM A SHOW At the start of your turn, you may move a character of yours to 
 
   
 
- ### [[Perilous Maze - Watery Labyrinth]]
+### [[Perilous Maze - Watery Labyrinth]]
 
 LOST IN THE WAVES Whenever a character is challenged while here, each opponent chooses and discards a card.
 
@@ -848,7 +854,7 @@ LOST IN THE WAVES Whenever a character is challenged while here, each opponent c
 
   
 
- ### [[Owl Island - Secluded Entrance]]
+### [[Owl Island - Secluded Entrance]]
 
 TEAMWORK For each character you have here, you pay 1 {I} less for the first action you play each turn.
 
@@ -858,7 +864,7 @@ LOTS TO LEARN Whenever you play a second action in a turn, gain 3 lore.
 
   
 
- ### [[Mickey Mouse - Pirate Captain]]
+### [[Mickey Mouse - Pirate Captain]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Mickey Mouse.)
 
@@ -868,7 +874,7 @@ MARINER’S MIGHT Whenever this character quests, chosen Pirate character gets +
 
   
 
- ### [[Kakamora - Boarding Party]]
+### [[Kakamora - Boarding Party]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -876,7 +882,7 @@ Rush (This character can challenge the turn they're played.)
 
   
 
- ### [[Kakamora - Pirate Pitcher]]
+### [[Kakamora - Pirate Pitcher]]
 
 DIZZYING SPEED When you play this character, chosen Pirate character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)
 
@@ -884,7 +890,7 @@ DIZZYING SPEED When you play this character, chosen Pirate character gains Evasi
 
   
 
- ### [[Jasmine - Rebellious Princess]]
+### [[Jasmine - Rebellious Princess]]
 
 YOU'LL NEVER MISS IT Whenever this character quests, each opponent loses 1 lore.
 
@@ -892,7 +898,7 @@ YOU'LL NEVER MISS IT Whenever this character quests, each opponent loses 1 lore.
 
   
 
- ### [[Raya - Kumandran Rider]]
+### [[Raya - Kumandran Rider]]
 
 COME ON, LET'S DO THIS Once during your turn, whenever a card is put into your inkwell, you may ready another chosen character of yours. They can't quest for the rest of this turn.
 
@@ -900,7 +906,7 @@ COME ON, LET'S DO THIS Once during your turn, whenever a card is put into your i
 
   
 
- ### [[Wendy Darling - Courageous Captain]]
+### [[Wendy Darling - Courageous Captain]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -910,7 +916,7 @@ LOOK LIVELY, CREW! While you have another Pirate character in play, this charact
 
   
 
- ### [[John Silver - Ferocious Friend]]
+### [[John Silver - Ferocious Friend]]
 
 YOU HAVE TO CHART YOUR OWN COURSE Whenever this character quests, you may deal 1 damage to one of your other characters. If you do, ready that character. They cannot quest this turn.
 
@@ -918,7 +924,7 @@ YOU HAVE TO CHART YOUR OWN COURSE Whenever this character quests, you may deal 1
 
   
 
- ### [[Vanellope Von Schweetz - Gutsy Go-Getter]]
+### [[Vanellope Von Schweetz - Gutsy Go-Getter]]
 
 AS READY AS I'LL EVER BE At the start of your turn, if this character is at a location, draw a card and gain 1 lore.
 
@@ -926,19 +932,19 @@ AS READY AS I'LL EVER BE At the start of your turn, if this character is at a lo
 
   
 
- ### [[Michael Darling - Playful Swordsman]]
+### [[Michael Darling - Playful Swordsman]]
 
 ---
 
   
 
- ### [[Aladdin - Fearless Navigator]]
+### [[Aladdin - Fearless Navigator]]
 
 ---
 
   
 
- ### [[Markowski - Space Trooper]]
+### [[Markowski - Space Trooper]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -946,7 +952,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Abu - Bold Helmsman]]
+### [[Abu - Bold Helmsman]]
 
 Rush (This character can challenge the turn they’re played.)
 
@@ -954,7 +960,7 @@ Rush (This character can challenge the turn they’re played.)
 
   
 
- ### [[Mickey Mouse - Courageous Sailor]]
+### [[Mickey Mouse - Courageous Sailor]]
 
 SOLID GROUND While this character is at a location, he gets +2 {S}.
 
@@ -962,7 +968,7 @@ SOLID GROUND While this character is at a location, he gets +2 {S}.
 
   
 
- ### [[Adorabeezle Winterpop - Ice Rocket Racer]]
+### [[Adorabeezle Winterpop - Ice Rocket Racer]]
 
 KEEP DRIVING While this character has damage, she gets +1 {L}.
 
@@ -970,7 +976,7 @@ KEEP DRIVING While this character has damage, she gets +1 {L}.
 
   
 
- ### [[Moana - Self-Taught Sailor]]
+### [[Moana - Self-Taught Sailor]]
 
 LEARNING THE ROPES This character can't challenge unless you have a Captain character in play.
 
@@ -978,13 +984,13 @@ LEARNING THE ROPES This character can't challenge unless you have a Captain char
 
   
 
- ### [[John Darling - Sophisticated Swordsman]]
+### [[John Darling - Sophisticated Swordsman]]
 
 ---
 
   
 
- ### [[Aladdin - Intrepid Commander]]
+### [[Aladdin - Intrepid Commander]]
 
 Shift 2 (You may pay 2 {I} to play this on top of one of your characters named Aladdin.)
 
@@ -994,7 +1000,7 @@ REMEMBER YOUR TRAINING When you play this character, your characters get +2 {S} 
 
   
 
- ### [[Minnie Mouse - Pirate Lookout]]
+### [[Minnie Mouse - Pirate Lookout]]
 
 LAND, HO! Once during your turn, whenever a card is put into your inkwell, you may return a location card from your discard to your hand.
 
@@ -1002,7 +1008,7 @@ LAND, HO! Once during your turn, whenever a card is put into your inkwell, you m
 
   
 
- ### [[Moana - Kakamora Leader]]
+### [[Moana - Kakamora Leader]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Moana.)
 
@@ -1012,13 +1018,13 @@ GATHERING FORCES When you play this character, you may move any number of your c
 
   
 
- ### [[Pete - Freebooter]]
+### [[Pete - Freebooter]]
 
 ---
 
   
 
- ### [[Goofy - Flying Goof]]
+### [[Goofy - Flying Goof]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -1040,7 +1046,7 @@ WAYFINDING Whenever you play an action, gain 1 lore.
 
   
 
- ### [[Hades - Strong Arm]]
+### [[Hades - Strong Arm]]
 
 WHAT ARE YOU GONNA DO? {E}, 3 {I}, Banish one of your characters – Banish chosen character.
 
@@ -1048,7 +1054,7 @@ WHAT ARE YOU GONNA DO? {E}, 3 {I}, Banish one of your characters – Banish chos
 
   
 
- ### [[Tigger - In the Crow's Nest]]
+### [[Tigger - In the Crow's Nest]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -1058,7 +1064,7 @@ SWASH YOUR BUCKLES Whenever you play an action, this character gets +1 {S} and +
 
   
 
- ### [[Scar - Heartless Hunter]]
+### [[Scar - Heartless Hunter]]
 
 BARED TEETH When you play this character, deal 2 damage to chosen character of yours to deal 2 damage to chosen character.
 
@@ -1066,7 +1072,7 @@ BARED TEETH When you play this character, deal 2 damage to chosen character of y
 
   
 
- ### [[Thievery]]
+### [[Thievery]]
 
 Chosen opponent loses 1 lore. Gain 1 lore.
 
@@ -1074,7 +1080,7 @@ Chosen opponent loses 1 lore. Gain 1 lore.
 
   
 
- ### [[Lead the Way]]
+### [[Lead the Way]]
 
 Your characters get +2 {S} this turn.
 
@@ -1082,7 +1088,7 @@ Your characters get +2 {S} this turn.
 
   
 
- ### [[The Islands I Pulled from the Sea]]
+### [[The Islands I Pulled from the Sea]]
 
 (A character with cost 3 or more can {E} to sing this song for free.)
 
@@ -1092,7 +1098,7 @@ Search your deck for a location card, reveal that card to all players, and put i
 
   
 
- ### [[Energy Blast]]
+### [[Energy Blast]]
 
 Banish chosen character. Draw a card.
 
@@ -1100,7 +1106,7 @@ Banish chosen character. Draw a card.
 
   
 
- ### [[Longboat]]
+### [[Longboat]]
 
 TAKE IT FOR A SPIN 2 {I} – Chosen character of yours gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)
 
@@ -1108,7 +1114,7 @@ TAKE IT FOR A SPIN 2 {I} – Chosen character of yours gains Evasive until the s
 
   
 
- ### [[Gold Coin]]
+### [[Gold Coin]]
 
 GLITTERING ACCESS {E}, 1 {I}, Banish this item – Ready chosen character of yours. They can't quest for the rest of this turn.
 
@@ -1116,7 +1122,7 @@ GLITTERING ACCESS {E}, 1 {I}, Banish this item – Ready chosen character of you
 
   
 
- ### [[Card Soldier's Spear]]
+### [[Card Soldier's Spear]]
 
 A SUITABLE WEAPON Your damaged characters get +1 {S}.
 
@@ -1124,7 +1130,7 @@ A SUITABLE WEAPON Your damaged characters get +1 {S}.
 
   
 
- ### [[Flotilla - Coconut Armada]]
+### [[Flotilla - Coconut Armada]]
 
 TINY THIEVES At the start of your turn, if you have a character here, all opponents lose 1 lore and you gain lore equal to the lore lost this way.
 
@@ -1132,7 +1138,7 @@ TINY THIEVES At the start of your turn, if you have a character here, all oppone
 
   
 
- ### [[Skull Rock - Isolated Fortress]]
+### [[Skull Rock - Isolated Fortress]]
 
 FAMILIAR GROUND Characters get +1 {S} while here.
 
@@ -1142,7 +1148,7 @@ SAFE HAVEN At the start of your turn, if you have a Pirate character here, gain 
 
   
 
- ### [[B.E.N. - Eccentric Robot]]
+### [[B.E.N. - Eccentric Robot]]
 
 Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)
 
@@ -1150,7 +1156,7 @@ Support (Whenever this character quests, you may add their {S} to another chosen
 
   
 
- ### [[Aunt Cass - Biggest Fan]]
+### [[Aunt Cass - Biggest Fan]]
 
 HAPPY TO HELP Whenever this character quests, chosen Inventor character gets +1 {L} this turn.
 
@@ -1158,7 +1164,7 @@ HAPPY TO HELP Whenever this character quests, chosen Inventor character gets +1 
 
   
 
- ### [[Gadget Hackwrench - Creative Thinker]]
+### [[Gadget Hackwrench - Creative Thinker]]
 
 BRAINSTORM Whenever you play an item, this character gets +1 {L} this turn.
 
@@ -1166,7 +1172,7 @@ BRAINSTORM Whenever you play an item, this character gets +1 {L} this turn.
 
   
 
- ### [[Gadget Hackwrench - Brilliant Bosun]]
+### [[Gadget Hackwrench - Brilliant Bosun]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Gadget Hackwrench.)
 
@@ -1176,7 +1182,7 @@ MECHANICALLY SAVVY While you have 3 or more items in play, you pay 1 {I} less to
 
   
 
- ### [[Zipper - Astute Decoy]]
+### [[Zipper - Astute Decoy]]
 
 Ward (Opponents can't choose this character except to challenge.)
 
@@ -1186,7 +1192,7 @@ RUN INTERFERENCE During your turn, whenever a card is put into your inkwell, ano
 
   
 
- ### [[Oswald - The Lucky Rabbit]]
+### [[Oswald - The Lucky Rabbit]]
 
 FAVORABLE CHANCE During your turn, whenever a card is put into your inkwell, you may reveal the top card of your deck. If it’s an item card, you may play that item for free and it enters play exerted. Otherwise, put it on the bottom of your deck.
 
@@ -1194,7 +1200,7 @@ FAVORABLE CHANCE During your turn, whenever a card is put into your inkwell, you
 
   
 
- ### [[Yokai - Enigmatic Inventor]]
+### [[Yokai - Enigmatic Inventor]]
 
 TIME TO UPGRADE Whenever this character quests, you may return one of your items to your hand to pay 2 {I} less for the next item you play this turn.
 

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Zonas/Revelar cartas del mazo.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Tiana y su negativo en fuerza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revelar cartas del mazo"
+              "title": "Tiana y su negativo en fuerza"
+            }
+          },
+          {
+            "id": "3b2a0625ce310adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 6 - Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 6 - Cartas"
             }
           },
           {
@@ -67,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "whenever",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,25 +200,41 @@
   },
   "active": "61a8f8f091819a9e",
   "lastOpenFiles": [
-    "01. Reglas/8. Zonas (Zones)/8.2 Mazo/8.2.3. Robar una carta.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Zonas/Revelar cartas del mazo.md",
     "02. Habilidades de las cartas/Set 5 - Cartas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Tiana y su negativo en fuerza.md",
     "plantillas/_plantilla para ejemplos de dudas.md",
-    "Empecemos.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Zonas",
-    "Sobre mí como árbitro de Disney Lorcana.md",
-    "01. Reglas/8. Zonas (Zones)/8.7 Bolsa/8.7.6. Resolución del jugador no activo.md",
-    "01. Reglas/8. Zonas (Zones)/8.7 Bolsa/8.7.5 Habilidades disparadas que disparan otras entrando en bolsa.md",
-    "01. Reglas/8. Zonas (Zones)/8.7 Bolsa/8.7.4. Resolución del jugador activo.md",
-    "01. Reglas/8. Zonas (Zones)/8.7 Bolsa/8.7.3. Entrando en la bolsa.md",
-    "01. Reglas/8. Zonas (Zones)/8.7 Bolsa/8.7. Bolsa (Bag).md",
-    "01. Reglas/8. Zonas (Zones)/8.6 Descarte/8.6. Descarte (Discard).md",
-    "01. Reglas/8. Zonas (Zones)/8.5 Pozo de tinta/8.5. Pozo de tinta (Inkwell).md",
-    "01. Reglas/8. Zonas (Zones)/8.7 Bolsa",
-    "01. Reglas/8. Zonas (Zones)/8.6 Descarte",
-    "01. Reglas/8. Zonas (Zones)/8.1 General/8.1. General.md",
-    "01. Reglas/8. Zonas (Zones)/8.4 Juego/8.4. Juego (Play).md",
-    "01. Reglas/8. Zonas (Zones)/8.5 Pozo de tinta",
-    "01. Reglas/8. Zonas (Zones)/8.4 Juego"
+    "01. Reglas/7. Habilidades (abilities)/7.4 Habilidades Disparadas/7.4.2. Cuando, Siempre que, Al comienzo o al final de.md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.5 Jugador (Player).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.4 Anotador de Puntuaciones (Scorekeeper).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.3 Jueces (Judges).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.2 Juez Principal (Head Judge).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.1 Organizador del Torneo (Tournament Organizer).md",
+    "03. Reglas de Torneo/2. Roles en los torneos/2.0 Roles del torneo.md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.5 Legalidad de Sets (Set Legality).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.4 Jugadores y Oficiales Elegibles (Eligible Players and Tournament Officials).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.3 Roles en el Torneo (Tournament Roles).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.2 Torneos Competitivos (Competitive).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.1 Torneos Casuales.md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2 Niveles de Torneo (Tournament Levels).md",
+    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/1.1 Acciones correctivas.md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1.2 Construido (Constructed).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1.1 Limitado (Limited).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1 Tipos de Torneo (Tournament Types).md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1. Introduccion.md",
+    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo/7.7. Efectos de Reemplazo (Replacement Effects).md",
+    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo/7.7.6. Un efecto reemplaza a un evento.md",
+    "01. Reglas/7. Habilidades (abilities)/7.6 Habilidades Estaticas/7.6. Habilidades Estáticas (Static Abilities).md",
+    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo",
+    "01. Reglas/7. Habilidades (abilities)/7.5 Habilidades Activadas/7.5. Habilidades Activadas (Activated Abilities).md",
+    "01. Reglas/7. Habilidades (abilities)/7.6 Habilidades Estaticas",
+    "01. Reglas/7. Habilidades (abilities)/7.4 Habilidades Disparadas/7.4. Habilidades Disparadas (Triggered Abilities).md",
+    "01. Reglas/7. Habilidades (abilities)/7.5 Habilidades Activadas",
+    "01. Reglas/7. Habilidades (abilities)/7.4 Habilidades Disparadas",
+    "01. Reglas/7. Habilidades (abilities)/7.3 Palabras Clave",
+    "01. Reglas/7. Habilidades (abilities)/7.2 Cartas de Accion",
+    "01. Reglas/7. Habilidades (abilities)/7.1 General",
+    "01. Reglas/7. Habilidades (abilities)/7.1 General/7.1.1 Clausula",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.4 Fase Fin de Turno",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal"
   ]
 }
