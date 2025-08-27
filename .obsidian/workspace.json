@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Tiana y su negativo en fuerza.md",
+                "file": "01. Reglas/1. Conceptos/1. Conceptos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiana y su negativo en fuerza"
+              "title": "1. Conceptos"
+            }
+          },
+          {
+            "id": "6f868af91b3055de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Reglas/1. Conceptos/1.5 Jugar cartas (Playing Cards).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5 Jugar cartas (Playing Cards)"
+            }
+          },
+          {
+            "id": "c2f2ff46c0db65db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.4 Jugar una carta (Play a Card).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3.4 Jugar una carta (Play a Card)"
+            }
+          },
+          {
+            "id": "ec8016aa22a1eb18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Zonas/Acciones en el descarte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acciones en el descarte"
             }
           },
           {
@@ -49,7 +91,8 @@
               "title": "Set 5 - Cartas"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "whenever",
+                "query": "jugar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 462.5
   },
   "right": {
     "id": "3c6ffab1f1945974",
@@ -198,36 +241,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "61a8f8f091819a9e",
+  "active": "ec8016aa22a1eb18",
   "lastOpenFiles": [
-    "02. Habilidades de las cartas/Set 5 - Cartas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Tiana y su negativo en fuerza.md",
+    "Jugar cartas (Playing Cards).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Zonas/Acciones en el descarte.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
     "plantillas/_plantilla para ejemplos de dudas.md",
-    "01. Reglas/7. Habilidades (abilities)/7.4 Habilidades Disparadas/7.4.2. Cuando, Siempre que, Al comienzo o al final de.md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.5 Jugador (Player).md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.4 Anotador de Puntuaciones (Scorekeeper).md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.3 Jueces (Judges).md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.2 Juez Principal (Head Judge).md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.1 Organizador del Torneo (Tournament Organizer).md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.0 Roles del torneo.md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.5 Legalidad de Sets (Set Legality).md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.4 Jugadores y Oficiales Elegibles (Eligible Players and Tournament Officials).md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.3 Roles en el Torneo (Tournament Roles).md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.2 Torneos Competitivos (Competitive).md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2.1 Torneos Casuales.md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.2 Niveles de Torneo (Tournament Levels).md",
-    "04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/1.1 Acciones correctivas.md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1.2 Construido (Constructed).md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1.1 Limitado (Limited).md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1.1 Tipos de Torneo (Tournament Types).md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1. Introduccion.md",
-    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo/7.7. Efectos de Reemplazo (Replacement Effects).md",
-    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo/7.7.6. Un efecto reemplaza a un evento.md",
-    "01. Reglas/7. Habilidades (abilities)/7.6 Habilidades Estaticas/7.6. Habilidades Estáticas (Static Abilities).md",
+    "Empecemos.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.4.1 Requisitos para jugar una carta.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.4 Jugar una carta (Play a Card).md",
+    "01. Reglas/1. Conceptos/1.5 Jugar cartas (Playing Cards).md",
+    "01. Reglas/1. Conceptos/1. Conceptos.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC/GSC y el final de partida.md",
+    "01. Reglas/7. Habilidades (abilities)/7.2 Cartas de Accion/7.2. Cartas de Acción (Action Cards).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Support - Interacciones.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades estáticas y efectos de reemplazo/Tener una habilidad por otro personaje.md",
+    "02. Habilidades de las cartas/Set 9 - Cartas.md",
+    "05. Consejos de jueces/11. Guía práctica - Deck Checks antes del inicio del torneo.md",
+    "05. Consejos de jueces/10.1 Caso práctico - Riesgo de abuso con errores 'menores'.md",
+    "05. Consejos de jueces/10. Errores de Registro - Guía rápida para jueces.md",
+    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.4 Trampas (Cheating).md",
+    "05. Consejos de jueces/9. Apelaciones.md",
+    "05. Consejos de jueces/9.7 Registro.md",
+    "05. Consejos de jueces/9.6 Comunicación del veredicto.md",
+    "05. Consejos de jueces/9.5 Consulta de documentos.md",
+    "05. Consejos de jueces/9.4 Deliberación.md",
+    "05. Consejos de jueces/9.3 Acotar el sentido de la apelación.md",
+    "05. Consejos de jueces/9.2 Explicar el proceso.md",
+    "05. Consejos de jueces/9.1 Confirmar los requisitos.md",
     "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo",
-    "01. Reglas/7. Habilidades (abilities)/7.5 Habilidades Activadas/7.5. Habilidades Activadas (Activated Abilities).md",
     "01. Reglas/7. Habilidades (abilities)/7.6 Habilidades Estaticas",
-    "01. Reglas/7. Habilidades (abilities)/7.4 Habilidades Disparadas/7.4. Habilidades Disparadas (Triggered Abilities).md",
     "01. Reglas/7. Habilidades (abilities)/7.5 Habilidades Activadas",
     "01. Reglas/7. Habilidades (abilities)/7.4 Habilidades Disparadas",
     "01. Reglas/7. Habilidades (abilities)/7.3 Palabras Clave",
