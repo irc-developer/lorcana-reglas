@@ -60,7 +60,7 @@
 - #manual — Procedimientos o reglas manuales para jueces o jugadores.
 - #may — Indica posibilidad dentro de las reglas.
 - #move-cost — Coste para mover una carta o efecto.
-- #movement — Acción de turno implica movimiento a localizaciones.
+- #movement — Acción de turno implica movimiento a ubicaciones.
 - #multiplayer-game — Partida con varios jugadores.
 - #opponent — Jugador contrario.
 - #order — Secuencia o prioridad de acciones.

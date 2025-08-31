@@ -4,9 +4,9 @@ Controlo [Mufasa - Betrayed Leader](https://dreamborn.ink/es/cards/mufasa/betray
 No, no podrías ya que el personaje entra ya agotado cuando se ha resuelto Mufasa. Esto impide que, cuando se resuelve el trigger de Tinker Bell, puedas agotarlo para ganar los dos de lore.
 
 ---
-### Duda
+### Duda 2
 Controlo dos copias de [Tinker Bell - Insistent Fairy](https://dreamborn.ink/es/cards/tinker-bell/insistent-fairy). Entra en juego un personaje con fuerza cinco o más ¿Puedo agotarlo dos veces para ganar cuatro lores?
-### Respuesta
+### Respuesta 2
 No, no puedes ya que al agotarlo para la primera habilidad ya no puedes hacerlo la segunda vez.
 #exert #bag #a-to-b-clause #exerted
 ### Reglas implicadas:
@@ -18,18 +18,18 @@ Discord
 
 ---
 
-### Duda
+### Duda 3
 ¿Puedo escoger un personaje agotado y resolver la habilidad de [[Set 7 - Cartas#Elsa - Ice Maker]]?
-### Respuesta
+### Respuesta 3
 No y es debido a que cuando hacemos referencia a [[7.1.3.  Puede (may)]] el jugador, si quiere, lleva a cabo lo que pide la carta. Si no lo hace porque no quiere o no puede, lo que hay a continuación no se resuelve. En este caso se le pide agotar un personaje con lo que si no lo hace, ya sea por no agotarlo o tratar de agotar uno ya agotado, no se podrá resolver la parte de no enderezarse
 
 ### Reglas implicadas:
 - [[7.1.3.  Puede (may)]]
 - [[Agotar (exert)]]
 
-### Duda
+### Duda 4
 ¿Puedo escoger otro personaje que no sea el que he agotado?
-### Respuesta
+### Respuesta 4
 No, ya que en la sutileza de la regla en inglés se hace referencia al mismo personaje que se ha agotado.
 ### Referencia:
 - Discord de lorcana 

@@ -6,7 +6,29 @@ SPRING THE TRAP While this character is being challenged, the challenging charac
 
   
 
+### [[Louie - One Cool Duck]]
+
+SPRING THE TRAP While this character is being challenged, the challenging character gets -1 {S}.
+
+---
+
+  
+
 ### [[Dewey - Lovable Showoff]]
+
+---
+
+  
+
+### [[Dewey - Lovable Showoff]]
+
+---
+
+  
+
+### [[Huey - Reliable Leader]]
+
+I KNOW THE WAY Whenever this character quests, you pay 1 {I} less for the next character you play this turn.
 
 ---
 
@@ -520,6 +542,8 @@ GOT TO KEEP REAL QUIET Once during your turn, whenever you ready this character,
 
 ---
 
+  
+
 ### [[Jiminy Cricket - Level-Headed and Wise]]
 
 Evasive (Only characters with Evasive can challenge this character.)
@@ -530,7 +554,7 @@ ENOUGH'S ENOUGH While this character is exerted, opposing characters with Rush e
 
   
 
- ### [[Bambi - Little Prince]]
+### [[Bambi - Little Prince]]
 
 SAY HELLO When you play this character, gain 1 lore.
 
@@ -540,7 +564,7 @@ KIND OF BASHFUL When an opponent plays a character, return this character to you
 
   
 
- ### [[Monstro - Infamous Whale]]
+### [[Monstro - Infamous Whale]]
 
 Rush (This character can challenge the turn they're played.)
 
@@ -550,7 +574,7 @@ FULL BREACH Choose and discard a card – Ready this character. He can't quest f
 
   
 
- ### [[Nero - Fearsome Crocodile]]
+### [[Nero - Fearsome Crocodile]]
 
 AND MEAN {E} — Move 1 damage counter from this character to chosen opposing character.
 
@@ -558,7 +582,15 @@ AND MEAN {E} — Move 1 damage counter from this character to chosen opposing ch
 
   
 
- ### [[Magica De Spell - Shadow Form]]
+### [[Nero - Fearsome Crocodile]]
+
+AND MEAN {E} — Move 1 damage counter from this character to chosen opposing character.
+
+---
+
+  
+
+### [[Magica De Spell - Shadow Form]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -568,7 +600,7 @@ DANCE OF DARKNESS When you play this character, you may return one of your other
 
   
 
- ### [[Kuzco - Impulsive Llama]]
+### [[Kuzco - Impulsive Llama]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Kuzco.)
 
@@ -578,7 +610,7 @@ WHAT DOES THIS DO? When you play this character, each opponent chooses one of th
 
   
 
- ### [[Yzma - On Edge]]
+### [[Yzma - On Edge]]
 
 WHY DO WE EVEN HAVE THAT LEVER? When you play this character, if you have a card named Pull the Lever! in your discard, you may search your deck for a card named Wrong Lever! and reveal that card to all players. Put that card into your hand and shuffle your deck.
 
@@ -586,7 +618,7 @@ WHY DO WE EVEN HAVE THAT LEVER? When you play this character, if you have a card
 
   
 
- ### [[Madam Mim - Rhino]]
+### [[Madam Mim - Rhino]]
 
 Shift 2 (You may pay 2 {I} to play this on top of one of your characters named Madam Mim.)
 
@@ -596,7 +628,7 @@ MAKE WAY, COMING THROUGH! When you play this character, banish her or return ano
 
   
 
- ### [[Mother Gothel - Knows What's Best]]
+### [[Mother Gothel - Knows What's Best]]
 
 LOOK WHAT YOU'VE DONE When you play this character, you may deal 2 damage to another chosen character of yours to give that character Challenger +1 and "When this character is banished in a challenge, return this card to your hand" this turn. (They get +1 {S} while challenging.)
 
@@ -604,13 +636,15 @@ LOOK WHAT YOU'VE DONE When you play this character, you may deal 2 damage to ano
 
   
 
- ### [[Blue Fairy - Guiding Light]]
+### [[Blue Fairy - Guiding Light]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
 Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)
 
 ---
+
+  
 
 ### [[Anna - Magical Mission]]
 
@@ -624,7 +658,7 @@ COORDINATED PLAN Whenever this character quests, if you have a character named E
 
   
 
- ### [[The Sultan - Royal Apparition]]
+### [[The Sultan - Royal Apparition]]
 
 Vanish (When an opponent chooses this character for an action, banish them.)
 
@@ -634,7 +668,7 @@ COMMANDING PRESENCE Whenever one of your Illusion characters quests, exert chose
 
   
 
- ### [[Jafar - High Sultan of Lorcana]]
+### [[Jafar - High Sultan of Lorcana]]
 
 DARK POWER Whenever this character quests, you may draw a card, then choose and discard a card. If an Illusion character card is discarded this way, you may play that character for free.
 
@@ -642,7 +676,7 @@ DARK POWER Whenever this character quests, you may draw a card, then choose and 
 
   
 
- ### [[Camilo Madrigal - Center Stage]]
+### [[Camilo Madrigal - Center Stage]]
 
 ENCORE! ENCORE! When this character is banished in a challenge, return this card to your hand.
 
@@ -650,7 +684,7 @@ ENCORE! ENCORE! When this character is banished in a challenge, return this card
 
   
 
- ### [[Flower - Shy Skunk]]
+### [[Flower - Shy Skunk]]
 
 LOOKING FOR FRIENDS Whenever you play another character, look at the top card of your deck. Put it on either the top or the bottom of your deck.
 
@@ -658,7 +692,7 @@ LOOKING FOR FRIENDS Whenever you play another character, look at the top card of
 
   
 
- ### [[Forest Duel]]
+### [[Forest Duel]]
 
 Your characters gain Challenger +2 and "When this character is banished in a challenge, return this card to your hand" this turn. (They get +2 {S} while challenging.)
 
@@ -666,7 +700,7 @@ Your characters gain Challenger +2 and "When this character is banished in a cha
 
   
 
- ### [[They Never Come Back]]
+### [[They Never Come Back]]
 
 Up to 2 chosen characters can't ready at the start of their next turn. Draw a card.
 
@@ -674,7 +708,7 @@ Up to 2 chosen characters can't ready at the start of their next turn. Draw a ca
 
   
 
- ### [[Fantastical and Magical]]
+### [[Fantastical and Magical]]
 
 Sing Together 9 (Any number of your or your teammates’ characters with total cost 9 or more may {E} to sing this song for free.)
 
@@ -684,7 +718,7 @@ For each character that sang this song, draw a card and gain 1 lore.
 
   
 
- ### [[Pull the Lever!]]
+### [[Pull the Lever!]]
 
 Choose one:
 
@@ -696,13 +730,14 @@ Choose one:
 
   
 
- ### [[Into the Unknown]]
+### [[Into the Unknown]]
 
 (A character with cost 3 or more can {E} to sing this song for free.)
 
 Put chosen exerted character into their player's inkwell facedown and exerted.
 
 ---
+
   
 
 ### [[Everybody's Got a Weakness]]
@@ -713,7 +748,7 @@ Move 1 damage counter from each damaged character you have in play to chosen opp
 
   
 
- ### [[Scarab]]
+### [[Scarab]]
 
 SEARCH THE SANDS {E} 2 {I} – Return an Illusion character card from your discard to your hand.
 
@@ -721,7 +756,7 @@ SEARCH THE SANDS {E} 2 {I} – Return an Illusion character card from your disca
 
   
 
- ### [[Ice Spikes]]
+### [[Ice Spikes]]
 
 HOLD STILL When you play this item, exert chosen opposing character.
 
@@ -731,13 +766,13 @@ IT'S STUCK {E}, 1 {I} – Exert chosen opposing item. It can’t ready at the st
 
   
 
- ### [[Wilhelmina Packard - The Radio Operator]]
+### [[Wilhelmina Packard - The Radio Operator]]
 
 ---
 
   
 
- ### [[Basil - Undercover Detective]]
+### [[Basil - Undercover Detective]]
 
 INCAPACITATE When you play this character, you may return chosen character to their player's hand.
 
@@ -747,7 +782,7 @@ INTERFERE Whenever this character quests, chosen opponent discards a card at ran
 
   
 
- ### [[Tramp - Observant Guardian]]
+### [[Tramp - Observant Guardian]]
 
 HOW DO I GET IN? When you play this character, chosen character gains Ward until the start of your next turn. (Opponents can't choose them except to challenge.)
 
@@ -755,7 +790,7 @@ HOW DO I GET IN? When you play this character, chosen character gains Ward until
 
   
 
- ### [[Chaca - Junior Chipmunk]]
+### [[Chaca - Junior Chipmunk]]
 
 IN CAHOOTS When you play this character, if you have a character named Tipo in play, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)
 
@@ -763,7 +798,7 @@ IN CAHOOTS When you play this character, if you have a character named Tipo in p
 
   
 
- ### [[Tipo - Junior Chipmunk]]
+### [[Tipo - Junior Chipmunk]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -771,7 +806,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Bill the Lizard - Chimney Sweep]]
+### [[Bill the Lizard - Chimney Sweep]]
 
 NOTHING TO IT While another character in play has damage, this character gains Evasive. (Only characters with Evasive can challenge them.)
 
@@ -779,7 +814,7 @@ NOTHING TO IT While another character in play has damage, this character gains E
 
   
 
- ### [[March Hare - Hare-Brained Eccentric]]
+### [[March Hare - Hare-Brained Eccentric]]
 
 LIGHT THE CANDLES When you play this character, you may deal 2 damage to chosen damaged character.
 
@@ -787,7 +822,7 @@ LIGHT THE CANDLES When you play this character, you may deal 2 damage to chosen 
 
   
 
- ### [[Fred - Major Science Enthusiast]]
+### [[Fred - Major Science Enthusiast]]
 
 SPITTING FIRE! When you play this character, you may banish chosen item.
 
@@ -795,7 +830,7 @@ SPITTING FIRE! When you play this character, you may banish chosen item.
 
   
 
- ### [[Mad Dog - Karnage's First Mate]]
+### [[Mad Dog - Karnage's First Mate]]
 
 ARE YOU SURE THIS IS SAFE, CAPTAIN? If you have a character named Don Karnage in play, you pay 1 {I} less to play this character.
 
@@ -803,13 +838,13 @@ ARE YOU SURE THIS IS SAFE, CAPTAIN? If you have a character named Don Karnage in
 
   
 
- ### [[Dale - Bumbler]]
+### [[Dale - Bumbler]]
 
 ---
 
   
 
- ### [[Louis - Endearing Alligator]]
+### [[Louis - Endearing Alligator]]
 
 SENSITIVE SOUL This character enters play exerted.
 
@@ -819,13 +854,13 @@ FRIENDLIER THAN HE LOOKS When you play this character, chosen opposing character
 
   
 
- ### [[Napoleon - Clever Bloodhound]]
+### [[Napoleon - Clever Bloodhound]]
 
 ---
 
   
 
- ### [[Chip - Quick Thinker]]
+### [[Chip - Quick Thinker]]
 
 I’LL HANDLE THIS When you play this character, chosen opponent chooses and discards a card.
 
@@ -833,7 +868,7 @@ I’LL HANDLE THIS When you play this character, chosen opponent chooses and dis
 
   
 
- ### [[Fred - Giant-Sized]]
+### [[Fred - Giant-Sized]]
 
 Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Fred.)
 
@@ -843,7 +878,7 @@ I LIKE WHERE THIS IS HEADING Whenever this character quests, reveal cards from t
 
   
 
- ### [[Gadget Hackwrench - Quirky Scientist]]
+### [[Gadget Hackwrench - Quirky Scientist]]
 
 GOLLY! When you play this character, if an opponent has more cards in their hand than you, you may draw a card.
 
@@ -851,7 +886,7 @@ GOLLY! When you play this character, if an opponent has more cards in their hand
 
   
 
- ### [[Raya - Infiltration Expert]]
+### [[Raya - Infiltration Expert]]
 
 UNCONVENTIONAL TACTICS Whenever this character quests, you may pay 2 {I} to ready another chosen character.
 
@@ -859,7 +894,7 @@ UNCONVENTIONAL TACTICS Whenever this character quests, you may pay 2 {I} to read
 
   
 
- ### [[Rapunzel - High Climber]]
+### [[Rapunzel - High Climber]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -869,7 +904,7 @@ WRAPPED UP Whenever this character quests, chosen opposing character can't quest
 
   
 
- ### [[Flynn Rider - Breaking and Entering]]
+### [[Flynn Rider - Breaking and Entering]]
 
 THIS IS A VERY BIG DAY Whenever this character is challenged, the challenging player may choose and discard a card. If they don't, you gain 2 lore.
 
@@ -877,7 +912,7 @@ THIS IS A VERY BIG DAY Whenever this character is challenged, the challenging pl
 
   
 
- ### [[Dormouse - Easily Agitated]]
+### [[Dormouse - Easily Agitated]]
 
 VERY RUDE INDEED When you play this character, you may put 1 damage counter on chosen character.
 
@@ -885,7 +920,7 @@ VERY RUDE INDEED When you play this character, you may put 1 damage counter on c
 
   
 
- ### [[Alice - Clumsy as Can Be]]
+### [[Alice - Clumsy as Can Be]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Alice.)
 
@@ -895,7 +930,7 @@ ACCIDENT PRONE Whenever this character quests, put 1 damage counter on each othe
 
   
 
- ### [[Queen of Hearts - Haughty Monarch]]
+### [[Queen of Hearts - Haughty Monarch]]
 
 COUNT OFF! While there are 5 or more characters with damage in play, this character gets +3 {L}.
 
@@ -903,7 +938,7 @@ COUNT OFF! While there are 5 or more characters with damage in play, this charac
 
   
 
- ### [[Hiro Hamada - Intuitive Thinker]]
+### [[Hiro Hamada - Intuitive Thinker]]
 
 LOOK FOR A NEW ANGLE {E} — Ready chosen Floodborn character.
 
@@ -911,7 +946,7 @@ LOOK FOR A NEW ANGLE {E} — Ready chosen Floodborn character.
 
   
 
- ### [[Go Go Tomago - Cutting Edge]]
+### [[Go Go Tomago - Cutting Edge]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Go Go Tomago.)
 
@@ -923,7 +958,7 @@ ZERO RESISTANCE When you play this character, if you used Shift to play her, you
 
   
 
- ### [[Don Karnage - Air Pirate Leader]]
+### [[Don Karnage - Air Pirate Leader]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -933,7 +968,7 @@ SCORNFUL TAUNT Whenever you play an action that isn’t a song, chosen opposing 
 
   
 
- ### [[Captain Hook - The Pirate King]]
+### [[Captain Hook - The Pirate King]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Captain Hook.)
 
@@ -943,7 +978,7 @@ GIVE ’EM ALL YOU GOT! Once during your turn, whenever an opposing character is
 
   
 
- ### [[Maui - Stubborn Trickster]]
+### [[Maui - Stubborn Trickster]]
 
 I'M NOT FINISHED YET When this character is banished, choose one:
 
@@ -957,7 +992,7 @@ I'M NOT FINISHED YET When this character is banished, choose one:
 
   
 
- ### [[Honey Lemon - Costumed Catalyst]]
+### [[Honey Lemon - Costumed Catalyst]]
 
 LET'S DO THIS! Whenever you play a Floodborn character, if you used Shift to play them, you may return chosen character to their player's hand.
 
@@ -965,7 +1000,7 @@ LET'S DO THIS! Whenever you play a Floodborn character, if you used Shift to pla
 
   
 
- ### [[Jock - Attentive Uncle]]
+### [[Jock - Attentive Uncle]]
 
 VOICE OF EXPERIENCE When you play this character, if you have 3 or more other characters in play, gain 2 lore.
 
@@ -973,7 +1008,7 @@ VOICE OF EXPERIENCE When you play this character, if you have 3 or more other ch
 
   
 
- ### [[Archimedes - Resourceful Owl]]
+### [[Archimedes - Resourceful Owl]]
 
 YOU DON'T NEED THAT When you play this character, you may banish chosen item.
 
@@ -983,7 +1018,7 @@ NOW, THAT'S NOT BAD During your turn, whenever an item is banished, you may draw
 
   
 
- ### [[He Who Steals and Runs Away]]
+### [[He Who Steals and Runs Away]]
 
 Banish chosen item. Draw a card.
 
@@ -991,7 +1026,7 @@ Banish chosen item. Draw a card.
 
   
 
- ### [[Stopped Chaos in Its Tracks]]
+### [[Stopped Chaos in Its Tracks]]
 
 Sing Together 8 (Any number of your or your teammates’ characters with total cost 8 or more may {E} to sing this song for free.)
 
@@ -1001,7 +1036,7 @@ Return up to 2 chosen characters with 3 {S} or less each to their player's hand.
 
   
 
- ### [[Wrong Lever!]]
+### [[Wrong Lever!]]
 
 Choose one:
 
@@ -1013,7 +1048,7 @@ Choose one:
 
   
 
- ### [[Undermine]]
+### [[Undermine]]
 
 Chosen opponent chooses and discards a card. Chosen character gets +2 {S} this turn.
 
@@ -1021,7 +1056,7 @@ Chosen opponent chooses and discards a card. Chosen character gets +2 {S} this t
 
   
 
- ### [[Walk the Plank!]]
+### [[Walk the Plank!]]
 
 Your Pirate characters gain "{E} — Banish chosen damaged character" this turn.
 
@@ -1029,7 +1064,7 @@ Your Pirate characters gain "{E} — Banish chosen damaged character" this turn.
 
   
 
- ### [[Chem Purse]]
+### [[Chem Purse]]
 
 HERE'S THE BEST PART Whenever you play a character, if you used Shift to play them, they get +4 {S} this turn.
 
@@ -1037,7 +1072,7 @@ HERE'S THE BEST PART Whenever you play a character, if you used Shift to play th
 
   
 
- ### [[Jeweled Collar]]
+### [[Jeweled Collar]]
 
 WELCOME EXTRAVAGANCE Whenever one of your characters is challenged, you may put the top card of your deck into your inkwell facedown and exerted.
 
@@ -1045,11 +1080,13 @@ WELCOME EXTRAVAGANCE Whenever one of your characters is challenged, you may put 
 
   
 
- ### [[Gloyd Orangeboar - Fierce Competitor]]
+### [[Gloyd Orangeboar - Fierce Competitor]]
 
 PUMPKIN SPICE When you play this character, each opponent loses 1 lore and you gain 1 lore.
 
 ---
+
+  
 
 ### [[Honest John - Shameless Schemer]]
 
@@ -1057,7 +1094,7 @@ PUMPKIN SPICE When you play this character, each opponent loses 1 lore and you g
 
   
 
- ### [[Gyro Gearloose - Eccentric Inventor]]
+### [[Gyro Gearloose - Eccentric Inventor]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -1067,7 +1104,7 @@ I'LL SHOW YOU! When you play this character, chosen opposing character gets -3 {
 
   
 
- ### [[Vanellope Von Schweetz - Spunky Speedster]]
+### [[Vanellope Von Schweetz - Spunky Speedster]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -1075,7 +1112,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
   
 
- ### [[Brutus - Fearsome Crocodile]]
+### [[Brutus - Fearsome Crocodile]]
 
 SPITEFUL During your turn, when this character is banished, if one of your characters was damaged this turn, gain 2 lore.
 
@@ -1083,7 +1120,15 @@ SPITEFUL During your turn, when this character is banished, if one of your chara
 
   
 
- ### [[The Dodo - Outlandish Storyteller]]
+### [[Brutus - Fearsome Crocodile]]
+
+SPITEFUL During your turn, when this character is banished, if one of your characters was damaged this turn, gain 2 lore.
+
+---
+
+  
+
+### [[The Dodo - Outlandish Storyteller]]
 
 EXTRAORDINARY SITUATION This character gets +1 {S} for each 1 damage on him.
 
@@ -1091,7 +1136,7 @@ EXTRAORDINARY SITUATION This character gets +1 {S} for each 1 damage on him.
 
   
 
- ### [[Alice - Courageous Keyholder]]
+### [[Alice - Courageous Keyholder]]
 
 THIS WAY OUT When you play this character, you may ready chosen damaged character of yours. They can't quest for the rest of this turn.
 
@@ -1099,7 +1144,7 @@ THIS WAY OUT When you play this character, you may ready chosen damaged characte
 
   
 
- ### [[Lumiere - Nimble Candelabra]]
+### [[Lumiere - Nimble Candelabra]]
 
 QUICK-STEP While you have an item card in your discard, this character gains Evasive. (Only characters with Evasive can challenge them.)
 
@@ -1107,7 +1152,7 @@ QUICK-STEP While you have an item card in your discard, this character gains Eva
 
   
 
- ### [[Gaston - Arrogant Showoff]]
+### [[Gaston - Arrogant Showoff]]
 
 BREAK APART When you play this character, you may banish one of your items to give chosen character +2 {S} this turn.
 
@@ -1115,7 +1160,7 @@ BREAK APART When you play this character, you may banish one of your items to gi
 
   
 
- ### [[Mushu - Fast-Talking Dragon]]
+### [[Mushu - Fast-Talking Dragon]]
 
 LET'S GET THIS SHOW ON THE ROAD {E} — Chosen character gains Rush this turn. (They can challenge the turn they're played.)
 
@@ -1123,7 +1168,7 @@ LET'S GET THIS SHOW ON THE ROAD {E} — Chosen character gains Rush this turn. (
 
   
 
- ### [[Cri-Kee - Part of the Team]]
+### [[Cri-Kee - Part of the Team]]
 
 AT HER SIDE While you have 2 or more other exerted characters in play, this character gets +2 {L}.
 
@@ -1131,13 +1176,13 @@ AT HER SIDE While you have 2 or more other exerted characters in play, this char
 
   
 
- ### [[Lafayette - Sleepy Basset Hound]]
+### [[Lafayette - Sleepy Basset Hound]]
 
 ---
 
   
 
- ### [[Figaro - Tuxedo Cat]]
+### [[Figaro - Tuxedo Cat]]
 
 PLAYFULNESS Opposing items enter play exerted.
 
@@ -1145,7 +1190,7 @@ PLAYFULNESS Opposing items enter play exerted.
 
   
 
- ### [[Thumper - Young Bunny]]
+### [[Thumper - Young Bunny]]
 
 YOU CAN DO IT! {E} — Chosen character gets +3 this turn.
 
@@ -1153,7 +1198,7 @@ YOU CAN DO IT! {E} — Chosen character gets +3 this turn.
 
   
 
- ### [[Wreck-It Ralph - Back Seat Driver]]
+### [[Wreck-It Ralph - Back Seat Driver]]
 
 CHARGED UP When you play this character, chosen Racer character gets +4 {S} this turn.
 
@@ -1161,7 +1206,7 @@ CHARGED UP When you play this character, chosen Racer character gets +4 {S} this
 
   
 
- ### [[Tinker Bell - Insistent Fairy]]
+### [[Tinker Bell - Insistent Fairy]]
 
 Evasive (Only characters with Evasive can challenge this character.)
 
@@ -1171,7 +1216,7 @@ PAY ATTENTION Whenever you play a character with 5 {S} or more, you may exert th
 
   
 
- ### [[Lilo - Causing an Uproar]]
+### [[Lilo - Causing an Uproar]]
 
 STOMPIN' TIME! During your turn, if you've played 3 or more actions this turn, you may play this character for free.
 
@@ -1181,7 +1226,7 @@ RAAAWR! When you play this character, ready chosen character. They can't quest f
 
   
 
- ### [[LeFou - Cake Thief]]
+### [[LeFou - Cake Thief]]
 
 ALL FOR ME {E}, Banish one of your items — Chosen opponent loses 1 lore and you gain 1 lore.
 
@@ -1189,7 +1234,7 @@ ALL FOR ME {E}, Banish one of your items — Chosen opponent loses 1 lore and yo
 
   
 
- ### [[Lumiere - Fired Up]]
+### [[Lumiere - Fired Up]]
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Lumiere.)
 
@@ -1201,7 +1246,7 @@ SACREBLEU!: Whenever one of your items is banished, this character gets +1 {L} t
 
   
 
- ### [[The Coachman - Greedy Deceiver]]
+### [[The Coachman - Greedy Deceiver]]
 
 WILD RIDE While 2 or more characters of yours are exerted, this character gets +2 {S} and gains Evasive. (Only characters with Evasive can challenge them.)
 
@@ -1209,7 +1254,7 @@ WILD RIDE While 2 or more characters of yours are exerted, this character gets +
 
   
 
- ### [[Mulan - Charging Ahead]]
+### [[Mulan - Charging Ahead]]
 
 Reckless (This character can't quest and must challenge each turn if able.)
 
@@ -1221,7 +1266,7 @@ LONG RANGE This character can challenge ready characters.
 
   
 
- ### [[Mushu - Your Worst Nightmare]]
+### [[Mushu - Your Worst Nightmare]]
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Mushu.)
 
@@ -1231,7 +1276,7 @@ ALL FIRED UP Whenever you play another character, they gain Rush, Reckless, and 
 
   
 
- ### [[Mr. Snoops - Betrayed Partner]]
+### [[Mr. Snoops - Betrayed Partner]]
 
 DOUBLE-CROSSING CROOK! During your turn, when this character is banished, you may draw a card.
 
@@ -1801,9 +1846,9 @@ WHAT DOES THIS DO? When you play this character, each opponent chooses one of th
 
   
 
-### [[# Mother Gothel - Vain Sorceress]]
+### [[Mother Gothel - Knows What's Best]]
 
-NOW YOU'VE UPSET ME Whenever one of your characters challenges, you may move 1 damage counter from chosen character to chosen opposing character.
+LOOK WHAT YOU'VE DONE When you play this character, you may deal 2 damage to another chosen character of yours to give that character Challenger +1 and "When this character is banished in a challenge, return this card to your hand" this turn. (They get +1 {S} while challenging.)
 
 ---
 
