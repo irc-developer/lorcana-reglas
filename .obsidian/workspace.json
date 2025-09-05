@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Jugar cartas/Jugar carta sin objetivo válido.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades estáticas y efectos de reemplazo/Fuente estática abandona el juego.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jugar carta sin objetivo válido"
+              "title": "Fuente estática abandona el juego"
             }
           },
           {
@@ -257,6 +257,9 @@
   },
   "active": "75fcaf506fb2bff8",
   "lastOpenFiles": [
+    "01. Reglas/8. Zonas (Zones)/8.4 Juego/8.4.1. Zona de Juego (Play zone).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades estáticas y efectos de reemplazo/Fuente estática abandona el juego.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades estáticas y efectos de reemplazo/No poder ganar lore por efecto estático.md",
     "plantillas/_plantilla para ejemplos de dudas.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Jugar cartas/Jugar carta sin objetivo válido.md",
     "Empecemos.md",
@@ -282,9 +285,6 @@
     "01. Reglas/0. Glosario/0. Glosario.md",
     "01. Reglas/1. Conceptos/1. Conceptos.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Estados/Ganar evasivo cuando desafía.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/Agotar personajes como coste.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.6 Desafiar (Challenge).md",
-    "00. Introducción/Etiquetas para Disney Lorcana.md",
     "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo",
     "01. Reglas/7. Habilidades (abilities)/7.6 Habilidades Estaticas",
     "01. Reglas/7. Habilidades (abilities)/7.5 Habilidades Activadas",
