@@ -1,1 +1,1 @@
-Es razonable no conocer las interacciones avanzadas aunque sí debes conocer las reglas básicas relacionadas con el turno, los retos y demás. Cuanto más sepas, menos problemas tendrás a la hora de desarrollar tu juego.
+Es razonable no conocer las interacciones avanzadas aunque sí debes conocer las reglas básicas relacionadas con el turno, los desafíos y demás. Cuanto más sepas, menos problemas tendrás a la hora de desarrollar tu juego.

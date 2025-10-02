@@ -25,7 +25,7 @@ Aquí tienes el listado de casos que he ido recogiendo tanto en las mesas como e
 [[Requisito previo para disparar una habilidad]]
 [[Requisito previo para disparar una habilidad]]
 [[Robar carta y tener que descartarla]]
-[[Siempre que un personaje rete... ocurren cosas]]
+[[Siempre que un personaje desafíe... ocurren cosas]]
 
 ---
 ### Habilidades estáticas y efectos de reemplazo

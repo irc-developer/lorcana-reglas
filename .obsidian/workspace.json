@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empecemos.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje desafíe... ocurren cosas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empecemos"
+              "title": "Siempre que un personaje desafíe... ocurren cosas"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +89,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,8 +186,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "744a2cfd2c0e60d8",
+  "active": "2406b8cdb89a6031",
   "lastOpenFiles": [
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Requisito previo para disparar una habilidad.md",
+    "05. Consejos de jueces/3.1 Conocedor.md",
+    "08. Consejos para jugadores/Interioriza las reglas básicas.md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.6.2. Paso de daño por desafío (Challenge Damage Step).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.6 Desafiar (Challenge).md",
+    "04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md",
+    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.6.3. Finaliza el desafío.md",
+    "Empecemos.md",
     "03. Reglas de Torneo/9. Premios (Prizing)/9.1. Premios Obtenidos (Prizing Earned).md",
     "03. Reglas de Torneo/8. Información de Viaje/8.2. Cumplimiento (Compliance).md",
     "03. Reglas de Torneo/8. Información de Viaje/8.1. Documentación y Alojamiento de Viaje.md",
@@ -205,14 +214,6 @@
     "03. Reglas de Torneo/5 Información y comunicación/5.3 Dispositivos Electrónicos (Electronic Devices).md",
     "03. Reglas de Torneo/5 Información y comunicación/5.2 Notas y Seguimiento de Información (Notes and Information Tracking).md",
     "03. Reglas de Torneo/5 Información y comunicación/5.1. Disposición de Juego (Game Layout).md",
-    "03. Reglas de Torneo/5 Información y comunicación/5. Información y comunicación.md",
-    "03. Reglas de Torneo/4. Transmisión (Broadcast)/4.2. Consentimiento de Imagen del Jugador.md",
-    "03. Reglas de Torneo/4. Transmisión (Broadcast)/4.1. Derechos del Operador de Torneo.md",
-    "03. Reglas de Torneo/3. Operaciones en los torneos/3.0 Operaciones en los torneos.md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.2 Juez Principal (Head Judge).md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.1 Organizador del Torneo (Tournament Organizer).md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.0 Roles del torneo.md",
-    "03. Reglas de Torneo/2. Roles en los torneos/2.7. Realizador (Broadcast Representative).md",
     "03. Reglas de Torneo/9. Premios (Prizing)",
     "03. Reglas de Torneo/8. Información de Viaje",
     "03. Reglas de Torneo/7. Conducta del Jugador",
