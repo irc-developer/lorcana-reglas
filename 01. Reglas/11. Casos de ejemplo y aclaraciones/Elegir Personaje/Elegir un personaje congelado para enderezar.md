@@ -1,5 +1,5 @@
 ### Duda
-- Mi oponente juega una [[Set 9 - Cartas#Elsa - Spirit of Winter]], seleccionando dos de mis personajes agotados que no se enderezarán en el siguiente paso de [[4.2.1 Preparar (Ready)]].
+- Mi oponente juega una [[Set 9 - Fabled#Elsa - Spirit of Winter]], seleccionando dos de mis personajes agotados que no se enderezarán en el siguiente paso de [[4.2.1 Preparar (Ready)]].
 
 Durante mi turno ¿Puedo enderezarlas de alguna manera?
 

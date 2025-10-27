@@ -1,7 +1,7 @@
 ### Duda
-- Tengo en mesa a [[Set 8 - Cartas#Honest John - Shameless Schemer]] (con fuerza 7).
-- También tengo en mesa a [[Set 7 - Cartas#Baloo - Ol' Iron Paws]].
-- Juego a [[Set 7 - Cartas#Hades - Fast Talker]] y elijo como objetivo a mi Honest John.
+- Tengo en mesa a [[Set 8 - Jafar#Honest John - Shameless Schemer]] (con fuerza 7).
+- También tengo en mesa a [[Set 7 - Archazia#Baloo - Ol' Iron Paws]].
+- Juego a [[Set 7 - Archazia#Hades - Fast Talker]] y elijo como objetivo a mi Honest John.
 - 
 **¿Puedo resolver la habilidad disparada de Hades aunque Honest John no pueda recibir daño debido al efecto de reemplazo de Baloo?**
 ### Respuesta

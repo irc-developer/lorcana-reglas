@@ -1,5 +1,5 @@
 ### Duda 1
-- Tengo en mesa [[Set 9 - Cartas#Scar]] agotado y una [[Set 5 - Cartas#Clarabelle - Light on Her Hooves]].
+- Tengo en mesa [[Set 9 - Fabled#Scar]] agotado y una [[Set 5 - Shimmering#Clarabelle - Light on Her Hooves]].
 - Cero cartas en mano.
 - Mi oponente tiene cuatro cartas en mano.
 
@@ -13,7 +13,7 @@ Discord.
 
 --- 
 ### Duda 2
-- Tengo en mesa [[Set 9 - Cartas#Scar]] agotado y una [[Set 5 - Cartas#Clarabelle - Light on Her Hooves]].
+- Tengo en mesa [[Set 9 - Fabled#Scar]] agotado y una [[Set 5 - Shimmering#Clarabelle - Light on Her Hooves]].
 - Cero cartas en mano.
 - Mi oponente tiene cuatro cartas en mano.
 

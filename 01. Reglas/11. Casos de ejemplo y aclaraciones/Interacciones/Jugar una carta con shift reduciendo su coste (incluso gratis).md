@@ -1,6 +1,6 @@
 ## Duda
 
-En mi mazo tengo una carta que me permite jugar otra gratis, [[Set 7 - Cartas#The Return of Hercules]]. En la zona de juego tengo un personaje compatible con [[10.8. Cambio (Shift)]], y en mano, el personaje que quiero jugar.  
+En mi mazo tengo una carta que me permite jugar otra gratis, [[Set 7 - Archazia#The Return of Hercules]]. En la zona de juego tengo un personaje compatible con [[10.8. Cambio (Shift)]], y en mano, el personaje que quiero jugar.  
 **¿Puedo jugar gratis la carta desde la mano usando la habilidad Shift?**
 ### Respuesta
 Sí, puedes jugar una carta usando la habilidad [[10.8. Cambio (Shift)]] cuando se te permite jugarla gratis. Esto se debe a cómo se define el proceso para jugar una carta en las reglas:
@@ -22,7 +22,7 @@ Y según la definición de [[Gratis (free)]], se considera que el jugador **no p
 ---
 ## Duda
 
-En mi mazo tengo una carta que me permite jugar otra gratis **con una restricción de coste**, como por ejemplo [[Set 8 - Cartas#Lady - Family Dog]] o [[Set 1 - Cartas#Just in Time]]. En la zona de juego tengo un personaje compatible con [[10.8. Cambio (Shift)]], y en mano, el personaje que quiero jugar.  
+En mi mazo tengo una carta que me permite jugar otra gratis **con una restricción de coste**, como por ejemplo [[Set 8 - Jafar#Lady - Family Dog]] o [[Set 1 - First Chapter#Just in Time]]. En la zona de juego tengo un personaje compatible con [[10.8. Cambio (Shift)]], y en mano, el personaje que quiero jugar.  
 **¿Puedo jugar gratis la carta desde la mano usando la habilidad Shift?**
 ### Respuesta
 Sí, puedes jugar una carta usando la habilidad [[10.8. Cambio (Shift)]] cuando se te permite jugarla gratis **siempre que el [[Coste (cost)]] del personaje cumpla esa condición de la carta** sin importar el valor del shift.
@@ -35,7 +35,7 @@ Sí, puedes jugar una carta usando la habilidad [[10.8. Cambio (Shift)]] cuando 
 ---
 ## Duda
 
-¿Puedo usar la reducción de coste de [[Set 2 - Cartas#Zero to Hero]] para reducir el coste de [[10.8. Cambio (Shift)]]?
+¿Puedo usar la reducción de coste de [[Set 2 - Floodborn#Zero to Hero]] para reducir el coste de [[10.8. Cambio (Shift)]]?
 ### Respuesta
 
 Sí, puedes. Shift es un coste de tinta alternativo, por lo que también puede beneficiarse de cualquier reducción que se aplique **al jugar una carta**.  
@@ -49,11 +49,11 @@ Solo debes declarar que vas a jugar la carta por Shift, y entonces aplicar la re
 
 ## Aclaraciones
 
-- Algunas cartas, como [[Set 8 - Cartas#Down in New Orleans]] o [[Set 8 - Cartas#Lady - Family Dog]] solo permiten jugar cartas gratis con un coste específico.  
+- Algunas cartas, como [[Set 8 - Jafar#Down in New Orleans]] o [[Set 8 - Jafar#Lady - Family Dog]] solo permiten jugar cartas gratis con un coste específico.  
     Es importante tener claro que el [[Coste (cost)]] de una carta se refiere **únicamente al número en la esquina superior izquierda**.  
-    Shift **no modifica** ese valor. El coste es un valor absoluto y **no puede cambiarse** por habilidades o efectos. No puedes jugar un [[Set 8 - Cartas#Rhino - Power Hamster]] con una [[Set 8 - Cartas#Lady - Family Dog]], por ejemplo.
+    Shift **no modifica** ese valor. El coste es un valor absoluto y **no puede cambiarse** por habilidades o efectos. No puedes jugar un [[Set 8 - Jafar#Rhino - Power Hamster]] con una [[Set 8 - Jafar#Lady - Family Dog]], por ejemplo.
     
-- Las habilidades que permiten jugar cartas gratis o con reducción solo afectan a los **costes en tinta**.  Si el Shift tiene requisitos adicionales (como [[Set 4 - Cartas#Diablo - Devoted Herald]], que exige descartar una carta), esos **no se eliminan ni se reducen**.
+- Las habilidades que permiten jugar cartas gratis o con reducción solo afectan a los **costes en tinta**.  Si el Shift tiene requisitos adicionales (como [[Set 4 - Ursula#Diablo - Devoted Herald]], que exige descartar una carta), esos **no se eliminan ni se reducen**.
     
 
 ---

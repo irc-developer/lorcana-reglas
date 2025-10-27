@@ -1,6 +1,6 @@
 ### Duda
-- Tengo en juego unas [[Set 4 - Cartas#The Muses - Proclaimers of Heroes]] y juego un [[Set 1 - Cartas#Sudden Chill]] 
-- Mi oponente tiene cero cartas en mano y un [[Set 1 - Cartas#Captain Hook - Forceful Duelist]] en mesa.
+- Tengo en juego unas [[Set 4 - Ursula#The Muses - Proclaimers of Heroes]] y juego un [[Set 1 - First Chapter#Sudden Chill]] 
+- Mi oponente tiene cero cartas en mano y un [[Set 1 - First Chapter#Captain Hook - Forceful Duelist]] en mesa.
 
 ¿Puedo subirle el personaje con las musas y descartárselo con el Sudden?
 ### Respuesta
@@ -10,8 +10,8 @@ No, no podrías. Esto es debido a que primero debes resolver **completamente** e
 ---
 
 ### Duda
-- Mi oponente tiene en juego [[Set 8 - Cartas#Prince John - Fraidy-Cat]] con cuatro daños.
-- Yo juego  [[Set 6 - Cartas#Go Go Tomago - Darting Dynamo]] y pago el coste extra para jugar su habilidad.
+- Mi oponente tiene en juego [[Set 8 - Jafar#Prince John - Fraidy-Cat]] con cuatro daños.
+- Yo juego  [[Set 6 - Azurite#Go Go Tomago - Darting Dynamo]] y pago el coste extra para jugar su habilidad.
 
 ¿Puedo ganar cuatro o cinco lores al jugarlo?
 ### Respuesta

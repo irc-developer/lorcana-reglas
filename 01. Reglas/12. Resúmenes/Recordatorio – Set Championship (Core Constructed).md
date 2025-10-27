@@ -2,7 +2,7 @@
 - **Nivel:** Competitivo (_Set Championship_).
 - **Formato:** Core Constructed (mín. 60 cartas, máx. 2 tintas).
 - **Rondas:** según asistencia (mínimo 3).
-- **Tiempo por ronda:** 50 min (recomendado 60).
+- **Tiempo por ronda:** 50 min (recomendado 60) en el suizo. 70 min en el top. Sin tiempo la final (a discreción del organizador). 
 - **Sistema:** Mejor de 3 (_Bo3_).
 - **Top Cut:** obligatorio en este nivel.
 - **Mazos:** solo cartas legales en rotación (Sets 5 en adelante).

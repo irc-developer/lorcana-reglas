@@ -1,5 +1,5 @@
 ### Duda 1
-En mi fase inicial enderezo mi [[Set 7 - Cartas#Bolt - Superdog]] y a la vez tengo en el descarte  una [[Set 6 - Cartas#Lilo - Escape Artist]] que quería aprovechar para ganar el lore extra ¿Hay alguna manera de conseguirlo?
+En mi fase inicial enderezo mi [[Set 7 - Archazia#Bolt - Superdog]] y a la vez tengo en el descarte  una [[Set 6 - Azurite#Lilo - Escape Artist]] que quería aprovechar para ganar el lore extra ¿Hay alguna manera de conseguirlo?
 
 ### Respuesta 1
 Sí, la hay. Esto implica a la [[4.2. Fase inicial (Beginning Phase)]] y los pasos que incluye:
@@ -9,8 +9,8 @@ Sí, la hay. Esto implica a la [[4.2. Fase inicial (Beginning Phase)]] y los pas
 Al resolverse en el paso de "listos" (set) los dos triggers implicados ya están en la bolsa con lo que podemos escoger que entre la lilo y después resolver la habilidad de Bolt.
 #beginning-phase #triggered-ability #bag #ready-step #set-step
 ### Duda 2
-- Tengo en juego a [[Set 6 - Cartas#Vanellope Von Schweetz - Gutsy Go-Getter]].
-- También [[Set 6 - Cartas#Transport Pod]].
+- Tengo en juego a [[Set 6 - Azurite#Vanellope Von Schweetz - Gutsy Go-Getter]].
+- También [[Set 6 - Azurite#Transport Pod]].
 
 ¿Puedo resolver primero el trigger del transport pot para ganar el lore con Vanellope?
 ### Respuesta 2

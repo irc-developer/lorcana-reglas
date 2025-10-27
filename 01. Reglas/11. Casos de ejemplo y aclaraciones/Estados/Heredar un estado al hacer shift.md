@@ -1,5 +1,5 @@
 ### Duda
-- Tengo en juego [[Set 9 - Cartas#The Magic Feather]] en juego habiendo seleccionado un personaje.
+- Tengo en juego [[Set 9 - Fabled#The Magic Feather]] en juego habiendo seleccionado un personaje.
 - Le hago shift a este personaje.
 ¿Este personaje conserva el evasivo que le da el objeto al personaje sobre el que se shifteó?
 

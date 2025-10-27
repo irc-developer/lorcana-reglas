@@ -1,5 +1,5 @@
 ### Duda 1
-En mi mazo no queda ninguna carta. En mesa tengo [[Set 5 - Cartas#Alan-a-Dale - Rockin' Rooster]] y juego un [[Set 5 - Cartas#Prince Naveen - Ukulele Player]] para que, con su habilidad, jugar un [[Set 5 - Cartas#We Know the Way]], devolver esta misma carta al mazo y, al revelarla, encadenar una y otra vez el jugarla. Esto lleva a un bucle infinito y me permite ganar la partida al ganar infinito lore ¿Es esto correcto?
+En mi mazo no queda ninguna carta. En mesa tengo [[Set 5 - Shimmering#Alan-a-Dale - Rockin' Rooster]] y juego un [[Set 5 - Shimmering#Prince Naveen - Ukulele Player]] para que, con su habilidad, jugar un [[Set 5 - Shimmering#We Know the Way]], devolver esta misma carta al mazo y, al revelarla, encadenar una y otra vez el jugarla. Esto lleva a un bucle infinito y me permite ganar la partida al ganar infinito lore ¿Es esto correcto?
 
 ### Respuesta
 Sí, es correcto. Aquí puede haber mucha discusión si no se tiene muy claro la regla que permite hacer esto de forma infinita.
@@ -39,8 +39,8 @@ Discord
 
 ### Duda 2
 
-- Tengo en mesa un [[Set 9 - Cartas#Max Goof - Chart Topper]] con el que hago quest.
-- En el descarte tengo un [[Set 5 - Cartas#You're Welcome]] que lanzo sobre uno de mis personajes.
+- Tengo en mesa un [[Set 9 - Fabled#Max Goof - Chart Topper]] con el que hago quest.
+- En el descarte tengo un [[Set 5 - Shimmering#You're Welcome]] que lanzo sobre uno de mis personajes.
 
 La carta va al fondo del mazo ¿Sería antes o después de barajar?
 
@@ -60,4 +60,21 @@ Iría al fondo del mazo y se barajaría pues, aun estando jugada, su efecto se a
 
 **Etiquetas:**  
 #free #bag #card-interaction #delay-efect #shuffle #triggered-ability
+
+
+### Duda 3
+
+1. Canto una canción con [[Set 9 - Fabled#Powerline - World's Greatest Rock Star]], añadiendo a la bolsa su habilidad 
+2. Resuelvo la canción.
+3. Comienzo a resolver la habilidad de Powerline y en las cuatro cartas revelo [[Set 8 - Jafar#Fantastical and Magical]]
+
+
+¿Puedo escoger jugarla con el coste alternativo vía [[10.10. Cantar Juntos (Sing Together)]] y así ganar lore y robar?
+
+### Respuesta
+Sí, podrías mientras alcances el nueve de coste que exige en personajes. Esto es gracias a que puedes escoger el modo de pago de cualquier carta independientemente de sea gratis o no, la habilidad de Powerline tiene como factor principal que puedes jugar una de las cartas acción-canción de las cuatro que revela, independientemente de si es gratis en tinta o no.
+
+### Referencias
+[Discord](https://discord.com/channels/1239209810654793730/1261426629956206773/1404859708413841552)
+
 

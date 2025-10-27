@@ -1,7 +1,7 @@
 ### Duda
-- Mi oponente tiene en juego [[Set 5 - Cartas#Merlin's Cottage - The Wizard's Home]].
+- Mi oponente tiene en juego [[Set 5 - Shimmering#Merlin's Cottage - The Wizard's Home]].
 - Ambos tenemos la carta superior del mazo revelada.
-- Juego un [[Set 1 - Cartas#Friends on the Other Side]].
+- Juego un [[Set 1 - First Chapter#Friends on the Other Side]].
 
 ¿Debo enseñarle a mi oponente las cartas que robo?
 ### Respuesta

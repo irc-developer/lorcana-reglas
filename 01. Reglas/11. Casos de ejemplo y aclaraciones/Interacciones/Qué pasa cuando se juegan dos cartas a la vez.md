@@ -1,5 +1,5 @@
 ### Duda 1
-¿Cómo se resuelve la carta [[Set 7 - Cartas#The Return of Hercules]] a la hora de jugar a los personajes?
+¿Cómo se resuelve la carta [[Set 7 - Archazia#The Return of Hercules]] a la hora de jugar a los personajes?
 ### Respuesta
 Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efecto se resuelve en orden de turno como se define en [[1.6.2 Efectos simultáneos para todos los jugadores]]. En este caso específico, ambos jugadores seleccionan una carta de su mano para jugar y el jugador activo es el primero en ponerla en la zona de juego, añadiendo a la bolsa las habilidades disparadas. A continuación, lleva a cabo lo mismo el oponente y se procede a resolver la [[7.4.3. Bolsa]] con normalidad.
 #simultaneou-effect #bag #action-resolution
@@ -7,9 +7,9 @@ Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efec
 [Rulebook Quiz](https://discord.com/channels/1239209810654793730/1282749023643762688/1401659810348531872)
 
 ### Duda 2
-- Juego [[Set 7 - Cartas#The Return of Hercules]].
-- Yo voy a poner en juego [[Set 4 - Cartas#Hans - Noble Scoundrel]].
-- Mi oponente va a poner en juego [[Set 8 - Cartas#Anna - Magical Mission]].
+- Juego [[Set 7 - Archazia#The Return of Hercules]].
+- Yo voy a poner en juego [[Set 4 - Ursula#Hans - Noble Scoundrel]].
+- Mi oponente va a poner en juego [[Set 8 - Jafar#Anna - Magical Mission]].
 
 La habilidad de Hans iría a la bolsa y cuando se resuelva ganaría el lore correspondiente ¿No?
 

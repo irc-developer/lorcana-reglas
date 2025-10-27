@@ -1,6 +1,6 @@
 ### Duda 1
-- En juego mi oponente tiene agotados un [[Set 6 - Cartas#Peter Pan - Never Land Prankster]] y un [[Set 5 - Cartas#Tipo - Growing Son]].
-- Declaro [[Desafío (challenge)]] al Tipo con [[Set 6 - Cartas#Calhoun - Marine Sergeant]], desterrándolo al final del desafío.
+- En juego mi oponente tiene agotados un [[Set 6 - Azurite#Peter Pan - Never Land Prankster]] y un [[Set 5 - Shimmering#Tipo - Growing Son]].
+- Declaro [[Desafío (challenge)]] al Tipo con [[Set 6 - Azurite#Calhoun - Marine Sergeant]], desterrándolo al final del desafío.
 
 ¿Gano el lore por la habilidad de Calhoun?
 
@@ -9,8 +9,8 @@ Sí, lo ganas. La habilidad estática de Peter Pan que impide ganar lore se _apa
 
 ---
 ### Duda 2
-- En juego mi oponente tiene agotados un [[Set 6 - Cartas#Peter Pan - Never Land Prankster]].
-- Activo la habilidad de [[Set 9 - Cartas#Dumbo - Ninth Wonder of the Universe]], que me permite ganar un lore y robar una carta.
+- En juego mi oponente tiene agotados un [[Set 6 - Azurite#Peter Pan - Never Land Prankster]].
+- Activo la habilidad de [[Set 9 - Fabled#Dumbo - Ninth Wonder of the Universe]], que me permite ganar un lore y robar una carta.
 
 ¿Cómo se resolvería la habilidad?
 ### Respuesta 2

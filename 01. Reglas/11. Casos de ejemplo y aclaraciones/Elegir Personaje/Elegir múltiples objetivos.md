@@ -1,6 +1,6 @@
 ### Duda
 - Mi oponente tiene dos personajes en juego.
-- Juego [[Set 9 - Cartas#The Mob Song]].
+- Juego [[Set 9 - Fabled#The Mob Song]].
 
 ¿Puedo escoger dos veces el mismo personaje para aplicarle los tres daños?
 ### Respuesta

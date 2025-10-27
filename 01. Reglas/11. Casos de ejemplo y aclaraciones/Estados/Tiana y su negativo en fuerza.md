@@ -1,8 +1,8 @@
 ### Duda 1
-- El oponente tiene [[Set 6 - Cartas#Tiana - Restaurant Owner]] en juego y agotada. Además de otros personajes agotados.
+- El oponente tiene [[Set 6 - Azurite#Tiana - Restaurant Owner]] en juego y agotada. Además de otros personajes agotados.
 - Declaro [[Desafío (challenge)]] sobre cualquiera de los personajes agotados y, al dispararse la habilidad de Tiana, no pago los tres de tinta que se exigen.
 
-Si enderezo mi personaje con la habilidad de [[Set 5 - Cartas#Sven - Reindeer Steed]] ¿Perdería el -3? ¿Y si enderezo a Tiana?
+Si enderezo mi personaje con la habilidad de [[Set 5 - Shimmering#Sven - Reindeer Steed]] ¿Perdería el -3? ¿Y si enderezo a Tiana?
 ### Respuesta 1
 No, no lo perdería en ninguno de los dos casos ya que el efecto de reemplazo sobre la fuerza del personaje le dura todo el turno, aclarado por la propia carta de Tiana.
 #challenge #triggered-ability #ready
@@ -11,7 +11,7 @@ WhatsApp Lorcana SP
 
 ---
 ### Duda 2
-- El oponente tiene [[Set 6 - Cartas#Tiana - Restaurant Owner]] en juego y agotada. Además de otros personajes agotados.
+- El oponente tiene [[Set 6 - Azurite#Tiana - Restaurant Owner]] en juego y agotada. Además de otros personajes agotados.
 - Declaro [[Desafío (challenge)]] sobre cualquiera de los personajes agotados con un personaje que tiene [[10.3. Desafiador (Challenger)]] y, al dispararse la habilidad de Tiana, no pago los tres de tinta que se exigen.
 
 ¿Cómo se aplican los cálculos para saber la fuerza real?

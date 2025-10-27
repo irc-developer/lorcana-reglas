@@ -1,5 +1,5 @@
 ### Duda
-Mi oponente tiene un personaje con vanish ¿Puedo seleccionarla con [[Set 8 - Cartas#Everybody's Got a Weakness]] si no tengo personajes dañados y desterrarlo?
+Mi oponente tiene un personaje con vanish ¿Puedo seleccionarla con [[Set 8 - Jafar#Everybody's Got a Weakness]] si no tengo personajes dañados y desterrarlo?
 
 ### Respuesta
 Sí, puedes. No es obligatorio pasar un daño o más para cumplir la primera parte de la habilidad "mover un contador de cada personaje dañado propio". Se moverán cero contadores al personaje objetivo (el que tiene vanish) con lo que se desterraría.
@@ -8,14 +8,14 @@ Recuerda la [[1.2 Regla dorada o Golden Rule (Prioridad de reglas)]] sobre lo de
 
 ---
 ### Duda
-- Juego [[Set 5 - Cartas#You're Welcome]] sobre un personaje con [[10.12. Desvanecer (Vanish)]] ¿Se baraja o no?
+- Juego [[Set 5 - Shimmering#You're Welcome]] sobre un personaje con [[10.12. Desvanecer (Vanish)]] ¿Se baraja o no?
 ### Respuesta
 Se baraja. La habilidad varnish se disparará al hacer objetivo y no se resolverá hasta acabar el Welcome con lo que, para cuando vaya a resolverse, ya no estará en mesa con lo que no se desterrará nada.
 #bag #action-card #varnish #lost-trigger
 
 ---
 ### Duda
-- Juego [[Set 3 - Cartas#Bestow a Gift]] seleccionando un personaje con vanish.
+- Juego [[Set 3 - Inklands#Bestow a Gift]] seleccionando un personaje con vanish.
 - No tengo daños para mover.
 ¿Se dispararía el vanish?
 ### Respuesta

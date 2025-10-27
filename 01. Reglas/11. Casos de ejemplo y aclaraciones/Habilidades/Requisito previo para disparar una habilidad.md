@@ -1,5 +1,5 @@
 ### Duda
-- Tengo en mesa a [[Set 7 - Cartas#Fa Zhou - War Hero]].
+- Tengo en mesa a [[Set 7 - Archazia#Fa Zhou - War Hero]].
 - Mi oponente tiene una ubicación y un personaje agotado.
 
 ¿Puedo retar primero a la ubicación y luego al personaje girado para ganar tres de lore?

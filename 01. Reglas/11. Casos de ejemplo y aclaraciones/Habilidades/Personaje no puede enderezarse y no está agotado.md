@@ -1,6 +1,6 @@
 ### Duda
 
-- Voy de aventura con mi [[Set 9 - Cartas#Ursula - Sea Witch]].
+- Voy de aventura con mi [[Set 9 - Fabled#Ursula - Sea Witch]].
 - Resuelvo su trigger seleccionando a un personaje que está enderezado.
 
 ¿Se quedará enderezado durante el turno del oponente?

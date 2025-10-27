@@ -1,7 +1,7 @@
 ### Duda
-- Tengo en mesa una [[Set 8 - Cartas#Tiana - Natural Talent]] en mesa.
-- Canto [[Set 4 - Cartas#Under the Sea]] con mis personajes.
-- El oponente tiene un [[Set 3 - Cartas#Mr. Smee - Bumbling]]. 
+- Tengo en mesa una [[Set 8 - Jafar#Tiana - Natural Talent]] en mesa.
+- Canto [[Set 4 - Ursula#Under the Sea]] con mis personajes.
+- El oponente tiene un [[Set 3 - Inklands#Mr. Smee - Bumbling]]. 
 
 ¿Puedo mandar al fondo del mazo a Smee al aplicarle el -1 de fuerza de Tiana?
 ### Respuesta

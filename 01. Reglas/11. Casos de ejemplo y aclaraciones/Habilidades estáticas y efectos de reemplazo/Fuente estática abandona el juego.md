@@ -1,6 +1,6 @@
 ### Duda 1
-- Mi oponente tiene en juego [[Set 9 - Cartas#Genie - Of the Lamp]] en mesa agotado y otros personajes con fuerza 1.
-- Juego un [[Set 9 - Cartas#Under The Sea]].
+- Mi oponente tiene en juego [[Set 9 - Fabled#Genie - Of the Lamp]] en mesa agotado y otros personajes con fuerza 1.
+- Juego un [[Set 9 - Fabled#Under The Sea]].
 
 Al abandonar el juego el genio ¿Se van también todos los personajes fuerza uno?
 

@@ -1,5 +1,5 @@
 ### Duda
-- Tengo en mesa un [[Set 7 - Cartas#Gantu - Experienced Enforcer]] y juego la habilidad de [[Set 5 - Cartas#Robin Hood - Sharpshooter]] revelando una acción de coste menos de seis, pudiendo jugarla gratis.
+- Tengo en mesa un [[Set 7 - Archazia#Gantu - Experienced Enforcer]] y juego la habilidad de [[Set 5 - Shimmering#Robin Hood - Sharpshooter]] revelando una acción de coste menos de seis, pudiendo jugarla gratis.
 
 ¿Es realmente gratis o tengo que pagar dos que exige Gantu?
 

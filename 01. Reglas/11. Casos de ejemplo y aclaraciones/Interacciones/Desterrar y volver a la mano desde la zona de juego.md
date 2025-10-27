@@ -1,5 +1,5 @@
 ### Duda
-- Tengo en juego a [[Set 7 - Cartas#Yzma - Above It All]] y [[Set 6 - Cartas#Maleficent's Staff]]
+- Tengo en juego a [[Set 7 - Archazia#Yzma - Above It All]] y [[Set 6 - Azurite#Maleficent's Staff]]
 - El oponente un personaje que desterrar.
 
 ¿Gano el lore cuando vuelve el personaje desterrado del oponente a su mano?

@@ -1,10 +1,10 @@
 Me he inventado la siguiente terminología que me permite estructurar y explicar el por qué aparentemente dos efectos estáticos iguales producen dos resultados diferentes. He dividido las [[Habilidad estática (static ability)]] que crean un efecto de reemplazo según su origen:
-- **Intrínsecas**: la carta tiene una habilidad estática que, al cumplirse, se produce el efecto de reemplazo. Un ejemplo sería [[Set 4 - Cartas#Prince Eric - Ursula's Groom]] en el que la habilidad estática "Bodyguard cuando está Úrsula en juego" sale de si misma.
-- **Extrínsecas**: [[Set 4 - Cartas#Peter Pan - Shadow Finder]] permite que los personajes con evasivo entren con [[10.7. Prisa (Rush)]] con lo que a efectos de [[Set 6 - Cartas#Maui - Half-Shark]] la habilidad estática que permite el reemplazo con Rush viene de fuera.
+- **Intrínsecas**: la carta tiene una habilidad estática que, al cumplirse, se produce el efecto de reemplazo. Un ejemplo sería [[Set 4 - Ursula#Prince Eric - Ursula's Groom]] en el que la habilidad estática "Bodyguard cuando está Úrsula en juego" sale de si misma.
+- **Extrínsecas**: [[Set 4 - Ursula#Peter Pan - Shadow Finder]] permite que los personajes con evasivo entren con [[10.7. Prisa (Rush)]] con lo que a efectos de [[Set 6 - Azurite#Maui - Half-Shark]] la habilidad estática que permite el reemplazo con Rush viene de fuera.
 
 ### Situación
 
-[[Set 8 - Cartas#Jiminy Cricket - Level-Headed and Wise]] está agotado en la mesa del oponente. Yo controlo [[Set 4 - Cartas#Peter Pan - Shadow Finder]] y procedo a jugar mi [[Set 6 - Cartas#Maui - Half-Shark]]. El oponente dice que entra agotado ¿Es correcta su afirmación?
+[[Set 8 - Jafar#Jiminy Cricket - Level-Headed and Wise]] está agotado en la mesa del oponente. Yo controlo [[Set 4 - Ursula#Peter Pan - Shadow Finder]] y procedo a jugar mi [[Set 6 - Azurite#Maui - Half-Shark]]. El oponente dice que entra agotado ¿Es correcta su afirmación?
 
 #rush #static-ability #replacement-effect #play-card #played
 ### Respuesta
@@ -13,7 +13,7 @@ Sí, en este contexto es correcto que el Maui Shark entre agotado. Utilizando la
 ---
 ### Situación 2
 
-Relacionada con la anterior. Voy a jugar un  [[Set 4 - Cartas#Prince Eric - Ursula's Groom]] con [[Set 4 - Cartas#Ursula - Eric's Bride]] ya en juego ¿Puede entrar agotado ya que tiene bodyguard?
+Relacionada con la anterior. Voy a jugar un  [[Set 4 - Ursula#Prince Eric - Ursula's Groom]] con [[Set 4 - Ursula#Ursula - Eric's Bride]] ya en juego ¿Puede entrar agotado ya que tiene bodyguard?
 
 ### Respuesta 2
 No, no podría. A diferencia del anterior caso la habilidad estática que le permite el efecto de remplazo en el que gana [[Guardaespaldas (bodyguard)]] pertenece a la propia carta (intrínseca) con lo que hasta que está "jugada" no puede "ver" a Úrsula. Entrará con bodyguard pero el momento de aplicar el efecto de reemplazo "entrar agotado" ya ha pasado.

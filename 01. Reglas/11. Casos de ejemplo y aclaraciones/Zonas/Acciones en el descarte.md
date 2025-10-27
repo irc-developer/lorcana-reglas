@@ -1,5 +1,5 @@
 ### Duda
-- Juego [[Set 7 - Cartas#All Is Found]] con una carta en el descarte.
+- Juego [[Set 7 - Archazia#All Is Found]] con una carta en el descarte.
 ¿Puedo añadir All is Found a mi tinta?
 
 ### Respuesta

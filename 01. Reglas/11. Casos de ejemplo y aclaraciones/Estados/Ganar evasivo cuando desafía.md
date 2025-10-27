@@ -1,6 +1,6 @@
 ### Duda
 - Tengo un personaje agotado.
-- Declaro [[Desafío (challenge)]] a un personaje agotado con mi [[Set 8 - Cartas#The Coachman - Greedy Deceiver]] a un personaje con Evasivo ya que gana evasivo cuando hay dos o más personajes agotados.
+- Declaro [[Desafío (challenge)]] a un personaje agotado con mi [[Set 8 - Jafar#The Coachman - Greedy Deceiver]] a un personaje con Evasivo ya que gana evasivo cuando hay dos o más personajes agotados.
 
 ¿Es correcta la jugada?
 

@@ -1,6 +1,6 @@
 ### Duda
-- Tengo en mesa [[Set 9 - Cartas#Alice - Growing Girl]] y una [[Set 9 - Cartas#Minnie Mouse - Sweetheart Princess]] seca.
-- El oponente tiene en juego una [[Set 6 - Cartas#Calhoun - Marine Sergeant]].
+- Tengo en mesa [[Set 9 - Fabled#Alice - Growing Girl]] y una [[Set 9 - Fabled#Minnie Mouse - Sweetheart Princess]] seca.
+- El oponente tiene en juego una [[Set 6 - Azurite#Calhoun - Marine Sergeant]].
 - Hago quest con mi Minnie.
 ¿Puedo darle los dos de fuerza del support a la Calhound y banishearlo con la habilidad de Minnie?
 ### Respuesta

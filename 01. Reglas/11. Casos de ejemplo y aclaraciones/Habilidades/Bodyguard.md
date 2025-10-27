@@ -1,6 +1,6 @@
 ### Duda 1
-- Tengo en juego [[Set 7 - Cartas#Li Shang - Newly Promoted]] ya seco.
-- El oponente tiene un personaje agotado y un [[Set 8 - Cartas#Jim Dear - Beloved Husband]] enderezado.
+- Tengo en juego [[Set 7 - Archazia#Li Shang - Newly Promoted]] ya seco.
+- El oponente tiene un personaje agotado y un [[Set 8 - Jafar#Jim Dear - Beloved Husband]] enderezado.
 ¿Puedo retar al personaje agotado?
 ### Respuesta 1
 No, no puedes. En este caso la keyword [[Bodyguard]] siempre está activa incluso cuando está enderezada con lo que es un objetivo válido para Li.
@@ -10,7 +10,7 @@ No, no puedes. En este caso la keyword [[Bodyguard]] siempre está activa inclus
 ### Duda 2
 - Tengo en juego un personaje listo para desafiar.
 - El oponente tiene varios personajes agotados, entre ellos, uno con [[Bodyguard]].
-- Juego [[Set 8 - Cartas#Twitterpated]] sobre el personaje con guardaespaldas agotado.
+- Juego [[Set 8 - Jafar#Twitterpated]] sobre el personaje con guardaespaldas agotado.
 
 ¿Puedo desafiar a los demás personajes?
 ### Respuesta 2

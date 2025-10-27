@@ -1,6 +1,6 @@
 ### Duda
 - No tengo cartas en mano.
-- Mi [[Set 6 - Cartas#Maui - Half-Shark]] desafía a [[Set 3 - Cartas#Cursed Merfolk - Ursula's Handiwork]].
+- Mi [[Set 6 - Azurite#Maui - Half-Shark]] desafía a [[Set 3 - Inklands#Cursed Merfolk - Ursula's Handiwork]].
 - Recupero una carta de acción de mi descarte.
 
 ¿Estoy obligado a descartarla por la habilidad del Merfolk?

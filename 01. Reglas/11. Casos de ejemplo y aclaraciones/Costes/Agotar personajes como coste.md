@@ -19,7 +19,7 @@ Discord
 ---
 
 ### Duda 3
-¿Puedo escoger un personaje agotado y resolver la habilidad de [[Set 7 - Cartas#Elsa - Ice Maker]]?
+¿Puedo escoger un personaje agotado y resolver la habilidad de [[Set 7 - Archazia#Elsa - Ice Maker]]?
 ### Respuesta 3
 No y es debido a que cuando hacemos referencia a [[7.1.3.  Puede (may)]] el jugador, si quiere, lleva a cabo lo que pide la carta. Si no lo hace porque no quiere o no puede, lo que hay a continuación no se resuelve. En este caso se le pide agotar un personaje con lo que si no lo hace, ya sea por no agotarlo o tratar de agotar uno ya agotado, no se podrá resolver la parte de no enderezarse
 

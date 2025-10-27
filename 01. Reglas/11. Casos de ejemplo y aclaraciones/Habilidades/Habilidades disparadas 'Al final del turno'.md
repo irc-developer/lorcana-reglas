@@ -1,5 +1,5 @@
 ### Duda
-Al final del turno tengo un [[Set 3 - Cartas#Mr. Smee - Bumbling Mate]] agotado con un daño sobre él y [[Set 8 - Cartas#Goofy - Groundbreaking Chef]] ¿Puedo resolver primero el curar y enderezar sobre Mr.Smee y así evitar su efecto?
+Al final del turno tengo un [[Set 3 - Inklands#Mr. Smee - Bumbling Mate]] agotado con un daño sobre él y [[Set 8 - Jafar#Goofy - Groundbreaking Chef]] ¿Puedo resolver primero el curar y enderezar sobre Mr.Smee y así evitar su efecto?
 
 Y al revés: el Mr.Smee no tiene ningún daño ¿Puedo hacerle recibir el daño primero para curarlo y enderezarlo?
 ### Respuesta
@@ -10,8 +10,8 @@ Discord
 
 ---
 ### Duda
-- En mesa tengo [[Set 5 - Cartas#Clarabelle - Light on Her Hooves]] y dos cartas en mano.
-- Mi oponente un [[Set 4 - Cartas#Diablo - Devoted Herald]] agotado y cuatro cartas en mano.
+- En mesa tengo [[Set 5 - Shimmering#Clarabelle - Light on Her Hooves]] y dos cartas en mano.
+- Mi oponente un [[Set 4 - Ursula#Diablo - Devoted Herald]] agotado y cuatro cartas en mano.
 
 Declaro el final del turno con lo que la habilidad de Clarabelle va a la bolsa, permitiendo robar dos cartas. Como robo dos cartas, se dispara dos veces la habilidad del Diablo ¿Volvería a robar con Clarabelle debido a su habilidad?
 ### Respuesta

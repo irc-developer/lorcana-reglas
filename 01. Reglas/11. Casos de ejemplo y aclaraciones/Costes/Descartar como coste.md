@@ -1,6 +1,6 @@
 ### Duda
-- Tengo en juego [[Set 5 - Cartas#Maleficent - Vexed Partygoer]] seca.
-- Tengo en juego [[Set 7 - Cartas#Kronk - Laid Back]].
+- Tengo en juego [[Set 5 - Shimmering#Maleficent - Vexed Partygoer]] seca.
+- Tengo en juego [[Set 7 - Archazia#Kronk - Laid Back]].
 
 Cuando questeé con Maleficient ¿Puedo no descartar para resolver la habilidad gracias a la habilidad de Kronk?
 

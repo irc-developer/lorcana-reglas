@@ -1,12 +1,12 @@
 ### Duda
-Tengo en juego [[Set 3 - Cartas#Jafar - Striking Illusionist]], 17 de lore y tres cartas en mi mazo. Canto con Jaffar [[Set 1 - Cartas#A Whole New World]] con lo que robaré tres cartas, disparándose tres veces la habilidad de ganar un lore de Jaffar y al robar la cuarta ya no me quedan ¿Gano o pierdo la partida?
+Tengo en juego [[Set 3 - Inklands#Jafar - Striking Illusionist]], 17 de lore y tres cartas en mi mazo. Canto con Jaffar [[Set 1 - First Chapter#A Whole New World]] con lo que robaré tres cartas, disparándose tres veces la habilidad de ganar un lore de Jaffar y al robar la cuarta ya no me quedan ¿Gano o pierdo la partida?
 
 ### Respuesta
 La pierdes. Una vez se acaba de resolver el A whole new world se hace la [[1.9 Verificación del estado de la partida (Game State Check)]] y se ejecuta la acción obligatoria "No puedes robar" con lo que pierdes la partida aunque tengas N triggers de Jafar en la bolsa.
 
 ---
 ### Duda 2
-- Tengo en mano tengo [[Set 7 - Cartas#This is my family]].
+- Tengo en mano tengo [[Set 7 - Archazia#This is my family]].
 - Diecinueve de lore.
 - Sin cartas en el mazo.
 
@@ -20,9 +20,9 @@ La ganas. Una vez se acaba de resolver la canción se cumplen las dos acciones o
 
 ---
 ### Duda 3
-- En mi mesa [[Set 2 - Cartas#Merlin - Goat]] agotada.
-- En la del oponente otra [[Set 2 - Cartas#Merlin - Goat]].
-- Juego [[Set 1 - Cartas#Be Prepared]]
+- En mi mesa [[Set 2 - Floodborn#Merlin - Goat]] agotada.
+- En la del oponente otra [[Set 2 - Floodborn#Merlin - Goat]].
+- Juego [[Set 1 - First Chapter#Be Prepared]]
 
 ¿Quién gana la partida?
 ### Respuesta
@@ -35,7 +35,7 @@ Tú, que eres el jugador activo, ganas la partida. Una vez las cabras abandonan 
 ---
 ### Duda 4
 - Mi oponente y yo empatados a dieciocho lores.
-- Juego [[Set 9 - Cartas#I2I]].
+- Juego [[Set 9 - Fabled#I2I]].
 
 ¿Quién gana la partida?
 ### Respuesta
@@ -47,7 +47,7 @@ Tú, que eres el jugador activo, ganas la partida. En este caso ambos jugadores 
 ### Duda 5
 - Mi oponente y yo empatados a dieciocho lores.
 - Me queda una carta en el mazo.
-- Juego [[Set 9 - Cartas#I2I]].
+- Juego [[Set 9 - Fabled#I2I]].
 
 ¿Quién gana la partida?
 ### Respuesta

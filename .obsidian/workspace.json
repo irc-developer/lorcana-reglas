@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Be Prepared y devolver personajes a la mano.md",
+                "file": "02. Habilidades de las cartas/Set 10 - Whispers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Be Prepared y devolver personajes a la mano"
+              "title": "Set 10 - Whispers"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/12. Resúmenes/Checklist de Mesa – Set Championship (Core Constructed).md",
+                "file": "03. Reglas de Torneo/10. Protocolos personales/Mi protocolo eficiente para el deckcheck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist de Mesa – Set Championship (Core Constructed)"
+              "title": "Mi protocolo eficiente para el deckcheck"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minutos",
+                "query": "\"sing together 9\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 470.5
   },
   "right": {
     "id": "3c6ffab1f1945974",
@@ -199,34 +198,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3c1cf80552c82ae1",
+  "active": "ab522799b4786fb1",
   "lastOpenFiles": [
-    "01. Reglas/12. Resúmenes/Recordatorio – Set Championship (Core Constructed).md",
-    "01. Reglas/12. Resúmenes/Checklist de Mesa – Set Championship (Core Constructed).md",
-    "04. Guia de correccion de jugadas/03. Errores de torneo/3.1 Retraso (Tardiness).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Requisito previo para disparar una habilidad.md",
-    "05. Consejos de jueces/3.1 Conocedor.md",
-    "08. Consejos para jugadores/Interioriza las reglas básicas.md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.6.2. Paso de daño por desafío (Challenge Damage Step).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.6 Desafiar (Challenge).md",
-    "04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3 Fase Principal/4.3.6.3. Finaliza el desafío.md",
-    "Empecemos.md",
-    "03. Reglas de Torneo/9. Premios (Prizing)/9.1. Premios Obtenidos (Prizing Earned).md",
-    "03. Reglas de Torneo/8. Información de Viaje/8.2. Cumplimiento (Compliance).md",
-    "03. Reglas de Torneo/8. Información de Viaje/8.1. Documentación y Alojamiento de Viaje.md",
-    "03. Reglas de Torneo/7. Conducta del Jugador/7.3. Entrevistas y Otro Contenido (Interviews and Other Content).md",
-    "03. Reglas de Torneo/7. Conducta del Jugador/7.2. Patrocinadores y Equipos (Sponsors and Teams).md",
-    "03. Reglas de Torneo/7. Conducta del Jugador/7.1. Conducta Prohibida (Prohibited Conduct).md",
-    "03. Reglas de Torneo/6. Límites de tiempo/6.2 Límites de Tiempo de Torneos Limitados (Limited Tournament Time Limits).md",
-    "03. Reglas de Torneo/6. Límites de tiempo/6.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits).md",
-    "03. Reglas de Torneo/6. Límites de tiempo/6.0 Límites de tiempo.md",
-    "03. Reglas de Torneo/6. Formatos de torneos - Limitado/6. Formatos de torneos - Limitado.md",
-    "03. Reglas de Torneo/6. Formatos de torneos - Limitado/6.1 Descripción general de Limitado (Limited Overview).md",
-    "03. Reglas de Torneo/5. Formatos de torneos - Construido/5.1 Visión General de Construido (Constructed Overview).md",
-    "03. Reglas de Torneo/5 Información y comunicación/5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions).md",
-    "03. Reglas de Torneo/5 Información y comunicación/5.5 Pozo de tinta.md",
-    "03. Reglas de Torneo/5 Información y comunicación/5.4 Información en el Juego (In-Game Information).md",
+    "02. Habilidades de las cartas/Set 9 - Fabled.md",
+    "02. Habilidades de las cartas/Set 10 - Whispers.md",
+    "02. Habilidades de las cartas/Set 8 - Jafar.md",
+    "02. Habilidades de las cartas/Set 7 - Archazia.md",
+    "02. Habilidades de las cartas/Set 6 - Azurite.md",
+    "02. Habilidades de las cartas/Set 5 - Shimmering.md",
+    "02. Habilidades de las cartas/Set 4 - Ursula.md",
+    "02. Habilidades de las cartas/Set 3 - Inklands.md",
+    "02. Habilidades de las cartas/P1 - Promo Set 1.md",
+    "02. Habilidades de las cartas/Set 2 - Floodborn.md",
+    "02. Habilidades de las cartas/Set 1 - First Chapter.md",
+    "03. Reglas de Torneo/1. Definiciones sobre toneos/1. Introduccion.md",
+    "02. Habilidades de las cartas/1 - The First Chapter.md",
+    "02. Habilidades de las cartas/2 - Rise of the Floodborn.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
+    "02. Habilidades de las cartas/3 - Into the Inklands.md",
+    "02. Habilidades de las cartas/cp - Challenge Promo.md",
+    "02. Habilidades de las cartas/4 - Ursula's Return.md",
+    "02. Habilidades de las cartas/D23 - D23 Collection.md",
+    "02. Habilidades de las cartas/5 - Shimmering Skies.md",
+    "02. Habilidades de las cartas/P2 - Promo Set 2.md",
+    "02. Habilidades de las cartas/6 - Azurite Sea.md",
+    "02. Habilidades de las cartas/7 - Archazia's Island.md",
+    "02. Habilidades de las cartas/8 - Reign of Jafar.md",
+    "02. Habilidades de las cartas/9 - Fabled.md",
+    "02. Habilidades de las cartas/10 - Whispers in the Well.md",
+    "03. Reglas de Torneo/10. Protocolos personales",
     "03. Reglas de Torneo/9. Premios (Prizing)",
     "03. Reglas de Torneo/8. Información de Viaje",
     "03. Reglas de Torneo/7. Conducta del Jugador",
@@ -235,7 +235,6 @@
     "01. Reglas/12. Resúmenes",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Jugar cartas",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje",
-    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo",
-    "01. Reglas/7. Habilidades (abilities)/7.6 Habilidades Estaticas"
+    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo"
   ]
 }

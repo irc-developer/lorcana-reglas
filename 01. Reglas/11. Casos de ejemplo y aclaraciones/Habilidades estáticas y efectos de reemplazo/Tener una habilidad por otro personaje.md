@@ -1,5 +1,5 @@
 ### Duda
-- Tengo en juego a [[Set 9 - Cartas#Alice - Growing Girl]] y [[Set 2 - Cartas#Dragon Gem]].
+- Tengo en juego a [[Set 9 - Fabled#Alice - Growing Girl]] y [[Set 2 - Floodborn#Dragon Gem]].
 
 ¿Puedo recuperar cualquier personaje del descarte?
 ### Respuesta

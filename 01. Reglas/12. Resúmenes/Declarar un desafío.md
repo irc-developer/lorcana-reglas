@@ -6,7 +6,7 @@ Para llevar a cabo un desafío, el jugador activo sigue estos pasos en orden:
 2. **Elección del Objetivo**: El jugador elige un personaje oponente que esté **ejercido** o una **ubicación** oponente para desafiar. No se puede desafiar a un personaje preparado.
 3. **Verificación de Restricciones**: Se revisa si hay efectos o reglas que impidan el desafío. Si los hay, el desafío es ilegal.
 4. **Agotar el Personaje Desafiante**: El jugador **agota** su personaje desafiante.
-5. **Ocurrencia del Desafío**: El desafío se considera que ha ocurrido a efectos de habilidades como [[Set 6 - Cartas#Peter Pan - Never Land Prankster]].
+5. **Ocurrencia del Desafío**: El desafío se considera que ha ocurrido a efectos de habilidades como [[Set 6 - Azurite#Peter Pan - Never Land Prankster]].
 6. **Aplicación de Efectos "Mientras Desafía"**: Los efectos que se aplican "mientras desafía" se activan en este momento.
 7. **Habilidades Disparadas**: Las habilidades que se disparan como resultado del desafío (por ejemplo, "cuando este personaje es desterrado en un desafío") se añaden a la [[8.7. Bolsa (Bag)]]
 8. **Resolución de Disparadores**: Se resuelven todas las habilidades disparadas en la pila.
