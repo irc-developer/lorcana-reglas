@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Habilidades de las cartas/Set 10 - Whispers.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno/Pagar costes en la fase de final de turno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set 10 - Whispers"
+              "title": "Pagar costes en la fase de final de turno"
+            }
+          },
+          {
+            "id": "e01accc95aa43e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Habilidades de las cartas/Set 7 - Archazia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set 7 - Archazia"
             }
           },
           {
@@ -81,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"sing together 9\"",
+                "query": "discord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -200,10 +214,19 @@
   },
   "active": "ab522799b4786fb1",
   "lastOpenFiles": [
+    "plantillas/_plantilla errores en reglas.md",
+    "plantillas/_plantilla para ejemplos de dudas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno/Pagar costes en la fase de final de turno.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/No poder pagar un coste basado en daño a un personaje.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno",
+    "02. Habilidades de las cartas/Set 7 - Archazia.md",
     "02. Habilidades de las cartas/Set 9 - Fabled.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje/Elegir un personaje congelado para enderezar.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje/Elegir múltiples objetivos.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje desafíe... ocurren cosas.md",
     "02. Habilidades de las cartas/Set 10 - Whispers.md",
     "02. Habilidades de las cartas/Set 8 - Jafar.md",
-    "02. Habilidades de las cartas/Set 7 - Archazia.md",
     "02. Habilidades de las cartas/Set 6 - Azurite.md",
     "02. Habilidades de las cartas/Set 5 - Shimmering.md",
     "02. Habilidades de las cartas/Set 4 - Ursula.md",
@@ -218,14 +241,6 @@
     "02. Habilidades de las cartas/3 - Into the Inklands.md",
     "02. Habilidades de las cartas/cp - Challenge Promo.md",
     "02. Habilidades de las cartas/4 - Ursula's Return.md",
-    "02. Habilidades de las cartas/D23 - D23 Collection.md",
-    "02. Habilidades de las cartas/5 - Shimmering Skies.md",
-    "02. Habilidades de las cartas/P2 - Promo Set 2.md",
-    "02. Habilidades de las cartas/6 - Azurite Sea.md",
-    "02. Habilidades de las cartas/7 - Archazia's Island.md",
-    "02. Habilidades de las cartas/8 - Reign of Jafar.md",
-    "02. Habilidades de las cartas/9 - Fabled.md",
-    "02. Habilidades de las cartas/10 - Whispers in the Well.md",
     "03. Reglas de Torneo/10. Protocolos personales",
     "03. Reglas de Torneo/9. Premios (Prizing)",
     "03. Reglas de Torneo/8. Información de Viaje",
@@ -234,7 +249,6 @@
     "03. Reglas de Torneo/4. Transmisión (Broadcast)",
     "01. Reglas/12. Resúmenes",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Jugar cartas",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje",
-    "01. Reglas/7. Habilidades (abilities)/7.7 Efectos de Reemplazo"
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje"
   ]
 }
