@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno/Pagar costes en la fase de final de turno.md",
+                "file": "01. Reglas/5. Cartas (cards)/5.1.14. Aplicar y eliminar condiciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pagar costes en la fase de final de turno"
+              "title": "5.1.14. Aplicar y eliminar condiciones"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discord",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 346.5
   },
   "right": {
     "id": "3c6ffab1f1945974",
@@ -214,41 +214,41 @@
   },
   "active": "ab522799b4786fb1",
   "lastOpenFiles": [
-    "plantillas/_plantilla errores en reglas.md",
-    "plantillas/_plantilla para ejemplos de dudas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno/Pagar costes en la fase de final de turno.md",
+    "01. Reglas/5. Cartas (cards)/5.1.12. Seca (dry).md",
+    "01. Reglas/5. Cartas (cards)/5.1.14. Aplicar y eliminar condiciones.md",
+    "01. Reglas/5. Cartas (cards)/5.1.13. Condiciones según zona.md",
+    "01. Reglas/5. Cartas (cards)/5.1.11. Secandose (drying).md",
+    "01. Reglas/5. Cartas (cards)/5.1.10. Boca abajo (facedown).md",
+    "01. Reglas/5. Cartas (cards)/5.1.9. Boca arriba (faceup).md",
+    "01. Reglas/5. Cartas (cards)/5.1.8. En juego (In Play).md",
+    "01. Reglas/5. Cartas (cards)/5.1.5. Debajo (under).md",
+    "01. Reglas/5. Cartas (cards)/5.1. Condiciones (Conditions).md",
+    "01. Reglas/5. Cartas (cards)/5.1.7. En una pila (In a Stack).md",
+    "01. Reglas/5. Cartas (cards)/5.1.6. Encima (On Top).md",
+    "01. Reglas/5. Cartas (cards)/5.1.1. Lista (Ready).md",
+    "01. Reglas/5. Cartas (cards)/5.1.4. Sin daño (Undamaged).md",
+    "01. Reglas/5. Cartas (cards)/5.1.3. Dañada (Damaged).md",
+    "01. Reglas/5. Cartas (cards)/5.1.2. Agotada (Exerted).md",
+    "Empecemos.md",
+    "099. Otros juegos de mesa/Earthbound Rangers/Construir el mazo.md",
+    "099. Otros juegos de mesa/Earthbound Rangers/Turno.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Clausulas/Cláusulas independientes.md",
+    "099. Otros juegos de mesa/Earthbound Rangers",
+    "099. Otros juegos de mesa",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Clausulas/Cláusula 'Enderezar un personaje'.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Muchas cartas implicadas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Giant Cobra sin cartas en la mano.md",
+    "03. Reglas de Torneo/3. Operaciones en los torneos/3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing).md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Costes/No poder pagar un coste basado en daño a un personaje.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno/Pagar costes en la fase de final de turno.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno",
-    "02. Habilidades de las cartas/Set 7 - Archazia.md",
-    "02. Habilidades de las cartas/Set 9 - Fabled.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje/Elegir un personaje congelado para enderezar.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje/Elegir múltiples objetivos.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Siempre que un personaje desafíe... ocurren cosas.md",
-    "02. Habilidades de las cartas/Set 10 - Whispers.md",
-    "02. Habilidades de las cartas/Set 8 - Jafar.md",
-    "02. Habilidades de las cartas/Set 6 - Azurite.md",
-    "02. Habilidades de las cartas/Set 5 - Shimmering.md",
-    "02. Habilidades de las cartas/Set 4 - Ursula.md",
-    "02. Habilidades de las cartas/Set 3 - Inklands.md",
-    "02. Habilidades de las cartas/P1 - Promo Set 1.md",
-    "02. Habilidades de las cartas/Set 2 - Floodborn.md",
-    "02. Habilidades de las cartas/Set 1 - First Chapter.md",
-    "03. Reglas de Torneo/1. Definiciones sobre toneos/1. Introduccion.md",
-    "02. Habilidades de las cartas/1 - The First Chapter.md",
-    "02. Habilidades de las cartas/2 - Rise of the Floodborn.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Habilidades/Acción jugada debido a un efecto de otra carta.md",
-    "02. Habilidades de las cartas/3 - Into the Inklands.md",
-    "02. Habilidades de las cartas/cp - Challenge Promo.md",
-    "02. Habilidades de las cartas/4 - Ursula's Return.md",
     "03. Reglas de Torneo/10. Protocolos personales",
     "03. Reglas de Torneo/9. Premios (Prizing)",
     "03. Reglas de Torneo/8. Información de Viaje",
     "03. Reglas de Torneo/7. Conducta del Jugador",
     "03. Reglas de Torneo/5 Información y comunicación/5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)",
     "03. Reglas de Torneo/4. Transmisión (Broadcast)",
-    "01. Reglas/12. Resúmenes",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Jugar cartas",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Elegir Personaje"
+    "01. Reglas/12. Resúmenes"
   ]
 }

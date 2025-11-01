@@ -187,7 +187,7 @@
 
   
 
-[[En juego (in play)]]
+[[01. Reglas/0. Glosario/En juego (in play)]]
 
 
 
