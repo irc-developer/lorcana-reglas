@@ -1,2 +1,0 @@
-El recurso que los jugadores usan para pagar el coste de cartas y habilidades. Está representado por las cartas colocadas boca abajo en la inkwell.
-#ink

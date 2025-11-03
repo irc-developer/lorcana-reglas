@@ -9,5 +9,5 @@ No, no podrías resolver la habilidad de Hades. Aunque es legal elegir como obje
 
 Dado que la habilidad de Hades exige **hacerle daño** al objetivo como condición para resolverse, y eso no es posible, la habilidad no se resuelve.
 
-En cambio, si el personaje objetivo tuviera  [[10.6. Resistir (Resist)]], sí se consideraría que **ha recibido daño**, aunque luego este se reduzca. Resist no impide el daño, simplemente **lo modifica después de que se le haya hecho**, por lo que **sí permite satisfacer la condición** de la habilidad disparada de Hades.
+En cambio, si el personaje objetivo tuviera  [[10.8. Resistencia (Resist)]], sí se consideraría que **ha recibido daño**, aunque luego este se reduzca. Resist no impide el daño, simplemente **lo modifica después de que se le haya hecho**, por lo que **sí permite satisfacer la condición** de la habilidad disparada de Hades.
 #triggered-ability #satisfy-condition #resist #replacement-effect #illegal-resolution #static-ability #targeting #prevent-damage #conditional-trigger

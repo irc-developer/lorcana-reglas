@@ -1,2 +1,0 @@
-El tercer paso de la Beginning Phase. El jugador activo roba una carta de su mazo.
-#draw-step

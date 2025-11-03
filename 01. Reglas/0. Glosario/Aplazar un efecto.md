@@ -1,2 +1,0 @@
-Se define como la situación en la que una carta te permite jugar otra y el efecto de la segunda no se resuelve hasta que no finaliza la que provocó que se jugase aunque la segunda acabe en otra zona (descarte, mazo, etc).
-#delay-efect 

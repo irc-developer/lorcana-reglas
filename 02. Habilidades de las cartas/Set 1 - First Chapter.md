@@ -51,9 +51,6 @@ SINISTER PLOT This character gets +1 {L} for each other Villain character you ha
 WELL OF SOULS When you play this character, return a character card from your discard to your hand.
 
 ---
-
-  
-
 ### [[HeiHei - Boat Snack]]
 
 Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)

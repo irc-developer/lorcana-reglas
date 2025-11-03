@@ -12,7 +12,7 @@ WhatsApp Lorcana SP
 ---
 ### Duda 2
 - El oponente tiene [[Set 6 - Azurite#Tiana - Restaurant Owner]] en juego y agotada. Además de otros personajes agotados.
-- Declaro [[Desafío (challenge)]] sobre cualquiera de los personajes agotados con un personaje que tiene [[10.3. Desafiador (Challenger)]] y, al dispararse la habilidad de Tiana, no pago los tres de tinta que se exigen.
+- Declaro [[Desafío (challenge)]] sobre cualquiera de los personajes agotados con un personaje que tiene [[10.5. Desafiador (Challenger)]] y, al dispararse la habilidad de Tiana, no pago los tres de tinta que se exigen.
 
 ¿Cómo se aplican los cálculos para saber la fuerza real?
 ### Respuesta 2

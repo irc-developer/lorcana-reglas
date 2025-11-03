@@ -1,2 +1,0 @@
-Tomar la carta superior del mazo y ponerla en la mano.
-#draw

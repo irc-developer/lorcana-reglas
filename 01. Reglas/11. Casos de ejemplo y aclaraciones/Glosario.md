@@ -1,7 +1,7 @@
 Aquí tienes el listado de casos que he ido recogiendo tanto en las mesas como en el discord de lorcana organizados por temática y cada una con sus etiquetas para su fácil búsqueda:
 
 ### Bolsa
-[[Giant Cobra sin cartas en la mano]]
+[[11.1.01 Giant Cobra sin cartas en la mano]]
 [[Muchas cartas implicadas]]
 [[Tiana y su trigger post canción]]
 

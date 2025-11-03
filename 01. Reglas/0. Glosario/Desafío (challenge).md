@@ -1,2 +1,0 @@
-Cuando un personaje listo de un jugador desafía a un personaje oponente listo.
-#challenge

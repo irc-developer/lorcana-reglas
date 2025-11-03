@@ -1,2 +1,0 @@
-Nombre de una carta. En acciones, ítems y lugares aparece en el centro; en personajes, a la izquierda junto a {S} y {W}. El nombre más la versión componen el nombre completo.
-#name

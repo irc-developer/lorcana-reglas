@@ -1,2 +1,0 @@
-Una carta que enumera “Character” en su línea de clasificación. Cuando un jugador juega un personaje, lo pone en su zona de juego. Los personajes pueden estar en posición vertical (ready) o girada (exerted).
-#character

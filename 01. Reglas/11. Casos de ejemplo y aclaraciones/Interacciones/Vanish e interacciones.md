@@ -8,7 +8,7 @@ Recuerda la [[1.2 Regla dorada o Golden Rule (Prioridad de reglas)]] sobre lo de
 
 ---
 ### Duda
-- Juego [[Set 5 - Shimmering#You're Welcome]] sobre un personaje con [[10.12. Desvanecer (Vanish)]] ¿Se baraja o no?
+- Juego [[Set 5 - Shimmering#You're Welcome]] sobre un personaje con [[10.14. Desvanecer (Vanish)]] ¿Se baraja o no?
 ### Respuesta
 Se baraja. La habilidad varnish se disparará al hacer objetivo y no se resolverá hasta acabar el Welcome con lo que, para cuando vaya a resolverse, ya no estará en mesa con lo que no se desterrará nada.
 #bag #action-card #varnish #lost-trigger
@@ -25,7 +25,7 @@ Sí, se dispararía ya que se está seleccionado el personaje. Los requisitos de
 - [[7.1.2.2. Tipo A para B (A to B)]]
 - [[7.2. Cartas de Acción (Action Cards)]]
 - [[7.4.3. Bolsa]]
-- [[10.12. Desvanecer (Vanish)]]
+- [[10.14. Desvanecer (Vanish)]]
 ### Referencia
 Sacado de discord.
 

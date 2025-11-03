@@ -1,2 +1,0 @@
-Girar una carta de lado, por ejemplo, para questear, desafiar o pagar el coste de una carta o habilidad. Algunas habilidades usan el símbolo {E} para mostrar que la carta debe girarse como parte del coste. Una carta girada aún puede usar habilidades que no requieran {E}.
-#exert

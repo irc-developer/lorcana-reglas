@@ -1,5 +1,3 @@
-# Verificaciones del Estado del Juego
-
 La verificación del estado del juego es un proceso automático que el juego realiza para comprobar un conjunto de condiciones específicas y ejecutar las *acciones requeridas* cuando se cumplen una o más de esas condiciones [CR-1.9.1, CR-351].
 
 ## **¿Cuándo se realiza una verificación del estado del juego?** [CR-1.9.2, CR-352]:

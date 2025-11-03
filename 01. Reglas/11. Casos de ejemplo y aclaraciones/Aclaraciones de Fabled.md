@@ -8,7 +8,7 @@ El documento incluye aclaraciones sobre la interacción de varias cartas nuevas 
 
 - [[Set 9 - Fabled#**Elsa - Spirit of Winter]] / [[Set 9 - Fabled#Fan the Flames]]:** "Deep Freeze" solo impide enderezar durante el paso de Ready, no por otras habilidades.
 
-- **[[Set 9 - Fabled#Mickey Mouse - Trumpeter]]:** "Sound the Call" (jugar un personaje gratis) solo anula el coste de tinta, no otros costes de [[10.8. Cambio (Shift)]].
+- **[[Set 9 - Fabled#Mickey Mouse - Trumpeter]]:** "Sound the Call" (jugar un personaje gratis) solo anula el coste de tinta, no otros costes de [[10.10. Cambio (Shift)]].
 
 - **[[Set 9 - Fabled#Donald Duck - Perfect Gentleman]]:** "Allow Me" permite que cada jugador decida individualmente si roba una carta.
 

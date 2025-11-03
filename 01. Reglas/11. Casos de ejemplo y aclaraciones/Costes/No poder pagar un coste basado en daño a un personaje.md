@@ -2,7 +2,7 @@
 Tengo en mesa a [[Set 7 - Archazia#Baloo - Ol' Iron Paws]] acompañado de [[Set 10 - Whispers#Shere Khan - Fierce and Furious]] ¿Puedo pagar la tinta y hacerle un punto de daño para enderezarlo?
 
 ### Respuesta
-No, no puedes. Los personajes de fuerza siete o más **no pueden sufrir daño** con lo que no puedes pagar el coste que se te exige. Esto no ocurre con [[10.6. Resistir (Resist)]] ya que sí que recibe el daño y como efecto de reemplazo se disminuye tanto como valor tenga.
+No, no puedes. Los personajes de fuerza siete o más **no pueden sufrir daño** con lo que no puedes pagar el coste que se te exige. Esto no ocurre con [[10.8. Resistencia (Resist)]] ya que sí que recibe el daño y como efecto de reemplazo se disminuye tanto como valor tenga.
 
 La habilidades de [[7.1.2.2. Tipo A para B (A to B)]] indican que si no se cumple lo primero, el hacerle daño al personaje, no se puede ejecutar lo segundo.
 

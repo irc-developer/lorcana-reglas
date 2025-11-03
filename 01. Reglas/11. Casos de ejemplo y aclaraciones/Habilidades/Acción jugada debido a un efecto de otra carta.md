@@ -69,7 +69,7 @@ Iría al fondo del mazo y se barajaría pues, aun estando jugada, su efecto se a
 3. Comienzo a resolver la habilidad de Powerline y en las cuatro cartas revelo [[Set 8 - Jafar#Fantastical and Magical]]
 
 
-¿Puedo escoger jugarla con el coste alternativo vía [[10.10. Cantar Juntos (Sing Together)]] y así ganar lore y robar?
+¿Puedo escoger jugarla con el coste alternativo vía [[10.12. Cantar Juntos (Sing Together)]] y así ganar lore y robar?
 
 ### Respuesta
 Sí, podrías mientras alcances el nueve de coste que exige en personajes. Esto es gracias a que puedes escoger el modo de pago de cualquier carta independientemente de sea gratis o no, la habilidad de Powerline tiene como factor principal que puedes jugar una de las cartas acción-canción de las cuatro que revela, independientemente de si es gratis en tinta o no.

@@ -1,2 +1,0 @@
-Carta con “Location” en su línea de clasificación. Se juega en la zona de juego. Tiene un coste de juego, un coste de movimiento y Willpower {W}. Puede ser desafiada y desterrada si sufre daño igual o mayor a su Willpower. Puede otorgar lore durante el Set step. Se pueden tener varias copias con el mismo nombre, pero no más de 4 con el mismo nombre completo.
-#location

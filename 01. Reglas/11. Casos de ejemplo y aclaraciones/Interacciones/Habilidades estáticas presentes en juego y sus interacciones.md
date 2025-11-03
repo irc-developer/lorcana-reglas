@@ -1,6 +1,6 @@
 Me he inventado la siguiente terminología que me permite estructurar y explicar el por qué aparentemente dos efectos estáticos iguales producen dos resultados diferentes. He dividido las [[Habilidad estática (static ability)]] que crean un efecto de reemplazo según su origen:
 - **Intrínsecas**: la carta tiene una habilidad estática que, al cumplirse, se produce el efecto de reemplazo. Un ejemplo sería [[Set 4 - Ursula#Prince Eric - Ursula's Groom]] en el que la habilidad estática "Bodyguard cuando está Úrsula en juego" sale de si misma.
-- **Extrínsecas**: [[Set 4 - Ursula#Peter Pan - Shadow Finder]] permite que los personajes con evasivo entren con [[10.7. Prisa (Rush)]] con lo que a efectos de [[Set 6 - Azurite#Maui - Half-Shark]] la habilidad estática que permite el reemplazo con Rush viene de fuera.
+- **Extrínsecas**: [[Set 4 - Ursula#Peter Pan - Shadow Finder]] permite que los personajes con evasivo entren con [[10.9. Prisa (Rush)]] con lo que a efectos de [[Set 6 - Azurite#Maui - Half-Shark]] la habilidad estática que permite el reemplazo con Rush viene de fuera.
 
 ### Situación
 

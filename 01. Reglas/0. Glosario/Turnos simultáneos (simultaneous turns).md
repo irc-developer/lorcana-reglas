@@ -1,2 +1,0 @@
-Formato multijugador donde los jugadores de un mismo equipo avanzan por las fases al mismo tiempo. Comparten la bolsa de efectos y deciden el orden de resolución.
-#simultaneous-turns
