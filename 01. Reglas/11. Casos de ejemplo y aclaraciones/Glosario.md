@@ -3,28 +3,28 @@ Aquí tienes el listado de casos que he ido recogiendo tanto en las mesas como e
 ### Bolsa
 [[11.1.01 Giant Cobra sin cartas en la mano]]
 [[Muchas cartas implicadas]]
-[[Tiana y su trigger post canción]]
+[[11.1.02. Tiana y su trigger post canción]]
 
 ---
 ### Cláusulas
-[[Cláusulas independientes]]
+[[11.2.02. Cláusula - Resolución parcial sin objetivo válido]]
 
 ---
 ### Costes
-[[Agotar personajes como coste]]
+[[11.3.01 Coste - Agotar personajes como coste]]
 
 ---
 ### Habilidades
-[[Acción jugada debido a un efecto de otra carta]]
-[[Bodyguard]]
-[[Cartas que al abandonar el juego hacen cosas]]
-[[Cumplir parte de una habilidad]]
-[[Habilidades disparadas 'Al final del turno']]
-[[Habilidades disparadas 'Al principio del turno']]
-[[Personaje no puede enderezarse y no está agotado]]
-[[Requisito previo para disparar una habilidad]]
-[[Requisito previo para disparar una habilidad]]
-[[Robar carta y tener que descartarla]]
+[[11.9.01 Acción jugada debido a un efecto de otra carta]]
+[[11.9.02 Bodyguard]]
+[[11.9.03 Cartas que al abandonar el juego hacen cosas]]
+[[11.9.04 Cumplir parte de una habilidad]]
+[[11.8.02 Habilidades disparadas 'Al final del turno']]
+[[11.11.01 Habilidades disparadas 'Al principio del turno']]
+[[11.12.01 Restricciones a enderezar impuestas por habilidades disparadas]]
+[[11.12.2 Secuencia de desafíos con Fa Zhou - War Hero]]
+[[11.12.2 Secuencia de desafíos con Fa Zhou - War Hero]]
+[[11.12.03 Prioridad entre jugador activo y no activo]]
 [[Siempre que un personaje desafíe... ocurren cosas]]
 
 ---

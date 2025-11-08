@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Clausulas/Cláusula 'Enderezar un personaje'.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.1. Bolsa/11.1.02. Tiana y su trigger post canción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cláusula 'Enderezar un personaje'"
+              "title": "11.1.02. Tiana y su trigger post canción"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8.7 Bolsa (Bag).md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/11.14.02 Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.7 Bolsa (Bag)"
+              "title": "11.14.02 Tiana y Rapunzel - reducción de Fuerza y prevención total de daño"
             }
           },
           {
@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 453.5
   },
   "right": {
     "id": "3c6ffab1f1945974",
@@ -239,41 +239,41 @@
   },
   "active": "c92c4350a358ea76",
   "lastOpenFiles": [
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/11.1.01 Giant Cobra sin cartas en la mano.md",
-    "8.7 Bolsa (Bag).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Bolsa/Tiana y su trigger post canción.md",
-    "01. Reglas/10. Palabras clave (Keywords)/10.1. Generalidades (General).md",
-    "01. Reglas/9. Contadores de daño (Damage counters)/9. Contadores de daño (damage counters).md",
-    "01. Reglas/7. Habilidades (abilities)/7.8. Modificadores de Habilidad (Ability Modifiers).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/11.14.01 Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/11.14.02 Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.13. Zonas y condiciones/11.13.01 Cartas en una pila.md",
+    "plantillas/_plantilla para ejemplos de dudas.md",
+    "plantillas/_plantilla errores en reglas.md",
+    "plantillas/_plantilla errores torneo.md",
     "01. Reglas/7. Habilidades (abilities)/7.7. Efectos de Reemplazo (Replacement Effects).md",
-    "01. Reglas/7. Habilidades (abilities)/7.5. Habilidades Activadas (Activated Abilities).md",
-    "01. Reglas/7. Habilidades (abilities)/7.3. Habilidades de palabras Clave (Keywords).md",
-    "01. Reglas/7. Habilidades (abilities)/7.2. Cartas de Acción (Action Cards).md",
-    "01. Reglas/7. Habilidades (abilities)/7.4. Habilidades Disparadas (Triggered Abilities).md",
     "01. Reglas/7. Habilidades (abilities)/7.6. Habilidades Estáticas (Static Abilities).md",
-    "01. Reglas/7. Habilidades (abilities)/7.1 General.md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.5. Localizaciones (Locations).md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.4. Objetos (Items).md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.3.2. Efectos (Effects) en acciones.md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.3.3. Canciones (Songs).md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.3. Acciones (Actions).md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.2. Partes de una carta (Parts of a Card).md",
-    "01. Reglas/6. Tipos de carta (Card types)/6.1. Personajes (Characters).md",
-    "4.2.3 Listo (Set).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.3. Fase principal (Main Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4. Estructura del turno (Turn Structure).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase).md",
-    "01. Reglas/4. Estructura del turno (Turn Structure)/4.1. Fases (Phases).md",
+    "01. Reglas/12. Resúmenes/Jugar una carta.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.12 Habilidades disparadas/11.12.03 Prioridad entre jugador activo y no activo.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.12 Habilidades disparadas/11.12.2 Secuencia de desafíos con Fa Zhou - War Hero.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.12 Habilidades disparadas/11.12.01 Restricciones a enderezar impuestas por habilidades disparadas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/Fuente estática abandona el juego.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.12 Habilidades disparadas",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.11 Inicio de turno/11.11.01 Habilidades disparadas 'Al principio del turno'.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Modifica su fuerza mientras reta.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Qué pasa cuando se juegan dos cartas a la vez.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Support - Interacciones.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Incrementar el coste de una carta gratis.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Interacciones/Habilidades estáticas presentes en juego y sus interacciones.md",
+    "01. Reglas/7. Habilidades (abilities)/7.4. Habilidades Disparadas (Triggered Abilities).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.10 Interpretación de texto y redacción de habilidades/11.10.0 Uso de pronombres neutros en textos de cartas (they, their, them).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.10 Interpretación de texto y redacción de habilidades/11.10.01 Habilidades que contienen 'they'.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.10 Interpretación de texto y redacción de habilidades",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.11 Inicio de turno",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8 Final del turno/11.8.02 Habilidades disparadas 'Al final del turno'.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.9 Habilidades y sus efectos/11.9.04 Cumplir parte de una habilidad.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.9 Habilidades y sus efectos/11.9.03 Cartas que al abandonar el juego hacen cosas.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Modificadores de atributos y duración de efectos",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6 Shift e interacciones",
     "01. Reglas/10. Palabras clave (Keywords)/10.2 Alerta",
     "01. Reglas/8. Zonas (Zones)/Sin nombre",
     "099. Otros juegos de mesa/Earthbound Rangers",
     "099. Otros juegos de mesa",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Final del turno",
-    "03. Reglas de Torneo/10. Protocolos personales",
-    "03. Reglas de Torneo/9. Premios (Prizing)",
-    "03. Reglas de Torneo/8. Información de Viaje",
-    "03. Reglas de Torneo/7. Conducta del Jugador",
-    "03. Reglas de Torneo/5 Información y comunicación/5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)"
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8 Final del turno"
   ]
 }
