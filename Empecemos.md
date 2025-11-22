@@ -1,6 +1,6 @@
 # Guía Completa de Disney Lorcana TCG en Español
 
-*Última actualización 01/11/25*
+*Última actualización 22/11/25*
 
 ¡Hola! Me llamo Iván (Shinobana), apasionado jugador de lorcana y juez en ciernes. Sé bienvenido/a a la **guía definitiva en español sobre Disney Lorcana TCG**, el juego de cartas coleccionables de Disney. Aquí encontrarás **reglas oficiales adaptadas al castellano**, explicaciones detalladas, glosario completo, materiales para árbitros y mucho más.
 
@@ -66,6 +66,7 @@ Este proyecto es de la comunidad y para la comunidad. Si detectas errores, tiene
 ## Creadores de contenido
 - [Baraja de tres tintas](https://www.youtube.com/@baraja3tintas/): especialista en podcast sobre las novedades de lorcana, entrevistas variadas y demás.
 - [LEGENDARYS](https://www.youtube.com/@legendarys.lorcana): vídeos sobre cómo aprender a jugar de _zero to hero_.
+- Guía Blue Steel de [LorfessorJRP](https://metafy.gg/@lorfessorjrp) para el SET 11 Whispers.
 
 _Disney Lorcana TCG es una marca de Ravensburger y Disney. Este sitio es una iniciativa no oficial y sin ánimo de lucro, creada con fines educativos y comunitarios._
 
