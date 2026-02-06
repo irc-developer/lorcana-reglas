@@ -1,0 +1,8 @@
+[[Set 3 - Inklands#Jafar - Striking Illusionist]]
+[[Set 2 - Floodborn#Mufasa - Betrayed Leader]]
+[[Set 4 - Ursula#Hidden Cove - Tranquil Haven]]
+[[Set 4 - Ursula#Signed Contract]]
+[[Set 5 - Shimmering#Alan-a-Dale - Rockin' Rooster]] 
+[[Set 5 - Shimmering#We know the way]]
+[[Set 2 - Floodborn#World's Greatest Criminal Mind]]
+[[Set 5 - Shimmering#Prince Naveen - Ukulele Player]]

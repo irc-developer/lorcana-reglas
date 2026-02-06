@@ -45,18 +45,18 @@ El oponente es cualquier jugador distinto del activo o distinto del controlador 
 
 #### 1.6.1. Clasificación
 
-Todas las habilidades se incluyen como [[7.3. Habilidades de palabras Clave (Keywords)|Palabras Clave (Keywords)]], y los tipos son:
-- [[7.4. Habilidades Disparadas (Triggered Abilities)|Habilidades Disparadas (Triggered Abilities)]]
-- [[7.5. Habilidades Activadas (Activated Abilities)|Habilidades Activadas (Activated Abilities)]]    
-- [[7.6. Habilidades Estáticas (Static Abilities)|Habilidades Estáticas (Static Abilities)]]    
-- [[7.7. Efectos de Reemplazo (Replacement Effects)|Efectos de Reemplazo (Replacement Effects)]]: son generados por habilidades y reemplazan un efecto por otro.
+Todas las habilidades se incluyen como [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.3. Habilidades de palabras Clave (Keywords)|Palabras Clave (Keywords)]], y los tipos son:
+- [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.4. Habilidades Disparadas (Triggered Abilities)|Habilidades Disparadas (Triggered Abilities)]]
+- [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.5. Habilidades Activadas (Activated Abilities)|Habilidades Activadas (Activated Abilities)]]    
+- [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.6. Habilidades Estáticas (Static Abilities)|Habilidades Estáticas (Static Abilities)]]    
+- [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.7. Efectos de Reemplazo (Replacement Effects)|Efectos de Reemplazo (Replacement Effects)]]: son generados por habilidades y reemplazan un efecto por otro.
 #### 1.6.2. Resolución simultánea
 Siempre que un efecto vaya a afectar a varios jugadores al mismo tiempo, primero lo resuelve el jugador activo y, a continuación, en orden de turno, cada uno de los demás jugadores.
 #ability-types
 
 ---
 ### 1.7. La bolsa (The Bag)
-La **bolsa** es el espacio virtual donde se colocan efectos o habilidades en espera de resolución.  Está pormenorizada en [[8.7. Bolsa (Bag)|sección de Bolsa]].
+La **bolsa** es el espacio virtual donde se colocan efectos o habilidades en espera de resolución.  Está pormenorizada en [[20. Reglas CR 1.X/8. Zonas (Zones)/8.7. Bolsa (Bag)|sección de Bolsa]].
 #bag
 
 ---
@@ -76,7 +76,7 @@ Durante la partida, justo después de resolver cualquier acción o efecto, se pr
 - **Daño ≥ Voluntad (Willpower)** → destierro (banish).
 #### Aclaraciones
 Esta verificación se realiza **siempre** que termine cualquiera de las [[4.1. Fases (Phases)|Fases (phases)]],  
-tras resolver algo en la [[7.4. Habilidades Disparadas (Triggered Abilities)#7.4.3. Bolsa|Bolsa]], una [[7.2. Cartas de Acción (Action Cards)|carta de acción (action card)]], una [[7.5. Habilidades Activadas (Activated Abilities)|habilidad activada]] o una [[7.4. Habilidades Disparadas (Triggered Abilities)|habilidad disparada]].
+tras resolver algo en la [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.4. Habilidades Disparadas (Triggered Abilities)#7.4.3. Bolsa|Bolsa]], una [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.2. Cartas de Acción (Action Cards)|carta de acción (action card)]], una [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.5. Habilidades Activadas (Activated Abilities)|habilidad activada]] o una [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.4. Habilidades Disparadas (Triggered Abilities)|habilidad disparada]].
 - Si un efecto provoca que ambos jugadores deban verificar el estado del juego, se hace por **orden de turno**, comenzando por el jugador activo. (CR 1.9.2.1)
 - Si un jugador **gana y pierde simultáneamente**, ese jugador **gana** la partida. (CR 1.9.2.1)
 - Si varias [[#1.11. Acciones obligatorias (Required Actions)|acciones obligatorias]] deben ocurrir al mismo tiempo, se consideran una sola acción combinada y se resuelven simultáneamente. (CR 1.9.5)
@@ -98,7 +98,7 @@ Reglas especiales para partidas con más de dos jugadores:
 ### 1.11. Acciones obligatorias (Required Actions)
 Son acciones del juego que deben comprobarse y, si son positivas, ejecutarse de inmediato.  Actualmente son:
 - [[#1.9. Verificación del estado del juego (Game State Check)|GSM o game state check]]
-- Ganar puntos de leyenda de las ubicaciones durante la el paso [[4.2. Fase inicial (Beginning Phase)#4.2.2 Listo (Set)|"listo"]] de la fase inicial del turno.
+- Ganar puntos de leyenda de las ubicaciones durante la el paso [[20. Reglas CR 1.X/4. Estructura del turno (Turn Structure)/4.2. Fase inicial (Beginning Phase)#4.2.2 Listo (Set)|"listo"]] de la fase inicial del turno.
 #required-action
 
 ---
