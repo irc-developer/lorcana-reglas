@@ -51,24 +51,26 @@ Esta guía está basada en la versión de las reglas oficiales 2.0, que se irán
 
 ## 🙌 ¿Colaboras o tienes sugerencias?
 
-Este proyecto es de la comunidad y para la comunidad. Si detectas errores, tienes propuestas o quieres colaborar, puedes escribirme a mi perfil de X [shinobana](https://x.com/ShinoBana) [contactarme por correo](mailto:ivan.juezlorcana@gmail.com)
-
+Este proyecto es de la comunidad y para la comunidad. Si detectas errores, tienes propuestas o quieres colaborar puedes [contactarme por correo](mailto:ivan.juezlorcana@gmail.com)
 
 ---
 ## 🔗 Links de interés
 
 - 📖 [Documentación sobre Disney Lorcana (Inglés)](https://www.disneylorcana.com/en-US/resources)
-- 🎴 [Base de datos de cartas - Dreamborn](https://dreamborn.ink)
+- 🎴  [Base de datos de cartas - Dreamborn](https://dreamborn.ink)
 - 🌐 [Comunidad Discord oficial](https://discord.gg/disneylorcana)
 - 💬 [Comunidad Discord Lorcana Rulebook Hub](https://discord.gg/hRg9KtFE)
 - 🤝 [Github con la documentación oficial](https://github.com/hexastix/disney-lorcana-tcg-resources?tab=readme-ov-file)
-- 🛠️[Lorecast API](https://lorcast.com/docs/api)
+- 🛠️ [Lorecast API](https://lorcast.com/docs/api)
 - 🏆 [Clasificación por zonas (ELO)](http://www.eloquest.ink)
+- 🏆📋 [Top Cut - Aplicación para gestionar eventos y mazos hecha por la comunidad (Capri)](https://topcut.report)
 
 ### Creadores de contenido
 #### Podcasters
 - [Baraja de tres tintas](https://www.youtube.com/@baraja3tintas/): especialista en podcast sobre las novedades de lorcana, entrevistas variadas y demás.
 - [LEGENDARYS](https://www.youtube.com/@legendarys.lorcana): vídeos sobre cómo aprender a jugar de _zero to hero_.
+- [La Baraja Encantada](https://www.youtube.com/@LaBarajaEncantada): divulgadores de Lorcana.
+- [Shifteados](https://linktr.ee/Shifteados): podcast de Lorcana avanzado, muchas teorilorcana y experiencia en grandes torneos.
 #### Guías de juego
 - Guía Blue Steel de [LorfessorJRP](https://metafy.gg/@lorfessorjrp) para el Set 10 - Whispers.
 - Guía Red Blue hecha por [TheInkredibles](https://metafy.gg/guides/view/red-blue-set-10-whispers-in-the-well-zv9jtVUHdWe) para el Set 10 - Whispers.
