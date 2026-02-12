@@ -1,0 +1,45 @@
+---
+config:
+  layout: dagre
+---
+flowchart TD
+
+A["Declaro el desafío<br/>Atacante vs Defensor"] --> B["Calcular cuánto daño hace cada uno"]
+
+B --> C["Aplicar cambios a Strength S<br/>(+ / -)"]
+C --> D["Aplicar cambios al daño<br/>(+ / -)"]
+D --> E{"¿Tiene Resist?"}
+
+E -->|"Sí"| F["Reducir el daño que recibe<br/>según su Resist"]
+E -->|"No"| G["El daño queda igual"]
+
+F --> H["Daño final de cada uno"]
+G --> H
+
+H --> I["El daño se hace a la vez"]
+
+I --> J{"¿Daño final > 0?"}
+
+J -->|"No"| K["No se pone daño<br/>No se pierden escudos"]
+J -->|"Sí"| L{"¿Tiene escudos<br/>(Lilo / Rapunzel)?"}
+
+L -->|"Sí"| M["Quitar escudos<br/>y evitar esa cantidad de daño"]
+L -->|"No"| N["Se pone todo el daño"]
+
+M --> O["Colocar contadores de daño restantes"]
+N --> O
+K --> O
+
+O --> P["Game State Check<br/>¿Alguien tiene daño ≥ W?"]
+
+P -->|"Sí"| Q["Se destierra"]
+P -->|"No"| R["Siguen en mesa"]
+
+Q --> S["Resolver habilidades disparadas"]
+R --> S
+
+S --> T["Terminan efectos<br/>while challenging"]
+
+T --> U["Se activan habilidades<br/>after the challenge"]
+
+U --> V["Fin del desafío<br/>El jugador puede hacer otra acción"]

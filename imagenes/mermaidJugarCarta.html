@@ -1,0 +1,39 @@
+---
+config:
+  layout: dagre
+---
+flowchart TD
+    A[Quiero jugar una carta] --> B[Anuncio la carta<br/>y la muestro]
+
+    B --> C{¿Cómo la juego?}
+
+    C -->|Pago tinta| D[Uso tinta]
+    C -->|Shift| E[Uso Shift]
+    C -->|Sing| F[Canto la canción<br/>exert personaje]
+    C -->|For free| G[La juego gratis]
+
+    D --> H[Calculo el coste]
+    E --> H
+    F --> H
+
+    H --> I[Pagar el coste<br/>tinta / exert / otros]
+    I --> J[Carta jugada]
+
+    G --> J
+
+    J --> K{Tipo de carta}
+
+    K -->|Personaje / Objeto / Localización| L[Entra en mesa]
+    L --> M{¿Con Shift?}
+    M -->|Sí| N[Va encima del personaje]
+    M -->|No| O[Se queda en mesa]
+
+    K -->|Acción| P[Resuelve su efecto]
+    P --> Q[Va al descarte]
+
+    N --> R[Habilidades disparadas]
+    O --> R
+    Q --> R
+
+    R --> S[Se resuelven]
+    S --> T[Fin]
