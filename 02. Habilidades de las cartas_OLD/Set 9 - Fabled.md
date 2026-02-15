@@ -156,7 +156,7 @@ Singer 5 (This character counts as cost 5 to sing songs.) A WONDERFUL DREAM { } 
 
 ### [[Queen Of Hearts - Wonderland Empress]]
 
-ALL WAYS HERE ARE MY WAYS Whenever this character quests, your other Villain characters get +1 {L} this turn.
+ALL WAYS HERE ARE MY WAYS Whenever this character quests, your other Villain characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -392,7 +392,7 @@ AERIAL DUO When you play this character, chosen character gains Evasive until th
 
 ### [[Timothy Q. Mouse - Flight Instructor]]
 
-LET'S SHOW 'EM, DUMBO! While you have a character with Evasive in play, this character gets +1 {L}.
+LET'S SHOW 'EM, DUMBO! While you have a character with Evasive in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -936,7 +936,7 @@ Shift 5 {I} (You may pay 5 {I} to play this on top of one of your characters nam
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-CROWNING ACHIEVEMENT While this character has a card under him, he gets +3 {S}, +3 {W}, and +3 {L}.
+CROWNING ACHIEVEMENT While this character has a card under him, he gets +3 {S}, +3 {W}, and +3  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1350,7 +1350,7 @@ HUNNY POT Whenever this character quests, you may put a card from your hand into
 
 GOOD ADVICE Your other characters gain Support. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
 
-WHAT DID I DO? While this character has 10 {S} or more, she gets +4 {L}.
+WHAT DID I DO? While this character has 10 {S} or more, she gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1456,7 +1456,7 @@ SOUND THE CALL {}, 2 {} – Play a character for free.
 
 ### [[Nala - Undaunted Lioness]]
 
-DETERMINED DIVERSION While this character has no damage, she gets +1 {L} and gains Resist +1. (Damage dealt to them is reduced by 1.)
+DETERMINED DIVERSION While this character has no damage, she gets +1  ![[imagenes/lore.svg|20]] and gains Resist +1. (Damage dealt to them is reduced by 1.)
 
 ---
 
@@ -1844,7 +1844,7 @@ MAKING WAVES Whenever this character quests, chosen opposing character gets -2 {
 
 ### [[Anna - Braving the Storm]]
 
-I WAS BORN READY While you have another Hero character in play, this character gets +1 {L}.
+I WAS BORN READY While you have another Hero character in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -2068,6 +2068,6 @@ Shift 5 {I}
 
 Evasive
 
-CROWNING ACHIEVEMENT While this character has a card under him, he gets +3 {S}, +3 {W}, and +3 {L}.
+CROWNING ACHIEVEMENT While this character has a card under him, he gets +3 {S}, +3 {W}, and +3  ![[imagenes/lore.svg|20]].
 
 ---

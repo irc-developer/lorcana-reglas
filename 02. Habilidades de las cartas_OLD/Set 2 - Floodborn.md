@@ -430,7 +430,7 @@ HOPPITY HIP! When you play this character and when he leaves play, you may draw 
 
 ### [[Merlin - Shapeshifter]]
 
-BATTLE OF WITS Whenever one of your other characters is returned to your hand from play, this character gets +1 {L} this turn.
+BATTLE OF WITS Whenever one of your other characters is returned to your hand from play, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -578,7 +578,7 @@ SECOND WIND Whenever an opposing character is damaged, you may ready this charac
 
 ### [[Belle - Bookworm]]
 
-USE YOUR IMAGINATION While an opponent has no cards in their hand, this character gets +2 {L}.
+USE YOUR IMAGINATION While an opponent has no cards in their hand, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -676,7 +676,7 @@ Shift 2 (You may pay 2 {I} to play this on top of one of your characters named F
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-ONE LAST, BIG SCORE This character gets -1 {L} for each card in your opponents' hands.
+ONE LAST, BIG SCORE This character gets -1  ![[imagenes/lore.svg|20]] for each card in your opponents' hands.
 
 ---
 
@@ -706,7 +706,7 @@ MOUSE CATCHER When you play this character, each opponent chooses and discards e
 
 ### [[Pain - Underworld Imp]]
 
-COMING, YOUR MOST LUGUBRIOUSNESS While this character has 5 {S} or more, he gets +2 {L}.
+COMING, YOUR MOST LUGUBRIOUSNESS While this character has 5 {S} or more, he gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -726,7 +726,7 @@ Ward (Opponents can't choose this character except to challenge.)
 
 TAKE THAT! Whenever you play an action, this character gets +2 {S} this turn.
 
-WHO'S NEXT? While this character has 7 {S} or more, he gets +2 {L}.
+WHO'S NEXT? While this character has 7 {S} or more, he gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -768,7 +768,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
 ### [[The Queen - Disguised Peddler]]
 
-A PERFECT DISGUISE {E}, Choose and discard a character card — Gain lore equal to the discarded character's {L}.
+A PERFECT DISGUISE {E}, Choose and discard a character card — Gain lore equal to the discarded character's  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -866,7 +866,7 @@ SNAP! BOOM! TWANG! Banish this item — Each opponent loses 2 lore.
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-PHOOEY! This character gets +1 {L} for each 1 damage on him.
+PHOOEY! This character gets +1  ![[imagenes/lore.svg|20]] for each 1 damage on him.
 
 ---
 
@@ -934,7 +934,7 @@ Shift 2 (You may pay 2 {I} to play this on top of one of your characters named M
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-UNDERSEA ADVENTURE Whenever you play a second action in a turn, this character gets +2 {L} this turn.
+UNDERSEA ADVENTURE Whenever you play a second action in a turn, this character gets +2  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1130,7 +1130,7 @@ Your characters with Evasive get +1 {S}.
 
 GOOD ADVICE Your other characters gain Support. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
 
-WHAT DID I DO? While this character has 10 {S} or more, she gets +4 {L}.
+WHAT DID I DO? While this character has 10 {S} or more, she gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1728,7 +1728,7 @@ Ward (Opponents can't choose this character except to challenge.)
 
 TAKE THAT! Whenever you play an action, this character gets +2 {S} this turn.
 
-WHO'S NEXT? While this character has 7 {S} or more, he gets +2 {L}.
+WHO'S NEXT? While this character has 7 {S} or more, he gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1764,7 +1764,7 @@ DON'T INSULT MY INTELLIGENCE Whenever one of your characters challenges another 
 
 GOOD ADVICE Your other characters gain Support. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
 
-WHAT DID I DO? While this character has 10 {S} or more, she gets +4 {L}.
+WHAT DID I DO? While this character has 10 {S} or more, she gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 

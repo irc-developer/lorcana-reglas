@@ -182,13 +182,13 @@ Habilidad representada por un nombre corto en negrita que se usa de forma consis
 
 ### Localización (location)
 
-Carta con “Localización” en su línea de clasificación. Se coloca en la zona de juego al jugarse. Tiene coste de juego, coste de movimiento {M} y Voluntad {W}. Puede ser desafiada y desterrada al alcanzar daño igual o mayor que su {W}. Puede otorgar leyenda {L} al inicio del turno. Puede tener habilidades activadas usables el turno en que entra. No más de 4 copias con el mismo nombre completo.
+Carta con “Localización” en su línea de clasificación. Se coloca en la zona de juego al jugarse. Tiene coste de juego, coste de movimiento {M} y Voluntad {W}. Puede ser desafiada y desterrada al alcanzar daño igual o mayor que su {W}. Puede otorgar leyenda  ![[imagenes/lore.svg|20]] al inicio del turno. Puede tener habilidades activadas usables el turno en que entra. No más de 4 copias con el mismo nombre completo.
 
 ### Leyenda (lore)
 
 Recurso que los jugadores compiten por obtener. El primero en alcanzar 20 gana la partida.
 
-### Valor de leyenda {L} (Lore value)
+### Valor de leyenda  ![[imagenes/lore.svg|20]] (Lore value)
 
 Característica que indica cuánta leyenda puede generar la carta por turno. En personajes, al buscar leyenda; en localizaciones, al inicio del turno.
 
@@ -248,7 +248,7 @@ Zona donde las cartas son de conocimiento público. Los jugadores pueden mirarla
 
 ### Buscar leyenda (quest)
 
-Cuando un jugador gira un personaje para ganar leyenda igual a su valor de leyenda {L}. Un personaje no puede buscar leyenda el turno que se juega.
+Cuando un jugador gira un personaje para ganar leyenda igual a su valor de leyenda  ![[imagenes/lore.svg|20]]. Un personaje no puede buscar leyenda el turno que se juega.
 
 ### Preparado (ready)
 

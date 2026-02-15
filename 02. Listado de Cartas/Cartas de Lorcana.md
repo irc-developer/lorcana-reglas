@@ -62,7 +62,7 @@
 
 **Habilidades:**
 - Shift 6
-- Sinister Plot - This character gets +1 {l} for each other Villain character you have in play.
+- Sinister Plot - This character gets +1  ![[imagenes/lore.svg|20]] for each other Villain character you have in play.
 
 ---
 
@@ -1328,7 +1328,7 @@
 
 
 **Habilidades:**
-- Lead By Example - During your turn, whenever this character banishes another character in a challenge, your other characters get +1 {l} this turn.
+- Lead By Example - During your turn, whenever this character banishes another character in a challenge, your other characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1594,7 +1594,7 @@
 
 **Habilidades:**
 - Read A Book - During your turn, you may put an additional card from your hand into your inkwell facedown.
-- My Favorite Part! - While you have 10 or more cards in your inkwell, this character gets +4 {l}.
+- My Favorite Part! - While you have 10 or more cards in your inkwell, this character gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1783,7 +1783,7 @@
 
 **Habilidades:**
 - What Have We Here? - When you play this character and whenever he quests, you may return an item card from your discard to your hand.
-- Glam - This character gets +1 {l} for each item you have in play.
+- Glam - This character gets +1  ![[imagenes/lore.svg|20]] for each item you have in play.
 
 ---
 
@@ -1870,7 +1870,7 @@
 
 
 **Habilidades:**
-- See The Future - ![[imagenes/exert.svg|20]] - Chosen character gets +1 {l} this turn.
+- See The Future - ![[imagenes/exert.svg|20]] - Chosen character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -2132,7 +2132,7 @@
 
 
 **Habilidades:**
-- Aye Aye, Captain - While you have a Captain character in play, this character gets +1 {l}.
+- Aye Aye, Captain - While you have a Captain character in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -2902,7 +2902,7 @@ Rush (This character can challenge the turn they're played.)
 
 
 **Habilidades:**
-- Battle Of Wits: Whenever one of your other characters is returned to your hand from play, this characters get +1 {l} this turn.
+- Battle Of Wits: Whenever one of your other characters is returned to your hand from play, this characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -3101,7 +3101,7 @@ Chosen character gains Challenger +3 this turn. (They get +3 {s} while challengi
 
 
 **Habilidades:**
-- Use Your Imagination: While an opponent has no cards in their hand, this character gets +2 {l}.
+- Use Your Imagination: While an opponent has no cards in their hand, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -3233,7 +3233,7 @@ You're In My World: Whenever this character quests, chosen opposing character ca
 **Habilidades:**
 - Shift 2 (You may 2 {i} to play this on top of one of your characters named Flynn Rider.)
 Evasive (Only characters with Evasive can challenge this character.)
-One Last, Big Score: This character gets -1 {l} for each card in your opponents' hands.
+One Last, Big Score: This character gets -1  ![[imagenes/lore.svg|20]] for each card in your opponents' hands.
 
 ---
 
@@ -3277,7 +3277,7 @@ One Last, Big Score: This character gets -1 {l} for each card in your opponents'
 
 
 **Habilidades:**
-- Coming, Your Most Lugubriousness: While this character has 5 {s} or more, he gets +2 {l}.
+- Coming, Your Most Lugubriousness: While this character has 5 {s} or more, he gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -3303,7 +3303,7 @@ One Last, Big Score: This character gets -1 {l} for each card in your opponents'
 **Habilidades:**
 - Ward (Opponents can't choose this character except to challenge.)
 Take That!: Whenever you play an action, this character gets +2 {s} this turn.
-Who's Next?: While this character has 7 {s} or more, he gets +2 {l}.
+Who's Next?: While this character has 7 {s} or more, he gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -3364,7 +3364,7 @@ I Sentence You: Whenever your opponents discards 1 or more cards, you may draw a
 
 
 **Habilidades:**
-- A Perfect Disguise: ![[imagenes/exert.svg|20]], Choose and discard a character card - Gain lore equal to the discarded character's {l}.
+- A Perfect Disguise: ![[imagenes/exert.svg|20]], Choose and discard a character card - Gain lore equal to the discarded character's  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -3496,7 +3496,7 @@ Return chosen character of your to your hand to play another character with the 
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this character.)
  
- Phooey!: This character gets +1 {l} for each 1 damage on him.
+ Phooey!: This character gets +1  ![[imagenes/lore.svg|20]] for each 1 damage on him.
 
 ---
 
@@ -3591,7 +3591,7 @@ Return chosen character of your to your hand to play another character with the 
 **Habilidades:**
 - Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Minnie Mouse.)
 Evasive (Only Characters with Evasive can challenge this character.)
-Undersea Adventure: Whenever you play a second action in a turn, this character gets +2 {l} this turn.
+Undersea Adventure: Whenever you play a second action in a turn, this character gets +2  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -3859,7 +3859,7 @@ Chosen character gains Evasive until the start of your next turn. (Only characte
 
 **Habilidades:**
 - Good Advice - Your other characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)
- What Did I Do? - While this character has 10 {s} or more, she gets +4 {l}.
+ What Did I Do? - While this character has 10 {s} or more, she gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -4707,7 +4707,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 **Habilidades:**
 - Good As New - ![[imagenes/exert.svg|20]]: Reveal the top 3 cards of your deck. You may put each character card with cost 2 or less into your hand. Put the rest on the bottom of your deck in any order.
-- Puppy Love - Whenever this character quests, if you have 4 or more other characters in play, your other characters get +1{l} this turn.
+- Puppy Love - Whenever this character quests, if you have 4 or more other characters in play, your other characters get +1 ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -4796,7 +4796,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- And I'm The Captain! - While you have 2 or more other characters in play, this character gets +2{l}.
+- And I'm The Captain! - While you have 2 or more other characters in play, this character gets +2 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -4846,7 +4846,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- All Ways Here Are My Ways - Whenever this character quests, your other Villain characters get +1{l} this turn.
+- All Ways Here Are My Ways - Whenever this character quests, your other Villain characters get +1 ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -5399,7 +5399,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 **Habilidades:**
 - Broom Closet - Your characters named Magic Broom may move here for free.
-- Magical Power - Characters get +1{l} while here.
+- Magical Power - Characters get +1 ![[imagenes/lore.svg|20]] while here.
 
 ---
 
@@ -5567,7 +5567,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- I Came To Listen To The Stories - Once per turn, when this character moves to a location, gain lore equal to that location's {l}.
+- I Came To Listen To The Stories - Once per turn, when this character moves to a location, gain lore equal to that location's  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -5695,7 +5695,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- It's Time To Go! - While this character is at a location, he gets +1{l}.
+- It's Time To Go! - While this character is at a location, he gets +1 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -5927,7 +5927,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 **Habilidades:**
 - Reckless
-- In Ma Belly - Whenever a character of yours named HeiHei quests, this character gets +1{l} and loses Reckless this turn.
+- In Ma Belly - Whenever a character of yours named HeiHei quests, this character gets +1 ![[imagenes/lore.svg|20]] and loses Reckless this turn.
 
 ---
 
@@ -6082,7 +6082,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Old Betsy - Your characters named Nutsy get +1{l}.
+- Old Betsy - Your characters named Nutsy get +1 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -6113,7 +6113,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 **Habilidades:**
 - (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
-- Ready chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's {l}.
+- Ready chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -6532,7 +6532,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Number One - ![[imagenes/exert.svg|20]], 2{i}: Choose a character of yours and gain lore equal to their {l}.
+- Number One - ![[imagenes/exert.svg|20]], 2{i}: Choose a character of yours and gain lore equal to their  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -6655,7 +6655,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Chart Your Own Course - For each location you have in play, this character gains Resist +1 and gets +1{l}. (Damage dealt to them is reduced by 1.)
+- Chart Your Own Course - For each location you have in play, this character gains Resist +1 and gets +1 ![[imagenes/lore.svg|20]]. (Damage dealt to them is reduced by 1.)
 
 ---
 
@@ -6680,7 +6680,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 **Habilidades:**
 - Shift 4
-- Okay, Big Shot - While this character is exerted, your characters with Bodyguard gain Resist +1 and get +1{l}.
+- Okay, Big Shot - While this character is exerted, your characters with Bodyguard gain Resist +1 and get +1 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -7027,7 +7027,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 **Habilidades:**
 - Singer 9 (This character counts as cost 9 to sing songs.)
-Beautiful Voice - Whenever this character sings a song, your other Princess characters get +1{l} this turn.
+Beautiful Voice - Whenever this character sings a song, your other Princess characters get +1 ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -7072,7 +7072,7 @@ Beautiful Voice - Whenever this character sings a song, your other Princess char
 
 **Habilidades:**
 - Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
-Wait For Me! - When you play this character, chosen character gets +1{l} this turn.
+Wait For Me! - When you play this character, chosen character gets +1 ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -7193,7 +7193,7 @@ Dramatic Entrance - When you play this character, banish chosen opposing charact
 
 **Habilidades:**
 - Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)
-Saving the Miracle - Whenever this character quests, your other Madrigal characters ger +1{l} this turn.
+Saving the Miracle - Whenever this character quests, your other Madrigal characters ger +1 ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -7449,7 +7449,7 @@ You Just Have to See It - ![[imagenes/exert.svg|20]]: Name a card, then reveal t
 
 **Habilidades:**
 - Many Forms - At the start of your turn, you may choose one:
-- This character gets +1{l} this turn.
+- This character gets +1 ![[imagenes/lore.svg|20]] this turn.
 - This character gains Challenger +2 this turn. (While challenging, this character gets +2{s}.)
 
 ---
@@ -7513,7 +7513,7 @@ Ominous Pair - Your characters named Jetsam gain "When this character is banishe
 
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this character.)
-Ladies First - During your turn, if no other character has quested this turn, this character gets +3{l}.
+Ladies First - During your turn, if no other character has quested this turn, this character gets +3 ![[imagenes/lore.svg|20]].
 Leave it to me - Whenever this character quests, your other characters can't quest for the rest of this turn.
 
 ---
@@ -7676,7 +7676,7 @@ You'll Listen to Me! - Other characters can't exert to sing songs.
 
 **Habilidades:**
 - Timely Intervention - When you play this character, if you have a character named Magic Broom in play, you may draw a card.
-Arcane Study - While you have 2 or more Broom characters in play, this character gets +2{l}.
+Arcane Study - While you have 2 or more Broom characters in play, this character gets +2 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -7733,7 +7733,7 @@ Chosen player draws 5 cards.
 
 
 **Habilidades:**
-- Dispel the Entanglement - Banish this item: Chosen character named Beast gets +2{l} this turn. If you have a character named Belle in play, Move up to 3 damage counters from chosen character to chosen opposing character.
+- Dispel the Entanglement - Banish this item: Chosen character named Beast gets +2 ![[imagenes/lore.svg|20]] this turn. If you have a character named Belle in play, Move up to 3 damage counters from chosen character to chosen opposing character.
 
 ---
 
@@ -7780,7 +7780,7 @@ Chosen player draws 5 cards.
 
 **Habilidades:**
 - Slippery Halls - Whenever a character is banished in a challenge while here, you may return them to your hand.
-Seat of Power - Characters named Ursula get +1{l} while here.
+Seat of Power - Characters named Ursula get +1 ![[imagenes/lore.svg|20]] while here.
 
 ---
 
@@ -8178,7 +8178,7 @@ Trapped! Damage counters can't be removed.
 
 
 **Habilidades:**
-- Abandon Hope - While you have an exerted character here, opposing characters get -1{l}.
+- Abandon Hope - While you have an exerted character here, opposing characters get -1 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -8289,7 +8289,7 @@ Super Peanut Powers: Whenever this character challenges another character, gain 
 
 **Habilidades:**
 - Shift: Discard a character card (You may discard a character card to play this on top of one of your characters name Li Shang.)
-Lead the Charge: Your characters with 4{s} or more get +1{l}.
+Lead the Charge: Your characters with 4{s} or more get +1 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -8587,7 +8587,7 @@ Each opponent chooses and banishes one of their characters.
 
 
 **Habilidades:**
-- I Was Born Ready: If you have another Hero character in play, this character gets +1{l}.
+- I Was Born Ready: If you have another Hero character in play, this character gets +1 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -8599,7 +8599,7 @@ Each opponent chooses and banishes one of their characters.
 
 
 **Habilidades:**
-- Let Me Help You: Whenever this character quests, your other Hero characters get +1{l} this turn.
+- Let Me Help You: Whenever this character quests, your other Hero characters get +1 ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -8612,7 +8612,7 @@ Each opponent chooses and banishes one of their characters.
 
 **Habilidades:**
 - Ward (Opponents can't choose this character except to challenge.)
-The Girl Who Has Everything: While you have more items in play than each opponent, this character gets +2{l}.
+The Girl Who Has Everything: While you have more items in play than each opponent, this character gets +2 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -8955,7 +8955,7 @@ Awaken: ![[imagenes/exert.svg|20]] - Put a character card from your discard into
 
 
 **Habilidades:**
-- Treasure Trove: While you have 3 or more items in play, this location gets +2 {l}.
+- Treasure Trove: While you have 3 or more items in play, this location gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -9045,7 +9045,7 @@ Amplified Voice: Whenever you play a song, you may pay 2{i} to deal 3 damage to 
 
 
 **Habilidades:**
-- Overly Cautious: While this character has no damage, he gets +2{l}.
+- Overly Cautious: While this character has no damage, he gets +2 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -9069,7 +9069,7 @@ Amplified Voice: Whenever you play a song, you may pay 2{i} to deal 3 damage to 
 
 
 **Habilidades:**
-- Boarding Party: During your turn, whenever this character banishes a character in a challenge, your other characters get +1 {l} this turn.
+- Boarding Party: During your turn, whenever this character banishes a character in a challenge, your other characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -10124,7 +10124,7 @@ turn.
 
 **Habilidades:**
 - Imitate: Whenever this character quests, you
-may gain lore equal to the {l} of chosen other
+may gain lore equal to the  ![[imagenes/lore.svg|20]] of chosen other
 character of yours. Return that character to your
 hand.
 
@@ -10512,7 +10512,7 @@ character.
 **Habilidades:**
 - Shift 3 (You may pay 3{i} to play this on top of
 one of your characters named Robin Hood.)
-Clever Plan: This character gets +1{l} for each
+Clever Plan: This character gets +1 ![[imagenes/lore.svg|20]] for each
 opposing damaged character in play.
 
 ---
@@ -11101,7 +11101,7 @@ Whenever one of your characters with Reckless challenges another character this 
 
 
 **Habilidades:**
-- Misfits' Revelry: While you have a damaged character here, this location gets +2{l}.
+- Misfits' Revelry: While you have a damaged character here, this location gets +2 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -11188,7 +11188,7 @@ Perfect Directions: At the start of your turn, if you have a location in play, g
 **Habilidades:**
 - Shift 3 (You may pay 3{i} to play this on top of one of your characters named The Queen.)
 Ward (Opponents can't choose this character except to challenge.)
-Reflections of Vanity: For each other character named The Queen you have in play, this character gets +1{l}.
+Reflections of Vanity: For each other character named The Queen you have in play, this character gets +1 ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -11439,7 +11439,7 @@ Remove up to 2 damage from any number of chosen characters.
 
 
 **Habilidades:**
-- Congratulations, Soldier: ![[imagenes/exert.svg|20]], 2{i}, Banish this item - Chosen character of yours gets +2{l} this turn.
+- Congratulations, Soldier: ![[imagenes/exert.svg|20]], 2{i}, Banish this item - Chosen character of yours gets +2 ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -11485,7 +11485,7 @@ Sapphire Light: ![[imagenes/exert.svg|20]], 2{i}, Banish one of your items - Gai
 
 
 **Habilidades:**
-- Warm Welcome: Characters with Support get +1{l} and +2{w} while here.
+- Warm Welcome: Characters with Support get +1 ![[imagenes/lore.svg|20]] and +2{w} while here.
 
 ---
 
@@ -11958,7 +11958,7 @@ We're Pirates, You See: Whenever this character quests, you may pay 1 {i} less f
 
 
 **Habilidades:**
-- DALE'S PARTNER - When you play this character, chosen character gets +1 {l} this turn.
+- DALE'S PARTNER - When you play this character, chosen character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -11982,7 +11982,7 @@ We're Pirates, You See: Whenever this character quests, you may pay 1 {i} less f
 
 
 **Habilidades:**
-- SHOWING OFF - While you have a character named Nani in play, this character gets +2 {l}.
+- SHOWING OFF - While you have a character named Nani in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -12085,7 +12085,7 @@ Need Some Help?: At the end of your turn, you may ready another chosen character
 
 
 **Habilidades:**
-- FIND IT! - Whenever this character quests, your other Alien characters get +1 {l} this turn.
+- FIND IT! - Whenever this character quests, your other Alien characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -12208,7 +12208,7 @@ Hire a Crew: When you play this character, look at the top 4 cards of your deck.
 
 
 **Habilidades:**
-- Chosen character gets +1 {l} this turn.
+- Chosen character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -12451,7 +12451,7 @@ Zim Zabberim Bim: Your other characters gain Challenger +1.
 **Habilidades:**
 - Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Tinker Bell.)
 Evasive (Only characters with Evasive can challenge this character.)
-Shining Example: Whenever this character quests, your other Fairy characters get +1 {l} this turn.
+Shining Example: Whenever this character quests, your other Fairy characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -12825,7 +12825,7 @@ Stop Whining, Women Up: When you play this character, you may pay 2 {i} to gain 
 
 
 **Habilidades:**
-- CAPTAIN ON DECK - While you have a Captain character in play, this character gets +2 {l}.
+- CAPTAIN ON DECK - While you have a Captain character in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -13159,7 +13159,7 @@ Mariner's Might: Whenever this character quests, chosen Pirate character gets +2
 
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this character.)
-Look Lively, Crew!: While you have another Pirate character in play, this character gets +1 {s} and +1 {l}.
+Look Lively, Crew!: While you have another Pirate character in play, this character gets +1 {s} and +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -13247,7 +13247,7 @@ Look Lively, Crew!: While you have another Pirate character in play, this charac
 
 
 **Habilidades:**
-- KEEP DRIVING - While this character has damage, she gets +1 {l}.
+- KEEP DRIVING - While this character has damage, she gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -13364,7 +13364,7 @@ Wayfinding: Whenever you play an action, gain 1 lore.
 
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this character.)
-Swash Your Buckles: Whenever you play an action, this character gets +1 {s} and +1 {l} this turn.
+Swash Your Buckles: Whenever you play an action, this character gets +1 {s} and +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -13508,7 +13508,7 @@ Swash Your Buckles: Whenever you play an action, this character gets +1 {s} and 
 
 
 **Habilidades:**
-- HAPPY TO HELP - Whenever this character quests, chosen Inventor character gets +1 {l} this turn.
+- HAPPY TO HELP - Whenever this character quests, chosen Inventor character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -13520,7 +13520,7 @@ Swash Your Buckles: Whenever you play an action, this character gets +1 {s} and 
 
 
 **Habilidades:**
-- BRAINSTORM - Whenever you play an item, this character gets +1 {l} this turn.
+- BRAINSTORM - Whenever you play an item, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -13774,7 +13774,7 @@ Technical Gain: Whenever this character quests, draw a card for each opposing ch
 
 **Habilidades:**
 - Ward (Opponents can’t choose this character except to challenge.) 
-Ahoy!: Whenever this character quests, another chosen character of yours gets +1 {l} and gains Ward until the start of your next turn.
+Ahoy!: Whenever this character quests, another chosen character of yours gets +1  ![[imagenes/lore.svg|20]] and gains Ward until the start of your next turn.
 
 ---
 
@@ -14391,7 +14391,7 @@ Bolt Stare: ![[imagenes/exert.svg|20]] - Banish chosen Illusion character.
 
 **Habilidades:**
 - Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
-NO THANKS NECESSARY: Once during your turn, whenever a card is put into your inkwell, your other characters with Bodyguard get +1 {l} this turn.
+NO THANKS NECESSARY: Once during your turn, whenever a card is put into your inkwell, your other characters with Bodyguard get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -14480,7 +14480,7 @@ SWEET DREAMS: Whenever you remove 1 or more damage from a character, ready this 
 
 **Habilidades:**
 - I SEE YOU: While you have a character named
-Dolores Madrigal in play, this character gets +1 {l}.
+Dolores Madrigal in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -14614,7 +14614,7 @@ BACK TO START POSITIONS!: Whenever this character challenges another character, 
 
 
 **Habilidades:**
-- OUTFLANK: During your turn, whenever one of your other characters is banished, this character gets +1 {l} this turn.
+- OUTFLANK: During your turn, whenever one of your other characters is banished, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -14663,8 +14663,8 @@ SOMETHING WONDERFUL: When you play this character, you may return up to 2 charac
 
 
 **Habilidades:**
-- GATHER AROUND: Whenever you play a character, this character gets +1 {l} this turn.
-JUST ONE MORE: Whenever this character quests, chosen opposing character loses {s} equal to this character's {l} until the start of your next turn.
+- GATHER AROUND: Whenever you play a character, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
+JUST ONE MORE: Whenever this character quests, chosen opposing character loses {s} equal to this character's  ![[imagenes/lore.svg|20]] until the start of your next turn.
 
 ---
 
@@ -15468,7 +15468,7 @@ IF I LOSE MY TEMPER...: Whenever another character is played, put a damage count
 
 
 **Habilidades:**
-- A DOG'S LIFE: While you have a character named Tramp in play, this character gets +1 {l}.
+- A DOG'S LIFE: While you have a character named Tramp in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -15492,7 +15492,7 @@ IF I LOSE MY TEMPER...: Whenever another character is played, put a damage count
 
 
 **Habilidades:**
-- FULL PACK: While you have more cards in your hand than each opponent, this character gets +2 {l}.
+- FULL PACK: While you have more cards in your hand than each opponent, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -15936,7 +15936,7 @@ GUARDIAN OF LOST SOULS During your turn, whenever one of your characters banishe
 
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this character.)
-STAR POWER Whenever this character challenges another character, your other characters get +1 {l} this turn.
+STAR POWER Whenever this character challenges another character, your other characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -16903,7 +16903,7 @@ your next turn.
 
 **Habilidades:**
 - HOW SWEET: When you play this character,
-chosen character gets +2 {l} this turn.
+chosen character gets +2  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -16917,7 +16917,7 @@ chosen character gets +2 {l} this turn.
 **Habilidades:**
 - WE'VE GOT 'EM OUTNUMBERED: While you have 3
 or more Puppy characters in play, this character
-gets +2 {s} and +2 {l}.
+gets +2 {s} and +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -17043,7 +17043,7 @@ discard to your hand. If you do, gain 1 lore.
 - Ward (Opponents can't choose this character
 except to challenge.)
 PUPPY BARKING While you have another Puppy
-character in play, this character gets +1 {l}.
+character in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -17161,7 +17161,7 @@ LOOT DROP When this character is banished, gain 1 lore.
 - PACK OF HER OWN: Whenever you play a
 character, this character gets +1 {s} this turn.
 TAKE THE LEAD While this character has 3 {s} or
-more, she gets +2 {l}.
+more, she gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -17398,7 +17398,7 @@ to chosen character.
 - Vanish (When an opponent chooses this character
 for an action, banish them.)
 GRASPING TRUNK Whenever this character
-quests, gain lore equal to the {l} of chosen
+quests, gain lore equal to the  ![[imagenes/lore.svg|20]] of chosen
 opposing character.
 
 ---
@@ -18150,7 +18150,7 @@ character.
 
 **Habilidades:**
 - COUNT OFF!: While there are 5 or more characters
-with damage in play, this character gets +3 {l}.
+with damage in play, this character gets +3  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -18498,7 +18498,7 @@ challenge the turn they're played.)
 
 **Habilidades:**
 - AT HER SIDE: While you have 2 or more other exerted
-characters in play, this character gets +2 {l}.
+characters in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -18606,7 +18606,7 @@ your characters named Lumiere.)
 Evasive (Only characters with Evasive can challenge
 this character.)
 SACREBLEU! Whenever one of your items is
-banished, this character gets +1 {l} this turn.
+banished, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -18687,7 +18687,7 @@ this character is banished, you may draw a card.
 challenge this character.)
 PRECOCIOUS FRIEND While you have a character
 in play with more {s} than each opposing
-character, this character gets +2 {l}.
+character, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -19798,7 +19798,7 @@ character you play this turn.
 **Habilidades:**
 - ALL WAYS HERE ARE MY WAYS: Whenever this
 character quests, your other Villain characters get
-+1 {l} this turn.
++1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -20131,7 +20131,7 @@ your next turn.
 **Habilidades:**
 - LET'S SHOW 'EM, DUMBO!: While you have a
 character with Evasive in play, this character
-gets +1 {l}.
+gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -20196,7 +20196,7 @@ character in play, you may draw a card.
 **Habilidades:**
 - MANY FORMS: At the start of your turn, you may
 choose one:
-- This character gets +1 {l} this turn.
+- This character gets +1  ![[imagenes/lore.svg|20]] this turn.
 - This character gains Challenger +2 this turn.
 (While challenging, this character gets +2 {s}.)
 
@@ -20979,7 +20979,7 @@ your characters named Mickey Mouse.)
 Evasive (Only characters with Evasive can challenge this
 character.)
 CROWNING ACHIEVEMENT While this character has a card
-under him, he gets +3 {s}, +3 {w}, and +3 {l}.
+under him, he gets +3 {s}, +3 {w}, and +3  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -21007,7 +21007,7 @@ move to locations.
 
 **Habilidades:**
 - CONCERT LOVER: While you have a character with
-Singer in play, this character gets +1 {s} and +1 {l}.
+Singer in play, this character gets +1 {s} and +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -21325,7 +21325,7 @@ then banish them.
 
 **Habilidades:**
 - LET ME HELP YOU: Whenever this character
-quests, your other Hero characters get +1 {l}
+quests, your other Hero characters get +1  ![[imagenes/lore.svg|20]]
 this turn.
 
 ---
@@ -21450,7 +21450,7 @@ with Evasive.)
 
 **Habilidades:**
 - I WAS BORN READY While you have another Hero
-character in play, this character gets +1 {l}.
+character in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -21638,7 +21638,7 @@ inkwell facedown.
 Support. (Whenever they quest, you may add their
 {s} to another chosen character's {s} this turn.)
 WHAT DID I DO? While this character has 10 {s}
-or more, she gets +4 {l}.
+or more, she gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -21808,7 +21808,7 @@ Hero character, gain 1 lore.
 
 **Habilidades:**
 - DETERMINED DIVERSION: While this character has
-no damage, she gets +1 {l} and gains Resist +1.
+no damage, she gets +1  ![[imagenes/lore.svg|20]] and gains Resist +1.
 (Damage dealt to them is reduced by 1.)
 
 ---
@@ -22068,7 +22068,7 @@ Fire the Cannons! from your discard to your hand.
 
 **Habilidades:**
 - CHART YOUR OWN COURSE: For each location you have
-in play, this character gains Resist +1 and gets +1 {l}.
+in play, this character gains Resist +1 and gets +1  ![[imagenes/lore.svg|20]].
 (Damage dealt to them is reduced by 1.)
 
 ---
@@ -22325,7 +22325,7 @@ damage instead.
 
 **Habilidades:**
 - FABULOUS WEALTH: When you play this character,
-chosen character with a card under them gets +1 {l}
+chosen character with a card under them gets +1  ![[imagenes/lore.svg|20]]
 this turn.
 
 ---
@@ -22340,7 +22340,7 @@ this turn.
 **Habilidades:**
 - I'VE READ ABOUT THIS While you have a character
 or location in play with a card under them, this
-character gets +1 {l}.
+character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -22889,7 +22889,7 @@ your hand.
 **Habilidades:**
 - GRAND MACHINATIONS: During your turn, if 1 or
 more cards have left a player's discard this turn,
-this character gets +2 {l}.
+this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -23035,7 +23035,7 @@ in a challenge, if he had a card under him, draw 2 cards.
 1 {i} to put the top card of your deck facedown
 under this character.)
 SLIPPERY SPELL While there's a card under this
-character, she gets +1 {l} and gains Evasive. (Only
+character, she gets +1  ![[imagenes/lore.svg|20]] and gains Evasive. (Only
 characters with Evasive can challenge them.)
 
 ---
@@ -23103,7 +23103,7 @@ characters.
 
 **Habilidades:**
 - ![[imagenes/exert.svg|20]] chosen ready character of yours to draw cards equal
-to that character's {l}.
+to that character's  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -23315,7 +23315,7 @@ with Boost.
 2 {i} to put the top card of your deck facedown
 under this character.)
 I'LL TAKE THAT While there's a card under this
-character, he gets +2 {s} and +1 {l}.
+character, he gets +2 {s} and +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -23383,7 +23383,7 @@ choose one:
 to put the top card of your deck facedown under this
 character.)
 I'LL BE FINE While there's a card under this
-character, she gets +1 {l} and gains "Whenever this
+character, she gets +1  ![[imagenes/lore.svg|20]] and gains "Whenever this
 character is challenged, each opponent chooses and
 discards a card."
 
@@ -23525,7 +23525,7 @@ banish chosen item.
 - (A character with cost 6 or more can ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Choose one:
-- Each opposing character gets -1 {l} until the start of
+- Each opposing character gets -1  ![[imagenes/lore.svg|20]] until the start of
 your next turn.
 - Each opponent chooses and discards 2 cards.
 
@@ -23579,7 +23579,7 @@ if able.)
 
 **Habilidades:**
 - BACKTRACK: ![[imagenes/exert.svg|20]], 1 {i} - Chosen opposing character
-gets -1 {l} until the start of your next turn.
+gets -1  ![[imagenes/lore.svg|20]] until the start of your next turn.
 
 ---
 
@@ -23619,7 +23619,7 @@ gain 1 lore.
 
 
 **Habilidades:**
-- PURE LIQUID GOLD: This location gets +1 {l} for each character here.
+- PURE LIQUID GOLD: This location gets +1  ![[imagenes/lore.svg|20]] for each character here.
 
 ---
 
@@ -23876,7 +23876,7 @@ hand, this character can't ready.
 - HIGH ENERGY: Your other Ruby characters
 get +1 {s}.
 POWERFUL REWARD Your other Ruby characters
-with 7 {s} or more get +1 {l}.
+with 7 {s} or more get +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -23890,7 +23890,7 @@ with 7 {s} or more get +1 {l}.
 **Habilidades:**
 - SPECIAL DETAIL: While you have 2 or more
 other characters in play with 5 {s} or more, this
-character gets +2 {l}.
+character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -24442,7 +24442,7 @@ of your deck and the rest on the bottom in any order.
 
 
 **Habilidades:**
-- Chosen character gets +1 {l} and gains Support this turn.
+- Chosen character gets +1  ![[imagenes/lore.svg|20]] and gains Support this turn.
 (Whenever they quest, you may add their {s} to another chosen
 character's {s} this turn.)
 
@@ -25004,7 +25004,7 @@ location.
 
 **Habilidades:**
 - SUBTERRANEAN NETWORK: While you have a character here, this location gets
-+1 {l} for each other location you have in play.
++1  ![[imagenes/lore.svg|20]] for each other location you have in play.
 LOCUS While you have a character here, you pay 1 {i} less to play locations.
 
 ---

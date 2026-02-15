@@ -1,7 +1,7 @@
 ### Pregunta
 Si **Lilo - Bundled Up** 
 
-**_EXTRA LAYERS** During each opponent's turn, the first time this character would take damage, she takes no damage instead._
+_**EXTRA LAYERS** During each opponent's turn, the first time this character would [[1.9. Daño (Damage)#1.9.1.5. Take|take]] damage, she takes no damage instead._
 
 tiene **Resist +2**, y luego:
 - Es objetivo de [[Cartas de Lorcana#Fire The Cannons!|Fire the Cannons!]].
@@ -23,4 +23,5 @@ En concreto: ¿se dispara el “escudo” con el daño del action pero no con el
 - **Fire the Cannons!**→ el “escudo” se aplica primero, **Resist no entra**.
 - **Desafío** → **Resist se aplica primero**; el “escudo” solo se aplica si aún queda daño por infligir.
 - La interacción con resist es aplicable también a habilidades como las de [[Cartas de Lorcana#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]] y [[Cartas de Lorcana#Hercules - Mighty Leader|Hercules - Mighty Leader]] en lo que refiere a perder el escudo si tienen resist.
+#Resist #Replacement-Effect #challenge 
 

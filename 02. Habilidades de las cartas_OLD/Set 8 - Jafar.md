@@ -144,7 +144,7 @@ TINY HOWL When you play this character, chosen opposing character gets -1 {S} un
 
 ### [[Darling Dear - Beloved Wife]]
 
-HOW SWEET When you play this character, chosen character gets +2 {L} this turn.
+HOW SWEET When you play this character, chosen character gets +2  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -152,7 +152,7 @@ HOW SWEET When you play this character, chosen character gets +2 {L} this turn.
 
 ### [[The Colonel - Old Sheepdog]]
 
-WE'VE GOT 'EM OUTNUMBERED While you have 3 or more Puppy characters in play, this character gets +2 {S} and +2 {L}.
+WE'VE GOT 'EM OUTNUMBERED While you have 3 or more Puppy characters in play, this character gets +2 {S} and +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -226,7 +226,7 @@ BACK ON TRACK When you play this character and whenever he quests, you may retur
 
 Ward (Opponents can't choose this character except to challenge.)
 
-PUPPY BARKING While you have another Puppy character in play, this character gets +1 {L}.
+PUPPY BARKING While you have another Puppy character in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -300,7 +300,7 @@ LOOT DROP When this character is banished, gain 1 lore.
 
 PACK OF HER OWN Whenever you play a character, this character gets +1 {S} this turn.
 
-TAKE THE LEAD While this character has 3 {S} or more, she gets +2 {L}.
+TAKE THE LEAD While this character has 3 {S} or more, she gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -454,7 +454,7 @@ SUPERNATURAL VENGEANCE {E} – Deal 1 damage to chosen character.
 
 Vanish (When an opponent chooses this character for an action, banish them.)
 
-GRASPING TRUNK Whenever this character quests, gain lore equal to the {L} of chosen opposing character.
+GRASPING TRUNK Whenever this character quests, gain lore equal to the  ![[imagenes/lore.svg|20]] of chosen opposing character.
 
 ---
 
@@ -932,7 +932,7 @@ ACCIDENT PRONE Whenever this character quests, put 1 damage counter on each othe
 
 ### [[Queen of Hearts - Haughty Monarch]]
 
-COUNT OFF! While there are 5 or more characters with damage in play, this character gets +3 {L}.
+COUNT OFF! While there are 5 or more characters with damage in play, this character gets +3  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1170,7 +1170,7 @@ LET'S GET THIS SHOW ON THE ROAD {E} — Chosen character gains Rush this turn. (
 
 ### [[Cri-Kee - Part of the Team]]
 
-AT HER SIDE While you have 2 or more other exerted characters in play, this character gets +2 {L}.
+AT HER SIDE While you have 2 or more other exerted characters in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1240,7 +1240,7 @@ Shift 3 (You may pay 3 {I} to play this on top of one of your characters named L
 
 Evasive, Ward
 
-SACREBLEU!: Whenever one of your items is banished, this character gets +1 {L} this turn.
+SACREBLEU!: Whenever one of your items is banished, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1294,7 +1294,7 @@ DOUBLE-CROSSING CROOK! During your turn, when this character is banished, you ma
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-PRECOCIOUS FRIEND While you have a character in play with more {S} than each opposing character, this character gets +2 {L}.
+PRECOCIOUS FRIEND While you have a character in play with more {S} than each opposing character, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1790,7 +1790,7 @@ ROLL WITH THE PUNCHES {E}, 1 {I} — Chosen character with no damage gains Resis
 
 PACK OF HER OWN Whenever you play a character, this character gets +1 {S} this turn.
 
-TAKE THE LEAD While this character has 3 {S} or more, she gets +2 {L}.
+TAKE THE LEAD While this character has 3 {S} or more, she gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 

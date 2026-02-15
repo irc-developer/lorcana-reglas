@@ -40,7 +40,7 @@ WE'RE PIRATES, YOU SEE Whenever this character quests, you pay 1 {I} less for th
 
 ### [[Chip - Friend Indeed]]
 
-DALE'S PARTNER When you play this character, chosen character gets +1 {L} this turn.
+DALE'S PARTNER When you play this character, chosen character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -56,7 +56,7 @@ CHIP'S PARTNER This character enters play exerted unless you have a character na
 
 ### [[David - Impressive Surfer]]
 
-SHOWING OFF While you have a character named Nani in play, this character gets +2 {L}.
+SHOWING OFF While you have a character named Nani in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -134,7 +134,7 @@ SPECIAL RESERVATION Whenever a character of yours is challenged while this chara
 
 ### [[Grand Councilwoman - Federation Leader]]
 
-FIND IT! Whenever this character quests, your other Alien characters get +1 {L} this turn.
+FIND IT! Whenever this character quests, your other Alien characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -220,7 +220,7 @@ NEED A HAND? 1 {I} - This character gets +1 {S} this turn.
 
 ### [[Good Job!]]
 
-Chosen character gets +1 {L} this turn.
+Chosen character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -392,7 +392,7 @@ Shift 5 (You may pay 5 {I} to play this on top of one of your characters named T
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-SHINING EXAMPLE Whenever this character quests, your other Fairy characters get +1 {L} this turn.
+SHINING EXAMPLE Whenever this character quests, your other Fairy characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -666,7 +666,7 @@ Evasive (Only characters with Evasive can challenge this character.)
 
 ### [[Donald Duck - First Mate]]
 
-CAPTAIN ON DECK While you have a Captain character in play, this character gets +2 {L}.
+CAPTAIN ON DECK While you have a Captain character in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -910,7 +910,7 @@ COME ON, LET'S DO THIS Once during your turn, whenever a card is put into your i
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-LOOK LIVELY, CREW! While you have another Pirate character in play, this character gets +1 {S} and +1 {L}.
+LOOK LIVELY, CREW! While you have another Pirate character in play, this character gets +1 {S} and +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -970,7 +970,7 @@ SOLID GROUND While this character is at a location, he gets +2 {S}.
 
 ### [[Adorabeezle Winterpop - Ice Rocket Racer]]
 
-KEEP DRIVING While this character has damage, she gets +1 {L}.
+KEEP DRIVING While this character has damage, she gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1058,7 +1058,7 @@ WHAT ARE YOU GONNA DO? {E}, 3 {I}, Banish one of your characters – Banish chos
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-SWASH YOUR BUCKLES Whenever you play an action, this character gets +1 {S} and +1 {L} this turn.
+SWASH YOUR BUCKLES Whenever you play an action, this character gets +1 {S} and +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1158,7 +1158,7 @@ Support (Whenever this character quests, you may add their {S} to another chosen
 
 ### [[Aunt Cass - Biggest Fan]]
 
-HAPPY TO HELP Whenever this character quests, chosen Inventor character gets +1 {L} this turn.
+HAPPY TO HELP Whenever this character quests, chosen Inventor character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1166,7 +1166,7 @@ HAPPY TO HELP Whenever this character quests, chosen Inventor character gets +1 
 
 ### [[Gadget Hackwrench - Creative Thinker]]
 
-BRAINSTORM Whenever you play an item, this character gets +1 {L} this turn.
+BRAINSTORM Whenever you play an item, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1356,7 +1356,7 @@ TECHNICAL GAIN Whenever this character quests, draw a card for each opposing cha
 
 Ward (Opponents can't choose this character except to challenge.)
 
-AHOY! Whenever this character quests, another chosen character of yours gets +1 {L} and gains Ward until the start of your next turn.
+AHOY! Whenever this character quests, another chosen character of yours gets +1  ![[imagenes/lore.svg|20]] and gains Ward until the start of your next turn.
 
 ---
 
@@ -1828,7 +1828,7 @@ COME ON, LET'S DO THIS Once during your turn, whenever a card is put into your i
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-SWASH YOUR BUCKLES Whenever you play an action, this character gets +1 {S} and +1 {L} this turn.
+SWASH YOUR BUCKLES Whenever you play an action, this character gets +1 {S} and +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 

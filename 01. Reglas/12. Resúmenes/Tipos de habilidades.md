@@ -66,11 +66,11 @@ Son habilidades que un jugador elige usar. Normalmente se escriben como **[Coste
 
 Son efectos que están continuamente activos, alterando las características de una carta, una regla del juego o el estado del juego, ya sea por una duración fija o mientras la carta generadora está en juego [CR-1.6.1.4, CR-7.6.1, CR-320].
 
-• **Aplicación**: Las cartas afectadas por una habilidad estática tienen ese efecto desde el momento en que entran en juego [CR-7.6.2, CR-258]. Los modificadores de características (como {S} o {L}) se aplican inmediatamente [CR-7.8.1.1, CR-265].
+• **Aplicación**: Las cartas afectadas por una habilidad estática tienen ese efecto desde el momento en que entran en juego [CR-7.6.2, CR-258]. Los modificadores de características (como {S} o  ![[imagenes/lore.svg|20]]) se aplican inmediatamente [CR-7.8.1.1, CR-265].
 
 • **Fuera del Juego**: Algunas habilidades estáticas pueden aplicarse fuera de la zona de juego [CR-7.6.5, CR-260].
 
-• **Modificadores de Habilidades**: Pueden cambiar continuamente las características de Fuerza ({S}) o Lore ({L}) de un personaje o ubicación. Si varios modificadores se aplican, se combinan. Si una Fuerza o Lore resulta en un valor negativo, se cuenta como 0 para la mayoría de los propósitos de juego, pero el valor negativo real se mantiene para la aplicación de otros modificadores [CR-7.8.1, CR-7.8.2, CR-7.8.3, CR-265-269].
+• **Modificadores de Habilidades**: Pueden cambiar continuamente las características de Fuerza ({S}) o Lore ( ![[imagenes/lore.svg|20]]) de un personaje o ubicación. Si varios modificadores se aplican, se combinan. Si una Fuerza o Lore resulta en un valor negativo, se cuenta como 0 para la mayoría de los propósitos de juego, pero el valor negativo real se mantiene para la aplicación de otros modificadores [CR-7.8.1, CR-7.8.2, CR-7.8.3, CR-265-269].
 
 ### Efectos de Reemplazo (Replacement Effects)
 

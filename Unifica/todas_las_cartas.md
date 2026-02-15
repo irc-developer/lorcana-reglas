@@ -63,7 +63,7 @@
 
 **Habilidades:**
 - Shift 6
-- Sinister Plot - This character gets +1 {l} for each other Villain character you have in play.
+- Sinister Plot - This character gets +1  ![[imagenes/lore.svg|20]] for each other Villain character you have in play.
 
 ---
 
@@ -651,7 +651,9 @@
 
 
 **Habilidades:**
-- Evasive (Only characters with Evasive can challenge this character.)   Loyal and Devoted - Your characters named Peter Pan gain Challenger +1.
+- Evasive (Only characters with Evasive can challenge this character.) 
+ 
+ Loyal and Devoted - Your characters named Peter Pan gain Challenger +1.
 
 ---
 
@@ -1167,7 +1169,9 @@
 
 
 **Habilidades:**
-- Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Aladdin.)   Daring Exploit - During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.
+- Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Aladdin.) 
+ 
+ Daring Exploit - During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.
 
 ---
 
@@ -1321,7 +1325,7 @@
 
 **Coste:** 5 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Super Rare  
 **Fuerza:** 4 | **Voluntad:** 5 | **Lore:** 1  
-**Set:** The First Chapter (TFC #1) | [🖼️ Imagen](https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-large.png)
+**Set:** The First Chapter (TFC #1) | [🖼️ Imagen](https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-large. ![[imagenes/lore.svg|20]])
 
 
 **Habilidades:**
@@ -1587,7 +1591,7 @@
 **Coste:** 4 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Legendary  
 **Fuerza:** 2 | **Voluntad:** 4 | **Lore:** 1  
 **Set:** The First Chapter (TFC #1) | [🖼️ Imagen](https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-large.png)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - Read A Book - During your turn, you may put an additional card from your hand into your inkwell facedown.
@@ -1753,7 +1757,9 @@
 
 
 **Habilidades:**
-- Feed The Poor - When you play this character, if an opponent has more cards in their hand than you, draw a card.  Good Shot - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)
+- Feed The Poor - When you play this character, if an opponent has more cards in their hand than you, draw a card.
+ 
+ Good Shot - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)
 
 ---
 
@@ -1772,7 +1778,7 @@
 ## Tamatoa - So Shiny!
 
 **Coste:** 8 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Super Rare  
-**Fuerza:** 5 | **Voluntad:** 8 | **Lore:** 1  
+**Fuerza:** 5 | **Voluntad:** 8  ![[imagenes/lore.svg|20]]*Lore:** 1  
 **Set:** The First Chapter (TFC #1) | [🖼️ Imagen](https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-large.png)
 
 
@@ -1859,7 +1865,7 @@
 ---
 
 ## Eye Of The Fates
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 4 | **Tipo:** Item | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Set:** The First Chapter (TFC #1) | [🖼️ Imagen](https://lorcana-api.com/images/eye_of_the_fates/eye_of_the_fates-large.png)
 
@@ -2121,7 +2127,7 @@
 
 ## Starkey - Hook's Henchman
 
-**Coste:** 5 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Uncommon  
+**Coste:** 5 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Uncom ![[imagenes/lore.svg|20]]  
 **Fuerza:** 5 | **Voluntad:** 4 | **Lore:** 1  
 **Set:** The First Chapter (TFC #1) | [🖼️ Imagen](https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-large.png)
 
@@ -2637,7 +2643,9 @@
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)  Banish chosen character with 5 {s} or more.
+- (A character with cost 3 or more can {e} to sing this song for free.)
+ 
+ Banish chosen character with 5 {s} or more.
 
 ---
 
@@ -2822,7 +2830,8 @@ Rush (This character can challenge the turn they're played.)
 
 
 **Habilidades:**
-- Evasive (Only characters with Evasive can challenge this character.)\nI Win, I Win!: When you play this character, banish her or return another 2 chosen characters of yours to your hand.
+- Evasive (Only characters with Evasive can challenge this character.)
+\nI Win, I Win!: When you play this character, banish her or return another 2 chosen characters of yours to your hand.
 
 ---
 
@@ -2885,7 +2894,7 @@ Rush (This character can challenge the turn they're played.)
 - Hoppity Hip!: When you play this character and when he leaves play, you may draw a card.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Merlin - Shapeshifter
 
 **Coste:** 4 | **Tipo:** Character | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Rare  
@@ -3084,7 +3093,7 @@ Chosen character gains Challenger +3 this turn. (They get +3 {s} while challengi
 - Second Wind: Whenever an opposing character is damaged, you may ready this character.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Belle - Bookworm
 
 **Coste:** 3 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✗ | **Rareza:** Uncommon  
@@ -3216,7 +3225,7 @@ You're In My World: Whenever this character quests, chosen opposing character ca
 ---
 
 ## Flynn Rider - His Own Biggest Fan
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 4 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✗ | **Rareza:** Rare  
 **Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 4  
 **Set:** Rise of the Floodborn (ROF #2) | [🖼️ Imagen](https://lorcana-api.com/images/flynn_rider/his_own_biggest_fan/flynn_rider-his_own_biggest_fan-large.png)
@@ -3260,7 +3269,7 @@ One Last, Big Score: This character gets -1 {l} for each card in your opponents'
 - Mouse Catcher: When you play this character, each opponent chooses and discards either 2 cards or 1 action card.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Pain - Underworld Imp
 
 **Coste:** 2 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Uncommon  
@@ -3286,7 +3295,7 @@ One Last, Big Score: This character gets -1 {l} for each card in your opponents'
 ---
 
 ## Pete - Bad Guy
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 5 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Rare  
 **Fuerza:** 3 | **Voluntad:** 4 | **Lore:** 2  
 **Set:** Rise of the Floodborn (ROF #2) | [🖼️ Imagen](https://lorcana-api.com/images/pete/bad_guy/pete-bad_guy-large.png)
@@ -3347,7 +3356,7 @@ I Sentence You: Whenever your opponents discards 1 or more cards, you may draw a
 - Evasive
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## The Queen - Disguised Peddler
 
 **Coste:** 3 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✗ | **Rareza:** Super Rare  
@@ -3477,7 +3486,7 @@ Return chosen character of your to your hand to play another character with the 
 **Set:** Rise of the Floodborn (ROF #2) | [🖼️ Imagen](https://lorcana-api.com/images/card_soldiers/full_deck/card_soldiers-full_deck-large.png)
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Donald Duck - Not Again!
 
 **Coste:** 5 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Legendary  
@@ -3486,7 +3495,9 @@ Return chosen character of your to your hand to play another character with the 
 
 
 **Habilidades:**
-- Evasive (Only characters with Evasive can challenge this character.)  Phooey!: This character gets +1 {l} for each 1 damage on him.
+- Evasive (Only characters with Evasive can challenge this character.)
+ 
+ Phooey!: This character gets +1 {l} for each 1 damage on him.
 
 ---
 
@@ -3570,7 +3581,7 @@ Return chosen character of your to your hand to play another character with the 
 - Evasive
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Minnie Mouse - Wide-Eyed Diver
 
 **Coste:** 4 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Rare  
@@ -3837,7 +3848,7 @@ Chosen character gains Evasive until the start of your next turn. (Only characte
 
 **Habilidades:**
 - {e}, 2 {i} - Chosen character gets +1 {s} this turn for each 1 damage on them.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Alice - Growing Girl
@@ -3848,7 +3859,8 @@ Chosen character gains Evasive until the start of your next turn. (Only characte
 
 
 **Habilidades:**
-- Good Advice - Your other characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.) What Did I Do? - While this character has 10 {s} or more, she gets +4 {l}.
+- Good Advice - Your other characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)
+ What Did I Do? - While this character has 10 {s} or more, she gets +4 {l}.
 
 ---
 
@@ -4306,7 +4318,9 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Cinderella.) Resist +2 (Damage dealt to this character is reduced by 2.) The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.
+- Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Cinderella.)
+ Resist +2 (Damage dealt to this character is reduced by 2.)
+ The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.
 
 ---
 
@@ -4680,7 +4694,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Shift 3
+- Shift 3 ![[imagenes/lore.svg|20]]
 - Perhaps We Can Save Our Future - When you play this character, all characters get -3{s} until the start of your next turn.
 
 ---
@@ -4769,7 +4783,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 **Fuerza:** 1 | **Voluntad:** 6 | **Lore:** 2  
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/perdita/devoted_mother/perdita-devoted_mother-large.png)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - Come Along, Children - When you play this character and whenever she quests, you may play a character with cost 2 or less from your discard for free.
 
@@ -4819,7 +4833,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 **Fuerza:** 3 | **Voluntad:** 2 | **Lore:** 1  
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/pongo/determined_father/pongo-determined_father-large.png)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - Twilight Bark - Once per turn, you may pay 2{i} to reveal the top card of your deck. If it's a character card, put it into your hand. Otherwise, Put it on the bottom of your deck.
 
@@ -5230,7 +5244,9 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Challenger +3 (While challenging, this character gets +3{s}.)  Ancient Skills - Whenever he challenges a Hyena character, this character takes no damage from the challenge.
+- Challenger +3 (While challenging, this character gets +3{s}.)
+ 
+ Ancient Skills - Whenever he challenges a Hyena character, this character takes no damage from the challenge.
 
 ---
 
@@ -5368,7 +5384,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 **Coste:** 4 | **Tipo:** Location | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Rare  
 **Voluntad:** 7 | **Lore:** 2  
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/the_queen's_castle/mirror_chamber/the_queen's_castle-mirror_chamber-large.png)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - Using The Mirror - At the start of your turn, for each character you have here, you may draw a card.
@@ -5536,7 +5552,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 **Coste:** 2 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Rare  
 **Fuerza:** 2 | **Voluntad:** 1 | **Lore:** 1  
-**Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/morph/space_goo/morph-space_goo-large.png)
+**Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/morph/space_goo/morph-space_goo-large.png) ![[imagenes/lore.svg|20]]
 
 
 **Habilidades:**
@@ -5584,7 +5600,9 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- I'll Handle This - While this character is at a location, she gets +3{s}. What's The Hurry? - While this character is at a location, whenever she challenges another character, you may draw a card.
+- I'll Handle This - While this character is at a location, she gets +3{s}.
+ 
+What's The Hurry? - While this character is at a location, whenever she challenges another character, you may draw a card.
 
 ---
 
@@ -5660,7 +5678,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 ## Wildcat - Mechanic
 
 **Coste:** 3 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Uncommon  
-**Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 1  
+**Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 1   ![[imagenes/lore.svg|20]]
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/wildcat/mechanic/wildcat-mechanic-large.png)
 
 
@@ -5701,7 +5719,9 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- (A character with cost X or more can {e} to sing this song for free.)  Chosen character of yours gets +2{s} this turn. They may move to a location for free.
+- (A character with cost X or more can {e} to sing this song for free.)
+ 
+ Chosen character of yours gets +2{s} this turn. They may move to a location for free.
 
 ---
 
@@ -5888,7 +5908,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 ---
 
 ## Madame Medusa - The Boss
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 6 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✗ | **Rareza:** Super Rare  
 **Fuerza:** 4 | **Voluntad:** 4 | **Lore:** 1  
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/madame_medusa/the_boss/madame_medusa-the_boss-large.png)
@@ -5978,7 +5998,9 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Rush (This character can challenge the turn they're played.)  Over Here, Tink - While you have a character named Tinker Bell in play, this character gets +2{s}.
+- Rush (This character can challenge the turn they're played.)
+ 
+ Over Here, Tink - While you have a character named Tinker Bell in play, this character gets +2{s}.
 
 ---
 
@@ -6039,7 +6061,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 - Evasive
 - The Fox - If you have a character named Peter Pan in play, you pay 1{i} less to play this character.
 
----
+--- ![[imagenes/lore.svg|20]]
 
 ## Stitch - Little Rocket
 
@@ -6070,7 +6092,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 **Coste:** 3 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 3 | **Voluntad:** 4 | **Lore:** 1  
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/webby_vanderquack/enthusiastic_duck/webby_vanderquack-enthusiastic_duck-large.png)
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Divebomb
@@ -6125,7 +6147,11 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- It's Maui Time! - If you have a character named Maui in play, you may use this item's Shapeshift ability for free.  Shapeshift - {e}, 2{i}: Choose one: - Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.) - Chosen character gets +3{s} this turn.
+- It's Maui Time! - If you have a character named Maui in play, you may use this item's Shapeshift ability for free.
+ 
+ Shapeshift - {e}, 2{i}: Choose one:
+ - Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)
+ - Chosen character gets +3{s} this turn.
 
 ---
 
@@ -6481,7 +6507,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 ## Aurelian Gyrosensor
 
 **Coste:** 2 | **Tipo:** Item | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Rare  
-**Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/aurelian_gyrosensor/aurelian_gyrosensor-large.png)
+**Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/a ![[imagenes/lore.svg|20]]lian_gyrosensor/aurelian_gyrosensor-large.png)
 
 
 **Habilidades:**
@@ -6604,7 +6630,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 **Fuerza:** 5 | **Voluntad:** 5 | **Lore:** 2  
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/hades/hotheaded_ruler/hades-hotheaded_ruler-large.png)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - Call The Titans - {e}: Ready your Titan characters.
 
@@ -6629,7 +6655,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 **Set:** Into the Inklands (INK #3) | [🖼️ Imagen](https://lorcana-api.com/images/john_silver/greedy_treasure_seeker/john_silver-greedy_treasure_seeker-large.png)
 
 
-**Habilidades:**
+**Habilidades:** ![[imagenes/lore.svg|20]]
 - Chart Your Own Course - For each location you have in play, this character gains Resist +1 and gets +1{l}. (Damage dealt to them is reduced by 1.)
 
 ---
@@ -6815,7 +6841,9 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Step Down Or Fight - When you play this character and whenever he banishes another character in a challenge during your turn, you may choose one: - Draw 2 cards, then choose and discard 2 cards. - Deal 2 damage to chosen character.
+- Step Down Or Fight - When you play this character and whenever he banishes another character in a challenge during your turn, you may choose one:
+ - Draw 2 cards, then choose and discard 2 cards.
+ - Deal 2 damage to chosen character.
 
 ---
 
@@ -6895,7 +6923,9 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Get Those Scurvy Brats! - During your turn, whenever one of your characters banishes another character in a challenge, you may pay 1{i} to draw a  card.  Let's Have At It! - Your characters named Captain Hook gain Challenger +1. (They get +1{s} while challenging.)
+- Get Those Scurvy Brats! - During your turn, whenever one of your characters banishes another character in a challenge, you may pay 1{i} to draw a  card.
+ 
+ Let's Have At It! - Your characters named Captain Hook gain Challenger +1. (They get +1{s} while challenging.)
 
 ---
 
@@ -6968,7 +6998,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 ## Alma Madrigal - Family Matriarch
 
 **Coste:** 3 | **Tipo:** Character | **Color:** Amber | **Tinta:** ✗ | **Rareza:** Rare  
-**Fuerza:** 1 | **Voluntad:** 3 | **Lore:** 2  
+**Fuerza:** 1 | **Voluntad:** 3 | **Lore:** 2   ![[imagenes/lore.svg|20]]
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/alma_madrigal/family_matriarch/alma_madrigal-family_matriarch-large.png)
 
 
@@ -7013,7 +7043,7 @@ Beautiful Voice - Whenever this character sings a song, your other Princess char
 - As You Were! - Whenever this character quests, you may give chosen character -2{s} until the start of your next turn.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Daisy Duck - Lovely Lady
 
 **Coste:** 1 | **Tipo:** Character | **Color:** Amber | **Tinta:** ✓ | **Rareza:** Uncommon  
@@ -7134,7 +7164,7 @@ Strike Up the Music - When you play this character, chosen character gains Suppo
 **Fuerza:** 3 | **Voluntad:** 6 | **Lore:** 2  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/mickey_mouse/musketeer_captain/mickey_mouse-musketeer_captain-large.png)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - Shift 5 (You may pay 5{i} to play this on top of one of your characters named Mickey Mouse.)
 Bodyguard, Support
@@ -7390,7 +7420,7 @@ Enhanced Healing - When you play this character, move up to 3 damage counters fr
 
 **Coste:** 5 | **Tipo:** Character | **Color:** Amethyst | **Tinta:** ✗ | **Rareza:** Rare  
 **Fuerza:** 4 | **Voluntad:** 5 | **Lore:** 1  
-**Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/bruno_madrigal/out_of_the_shadows/bruno_madrigal-out_of_the_shadows-large.png)
+**Set:** Ursula's Return ![[imagenes/lore.svg|20]]RS #4) | [🖼️ Imagen](https://lorcana-api.com/images/bruno_madrigal/out_of_the_shadows/bruno_madrigal-out_of_the_shadows-large.png)
 
 
 **Habilidades:**
@@ -7454,7 +7484,7 @@ You Just Have to See It - {e}: Name a card, then reveal the top card of your dec
 **Coste:** 3 | **Tipo:** Character | **Color:** Amethyst | **Tinta:** ✗ | **Rareza:** Uncommon  
 **Fuerza:** 4 | **Voluntad:** 2 | **Lore:** 1  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/flotsam/ursula's_baby/flotsam-ursula's_baby-large.png)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - Quick Escape - When this character is banished in a challenge, return this card to your hand.
@@ -7617,7 +7647,7 @@ Fly, of Course! - You other characters with Evasive gain Rush.
 **Coste:** 2 | **Tipo:** Character | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 1 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/ursula/mad_sea_witch/ursula-mad_sea_witch-large.png)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - Challenger +2
@@ -7674,7 +7704,7 @@ Return chosen character, Item, or location with cost 2 or less to their player's
 Chosen player draws 5 cards.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Swing Into Action
 
 **Coste:** 1 | **Tipo:** Action | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Common  
@@ -7721,7 +7751,7 @@ Chosen player draws 5 cards.
 
 ## Triton's Trident
 
-**Coste:** 2 | **Tipo:** Item | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Uncommon  
+**Coste:** 2 | **Tipo:** Item | **Color:** Ame ![[imagenes/lore.svg|20]]st | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/triton's_trident/triton's_trident-large.png)
 
 
@@ -8066,7 +8096,8 @@ The Gospel Truth - Whenever you play a song, you may return chosen character wit
 
 
 **Habilidades:**
-- Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.) Put all opposing characters with 2{s} or less on the bottom of their player's decks in any order.
+- Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.)
+ Put all opposing characters with 2{s} or less on the bottom of their player's decks in any order.
 
 ---
 
@@ -8117,7 +8148,7 @@ Unexpected treasure - All cards in your hand count as having {n}.
 ---
 
 ## Vision Slab
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 3 | **Tipo:** Item | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/vision_slab/vision_slab-large.png)
 
@@ -8228,7 +8259,7 @@ Super Peanut Powers: Whenever this character challenges another character, gain 
 **Fuerza:** 7 | **Voluntad:** 3 | **Lore:** 0  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/hercules/daring_demigod/hercules-daring_demigod-large.png)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - Rush
 
@@ -8526,7 +8557,7 @@ Each opponent chooses and banishes one of their characters.
 ---
 
 ## Snuggly Duckling - Disreputable Pub
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 2 | **Tipo:** Location | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Rare  
 **Voluntad:** 9  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/snuggly_duckling/disreputable_pub/snuggly_duckling-disreputable_pub-large.png)
@@ -8538,7 +8569,7 @@ Each opponent chooses and banishes one of their characters.
 ---
 
 ## Training Grounds - Impossible Pillar
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 1 | **Tipo:** Location | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Common  
 **Voluntad:** 5 | **Lore:** 0  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/training_grounds/impossible_pillar/training_grounds-impossible_pillar-large.png)
@@ -8551,7 +8582,7 @@ Each opponent chooses and banishes one of their characters.
 
 ## Anna - Braving the Storm
 
-**Coste:** 2 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Common  
+**Coste:** 2 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Common   ![[imagenes/lore.svg|20]]
 **Fuerza:** 1 | **Voluntad:** 4 | **Lore:** 1  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/anna/braving_the_storm/anna-braving_the_storm-large.png)
 
@@ -8894,7 +8925,7 @@ Return up to 2 item cards from your discard into your hand.
 
 ---
 
-## Great Stone Dragon
+## Great Stone Dragon ![[imagenes/lore.svg|20]]
 
 **Coste:** 3 | **Tipo:** Item | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/giant_stone_dragon/giant_stone_dragon-large.png)
@@ -8984,7 +9015,7 @@ Crashing Though: Whenever this character quests, you may banish chosen item.
 
 ## Ariel - Sonic Warrior
 
-**Coste:** 6 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Super Rare  
+**Coste:** 6 | **Tipo:** Character | **Color:** Steel | **Tinta:* ![[imagenes/lore.svg|20]] | **Rareza:** Super Rare  
 **Fuerza:** 3 | **Voluntad:** 8 | **Lore:** 2  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/ariel/sonic_warrior/ariel-sonic_warrior-large.png)
 
@@ -9008,7 +9039,7 @@ Amplified Voice: Whenever you play a song, you may pay 2{i} to deal 3 damage to 
 ---
 
 ## Chi-Fu - Imperial Advisor
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 3 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 0 | **Voluntad:** 5 | **Lore:** 1  
 **Set:** Ursula's Return (URS #4) | [🖼️ Imagen](https://lorcana-api.com/images/chi/fu-imperial_advisor/chi-fu-imperial_advisor-large.png)
@@ -9369,7 +9400,9 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Singer 6 (This-character counts as cost6 {i} to sing songs.) It's Beautiful, No?: When you play this character, you may play a song with cost 6 or less for free.
+- Singer 6 (This-character counts as cost6 {i} to sing songs.)
+ It's Beautiful, No?: When you play this character, you may play a song with cost 6 or
+ less for free.
 
 ---
 
@@ -9393,7 +9426,9 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Brothers Forever: While this character is exerted, your characters named Koda can't be challenged.
+- Brothers Forever:
+ While this character is exerted,
+ your characters named Koda can't be challenged.
 
 ---
 
@@ -9433,7 +9468,9 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- You've Got To Pay To Play:Whenever this character quests, chosen opposing character gets -1{s} until the start of your next turn.
+- You've Got To Pay To Play:Whenever this
+ character quests, chosen opposing character gets
+ -1{s} until the start of your next turn.
 
 ---
 
@@ -9469,7 +9506,9 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Shift 3 (You may pay 3{i} to play this on top of one of your characters named Fix-lt Felix, Jr.) Building Together: Your locations get +2 {w}.
+- Shift 3 (You may pay 3{i} to play this on top of
+ one of your characters named Fix-lt Felix, Jr.)
+ Building Together: Your locations get +2 {w}.
 
 ---
 
@@ -9481,7 +9520,12 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)  Song Of The Herd: For each song card in your discard, you pay 1{i} less to play this character.
+- Bodyguard (This character may enter play exerted.
+ An opposing character who challenges one of your
+ characters must choose one with Bodyguard if able.)
+ 
+ Song Of The Herd: For each song card in your
+ discard, you pay 1{i} less to play this character.
 
 ---
 
@@ -9493,7 +9537,9 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Not Without My Family: You can't play this character unless you have 5 or more characters in play.
+- Not Without My Family: You can't play this
+ character unless you have 5 or more characters in
+ play.
 
 ---
 
@@ -9505,7 +9551,12 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Shift 4 (You may pay 4{i}  to play this on top of one of your characters named Minnie Mouse.) Parade Order: When you play this character, if you used Shift to play her, you may search your deck for a character card and reveal that card to all players. Shuffle your deck and put that card on top of it.
+- Shift 4 (You may pay 4{i}  to play this on top of one of
+ your characters named Minnie Mouse.)
+ Parade Order: When you play this character, if you
+ used Shift to play her, you may search your deck for
+ a character card and reveal that card to all players.
+ Shuffle your deck and put that card on top of it.
 
 ---
 
@@ -9517,7 +9568,11 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Big Prize: Whenever this character quests, each opponent reveals the top card of their deck. If it's a character card, they may put it into their hand. Otherwise, they put it on the bottom of their deck.
+- Big Prize: Whenever this character quests, each
+ opponent reveals the top card of their deck. If it's
+ a character card, they may put it into their hand.
+ Otherwise, they put it on the bottom of their
+ deck.
 
 ---
 
@@ -9529,7 +9584,8 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Oh, My Land!: When you play this character, if you have a location in play, draw a card.
+- Oh, My Land!: When you play this character, if
+ you have a location in play, draw a card.
 
 ---
 
@@ -9577,7 +9633,10 @@ until the start of your next turn.
 
 
 **Habilidades:**
-- I've Got The Coolest Friend: When you play  this character, return a character card from your discard to your hand. If that card is a Princess character card, gain 2 lore.
+- I've Got The Coolest Friend: When you play 
+ this character, return a character card from your
+ discard to your hand. If that card is a Princess
+ character card, gain 2 lore.
 
 ---
 
@@ -9603,7 +9662,9 @@ until the start of your next turn.
 
 
 **Habilidades:**
-- Reindeer Games: When you play this character, you may ready chosen character. They can't quest or challenge for the rest of this turn.
+- Reindeer Games: When you play this character,
+ you may ready chosen character. They can't quest
+ or challenge for the rest of this turn.
 
 ---
 
@@ -10003,7 +10064,7 @@ with cost 3 or less to their player's hand.
 **Habilidades:**
 - Playing With Power: During opponents' turns,
 if an effect would cause you to discard one or
-more cards from your hand, you don't discard.
+more cards from your hand,  ![[imagenes/lore.svg|20]] don't discard.
 
 ---
 
@@ -10391,7 +10452,7 @@ challenge.
 
 
 **Habilidades:**
-- Shift 5 (You may pay 5{i} to play this on top of one
+- Shift 5 (You may pay 5{i} to play ![[imagenes/lore.svg|20]]is on top of one
 of your characters named Clarabelle.)
 Keep In Step: At the end of your turn, if chosen
 opponent has more cards in their hand than you, you
@@ -10704,7 +10765,9 @@ Game Jump: This character also counts as being named King Candy for Shift.
 
 
 **Habilidades:**
-- Shift 4 (You may pay 4{i} to play this on top of one of your characters named Donald Duck.) Humble Pie: When you play this character, if you used Shift to play him, each opponent loses 2 lore. Raging Duck: While an opponent has 10 or more lore, this character gets +6{s}
+- Shift 4 (You may pay 4{i} to play this on top of one of your characters named Donald Duck.)
+ Humble Pie: When you play this character, if you used Shift to play him, each opponent loses 2 lore.
+ Raging Duck: While an opponent has 10 or more lore, this character gets +6{s}
 
 ---
 
@@ -10886,7 +10949,9 @@ Rush (This character can challenge the turn they're played.)
 
 
 **Habilidades:**
-- Shift 4 (You may pay 4{i} to play this on top of one of your characters named Ratigan.) Evasive (Only characters with Evasive can challenge this character.) Delightfully Wicked: Your damaged characters get +2{s}.
+- Shift 4 (You may pay 4{i} to play this on top of one of your characters named Ratigan.)
+ Evasive (Only characters with Evasive can challenge this character.)
+ Delightfully Wicked: Your damaged characters get +2{s}.
 
 ---
 
@@ -10955,7 +11020,9 @@ Rush (This character can challenge the turn they're played.)
 
 
 **Habilidades:**
-- (A character with cost 7 or more can {e} to sing this song for free.)  Ready all your characters. They can't quest for the rest of this turn.
+- (A character with cost 7 or more can {e} to sing this song for free.)
+ 
+ Ready all your characters. They can't quest for the rest of this turn.
 
 ---
 
@@ -10968,7 +11035,7 @@ Rush (This character can challenge the turn they're played.)
 **Habilidades:**
 - Banish chosen character of yours to banish chosen character.
 
----
+--- ![[imagenes/lore.svg|20]]
 
 ## Who's With Me?
 
@@ -11055,7 +11122,7 @@ Whenever one of your characters with Reckless challenges another character this 
 
 ---
 
-## The Queen - Cruelest of All
+## The Queen - Cruelest of All ![[imagenes/lore.svg|20]]
 
 **Coste:** 2 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 0 | **Voluntad:** 4 | **Lore:** 1  
@@ -11306,7 +11373,7 @@ Ushered into the Party: When you play this character, your other characters gain
 
 **Habilidades:**
 - Shift 5 (You may pay 5{i} to play this on top of one of your characters named Merlin.)
-Overdeveloped Brain: When you play this character, if you used Shift to play him, you may search your deck for any card, put that card into your hand, then shuffle your deck.
+Overdeveloped Brain: When you play this character, if you used Shift to play him, you may s ![[imagenes/lore.svg|20]]ch your deck for any card, put that card into your hand, then shuffle your deck.
 
 ---
 
@@ -11352,7 +11419,7 @@ Remove up to 2 damage from any number of chosen characters.
 
 **Habilidades:**
 - Put chosen item or location into its player's inkwell facedown and exerted.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## All Funned Out
@@ -11825,7 +11892,7 @@ Chosen character can't challenge during their next turn. Draw a card.
 
 **Habilidades:**
 - Mountain Defense: During your turn, the first time you move a character here, you may deal 1 damage to chosen character. If the moved character is a Knight, deal 2 damage instead.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 
@@ -11849,7 +11916,7 @@ Chosen character can't challenge during their next turn. Draw a card.
 **Fuerza:** 1 | **Voluntad:** 2 | **Lore:** 2  
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/lilo/escape_artist/lilo-escape_artist-large.png)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - NO PLACE I'D RATHER BE - At the start of your turn, if this card is in your discard, you may play her and she enters play exerted.
 
@@ -11952,7 +12019,7 @@ We're Pirates, You See: Whenever this character quests, you may pay 1 {i} less f
 
 ---
 
-## Chip - Ranger Leader
+## Chip - Ranger Leader ![[imagenes/lore.svg|20]]
 
 **Coste:** 4 | **Tipo:** Character | **Color:** Amber | **Tinta:** ✗ | **Rareza:** Uncommon  
 **Fuerza:** 3 | **Voluntad:** 4 | **Lore:** 2  
@@ -12075,7 +12142,7 @@ Understand The Balance: At the end of your turn, if this character is exerted, y
 
 ## Rabbit - Indignant Pirate
 
-**Coste:** 1 | **Tipo:** Character | **Color:** Amber | **Tinta:** ✗ | **Rareza:** Common  
+**Coste:** 1 | **Tipo:** Ch ![[imagenes/lore.svg|20]]cter | **Color:** Amber | **Tinta:** ✗ | **Rareza:** Common  
 **Fuerza:** 1 | **Voluntad:** 2 | **Lore:** 1  
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/rabbit/indignant_pirate/rabbit-indignant_pirate-large.png)
 
@@ -12318,7 +12385,7 @@ Zim Zabberim Bim: Your other characters gain Challenger +1.
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/rafiki/shaman_of_the_savanna/rafiki-shaman_of_the_savanna-large.png)
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Tinker Bell - Fast Flier
 
 **Coste:** 3 | **Tipo:** Character | **Color:** Amethyst | **Tinta:** ✗ | **Rareza:** Common  
@@ -12692,7 +12759,7 @@ Stop Whining, Women Up: When you play this character, you may pay 2 {i} to gain 
 **Coste:** 2 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 1 | **Voluntad:** 1 | **Lore:** 2  
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/honey_lemon/chemical_genius/honey_lemon-chemical_genius-large.png)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - Here's The Best Part - When you play this character, you may pay 2 {i} to have each opponent choose and discard a card.
@@ -13026,7 +13093,7 @@ Twists and Turns: During your turn, whenever a card is put into your inkwell, yo
 ## Mickey Mouse - Pirate Captain
 
 **Coste:** 5 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✗ | **Rareza:** Super Rare  
-**Fuerza:** 4 | **Voluntad:** 4 | **Lore:** 2  
+**Fuerza:** 4 | **Voluntad:** 4 | **Lore:** 2   ![[imagenes/lore.svg|20]]
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/mickey_mouse/pirate_captain/mickey_mouse-pirate_captain-large.png)
 
 
@@ -13114,7 +13181,7 @@ Look Lively, Crew!: While you have another Pirate character in play, this charac
 **Coste:** 3 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✗ | **Rareza:** Uncommon  
 **Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/vanellope_von_schweetz/gutsy_go-getter/vanellope_von_schweetz-gutsy_go-getter-large.png)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - AS READY AS I'LL EVER BE - At the start of your turn, if this character is at a location, draw a card and gain 1 lore.
@@ -13231,7 +13298,7 @@ Remember Your Training: When you play this character, your characters get +2 {s}
 ---
 
 ## Moana - Kakamora Leader
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 7 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✗ | **Rareza:** Rare  
 **Fuerza:** 6 | **Voluntad:** 5 | **Lore:** 1  
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/moana/kakamora_leader/moana-kakamora_leader-large.png)
@@ -13375,7 +13442,7 @@ Swash Your Buckles: Whenever you play an action, this character gets +1 {s} and 
 ---
 
 ## Gold Coin
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 1 | **Tipo:** Item | **Color:** Ruby | **Tinta:** ✗ | **Rareza:** Common  
 **Fuerza:** 0 | **Voluntad:** 0 | **Lore:** 0  
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/gold_coin/gold_coin-large.png)
@@ -13387,7 +13454,7 @@ Swash Your Buckles: Whenever you play an action, this character gets +1 {s} and 
 ---
 
 ## Card Soldier's Spear
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 1 | **Tipo:** Item | **Color:** Ruby | **Tinta:** ✗ | **Rareza:** Uncommon  
 **Fuerza:** 0 | **Voluntad:** 0 | **Lore:** 0  
 **Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/card_soldier's_spear/card_soldier's_spear-large.png)
@@ -13641,7 +13708,7 @@ You Can't Touch Me: While you have an item in play, this character can't be chal
 
 **Habilidades:**
 - SOMEONE HAS TO HELP - During an opponent's turn, when this character is banished, you may put the top card of your deck into your inkwell facedown. Then, put this card into your inkwell facedown.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Baymax - Personal Healthcare Companion
@@ -14258,7 +14325,7 @@ Don't Be Afraid: Your Puppy characters gain Ward. (Opponents can't choose them e
 **Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/king_stefan/new_father/king_stefan-new_father-large.png)
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Bolt - Superdog
 
 **Coste:** 5 | **Tipo:** Character | **Color:** Amber, Steel | **Tinta:** ✓ | **Rareza:** Super Rare  
@@ -14347,7 +14414,7 @@ HOW'S PICKINGS?: When you play this character, you may draw a card for each othe
 **Coste:** 2 | **Tipo:** Character | **Color:** Amber, Steel | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 1 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/the_troubadour/musical_narrator/the_troubadour-musical_narrator-large.png)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - Resist +1
@@ -14481,7 +14548,7 @@ Dolores Madrigal in play, this character gets +1 {l}.
 ## Fix-It Felix Jr. - Pint-Sized Hero
 
 **Coste:** 5 | **Tipo:** Character | **Color:** Amber, Ruby | **Tinta:** ✓ | **Rareza:** Uncommon  
-**Fuerza:** 4 | **Voluntad:** 4 | **Lore:** 2  
+**Fuerza:** 4 | **Voluntad:** 4 | **Lore:** 2   ![[imagenes/lore.svg|20]]
 **Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/fix-it_felix_jr/pint-sized_hero/fix-it_felix_jr.-pint-sized_hero-large.png)
 
 
@@ -14530,8 +14597,8 @@ Bodyguard (This character may enter play exerted. An opposing character who chal
 ## Calhoun - Courageous Rescuer
 
 **Coste:** 6 | **Tipo:** Character | **Color:** Amber, Ruby | **Tinta:** ✓ | **Rareza:** Rare  
-**Fuerza:** 5 | **Voluntad:** 5 | **Lore:** 2  
-**Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/calhoun/courageous_rescuer/calhoun-courageous_rescuer-large.png)
+**Fuerza:** 5 | **Voluntad:** 5 | **Lore:** 2   ![[imagenes/lore.svg|20]]
+**Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/calhoun/courageous_rescuer/ ![[imagenes/lore.svg|20]]houn-courageous_rescuer-large.png)
 
 
 **Habilidades:**
@@ -15335,7 +15402,7 @@ Gain 1 lore. Draw a card.
 **Habilidades:**
 - UNBIRTHDAY PRESENT: Whenever a damaged character challenges another character, you may draw a card.
 
----
+--- ![[imagenes/lore.svg|20]]
 
 ## Queen of Hearts - Unpredictable Bully
 
@@ -15359,7 +15426,7 @@ IF I LOSE MY TEMPER...: Whenever another character is played, put a damage count
 
 **Habilidades:**
 - Shift 5
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Yokai - Intellectual Schemer
@@ -15803,7 +15870,7 @@ ENORMOUS RESPONSIBILITY: While this character has damage, he gets +2 {s}.
 
 **Coste:** 4 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 4 | **Voluntad:** 3 | **Lore:** 1  
-**Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/moana/island_explorer/moana-island_explorer-large.png)
+**Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/moana/island ![[imagenes/lore.svg|20]]plorer/moana-island_explorer-large.png)
 
 
 **Habilidades:**
@@ -16770,7 +16837,7 @@ you may reveal a song card in your hand to gain 1 lore.
 
 **Habilidades:**
 - SOMEONE TO CARE FOR: When you play this
-character, you may play a character with cost 2 or
+character, you may play a ![[imagenes/lore.svg|20]]aracter with cost 2 or
 less for free.
 
 ---
@@ -16784,7 +16851,7 @@ less for free.
 
 **Habilidades:**
 - Bodyguard
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Gene - Niceland Resident
@@ -16910,7 +16977,7 @@ have in play.
 **Fuerza:** 3 | **Voluntad:** 3 | **Lore:** 2  
 **Set:** Reign of Jafar (ROJ #8) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set8/21_c0d51f05ad2c3b9b3be3c3b1c6027e08e0d5d2cd.jpg)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - LOOK ME IN THE EYE: Whenever this character quests,
 chosen opposing character gets -2 {s} and gains
@@ -17028,7 +17095,7 @@ damage, he gets +2 {s} and gains Support.
 (Whenever they quest, you may add their {s} to
 another chosen character's {s} this turn.)
 
----
+--- ![[imagenes/lore.svg|20]]
 
 ## Bolt - Down but Not Out
 
@@ -17265,7 +17332,7 @@ start of your next turn.
 ---
 
 ## Druun - Ravenous Plague
-
+ ![[imagenes/lore.svg|20]]
 **Coste:** 4 | **Tipo:** Character | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 1 | **Voluntad:** 5 | **Lore:** 1  
 **Set:** Reign of Jafar (ROJ #8) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set8/46_2dfdf98a63156050abb7c3b355a1f06a9b92e354.jpg)
@@ -18017,7 +18084,7 @@ another chosen character.
 
 ## Rapunzel - High Climber
 
-**Coste:** 5 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Legendary  
+**Coste:** 5 | **Tipo:** Character | **Color ![[imagenes/lore.svg|20]] Emerald | **Tinta:** ✓ | **Rareza:** Legendary  
 **Fuerza:** 2 | **Voluntad:** 5 | **Lore:** 2  
 **Set:** Reign of Jafar (ROJ #8) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set8/101_fc98fe9c34523ce5788e4800a735e7c68630f9fe.jpg)
 
@@ -18365,7 +18432,7 @@ this turn, gain 2 lore.
 - EXTRAORDINARY SITUATION: This character gets
 +1 {s} for each 1 damage on him.
 
----
+--- ![[imagenes/lore.svg|20]]
 
 ## Alice - Courageous Keyholder
 
@@ -18473,7 +18540,7 @@ this turn.
 
 **Coste:** 3 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Rare  
 **Fuerza:** 4 | **Voluntad:** 2 | **Lore:** 1  
-**Set:** Reign of Jafar (ROJ #8) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set8/135_f49fc5b37feb18038abe238da6f26eab352735ad.jpg)
+**Set:** Reign of Jafar (ROJ #8)  ![[imagenes/lore.svg|20]]🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set8/135_f49fc5b37feb18038abe238da6f26eab352735ad.jpg)
 
 
 **Habilidades:**
@@ -18554,7 +18621,7 @@ banished, this character gets +1 {l} this turn.
 **Habilidades:**
 - WILD RIDE: While 2 or more characters of yours
 are exerted, this character gets +2 {s} and
-gains Evasive. (Only characters with Evasive can
+gains Evasive. (Only characters wi ![[imagenes/lore.svg|20]]Evasive can
 challenge them.)
 
 ---
@@ -19665,7 +19732,7 @@ character of yours.
 you may remove up to 2 damage from chosen
 character. If you removed damage this way, you
 may draw a card.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Cinderella - Gentle and Kind
@@ -19998,7 +20065,7 @@ TIPTOE Your other characters with Rush gain Evasive.
 **Fuerza:** 4 | **Voluntad:** 6 | **Lore:** 3  
 **Set:** Fabled (FAB #9) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set9/43_2de43d81f0ad5fd3956dab9c711af9d3e51dcea2.jpg)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - Shift 6 {i} (You may pay 6 {i} to play this on top of one of
 your characters named Elsa.)
@@ -20063,7 +20130,7 @@ your next turn.
 
 
 **Habilidades:**
-- LET'S SHOW 'EM, DUMBO!: While you have a
+- LET'S SHOW 'EM, DUMBO!: ![[imagenes/lore.svg|20]]ile you have a
 character with Evasive in play, this character
 gets +1 {l}.
 
@@ -20846,7 +20913,7 @@ He can't quest for the rest of this turn.
 **Coste:** 3 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Super Rare  
 **Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Fabled (FAB #9) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set9/107_7bd66c5d93ee758d53ab7ce11999a690797d07f9.jpg)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this
@@ -20874,7 +20941,7 @@ you may banish chosen character.
 
 **Coste:** 2 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 3 | **Voluntad:** 2 | **Lore:** 1  
-**Set:** Fabled (FAB #9) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set9/109_a462af51d48b88ab01018a66347f20ef8c20c9f5.jpg)
+**Set:** Fabled (FAB #9) | [🖼️ Imagen](https://ap ![[imagenes/lore.svg|20]]orcana.ravensburger.com/images/en/set9/109_a462af51d48b88ab01018a66347f20ef8c20c9f5.jpg)
 
 
 **Habilidades:**
@@ -21192,7 +21259,7 @@ challenge them.)
 **Coste:** 6 | **Tipo:** Action | **Color:** Ruby | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Set:** Fabled (FAB #9) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set9/132_21518e470242915f38f67cd742b05b4d71202a36.jpg)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - Sing Together 6 (Any number of your or your teammates'
 characters with total cost 6 or more may {e} to sing this song
@@ -21317,7 +21384,7 @@ you may put chosen item into its player's inkwell
 facedown and exerted.
 MAKING WAVES Whenever this character quests,
 chosen opposing character gets -2 {s} this turn.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Mulan - Considerate Diplomat
@@ -21505,7 +21572,7 @@ remove up to 1 damage from chosen character
 of yours.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Belle - Inventive Engineer
 
 **Coste:** 3 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Uncommon  
@@ -21675,7 +21742,7 @@ on either the top or the bottom of your deck.
 
 
 **Habilidades:**
-- CREATE LIFE: {e}, 2 {i} - Put the top card of your deck
+- CREATE LIFE: {e}, 2 { ![[imagenes/lore.svg|20]]- Put the top card of your deck
 into your inkwell facedown and exerted.
 
 ---
@@ -21935,7 +22002,7 @@ chosen character gains Challenger +2 this turn.
 he gets +4 {s}.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Tinker Bell - Giant Fairy
 
 **Coste:** 6 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Super Rare  
@@ -22192,7 +22259,7 @@ a card under him, chosen opposing character can't
 challenge and must quest if able during their next turn.
 
 ---
-
+ ![[imagenes/lore.svg|20]]
 ## Rapunzel - Ready for Adventure
 
 **Coste:** 2 | **Tipo:** Character | **Color:** Amber | **Tinta:** ✗ | **Rareza:** Legendary  
@@ -22207,7 +22274,7 @@ ACT OF KINDNESS Whenever one of your characters is
 chosen for Support, until the start of your next turn,
 the next time they would be dealt damage they take no
 damage instead.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Headless Manhorse - Manny
@@ -22756,7 +22823,7 @@ play with a card under them, gain 1 lore.
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/44_93a576b9b6ede57baf162c1b22e912aa51517ef0.jpg)
 
 
-**Habilidades:**
+**Habilidades:** ![[imagenes/lore.svg|20]]
 - Evasive
 
 ---
@@ -22902,7 +22969,7 @@ draw 4 cards.
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/55_151723f186d73ed6952e22783cac041e2acfd50a.jpg)
 
 
-**Habilidades:**
+**Habilidades:** ![[imagenes/lore.svg|20]]
 - AD SAXUM COMMUTATE: When you play this
 character, exert all opposing characters. Then,
 each player with fewer than 3 cards in their hand
@@ -22970,7 +23037,7 @@ in a challenge, if he had a card under him, draw 2 cards.
 under this character.)
 SLIPPERY SPELL While there's a card under this
 character, she gets +1 {l} and gains Evasive. (Only
-characters with Evasive can challenge them.)
+characters with Evas ![[imagenes/lore.svg|20]] can challenge them.)
 
 ---
 
@@ -23182,7 +23249,7 @@ quests, you may banish chosen item.
 
 **Habilidades:**
 - TRY ME: While you have a character or location in
-play with a card under them, this character gains
+play with a card under them, this ![[imagenes/lore.svg|20]]aracter gains
 Ward. (Opponents can't choose them except to
 challenge.)
 
@@ -23250,7 +23317,7 @@ with Boost.
 under this character.)
 I'LL TAKE THAT While there's a card under this
 character, he gets +2 {s} and +1 {l}.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Bellwether - Master Manipulator
@@ -23392,7 +23459,7 @@ in that challenge.)
 **Fuerza:** 3 | **Voluntad:** 5 | **Lore:** 2  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/91_a45c71be705e9e73c49c19025ad077b67e552337.jpg)
 
-
+ ![[imagenes/lore.svg|20]]
 **Habilidades:**
 - EVEN THE SCORE: Whenever one of your other
 Emerald characters is challenged and banished,
@@ -23446,7 +23513,7 @@ and exerted.
 **Habilidades:**
 - Each of your characters gets +1 {s} this turn. You may
 banish chosen item.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Trust In Me
@@ -23486,7 +23553,7 @@ your next turn.
 - (A character with cost 3 or more can {e} to sing this
 song for free.)
 Put 1 damage counter on each opposing character.
-
+ ![[imagenes/lore.svg|20]]
 ---
 
 ## Potion of Malice
@@ -23743,7 +23810,7 @@ turn. (They can challenge the turn they're played.)
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/117_b0250d920777113d24e17f08f9eea9421f4b3d70.jpg)
 
 
-**Habilidades:**
+**Habilidades:** ![[imagenes/lore.svg|20]]
 - JOSTLING FOR POWER: King and Queen characters
 can't quest.
 GROWING INFLUENCE At the start of your turn,
@@ -23757,7 +23824,7 @@ play, gain 2 lore.
 **Coste:** 4 | **Tipo:** Character | **Color:** Ruby | **Tinta:** ✗ | **Rareza:** Legendary  
 **Fuerza:** 5 | **Voluntad:** 3 | **Lore:** 2  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/118_c1161fb30b9c1bcd95c1bd00d8e7fc4ae3e75daf.jpg)
-
+ ![[imagenes/lore.svg|20]]
 
 **Habilidades:**
 - EVER VIGILANT: This character can't be dealt
@@ -24309,7 +24376,7 @@ hand. Otherwise, put it on the top of your deck.
 
 ---
 
-## Daisy Duck - Sapphire Champion
+## Daisy Duck - Sapphire Ch ![[imagenes/lore.svg|20]]ion
 
 **Coste:** 5 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✗ | **Rareza:** Rare  
 **Fuerza:** 5 | **Voluntad:** 6 | **Lore:** 1  
@@ -24871,7 +24938,7 @@ Deal 4 damage to chosen character. Your Deity
 characters gain Challenger +2 this turn. (They get
 +2 {s} while challenging.)
 
----
+--- ![[imagenes/lore.svg|20]]
 
 ## The Game's Afoot!
 

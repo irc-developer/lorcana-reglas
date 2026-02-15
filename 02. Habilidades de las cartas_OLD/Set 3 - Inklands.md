@@ -94,7 +94,7 @@ PERHAPS WE CAN SAVE OUR FUTURE When you play this character, all characters get 
 
 GOOD AS NEW {E} — Reveal the top 3 cards of your deck. You may put each character card with cost 2 or less into your hand. Put the rest on the bottom of your deck in any order.
 
-PUPPY LOVE Whenever this character quests, if you have 4 or more other characters in play, your other characters get +1 {L} this turn.
+PUPPY LOVE Whenever this character quests, if you have 4 or more other characters in play, your other characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -156,7 +156,7 @@ COME ALONG, CHILDREN When you play this character and whenever she quests, you m
 
  ### [[Piglet - Pooh Pirate Captain]]
 
-AND I'M THE CAPTAIN! While you have 2 or more other characters in play, this character gets +2 {L}.
+AND I'M THE CAPTAIN! While you have 2 or more other characters in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -192,7 +192,7 @@ TWILIGHT BARK Once per turn, you may pay 2 {I} to reveal the top card of your de
 
  ### [[Queen of Hearts - Wonderland Empress]]
 
-ALL WAYS HERE ARE MY WAYS Whenever this character quests, your other Villain characters get +1 {L} this turn.
+ALL WAYS HERE ARE MY WAYS Whenever this character quests, your other Villain characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -588,7 +588,7 @@ USING THE MIRROR At the start of your turn, for each character you have here, yo
 
 BROOM CLOSET Your characters named Magic Broom may move here for free.
 
-MAGICAL POWER Characters get +1 {L} while here.
+MAGICAL POWER Characters get +1  ![[imagenes/lore.svg|20]] while here.
 
 ---
 
@@ -703,7 +703,7 @@ MIMICRY You may play any character with Shift on this character as if this chara
 
  ### [[Peter Pan - Lost Boy Leader]]
 
-I CAME TO LISTEN TO THE STORIES Once per turn, when this character moves to a location, gain lore equal to that location's {L}.
+I CAME TO LISTEN TO THE STORIES Once per turn, when this character moves to a location, gain lore equal to that location's  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -793,7 +793,7 @@ DISASSEMBLE {E} — Banish chosen item.
 
  ### [[Zazu - Steward of the Pride Lands]]
 
-IT'S TIME TO GO! While this character is at a location, he gets +1 {L}.
+IT'S TIME TO GO! While this character is at a location, he gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -965,7 +965,7 @@ THAT TERRIBLE WOMAN When you play this character, banish chosen opposing charact
 
 Reckless (This character can't quest and must challenge each turn if able.)
 
-IN MA BELLY Whenever a character of yours named HeiHei quests, this character gets +1 {L} and loses Reckless this turn.
+IN MA BELLY Whenever a character of yours named HeiHei quests, this character gets +1  ![[imagenes/lore.svg|20]] and loses Reckless this turn.
 
 ---
 
@@ -1077,7 +1077,7 @@ Rush (This character can challenge the turn they're played.)
 
  ### [[Trigger - Not-So-Sharp Shooter]]
 
-OLD BETSY Your characters named Nutsy get +1 {L}.
+OLD BETSY Your characters named Nutsy get +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1101,7 +1101,7 @@ Banish one of your characters with Reckless to banish chosen character with less
 
 (A character with cost 2 or more can {E} to sing this song for free.)
 
-Ready chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's {L}.
+Ready chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1407,7 +1407,7 @@ CREATE LIFE {E}, 2 {I} — Put the top card of your deck into your inkwell faced
 
 ### [[Lucky Dime]]
 
-NUMBER ONE {E}, 2 {I} — Choose a character of yours and gain lore equal to their {L}.
+NUMBER ONE {E}, 2 {I} — Choose a character of yours and gain lore equal to their  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1493,7 +1493,7 @@ Challenger +2 (While challenging, this character gets +2 {S}.)
 
 ### [[John Silver - Greedy Treasure Seeker]]
 
-CHART YOUR OWN COURSE For each location you have in play, this character gains Resist +1 and gets +1 {L}. (Damage dealt to them is reduced by 1.)
+CHART YOUR OWN COURSE For each location you have in play, this character gains Resist +1 and gets +1  ![[imagenes/lore.svg|20]]. (Damage dealt to them is reduced by 1.)
 
 ---
 
@@ -1511,7 +1511,7 @@ Bodyguard (This character may enter play exerted. An opposing character who chal
 
 Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Little John.)
 
-OKAY, BIG SHOT While this character is exerted, your characters with Bodyguard gain Resist +1 and get +1 {L}. (Damage dealt to them is reduced by 1.)
+OKAY, BIG SHOT While this character is exerted, your characters with Bodyguard gain Resist +1 and get +1  ![[imagenes/lore.svg|20]]. (Damage dealt to them is reduced by 1.)
 
 ---
 

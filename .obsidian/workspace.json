@@ -8,104 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab522799b4786fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.1. Bolsa/11.1.02. Tiana y su trigger post canción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.1.02. Tiana y su trigger post canción"
-            }
-          },
-          {
-            "id": "c92c4350a358ea76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empecemos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Empecemos"
-            }
-          },
-          {
-            "id": "e01accc95aa43e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/3. Juego (Gameplay)/3. Juego (Gameplay).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Juego (Gameplay)"
-            }
-          },
-          {
-            "id": "2406b8cdb89a6031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.1. Bolsa/11.1.01 Giant Cobra sin cartas en la mano.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.1.01 Giant Cobra sin cartas en la mano"
-            }
-          },
-          {
-            "id": "3c1cf80552c82ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Clausulas/11.2.02. Cláusula - Resolución parcial sin objetivo válido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.2.02. Cláusula - Resolución parcial sin objetivo válido"
-            }
-          },
-          {
-            "id": "0535ffe691b73a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/13. Artículos/La ventaja estructural en Disney Lorcana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La ventaja estructural en Disney Lorcana"
-            }
-          },
-          {
-            "id": "cf62eeb53d6f9d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1. General (General)"
-            }
-          },
-          {
             "id": "83152efd8f089e5b",
             "type": "leaf",
             "state": {
@@ -119,8 +21,7 @@
               "title": "Escudos (replacement) vs Resist"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{e}",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -271,49 +172,51 @@
   },
   "active": "83152efd8f089e5b",
   "lastOpenFiles": [
-    "02. Listado de Cartas/Cartas de Lorcana.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Escudos (replacement) vs Resist.md",
-    "01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge).md",
     "01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support).md",
     "01. Reglas/8. Palabras clave (Keywords)/8.12. Cantar Juntos (Sing Together).md",
     "01. Reglas/8. Palabras clave (Keywords)/8.11. Cantante (Singer).md",
-    "20. Reglas CR 1.X/6. Tipos de carta (Card types)/6.3. Acciones (Actions).md",
-    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md",
-    "Empecemos.md",
-    "01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters).md",
-    "01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States).md",
-    "01.1.a Official English Reference – Unmodified/5. Cards and Card Types.md",
-    "01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability).md",
-    "01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase).md",
-    "01.1.a Official English Reference – Unmodified/8. Keywords.md",
-    "Unifica/01. Reglas - 1. Principios generales (1.1-1.6).md",
-    "01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions.md",
-    "01. Reglas/4. Acciones de turno (Turn Actions)/4.2 Entintar una carta (Ink a Card).md",
-    "01.1.a Official English Reference – Unmodified/4. Turn Actions.md",
-    "01.1.a Official English Reference – Unmodified/1. Concepts.md",
-    "01. Reglas/1. Principios generales/1.5 Costes (Costs).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.9. Prisa (Rush).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.6. Evasivo (Evasive).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.5. Desafiador (Challenger).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.3. Guardaespaldas (Bodyguard).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.2. Alerta (alert).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.1. Generalidades (General).md",
+    "01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag).md",
+    "01. Reglas/7. Zonas (Zones)/7.6. Pila de descarte (Discard pile).md",
+    "01. Reglas/7. Zonas (Zones)/7.5. Pozo de tinta (Inkwell).md",
+    "01. Reglas/7. Zonas (Zones)/7.4. Juego (Play).md",
+    "01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck).md",
+    "01. Reglas/7. Zonas (Zones)/7.3. Mano (Hand).md",
+    "01. Reglas/7. Zonas (Zones)/7.1. General.md",
+    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md",
+    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md",
+    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities).md",
+    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md",
+    "09. Recursos/tiposdehabilidades.svg",
+    "imagenes/lore.svg",
+    "Unifica/convert_lore.py",
+    "Unifica/Lore.png",
+    "09. Recursos/resolucionHabilidades.svg",
     "imagenes/exert.svg",
     "Unifica/png_to_svg.py",
     "imagenes/800px-Exert-large.png",
-    "Sin título.md",
     "02. Listado de Cartas",
-    "Unifica/todas_las_cartas.md",
     "Unifica/generar_markdown.py",
     "Unifica/buscar_carta.py",
-    "Unifica/ejemplo_carta_inline.md",
-    "Unifica/ejemplo_carta_simple.md",
-    "Sobre mí como árbitro de Disney Lorcana.md",
     "Unifica/ver_resumen.py",
     "Unifica/cartas_filtradas.json",
     "Unifica/extraer_campos.py",
     "Unifica/cartaslorcanajson.json",
     "Unifica/Reglas_tmp.html",
-    "Unifica/Reglas.pdf",
     "09. Recursos/esquema-bolsa.svg",
     "09. Recursos/Esquema-Desafio.svg",
     "09. Recursos/Esquema-Jugar-Carta.svg",
-    "Pasted image 20260210172343.png",
-    "WhatsApp Image 2026-02-08 at 14.25.40.jpeg",
-    "imagenes/rapunzelexplicacion.jpeg"
+    "Pasted image 20260210172343.png"
   ]
 }

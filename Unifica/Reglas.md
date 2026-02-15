@@ -365,10 +365,10 @@ Empieza en 0 y no puede ser negativo.
 Si un jugador pierde lore mientras está en 0, no pierde nada.
 
 ### 1.11.2. Cantidad de puntos
-Algunos personajes y localizaciones tienen un valor de lore {L}.  
+Algunos personajes y localizaciones tienen un valor de lore  ![[imagenes/lore.svg|20]].  
 - Cuando un personaje hace quest, su controlador gana esa cantidad de lore.  
 - Si un personaje no tiene valor de lore o lo tiene reducido a 0, no gana lore.  
-- Una localización con {L} da ese lore al comienzo del turno de su controlador.
+- Una localización con  ![[imagenes/lore.svg|20]] da ese lore al comienzo del turno de su controlador.
 
 ### 1.11.3. Condición de victoria
 Si un jugador llega a 20 o más lore, gana la partida (ver 1.8.1.1).
@@ -565,7 +565,7 @@ Esto significa que ahora pueden:
 - Exert {E} para pagar costes de habilidades activadas (activated abilities) o canciones (song cards)
 
 #### 3.2.2.2. Ganar lore por localizaciones
-El active player gana el lore de todas las localizaciones que controle con valor {L}.  
+El active player gana el lore de todas las localizaciones que controle con valor  ![[imagenes/lore.svg|20]].  
 Esto no es una triggered ability y no usa la bag.
 
 #### 3.2.2.3. Habilidades disparadas durante el preparado

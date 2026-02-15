@@ -40,7 +40,7 @@ AND TWO FOR TEA! When you play this character, you may remove up to 2 damage fro
 
 Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Hades.)
 
-SINISTER PLOT This character gets +1 {L} for each other Villain character you have in play.
+SINISTER PLOT This character gets +1  ![[imagenes/lore.svg|20]] for each other Villain character you have in play.
 
 ---
 
@@ -947,7 +947,7 @@ THIS IS NOT WHO YOU ARE When you play this character, you may banish chosen char
 
 ### [[Mulan - Imperial Soldier]]
 
-LEAD BY EXAMPLE During your turn, whenever this character banishes another character in a challenge, your other characters get +1 {L} this turn.
+LEAD BY EXAMPLE During your turn, whenever this character banishes another character in a challenge, your other characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1139,7 +1139,7 @@ TINKER Whenever this character quests, you pay 1 {I} less for the next item you 
 
 READ A BOOK During your turn, you may put an additional card from your hand into your inkwell facedown.
 
-MY FAVORITE PART! While you have 10 or more cards in your inkwell, this character gets +4 {L}.
+MY FAVORITE PART! While you have 10 or more cards in your inkwell, this character gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1273,7 +1273,7 @@ INSIDIOUS PLOT When you play this character, chosen opposing character gets -5 {
 
 WHAT HAVE WE HERE? When you play this character and whenever he quests, you may return an item card from your discard to your hand.
 
-GLAM This character gets +1 {L} for each item you have in play.
+GLAM This character gets +1  ![[imagenes/lore.svg|20]] for each item you have in play.
 
 ---
 
@@ -1339,7 +1339,7 @@ CONSIDER THE COCONUT Whenever you play a character, you may remove up to 2 damag
 
 ### [[Eye of the Fates]]
 
-SEE THE FUTURE {E} — Chosen character gets +1 {L} this turn.
+SEE THE FUTURE {E} — Chosen character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1527,7 +1527,7 @@ I KNOW WHAT I HAVE TO DO During your turn, whenever this character banishes anot
 
 ### [[Starkey - Hook's Henchman]]
 
-AYE AYE, CAPTAIN While you have a Captain character in play, this character gets +1 {L}.
+AYE AYE, CAPTAIN While you have a Captain character in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1649,7 +1649,7 @@ QUICK SHOT {E}, 2 {I} — Deal 1 damage to chosen character.
 
 Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Hades.)
 
-SINISTER PLOT This character gets +1 {L} for each other Villain character you have in play.
+SINISTER PLOT This character gets +1  ![[imagenes/lore.svg|20]] for each other Villain character you have in play.
 
 ---
 
@@ -1737,7 +1737,7 @@ PROTECTIVE EMBRACE Your other characters gain Ward. (Opponents can't choose them
 
 READ A BOOK During your turn, you may put an additional card from your hand into your inkwell facedown.
 
-MY FAVORITE PART! While you have 10 or more cards in your inkwell, this character gets +4 {L}.
+MY FAVORITE PART! While you have 10 or more cards in your inkwell, this character gets +4  ![[imagenes/lore.svg|20]].
 
 ---
 

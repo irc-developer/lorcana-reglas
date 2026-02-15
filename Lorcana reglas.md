@@ -287,10 +287,10 @@ Debe reflejar siempre el lore actual durante la partida.
 Empieza en 0 y no puede ser negativo.  
 Si un jugador pierde lore mientras está en 0, no pierde nada.
 
-**1.11.2.** Algunos personajes y localizaciones tienen un valor de lore {L}.  
+**1.11.2.** Algunos personajes y localizaciones tienen un valor de lore  ![[imagenes/lore.svg|20]].  
 - Cuando un personaje hace quest, su controlador gana esa cantidad de lore.  
 - Si un personaje no tiene valor de lore o lo tiene reducido a 0, no gana lore.  
-- Una localización con {L} da ese lore al comienzo del turno de su controlador.
+- Una localización con  ![[imagenes/lore.svg|20]] da ese lore al comienzo del turno de su controlador.
 
 **1.11.3.** Si un jugador llega a 20 o más lore, gana la partida (ver 1.8.1.1).
 
@@ -449,7 +449,7 @@ Esto significa que ahora pueden:
 - Challenge  
 - Exert {E} para pagar costes de habilidades activadas (activated abilities) o canciones (song cards)
 
-**3.2.2.2.** El active player gana el lore de todas las localizaciones que controle con valor {L}.  
+**3.2.2.2.** El active player gana el lore de todas las localizaciones que controle con valor  ![[imagenes/lore.svg|20]].  
 Esto no es una triggered ability y no usa la bag.
 
 **3.2.2.3.** El active player resuelve todas las triggered abilities que estén en la bag y que se hayan añadido durante Ready o Set.
@@ -698,7 +698,7 @@ Para hacer quest con un personaje, se sigue este proceso:
 
 **4.5.1.3.** Tercero, el jugador exert el personaje.
 
-**4.5.1.4.** Cuarto, el jugador gana lore igual al valor {L} del personaje.  
+**4.5.1.4.** Cuarto, el jugador gana lore igual al valor  ![[imagenes/lore.svg|20]] del personaje.  
 Aquí termina el proceso.
 
 **4.5.2.** Cuando el jugador gana el lore, el personaje ha “quested”.  
@@ -1073,7 +1073,7 @@ Chip ’n‘ Dale – Recovery Rangers no tiene un ampersand (&) en el nombre, p
 Categorías que describen características de la carta y que pueden ser referenciadas por otras cartas.
 
 **Ejemplo:**  
-Hades – King of Olympus obtiene +1 {L} por cada personaje Villain que controles.
+Hades – King of Olympus obtiene +1  ![[imagenes/lore.svg|20]] por cada personaje Villain que controles.
 
 ### 5.2.8. Texto de reglas (Rules Text)
 El espacio donde aparecen habilidades (abilities), efectos (effects) y reglas.  

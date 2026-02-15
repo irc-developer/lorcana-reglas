@@ -476,7 +476,7 @@ PLEASING THE QUEEN {E} — Chosen exerted character can't ready at the start of 
 
 ### [[Camilo Madrigal - Family Copycat]]
 
-IMITATE Whenever this character quests, you may gain lore equal to the {L} of chosen other character of yours. Return that character to your hand.
+IMITATE Whenever this character quests, you may gain lore equal to the  ![[imagenes/lore.svg|20]] of chosen other character of yours. Return that character to your hand.
 
 ---
 
@@ -734,7 +734,7 @@ HERE KITTY, KITTY, KITTY When you play this character, you may exert chosen dama
 
 Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Robin Hood.)
 
-CLEVER PLAN This character gets +1 {L} for each opposing damaged character in play.
+CLEVER PLAN This character gets +1  ![[imagenes/lore.svg|20]] for each opposing damaged character in play.
 
 ---
 
@@ -1142,7 +1142,7 @@ ON YOUR MARKS! Once per turn, you may {E} chosen character here and deal them 1 
 
 ### [[Ratigan's Party - Seedy Back Room]]
 
-MISFITS' REVELRY While you have a damaged character here, this location gets +2 {L}.
+MISFITS' REVELRY While you have a damaged character here, this location gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1206,7 +1206,7 @@ Shift 3 (You may pay 3 {I} to play this on top of one of your characters named T
 
 Ward (Opponents can't choose this character except to challenge.)
 
-REFLECTIONS OF VANITY For each other character named The Queen you have in play, this character gets +1 {L}.
+REFLECTIONS OF VANITY For each other character named The Queen you have in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1390,7 +1390,7 @@ Put chosen character of yours into your inkwell facedown and exerted.
 
 ### [[Medal of Heroes]]
 
-CONGRATULATIONS, SOLDIER {E}, 2 {I}, Banish this item — Chosen character of yours gets +2 {L} this turn.
+CONGRATULATIONS, SOLDIER {E}, 2 {I}, Banish this item — Chosen character of yours gets +2  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1424,7 +1424,7 @@ SAPPHIRE LIGHT {E}, 2 {I}, Banish one of your items — Gain 2 lore.
 
 ### [[The Great Illuminary - Radiant Ballroom]]
 
-WARM WELCOME Characters with Support get +1 {L} and +2 {W} while here.
+WARM WELCOME Characters with Support get +1  ![[imagenes/lore.svg|20]] and +2 {W} while here.
 
 ---
 
@@ -1830,7 +1830,7 @@ MY GREATEST PERFORMANCE Whenever this character quests, look at the top 4 cards 
 
 ### [[Ratigan's Party - Seedy Back Room]]
 
-MISFITS' REVELRY While you have a damaged character here, this location gets +2 {L}.
+MISFITS' REVELRY While you have a damaged character here, this location gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 

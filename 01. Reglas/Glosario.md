@@ -59,7 +59,7 @@ Zona privada donde se colocan las cartas de tinta.
 Habilidad representada por un nombre corto en negrita.
 
 **location (localización)**  
-Carta con {W}, posible {L} y coste de movimiento.
+Carta con {W}, posible  ![[imagenes/lore.svg|20]] y coste de movimiento.
 
 **lore (lore)**  
 Recurso que los jugadores intentan alcanzar hasta 20.

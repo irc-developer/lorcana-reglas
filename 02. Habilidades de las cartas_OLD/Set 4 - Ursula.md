@@ -24,7 +24,7 @@ Singer 7 (This character counts as cost 7 to sing songs.)
 
 Singer 9 (This character counts as cost 9 to sing songs.)
 
-BEAUTIFUL VOICE Whenever this character sings a song, your other Princess characters get +1 {L} this turn.
+BEAUTIFUL VOICE Whenever this character sings a song, your other Princess characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -56,7 +56,7 @@ INFILTRATION When you play this character, each opponent chooses and discards a 
 
 Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
 
-WAIT FOR ME! When you play this character, chosen character gets +1 {L} this turn.
+WAIT FOR ME! When you play this character, chosen character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -144,7 +144,7 @@ DRAMATIC ENTRANCE When you play this character, banish chosen opposing character
 
 Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)
 
-SAVING THE MIRACLE Whenever this character quests, your other Madrigal characters get +1 {L} this turn.
+SAVING THE MIRACLE Whenever this character quests, your other Madrigal characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -332,7 +332,7 @@ YOU JUST HAVE TO SEE IT {E} — Name a card, then reveal the top card of your de
 
 MANY FORMS At the start of your turn, you may choose one:
 
-• This character gets +1 {L} this turn.
+• This character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 • This character gains Challenger +2 this turn. (While challenging, this character gets +2 {S}.)
 
@@ -380,7 +380,7 @@ Shift: Discard 2 cards (You may discard 2 cards to play this on top of one of yo
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-LADIES FIRST During your turn, if no other character has quested this turn, this character gets +3 {L}.
+LADIES FIRST During your turn, if no other character has quested this turn, this character gets +3  ![[imagenes/lore.svg|20]].
 
 LEAVE IT TO ME Whenever this character quests, your other characters can't quest for the rest of this turn.
 
@@ -500,7 +500,7 @@ YOU'LL LISTEN TO ME! Other characters can't exert to sing songs.
 
 TIMELY INTERVENTION When you play this character, if you have a character named Magic Broom in play, you may draw a card.
 
-ARCANE STUDY While you have 2 or more Broom characters in play, this character gets +2 {L}.
+ARCANE STUDY While you have 2 or more Broom characters in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -544,7 +544,7 @@ Each opponent chooses and exerts one of their characters. Those characters can't
 
 ### [[Mystical Rose]]
 
-DISPEL THE ENTANGLEMENT Banish this item — Chosen character named Beast gets +2 {L} this turn. If you have a character named Belle in play, move up to 3 damage counters from chosen character to chosen opposing character.
+DISPEL THE ENTANGLEMENT Banish this item — Chosen character named Beast gets +2  ![[imagenes/lore.svg|20]] this turn. If you have a character named Belle in play, move up to 3 damage counters from chosen character to chosen opposing character.
 
 ---
 
@@ -578,7 +578,7 @@ OUR HOME At the start of your turn, if you have a character here gain 1 lore.
 
 SLIPPERY HALLS Whenever a character is banished in a challenge while here, you may return them to your hand.
 
-SEAT OF POWER Characters named Ursula get +1 {L} while here.
+SEAT OF POWER Characters named Ursula get +1  ![[imagenes/lore.svg|20]] while here.
 
 ---
 
@@ -874,7 +874,7 @@ REVITALIZING WATERS Characters get +1 {S} and +1 {W} while here.
 
 ### [[Ursula’s Garden - Full of the Unfortunate]]
 
-ABANDON HOPE While you have an exerted character here, opposing characters get -1 {L}.
+ABANDON HOPE While you have an exerted character here, opposing characters get -1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -956,7 +956,7 @@ Reckless (This character can't quest and must challenge each turn if able.)
 
 Shift: Discard a character card (You may discard a character card to play this on top of one of your characters named Li Shang.)
 
-LEAD THE CHARGE Your characters with 4 {S} or more get +1 {L}.
+LEAD THE CHARGE Your characters with 4 {S} or more get +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1172,7 +1172,7 @@ STRENGTH OF MIND 1 {I} — Chosen character here gets +1 {S} this turn.
 
 ### [[Anna - Braving the Storm]]
 
-I WAS BORN READY If you have another Hero character in play, this character gets +1 {L}.
+I WAS BORN READY If you have another Hero character in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1180,7 +1180,7 @@ I WAS BORN READY If you have another Hero character in play, this character gets
 
 ### [[Anna - True-Hearted]]
 
-LET ME HELP YOU Whenever this character quests, your other Hero characters get +1 {L} this turn.
+LET ME HELP YOU Whenever this character quests, your other Hero characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1190,7 +1190,7 @@ LET ME HELP YOU Whenever this character quests, your other Hero characters get +
 
 Ward (Opponents can't choose this character except to challenge.)
 
-THE GIRL WHO HAS EVERYTHING While you have more items in play than each opponent, this character gets +2 {L}.
+THE GIRL WHO HAS EVERYTHING While you have more items in play than each opponent, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1442,7 +1442,7 @@ CHILLY LABOR {E} — Chosen character gets -1 {S} this turn.
 
 ### [[Ariel’s Grotto - A Secret Place]]
 
-TREASURE TROVE While you have 3 or more items in play, this location gets +2 {L}.
+TREASURE TROVE While you have 3 or more items in play, this location gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1506,7 +1506,7 @@ Resist +1 (Damage dealt to this character is reduced by 1.)
 
 ### [[Chi-Fu - Imperial Advisor]]
 
-OVERLY CAUTIOUS While this character has no damage, he gets +2 {L}.
+OVERLY CAUTIOUS While this character has no damage, he gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1522,7 +1522,7 @@ Bodyguard (This character may enter play exerted. An opposing character who chal
 
 ### [[Donald Duck - Buccaneer]]
 
-BOARDING PARTY During your turn, whenever this character banishes a character in a challenge, your other characters get +1 {L} this turn.
+BOARDING PARTY During your turn, whenever this character banishes a character in a challenge, your other characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1752,7 +1752,7 @@ IF YOU CAN MAKE IT HERE... During your turn, whenever a character banishes anoth
 
 Singer 9 (This character counts as cost 9 to sing songs.)
 
-BEAUTIFUL VOICE Whenever this character sings a song, your other Princess characters get +1 {L} this turn.
+BEAUTIFUL VOICE Whenever this character sings a song, your other Princess characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1794,7 +1794,7 @@ YOU'LL LISTEN TO ME! Other characters can't exert to sing songs.
 
 TIMELY INTERVENTION When you play this character, if you have a character named Magic Broom in play, you may draw a card.
 
-ARCANE STUDY While you have 2 or more Broom characters in play, this character gets +2 {L}.
+ARCANE STUDY While you have 2 or more Broom characters in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1870,7 +1870,7 @@ ROUTINE RUCKUS Whenever a character with 3 {S} or more challenges another charac
 
 ### [[Anna - True-Hearted]]
 
-LET ME HELP YOU Whenever this character quests, your other Hero characters get +1 {L} this turn.
+LET ME HELP YOU Whenever this character quests, your other Hero characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -1886,7 +1886,7 @@ CONSULT THE SPELLBOOK {E} — Look at the top 4 cards of your deck. You may reve
 
 ### [[Ariel’s Grotto - A Secret Place]]
 
-TREASURE TROVE While you have 3 or more items in play, this location gets +2 {L}.
+TREASURE TROVE While you have 3 or more items in play, this location gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -1924,7 +1924,7 @@ PROTECT THE REALM While you have an exerted character here, your other locations
 
 TIMELY INTERVENTION When you play this character, if you have a character named Magic Broom in play, you may draw a card.
 
-ARCANE STUDY While you have 2 or more Broom characters in play, this character gets +2 {L}.
+ARCANE STUDY While you have 2 or more Broom characters in play, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 

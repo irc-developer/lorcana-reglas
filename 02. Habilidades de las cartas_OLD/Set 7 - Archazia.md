@@ -68,7 +68,7 @@ CAPTIVE AUDIENCE {E} — If you have 3 or more other characters in play, draw a 
 
 Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
 
-NO THANKS NECESSARY Once during your turn, whenever a card is put into your inkwell, your other characters with Bodyguard get +1 {L} this turn.
+NO THANKS NECESSARY Once during your turn, whenever a card is put into your inkwell, your other characters with Bodyguard get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -120,7 +120,7 @@ IF THE SLIPPER FITS When you play this character, you may put an item card named
 
 ### [[Mariano Guzman - Handsome Suitor]]
 
-I SEE YOU While you have a character named Dolores Madrigal in play, this character gets +1 {L}.
+I SEE YOU While you have a character named Dolores Madrigal in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -190,7 +190,7 @@ BACK TO START POSITIONS! Whenever this character challenges another character, y
 
 ### [[Wreck-It Ralph - Hero's Duty]]
 
-OUTFLANK During your turn, whenever one of your other characters is banished, this character gets +1 {L} this turn.
+OUTFLANK During your turn, whenever one of your other characters is banished, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 
@@ -216,9 +216,9 @@ HE NEEDS ME At the end of your turn, if this character is exerted, you may ready
 
 ### [[Minnie Mouse - Storyteller]]
 
-GATHER AROUND Whenever you play a character, this character gets +1 {L} this turn.
+GATHER AROUND Whenever you play a character, this character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
-JUST ONE MORE Whenever this character quests, chosen opposing character loses {S} equal to this character's {L} until the start of your next turn.
+JUST ONE MORE Whenever this character quests, chosen opposing character loses {S} equal to this character's  ![[imagenes/lore.svg|20]] until the start of your next turn.
 
 ---
 
@@ -668,7 +668,7 @@ DUCK OF ACTION Whenever this character is challenged, you may return an action c
 
 ### [[Lady - Elegant Spaniel]]
 
-A DOG'S LIFE While you have a character named Tramp in play, this character gets +1 {L}.
+A DOG'S LIFE While you have a character named Tramp in play, this character gets +1  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -680,7 +680,7 @@ HOW SHALL I DO IT? When you play this character, you may draw a card, then choos
 
 ### [[Pacha - Trekmate]]
 
-FULL PACK While you have more cards in your hand than each opponent, this character gets +2 {L}.
+FULL PACK While you have more cards in your hand than each opponent, this character gets +2  ![[imagenes/lore.svg|20]].
 
 ---
 
@@ -926,7 +926,7 @@ HOW ON EARTH DID THAT HAPPEN? When you play this character, you may banish chose
 
 Evasive (Only characters with Evasive can challenge this character.)
 
-STAR POWER Whenever this character challenges another character, your other characters get +1 {L} this turn.
+STAR POWER Whenever this character challenges another character, your other characters get +1  ![[imagenes/lore.svg|20]] this turn.
 
 ---
 

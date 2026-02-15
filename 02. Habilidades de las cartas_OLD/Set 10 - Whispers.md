@@ -31,12 +31,12 @@ Support (Whenever this character quests, you may add their {S} to another chosen
 --- 
 
 ### [[Scrooge Mcduck - On the Right Track]]
-FABULOUS WEALTH When you play this character, choose a character that has a card under it. That character gets +1 {L} this turn.
+FABULOUS WEALTH When you play this character, choose a character that has a card under it. That character gets +1  ![[imagenes/lore.svg|20]] this turn.
 
 --- 
 
 ### [[Webby Vanderquack - Knowledge Seeker]]
-I’VE READ ABOUT THIS While you have a character or location in play with a card under them, this character gets +1 {L}.
+I’VE READ ABOUT THIS While you have a character or location in play with a card under them, this character gets +1  ![[imagenes/lore.svg|20]].
 
 --- 
 
@@ -253,7 +253,7 @@ LOOK WHO'S BACK When this character is banished in a challenge, return this card
 --- 
 
 ### [[The Horned King - Triumphant Ghoul]]
-GRAND MACHINATIONS During your turn, if 1 or more cards have left a player's discard this turn, this character gets +2 {L}.
+GRAND MACHINATIONS During your turn, if 1 or more cards have left a player's discard this turn, this character gets +2  ![[imagenes/lore.svg|20]].
 
 --- 
 
@@ -305,7 +305,7 @@ LEGACY OF LEARNING When this character is banished in a challenge, if he had a c
 
 ### [[Ursula - Whisper of Vanessa]]
 Boost 1 {I} (Once during your turn, you may pay 1 {I} to put the top card of your deck facedown under this character.)
-SLIPPERY SPELL While there's a card under this character, she gets +1 {L} and gains Evasive. (Only characters with Evasive can challenge them.)
+SLIPPERY SPELL While there's a card under this character, she gets +1  ![[imagenes/lore.svg|20]] and gains Evasive. (Only characters with Evasive can challenge them.)
 
 --- 
 
@@ -412,7 +412,7 @@ RECOMMENDED READING When you play this character, you may put the top card of yo
 
 ### [[Flynn Rider - Ghostly Rogue]]
 Boost 2 {I} (Once during your turn, you may pay 2 {I} to put the top card of your deck face down under this character.)
-I'LL TAKE THAT As long as this character has at least one card under it, it gets +2 {S} and +1 {L}.
+I'LL TAKE THAT As long as this character has at least one card under it, it gets +2 {S} and +1  ![[imagenes/lore.svg|20]].
 
 --- 
 
@@ -440,7 +440,7 @@ ROLL WITH IT When you play this character, choose one:
 
 ### [[Megara - Secret Keeper]]
 Boost 1 {I} (Once during your turn, you may pay 1 {I} to put the top card of your deck facedown under this character.)
-I'LL BE FINE While there's a card under this character, she gets +1 {L} and gains "Whenever this character is challenged, each opponent chooses and discards a card."
+I'LL BE FINE While there's a card under this character, she gets +1  ![[imagenes/lore.svg|20]] and gains "Whenever this character is challenged, each opponent chooses and discards a card."
 
 --- 
 
@@ -623,12 +623,12 @@ STONE BY DAY If you have 3 or more cards in your hand, this character can't read
 
 ### [[Donald Duck - Ruby Champion]]
 HIGH ENERGY Your other Ruby characters get +1 {S}.
-POWERFUL REWARD Your other Ruby characters with 7 {S} or more get +1 {L}.
+POWERFUL REWARD Your other Ruby characters with 7 {S} or more get +1  ![[imagenes/lore.svg|20]].
 
 --- 
 
 ### [[Elisa Maza - Intrepid Investigator]]
-SPECIAL DETAIL While you have 2 or more other characters in play with 5 {S} or more, this character gets +2 {L}.
+SPECIAL DETAIL While you have 2 or more other characters in play with 5 {S} or more, this character gets +2  ![[imagenes/lore.svg|20]].
 
 --- 
 
@@ -792,7 +792,7 @@ Look at the top 4 cards of your deck. Put 1 on the top of your deck and the rest
 --- 
 
 ### [[Promising Lead]]
-Chosen character gets +1 {L} and gains Support this turn. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
+Chosen character gets +1  ![[imagenes/lore.svg|20]] and gains Support this turn. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
 
 --- 
 
@@ -991,7 +991,7 @@ GRAND MACHINATIONS During your turn, if 1 or more cards have left a player's dis
 
 ### [[Megara - Secret Keeper]]
 Boost 1 {I} (Once during your turn, you may pay 1 {I} to put the top card of your deck facedown under this character.)
-I’LL BE FINE While there’s a card under this character, she gets +1 {L} and gains "Whenever this character is challenged, each opponent chooses and discards a card."
+I’LL BE FINE While there’s a card under this character, she gets +1  ![[imagenes/lore.svg|20]] and gains "Whenever this character is challenged, each opponent chooses and discards a card."
 
 --- 
 
