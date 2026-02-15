@@ -55,7 +55,7 @@ Son habilidades que un jugador elige usar. Normalmente se escriben como **[Coste
 
 • **Uso**: El jugador activo puede usar una habilidad activada cuando no hay efectos esperando a resolverse y el personaje no está questeando o desafiando [CR-7.5.2, CR-256].
 
-• **Costes**: Se debe pagar el coste completo de la habilidad, que puede incluir coste de tinta ({I}), agotar ({E}) u otros requisitos [CR-7.5.3.2, CR-303].
+• **Costes**: Se debe pagar el coste completo de la habilidad, que puede incluir coste de tinta ({I}), agotar (![[imagenes/exert.svg|20]]) u otros requisitos [CR-7.5.3.2, CR-303].
 
 • **Timing**: Las habilidades activadas de **ítems** se pueden usar el mismo turno en que se juegan [CR-4.3.8.3, CR-236, CR-310]. Las de **personajes** que requieren agotarse solo se pueden usar si el personaje está "seco" (en juego desde el inicio del turno) [CR-4.3.8.2, CR-220, CR-306].
 

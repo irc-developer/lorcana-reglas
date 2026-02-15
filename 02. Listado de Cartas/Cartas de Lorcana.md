@@ -1,4 +1,4 @@
-# Cartas de Lorcana
+
 
 # Set 1: The First Chapter (TFC)
 
@@ -10,7 +10,7 @@
 
 
 **Habilidades:**
-- Voiceless - This character can't {e} to sing songs.
+- Voiceless - This character can't ![[imagenes/exert.svg|20]] to sing songs.
 
 ---
 
@@ -36,7 +36,7 @@
 
 **Habilidades:**
 - Singer 5
-- A Wonderful Dream - {e} - Remove up to 3 damage from chosen Princess character.
+- A Wonderful Dream - ![[imagenes/exert.svg|20]] - Remove up to 3 damage from chosen Princess character.
 
 ---
 
@@ -279,7 +279,7 @@
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.
 
 ---
@@ -302,7 +302,7 @@
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Remove up to 3 damage from each of your characters.
 
 ---
@@ -336,7 +336,7 @@
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Return a character card from your discard to your hand.
 
 ---
@@ -359,7 +359,7 @@
 
 
 **Habilidades:**
-- Straighten Hair: {e} - Remove up to 1 damage from chosen character.
+- Straighten Hair: ![[imagenes/exert.svg|20]] - Remove up to 1 damage from chosen character.
 
 ---
 
@@ -370,7 +370,7 @@
 
 
 **Habilidades:**
-- Birthday Lights - {e} - You play 1 {i} less for the next character you play this turn.
+- Birthday Lights - ![[imagenes/exert.svg|20]] - You play 1 {i} less for the next character you play this turn.
 
 ---
 
@@ -458,7 +458,7 @@
 
 
 **Habilidades:**
-- Freeze -{e} - Exert chosen opposing character.
+- Freeze -![[imagenes/exert.svg|20]] - Exert chosen opposing character.
 
 ---
 
@@ -630,7 +630,7 @@
 
 
 **Habilidades:**
-- I Summon Thee - {e} - Draw a card.
+- I Summon Thee - ![[imagenes/exert.svg|20]] - Draw a card.
 
 ---
 
@@ -722,7 +722,7 @@
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Draw 2 Cards
 
 ---
@@ -734,7 +734,7 @@
 
 
 **Habilidades:**
-- (A character with cost 1 or more can {e} to sing this song for free.)
+- (A character with cost 1 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.
 
 ---
@@ -746,7 +746,7 @@
 
 
 **Habilidades:**
-- Speak! - {e}, 4 {i} - Draw a card.
+- Speak! - ![[imagenes/exert.svg|20]], 4 {i} - Draw a card.
 
 ---
 
@@ -757,7 +757,7 @@
 
 
 **Habilidades:**
-- Peer Into The Depths - {e} - Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.
+- Peer Into The Depths - ![[imagenes/exert.svg|20]] - Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.
 
 ---
 
@@ -768,7 +768,7 @@
 
 
 **Habilidades:**
-- I'm Late! - {e}, 1{i} - Chosen character gains Rush this turn. (They can challenge the turn they're played.)
+- I'm Late! - ![[imagenes/exert.svg|20]], 1{i} - Chosen character gains Rush this turn. (They can challenge the turn they're played.)
 
 ---
 
@@ -900,7 +900,7 @@
 
 
 **Habilidades:**
-- You Got A Problem? - {e} - Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)
+- You Got A Problem? - ![[imagenes/exert.svg|20]] - Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)
 
 ---
 
@@ -1069,7 +1069,7 @@
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Return chosen character to their player's hand.
 
 ---
@@ -1103,7 +1103,7 @@
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Each opponent chooses and discards a card.
 
 ---
@@ -1137,7 +1137,7 @@
 
 
 **Habilidades:**
-- The Cards Will Tell - {e} - You pay 1 {i} less for the next action you play this turn.
+- The Cards Will Tell - ![[imagenes/exert.svg|20]] - You pay 1 {i} less for the next action you play this turn.
 
 ---
 
@@ -1148,7 +1148,7 @@
 
 
 **Habilidades:**
-- Slash - {e} - Chosen character gets +1 {s} this turn. If a character named Aladdin is chosen, he get +2 {s} instead.
+- Slash - ![[imagenes/exert.svg|20]] - Chosen character gets +1 {s} this turn. If a character named Aladdin is chosen, he get +2 {s} instead.
 
 ---
 
@@ -1436,7 +1436,7 @@
 
 
 **Habilidades:**
-- (A character with cost 7 or more can {e} to sing this song for free.)
+- (A character with cost 7 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Banish all Characters.
 
 ---
@@ -1514,7 +1514,7 @@
 
 
 **Habilidades:**
-- Fireproof - {e}, 3 {i} - Ready chosen character. They can't quest for the rest of this turn.
+- Fireproof - ![[imagenes/exert.svg|20]], 3 {i} - Ready chosen character. They can't quest for the rest of this turn.
 
 ---
 
@@ -1824,7 +1824,7 @@
 
 
 **Habilidades:**
-- (A character with cost 5 or more can {e} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Put chosen character into their player's inkwell facedown and exerted.
 
 ---
@@ -1836,7 +1836,7 @@
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Put the top card of your deck into your inkwell facedown and exerted.
 
 ---
@@ -1870,7 +1870,7 @@
 
 
 **Habilidades:**
-- See The Future - {e} - Chosen character gets +1 {l} this turn.
+- See The Future - ![[imagenes/exert.svg|20]] - Chosen character gets +1 {l} this turn.
 
 ---
 
@@ -1881,7 +1881,7 @@
 
 
 **Habilidades:**
-- Go Ahead And Sing - {e} - Put any card from your hand into your inkwell facedown.
+- Go Ahead And Sing - ![[imagenes/exert.svg|20]] - Put any card from your hand into your inkwell facedown.
 
 ---
 
@@ -1903,7 +1903,7 @@
 
 
 **Habilidades:**
-- Command - {e}- Chosen character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)
+- Command - ![[imagenes/exert.svg|20]]- Chosen character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)
 
 ---
 
@@ -2170,7 +2170,7 @@
 
 
 **Habilidades:**
-- Battle Plans - {e} - Draw a card, then choose and discard a card.
+- Battle Plans - ![[imagenes/exert.svg|20]] - Draw a card, then choose and discard a card.
 
 ---
 
@@ -2181,7 +2181,7 @@
 
 
 **Habilidades:**
-- (A character with cost 5 or more can {e} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Each player discards their hand and draws 7 cards.
 
 ---
@@ -2215,7 +2215,7 @@
 
 
 **Habilidades:**
-- (A character with cost 5 or more can {e} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Deal 2 damage to each opposing character.
 
 ---
@@ -2249,7 +2249,7 @@
 
 
 **Habilidades:**
-- Show Me - {e}, 3 {i} - If you have no cards in your hand, draw a card.
+- Show Me - ![[imagenes/exert.svg|20]], 3 {i} - If you have no cards in your hand, draw a card.
 
 ---
 
@@ -2282,7 +2282,7 @@
 
 
 **Habilidades:**
-- Quick Shot - {e}, 2 {i}: Deal 1 damage to chosen character.
+- Quick Shot - ![[imagenes/exert.svg|20]], 2 {i}: Deal 1 damage to chosen character.
 
 ---
 
@@ -2515,7 +2515,7 @@
 
 
 **Habilidades:**
-- Magic Hair - {e}: Remove up to 2 damage from chosen character.
+- Magic Hair - ![[imagenes/exert.svg|20]]: Remove up to 2 damage from chosen character.
 
 ---
 
@@ -2630,7 +2630,7 @@
 
 
 **Habilidades:**
-- {A character with cost X or more can {e} to sing this song for free.)
+- {A character with cost X or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Up to 2 chosen characters get -1 {s} this turn. Draw a card.
 
 ---
@@ -2642,7 +2642,7 @@
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
  
  Banish chosen character with 5 {s} or more.
 
@@ -2655,7 +2655,7 @@
 
 
 **Habilidades:**
-- {A character with cost X or more can {e} to sing this song for free.)
+- {A character with cost X or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Count the number of characters you have in play. You pay that amount of {i} less for the next character you play this turn.
 
 ---
@@ -2667,7 +2667,7 @@
 
 
 **Habilidades:**
-- Bring Back To Life: {e}, 3 {i} - Return a character card with Support from your discard to your hand.
+- Bring Back To Life: ![[imagenes/exert.svg|20]], 3 {i} - Return a character card with Support from your discard to your hand.
 
 ---
 
@@ -2678,7 +2678,7 @@
 
 
 **Habilidades:**
-- A Silly Song - {e}: If you played a song this turn, gain 1 lore.
+- A Silly Song - ![[imagenes/exert.svg|20]]: If you played a song this turn, gain 1 lore.
 
 ---
 
@@ -3001,7 +3001,7 @@ Cruel Irony: When you play this character, shuffle another chosen character card
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)
 
 ---
@@ -3024,7 +3024,7 @@ Play a character with cost 4 or less for free. They gain Rush. At the end of the
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Chosen character gains Challenger +3 this turn. (They get +3 {s} while challenging.)
 
 ---
@@ -3036,7 +3036,7 @@ Chosen character gains Challenger +3 this turn. (They get +3 {s} while challengi
 
 
 **Habilidades:**
-- For All Eternity: {e}, {e} one of you character - Exert chosen character.
+- For All Eternity: ![[imagenes/exert.svg|20]], ![[imagenes/exert.svg|20]] one of you character - Exert chosen character.
 
 ---
 
@@ -3069,7 +3069,7 @@ Chosen character gains Challenger +3 this turn. (They get +3 {s} while challengi
 
 
 **Habilidades:**
-- Knowledge: {e}, 1 {i} - Gain 1 lore.
+- Knowledge: ![[imagenes/exert.svg|20]], 1 {i} - Gain 1 lore.
 
 ---
 
@@ -3149,7 +3149,7 @@ Squeak: Whenever you play a Floodborn character, each opponent chooses and disca
 **Habilidades:**
 - Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Cheshire Cat.)
 Evasive (Only characters with Evasive can challenge this character.)
-Wicked Smile: {e} - Banish chosen damaged character.
+Wicked Smile: ![[imagenes/exert.svg|20]] - Banish chosen damaged character.
 
 ---
 
@@ -3364,7 +3364,7 @@ I Sentence You: Whenever your opponents discards 1 or more cards, you may draw a
 
 
 **Habilidades:**
-- A Perfect Disguise: {e}, Choose and discard a character card - Gain lore equal to the discarded character's {l}.
+- A Perfect Disguise: ![[imagenes/exert.svg|20]], Choose and discard a character card - Gain lore equal to the discarded character's {l}.
 
 ---
 
@@ -3391,7 +3391,7 @@ I Sentence You: Whenever your opponents discards 1 or more cards, you may draw a
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Return chosen character of your to your hand to play another character with the same cost or less for free.
 
 ---
@@ -3635,7 +3635,7 @@ Undersea Adventure: Whenever you play a second action in a turn, this character 
 
 
 **Habilidades:**
-- This Shouldn't Take Long: {e}, Banish this character - Banish chosen character.
+- This Shouldn't Take Long: ![[imagenes/exert.svg|20]], Banish this character - Banish chosen character.
 
 ---
 
@@ -3765,7 +3765,7 @@ Daddy Isn't Here To Save You: During your turn, whenever this character banishes
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Ready chosen damaged character of yours. They can't quest for the rest of this turn. Draw a card.
 
 ---
@@ -3777,7 +3777,7 @@ Ready chosen damaged character of yours. They can't quest for the rest of this t
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Deal 2 damage to chosen character of yours to deal 2 damaged to another chosen character.
 
 ---
@@ -3789,7 +3789,7 @@ Deal 2 damage to chosen character of yours to deal 2 damaged to another chosen c
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Banish chosen Villain of your to banish chosen character.
 
 ---
@@ -3812,7 +3812,7 @@ Banish chosen Villain of your to banish chosen character.
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)
 
 ---
@@ -3824,7 +3824,7 @@ Chosen character gains Evasive until the start of your next turn. (Only characte
 
 
 **Habilidades:**
-- You Know What Happens: {e}, 2 {i} - Draw cards equal to the damage on chosen character of yours, then banish them.
+- You Know What Happens: ![[imagenes/exert.svg|20]], 2 {i} - Draw cards equal to the damage on chosen character of yours, then banish them.
 
 ---
 
@@ -3846,7 +3846,7 @@ Chosen character gains Evasive until the start of your next turn. (Only characte
 
 
 **Habilidades:**
-- {e}, 2 {i} - Chosen character gets +1 {s} this turn for each 1 damage on them.
+- ![[imagenes/exert.svg|20]], 2 {i} - Chosen character gets +1 {s} this turn for each 1 damage on them.
 
 ---
 
@@ -3924,7 +3924,7 @@ There's Always A Chance: If you used Shift to play this character, you may draw 
 
 
 **Habilidades:**
-- Wait A Minute: Your characters with Reckless gain "{e} - Gain 1 lore."
+- Wait A Minute: Your characters with Reckless gain "![[imagenes/exert.svg|20]] - Gain 1 lore."
 
 ---
 
@@ -4152,7 +4152,7 @@ Developed Brain: When you play this character, look at the top 3 cards of your d
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free)
 Your characters gain Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)
 
 ---
@@ -4186,8 +4186,8 @@ Your characters gain Resist +2 until the start of your next turn. (Damage dealt 
 
 
 **Habilidades:**
-- Careful Aim: {e}, 2 {i} - Chosen character get -2 {s} this turn.
-Stay Back!: {e}, Banish this item - Banish chosen Dragon character.
+- Careful Aim: ![[imagenes/exert.svg|20]], 2 {i} - Chosen character get -2 {s} this turn.
+Stay Back!: ![[imagenes/exert.svg|20]], Banish this item - Banish chosen Dragon character.
 
 ---
 
@@ -4198,7 +4198,7 @@ Stay Back!: {e}, Banish this item - Banish chosen Dragon character.
 
 
 **Habilidades:**
-- The Best I've Ever Tasted: {e} - Remove 1 damage each from up to 2 chosen characters.
+- The Best I've Ever Tasted: ![[imagenes/exert.svg|20]] - Remove 1 damage each from up to 2 chosen characters.
 
 ---
 
@@ -4487,7 +4487,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Skirmish {e} - Deal 1 damage to chosen character.
+- Skirmish ![[imagenes/exert.svg|20]] - Deal 1 damage to chosen character.
 
 ---
 
@@ -4553,7 +4553,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)\nDeal 2 damaged to chosen character. Draw a card.
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)\nDeal 2 damaged to chosen character. Draw a card.
 
 ---
 
@@ -4575,7 +4575,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.) Deal damage to chosen character equal to the number of characters you have in play.
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.) Deal damage to chosen character equal to the number of characters you have in play.
 
 ---
 
@@ -4597,7 +4597,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Protection - {e}: Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)
+- Protection - ![[imagenes/exert.svg|20]]: Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)
 
 ---
 
@@ -4706,7 +4706,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Good As New - {e}: Reveal the top 3 cards of your deck. You may put each character card with cost 2 or less into your hand. Put the rest on the bottom of your deck in any order.
+- Good As New - ![[imagenes/exert.svg|20]]: Reveal the top 3 cards of your deck. You may put each character card with cost 2 or less into your hand. Put the rest on the bottom of your deck in any order.
 - Puppy Love - Whenever this character quests, if you have 4 or more other characters in play, your other characters get +1{l} this turn.
 
 ---
@@ -4772,7 +4772,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Bark - {e}: Chosen character gets -2{s} until the start of your next turn.
+- Bark - ![[imagenes/exert.svg|20]]: Chosen character gets -2{s} until the start of your next turn.
 
 ---
 
@@ -4822,7 +4822,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Good Dog - {e}: You pay 1{i} less for the next character you play this turn.
+- Good Dog - ![[imagenes/exert.svg|20]]: You pay 1{i} less for the next character you play this turn.
 
 ---
 
@@ -4911,7 +4911,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Remove up to 3 damage from chosen character. Draw a card.
 
 ---
@@ -4934,7 +4934,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Chosen opponent reveals their hand and discards a non-character card of your choice.
 
 ---
@@ -4957,7 +4957,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Life Giver - {e}: You pay 2{i} less for the next character you play this turn.
+- Life Giver - ![[imagenes/exert.svg|20]]: You pay 2{i} less for the next character you play this turn.
 
 ---
 
@@ -4968,7 +4968,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Rebuild - {e}: Remove up to 2 damage from chosen location.
+- Rebuild - ![[imagenes/exert.svg|20]]: Remove up to 2 damage from chosen location.
 
 ---
 
@@ -5013,7 +5013,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Curiouser And Curiouser - {e}: Exert chosen opposing character and all other opposing characters with the same name.
+- Curiouser And Curiouser - ![[imagenes/exert.svg|20]]: Exert chosen opposing character and all other opposing characters with the same name.
 
 ---
 
@@ -5061,7 +5061,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Blizzard - {e}: Exert chosen character.
+- Blizzard - ![[imagenes/exert.svg|20]]: Exert chosen character.
 
 ---
 
@@ -5161,7 +5161,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 **Habilidades:**
 - Evasive
-- Find The Way - {e}: Move a character of yours to a location for free.
+- Find The Way - ![[imagenes/exert.svg|20]]: Move a character of yours to a location for free.
 
 ---
 
@@ -5194,7 +5194,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Telekinesis - {e}: Return chosen item with cost equal to or less than this character's {s} to its player's hand.
+- Telekinesis - ![[imagenes/exert.svg|20]]: Return chosen item with cost equal to or less than this character's {s} to its player's hand.
 
 ---
 
@@ -5258,7 +5258,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 **Habilidades:**
 - Evasive
-- Cyclone - {e}: Gain lore equal to the number of Titan characters you have in play.
+- Cyclone - ![[imagenes/exert.svg|20]]: Gain lore equal to the number of Titan characters you have in play.
 
 ---
 
@@ -5320,7 +5320,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- (A character with cost 1 or more can {e} to sing this song for free.)
+- (A character with cost 1 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Draw a card. Then, choose up to 3 cards from chosen opponent's discard and shuffle them into their deck.
 
 ---
@@ -5343,7 +5343,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Look at the top 5 cards of your deck. Put any number of them on the top of the bottom of your deck in any order. Gain 1 lore.
 
 ---
@@ -5366,7 +5366,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 
 **Habilidades:**
-- Incredible Energy - {e}, 1{i}: Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.
+- Incredible Energy - ![[imagenes/exert.svg|20]], 1{i}: Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.
 
 ---
 
@@ -5683,7 +5683,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 **Habilidades:**
 - Evasive
-- Disassemble - {e}: Banish chosen item.
+- Disassemble - ![[imagenes/exert.svg|20]]: Banish chosen item.
 
 ---
 
@@ -5706,7 +5706,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Banish chosen item.
 
 ---
@@ -5718,7 +5718,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- (A character with cost X or more can {e} to sing this song for free.)
+- (A character with cost X or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
  
  Chosen character of yours gets +2{s} this turn. They may move to a location for free.
 
@@ -5731,7 +5731,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- (A character with cost X or more can {e} to sing this song for free.)
+- (A character with cost X or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Draw 2 cards, then choose and discard a card.
 
 ---
@@ -5743,7 +5743,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- I Got To Be Going - {e}: If you've played 2 or more actions this turn, draw a card.
+- I Got To Be Going - ![[imagenes/exert.svg|20]]: If you've played 2 or more actions this turn, draw a card.
 
 ---
 
@@ -5754,7 +5754,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Forest's Gift - {e}: Deal 1 damage to chosen damaged character or location.
+- Forest's Gift - ![[imagenes/exert.svg|20]]: Deal 1 damage to chosen damaged character or location.
 - A Bit Of A Lark - Whenever a character of yours named Robin Hood quests, you may ready this item.
 
 ---
@@ -5766,7 +5766,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Efficient Energy - {e}: You pay 2{i} less for the next action you play this turn.
+- Efficient Energy - ![[imagenes/exert.svg|20]]: You pay 2{i} less for the next action you play this turn.
 - Trap - 2{i}, Banish this item: Draw 2 cards, then choose and discard a card.
 
 ---
@@ -6112,7 +6112,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Ready chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's {l}.
 
 ---
@@ -6148,7 +6148,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 **Habilidades:**
 - It's Maui Time! - If you have a character named Maui in play, you may use this item's Shapeshift ability for free.
  
- Shapeshift - {e}, 2{i}: Choose one:
+ Shapeshift - ![[imagenes/exert.svg|20]], 2{i}: Choose one:
  - Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)
  - Chosen character gets +3{s} this turn.
 
@@ -6289,7 +6289,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Now Try To Keep Up - {e}: Put an item card from your discard on the top of your deck.
+- Now Try To Keep Up - ![[imagenes/exert.svg|20]]: Put an item card from your discard on the top of your deck.
 
 ---
 
@@ -6475,7 +6475,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- (A character with cost 5 or more can {e} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Each player puts the top 3 cards of their deck into their inkwell facedown and exerted.
 
 ---
@@ -6487,7 +6487,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Look at the top 2 cards of your deck. Put one into your hand and the other into your inkwell facedown and exerted.
 
 ---
@@ -6521,7 +6521,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Create Life - {e}, 2{i}: Put the top card of your deck into your inkwell facedown and exerted.
+- Create Life - ![[imagenes/exert.svg|20]], 2{i}: Put the top card of your deck into your inkwell facedown and exerted.
 
 ---
 
@@ -6532,7 +6532,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Number One - {e}, 2{i}: Choose a character of yours and gain lore equal to their {l}.
+- Number One - ![[imagenes/exert.svg|20]], 2{i}: Choose a character of yours and gain lore equal to their {l}.
 
 ---
 
@@ -6543,7 +6543,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Business Expertise - {e}: You pay 1{i} less for the next item you play this turn.
+- Business Expertise - ![[imagenes/exert.svg|20]]: You pay 1{i} less for the next item you play this turn.
 
 ---
 
@@ -6631,7 +6631,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Call The Titans - {e}: Ready your Titan characters.
+- Call The Titans - ![[imagenes/exert.svg|20]]: Ready your Titan characters.
 
 ---
 
@@ -6706,7 +6706,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 **Habilidades:**
 - Resist +2
-- Stone Skin - {e}: Chosen character gains Resist +2 this turn.
+- Stone Skin - ![[imagenes/exert.svg|20]]: Chosen character gains Resist +2 this turn.
 
 ---
 
@@ -6730,7 +6730,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Sound The Call - {e}, 2{i}: Play a character for free.
+- Sound The Call - ![[imagenes/exert.svg|20]], 2{i}: Play a character for free.
 
 ---
 
@@ -6877,7 +6877,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Deal 5 damage to chosen character or location.
 
 ---
@@ -6946,7 +6946,7 @@ What's The Hurry? - While this character is at a location, whenever she challeng
 
 
 **Habilidades:**
-- Key To The Portal - {e}: You pay 1{i} less for the next location you play this turn.
+- Key To The Portal - ![[imagenes/exert.svg|20]]: You pay 1{i} less for the next location you play this turn.
 - Show The Way - You pay 1{i} less to move your characters to a location.
 
 ---
@@ -7092,7 +7092,7 @@ Wait For Me! - When you play this character, chosen character gets +1{l} this tu
 
 
 **Habilidades:**
-- Dubious Recruitment - {e}: You pay 2{i} less for the next character you play this turn.
+- Dubious Recruitment - ![[imagenes/exert.svg|20]]: You pay 2{i} less for the next character you play this turn.
 
 ---
 
@@ -7307,7 +7307,7 @@ Vanessa's Design - Whenever this character quests, chosen opponent reveals their
 
 
 **Habilidades:**
-- Sing Together 7 (Any number of your or your teammates' characters with total cost 7 or more may {e} to sing this song for free.)
+- Sing Together 7 (Any number of your or your teammates' characters with total cost 7 or more may ![[imagenes/exert.svg|20]] to sing this song for free.)
 Look at the top 5 cards of your deck. You may reveal up to 2 character cards and put them into your hand. Put the rest on the bottom of your deck in any order.
 
 ---
@@ -7319,7 +7319,7 @@ Look at the top 5 cards of your deck. You may reveal up to 2 character cards and
 
 
 **Habilidades:**
-- (A character with cost X or more can {e} to sing this song for free.)
+- (A character with cost X or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 All opposing characters get -2{s} until the start of your next turn.
 
 ---
@@ -7436,7 +7436,7 @@ Enhanced Healing - When you play this character, move up to 3 damage counters fr
 
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this character.)
-You Just Have to See It - {e}: Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand and gain 3 lore. Otherwise, put it on the top of your deck.
+You Just Have to See It - ![[imagenes/exert.svg|20]]: Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand and gain 3 lore. Otherwise, put it on the top of your deck.
 
 ---
 
@@ -7474,7 +7474,7 @@ You Just Have to See It - {e}: Name a card, then reveal the top card of your dec
 
 
 **Habilidades:**
-- Tempest - {e}: Chosen character gains Challenger +2 and Rush this turn. (They get +2{s} while challenging. They can challenge the turn they're played.)
+- Tempest - ![[imagenes/exert.svg|20]]: Chosen character gains Challenger +2 and Rush this turn. (They get +2{s} while challenging. They can challenge the turn they're played.)
 
 ---
 
@@ -7687,7 +7687,7 @@ Arcane Study - While you have 2 or more Broom characters in play, this character
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Return chosen character, Item, or location with cost 2 or less to their player's hand.
 
 ---
@@ -7699,7 +7699,7 @@ Return chosen character, Item, or location with cost 2 or less to their player's
 
 
 **Habilidades:**
-- Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may {e} to sing this song for free.)
+- Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may ![[imagenes/exert.svg|20]] to sing this song for free.)
 Chosen player draws 5 cards.
 
 ---
@@ -7744,7 +7744,7 @@ Chosen player draws 5 cards.
 
 
 **Habilidades:**
-- Mystical Petals - {e}, 2{i}: Move 1 damage counter from chosen character to chosen opposing character.
+- Mystical Petals - ![[imagenes/exert.svg|20]], 2{i}: Move 1 damage counter from chosen character to chosen opposing character.
 
 ---
 
@@ -7850,7 +7850,7 @@ Circle Far and Wide - During each opponent's turn, whenever they draw a card whi
 
 
 **Habilidades:**
-- Here's the Trade-Off - {e}, Banish one of your other characters: Play a character with the same name as the banished character for free.
+- Here's the Trade-Off - ![[imagenes/exert.svg|20]], Banish one of your other characters: Play a character with the same name as the banished character for free.
 
 ---
 
@@ -8095,7 +8095,7 @@ The Gospel Truth - Whenever you play a song, you may return chosen character wit
 
 
 **Habilidades:**
-- Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.)
+- Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may ![[imagenes/exert.svg|20]] to sing this song for free.)
  Put all opposing characters with 2{s} or less on the bottom of their player's decks in any order.
 
 ---
@@ -8118,7 +8118,7 @@ The Gospel Truth - Whenever you play a song, you may return chosen character wit
 
 
 **Habilidades:**
-- (A character with cost X or more can {e} to sing this song for free.)
+- (A character with cost X or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Return chosen character to their player's hand, then that player discards a card at random.
 
 ---
@@ -8211,7 +8211,7 @@ Trapped! Damage counters can't be removed.
 
 **Habilidades:**
 - War Injury: This character can't challenge.
-Head of The Household: {e} - Ready chosen character named Mulan. She can't quest for the rest of this turn.
+Head of The Household: ![[imagenes/exert.svg|20]] - Ready chosen character named Mulan. She can't quest for the rest of this turn.
 
 ---
 
@@ -8481,7 +8481,7 @@ On a Roll: When you play this character, you may move him and one of your other 
 
 
 **Habilidades:**
-- Sing Together 6 (Any number of you or your teammates' characters with total cost 6 or more may {e} to sing this song for free.)
+- Sing Together 6 (Any number of you or your teammates' characters with total cost 6 or more may ![[imagenes/exert.svg|20]] to sing this song for free.)
 Each opponent loses 2 lore. You gain 2 lore.
 
 ---
@@ -8493,7 +8493,7 @@ Each opponent loses 2 lore. You gain 2 lore.
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Each opponent chooses and banishes one of their characters.
 
 ---
@@ -8527,7 +8527,7 @@ Each opponent chooses and banishes one of their characters.
 
 
 **Habilidades:**
-- Discipline And Strength: {e}, 2{i} - Chosen character gets +2 {s} this turn. Whenever they challenge another character this turn, you may draw a card.
+- Discipline And Strength: ![[imagenes/exert.svg|20]], 2{i} - Chosen character gets +2 {s} this turn. Whenever they challenge another character this turn, you may draw a card.
 
 ---
 
@@ -8626,7 +8626,7 @@ The Girl Who Has Everything: While you have more items in play than each opponen
 **Habilidades:**
 - Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Aurora.)
 Preserver: Opponents can't choose your items for abilities or effects.
-Royal Inventory: {e} one of your items - Look at the top card of your deck and put it on either the top or the bottom of your deck.
+Royal Inventory: ![[imagenes/exert.svg|20]] one of your items - Look at the top card of your deck and put it on either the top or the bottom of your deck.
 
 ---
 
@@ -8804,7 +8804,7 @@ Carrots All Around!: Whenever he quests, each of your other characters gets +{s}
 
 
 **Habilidades:**
-- Consult the Spellbook: {e} - Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. If that item costs 3 or less, you may play it for free instead and it enters play exerted. Put the rest on the bottom of your deck in any order.
+- Consult the Spellbook: ![[imagenes/exert.svg|20]] - Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. If that item costs 3 or less, you may play it for free instead and it enters play exerted. Put the rest on the bottom of your deck in any order.
 
 ---
 
@@ -8841,7 +8841,7 @@ Imposing Presence: Opposing characters get -1 {s} for each location you have in 
 
 
 **Habilidades:**
-- Consign to the Depths: {e}, Banish one of your items - Gain 3 lore.
+- Consign to the Depths: ![[imagenes/exert.svg|20]], Banish one of your items - Gain 3 lore.
 
 ---
 
@@ -8873,7 +8873,7 @@ Keeper of Atlantica: Whenever one of your locations is banished, you may put tha
 
 
 **Habilidades:**
-- Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.)
+- Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may ![[imagenes/exert.svg|20]] to sing this song for free.)
 Look at the top 7 cards of your deck. Put 2 into your hand. Put the rest on the bottom of your deck in any order.
 
 ---
@@ -8896,7 +8896,7 @@ Look at the top 7 cards of your deck. Put 2 into your hand. Put the rest on the 
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Chosen character gets -3 {s} this turn.
 
 ---
@@ -8908,7 +8908,7 @@ Chosen character gets -3 {s} this turn.
 
 
 **Habilidades:**
-- (A character with cost 6 or more can {e} to sing this song for free.)
+- (A character with cost 6 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Return up to 2 item cards from your discard into your hand.
 
 ---
@@ -8932,7 +8932,7 @@ Return up to 2 item cards from your discard into your hand.
 
 **Habilidades:**
 - Asleep: This item enters play exerted.
-Awaken: {e} - Put a character card from your discard into your inkwell facedown and exerted.
+Awaken: ![[imagenes/exert.svg|20]] - Put a character card from your discard into your inkwell facedown and exerted.
 
 ---
 
@@ -8943,7 +8943,7 @@ Awaken: {e} - Put a character card from your discard into your inkwell facedown 
 
 
 **Habilidades:**
-- Chilly Labor: {e} - Chosen character gets -1 {s} this turn.
+- Chilly Labor: ![[imagenes/exert.svg|20]] - Chosen character gets -1 {s} this turn.
 
 ---
 
@@ -9270,7 +9270,7 @@ You Gave it Your Best: During your turn, whenever this character banishes anothe
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Banish all items.
 
 ---
@@ -9282,7 +9282,7 @@ Banish all items.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Chosen character gains Resist +2 until the start of your next turn. If a Hero character is chosen, they may also challenge ready character this turn. (Damage dealt to them is reduced by 2.)
 
 ---
@@ -9294,7 +9294,7 @@ Chosen character gains Resist +2 until the start of your next turn. If a Hero ch
 
 
 **Habilidades:**
-- Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may {e} to sing this song for free.)
+- Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may ![[imagenes/exert.svg|20]] to sing this song for free.)
 Deal 3 damage to up to 3 chosen characters and/or locations.
 
 ---
@@ -9329,7 +9329,7 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- Within Range: {e}, 1{i} - Chosen Hero character gains Challenger +2 and Evasive this turn. (They get +2{s} while challenging . They can challenge characters with Evasive.)
+- Within Range: ![[imagenes/exert.svg|20]], 1{i} - Chosen Hero character gains Challenger +2 and Evasive this turn. (They get +2{s} while challenging . They can challenge characters with Evasive.)
 
 ---
 
@@ -9340,7 +9340,7 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 
 
 **Habilidades:**
-- BA-BOOM!: {e}, 2{i}, Discard a card - Deal 2 damage to chosen character or location.
+- BA-BOOM!: ![[imagenes/exert.svg|20]], 2{i}, Discard a card - Deal 2 damage to chosen character or location.
 
 ---
 
@@ -9688,7 +9688,7 @@ character.
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this song for
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for
 free.)
 Remove up to 3 damage from chosen character and ready
 them. They can't quest or challenge for the rest of this turn.
@@ -9726,7 +9726,7 @@ discard for free.
 
 
 **Habilidades:**
-- (A character with cost 6 or more can {e} to sing this
+- (A character with cost 6 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Name a card. Return all character cards with that
 name from your discard to your hand.
@@ -9753,7 +9753,7 @@ bottom of your deck in any order.
 
 
 **Habilidades:**
-- Renewing Essence: {e} - Remove up to 2 damage
+- Renewing Essence: ![[imagenes/exert.svg|20]] - Remove up to 2 damage
 from chosen character.
 
 ---
@@ -9767,7 +9767,7 @@ from chosen character.
 **Habilidades:**
 - Symbol Of Nobility: At the start of your turn, if you have a
 Princess or Queen character in play, gain 1 lore.
-Royal Search: {e}, 2{i} - Reveal the top card of your deck.
+Royal Search: ![[imagenes/exert.svg|20]], 2{i} - Reveal the top card of your deck.
 If it's a Princess or Queen character card, you may put it into
 your hand. Otherwise, put it on the top of your deck.
 
@@ -9780,7 +9780,7 @@ your hand. Otherwise, put it on the top of your deck.
 
 
 **Habilidades:**
-- Amber Light: {e} - Remove up to 1 damage from each
+- Amber Light: ![[imagenes/exert.svg|20]] - Remove up to 1 damage from each
 of your characters.
 
 ---
@@ -10109,7 +10109,7 @@ ready characters.
 
 
 **Habilidades:**
-- Pleasing The Queen: {e} - Chosen exerted
+- Pleasing The Queen: ![[imagenes/exert.svg|20]] - Chosen exerted
 character can't ready at the start of their next
 turn.
 
@@ -10160,7 +10160,7 @@ this turn. (They get +2{s}  while challenging.)
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for
 free.)
 Shuffle chosen card from your discard into your deck.
 Reveal the top card of your deck. If it has the same name
@@ -10213,8 +10213,8 @@ to their player's hand.
 
 
 **Habilidades:**
-- An unexpected Find: {e}, 2{i} - Draw a card.
-A Perilous Power: {e}, 2{i}, Discard a card - Exert
+- An unexpected Find: ![[imagenes/exert.svg|20]], 2{i} - Draw a card.
+A Perilous Power: ![[imagenes/exert.svg|20]], 2{i}, Discard a card - Exert
 chosen character.
 
 ---
@@ -10226,7 +10226,7 @@ chosen character.
 
 
 **Habilidades:**
-- Amethyst Light: {e} - Each player may draw a card.
+- Amethyst Light: ![[imagenes/exert.svg|20]] - Each player may draw a card.
 
 ---
 
@@ -10311,7 +10311,7 @@ Easy Pickings: While challenging a damaged character, this character gets +2{s}.
 
 
 **Habilidades:**
-- Silent Performance: This character can't {e} to sing songs.
+- Silent Performance: This character can't ![[imagenes/exert.svg|20]] to sing songs.
 
 ---
 
@@ -10624,7 +10624,7 @@ next turn. (They can't quest and must challenge if able.)
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Shuffle chosen character, item, or location into their
 player's deck. That player draws 2 cards.
@@ -10693,7 +10693,7 @@ chosen character to their player's hand.
 
 **Habilidades:**
 - Forest Home: Your characters named Robin Hood may move here for free.
-Familiar Terrain: Characters gain Ward and "{e}, 1{i} - Deal 2 damage to chosen
+Familiar Terrain: Characters gain Ward and "![[imagenes/exert.svg|20]], 1{i} - Deal 2 damage to chosen
 damaged character" while here. (Opponents can't choose them except to challenge.)
 
 ---
@@ -11019,7 +11019,7 @@ Rush (This character can challenge the turn they're played.)
 
 
 **Habilidades:**
-- (A character with cost 7 or more can {e} to sing this song for free.)
+- (A character with cost 7 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
  
  Ready all your characters. They can't quest for the rest of this turn.
 
@@ -11077,7 +11077,7 @@ Whenever one of your characters with Reckless challenges another character this 
 
 
 **Habilidades:**
-- Ruby Light: {e} - Chosen character gets +1{s} this turn.
+- Ruby Light: ![[imagenes/exert.svg|20]] - Chosen character gets +1{s} this turn.
 
 ---
 
@@ -11089,7 +11089,7 @@ Whenever one of your characters with Reckless challenges another character this 
 
 
 **Habilidades:**
-- On Your Marks!: Once per turn, you may {e} chosen character here and deal them 1 damage to move them to another location for free.
+- On Your Marks!: Once per turn, you may ![[imagenes/exert.svg|20]] chosen character here and deal them 1 damage to move them to another location for free.
 
 ---
 
@@ -11226,7 +11226,7 @@ One on the Way: During your turn, when you put a card into your inkwell, if it's
 
 
 **Habilidades:**
-- Beautiful, Lovely Taxes: {e} - Play an item from your hand or discard with cost 5 or less for free, exerted.
+- Beautiful, Lovely Taxes: ![[imagenes/exert.svg|20]] - Play an item from your hand or discard with cost 5 or less for free, exerted.
 
 ---
 
@@ -11405,7 +11405,7 @@ Overdeveloped Brain: When you play this character, if you used Shift to play him
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Remove up to 2 damage from any number of chosen characters.
 
 ---
@@ -11439,7 +11439,7 @@ Remove up to 2 damage from any number of chosen characters.
 
 
 **Habilidades:**
-- Congratulations, Soldier: {e}, 2{i}, Banish this item - Chosen character of yours gets +2{l} this turn.
+- Congratulations, Soldier: ![[imagenes/exert.svg|20]], 2{i}, Banish this item - Chosen character of yours gets +2{l} this turn.
 
 ---
 
@@ -11450,7 +11450,7 @@ Remove up to 2 damage from any number of chosen characters.
 
 
 **Habilidades:**
-- Find What's Hidden: {e}, 2{i} - Look at the top 3 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.
+- Find What's Hidden: ![[imagenes/exert.svg|20]], 2{i} - Look at the top 3 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.
 
 ---
 
@@ -11461,7 +11461,7 @@ Remove up to 2 damage from any number of chosen characters.
 
 
 **Habilidades:**
-- Hockety Pockety: {e}, 1{i} - Return an item card from your discard to your hand.
+- Hockety Pockety: ![[imagenes/exert.svg|20]], 1{i} - Return an item card from your discard to your hand.
 
 ---
 
@@ -11473,7 +11473,7 @@ Remove up to 2 damage from any number of chosen characters.
 
 **Habilidades:**
 - Powering Up: This item enters play exerted.
-Sapphire Light: {e}, 2{i}, Banish one of your items - Gain 2 lore.
+Sapphire Light: ![[imagenes/exert.svg|20]], 2{i}, Banish one of your items - Gain 2 lore.
 
 ---
 
@@ -11697,7 +11697,7 @@ Burst of Speed: During your turn, this character gains Evasive. (They can challe
 
 
 **Habilidades:**
-- Re-Pete: {e} - Reveal the top card of your deck. If it's a character card named Pete, you may play it for free.
+- Re-Pete: ![[imagenes/exert.svg|20]] - Reveal the top card of your deck. If it's a character card named Pete, you may play it for free.
 
 ---
 
@@ -11810,7 +11810,7 @@ Fearsome Roar: When you play this character, you may banish chosen item or locat
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Chosen character can't challenge during their next turn. Draw a card.
 
 ---
@@ -11833,7 +11833,7 @@ Chosen character can't challenge during their next turn. Draw a card.
 
 
 **Habilidades:**
-- Your characters gain "{e}, 1{i} - Deal 1 damage to chosen character" this turn.
+- Your characters gain "![[imagenes/exert.svg|20]], 1{i} - Deal 1 damage to chosen character" this turn.
 
 ---
 
@@ -11855,7 +11855,7 @@ Chosen character can't challenge during their next turn. Draw a card.
 
 
 **Habilidades:**
-- Well Crafted: {e} - Chosen character gains Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)
+- Well Crafted: ![[imagenes/exert.svg|20]] - Chosen character gains Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)
 
 ---
 
@@ -11866,7 +11866,7 @@ Chosen character can't challenge during their next turn. Draw a card.
 
 
 **Habilidades:**
-- Steel Light: {e} - Deal 1 damage to chosen character.
+- Steel Light: ![[imagenes/exert.svg|20]] - Deal 1 damage to chosen character.
 
 ---
 
@@ -11878,7 +11878,7 @@ Chosen character can't challenge during their next turn. Draw a card.
 
 
 **Habilidades:**
-- There's No One I'd Rather Be Than Me: Villain characters gain "{e}, 3{i} - Play a character with the same name as this character for free" while here.
+- There's No One I'd Rather Be Than Me: Villain characters gain "![[imagenes/exert.svg|20]], 3{i} - Play a character with the same name as this character for free" while here.
 
 ---
 
@@ -12220,7 +12220,7 @@ Hire a Crew: When you play this character, look at the top 4 cards of your deck.
 
 
 **Habilidades:**
-- - A character with cost 2 or more can {e} to sing this song for free.
+- - A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.
 
 ---
 
@@ -12593,7 +12593,7 @@ What Comes Next?: When you play this character, draw a card.
 
 
 **Habilidades:**
-- - A character with cost 1 or more can {e} to sing this song for free.
+- - A character with cost 1 or more can ![[imagenes/exert.svg|20]] to sing this song for free.
 
 ---
 
@@ -13001,7 +13001,7 @@ Twists and Turns: During your turn, whenever a card is put into your inkwell, yo
 
 
 **Habilidades:**
-- - A character with cost 2 or more can {e} to sing this song for free.
+- - A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.
 
 ---
 
@@ -13412,7 +13412,7 @@ Swash Your Buckles: Whenever you play an action, this character gets +1 {s} and 
 
 
 **Habilidades:**
-- - A character with cost 3 or more can {e} to sing this song for free.
+- - A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.
 
 ---
 
@@ -13786,7 +13786,7 @@ Ahoy!: Whenever this character quests, another chosen character of yours gets +1
 
 
 **Habilidades:**
-- - A character with cost 4 or more can {e} to sing this song for free.
+- - A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.
 
 ---
 
@@ -14189,7 +14189,7 @@ Don't Just Sit There!: At the start of your turn, deal 1 damage to each opposing
 
 
 **Habilidades:**
-- - A character with cost 3 or more can {e} to sing this song for free.
+- - A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.
 
 ---
 
@@ -14213,7 +14213,7 @@ Don't Just Sit There!: At the start of your turn, deal 1 damage to each opposing
 
 
 **Habilidades:**
-- {e} one of your characters to deal damage equal to their {s} to chosen character.
+- ![[imagenes/exert.svg|20]] one of your characters to deal damage equal to their {s} to chosen character.
 
 ---
 
@@ -14334,7 +14334,7 @@ Don't Be Afraid: Your Puppy characters gain Ward. (Opponents can't choose them e
 
 **Habilidades:**
 - Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Bolt.) Mark Of Power: Whenever you ready this character, gain 1 lore for each other undamaged character you have in play. 
-Bolt Stare: {e} - Banish chosen Illusion character.
+Bolt Stare: ![[imagenes/exert.svg|20]] - Banish chosen Illusion character.
 
 ---
 
@@ -14370,7 +14370,7 @@ Bolt Stare: {e} - Banish chosen Illusion character.
 
 
 **Habilidades:**
-- Captive Audience: {e} - If you have 3 or more other characters in play, draw a card.
+- Captive Audience: ![[imagenes/exert.svg|20]] - If you have 3 or more other characters in play, draw a card.
 
 ---
 
@@ -14744,7 +14744,7 @@ HER OWN SPECIAL GIFT: Whenever this character quests, you may return a song card
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Draw a card. Chosen character gains Bodyguard until the start of your next turn. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
 
 ---
@@ -14763,7 +14763,7 @@ Draw a card. Chosen character gains Bodyguard until the start of your next turn.
 
 
 **Habilidades:**
-- (A character with cost 5 or more can {e} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Look at the top 5 cards of your deck. You may reveal up to 1 Madrigal character card and up to 1 song card and put them into your hand. Put the rest on the top of your deck in any order.
 
 ---
@@ -14786,7 +14786,7 @@ Look at the top 5 cards of your deck. You may reveal up to 1 Madrigal character 
 
 
 **Habilidades:**
-- FINE DINING: {e},1 {i} - If you have 2 or more characters in play, gain 1 lore.
+- FINE DINING: ![[imagenes/exert.svg|20]],1 {i} - If you have 2 or more characters in play, gain 1 lore.
 
 ---
 
@@ -14809,7 +14809,7 @@ Look at the top 5 cards of your deck. You may reveal up to 1 Madrigal character 
 
 **Habilidades:**
 - PERFECT PAIR: You may only have 2 copies of The Glass Slipper in your deck.
-SEARCH THE KINGDOM: Banish this item, {e} one of your Prince characters - Search your deck for a Princess character card and reveal it to all players. Put that card into your hand and shuffle your deck.
+SEARCH THE KINGDOM: Banish this item, ![[imagenes/exert.svg|20]] one of your Prince characters - Search your deck for a Princess character card and reveal it to all players. Put that card into your hand and shuffle your deck.
 
 ---
 
@@ -15171,7 +15171,7 @@ WINTER AMBUSH: When you play this character, chosen opposing character can't rea
 
 
 **Habilidades:**
-- NO ORDINARY APPLE: {e} - Choose 3 cards from chosen opponent's discard and put them on the bottom of their deck to gain 3 lore. If any Princess cards were moved this way, gain 4 lore instead.
+- NO ORDINARY APPLE: ![[imagenes/exert.svg|20]] - Choose 3 cards from chosen opponent's discard and put them on the bottom of their deck to gain 3 lore. If any Princess cards were moved this way, gain 4 lore instead.
 
 ---
 
@@ -15249,7 +15249,7 @@ WINTER AMBUSH: When you play this character, chosen opposing character can't rea
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Gain 1 lore. Draw a card.
 
 ---
@@ -15650,7 +15650,7 @@ NO TIME FOR WISECRACKS: When you play this character, chosen character of yours 
 
 
 **Habilidades:**
-- THAT'S QUITE ENOUGH: {e} - Return chosen damaged character to their player's hand. Then, each opponent discards a card at random.
+- THAT'S QUITE ENOUGH: ![[imagenes/exert.svg|20]] - Return chosen damaged character to their player's hand. Then, each opponent discards a card at random.
 
 ---
 
@@ -15672,7 +15672,7 @@ NO TIME FOR WISECRACKS: When you play this character, chosen character of yours 
 
 
 **Habilidades:**
-- (A character with cost 1 or more can {e} to sing this song for free.) Chosen character gets +1 {s} this turn for each character you have in play.
+- (A character with cost 1 or more can ![[imagenes/exert.svg|20]] to sing this song for free.) Chosen character gets +1 {s} this turn for each character you have in play.
 
 ---
 
@@ -15898,7 +15898,7 @@ ADVENTUROUS SPIRIT: Whenever this character challenges another character, anothe
 
 
 **Habilidades:**
-- I'VE HAD IT!: {e}, 2 {i}, Banish 2 of your items - Deal 5 damage to chosen character.
+- I'VE HAD IT!: ![[imagenes/exert.svg|20]], 2 {i}, Banish 2 of your items - Deal 5 damage to chosen character.
 
 ---
 
@@ -16080,7 +16080,7 @@ EXCEPTIONAL LEADER" Whenever this character challenges another character, your o
 
 
 **Habilidades:**
-- THE PRICE OF POWER: {e} - If one of your characters was damaged this turn, gain 1 lore.
+- THE PRICE OF POWER: ![[imagenes/exert.svg|20]] - If one of your characters was damaged this turn, gain 1 lore.
 
 ---
 
@@ -16222,7 +16222,7 @@ CLEAR YOUR MIND: When you play this character, put all cards from your hand into
 
 **Habilidades:**
 - Ward (Opponents can't choose this character except to challenge.)
-KEY TO THE PUZZLE: {e} - Look at the top 2 cards of your deck. Put one into your inkwell facedown and exerted and the other on the top of your deck.
+KEY TO THE PUZZLE: ![[imagenes/exert.svg|20]] - Look at the top 2 cards of your deck. Put one into your inkwell facedown and exerted and the other on the top of your deck.
 
 ---
 
@@ -16386,7 +16386,7 @@ FAIR PLAY: Your characters named Lady Kluck gain Resist +1. (Damage dealt to the
 
 
 **Habilidades:**
-- (A character with cost 5 or more can {e} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Put up to 2 cards from your discard into your inkwell facedown and exerted.
 
 ---
@@ -16684,7 +16684,7 @@ DON'T GET ANY IDEAS: Each player pays 2 {i} more to play actions or items. This 
 
 
 **Habilidades:**
-- PRECISION STRIKE: {e},1 {i} - Chosen character gains Challenger +2 this turn. They get +2 {s} while challenging.)
+- PRECISION STRIKE: ![[imagenes/exert.svg|20]],1 {i} - Chosen character gains Challenger +2 this turn. They get +2 {s} while challenging.)
 
 ---
 
@@ -17217,7 +17217,7 @@ each of your characters with Bodyguard.
 Piggy Bank you have in play, you pay 2 {i} less to play
 this character.
 MONEY EVERYWHERE When you play this character,
-your other characters gain "{e} - Draw a card" this turn.
+your other characters gain "![[imagenes/exert.svg|20]] - Draw a card" this turn.
 
 ---
 
@@ -17283,7 +17283,7 @@ discard to your hand.
 **Habilidades:**
 - Sing Together 9 (Any number of your or your
 teammates' characters with total cost 9 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 Return up to 3 character cards from your discard to
 your hand. You pay 2 {i} less for the next character you
 play this turn.
@@ -17297,7 +17297,7 @@ play this turn.
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Chosen character gets -4 {s} until the start of your
 next turn.
@@ -17313,7 +17313,7 @@ next turn.
 **Habilidades:**
 - INSIDE JOB: If you have a character named Donald
 Duck in play, you pay 1 {i} less to play this item.
-PAYOFF {e} - Chosen character gets -1 {s} until the
+PAYOFF ![[imagenes/exert.svg|20]] - Chosen character gets -1 {s} until the
 start of your next turn.
 
 ---
@@ -17382,7 +17382,7 @@ draw 2 cards.
 **Habilidades:**
 - Evasive (Only characters with Evasive can
 challenge this character.)
-SUPERNATURAL VENGEANCE {e} - Deal 1 damage
+SUPERNATURAL VENGEANCE ![[imagenes/exert.svg|20]] - Deal 1 damage
 to chosen character.
 
 ---
@@ -17591,7 +17591,7 @@ character. He can't quest for the rest of this turn.
 
 
 **Habilidades:**
-- AND MEAN: {e} - Move 1 damage counter from
+- AND MEAN: ![[imagenes/exert.svg|20]] - Move 1 damage counter from
 this character to chosen opposing character.
 
 ---
@@ -17800,7 +17800,7 @@ their next turn. Draw a card.
 **Habilidades:**
 - Sing Together 9 (Any number of your or your
 teammates' characters with total cost 9 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 For each character that sang this song, draw a card
 and gain 1 lore.
 
@@ -17826,7 +17826,7 @@ and gain 1 lore.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Put chosen exerted character into their player's inkwell
 facedown and exerted.
@@ -17853,7 +17853,7 @@ card for each damage counter moved this way.
 
 
 **Habilidades:**
-- SEARCH THE SANDS: {e}, 2 {i} - Return an Illusion
+- SEARCH THE SANDS: ![[imagenes/exert.svg|20]], 2 {i} - Return an Illusion
 character card from your discard to your hand.
 
 ---
@@ -17867,7 +17867,7 @@ character card from your discard to your hand.
 **Habilidades:**
 - HOLD STILL: When you play this item, exert chosen
 opposing character.
-IT'S STUCK {e}, 1 {i} - Exert chosen opposing item.
+IT'S STUCK ![[imagenes/exert.svg|20]], 1 {i} - Exert chosen opposing item.
 It can't ready at the start of its next turn.
 
 ---
@@ -18162,7 +18162,7 @@ with damage in play, this character gets +3 {l}.
 
 
 **Habilidades:**
-- LOOK FOR A NEW ANGLE: {e} - Ready chosen
+- LOOK FOR A NEW ANGLE: ![[imagenes/exert.svg|20]] - Ready chosen
 Floodborn character.
 
 ---
@@ -18288,7 +18288,7 @@ card, then choose and discard a card.
 **Habilidades:**
 - Sing Together 8 (Any number of your or your
 teammates' characters with total cost 8 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 Return up to 2 chosen characters with 3 {s} or less
 each to their player's hand.
 
@@ -18328,7 +18328,7 @@ character gets +2 {s} this turn.
 
 
 **Habilidades:**
-- Your Pirate characters gain "{e} - Banish chosen
+- Your Pirate characters gain "![[imagenes/exert.svg|20]] - Banish chosen
 damaged character" this turn.
 
 ---
@@ -18483,7 +18483,7 @@ character +2 {s} this turn.
 
 
 **Habilidades:**
-- LET'S GET THIS SHOW ON THE ROAD: {e} - Chosen
+- LET'S GET THIS SHOW ON THE ROAD: ![[imagenes/exert.svg|20]] - Chosen
 character gains Rush this turn. (They can
 challenge the turn they're played.)
 
@@ -18530,7 +18530,7 @@ characters in play, this character gets +2 {l}.
 
 
 **Habilidades:**
-- YOU CAN DO IT!: {e} - Chosen character gets +3 {s}
+- YOU CAN DO IT!: ![[imagenes/exert.svg|20]] - Chosen character gets +3 {s}
 this turn.
 
 ---
@@ -18588,7 +18588,7 @@ this turn.
 
 
 **Habilidades:**
-- ALL FOR ME: {e}, Banish one of your items -
+- ALL FOR ME: ![[imagenes/exert.svg|20]], Banish one of your items -
 Chosen opponent loses 1 lore and you gain 1 lore.
 
 ---
@@ -18713,7 +18713,7 @@ character, deal 1 damage to this character.
 **Habilidades:**
 - Sing Together 8 (Any number of your or your
 teammates' characters with total cost 8 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 Ready all your characters. For the rest of this turn,
 they take no damage from challenges and can't quest.
 
@@ -18774,7 +18774,7 @@ then banish them.
 
 
 **Habilidades:**
-- WORTHY WEAPON: {e}, {e} one of your characters -
+- WORTHY WEAPON: ![[imagenes/exert.svg|20]], ![[imagenes/exert.svg|20]] one of your characters -
 Ready chosen character. They can't quest for the rest
 of this turn.
 
@@ -18880,7 +18880,7 @@ deck into your inkwell facedown and exerted.
 
 
 **Habilidades:**
-- I HAVE JUST THE THING! {e}, Choose and discard
+- I HAVE JUST THE THING! ![[imagenes/exert.svg|20]], Choose and discard
 an item card - Draw 2 cards.
 
 ---
@@ -18893,7 +18893,7 @@ an item card - Draw 2 cards.
 
 
 **Habilidades:**
-- CLEAN UP: {e}, Banish one of your items - Draw a card.
+- CLEAN UP: ![[imagenes/exert.svg|20]], Banish one of your items - Draw a card.
 
 ---
 
@@ -18942,7 +18942,7 @@ character.
 
 
 **Habilidades:**
-- STICK TO THE PLAN: {e} - Another chosen character
+- STICK TO THE PLAN: ![[imagenes/exert.svg|20]] - Another chosen character
 gains Resist +2 this turn. (Damage dealt to them is
 reduced by 2.)
 IT'S UP TO YOU, LILO Your characters named Lilo gain
@@ -19089,7 +19089,7 @@ discarded this way.
 
 **Habilidades:**
 - Sing Together 6 (Any number of your or your
-teammates' characters with total cost 6 or more may {e}
+teammates' characters with total cost 6 or more may ![[imagenes/exert.svg|20]]
 to sing this song for free.)
 Remove up to 3 damage from any number of chosen
 characters. All opposing characters get -3 {s} this turn.
@@ -19116,7 +19116,7 @@ challenge characters with Evasive.)
 
 
 **Habilidades:**
-- (A character with cost 6 or more can {e} to sing this
+- (A character with cost 6 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Look at the top 3 cards of your deck. You may reveal a
 character, item, or location card with cost 6 or less and
@@ -19132,7 +19132,7 @@ in any order.
 
 
 **Habilidades:**
-- IS IT ON YET?: {e}, 1 {i} - Look at the top card of your deck.
+- IS IT ON YET?: ![[imagenes/exert.svg|20]], 1 {i} - Look at the top card of your deck.
 If it's a Puppy character card, you may reveal it and put it into
 your hand. Otherwise, put it on the bottom of your deck.
 
@@ -19145,7 +19145,7 @@ your hand. Otherwise, put it on the bottom of your deck.
 
 
 **Habilidades:**
-- CHAPTER THREE: {e}, Banish one of your other items -
+- CHAPTER THREE: ![[imagenes/exert.svg|20]], Banish one of your other items -
 Put the top card of your deck into your inkwell
 facedown and exerted.
 
@@ -19158,7 +19158,7 @@ facedown and exerted.
 
 
 **Habilidades:**
-- SHIELDING LIGHT: {e}, 2 {i} - Chosen character gains
+- SHIELDING LIGHT: ![[imagenes/exert.svg|20]], 2 {i} - Chosen character gains
 Resist +2 and Support until the start of your next turn.
 (Damage dealt to them is reduced by 2. Whenever
 they quest, you may add their {s} to another chosen
@@ -19445,7 +19445,7 @@ any number of cards, then draw that many cards.
 **Habilidades:**
 - Sing Together 7 (Any number of your or your
 teammates' characters with total cost 7 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 Choose any number of players. They discard their
 hands and draw 3 cards each.
 
@@ -19469,7 +19469,7 @@ hands and draw 3 cards each.
 
 
 **Habilidades:**
-- ROLL WITH THE PUNCHES: {e}, 1 {i} - Chosen character
+- ROLL WITH THE PUNCHES: ![[imagenes/exert.svg|20]], 1 {i} - Chosen character
 with no damage gains Resist +2 until the start of your
 next turn. (Damage dealt to them is reduced by 2.)
 
@@ -19488,7 +19488,7 @@ next turn. (Damage dealt to them is reduced by 2.)
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge
 this character.)
-YOU JUST HAVE TO SEE IT {e} - Name a card, then
+YOU JUST HAVE TO SEE IT ![[imagenes/exert.svg|20]] - Name a card, then
 reveal the top card of your deck. If it's the named
 card, put it into your hand and gain 3 lore. Otherwise,
 put it on the top of your deck.
@@ -19602,7 +19602,7 @@ character you play this turn.
 
 
 **Habilidades:**
-- MAGIC HAIR: {e} - Remove up to 2 damage from
+- MAGIC HAIR: ![[imagenes/exert.svg|20]] - Remove up to 2 damage from
 chosen character.
 
 ---
@@ -19744,7 +19744,7 @@ may draw a card.
 **Habilidades:**
 - Singer 5 (This character counts as cost 5 to
 sing songs.)
-A WONDERFUL DREAM {e} - Remove up to 3
+A WONDERFUL DREAM ![[imagenes/exert.svg|20]] - Remove up to 3
 damage from chosen Princess character.
 
 ---
@@ -19771,7 +19771,7 @@ If you do, they can't quest for the rest of this turn.
 
 
 **Habilidades:**
-- GOOD DOG: {e} - You pay 1 {i} less for the next
+- GOOD DOG: ![[imagenes/exert.svg|20]] - You pay 1 {i} less for the next
 character you play this turn.
 
 ---
@@ -19823,7 +19823,7 @@ more other characters in play, you may draw 2 cards.
 
 **Habilidades:**
 - Sing Together 7 (Any number of your or your teammates'
-characters with total cost 7 or more may {e} to sing this
+characters with total cost 7 or more may ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Look at the top 5 cards of your deck. You may reveal up
 to 2 character cards and put them into your hand. Put the
@@ -19840,7 +19840,7 @@ rest on the bottom of your deck in any order.
 **Habilidades:**
 - Sing Together 8 (Any number of your or your
 teammates' characters with total cost 8 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 Play a character from your discard for free.
 
 ---
@@ -19852,7 +19852,7 @@ Play a character from your discard for free.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 Remove up to 3 damage from chosen character. Draw a card.
 
 ---
@@ -19864,7 +19864,7 @@ Remove up to 3 damage from chosen character. Draw a card.
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 All opposing characters get -2 {s} until the start of
 your next turn.
@@ -19891,7 +19891,7 @@ character.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Banish chosen character with 5 {s} or more.
 
@@ -19904,7 +19904,7 @@ Banish chosen character with 5 {s} or more.
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Look at the top 4 cards of your deck. You may reveal a
 character card and put it into your hand. Put the rest
@@ -19919,7 +19919,7 @@ on the bottom of your deck in any order.
 
 
 **Habilidades:**
-- BIRTHDAY LIGHTS: {e} - You pay 1 {i} less for the next
+- BIRTHDAY LIGHTS: ![[imagenes/exert.svg|20]] - You pay 1 {i} less for the next
 character you play this turn.
 
 ---
@@ -19957,7 +19957,7 @@ songs while here.
 
 
 **Habilidades:**
-- I SUMMON THEE {e} - Draw a card.
+- I SUMMON THEE ![[imagenes/exert.svg|20]] - Draw a card.
 
 ---
 
@@ -20099,9 +20099,9 @@ exerted character's cost for free.
 **Habilidades:**
 - Evasive (Only characters with Evasive can challenge this
 character.)
-BREAKING RECORDS {e}, 1 {i} - Draw a card and gain 1 lore.
+BREAKING RECORDS ![[imagenes/exert.svg|20]], 1 {i} - Draw a card and gain 1 lore.
 MAKING HISTORY Your other characters with Evasive gain
-"{e}, 1 {i} - Draw a card and gain 1 lore."
+"![[imagenes/exert.svg|20]], 1 {i} - Draw a card and gain 1 lore."
 
 ---
 
@@ -20210,7 +20210,7 @@ choose one:
 
 
 **Habilidades:**
-- FREEZE: {e} - Exert chosen opposing character.
+- FREEZE: ![[imagenes/exert.svg|20]] - Exert chosen opposing character.
 
 ---
 
@@ -20295,7 +20295,7 @@ the bottom.
 **Habilidades:**
 - Sing Together 10 (Any number of your or your
 teammates' characters with total cost 10 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 Chosen player draws 5 cards.
 
 ---
@@ -20307,7 +20307,7 @@ Chosen player draws 5 cards.
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Return chosen character, item, or location with cost 2
 or less to their player's hand.
@@ -20361,7 +20361,7 @@ GROUNDED 3 {i} - Return this item to your hand.
 
 
 **Habilidades:**
-- SPEAK!: {e}, 4 {i} - Draw a card.
+- SPEAK!: ![[imagenes/exert.svg|20]], 4 {i} - Draw a card.
 
 ---
 
@@ -20372,7 +20372,7 @@ GROUNDED 3 {i} - Return this item to your hand.
 
 
 **Habilidades:**
-- I'M LATE! {e}, 1 {i} - Chosen character gains Rush
+- I'M LATE! ![[imagenes/exert.svg|20]], 1 {i} - Chosen character gains Rush
 this turn. (They can challenge the turn they're played.)
 
 ---
@@ -20384,7 +20384,7 @@ this turn. (They can challenge the turn they're played.)
 
 
 **Habilidades:**
-- MYSTICAL PETALS: {e}, 2 {i} - Move 1 damage counter
+- MYSTICAL PETALS: ![[imagenes/exert.svg|20]], 2 {i} - Move 1 damage counter
 from chosen character to chosen opposing character.
 
 ---
@@ -20709,7 +20709,7 @@ and discards a song card of your choice.
 **Habilidades:**
 - Evasive (Only characters with Evasive can
 challenge this character.)
-DISASSEMBLE {e} - Banish chosen item.
+DISASSEMBLE ![[imagenes/exert.svg|20]] - Banish chosen item.
 
 ---
 
@@ -20745,7 +20745,7 @@ opponent chooses and discards a card.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Chosen character gets +3 {s} and gains Evasive until
 the start of your next turn. (Only characters with
@@ -20760,7 +20760,7 @@ Evasive can challenge them.)
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Each opponent chooses and discards a card.
 
@@ -20785,7 +20785,7 @@ Each opponent chooses and discards a card.
 
 **Habilidades:**
 - Sing Together 8 (Any number of your or your teammates'
-characters with total cost 8 or more may {e} to sing this song
+characters with total cost 8 or more may ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Put all opposing characters with 2 {s} or less on the bottom of
 their players' decks in any order.
@@ -20812,7 +20812,7 @@ their players' decks in any order.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Return chosen character to their player's hand.
 
@@ -20826,7 +20826,7 @@ Return chosen character to their player's hand.
 
 **Habilidades:**
 - WATCH CLOSELY: This item enters play exerted.
-THE PERFECT CAST {e}, 1 {i}, Banish this item -
+THE PERFECT CAST ![[imagenes/exert.svg|20]], 1 {i}, Banish this item -
 Return chosen exerted character of yours to your
 hand to gain 2 lore.
 
@@ -21230,7 +21230,7 @@ gets +2 {s} this turn.
 
 **Habilidades:**
 - Sing Together 9 (Any number of your or your teammates'
-characters with total cost 9 or more may {e} to sing this song
+characters with total cost 9 or more may ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Each player draws 2 cards and gains 2 lore. If 2 or more
 characters sang this song, ready them. They can't quest for
@@ -21245,7 +21245,7 @@ the rest of this turn.
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Chosen character gains Evasive until the start of
 your next turn. (Only characters with Evasive can
@@ -21261,7 +21261,7 @@ challenge them.)
 
 **Habilidades:**
 - Sing Together 6 (Any number of your or your teammates'
-characters with total cost 6 or more may {e} to sing this song
+characters with total cost 6 or more may ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Each opponent loses 2 lore. You gain 2 lore.
 
@@ -21274,7 +21274,7 @@ Each opponent loses 2 lore. You gain 2 lore.
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Each opponent chooses and banishes one of their
 characters.
@@ -21288,7 +21288,7 @@ characters.
 
 
 **Habilidades:**
-- DISCIPLINE AND STRENGTH: {e}, 2 {i} - Chosen
+- DISCIPLINE AND STRENGTH: ![[imagenes/exert.svg|20]], 2 {i} - Chosen
 character gets +2 {s} this turn. Whenever they
 challenge another character this turn, you may
 draw a card.
@@ -21302,7 +21302,7 @@ draw a card.
 
 
 **Habilidades:**
-- YOU KNOW WHAT HAPPENS: {e}, 2 {i} - Draw cards
+- YOU KNOW WHAT HAPPENS: ![[imagenes/exert.svg|20]], 2 {i} - Draw cards
 equal to the damage on chosen character of yours,
 then banish them.
 
@@ -21685,7 +21685,7 @@ hand and the other on the bottom of your deck.
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Your characters gain Resist +2 until the start of your
 next turn. (Damage dealt to them is reduced by 2.)
@@ -21699,7 +21699,7 @@ next turn. (Damage dealt to them is reduced by 2.)
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this song
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Put the top card of your deck into your inkwell facedown
 and exerted.
@@ -21714,7 +21714,7 @@ and exerted.
 
 **Habilidades:**
 - Sing Together 8 (Any number of your or your teammates'
-characters with total cost 8 or more may {e} to sing this
+characters with total cost 8 or more may ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Look at the top 7 cards of your deck. Put 2 into your hand
 and the rest on the bottom of your deck in any order.
@@ -21741,7 +21741,7 @@ on either the top or the bottom of your deck.
 
 
 **Habilidades:**
-- CREATE LIFE: {e}, 2 {i} - Put the top card of your deck
+- CREATE LIFE: ![[imagenes/exert.svg|20]], 2 {i} - Put the top card of your deck
 into your inkwell facedown and exerted.
 
 ---
@@ -21795,7 +21795,7 @@ Hero character, gain 1 lore.
 
 
 **Habilidades:**
-- SOUND THE CALL: {e}, 2 {i} - Play a character for free.
+- SOUND THE CALL: ![[imagenes/exert.svg|20]], 2 {i} - Play a character for free.
 
 ---
 
@@ -21958,7 +21958,7 @@ characters with Evasive.)
 
 
 **Habilidades:**
-- SKIRMISH: {e} - Deal 1 damage to chosen
+- SKIRMISH: ![[imagenes/exert.svg|20]] - Deal 1 damage to chosen
 character.
 
 ---
@@ -22028,7 +22028,7 @@ damage to chosen opposing character.
 
 
 **Habilidades:**
-- BATTLE PLANS: {e} - Draw a card, then choose and
+- BATTLE PLANS: ![[imagenes/exert.svg|20]] - Draw a card, then choose and
 discard a card.
 
 ---
@@ -22129,7 +22129,7 @@ may draw a card, then choose and discard a card.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Chosen character gains Resist +2 until the start of your
 next turn. If a Hero character is chosen, they can also
@@ -22156,7 +22156,7 @@ them is reduced by 2.)
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Banish all items.
 
@@ -22180,7 +22180,7 @@ Banish all items.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this song
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Deal damage to chosen character equal to the number of
 characters you have in play.
@@ -22196,7 +22196,7 @@ characters you have in play.
 **Habilidades:**
 - Sing Together 10 (Any number of your or your
 teammates' characters with total cost 10 or more may
-{e} to sing this song for free.)
+![[imagenes/exert.svg|20]] to sing this song for free.)
 Deal 3 damage to up to 3 chosen characters and/or
 locations.
 
@@ -22209,7 +22209,7 @@ locations.
 
 
 **Habilidades:**
-- SHOW ME: {e}, 3 {i} - If you have no cards in your hand,
+- SHOW ME: ![[imagenes/exert.svg|20]], 3 {i} - If you have no cards in your hand,
 draw a card.
 
 ---
@@ -22594,7 +22594,7 @@ Detective character in play, gain 1 lore.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Return a character card from your discard to
 your hand.
@@ -22608,7 +22608,7 @@ your hand.
 
 
 **Habilidades:**
-- (A character with cost 2 or more can {e} to sing this
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Chosen opposing character gets -2 {s} until the start of
 your next turn. Draw a card.
@@ -22664,9 +22664,9 @@ draw a card.
 
 
 **Habilidades:**
-- THE CAULDRON CALLS: {e}, 1 {i} - Put a character card
+- THE CAULDRON CALLS: ![[imagenes/exert.svg|20]], 1 {i} - Put a character card
 from your discard under this item faceup.
-RISE AND JOIN ME! {e}, 1 {i} - This turn, you may play
+RISE AND JOIN ME! ![[imagenes/exert.svg|20]], 1 {i} - This turn, you may play
 characters from under this item.
 
 ---
@@ -22678,7 +22678,7 @@ characters from under this item.
 
 
 **Habilidades:**
-- WHAT A JUICY APPLE: {e} - Remove up to 2 damage
+- WHAT A JUICY APPLE: ![[imagenes/exert.svg|20]] - Remove up to 2 damage
 from chosen character.
 COME ON OUT You pay 1 {i} less to play characters
 named Gurgi.
@@ -23076,7 +23076,7 @@ or less to their player's hand.
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Exert chosen opposing character. Move all damage
 counters from all other characters to that character.
@@ -23102,7 +23102,7 @@ characters.
 
 
 **Habilidades:**
-- {e} chosen ready character of yours to draw cards equal
+- ![[imagenes/exert.svg|20]] chosen ready character of yours to draw cards equal
 to that character's {l}.
 
 ---
@@ -23114,7 +23114,7 @@ to that character's {l}.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Draw a card. Exert chosen character with cost 2 or
 less. They can't ready at the start of their next turn.
@@ -23128,7 +23128,7 @@ less. They can't ready at the start of their next turn.
 
 
 **Habilidades:**
-- THE BOOK KNOWS EVERYTHING: {e}, 1 {i}, Banish this
+- THE BOOK KNOWS EVERYTHING: ![[imagenes/exert.svg|20]], 1 {i}, Banish this
 item - Draw 2 cards.
 
 ---
@@ -23155,7 +23155,7 @@ CELERITAS Your characters named Demona gain Rush.
 
 
 **Habilidades:**
-- STARTLING DISCOVERY: Characters gain "{e} - Draw a card" while here.
+- STARTLING DISCOVERY: Characters gain "![[imagenes/exert.svg|20]] - Draw a card" while here.
 
 ---
 
@@ -23522,7 +23522,7 @@ banish chosen item.
 
 
 **Habilidades:**
-- (A character with cost 6 or more can {e} to sing this song
+- (A character with cost 6 or more can ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Choose one:
 - Each opposing character gets -1 {l} until the start of
@@ -23549,7 +23549,7 @@ your next turn.
 
 
 **Habilidades:**
-- (A character with cost 3 or more can {e} to sing this
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Put 1 damage counter on each opposing character.
 
@@ -23562,9 +23562,9 @@ Put 1 damage counter on each opposing character.
 
 
 **Habilidades:**
-- SUPPRESSED ANGER: {e}, 1 {i} - Put 1 damage counter
+- SUPPRESSED ANGER: ![[imagenes/exert.svg|20]], 1 {i} - Put 1 damage counter
 on chosen character.
-MINDLESS RAGE {e}, Banish this item - Each opposing
+MINDLESS RAGE ![[imagenes/exert.svg|20]], Banish this item - Each opposing
 damaged character gains Reckless until the start of
 your next turn. (They can't quest and must challenge
 if able.)
@@ -23578,7 +23578,7 @@ if able.)
 
 
 **Habilidades:**
-- BACKTRACK: {e}, 1 {i} - Chosen opposing character
+- BACKTRACK: ![[imagenes/exert.svg|20]], 1 {i} - Chosen opposing character
 gets -1 {l} until the start of your next turn.
 
 ---
@@ -23590,7 +23590,7 @@ gets -1 {l} until the start of your next turn.
 
 
 **Habilidades:**
-- ITS OWN REWARD: {e} - If you've played 2 or more cards
+- ITS OWN REWARD: ![[imagenes/exert.svg|20]] - If you've played 2 or more cards
 this turn, gain 1 lore.
 
 ---
@@ -23907,7 +23907,7 @@ the top card of your deck facedown under this character.)
 Reckless (This character can't quest and must challenge
 each turn if able.)
 ONLY THE BOLD While there's a card under this character,
-your characters with Reckless gain "{e} - Gain 1 lore."
+your characters with Reckless gain "![[imagenes/exert.svg|20]] - Gain 1 lore."
 
 ---
 
@@ -24369,7 +24369,7 @@ any order.
 
 
 **Habilidades:**
-- ON THE TRAIL: {e} - If you have a Detective character
+- ON THE TRAIL: ![[imagenes/exert.svg|20]] - If you have a Detective character
 in play, return an item card from your discard to your
 hand. Otherwise, put it on the top of your deck.
 
@@ -24455,7 +24455,7 @@ character's {s} this turn.)
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Look at the top 4 cards of your deck. You may reveal
 up to 1 character card and up to 1 item card and put
@@ -24496,7 +24496,7 @@ inkwells facedown and exerted.
 
 
 **Habilidades:**
-- PROTECT AND SERVE: {e}, 1 {i} - Chosen character gains Resist +1
+- PROTECT AND SERVE: ![[imagenes/exert.svg|20]], 1 {i} - Chosen character gains Resist +1
 and the Detective classification until the start of your next turn.
 (Damage dealt to them is reduced by 1.)
 
@@ -24538,7 +24538,7 @@ of yours gains Ward until the start of your next turn.
 
 **Habilidades:**
 - PREFLIGHT CHECK: When you play this item, draw a card.
-READY TO RIDE {e}, 1 {i} - Chosen character gains Alert
+READY TO RIDE ![[imagenes/exert.svg|20]], 1 {i} - Chosen character gains Alert
 this turn. (They can challenge as if they had Evasive.)
 
 ---
@@ -24904,7 +24904,7 @@ under this character, he gets +2 {s} and +2 {w}.
 
 
 **Habilidades:**
-- (A character with cost 1 or more can {e} to sing this song
+- (A character with cost 1 or more can ![[imagenes/exert.svg|20]] to sing this song
 for free.)
 Chosen character gains Alert and Challenger +2 this
 turn. (They can challenge as if they had Evasive. They
@@ -24931,7 +24931,7 @@ their next turn. Draw a card.
 
 
 **Habilidades:**
-- (A character with cost 4 or more can {e} to sing this
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this
 song for free.)
 Deal 4 damage to chosen character. Your Deity
 characters gain Challenger +2 this turn. (They get
@@ -24987,7 +24987,7 @@ challenge, gain 1 lore.
 
 
 **Habilidades:**
-- SURPRISE PACKAGE: {e}, 2 {i}, Banish this item - Draw a
+- SURPRISE PACKAGE: ![[imagenes/exert.svg|20]], 2 {i}, Banish this item - Draw a
 card, then choose and discard a card.
 TIME GROWS SHORT During your turn, when this item
 is banished, deal 3 damage to chosen character or
