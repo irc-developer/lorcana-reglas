@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobre mí como árbitro de Disney Lorcana.md",
+                "file": "01. Reglas/1. Principios generales/1.5 Costes (Costs).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre mí como árbitro de Disney Lorcana"
+              "title": "1.5 Costes (Costs)"
             }
           }
         ],
@@ -269,8 +269,25 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "744a2cfd2c0e60d8",
+  "active": "83152efd8f089e5b",
   "lastOpenFiles": [
+    "02. Listado de Cartas/Sin título.md",
+    "imagenes/exert.svg",
+    "Unifica/png_to_svg.py",
+    "imagenes/800px-Exert-large.png",
+    "Sin título.md",
+    "02. Listado de Cartas",
+    "Unifica/todas_las_cartas.md",
+    "Unifica/generar_markdown.py",
+    "Unifica/buscar_carta.py",
+    "Unifica/ejemplo_carta_inline.md",
+    "Unifica/ejemplo_carta_simple.md",
+    "Sobre mí como árbitro de Disney Lorcana.md",
+    "Unifica/ejemplo_carta_wiki.md",
+    "Unifica/ver_resumen.py",
+    "Unifica/cartas_filtradas.json",
+    "Unifica/extraer_campos.py",
+    "Unifica/cartaslorcanajson.json",
     "Unifica/Reglas_tmp.html",
     "Unifica/Reglas.pdf",
     "Unifica/Reglas.md",
@@ -291,27 +308,11 @@
     "Unifica/04. Acciones de turno (Turn Actions).md",
     "Unifica/08. Palabras clave (Keywords).md",
     "Unifica/07. Zonas (Zones).md",
-    "Unifica/03. Estructura del turno (Turn Structure) - 3.1-3.2.md",
-    "Unifica/02. Juego (Gameplay).md",
-    "Unifica/01. Reglas - 1. Principios generales (1.1-1.6).md",
-    "Unifica",
     "09. Recursos/esquema-bolsa.svg",
-    "08. Palabras clave (Keywords).md",
-    "07. Zonas (Zones).md",
-    "06. Habilidades, efectos y resolución (abilities, effects, and resolving).md",
-    "05. Cartas y tipos de carta (Cards and Card types).md",
     "09. Recursos/Esquema-Desafio.svg",
     "09. Recursos/Esquema-Jugar-Carta.svg",
-    "imagenes/challenge.mermaid.html",
-    "imagenes/mermaidJugarCarta.html",
     "Pasted image 20260210172343.png",
     "WhatsApp Image 2026-02-08 at 14.25.40.jpeg",
-    "imagenes/rapunzelexplicacion.jpeg",
-    "01. Reglas/4. Acciones de turno (Turn Actions)",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/Verificación del estado de la partida o GSC",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/Legalidad de una carta",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/Lectura correcta de cartas",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/Jugar cartas",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/Interacciones"
+    "imagenes/rapunzelexplicacion.jpeg"
   ]
 }
