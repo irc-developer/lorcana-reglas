@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Escudos (replacement) vs Resist.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Aplicación de múltiples efectos de reemplazo (Escudos).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escudos (replacement) vs Resist"
+              "title": "Aplicación de múltiples efectos de reemplazo (Escudos)"
             }
           }
         ]
@@ -172,6 +172,12 @@
   },
   "active": "83152efd8f089e5b",
   "lastOpenFiles": [
+    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Aplicación de múltiples efectos de reemplazo (Escudos).md",
+    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Escudos (replacement) vs Resist.md",
+    "Sin título.canvas",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.9 Habilidades y sus efectos/11.9.01 Acción jugada debido a un efecto de otra carta.md",
     "01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward).md",
     "01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish).md",
     "01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support).md",
@@ -193,11 +199,6 @@
     "01. Reglas/7. Zonas (Zones)/7.4. Juego (Play).md",
     "01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck).md",
     "01. Reglas/7. Zonas (Zones)/7.3. Mano (Hand).md",
-    "01. Reglas/7. Zonas (Zones)/7.1. General.md",
-    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md",
-    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md",
-    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities).md",
-    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md",
     "09. Recursos/tiposdehabilidades.svg",
     "imagenes/lore.svg",
     "Unifica/convert_lore.py",
