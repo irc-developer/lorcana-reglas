@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Lady - Miss Park Avenue shift.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lady - Miss Park Avenue shift"
+              "title": "Sin título"
             }
           }
         ],
@@ -215,11 +215,14 @@
   },
   "active": "d343d444ff01a8fa",
   "lastOpenFiles": [
-    "Sin título.base",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Sin título.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Cartas volviendo a tu mano cuando son desterradas.md",
+    "plantillas/_plantilla para ejemplos de dudas.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Lady - Miss Park Avenue shift.md",
+    "Sin título.base",
     "01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.9 Habilidades y sus efectos/Sin título.md",
-    "plantillas/_plantilla para ejemplos de dudas.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Bambi – Ethereal Faun cantando una canción.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Mickey Mouse – Bob Cratchit y cartas under.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Pudge + Lilo + Grandmother Willow (+ Shift).md",
@@ -240,8 +243,6 @@
     "01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward).md",
     "01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish).md",
     "01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support).md",
-    "01. Reglas/8. Palabras clave (Keywords)/8.12. Cantar Juntos (Sing Together).md",
-    "01. Reglas/8. Palabras clave (Keywords)/8.11. Cantante (Singer).md",
     "09. Recursos/tiposdehabilidades.svg",
     "imagenes/lore.svg",
     "Unifica/convert_lore.py",
