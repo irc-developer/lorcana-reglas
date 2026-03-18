@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Sin título.md",
+                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/The Queen - Conceited Ruler y descarte sin retorno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "The Queen - Conceited Ruler y descarte sin retorno"
             }
           }
         ],
@@ -215,8 +215,17 @@
   },
   "active": "d343d444ff01a8fa",
   "lastOpenFiles": [
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Clausulas/11.2.03 Cláusula - El uso de Then.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/The Queen - Conceited Ruler y descarte sin retorno.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Fairy Godmother – Magical x2.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Plantilla - Caso de ejemplo y aclaración.md",
+    "Premisas agente IA Lorcana.md",
+    "Documentacion Oficial/Disney-Lorcana-Comprehensive-Rules-020526-EN-Edited.pdf",
+    "Documentacion Oficial/Sin confirmar 160906.crdownload",
+    "Documentacion Oficial",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Sin título.md",
+    "02. Listado de Cartas/Cartas de Lorcana.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Cartas volviendo a tu mano cuando son desterradas.md",
     "plantillas/_plantilla para ejemplos de dudas.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Lady - Miss Park Avenue shift.md",
@@ -236,13 +245,7 @@
     "01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/Aplicación de múltiples efectos de reemplazo (Escudos).md",
     "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md",
-    "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects).md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/Escudos (replacement) vs Resist.md",
     "Sin título.canvas",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.9 Habilidades y sus efectos/11.9.01 Acción jugada debido a un efecto de otra carta.md",
-    "01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward).md",
-    "01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish).md",
-    "01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support).md",
     "09. Recursos/tiposdehabilidades.svg",
     "imagenes/lore.svg",
     "Unifica/convert_lore.py",
@@ -255,9 +258,6 @@
     "Unifica/generar_markdown.py",
     "Unifica/buscar_carta.py",
     "Unifica/ver_resumen.py",
-    "Unifica/cartas_filtradas.json",
-    "Unifica/extraer_campos.py",
-    "Unifica/cartaslorcanajson.json",
     "09. Recursos/esquema-bolsa.svg",
     "09. Recursos/Esquema-Desafio.svg",
     "09. Recursos/Esquema-Jugar-Carta.svg",
