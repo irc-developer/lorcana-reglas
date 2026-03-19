@@ -1,0 +1,57 @@
+## ❓ Duda
+
+**Caso 1:**
+Al final del turno tengo un [[Cartas de Lorcana#Mr. Smee - Bumbling Mate|Mr. Smee - Bumbling Mate]] agotado con un daño sobre él y [[Cartas de Lorcana#Goofy - Groundbreaking Chef|Goofy - Groundbreaking Chef]].  
+¿Puedo resolver primero el curar y enderezar sobre Mr. Smee y así evitar su efecto?
+
+Y al revés: el Mr. Smee no tiene ningún daño.  
+¿Puedo hacerle recibir el daño primero para luego curarlo y enderezarlo?
+
+**Caso 2:**
+- En mesa tengo [[Cartas de Lorcana#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] y dos cartas en mano.  
+- Mi oponente tiene un [[Cartas de Lorcana#Diablo - Devoted Herald|Diablo - Devoted Herald]] agotado y cuatro cartas en mano.  
+
+Declaro el final del turno, lo que hace que la habilidad de **Clarabelle** entre en la bolsa, permitiéndome robar dos cartas.  
+Como robo dos cartas, se dispara dos veces la habilidad del **Diablo**.  
+¿Volvería a robar con Clarabelle debido a su habilidad?
+
+---
+
+## ✅ Respuesta
+
+**Caso 1:**
+Sí.  Todas las habilidades que se disparan **al final del turno** se añaden **simultáneamente a la bolsa**, y es el **jugador activo** quien decide en qué orden se resuelven.  
+
+Esto permite, por ejemplo:  
+- Resolver primero la habilidad de **Mr. Smee** para luego activar la de **Goofy**, curando y enderezando el personaje.  
+- O bien hacerlo al revés, resolviendo primero la de Goofy para evitar el efecto de Mr. Smee.
+
+**Caso 2:**
+No.  Los *triggers* de **final de turno** solo se disparan **una vez por turno**, en el momento en que comienza la fase de [[01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase)|final de turno]].  
+No se vuelven a disparar si durante esa misma fase ocurren nuevas condiciones similares.
+
+---
+
+---
+
+## 📘 Fundamento en reglas
+
+- [[01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase)]]
+- [[01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase)|final de turno]]
+
+---
+
+## 🔄 Secuencia oficial
+
+1. Evento de inicio
+2. Costes y requisitos (si aplica)
+3. Elecciones y objetivos
+4. Resolución
+5. Disparos y bolsa
+6. GSC
+
+---
+
+## 🏷️ Tags
+
+#end-of-turn-phase #end-of-turn-ability #order #triggered-ability

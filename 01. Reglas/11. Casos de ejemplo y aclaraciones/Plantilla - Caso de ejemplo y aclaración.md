@@ -24,17 +24,12 @@ Si no hay epígrafe directo, justificar por inferencia con combinación de regla
 
 ## 🔄 Secuencia oficial
 
-1. Coste
-2. Objetivos
-3. Resolución
-4. Disparos
-5. GSC
-
----
-
-## ❔ Dato faltante (si aplica)
-
-Pregunta mínima necesaria para cerrar el ruling al 100%.
+1. Evento de inicio
+2. Costes y requisitos (si aplica)
+3. Elecciones y objetivos
+4. Resolución
+5. Disparos y bolsa
+6. GSC
 
 ---
 
