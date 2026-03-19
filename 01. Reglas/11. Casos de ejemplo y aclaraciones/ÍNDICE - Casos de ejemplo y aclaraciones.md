@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 82 | **Última actualización:** 19 de marzo de 2026
+**Total de casos:** 90 | **Última actualización:** 19 de marzo de 2026
 
 ---
 
@@ -103,30 +103,38 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (20 casos)
+### 11.6. Interacciones Complejas (28 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
 1. [Acción jugada debido a un efecto de otra carta.md](11.6.%20Interacciones%20Complejas/Acción%20jugada%20debido%20a%20un%20efecto%20de%20otra%20carta.md)
 2. [Cálculo de fuerza con Tiana y Desafiador.md](11.6.%20Interacciones%20Complejas/Cálculo%20de%20fuerza%20con%20Tiana%20y%20Desafiador.md)
-3. [Giant Cobra sin cartas en la mano (2).md](11.6.%20Interacciones%20Complejas/Giant%20Cobra%20sin%20cartas%20en%20la%20mano%20(2).md)
-4. [Giant Cobra sin cartas en la mano.md](11.6.%20Interacciones%20Complejas/Giant%20Cobra%20sin%20cartas%20en%20la%20mano.md)
-5. [GSC y el final de partida.md](11.6.%20Interacciones%20Complejas/GSC%20y%20el%20final%20de%20partida.md)
-6. [GSC y habilidades que dañan.md](11.6.%20Interacciones%20Complejas/GSC%20y%20habilidades%20que%20dañan.md)
-7. [Horned King - Toca descarte antes de volver a mano.md](11.6.%20Interacciones%20Complejas/Horned King%20-%20Toca%20descarte%20antes%20de%20volver%20a%20mano.md)
-8. [Lady - Miss Park Avenue shift.md](11.6.%20Interacciones%20Complejas/Lady%20-%20Miss%20Park%20Avenue%20shift.md)
-9. [Legalidad de cartas firmadas.md](11.6.%20Interacciones%20Complejas/Legalidad%20de%20cartas%20firmadas.md)
-10. [Legalidad de una carta modificada.md](11.6.%20Interacciones%20Complejas/Legalidad%20de%20una%20carta%20modificada.md)
-11. [Modifica su fuerza mientras reta.md](11.6.%20Interacciones%20Complejas/Modifica%20su%20fuerza%20mientras%20reta.md)
-12. [Muchas cartas implicadas.md](11.6.%20Interacciones%20Complejas/Muchas%20cartas%20implicadas.md)
-13. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](11.6.%20Interacciones%20Complejas/Por%20qué%20Rapunzel%20pierde%20su%20protección%20incluso%20si%20Resist%20reduce%20el%20daño%20a%200.md)
-14. [Pudge + Lilo + Grandmother Willow (+ Shift).md](11.6.%20Interacciones%20Complejas/Pudge%20+%20Lilo%20+%20Grandmother%20Willow%20(+%20Shift).md)
-15. [Rapunzel – Act of Kindness y mover daño.md](11.6.%20Interacciones%20Complejas/Rapunzel%20–%20Act%20of%20Kindness%20y%20mover%20daño.md)
-16. [Secuencia de desafíos con Fa Zhou - War Hero.md](11.6.%20Interacciones%20Complejas/Secuencia%20de%20desafíos%20con%20Fa%20Zhou%20-%20War%20Hero.md)
-17. [Siempre que un personaje desafíe... ocurren cosas.md](11.6.%20Interacciones%20Complejas/Siempre%20que%20un%20personaje%20desafíe...%20ocurren%20cosas.md)
-18. [Support - Interacciones.md](11.6.%20Interacciones%20Complejas/Support%20-%20Interacciones.md)
-19. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducción%20de%20Fuerza%20y%20prevención%20total%20de%20daño.md)
-20. [Usar cartas de anteriores sets reeditadas.md](11.6.%20Interacciones%20Complejas/Usar%20cartas%20de%20anteriores%20sets%20reeditadas.md)
+3. [Cinderella - Dream Come True y múltiples princesas.md](11.6.%20Interacciones%20Complejas/Cinderella%20-%20Dream%20Come%20True%20y%20múltiples%20princesas.md)
+4. [Copper y Reckless sin objetivos de ataque.md](11.6.%20Interacciones%20Complejas/Copper%20y%20Reckless%20sin%20objetivos%20de%20ataque.md)
+4. [Elsa – Spirit of Winter elegir personaje agotado.md](11.6.%20Interacciones%20Complejas/Elsa%20–%20Spirit%20of%20Winter%20elegir%20personaje%20agotado.md)
+5. [Giant Cobra sin cartas en la mano (2).md](11.6.%20Interacciones%20Complejas/Giant%20Cobra%20sin%20cartas%20en%20la%20mano%20(2).md)
+6. [Giant Cobra sin cartas en la mano.md](11.6.%20Interacciones%20Complejas/Giant%20Cobra%20sin%20cartas%20en%20la%20mano.md)
+7. [GSC y el final de partida.md](11.6.%20Interacciones%20Complejas/GSC%20y%20el%20final%20de%20partida.md)
+8. [GSC y habilidades que dañan.md](11.6.%20Interacciones%20Complejas/GSC%20y%20habilidades%20que%20dañan.md)
+9. [Horned King - Toca descarte antes de volver a mano.md](11.6.%20Interacciones%20Complejas/Horned King%20-%20Toca%20descarte%20antes%20de%20volver%20a%20mano.md)
+10. [John Smith - Choose up to X no evita restricción.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Choose%20up%20to%20X%20no%20evita%20restricción.md)
+11. [John Smith - Do your worst y restricción de elección.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Do%20your%20worst%20y%20restricción%20de%20elección.md)
+12. [John Smith - Elegir menos objetivos no esquiva restricción.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Elegir%20menos%20objetivos%20no%20esquiva%20restricción.md)
+13. [John Smith - Elegir mismo personaje múltiples veces.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Elegir%20mismo%20personaje%20múltiples%20veces.md)
+14. [John Smith - Obligado elegir si objetivo válido.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Obligado%20elegir%20si%20objetivo%20válido.md)
+15. [Lady - Miss Park Avenue shift.md](11.6.%20Interacciones%20Complejas/Lady%20-%20Miss%20Park%20Avenue%20shift.md)
+16. [Legalidad de cartas firmadas.md](11.6.%20Interacciones%20Complejas/Legalidad%20de%20cartas%20firmadas.md)
+17. [Legalidad de una carta modificada.md](11.6.%20Interacciones%20Complejas/Legalidad%20de%20una%20carta%20modificada.md)
+18. [Modifica su fuerza mientras reta.md](11.6.%20Interacciones%20Complejas/Modifica%20su%20fuerza%20mientras%20reta.md)
+19. [Muchas cartas implicadas.md](11.6.%20Interacciones%20Complejas/Muchas%20cartas%20implicadas.md)
+20. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](11.6.%20Interacciones%20Complejas/Por%20qué%20Rapunzel%20pierde%20su%20protección%20incluso%20si%20Resist%20reduce%20el%20daño%20a%200.md)
+21. [Pudge + Lilo + Grandmother Willow (+ Shift).md](11.6.%20Interacciones%20Complejas/Pudge%20+%20Lilo%20+%20Grandmother%20Willow%20(+%20Shift).md)
+22. [Rapunzel – Act of Kindness y mover daño.md](11.6.%20Interacciones%20Complejas/Rapunzel%20–%20Act%20of%20Kindness%20y%20mover%20daño.md)
+23. [Secuencia de desafíos con Fa Zhou - War Hero.md](11.6.%20Interacciones%20Complejas/Secuencia%20de%20desafíos%20con%20Fa%20Zhou%20-%20War%20Hero.md)
+24. [Siempre que un personaje desafíe... ocurren cosas.md](11.6.%20Interacciones%20Complejas/Siempre%20que%20un%20personaje%20desafíe...%20ocurren%20cosas.md)
+25. [Support - Interacciones.md](11.6.%20Interacciones%20Complejas/Support%20-%20Interacciones.md)
+26. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducción%20de%20Fuerza%20y%20prevención%20total%20de%20daño.md)
+27. [Usar cartas de anteriores sets reeditadas.md](11.6.%20Interacciones%20Complejas/Usar%20cartas%20de%20anteriores%20sets%20reeditadas.md)
 
 ---
 
@@ -134,13 +142,13 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 
 | Categoría | Casos | % Total |
 |-----------|-------|---------|
-| **11.0 Timing y Resolución** | 17 | 20.7% |
-| **11.2 Zonas y Movimientos** | 11 | 13.4% |
-| **11.3 Costes y Requisitos** | 8 | 9.8% |
-| **11.4 Habilidades** | 14 | 17.1% |
-| **11.5 Keywords** | 12 | 14.6% |
-| **11.6 Interacciones Complejas** | 20 | 24.4% |
-| **TOTAL** | **82** | **100%** |
+| **11.0 Timing y Resolución** | 17 | 18.9% |
+| **11.2 Zonas y Movimientos** | 11 | 12.2% |
+| **11.3 Costes y Requisitos** | 8 | 8.9% |
+| **11.4 Habilidades** | 14 | 15.6% |
+| **11.5 Keywords** | 12 | 13.3% |
+| **11.6 Interacciones Complejas** | 28 | 31.1% |
+| **TOTAL** | **90** | **100%** |
 
 ---
 

@@ -107,12 +107,13 @@ Cuando resuelvas dudas de timing con movimientos de zona, **verifica siempre**:
 
 - Preferencia por terminología inglesa en mecánicas/keywords, salvo zonas con equivalencia fija al castellano.
 - Vocabulario estricto, sin variantes libres.
-- Normalizar para mantener contexto de reglas: lorear, quest, entintar, challengear, etc.
+- Normalizar para mantener contexto de reglas: lorear, quest, agotar (NO exertar), entintar (NO tintear), challengear, etc.
 - Léxico obligatorio de zonas:
 	- `discard` → `descarte` o `zona de descarte` (según contexto).
 	- `hand` → `mano`.
 	- `play` → `zona de juego`.
 	- `inkwell` → `pozo de tinta`.
+	- `exert` → `agotar` (SIEMPRE, nunca "exertar").
 - **Terminología de reglas SIEMPRE en castellano:**
 	- `triggered ability` → `habilidad disparada`
 	- `replacement effect` → `efecto de reemplazo`
@@ -352,19 +353,19 @@ DESPUÉS:
 
 $
 
-### 5.1.3) PROHIBICIÓN de secciones vacías en casos
+### 5.1.3) Validación de secciones completas en casos
 
 **Regla crítica de integridad estructural:**
 
-**NINGUNA de las 5 secciones obligatorias puede estar vacía** (contener solo el encabezado y separador):
+Las 5 secciones obligatorias deben estar siempre completas (no solo con encabezado):
 
 ```markdown
-❌ PROHIBIDO (sección vacía):
+❌ Incompleto (sección vacía):
 ## ❓ Duda
 
 ---
 
-✅ OBLIGATORIO (sección completa):
+✅ Completo (sección con contenido):
 ## ❓ Duda
 
 ¿Puedo jugar una carta gratis si tengo efecto X?
@@ -372,26 +373,26 @@ $
 ---
 ```
 
-**Las 5 secciones obligatorias SON:**
-1. `## ❓ Duda` – NUNCA vacía. Debe ser una pregunta concisa (¿...?)
-2. `## ✅ Respuesta` – NUNCA vacía. Debe tener Sí/No + explicación
-3. `## 📘 Fundamento en reglas` – NUNCA vacía. Debe tener al menos 1 link a reglas
-4. `## 🔄 Secuencia oficial` – NUNCA vacía. Debe tener los 6 pasos mínimos
-5. `## 🏷️ Tags` – NUNCA vacía. Debe tener 1-7 tags relevantes (no vacío, no genéricos)
+**Las 5 secciones obligatorias son:**
+1. `## ❓ Duda` – Debe contener una pregunta clara (¿...?)
+2. `## ✅ Respuesta` – Debe tener Sí/No + explicación
+3. `## 📘 Fundamento en reglas` – Debe tener al menos 1 link a reglas
+4. `## 🔄 Secuencia oficial` – Debe tener los 6 pasos mínimos
+5. `## 🏷️ Tags` – Debe tener 1-7 tags relevantes (no genéricos)
 
-**Consecuencia de incumplimiento:**
-- Un archivo con cualquier sección vacía está **incompleto** y **no debe guardarse**
-- Si el usuario no proporciona contenido para una sección, el agente debe:
-  1. Notar la sección vacía
-  2. Preguntar explícitamente al usuario qué incluir en esa sección
-  3. NO guardar el archivo hasta que esté completo
+**Recomendaciones para cumplimiento:**
+- Un archivo con alguna sección vacía está incompleto
+- Si el usuario no proporciona contenido para una sección:
+  1. Identifica cuál sección está vacía
+  2. Pregunta al usuario explícitamente qué incluir en ella
+  3. Completa el contenido antes de guardar el archivo
 
 **Auditoría actual (2026-03-19):**
-- **20 archivos con ❓ Duda vacía** (sin pregunta formulada)
-- **7 archivos con 🏷️ Tags vacíos** (solo encabezado, sin tags)
-- Estos archivos requieren corrección urgente
+- 20 archivos con ❓ Duda vacía (sin pregunta formulada)
+- 7 archivos con 🏷️ Tags vacíos (solo encabezado, sin tags)
+- Se recomienda completar estos archivos
 
-### 5.1.4) Formato obligatorio: Salto de línea antes de tags
+### 5.1.4) Formato recomendado: Salto de línea antes de tags
 
 **Regla de formateo estructural:**
 
@@ -677,6 +678,114 @@ Los tags en la sección `🏷️ Tags` deben cumplir estas reglas:
 - ❌ `#6 #7 #alternatecost #cr #costreduction`
 - ✓ `#alternate-cost #shift-timing #pudge #lilo #willow`
 
+## 5.3) Mantenimiento obligatorio de índices
+
+**REGLA CRÍTICA VINCULANTE - SIN EXCEPCIONES:**
+
+**Cada vez que se cree un nuevo archivo de caso (o se encuentre que falta), el ÍNDICE DEBE SER ACTUALIZADO en la misma operación.**
+
+### 5.3.1) Protocolo obligatorio de actualización de índice
+
+**ANTES de completar cualquier creación de nuevo caso:**
+
+1. **Identificar la categoría correcta** (11.0, 11.2, 11.3, 11.4, 11.5 o 11.6)
+2. **Localizar el archivo de índice**: `[[01. Reglas/11. Casos de ejemplo y aclaraciones/ÍNDICE - Casos de ejemplo y aclaraciones.md|ÍNDICE - Casos de ejemplo y aclaraciones.md]]`
+3. **Añadir ENLACE en la sección correspondiente:**
+   - **CRÍTICO**: No basta con actualizar números. DEBE añadirse la ENTRADA CON ENLACE completo
+   - Numeración secuencial dentro de la categoría
+   - Formato **OBLIGATORIO**: `N. [[Ruta exacta al archivo|Nombre del archivo]]`
+   - Mantener orden alfabético dentro de cada subcarpeta
+   - **Ejemplo CORRECTO**: `11. [John Smith - Obligado elegir si objetivo válido.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Obligado%20elegir%20si%20objetivo%20válido.md)`
+   - **Ejemplo INCORRECTO**: solo cambiar "(20 casos)" a "(24 casos)" sin agregar links
+4. **Actualizar el contador total** en la cabecera del índice: `**Total de casos:** X`
+5. **Actualizar la fecha** en la cabecera: `**Última actualización:** DD de mes de AAAA`
+6. **Actualizar números de subcarpeta** en el encabezado: `### 11.X. [Nombre] (N casos)`
+7. **RECALCULAR ESTADÍSTICAS**: Actualizar la tabla de % con números nuevos
+
+### ⚠️ VALIDACIÓN CRÍTICA: Esta es la razón del error anterior
+
+**Error registrado (2026-03-19):**
+- Se actualizaron estadísticas: "82 → 86 casos, 11.6: 20→24 casos"
+- **PERO** los enlaces NO fueron añadidos al índice
+- Los 4 casos de John Smith existían como archivos pero no eran navegables desde el índice
+- Resultado: Índice INCOMPLETO, navegación rota
+
+**Regla de fallo crítico ACTUALIZADA:**
+
+Si un nuevo caso se crea y el índice **no incluye tanto el enlace como las estadísticas actualizadas en la misma sesión**, se marca como INCOMPLETO y se debe cerrar el ticket.
+
+**Checklist reforzado:**
+- [ ] Archivo creado en ruta correcta dentro de `11.X/`
+- [ ] **LINK añadido al índice con ruta correcta y nombre exacto del archivo**
+- [ ] Número de secuencia correcto dentro de la subcarpeta
+- [ ] **Link resuelve correctamente** (sin rutas rotas - validar visualmente)
+- [ ] Total de casos incrementado en 1
+- [ ] Número en encabezado de subcarpeta actualizado
+- [ ] Fecha de actualización puesta al día
+- [ ] Porcentajes recalculados en tabla de estadísticas
+- [ ] Orden alfabético mantenido (si aplica)
+
+### 5.3.2) Estructura del índice por categoría
+
+Cada sección debe tener:
+- Encabezado temático con número de casos: `### 11.X. [Tema] (N casos)`
+- Descripción breve del tema
+- Lista numerada de casos con links en formato Obsidian
+- Separador `---` entre secciones
+
+**Formato correcto de entrada:**
+
+```markdown
+### 11.6. Interacciones Complejas (N casos)
+
+Casos que tocan 2+ temas simultáneamente.
+
+1. [Cartas en mano y el cálculo de triggers.md](11.6.%20Interacciones%20Complejas/Cartas%20en%20mano%20y%20el%20cálculo%20de%20triggers.md)
+2. [John Smith - Elegir mismo personaje múltiples veces.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Elegir%20mismo%20personaje%20múltiples%20veces.md)
+3. [John Smith - Choose up to X no evita restricción.md](11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Choose%20up%20to%20X%20no%20evita%20restricción.md)
+...
+```
+
+**Orden de presentación en índice:**
+
+- **Criterio primario**: Número de subcarpeta (11.0 primero, 11.6 último)
+- **Criterio secundario**: Orden alfabético dentro de cada subcarpeta
+- **Excepción**: Los primeros casos fundacionales de una subcarpeta pueden listarse por importancia conceptual
+
+### 5.3.3) Validación de índice antes de finalizar
+
+**Checklist obligatorio antes de dar por completado un nuevo caso:**
+
+- [ ] El archivo existe en la ruta correcta dentro de `11.X/`
+- [ ] La entrada aparece en el índice con el nombre exacto del archivo
+- [ ] El link en el índice resuelve correctamente (sin rutas rotas)
+- [ ] El número de secuencia es correcto dentro de la subcarpeta
+- [ ] El total de casos en la cabecera se incrementó en 1
+- [ ] El número en el encabezado de la subcarpeta incluye el nuevo caso
+- [ ] La fecha de actualización está puesta al día
+- [ ] El orden alfabético se mantiene dentro de la subcarpeta (si aplica)
+
+**Regla de fallo crítico:**
+
+Si un nuevo caso se crea y el índice **no se actualiza en la misma sesión**, se marca como INCOMPLETO y se debe cerrar el ticket.
+
+**Auditoría actual (2026-03-19):** 
+
+- Total de casos en `11/`: 85 (después de nuevas entradas John Smith)
+- Última actualización del índice: Pendiente (debe ejecutarse junto a creación de casos nuevos)
+- Casos sin entrada en índice: 4 nuevos casos sobre John Smith (requieren actualización NOW)
+
+### 5.3.4) Acciones a realizar si el índice está desactualizado
+
+Si detectas un caso que existe pero NO está en el índice:
+
+1. **Verificar** si el caso está mal nombrado o ubicado
+2. **Localizar la entrada faltante** o verificar si debe ser incluído
+3. **Añadir la entrada** o reparar la ruta con link correcto
+4. **Reumar el total** y actualizar fecha
+
+**No se permite completar sesión de creación de casos sin actualizar índice.**
+
 ## 6) Formato de salida del agente
 
 - Formato corto por defecto.
@@ -724,9 +833,136 @@ Los tags en la sección `🏷️ Tags` deben cumplir estas reglas:
 - Si un caso toca 2+ temas con igual importancia → va a 11.6 (ej: "Tiana y Rapunzel" combina timing + fuerza + daño)
 - Keywords específicas (ej: "Lilo - Bundled Up y Malicious") → 11.5 siempre que sea identificable el keyword
 
-## 8) Optimización para reducción de requests premium
+## 8) Protocolos obligatorios de verificación de cartas y construcción de casos
 
-**Estrategia global para minimizar llamadas API:**
+### 8.1.1) VERIFICACIÓN EXHAUSTIVA OBLIGATORIA: Texto de cartas en dudas
+
+**REGLA CRÍTICA VINCULANTE - SIN EXCEPCIONES:**
+
+Verifica siempre el texto exacto de las cartas mencionadas en las dudas. Es frecuente que la descripción del usuario sea inexacta, lo que causa errores de ruling.
+
+**Protocolo obligatorio:**
+
+1. **ANTES de resolver cualquier duda que mencione una carta específica**, búscala y verifica el texto exacto de esa carta.
+2. **No asumir** cómo funciona basándote en:
+   - La descripción del usuario ("la carta dice X")
+   - Interpretaciones textuales aproximadas
+   - Memoria de cartas vistas antes
+3. **Validar siempre** usando:
+   - `grep_search` en `02. Listado de Cartas/Cartas de Lorcana.md`
+   - O `read_file` en el mismo archivo si la búsqueda falla
+   - Búscalo por nombre exacto entre `## [Nombre Carta]` markers
+
+**Ejemplo de error crítico cometido (2026-03-19):**
+
+```
+CASO: "Do your worst" + Hypnotic Strength
+
+ASUNCIÓN INCORRECTA (basada en descripción del usuario):
+- "Hypnotic Strength elige un personaje tuyo"
+- Por lo tanto, John Smith no puede ser elegido
+- Por lo tanto, "Do your worst" no fuerza la elección
+
+REALIDAD (verificación de texto exacto):
+- Hypnotic Strength dice: "Chosen character gains Challenger +2"
+- No dice "your character" → puede elegir cualquier personaje
+- Por lo tanto, John Smith sí puede ser elegido
+- Por lo tanto, "Do your worst" sí fuerza la elección
+
+RESULTADO: El ruling se invirtió completamente al verificar el texto exacto
+```
+
+**Consecuencias de no verificar:**
+
+- ❌ Ruling incorrecto que contradice el funcionamiento real de la carta
+- ❌ Jugador recibe información falsa
+- ❌ Caso documentado con premisa falsa entra en la base de conocimiento
+- ❌ Futuros rulings heredan el error
+
+**Checklist ANTES de resolver cualquier duda sobre una carta:**
+
+- [ ] ¿Me menciona el usuario una carta específica? 
+  - SÍ → Continúa al siguiente paso
+  - NO → Puede proceder normalmente
+  
+- [ ] ¿Describió el usuario cómo "dice la carta que..."?
+  - SÍ → VERIFICA el texto exacto ANTES de resolver
+  - NO → Aún así, verifica si es relevante para el ruling
+  
+- [ ] ¿Busqué el nombre exacto en `Cartas de Lorcana.md`?
+  - SÍ → Continúa
+  - NO → Busca AHORA con `grep_search`
+  
+- [ ] ¿El texto real de la carta coincide con lo que describió el usuario?
+  - SÍ → Procede a resolver
+  - NO → Notifica la discrepancia y resuelve basado en TEXTO EXACTO, no en descripción
+  
+- [ ] ¿Documenté en el caso que el texto se verificó y qué decía exactamente?
+  - SÍ → Guardar caso
+  - NO → Incluir en Fundamento: "Texto verificado: [EXACTO TEXTO]"
+
+**Ubicación de verificación:** `Cartas de Lorcana.md` contiene todas las cartas con formato:
+
+```markdown
+## [Nombre Carta]
+
+**Coste:** X | **Tipo:** Y | **Color:** Z | **[otros datos]**
+
+**Habilidades:**
+- [TEXTO EXACTO AQUÍ]
+```
+
+Buscar por `## [Nombre Carta]` para encontrar la entrada exacta.
+
+### 8.1.2) VERIFICACIÓN DE COINCIDENCIA EXACTA: Identificar la carta correcta
+
+**REGLA CRÍTICA VINCULANTE:**
+
+Cuando el usuario describe una carta, **DEBO asegurar que estoy trabajando con la carta correcta**. Las dudas ocurren frecuentemente porque:
+- El usuario recuerda el nombre de forma imprecisa ("Que fue que...")
+- Hay múltiples cartas con nombres similares en diferentes sets
+- El usuario describe la habilidad pero no da el nombre exacto
+
+**Protocolo obligatorio de identificación:**
+
+1. **Si el usuario da un nombre exacto de carta (ej: "Donald Duck - Ruby Champion"):**
+   - Busca ese nombre EXACTO en `Cartas de Lorcana.md` con `grep_search`
+   - Si encuentras **exactamente UNA coincidencia** → confirma y continúa: *"Verificado: [[Cartas de Lorcana#Donald Duck - Ruby Champion|Donald Duck - Ruby Champion]]"*
+   - Si encuentras **CERO coincidencias** → pregunta: *"No encuentro esa carta. ¿Te refieres a [opciones cercanas]? ¿O puedes dar más detalles (set, tipo, coste)?"*
+   - Si encuentras **MÚLTIPLES coincidencias** → pregunta: *"Hay varias cartas con ese nombre. ¿Cuál: [listar opciones con set/coste]?"*
+
+2. **Si el usuario describe una carta sin nombre exacto (ej: "Un personaje Ruby que da +1 de fuerza"):**
+   - Busca por características: tipo, color, habilidad clave con `grep_search`
+   - Si encuentras **exactamente UNA que coincide completamente** → confirma antes de continuar: *"¿Te refieres a [[Cartas de Lorcana#...|...]]?"*
+   - Si encuentras **MÚLTIPLES que podrían coincidir** → pregunta: *"¿Cuál de estas: [listar opciones]? O dame el nombre exacto si lo recuerdas."*
+   - Si no encuentras ninguna → pregunta: *"No encuentro esa carta. ¿Recuerdas el nombre, set, coste, tipo o cualquier detalle?"*
+
+3. **Si hay ambigüedad Y la respuesta depende de QUIÉN sea la carta exacta:**
+   - NO asumas cuál es (esto es cómo ocurrieron errores previos)
+   - PREGUNTA al usuario para confirmar por las opciones disponibles
+   - Usa preguntas cerradas con opciones específicas, no abiertas
+
+4. **Una vez identificada la carta:**
+   - Verifica su texto exacto en `Cartas de Lorcana.md` (sección 8.1.1)
+   - Documentar en cualquier caso creado: "Carta verificada: [NOMBRE EXACTO]" con link
+
+**Ejemplo de aplicación correcta:**
+
+```
+USUARIO: "Si tengo un personaje que da +1 fuerza a otros del mismo color..."
+
+AGENTE: "¿Te refieres a Donald Duck - Ruby Champion? Porque hay varias cartas que dan +1 
+fuerza. Dame el nombre exacto o más detalles (set, coste, tipo) si es diferente."
+
+USUARIO: "Sí, Donald Duck - Ruby Champion"
+
+AGENTE: "Verificado: [[Cartas de Lorcana#Donald Duck - Ruby Champion|Donald Duck - Ruby Champion]]. 
+Procedo..."
+```
+
+**Resultado esperado:** Zero rulings incorrectos por identificación equivocada de carta.
+
+## 9) Optimización para reducción de requests premium y patrones de ejecución
 
 ### 9.1) Batching automático de operaciones
 
@@ -736,7 +972,7 @@ Cuando identifiques múltiples archivos con el **mismo tipo de problema**, agrú
 - **Ediciones de archivo**: Si tienes 3+ reemplazos en el mismo archivo o en archivos independientes, usa `multi_replace_string_in_file` en una sola invocación.
 - **Lecturas**: Lee secciones amplias de un archivo en una sola llamada en lugar de fragmentos múltiples.
 
-**Ejemplo Prohibido** (4 requests):
+**Enfoque a evitar** (4 requests):
 ```
 1. grep_search("término1")
 2. grep_search("término2")
@@ -744,7 +980,7 @@ Cuando identifiques múltiples archivos con el **mismo tipo de problema**, agrú
 4. read_file (líneas 1-50), luego read_file (líneas 51-100)
 ```
 
-**Ejemplo Correcto** (2 requests):
+**Enfoque óptimo** (2 requests):
 ```
 1. grep_search("término1|término2|término3", regex=true)
 2. read_file (líneas 1-150 en una sola llamada)
@@ -752,12 +988,12 @@ Cuando identifiques múltiples archivos con el **mismo tipo de problema**, agrú
 
 ### 9.2) Decisiones automáticas sin escalación
 
-**NO preguntes** si la respuesta se puede resolver combinando:
+Resuelve directamente (sin preguntar al usuario) si la respuesta se puede construir combinando:
 - Contexto que ya tiene el usuario (datos visibles en archivos abiertos)
 - Reglas explícitas en `01. Reglas/1. Principios generales`
 - Criterios fijos ya documentados en secciones 3, 4, 5 de esta premisa
 
-**Casos que SÍ resuelves sin preguntar:**
+**Casos que resuelves automáticamente:**
 
 | Situación | Acción | Razón |
 |-----------|--------|-------|
@@ -767,7 +1003,7 @@ Cuando identifiques múltiples archivos con el **mismo tipo de problema**, agrú
 | Múltiples cartas con misma mecánica | Responder sobre la mecánica una sola vez | Evita repetición |
 | Conflicto bajo entre fuentes | Explicar ambas versiones, indicar cuál es oficial | Solo preguntar si conflicto es ALTO |
 
-**Casos que SÍ escalas con pregunta cerrada:**
+**Casos que sí dan lugar a preguntas cerradas:**
 
 | Situación | Pregunta | Razón |
 |-----------|----------|-------|
@@ -783,14 +1019,14 @@ Cuando identifiques múltiples archivos con el **mismo tipo de problema**, agrú
 
 ### 9.4) Fallbacks automáticos
 
-Si una búsqueda falla o retorna vacío, **NO sigas intentando** con herramientas nuevas. Procede así:
+Si una búsqueda falla o retorna vacío, no continúes intentando alternativas de herramientas. Procede así:
 
 1. **Primer intento**: Usa la herramienta más probable (ej: `grep_search`)
 2. **Si falla**: Declara que no encontraste la información específicamente en ese archivo
 3. **Fallback**: Reconstruye la respuesta con reglas base + lógica combinada, citando que no hay fuente directa disponible
-4. **NO hagas**: 3+ búsquedas diferentes, luego levantas la mano ("no sé dónde está")
+4. **Evita**: Hacer 3+ búsquedas diferentes para luego decir que no encontraste nada
 
-**Ejemplo Correcto**:
+**Enfoque correcto**:
 - Busco `grep_search("shift timing")` en Keywords.md → no encuentra
 - Fallback: "No existe epígrafe específico de 'shift timing', pero combinando [[Keywords#Shift]] + [[Resolución#timing]] …"
 - ✅ 1 request + respuesta completa
