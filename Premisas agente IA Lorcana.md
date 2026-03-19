@@ -289,6 +289,173 @@ $
 - **7 archivos con 🏷️ Tags vacíos** (solo encabezado, sin tags)
 - Estos archivos requieren corrección urgente
 
+### 5.1.4) Formato obligatorio: Salto de línea antes de tags
+
+**Regla de formateo estructural:**
+
+**Siempre debe haber un salto de línea (línea en blanco) ANTES de los tags**. Los tags nunca van directamente después del contenido.
+
+**Estructura correcta:**
+
+```markdown
+## 🏷️ Tags
+
+Contenido visual de la última sección
+
+#tag1 #tag2 #tag3 #tag4
+```
+
+**Estructura INCORRECTA (prohibida):**
+
+```markdown
+❌ Sin salto de línea antes de tags:
+## 🏷️ Tags
+#tag1 #tag2 #tag3 #tag4
+
+❌ Tags directamente en contenido:
+Contenido de sección
+#tag1 #tag2 #tag3
+
+❌ Sin línea en blanco:
+## 🔄 Secuencia oficial
+6. GSC#tag1 #tag2
+```
+
+**Aplicación en documentos de `1. Principios generales`:**
+
+Cuando hay **tags granulares por subsección + tags consolidados**, el formato es:
+
+```markdown
+#### 1.5.5.3. Gratis (for free)
+Si un efecto te permite jugar una carta "for free", **es un coste alternativo** y significa que puedes jugarla sin pagar su coste.
+#free
+
+#### 1.5.5.4. Gratis solo en tinta
+Si un efecto te permite usar una habilidad "for free", puedes usarla sin pagar ningún coste en tinta excepto ![[imagenes/exert.svg|20]] (exert)
+#free-activated-ability
+
+---
+
+#costs #ink-cost #alternative-cost #sing #shift #free #free-activated-ability #payment-modifiers
+```
+
+**Checklist de validación:**
+- [ ] Línea en blanco antes de tags (no directamente después del párrafo)
+- [ ] Tags en línea separada
+- [ ] Con espacios entre tags: `#tag1 #tag2 #tag3` NO `#tag1#tag2#tag3`
+- [ ] Si hay consolidación de tags al final de archivo: separador `---` solo si hay muchas subsecciones antes
+
+### 5.1.5) Coherencia de tags entre casos y reglas
+
+**Regla de alineación semántica:**
+
+**Los casos y las reglas deben compartir tags cuando sea coherente para facilitar búsqueda y vinculación cruzada.**
+
+**Objetivo:** Crear un mapa de conocimiento interconectado donde los tags actúan como puentes entre documentación regulatoria y ejemplos prácticos.
+
+**Principios de aplicación:**
+
+1. **Tags idénticos cuando el contexto es el mismo:**
+   - Si un caso ilustra la regla `#habilidades-estaticas`, debe tener ese tag
+   - Si una regla define `#costes-alternativos`, los casos sobre costes alternativos también llevan ese tag
+   
+2. **Coherencia sin forzar:**
+   - No añadir tags a un caso "solo porque la regla los tiene"
+   - Solo compartir tags cuando el contenido del caso es verdaderamente relevante a la regla
+   - Ejemplo: Un caso sobre `#shift` debería tener ese tag; pero no debería tener `#costs` si es específico solo de shift
+
+3. **Granularidad consistente:**
+   - Reglas: Tags generales (`#costs`) + tags específicos (`#ink-cost`, `#shift`, `#sing`)
+   - Casos: Mismo sistema - tags generales del concepto + tags específicos del escenario
+
+4. **Facilitación de búsqueda:**
+   - Usuarios pueden buscar `#shift` en Obsidian y encontrar:
+     - La sección 1.5.5.2 en "1. Principios generales/1.5 Costes"
+     - Todos los casos que usan o ilustran shift
+   - Esto crea una red temática automática
+
+**Ejemplo de coordinación:**
+
+```markdown
+Regla en 1.5 Costes (Costs).md:
+#### 1.5.5.2. Shift
+Shift es un coste alternativo que permite jugar un personaje por menos tinta...
+
+#shift
+
+---
+
+Caso en 11. Casos/11.3. Costes/caso-shift-ejemplo-1.md:
+## ❓ Duda
+¿Puedo usar shift si no tengo personajes en juego?
+
+## ✅ Respuesta
+No. Shift requiere que sacrifiques un personaje...
+
+## 🏷️ Tags
+#shift #sacrifice #legal-target #alternative-cost
+
+←-- Tag #shift vincula directamente a la regla
+```
+
+**Validación de coherencia:**
+- [ ] Los tags de un caso tienen al menos 1 tag que aparece en una regla relacionada
+- [ ] No hay tags en casos que sean "huérfanos" (sin correlato en reglas existentes)
+- [ ] Si un nuevo tag aparece en muchos casos, verificar si debería documentarse como regla nueva
+
+### 5.1.6) OBLIGACIÓN ESTRICTA: Tags granulares por subsección (solo en secciones clave)
+
+**Regla de estructura de tags - VINCULANTE Y ESTRICTA:**
+
+**Las siguientes secciones son de OBLIGACIÓN TOTAL: tags granulares específicos por subsección, sin excepciones.**
+
+Secciones donde es OBLIGATORIO:
+- ✅ **"1. Principios generales"** (1.1 a 1.12) - YA COMPLETO
+- ✅ **"2. Juego (Gameplay)"** (2.1 a 2.4) - YA COMPLETO
+- ✅ **"3. Estructura del turno"** (3.1 a 3.4) - YA COMPLETO
+- ✅ **"4. Acciones de turno"** (4.1 a 4.7) - YA COMPLETO
+- **"5. Cartas y tipos de carta"** - PRÓXIMA TAREA
+- **"6. Habilidades, efectos y resolución"** - PRÓXIMA TAREA
+- **"8. Palabras clave (Keywords)"** - PRÓXIMA TAREA (donde haya subsecciones definibles)
+
+Secciones donde es RECOMENDADO pero NO obligatorio:
+- "7. Zonas" (si tiene muchas subsecciones)
+- Otras secciones menores
+
+**Estructura OBLIGATORIA (sin excepciones):**
+
+```markdown
+#### [Subsección]
+Contenido...
+
+#tag-especifico-subseccion
+
+#### [Siguiente subsección]
+Contenido...
+
+#tag-siguiente-subseccion
+
+---
+
+#tag-general-consolidado #tag-especifico-subseccion #tag-siguiente-subseccion
+```
+
+**Incumplimiento = falta crítica:**
+
+Si una sección de las obligatorias NO tiene tags granulares:
+- ❌ No se considera completa
+- ❌ Es defecto que debe corregirse
+- ❌ Se reporta en auditoría
+
+**Validación estricta (checklist NO NEGOCIABLE):**
+
+Para secciones obligatorias:
+- [ ] CADA subsección (###, ####) tiene tags específicos
+- [ ] Tags son relevantes a ESA subsección, no genéricos
+- [ ] Tags consolidados al final incluyen TODOS los tags granulares
+- [ ] NO hay subsecciones sin tags (salvo definiciones de 1 línea que heredan del padre)
+- [ ] Separador `---` solo ante consolidación, sin separador antes de tags granulares
+
 ## 5.2) Criterios de clasificación de tags
 
 **Estandarización obligatoria de tags en casos:**
