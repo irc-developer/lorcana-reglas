@@ -255,6 +255,89 @@ Verificación:
    Alternativa correcta: [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.4. Rareza y Durabilidad|5.4. Durabilidad]]
 ```
 
+## 5.4) 🎯 Skill: Generador Rápido de Links Obsidian
+
+**PATRON UNIVERSAL PARA LINKS A REGLAS:**
+
+```
+[[ARCHIVO O CARPETA/NOMBRE EXACTO|TEXTO VISIBLE EN CASTELLANO]]
+```
+
+**SIN anchors (#). SIN rutas incompletas. SIN inglés en visible.**
+
+### Patrones reutilizables (COPIAR Y PEGAR):
+
+#### Patrón A: Link a sección dentro de carpeta de reglas
+
+```
+[[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades Estáticas]]
+```
+
+**Estructura fija:**
+- `01. Reglas/` (SIEMPRE)
+- Nombre carpeta CON paréntesis e inglés exacto
+- Nombre archivo CON paréntesis e inglés exacto  
+- `|` pipe (obligatorio)
+- Texto visible SOLO en castellano
+
+#### Patrón B: Link directo a archivo único (SIN carpeta intermedia)
+
+```
+[[6.2. Habilidades Disparadas (Triggered Abilities)|6.2 Habilidades Disparadas]]
+```
+
+**Usado cuando:** El archivo es único y Obsidian lo resuelve sin ruta completa
+
+**Condición:** Solo si `list_dir` confirma que el archivo existe en esa ruta exacta
+
+#### Patrón C: Link a archivo de Casos (dentro de 11.6)
+
+```
+[[11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección|John Smith y restricción]]
+```
+
+**Estructura:**
+- Carpeta del caso: `11.6. Interacciones Complejas/`
+- Nombre exacto del archivo .md
+- Texto visible descriptivo en castellano
+
+### Checklist previo (VALIDAR SIEMPRE):
+
+```
+Antes de insertar CUALQUIER link:
+
+☐ ¿Existe la carpeta/archivo con ese nombre exacto? (list_dir)
+☐ ¿Incluye los paréntesis e idioma inglés en la ruta?
+☐ ¿El texto visible está SOLO en castellano?
+☐ ¿NO hay anchors (#) en la ruta?
+☐ ¿El pipe (|) está presente?
+☐ ¿Probé la ruta con grep_search para confirmar contenido?
+
+Si ALGUNO falla → DETENER y CORREGIR primera
+```
+
+### Casos problemáticos y soluciones:
+
+| Problema | Link incorrecto | Solución |
+|----------|-----------------|----------|
+| Link roto por rutas | `[[01. Reglas/6/6.2\|...]]` | Usar ruta EXACTA con paréntesis |
+| Anchor con paréntesis | `[[archivo#6.2.3 (test)\|...]]` | Quitar el anchor, solo ruta |
+| Texto visible en inglés | `[[...\|6.2 Triggered Abilities]]` | Cambiar a castellano: `6.2 Habilidades Disparadas` |
+| Sin pipe | `[[archivo]]nombre` | Agregar pipe ENTRE nombre y visible: `[[archivo\|nombre]]` |
+| Carpeta incompleta | `[[01. Reglas/6. Habilidades\|...]]` | Incluir `(abilities, effects, and resolving)` |
+
+### Regla de oro para REDUCIR FALLOS:
+
+**Si DUDES → Usa Patrón B (archivo único sin carpeta intermedia) y valida primero con `list_dir`**
+
+```
+✓ RECOMENDADO para máxima confiabilidad:
+[[6.2. Habilidades Disparadas (Triggered Abilities)|6.2 Habilidades Disparadas]]
+
+❌ EVITAR si no está validado:
+[[01. Reglas/6. Habilidades, efectos y resolución.../6.2.3. Prioridad|Sección 6.2.3]]
+```
+
 ### Consecuencias de incumplimiento:
 
 - ❌ **NO permitir** crear archivo con link inválido (rechazar y corregir primero)

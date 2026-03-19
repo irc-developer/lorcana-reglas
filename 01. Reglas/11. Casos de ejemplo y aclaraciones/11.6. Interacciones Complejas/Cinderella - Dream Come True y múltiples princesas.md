@@ -43,7 +43,7 @@ En el caso específico de dos Princess diferentes con la habilidad "WHATEVER YOU
 5. Cinderella #2 verifica: "¿Jugué una princesa este turno?" → ✓ SÍ (ambas Cinderellas)
 6. Ambas se disparan, generando dos oportunidades de entintar y robar
 
-De [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2 Habilidades disparadas]]:
+De [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades Disparadas]]:
 
 > Cuando se cumple la condición de una habilidad disparada, esta se añade a la bolsa y se resuelve una vez se seleccione.
 
