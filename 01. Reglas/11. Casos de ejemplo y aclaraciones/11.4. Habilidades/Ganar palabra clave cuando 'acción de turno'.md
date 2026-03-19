@@ -11,7 +11,7 @@
 ## ✅ Respuesta
 
 **Caso 1:**
-No, no lo es.  Cuando se declara un desafío, debes seguir los pasos de [[01. Reglas/12. Resúmenes/Declarar un desafío|un desafío]].  
+No, no lo es.  Cuando se declara un desafío, debes seguir los pasos de [[01. Reglas/9. Resúmenes/Declarar un desafío|un desafío]].  
 En el momento que se declara quien es el personaje desafiante y el desafiado (paso 2) todavía no se ha agotado el personaje con lo que directamente no sería considerado un desafío válido.
 
 ---
@@ -20,7 +20,7 @@ En el momento que se declara quien es el personaje desafiante y el desafiado (pa
 
 - [[01. Reglas/4. Estructura del turno (Turn Structure)/4.3. Fase principal (Main Phase)#4.3.1 Acciones de turno|acción de turno]]
 - [[01. Reglas/10. Palabras clave (Keywords)/10.6. Evasivo (Evasive)|evasivo]]
-- [[01. Reglas/12. Resúmenes/Declarar un desafío|un desafío]]
+- [[01. Reglas/9. Resúmenes/Declarar un desafío|un desafío]]
 
 ---
 

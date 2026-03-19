@@ -147,7 +147,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
-- **Tiana**: [Efecto de Tiana...](11.4.%20Habilidades/Efecto%20de%20Tiana%20al%20enderezar%20un%20personaje.md) | [Tiana y Rapunzel...](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducción%20de%20Fuerza%20y%20prevención%20total%20de%20daño.md) | [Cálculo fuerza Tiana...](11.6.%20Interacciones%20Complejas/Cálculo%20de%20fuerza%20con%20Tiana%20y%20Desafiador.md) | [Tiana y trigger post canción x2](11.5.%20Keywords/)
+- **Tiana**: [Efecto de Tiana...](11.4.%20Habilidades/Efecto%20de%20Tiana%20al%20enderezar%20un%20personaje.md) | [Tiana y Rapunzel...](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducción%20de%20Fuerza%20y%20prevención%20total%20de%20daño.md) | [Cálculo fuerza Tiana...](11.6.%20Interacciones%20Complejas/Cálculo%20de%20fuerza%20con%20Tiana%20y%20Desafiador.md) 
 - **Rapunzel**: [Rapunzel pierden protección...](11.6.%20Interacciones%20Complejas/Por%20qué%20Rapunzel%20pierde%20su%20protección%20incluso%20si%20Resist%20reduce%20el%20daño%20a%200.md) | [Rapunzel Act of Kindness...](11.6.%20Interacciones%20Complejas/Rapunzel%20–%20Act%20of%20Kindness%20y%20mover%20daño.md)
 - **Shift**: [Heredar palabra clave al hacer shift](11.5.%20Keywords/Heredar%20una%20palabra%20clave%20al%20hacer%20shift.md) | [Lady - Miss Park Avenue shift](11.6.%20Interacciones%20Complejas/Lady%20-%20Miss%20Park%20Avenue%20shift.md) | [Jugar carta con shift reduciendo coste](11.3.%20Costes%20y%20Requisitos/Jugar%20una%20carta%20con%20shift%20reduciendo%20su%20coste%20(incluso%20gratis).md)
 
@@ -157,8 +157,3 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 - **Reemplazo**: [Aplicación múltiples efectos reemplazo (Escudos)](11.4.%20Habilidades/Aplicación%20de%20múltiples%20efectos%20de%20reemplazo%20(Escudos).md) | [Interacción reemplazo vs habilidades disparadas...](11.0.%20Timing%20y%20Resolución/Interacción%20entre%20efectos%20de%20reemplazo%20y%20habilidades%20disparadas%20con%20requisitos.md)
 
 ---
-
-## 📝 Referencia rápida
-
-- **Plantilla oficial**: [Plantilla - Caso de ejemplo y aclaración.md](Plantilla%20-%20Caso%20de%20ejemplo%20y%20aclaración.md)
-- **Normativa QA**: Ver [Premisas agente IA Lorcana.md](../../Premisas%20agente%20IA%20Lorcana.md) (Secciones 5.1 y 7)
