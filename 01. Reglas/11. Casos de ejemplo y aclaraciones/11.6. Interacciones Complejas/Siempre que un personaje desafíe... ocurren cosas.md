@@ -1,38 +1,28 @@
-﻿## ❓ Duda
+## ❓ Duda
 
-¿Si tengo a Mother Gothel en juego con lá habilidad que dispara cuando un personaje es desafiado, se resuelve el trigger ANTES del paso de daño?
+¿Si tengo a Mother Gothel en juego con la habilidad que dispara cuando un personaje es desafiado, se resuelve el trigger ANTES del paso de daño?
 
 ## ✅ Respuesta
 
-Sí, la jugada es correcta. Cuando el oponente declara desafío y selecciona los [[Personaje desafiante y desafiado (challenging and challenged character)]] la [[Habilidad disparada (triggered ability)]] de Mother entra en la bolsa y se resuelve el efecto de mover daño **antes** de entrar a la [[4.3.6.2. Paso de daño por desafío (Challenge Damage Step)]]
-### Referencias
-Experiencia personal.
-#damage #moving-damage #triggered-ability #challenging-character #challenged-character 
+Sí, la jugada es correcta. Cuando el oponente declara desafío y selecciona los personajes implicados, la habilidad disparada de Mother entra en la bolsa y se resuelve el efecto de mover daño **antes** de entrar al Paso de daño por desafío.
 
-### Duda 2
-- Tengo en mesa a [[Cartas de Lorcana#Mulan - Elite Archer|Mulan - Elite Archer]] y a [[Cartas de Lorcana#Mushu - Majestic Dragon|Mushu - Majestic Dragon]]. 
-- Desafío a un personaje con Mulan y con su habilidad disparada mato a otros dos con el daño que hace.
-¿Cuántos puntos de lore gano? ¿Cuentan los otros dos para la habilidad de Mushu?
-
-### Respuesta 2
-Ganarías dos ya que la habilidad de mushu sólo hace efecto a los implicados [[En el desafío (in challenge)]], el resto no están participando del mismo.
-### Referencias
-[discord](https://discord.com/channels/1239209810654793730/1405739132768223322/1405739132768223322)
-#triggered-ability #challenging-character #challenged-character #challenge #challenge #in-challenge
+**Caso 2:** Ganarías dos puntos de lore ya que la habilidad de Mushu solo hace efecto a los personajes implicados directamente en el desafío (Mulan y el personaje retado). El resto no están participando del mismo.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[Personaje desafiante y desafiado (challenging and challenged character)]]
-- [[Habilidad disparada (triggered ability)]]
-- [[4.3.6.2. Paso de daÃƒ±o por desafÃƒ­o (Challenge Damage Step)]]
-- [[En el desafÃƒ­o (in challenge)]]
-- [[Personaje desafiante y desafiado (challenging and challenged character)]]
-- [[Habilidad disparada (triggered ability)]]
-- [[4.3.6.2. Paso de daÃƒ±o por desafÃƒ­o (Challenge Damage Step)]]
-- [[En el desafÃƒ­o (in challenge)]]
-- ---
+**Definición: Timing de habilidades disparadas "cuando se declara un desafío"**
+
+Las habilidades disparadas que ocurren antes del Paso de daño por desafío se resuelven una vez se seleccionan los personajes en desafío, pero antes del cálculo y aplicación de daño.
+
+**Definición: Personajes "in challenge"**
+
+Los únicos personajes considerados "in challenge" son el personaje que desafía y el personaje siendo desafiado. Otros personajes no pueden beneficiarse de efectos que requieran estar "in challenge".
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2 Habilidades disparadas y timing]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.6 Desafiar (Challenging)]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
 
 ---
 
@@ -48,5 +38,5 @@ Ganarías dos ya que la habilidad de mushu sólo hace efecto a los implicados [[
 
 ## 🏷️ Tags
 
-#triggered-abilities #challenge #damage-timing #bag #resolution-order#damage #triggered-ability
+#triggered-ability #challenge #damage #timing #in-challenge #bag #resolution-order
 

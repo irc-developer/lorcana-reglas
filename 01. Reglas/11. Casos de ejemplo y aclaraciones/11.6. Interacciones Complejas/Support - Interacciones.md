@@ -1,21 +1,22 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Si Alice heredaría Support a Minnie mediante una habilidad estática, y Minnie hace quest (triggering tanto Support como su efectobanish), ¿en qué orden se resuelven los triggers en la bolsa?
 
 ## ✅ Respuesta
 
-Sí, podrías. Con la habilidad estática de Alice se crea un efecto de reemplazo que añade a Minnie la palabra clave [[01. Reglas/10. Palabras clave (Keywords)/10.13. Apoyo (Support)]]. Al hacer quest se añaden las dos habilidades disparadas (support y el `BYE BYE, NOW`) a la bolsa. Escoges el orden adecuado: resuelves el support con lo que tendría cinco de fuerza y resuelves el banish de personaje con fuerza cinco o más.
-#support #triggered-ability #banish #bag
-### Referencias
-Discord
+Sí, podrías. Con la habilidad estática de Alice se crea un efecto de reemplazo que añade a Minnie la palabra clave [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)|Support]]. Al hacer quest se añaden las dos habilidades disparadas (support y el efecto de banish) a la bolsa. Puedes escoger el orden de resolución: resuelves el support con lo que tendría cinco de fuerza y resuelves el banish de personaje con fuerza cinco o más.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[10. Palabras clave (Keywords)/10.13. Apoyo (Support)]]
-- [[10. Palabras clave (Keywords)/10.13. Apoyo (Support)]]
-- ---
+**Definición: Heredar palabras clave mediante efectos de reemplazo**
+
+Cuando una habilidad estática permite que un personaje herede una palabra clave de otro, se crea un efecto de reemplazo que añade esa palabra clave. Las habilidades disparadas asociadas a esa palabra clave se generan normalmente cuando ocurre su condición de disparo.
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)|8.13. Support]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
 
 ---
 
@@ -31,4 +32,4 @@ Discord
 
 ## 🏷️ Tags
 
-#support #inherited-keyword #bag #triggered-abilities #quest
+#support #inherited-keyword #triggered-abilities #quest #bag

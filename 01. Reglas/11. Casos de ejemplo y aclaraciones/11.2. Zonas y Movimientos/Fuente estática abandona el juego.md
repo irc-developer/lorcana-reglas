@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Una habilidad estática se sigue aplicando después de que su fuente abandona la zona de juego?
 
@@ -6,7 +6,7 @@
 
 ## ✅ Respuesta
 
-No, las [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|habilidades estáticas]] están activas **SOLO mientras su fuente esté en juego** y se cumplan sus condiciones. Al abandonar la [[01. Reglas/7. Zonas (Zones)|zona de juego]], la habilidad estática se desactiva **inmediatamente**, sin aplicarse retroactivamente a eventos previos.
+No, las [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|habilidades estáticas]] están activas **SOLO mientras su fuente esté en juego** y se cumplan sus condiciones. Al abandonar la [[7.4. Juego (Play)|zona de juego]], la habilidad estática se desactiva **inmediatamente**, sin aplicarse retroactivamente a eventos previos.
 
 ---
 

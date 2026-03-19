@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0?
 
@@ -6,7 +6,7 @@
 
 ## ✅ Respuesta
 
-La protección de Rapunzel se desactiva cuando recibe daño, independientemente de cuánto daño sea finalmente aplicado. Si aplicas Resist primero, el daño se reduce a 0, pero el efecto de protección ya se ha resuelto. La secuencia es:
+La protección de Rapunzel se desactiva cuando recibe daño, independientemente de cuánto daño sea finalmente aplicado. La estática de resist se aplica primero y si, el daño se reduce a 0, no se pierde el escudo. La secuencia es:
 
 1. Declaración del daño
 2. Aplicación de efectos de modificación (Resist primero)

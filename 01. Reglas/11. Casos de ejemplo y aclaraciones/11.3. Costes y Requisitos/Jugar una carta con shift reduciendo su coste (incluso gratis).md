@@ -12,10 +12,10 @@ Cuando juego una carta usando Shift (coste alternativo) y hay un efecto que redu
 
 ## 📘 Fundamento en reglas
 
-- [[01. Reglas/10. Palabras clave (Keywords)/10.10. Cambio (Shift)#10.10.2. Requisito|10.10.2 Requisito de Shift]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.4. Proceso|4.3.4 Proceso de jugar una carta]]
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)#1.5.5.2. Shift|1.5.5.2 Shift como coste alternativo]]
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)#1.5.5.3. Gratis (for free)|1.5.5.3 Gratis (for free)]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.14. Cambio (Shift)|8.14 Requisito de Shift]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.4 Proceso de jugar una carta]]
+- [[01. Reglas/1. Principios generales (Concepts)/1.5 Costes (Costs)|1.5.5.2 Shift como coste alternativo]]
+- [[01. Reglas/1. Principios generales (Concepts)/1.5 Costes (Costs)|1.5.5.3 Gratis (for free)]]
 
 ---
 
@@ -33,5 +33,3 @@ Cuando juego una carta usando Shift (coste alternativo) y hay un efecto que redu
 ## 🏷️ Tags
 
 #free #cost #play-card #shift #alternative-cost
-
-#cost #free #shift

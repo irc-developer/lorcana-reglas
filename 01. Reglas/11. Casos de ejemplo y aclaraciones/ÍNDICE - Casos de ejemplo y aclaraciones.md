@@ -12,7 +12,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
 1. [Cartas en mano y el cálculo de triggers.md](11.0.%20Timing%20y%20Resolución/Cartas%20en%20mano%20y%20el%20cálculo%20de%20triggers.md)
 2. [Cartas en una pila.md](11.0.%20Timing%20y%20Resolución/Cartas%20en%20una%20pila.md)
-3. [Cláusula - Resolución parcial sin objetivo válido.md](11.0.%20Timing%20y%20Resolución/Cláusula%20-%20Resolución%20parcial%20sin%20objetivo%20válido.md)
+3. [Cláusula - Resolución parcial sin objetivo válido.md](Resolución%20parcial%20sin%20objetivo%20válido.md)
 4. [Cláusula sobre personaje y luego otra sobre el mismo.md](11.0.%20Timing%20y%20Resolución/Cláusula%20sobre%20personaje%20y%20luego%20otra%20sobre%20el%20mismo.md)
 5. [Cumplir parte de una habilidad.md](11.0.%20Timing%20y%20Resolución/Cumplir%20parte%20de%20una%20habilidad.md)
 6. [Disparar habilidades mientras se resuelve una carta.md](11.0.%20Timing%20y%20Resolución/Disparar%20habilidades%20mientras%20se%20resuelve%20una%20carta.md)
@@ -52,10 +52,10 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
-1. [Coste - Agotar personaje varias veces.md](11.3.%20Costes%20y%20Requisitos/Coste%20-%20Agotar%20personaje%20varias%20veces.md)
-2. [Coste - Descartar como requisito para resolver una habilidad.md](11.3.%20Costes%20y%20Requisitos/Coste%20-%20Descartar%20como%20requisito%20para%20resolver%20una%20habilidad.md)
-3. [Coste - Hacerse daño como requisito.md](11.3.%20Costes%20y%20Requisitos/Coste%20-%20Hacerse%20daño%20como%20requisito.md)
-4. [Coste - Pagar un coste y resistir..md](11.3.%20Costes%20y%20Requisitos/Coste%20-%20Pagar%20un%20coste%20y%20resistir..md)
+1. [Coste - Agotar personaje varias veces.md](Agotar%20personaje%20varias%20veces.md)
+2. [Coste - Descartar como requisito para resolver una habilidad.md](Descartar%20como%20requisito%20para%20resolver%20una%20habilidad.md)
+3. [Coste - Hacerse daño como requisito.md](Hacerse%20daño%20como%20requisito.md)
+4. [Coste - Pagar un coste y resistir..md](Pagar%20un%20coste%20y%20resistir.md)
 5. [Incrementar el coste de una carta gratis.md](11.3.%20Costes%20y%20Requisitos/Incrementar%20el%20coste%20de%20una%20carta%20gratis.md)
 6. [Jugar carta sin objetivo válido.md](11.3.%20Costes%20y%20Requisitos/Jugar%20carta%20sin%20objetivo%20válido.md)
 7. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](11.3.%20Costes%20y%20Requisitos/Jugar%20una%20carta%20con%20shift%20reduciendo%20su%20coste%20(incluso%20gratis).md)
@@ -76,7 +76,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 7. [Habilidades estáticas globales y zonas.md](11.4.%20Habilidades/Habilidades%20estáticas%20globales%20y%20zonas.md)
 8. [Habilidades estáticas presentes en juego y sus interacciones.md](11.4.%20Habilidades/Habilidades%20estáticas%20presentes%20en%20juego%20y%20sus%20interacciones.md)
 9. [Habilidades que contienen 'they'.md](11.4.%20Habilidades/Habilidades%20que%20contienen%20'they'.md)
-10. [Habilidades y sus efectos - Sin título.md](11.4.%20Habilidades/Habilidades%20y%20sus%20efectos%20-%20Sin%20título.md)
+10. [Habilidades y sus efectos - Sin título.md](Habilidades%20y%20sus%20efectos.md)
 11. [No poder ganar lore por efecto estático.md](11.4.%20Habilidades/No%20poder%20ganar%20lore%20por%20efecto%20estático.md)
 12. [Pocahontas – Following the Wind y el lore al questear.md](11.4.%20Habilidades/Pocahontas%20–%20Following%20the%20Wind%20y%20el%20lore%20al%20questear.md)
 13. [Tener una habilidad por otro personaje.md](11.4.%20Habilidades/Tener%20una%20habilidad%20por%20otro%20personaje.md)

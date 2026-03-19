@@ -18,7 +18,13 @@ El efecto de reemplazo sobre la fuerza del personaje **dura todo el turno**, ind
 
 ## 📘 Fundamento en reglas
 
-- [[01. Reglas/Glosario#Desafiar (challenge)|desafío]]
+**Definición: Efecto de reemplazo de duración**
+
+El efecto de daño reducido (−3 de fuerza) de [[Cartas de Lorcana#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] es un efecto de reemplazo que dura todo el turno. No se remueve si el personaje afectado se endereza.
+
+**Fundamento:**
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5 Efectos de Reemplazo]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Duración del disparador]]
 
 ---
 

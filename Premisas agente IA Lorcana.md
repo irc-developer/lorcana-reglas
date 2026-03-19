@@ -180,6 +180,103 @@ Cuando resuelvas dudas de timing con movimientos de zona, **verifica siempre**:
 
 **Esto previene errores recurrentes de links rotos.**
 
+## 5.0.5) VALIDACIÓN OBLIGATORIA: Verificación de links ANTES de creación/edición
+
+**REGLA CRÍTICA VINCULANTE - SIN EXCEPCIONES:**
+
+**Ningún link a reglas o cartas puede ser creado, editado o modificado sin validación previa.** Esto previene:
+- Links rotos por rutas inexistentes
+- Enlaces a secciones que no existen (ej: `6.9` cuando solo existen `6.1-6.7`)
+- Números de sección incorrectos (viejo: 7, 10 → nuevo: 6, 8)
+- Rutas de carpeta incompletas
+
+### Protocolo obligatorio de validación (3 pasos):
+
+**ANTES de crear/editar cualquier link, ejecutar esta secuencia:**
+
+#### Paso 1: Verificar existencia de la carpeta
+Usar `list_dir` para confirmar el nombre EXACTO de la carpeta, incluyendo paréntesis e idioma inglés.
+
+```
+Ejemplo CORRECTO que hay que verificar:
+Ruta: 01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)
+Buscar con: list_dir("01. Reglas/6. Habilidades...")  
+Resultado esperado: Carpeta existe con ese nombre exacto
+```
+
+```
+Ejemplo INCORRECTO que falla:
+Intento: [[01. Reglas/7. Habilidades (abilities)...]]
+Error: Carpeta no existe (la carpeta correcta es 6, no 7)
+```
+
+#### Paso 2: Verificar número de sección válido
+Confirmar que el número de sección existe dentro de esa carpeta.
+
+**Secciones válidas por carpeta:**
+
+| Carpeta | Secciones válidas | Ejemplos |
+|---------|------------------|----------|
+| 1. Principios (Concepts) | 1.1 a 1.12 | ✓ 1.5. Costes | ❌ 1.25 |
+| 2. Juego (Gameplay) | 2.1 a 2.4 | ✓ 2.3. Mazo Vacío | ❌ 2.8 |
+| 3. Turno (Turn structure) | 3.1 a 3.4 | ✓ 3.2. Acción | ❌ 3.9 |
+| 4. Acciones (Turn Actions) | 4.1 a 4.7 | ✓ 4.3. Jugar Carta | ❌ 4.10 |
+| 5. Cartas (Cards) | 5.1 a 5.6 | ✓ 5.4. Tipos Carta | ❌ 5.8 |
+| 6. Habilidades (Abilities) | 6.1 a 6.7 | ✓ 6.4. Estáticas | ❌ 6.9 ⚠️ COMÚN |
+| 7. Zonas (Zones) | 7.1 a 7.7 | ✓ 7.5. Mano | ❌ 7.10 |
+| 8. Keywords | 8.1 a 8.15 | ✓ 8.14. Vanish | ❌ 8.25 |
+
+#### Paso 3: Verificar ruta completa con `grep_search` o lectura de archivo
+Confirmar que la subsección/ancla que se intenta referenciar existe en el archivo.
+
+```
+Ejemplo de validación completa:
+
+Link a crear: [[01. Reglas/6. Habilidades.../6.4. Habilidades Estáticas|6.4]]
+
+Verificación:
+1. ✓ Carpeta existe: 01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)
+2. ✓ Sección válida: 6.4 está en rango 6.1-6.7
+3. ✓ Archivo existe y contiene "6.4. Habilidades Estáticas"
+→ Link VÁLIDO, permitido crear
+```
+
+```
+Ejemplo de link RECHAZADO:
+
+Link a crear: [[01. Reglas/6. Habilidades.../6.9. Durabilidad|6.9]]
+
+Verificación:
+1. ✓ Carpeta existe
+2. ❌ Sección NO válida: 6.9 está FUERA del rango 6.1-6.7
+3. ✗ No hay 6.9 en el archivo
+→ Link INVÁLIDO, RECHAZAR Y CORREGIR
+   Alternativa correcta: [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.4. Rareza y Durabilidad|5.4. Durabilidad]]
+```
+
+### Consecuencias de incumplimiento:
+
+- ❌ **NO permitir** crear archivo con link inválido (rechazar y corregir primero)
+- ❌ **NO permitir** guardar documento con ruta de carpeta incompleta
+- ❌ **NO permitir** links a secciones que no existen (ej: 6.9)
+- ✅ **SÍ permitir** solo links que pasen los 3 pasos de validación
+
+### Automatización: Búsquedas paralelas de validación
+
+Para máxima eficiencia, cuando hay múltiples links para validar:
+
+```
+CORRECTO: Una sola llamada grep_search con regex alternación
+grep_search("6.4. Habilidades Estáticas|6.5. Efectos de Reemplazo|6.7. Resolución", 
+  regex=true, 
+  includePattern="6.4...|6.5...|6.7...")
+
+INCORRECTO (3+ llamadas):
+1. grep_search("6.4")
+2. grep_search("6.5")  
+3. grep_search("6.7")
+```
+
 ## 5.1) Verificación y corrección de codificación de archivos
 
 **Regla obligatoria para toda edición de archivos:**
@@ -212,15 +309,20 @@ En casos documentados, verificar y corregir SEMPRE:
 **ANTES de documentar/guardar, verificar:**
 
 - [ ] **UTF-8**: No hay mojibake (Ã´, Ã©, Ã¡, etc.)
+- [ ] **Links validados**: Todos los links cumplen protocolo 5.0.5 (ruta correcta, sección existe, número válido)
+  - [ ] Rutas de carpeta completas con paréntesis e inglés
+  - [ ] Números de sección dentro de rango válido (1-8 para carpetas, 6.1-6.7 para sección 6, etc.)
+  - [ ] NO hay links a secciones inexistentes (como 6.9, 7 en lugar de 6)
+  - [ ] Sobrenombres en español, no en inglés
 - [ ] **Estructura**: ❓ Duda, ✅ Respuesta, 📘 Fundamento, 🔄 Secuencia, 🏷️ Tags (5 secciones)
-- [ ] **Links**: Siguen formato de 5.3 (ruta + carpeta + paréntesis + sobrenombre en español)
 - [ ] **Duplicados**: No hay líneas/párrafos repetidos (menos 3+ líneas copiadas)
 - [ ] **Separadores**: Solo `---` sin bullets, sin `- ---`
 - [ ] **Tags**: Relevantes (no #case, no #example), kebab-case, inglés, 0-7 tags
 - [ ] **Duda**: Es una pregunta (¿...?), no la respuesta directa
 - [ ] **Respuesta**: Sí/No + explicación breve (no es una pregunta)
-- [ ] **Fundamento**: Links renderizan (testear Ctrl+click en Obsidian)
+- [ ] **Fundamento**: Links renderizan (testear Ctrl+click en Obsidian); verificar que todas las rutas existen
 - [ ] **Secuencia**: 6 pasos del orden obligatorio (evento, costes, elecciones, resolución, disparos, GSC)
+- [ ] **Definiciones**: Están en la sección 📘 Fundamento, NO dispersas en la sección ✅ Respuesta
 
 **Ejemplo correctivo:**
 
@@ -402,6 +504,95 @@ No. Shift requiere que sacrifiques un personaje...
 - [ ] Los tags de un caso tienen al menos 1 tag que aparece en una regla relacionada
 - [ ] No hay tags en casos que sean "huérfanos" (sin correlato en reglas existentes)
 - [ ] Si un nuevo tag aparece en muchos casos, verificar si debería documentarse como regla nueva
+
+### 5.1.5.1) OBLIGACIÓN ESTRICTA: Ubicación y formato de definiciones en casos
+
+**REGLA CRÍTICA - SIN EXCEPCIONES:**
+
+Las **definiciones de términos, conceptos o mecanismos mencionadas en un caso DEBEN estar en la sección 📘 Fundamento en reglas**, NO dispersas en otras secciones (Respuesta, Secuencia, etc.).
+
+#### ¿Qué es una definición?
+
+Una definición es cualquier texto que:
+- Explica qué significa un término (`shift`, `mazo vacío`, `descarte`)
+- Describe cómo funciona una mecánica (cómo se resuelve, cuándo ocurre)
+- Cita la regla oficial de dónde viene
+
+**Ejemplos de definiciones:**
+
+```markdown
+✓ "Shift es un coste alternativo que permite jugar un personaje por 2 menos tinta..."
+✓ "Derrota por mazo vacío ocurre cuando finalizas tu turno con el mazo vacío..."
+✓ "Un efecto de reemplazo intercepta el evento ANTES de que ocurra..."
+
+❌ "Los costes especiales incluyen shift y sing together..." (INTERPRETACIÓN, no definición)
+❌ "Por lo tanto, puedo jugar la carta..." (CONCLUSIÓN, no definición)
+```
+
+#### Estructura correcta: Definiciones en Fundamento
+
+```markdown
+## ✅ Respuesta
+
+No, no puedes usar shift si no hay personajes en tu zona de juego.
+
+---
+
+## 📘 Fundamento en reglas
+
+**Definición: Shift**
+[[01. Reglas/1. Principios generales (Concepts)/1.5. Costes (Costs)|1.5.5.2. Shift]] define que shift es un coste alternativo que requiere sacrificar un personaje de tu zona de juego.
+
+**Razón del ruling:**
+Si no tienes personajes en la zona de juego, no puedes sacrificar ninguno → no puedes usar shift.
+
+---
+
+## 🔄 Secuencia oficial
+
+[Resto de la secuencia sin repetir definiciones...]
+
+---
+
+## 🏷️ Tags
+
+#shift #sacrifice
+```
+
+#### Estructura INCORRECTA: Definiciones en Respuesta (PROHIBIDO)
+
+```markdown
+❌ PROHIBIDO - Define en Respuesta:
+
+## ✅ Respuesta
+
+No, no puedes usar shift. Shift (que es un coste alternativo que requiere sacrificar...) no se puede usar sin personajes.
+
+---
+
+❌ PROHIBIDO - Define en Secuencia:
+
+## 🔄 Secuencia oficial
+
+Definición: Shift es un coste alternativo...
+1. Evento: intentas jugar...
+```
+
+#### Validación de ubicación:
+
+Antes de guardar un caso, preguntar:
+
+- ¿Hay definiciones (términos, mecánicas) en la sección ✅ Respuesta?
+  - SÍ → Mover a 📘 Fundamento
+  - NO → Continuar
+  
+- ¿Hay definiciones en 🔄 Secuencia?
+  - SÍ → Mover a 📘 Fundamento
+  - NO → Continuar
+
+- ¿Todas las definiciones están en 📘 Fundamento con links correctos?
+  - SÍ → Guardar
+  - NO → Corregir antes de guardar
 
 ### 5.1.6) OBLIGACIÓN ESTRICTA: Tags granulares por subsección (solo en secciones clave)
 

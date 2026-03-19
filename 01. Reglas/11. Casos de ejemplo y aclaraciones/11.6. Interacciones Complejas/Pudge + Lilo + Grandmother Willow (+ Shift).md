@@ -6,15 +6,15 @@
 
 ## ✅ Respuesta
 
-Al jugar un personaje con Shift, primero se resuelve el efecto de Shift (reducción de coste o juego condicio nal), luego se activan todas las habilidades activadas o estáticas del personaje que entra en juego. El [[01. Reglas/4. Acciones de turno/4.1.2. Orden de resolución|orden de resolución]] sigue el texto del personaje.
+Al jugar un personaje con Shift, primero se resuelve el efecto de Shift (reducción de coste o juego condicional), luego se activan todas las habilidades disparadas que se generan al entrar en juego. El orden de resolución sigue el texto del personaje.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
-- ---
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2 Resolución]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.14. Cambio (Shift)|8.14 Shift]]
 
 ---
 

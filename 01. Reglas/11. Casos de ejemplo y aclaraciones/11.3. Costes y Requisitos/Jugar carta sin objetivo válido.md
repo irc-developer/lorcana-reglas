@@ -4,20 +4,14 @@
 
 ## ✅ Respuesta
 
-Sí, puedes. Actualmente el único requisito que hay para [[4.3.4 Jugar una carta (Play a Card)]] es pagar su coste, independientemente de su texto. En este caso, usando la [[1.2 Regla dorada o Golden Rule (Prioridad de reglas)]], cumple todo lo que puedas.
-
-### Referencias
-WhatsApp Lorcana SP
+In this case, using the [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.4 Jugar una carta]], cumple todo lo que puedas.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[4.3.4 Jugar una carta (Play a Card)]]
-- [[1.2 Regla dorada o Golden Rule (Prioridad de reglas)]]
-- [[4.3.4 Jugar una carta (Play a Card)]]
-- [[1.2 Regla dorada o Golden Rule (Prioridad de reglas)]]
-- ---
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.4 Jugar una carta]]
+- [[01. Reglas/1. Principios generales (Concepts)/1.2. Regla dorada o Golden Rule (Prioridad de reglas)|1.2 Regla dorada o Golden Rule]]
 
 ---
 

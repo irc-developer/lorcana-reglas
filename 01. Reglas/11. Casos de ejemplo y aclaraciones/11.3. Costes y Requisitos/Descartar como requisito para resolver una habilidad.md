@@ -21,7 +21,7 @@ La prevención de descartes por efecto no convierte en opcional el pago de un re
 - [[01. Reglas/Glosario#Coste (cost)|Definición de coste]]
 - [[01. Reglas/Glosario#Efecto (effect)|Definición de efecto]]
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)#4.4.3.4. Pagar el coste|4.4.3.4 Pagar el coste completo]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|6.1.5 Secuencias [A]→[B]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|6.1.5 Secuencias [A]→[B]]]
 
 ---
 

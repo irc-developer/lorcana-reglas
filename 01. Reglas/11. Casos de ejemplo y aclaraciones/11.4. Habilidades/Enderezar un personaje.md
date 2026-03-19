@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-- Tengo en juego una [[Cartas de Lorcana#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] enderezada, seca y con [[01. Reglas/10. Palabras clave (Keywords)/10.7. Temerario (Reckless)|Temerario (Reckless)]] debido a un efecto del oponente.  
+- Tengo en juego una [[Cartas de Lorcana#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] enderezada, seca y con [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)|Temerario (Reckless)]] debido a un efecto del oponente.  
 - Juego a [[Cartas de Lorcana#Sven - Reindeer Steed|Sven - Reindeer Steed]].
 
 ¿Puedo enderezar mi Tiana (estando ya enderezada) para que la restricción de Sven impida que desafíe?
@@ -17,7 +17,13 @@ En términos prácticos: puedes jugar a Sven y resolver sus cláusulas en el ord
 
 ## 📘 Fundamento en reglas
 
-- [[7.1.3 Puede (May)]]
+**Definición: Las cláusulas "may" en secuencias de efectos**
+
+Cuando una habilidad contiene múltiples cláusulas separadas por punto y coma (;), la palabra clave "may" (puede) es una opción dentro de esa cláusula específica. Si una cláusula con "may" no puede completarse (por ejemplo, el personaje ya está enderezado), esa cláusula se descarta pero el resto de cláusulas se resuelven normalmente.
+
+**Fundamento:**
+- [[01. Reglas/1. Principios generales (Concepts)/1.3. Conceptos fundamentales|1.3 Puede (May)]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.4 Cláusulas secuenciales]]
 
 ---
 

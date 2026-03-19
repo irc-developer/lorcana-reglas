@@ -13,9 +13,9 @@ Puedes elegirlo para pagar ese coste. Resist reduce el daño que fuera a infligi
 
 ## 📘 Fundamento en reglas
 
-- [[8.8. Resistir (Resist)#8.8.1. Definición|8.8.1. Definición de Resist]]
-- [[8.8. Resistir (Resist)#8.8.3. Daño reducido a 0|8.8.3. Daño reducido a 0]]
-- [[6.1. General (General)#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|6.1.5. Efectos secuenciales]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|8.8.1. Definición de Resist]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|8.8.3. Daño reducido a 0]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.5. Efectos secuenciales]]
 
 ---
 
