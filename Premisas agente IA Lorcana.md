@@ -286,6 +286,82 @@ Antes de crear el caso, verificar (lista de checklist 5.1.2):
 
 ---
 
+## 3.6) VERIFICACIÓN OBLIGATORIA: Lectura de texto exacto de cartas ANTES de crear casos
+
+**REGLA CRÍTICA VINCULANTE - SIN EXCEPCIONES:**
+
+**Ningún caso sobre una carta específica puede ser creado sin verificar y citar el texto exacto de esa carta.**
+
+Esto previene errores como:
+- Usar texto incorrecto de una carta
+- Confundir versiones diferentes de la misma carta
+- Asumir palabras clave sin verificar (ej: "would take" vs "would be dealt")
+- Malinterpretar el alcance de un efecto
+
+### Protocolo obligatorio (ANTES de responder):
+
+#### Paso 1: Localizar la carta en fuente oficial
+1. Abre `02. Listado de Cartas/Cartas de Lorcana.md`
+2. Busca el nombre exacto de la carta usando `grep_search` o `find`
+3. **Nota el número de línea** donde aparece
+
+#### Paso 2: Leer el texto COMPLETO
+1. Lee la carta completa (nombre, coste, tipo, habilidades, todo)
+2. **Copia el texto exacto** de cada habilidad
+3. **Identifica palabras clave críticas**:
+   - "would take" vs "would be dealt" (diferencia de contexto)
+   - "instead" (indica reemplazo)
+   - "prevent" (diferente de "instead")
+   - "whenever/when" (triggered ability)
+   - Nombres de habilidades exactos
+
+#### Paso 3: Incluir texto exacto en el caso
+1. En la sección de Duda y Respuesta, **menciona el texto de la carta entre comillas**
+2. En la sección 📘 Fundamento en reglas, **cita las palabras clave exactas**
+3. **No parafrasees**: usa el texto oficial
+
+#### Paso 4: Justificar basándose EN ESE TEXTO
+La respuesta debe derivar directamente del texto exacto, no de interpretaciones generales.
+
+### Ejemplos de VERIFICACIÓN CORRECTA:
+
+**Ejemplo 1 (CORRECTO):**
+```
+Carta: Rapunzel - Ready for Adventure
+Texto verificado: "ACT OF KINDNESS Whenever one of your characters is chosen for Support, 
+until the start of your next turn, the next time they would be dealt damage they take no damage instead."
+Palabra clave crítica: "would be dealt damage" (específico a challenges)
+Justificación en caso: "Rapunzel protege solo contra daño en challenges porque dice 'would be dealt damage', 
+no 'would take damage'"
+```
+
+**Ejemplo 2 (INCORRECTO - Lo que evitar):**
+```
+Carta: Rapunzel - Ready for Adventure
+Asunción: "Protege contra todo daño"
+Problema: No verificó el texto exacto; confundió "would take damage" con "would be dealt damage"
+Resultado: Respuesta errónea
+```
+
+### Marcado de cartas no verificables:
+
+**Si la carta NO existe en fuente oficial actual:**
+- Busca en `02. Habilidades de las cartas_OLD/`
+- Marca el caso como **[PROVISIONAL - Texto de Set Anterior]**
+- Indica el set de origen
+- Solicita verificación posterior contra reglas de transición
+
+### Checklist de verificación (ANTES de terminar el caso):
+
+- [ ] ¿Localicé la carta en `02. Listado de Cartas/Cartas de Lorcana.md`?
+- [ ] ¿Leí el texto COMPLETO (todas las habilidades)?
+- [ ] ¿Copié las palabras clave exactas (no parafrasee)?
+- [ ] ¿Mencioné el texto exacto en el caso?
+- [ ] ¿Basé mi respuesta directamente EN ESE TEXTO?
+- [ ] ¿Evité asumir comportamientos no presentes en el texto?
+
+---
+
 1. Evento de inicio
 2. Costes y requisitos (si aplica)
 3. Elecciones y objetivos
