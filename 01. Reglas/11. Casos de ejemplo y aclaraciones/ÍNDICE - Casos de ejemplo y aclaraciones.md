@@ -1,12 +1,12 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 90 | **Última actualización:** 19 de marzo de 2026
+**Total de casos:** 96 | **Última actualización:** 21 de marzo de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
-### 11.0. Timing y Resolución (17 casos)
+### 11.0. Timing y Resolución (18 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -27,10 +27,11 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 15. [Prioridad entre jugador activo y no activo.md](11.0.%20Timing%20y%20Resolución/Prioridad%20entre%20jugador%20activo%20y%20no%20activo.md)
 16. [Qué pasa cuando se juegan dos cartas a la vez.md](11.0.%20Timing%20y%20Resolución/Qué%20pasa%20cuando%20se%20juegan%20dos%20cartas%20a%20la%20vez.md)
 17. [Restricciones a enderezar impuestas por habilidades disparadas.md](11.0.%20Timing%20y%20Resolución/Restricciones%20a%20enderezar%20impuestas%20por%20habilidades%20disparadas.md)
+18. [Derrota, timing mazo vacío.md](11.0.%20Timing%20y%20Resolución/Derrota,%20timing%20mazo%20vacío.md)
 
 ---
 
-### 11.2. Zonas y Movimientos (11 casos)
+### 11.2. Zonas y Movimientos (12 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -45,10 +46,11 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 9. [The Queen - Conceited Ruler y descarte sin retorno.md](11.2.%20Zonas%20y%20Movimientos/The%20Queen%20-%20Conceited%20Ruler%20y%20descarte%20sin%20retorno.md)
 10. [Tod + You Came Back y habilidades en el Bolsa.md](11.2.%20Zonas%20y%20Movimientos/Tod%20+%20You%20Came%20Back%20y%20habilidades%20en%20el%20Bolsa.md)
 11. [Vanish e interacciones.md](11.2.%20Zonas%20y%20Movimientos/Vanish%20e%20interacciones.md)
+12. [Ward, funcionamiento en descarte.md](11.2.%20Zonas%20y%20Movimientos/Ward,%20funcionamiento%20en%20descarte.md)
 
 ---
 
-### 11.3. Costes y Requisitos (8 casos)
+### 11.3. Costes y Requisitos (9 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -60,10 +62,11 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 6. [Jugar carta sin objetivo válido.md](11.3.%20Costes%20y%20Requisitos/Jugar%20carta%20sin%20objetivo%20válido.md)
 7. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](11.3.%20Costes%20y%20Requisitos/Jugar%20una%20carta%20con%20shift%20reduciendo%20su%20coste%20(incluso%20gratis).md)
 8. [Pagar costes en la fase de final de turno.md](11.3.%20Costes%20y%20Requisitos/Pagar%20costes%20en%20la%20fase%20de%20final%20de%20turno.md)
+9. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](11.3.%20Costes%20y%20Requisitos/Reducciones%20de%20coste%20apiladas%20-%20Akood%20et%20Emuti%20y%20Grandmother%20Willow.md)
 
 ---
 
-### 11.4. Habilidades (14 casos)
+### 11.4. Habilidades (16 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -81,6 +84,8 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 12. [Pocahontas – Following the Wind y el lore al questear.md](11.4.%20Habilidades/Pocahontas%20–%20Following%20the%20Wind%20y%20el%20lore%20al%20questear.md)
 13. [Tener una habilidad por otro personaje.md](11.4.%20Habilidades/Tener%20una%20habilidad%20por%20otro%20personaje.md)
 14. [Uso de pronombres neutros en textos de cartas (they, their, them).md](11.4.%20Habilidades/Uso%20de%20pronombres%20neutros%20en%20textos%20de%20cartas%20(they,%20their,%20them).md)
+15. [Next Stop Olympus, dos copias y lores.md](11.4.%20Habilidades/Next%20Stop%20Olympus,%20dos%20copias%20y%20lores.md)
+16. [Ariel Ethereal Voice, boost y Beyond the Horizon.md](11.4.%20Habilidades/Ariel%20Ethereal%20Voice,%20boost%20y%20Beyond%20the%20Horizon.md)
 
 ---
 
@@ -140,15 +145,15 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 
 ## 📊 Estadísticas
 
-| Categoría | Casos | % Total |
-|-----------|-------|---------|
-| **11.0 Timing y Resolución** | 17 | 18.9% |
-| **11.2 Zonas y Movimientos** | 11 | 12.2% |
-| **11.3 Costes y Requisitos** | 8 | 8.9% |
-| **11.4 Habilidades** | 14 | 15.6% |
-| **11.5 Keywords** | 12 | 13.3% |
-| **11.6 Interacciones Complejas** | 28 | 31.1% |
-| **TOTAL** | **90** | **100%** |
+| Categoría                        | Casos  | % Total  |
+| -------------------------------- | ------ | -------- |
+| **11.0 Timing y Resolución**     | 18     | 18.8%    |
+| **11.2 Zonas y Movimientos**     | 12     | 12.5%    |
+| **11.3 Costes y Requisitos**     | 9      | 9.4%     |
+| **11.4 Habilidades**             | 16     | 16.7%    |
+| **11.5 Keywords**                | 12     | 12.5%    |
+| **11.6 Interacciones Complejas** | 29     | 30.2%    |
+| **TOTAL**                        | **96** | **100%** |
 
 ---
 
