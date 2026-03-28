@@ -1,4 +1,4 @@
-
+﻿
 
 # Set 1: The First Chapter (TFC)
 
@@ -25159,7 +25159,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #12) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_7820a5ea1cc44b97b4b5aeb89fc1882a.avif?1770259252)
 
 **Habilidades:**
-- FEARSOME SNARL {E} — Chosen opposing character gets -4 {S} until the start of your next turn.
+- FEARSOME SNARL ![[imagenes/exert.svg|20]] — Chosen opposing character gets -4 {S} until the start of your next turn.
 
 ---
 
@@ -25260,7 +25260,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #21) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_47d6da02d19a4b82a6d7aaf593ca151e.avif?1770259292)
 
 **Habilidades:**
-- LUNCH SPECIAL {E} — Remove up to 2 damage from chosen character of yours. For each 1 damage removed this way, you pay 1 {I} less for the next character you play this turn.
+- LUNCH SPECIAL ![[imagenes/exert.svg|20]] — Remove up to 2 damage from chosen character of yours. For each 1 damage removed this way, you pay 1 {I} less for the next character you play this turn.
 
 ---
 
@@ -25349,7 +25349,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #29) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_ff15d454e2f84f89a64bf17216e0b5f4.avif?1770259330)
 
 **Habilidades:**
-- (A character with cost 3 or more can {E} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - You pay 2 {I} less for the next character you play this turn. Draw a card.
 
 ---
@@ -25360,7 +25360,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #30) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_026951e834c74886a9c05341b713b3fa.avif?1770259334)
 
 **Habilidades:**
-- (A character with cost 2 or more can {E} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Chosen character can’t be challenged until the start of your next turn.
 
 ---
@@ -25698,7 +25698,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #61) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_adb608b3667f4c769a3bab709840dad1.avif?1770259473)
 
 **Habilidades:**
-- (A character with cost 3 or more can {E} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Chosen opponent chooses YES! or NO!:
   - YES! You gain 3 lore.
   - NO! They choose a character of theirs and put that card on the bottom of their deck.
@@ -25731,7 +25731,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #64) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_0e8280a06c6a482caa3cb51b207fe284.avif?1770259487)
 
 **Habilidades:**
-- (A character with cost 4 or more can {E} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Each player reveals the top card of their deck. Draw a card for each different ink type of cards revealed this way.
 
 ---
@@ -25752,7 +25752,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #66) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_3d8ed3e3edf846c7b5dc9cc034436b8e.avif?1770259496)
 
 **Habilidades:**
-- SPECIAL SUMMONS {E}, 3 {I} — Play a character with cost 5 or less for free. They gain Rush. At the end of your turn, banish them. (They can challenge the turn they're played.)
+- SPECIAL SUMMONS ![[imagenes/exert.svg|20]], 3 {I} — Play a character with cost 5 or less for free. They gain Rush. At the end of your turn, banish them. (They can challenge the turn they're played.)
 
 ---
 
@@ -25795,7 +25795,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #70) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_38185e538f0e444bbffd676c96efd9c9.avif?1770259514)
 
 **Habilidades:**
-- I DARE YOU! {E} — Chosen opposing character gains Reckless until the start of your next turn. (They can't quest and must challenge if able.)
+- I DARE YOU! ![[imagenes/exert.svg|20]] — Chosen opposing character gains Reckless until the start of your next turn. (They can't quest and must challenge if able.)
 
 ---
 
@@ -26060,7 +26060,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #94) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_5423fd35369b41ebbfff99eeb1928fc4.avif?1770259622)
 
 **Habilidades:**
-- (A character with cost 2 or more can {E} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Draw 2 cards, then choose and discard a card.
 
 ---
@@ -26091,7 +26091,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #97) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_69c74f5a7fcb431290622e2321e786fe.avif?1770259636)
 
 **Habilidades:**
-- (A character with cost 4 or more can {E} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Choose one:
   - Draw a card. Chosen character of yours gets +1 {L} and gains Evasive until the start of your next turn.
   - Banish chosen damaged character.
@@ -26115,7 +26115,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #99) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_b33671b3938940708ac2a4f7d00d942b.avif?1770259645)
 
 **Habilidades:**
-- READ THE OMENS {E}, 1 {I} — Draw a card, then choose and discard a card.
+- READ THE OMENS ![[imagenes/exert.svg|20]], 1 {I} — Draw a card, then choose and discard a card.
 - BONK! 1 {I}, Banish this item — Deal 1 damage to chosen character.
 
 ---
@@ -26126,7 +26126,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #100) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649)
 
 **Habilidades:**
-- TURN INTO DINOSAUR {E}, 1 {I}, Banish chosen character of yours — Play a character with cost up to 2 more than the banished character for free.
+- TURN INTO DINOSAUR ![[imagenes/exert.svg|20]], 1 {I}, Banish chosen character of yours — Play a character with cost up to 2 more than the banished character for free.
 
 ---
 
@@ -26136,8 +26136,8 @@ reduced by 1.)
 **Set:** Winterspell (11 #101) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_c49a2f008f0048d4951384b30880eba6.avif?1770259654)
 
 **Habilidades:**
-- FULL FORCE {E} — Deal 1 damage to chosen damaged character.
-- BREAK THROUGH {E}, Banish this item — Banish chosen location.
+- FULL FORCE ![[imagenes/exert.svg|20]] — Deal 1 damage to chosen damaged character.
+- BREAK THROUGH ![[imagenes/exert.svg|20]], Banish this item — Banish chosen location.
 
 ---
 
@@ -26358,7 +26358,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #121) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_9ec4271d84b44a8f8ac40e0d1ea0bf0a.avif?1770259743)
 
 **Habilidades:**
-- YAAAAAAA-HOO-HOO-HOO-HOOEY {E}, Banish this character — Banish chosen character.
+- YAAAAAAA-HOO-HOO-HOO-HOOEY ![[imagenes/exert.svg|20]], Banish this character — Banish chosen character.
 
 ---
 
@@ -26438,7 +26438,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #128) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_dbff3559ccd647889b1fb934994a2d02.avif?1770259776)
 
 **Habilidades:**
-- (A character with cost 2 or more can {E} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Chosen character gets +5 {S} this turn.
 
 ---
@@ -26449,7 +26449,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #129) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_ec2f9a5da94841b68ac5f69bfed3c1bd.avif?1770259780)
 
 **Habilidades:**
-- (A character with cost 4 or more can {E} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - If a character was banished this turn, draw 2 cards.
 
 ---
@@ -26460,7 +26460,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #130) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_a3e135574f3142caabee6f51a9171a40.avif?1770259785)
 
 **Habilidades:**
-- (A character with cost 3 or more can {E} to sing this song for free.)
+- (A character with cost 3 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Look at the top 4 cards of your deck. You may reveal a location card and put it into your hand. Put the rest into your discard. You pay 3 {I} less for the next location you play this turn.
 
 ---
@@ -26471,7 +26471,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #131) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_4bf208bd16b043ac8eb27209b522c3c6.avif?1770259790)
 
 **Habilidades:**
-- (A character with cost 5 or more can {E} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Banish up to 2 chosen characters with 2 {S} or less.
 
 ---
@@ -26482,7 +26482,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #132) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_0fb558452ff949e1ad997108b6f0ad06.avif?1770259794)
 
 **Habilidades:**
-- HAUNTING PRESENCE {E}, Banish chosen character of yours — Put the top card of your deck facedown under one of your characters or locations with Boost.
+- HAUNTING PRESENCE ![[imagenes/exert.svg|20]], Banish chosen character of yours — Put the top card of your deck facedown under one of your characters or locations with Boost.
 
 ---
 
@@ -26492,7 +26492,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #133) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_ec94f5c4a31b40c99f5b421ac7dd3acf.avif?1770259798)
 
 **Habilidades:**
-- MOMENT OF INSPIRATION {E}, 2 {I} — Reveal the top card of your deck. You may play it as if it were in your hand. Otherwise, put it in your discard.
+- MOMENT OF INSPIRATION ![[imagenes/exert.svg|20]], 2 {I} — Reveal the top card of your deck. You may play it as if it were in your hand. Otherwise, put it in your discard.
 
 ---
 
@@ -26538,7 +26538,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #137) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_e2a1ea3f5b0d48db8e7197056581c11d.avif?1770259817)
 
 **Habilidades:**
-- HOPPING IN {E} — Put this character facedown under one of your characters or locations with Boost.
+- HOPPING IN ![[imagenes/exert.svg|20]] — Put this character facedown under one of your characters or locations with Boost.
 
 ---
 
@@ -26823,7 +26823,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #163) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_7e294ae586f24eddae3b7d1263c73ee7.avif?1770259936)
 
 **Habilidades:**
-- (A character with cost 5 or more can {E} to sing this song for free.)
+- (A character with cost 5 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Put chosen character into their player’s inkwell facedown and exerted.
 
 ---
@@ -26855,7 +26855,7 @@ reduced by 1.)
 
 **Habilidades:**
 - THEATRICAL ENTRANCE If you have a character named Darkwing Duck in play, you pay 1 {I} less to play this item.
-- CLOUD OF MYSTERY {E}, 1 {I}, Banish this item — Chosen character gains Ward until the start of your next turn. (Opponents can't choose them except to challenge.)
+- CLOUD OF MYSTERY ![[imagenes/exert.svg|20]], 1 {I}, Banish this item — Chosen character gains Ward until the start of your next turn. (Opponents can't choose them except to challenge.)
 
 ---
 
@@ -26865,7 +26865,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #167) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_f87c783d2fe2456687533d4b5f641131.avif?1770259952)
 
 **Habilidades:**
-- AT YOUR SIDE {E} — Chosen character gains Support this turn. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
+- AT YOUR SIDE ![[imagenes/exert.svg|20]] — Chosen character gains Support this turn. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)
 
 ---
 
@@ -26876,7 +26876,7 @@ reduced by 1.)
 
 **Habilidades:**
 - SECRET ENTRANCE When you play this item, you may put the top card of your deck into your inkwell facedown and exerted.
-- SUDDEN SPIN {E}, Banish this item — Remove up to 2 damage from chosen character. If a character named Darkwing Duck is chosen, remove up to 4 damage instead.
+- SUDDEN SPIN ![[imagenes/exert.svg|20]], Banish this item — Remove up to 2 damage from chosen character. If a character named Darkwing Duck is chosen, remove up to 4 damage instead.
 
 ---
 
@@ -26886,7 +26886,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #169) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_51455b45e452420caabc777bd7bd1ee5.avif?1770259961)
 
 **Habilidades:**
-- BLINDING CLOUD {E}, 1 {I} — Chosen character gets -1 {S} this turn. If you have a character named Darkwing Duck in play, chosen character gets -2 {S} this turn instead.
+- BLINDING CLOUD ![[imagenes/exert.svg|20]], 1 {I} — Chosen character gets -1 {S} this turn. If you have a character named Darkwing Duck in play, chosen character gets -2 {S} this turn instead.
 
 ---
 
@@ -26897,7 +26897,7 @@ reduced by 1.)
 
 **Habilidades:**
 - ALMOST READY This item enters play exerted.
-- SNAP! {E}, Banish this item — Choose one:
+- SNAP! ![[imagenes/exert.svg|20]], Banish this item — Choose one:
   * Banish chosen item.
   * Chosen opposing character gets -2 {S} this turn.
 
@@ -26971,7 +26971,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #177) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_5dd9c7a6d0ca4d4e9b0891adf35e1a99.avif?1770259996)
 
 **Habilidades:**
-- WHAT DID YOU NEED? {E} — Draw a card. Then, choose and discard a card unless you have a character named Darkwing Duck in play.
+- WHAT DID YOU NEED? ![[imagenes/exert.svg|20]] — Draw a card. Then, choose and discard a card unless you have a character named Darkwing Duck in play.
 
 ---
 
@@ -26993,7 +26993,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #179) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_a26bf7d81173483589a2df5446ab1ec0.avif?1770260005)
 
 **Habilidades:**
-- GOOD RIDDANCE {E} — If an opposing character was banished in a challenge this turn, draw a card.
+- GOOD RIDDANCE ![[imagenes/exert.svg|20]] — If an opposing character was banished in a challenge this turn, draw a card.
 
 ---
 
@@ -27185,7 +27185,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #196) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_491b1cb4aadf4bf999230048abf2cf0b.avif?1770260077)
 
 **Habilidades:**
-- (A character with cost 2 or more can {E} to sing this song for free.)
+- (A character with cost 2 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Opponents can't play actions or items until the start of your next turn.
 
 ---
@@ -27206,7 +27206,7 @@ reduced by 1.)
 **Set:** Winterspell (11 #198) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_bdf35f1859df44e19594261c5bcede11.avif?1770260086)
 
 **Habilidades:**
-- (A character with cost 4 or more can {E} to sing this song for free.)
+- (A character with cost 4 or more can ![[imagenes/exert.svg|20]] to sing this song for free.)
 - Each player shuffles their deck and then reveals the top card...
 
 ---
@@ -27249,7 +27249,7 @@ reduced by 1.)
 
 **Habilidades:**
 - VIGILANTE JUSTICE All opposing characters gain the Villain classification.
-- LAY OF THE LAND {E} — If a character was banished in a challenge this turn, gain 1 lore.
+- LAY OF THE LAND ![[imagenes/exert.svg|20]] — If a character was banished in a challenge this turn, gain 1 lore.
 
 ---
 

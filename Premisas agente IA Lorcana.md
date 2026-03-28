@@ -256,6 +256,34 @@ Considera que un caso YA EXISTE si:
 - Caso B: "Ariel Ethereal Voice, boost y Beyond the Horizon"
 - **Acción**: Conceptos diferentes. Crea el caso B.
 
+#### Verificación por tags (NUEVA HERRAMIENTA):
+
+**REGLA VINCULANTE: Si un caso nuevo comparte 3 o más tags con otro caso existente, investigar si son la misma duda.**
+
+**Protocolo:**
+
+1. **Antes de crear un caso**, extrae los tags que usarías
+2. **Busca en la carpeta de sección 11** casos con tags similares
+3. **¿Hay solapamiento significativo (3+ tags comunes)?**
+   - **SÍ** → Abre ese archivo y compara la duda/respuesta
+   - **¿La duda es esencialmente la misma?** → Reutiliza el archivo (variante o aclaración)
+   - **¿Es diferente pero relacionada?** → Pregunta al usuario si es la misma antes de crear nuevo
+
+**Ejemplo de detección de duplicado por tags:**
+
+**Caso existente:**
+```
+Tags: #rapunzel #replacement-effect #damage-prevention #dealt-damage #challenge-specific
+```
+
+**Caso nuevo que intentas crear:**
+```
+Tags: #rapunzel #replacement-effect #damage-prevention #triggered-ability
+```
+
+**Análisis:** Comparten 3 tags clave (#rapunzel, #replacement-effect, #damage-prevention)
+**Acción:** Revisar si ambas tratan el mismo concepto de Rapunzel + replacement + damage
+
 #### Flexibilidad en categorización:
 
 Puedes ser laxa si el caso encaja en múltiples secciones:
