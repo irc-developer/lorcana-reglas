@@ -211,20 +211,20 @@ Cuando resuelvas cuestiones sobre robo:
 
 **REGLA VINCULANTE: Toda duda resuelta debe ser documentada y añadida a la sección 11 mediante el formato de caso.**
 
+**REGLA NUEVA VINCULANTE: Si el usuario pide resolver una duda, el agente debe redactar siempre el artículo correspondiente antes de cerrar la tarea, aunque la respuesta sea breve o la resolución parezca obvia.**
+
 ### Protocolo de documentación:
 
 1. **Duda clarificada** → Se resuelve completamente
 2. **Crear caso** → Documentar en formato de caso (❓ Duda ✅ Respuesta 📘 Fundamento 🔄 Secuencia 🏷️ Tags)
-3. **Ubicar en sección 11 correcta** según naturaleza:
-   - `11. Casos de ejemplo y aclaraciones/1. Principios generales/` → Dudas sobre conceptos base
-   - `11. Casos de ejemplo y aclaraciones/2. Juego (Gameplay)/` → Dudas sobre mecánicas de juego
-   - `11. Casos de ejemplo y aclaraciones/3. Turno/` → Dudas sobre estructura de turno
-   - `11. Casos de ejemplo y aclaraciones/4. Acciones/` → Dudas sobre acciones de turno
-   - `11. Casos de ejemplo y aclaraciones/5. Cartas/` → Dudas sobre tipos y características de cartas
-   - `11. Casos de ejemplo y aclaraciones/6. Habilidades/` → Dudas sobre habilidades y efectos
-   - `11. Casos de ejemplo y aclaraciones/7. Zonas/` → Dudas sobre zonas y movimientos
-   - `11. Casos de ejemplo y aclaraciones/8. Keywords/` → Dudas sobre palabras clave
-   - `11. Casos de ejemplo y aclaraciones/99. Interacciones Complejas/` → Dudas que combinan múltiples mecánicas
+3. **Ubicar en la carpeta existente más adecuada dentro de la sección 11** según la naturaleza principal del caso:
+   - `11.0. Timing y Resolución/` → Orden de resolución, momento de elegir, triggers, resolución parcial
+   - `11.2. Zonas y Movimientos/` → Mano, descarte, zona de juego, movimientos entre zonas
+   - `11.3. Costes y Requisitos/` → Pago, costes alternativos, requisitos para jugar o activar
+   - `11.4. Habilidades/` → Habilidades estáticas, disparadas, activadas, duraciones
+   - `11.5. Keywords/` → Keywords concretas y su funcionamiento
+   - `11.6. Interacciones Complejas/` → Casos que mezclan varios ejes con peso similar
+4. **Si no existe una carpeta adecuada o parece necesaria una categoría nueva**, no improvisar una estructura nueva por defecto: avisar primero al usuario y proponer la nueva carpeta con una justificación breve.
 
 ### 3.4.1) Verificación previa de casos existentes (NO crear duplicados)
 
@@ -1470,13 +1470,15 @@ Si una búsqueda falla o retorna vacío, no continúes intentando alternativas d
 ## 9) Patrón obligatorio cuando haya dudas
 
 1. Crear o ampliar una entrada en `01. Reglas/11. Casos de ejemplo y aclaraciones/`.
-	- La entrada debe existir en la raíz de `11`, no en carpetas interiores.
+   - La entrada debe guardarse en una de las subcarpetas temáticas existentes de `11`, según el tema principal del caso.
+   - Si ninguna subcarpeta encaja razonablemente o parece faltar una categoría, avisar al usuario antes de crear una carpeta nueva.
 2. Redactarla con la estructura estándar de los casos raíz (usar `Plantilla - Caso de ejemplo y aclaración.md`).
 3. Revisarla contigo antes de decidir si se añade a Obsidian.
 
 Regla adicional obligatoria:
 
 - Todas las preguntas/rulings deben documentarse, incluso si la respuesta es simple o ya conocida.
+- Si el usuario pide “resolver una duda”, la documentación del caso no es opcional: debe escribirse siempre antes de cerrar.
 - Si hubo una pregunta previa de dato crítico, la respuesta confirmada debe integrarse en el enunciado final de **Duda** del caso (no en un bloque separado).
 - Si existe un archivo previo del mismo caso o título similar, añadir contenido sin sobrescribir el histórico existente.
 
@@ -1489,7 +1491,8 @@ Regla adicional obligatoria:
 	- Referencias: citar epígrafes usados.
 	- Si falta información crítica: preguntar primero lo mínimo necesario y esperar respuesta antes del ruling final.
 	- Si hay conflicto alto de fuentes: preguntar al usuario qué criterio aplicar antes de cerrar.
-	- Documentación: crear siempre un caso en `11. Casos de ejemplo y aclaraciones` con la plantilla antes de cerrar.
+   - Documentación: crear siempre un caso en `11. Casos de ejemplo y aclaraciones` con la plantilla antes de cerrar.
+   - Ubicación: guardar ese caso en la subcarpeta temática existente que mejor encaje; si no hay encaje claro o parece faltar una carpeta, avisar al usuario antes de abrir una categoría nueva.
 
 ## 10) Bloque de prompt listo para copiar
 

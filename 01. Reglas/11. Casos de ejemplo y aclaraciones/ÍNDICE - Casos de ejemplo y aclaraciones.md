@@ -1,12 +1,12 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 96 | **Última actualización:** 21 de marzo de 2026
+**Total de casos:** 100 | **Última actualización:** 6 de abril de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
-### 11.0. Timing y Resolución (18 casos)
+### 11.0. Timing y Resolución (19 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -28,10 +28,11 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 16. [Qué pasa cuando se juegan dos cartas a la vez.md](11.0.%20Timing%20y%20Resolución/Qué%20pasa%20cuando%20se%20juegan%20dos%20cartas%20a%20la%20vez.md)
 17. [Restricciones a enderezar impuestas por habilidades disparadas.md](11.0.%20Timing%20y%20Resolución/Restricciones%20a%20enderezar%20impuestas%20por%20habilidades%20disparadas.md)
 18. [Derrota, timing mazo vacío.md](11.0.%20Timing%20y%20Resolución/Derrota,%20timing%20mazo%20vacío.md)
+19. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](11.0.%20Timing%20y%20Resoluci%C3%B3n/Ohana%20Means%20Family%20y%20Brawl%20sin%20objetivo%20v%C3%A1lido%20o%20con%20objetivo%20inv%C3%A1lido.md)
 
 ---
 
-### 11.2. Zonas y Movimientos (12 casos)
+### 11.2. Zonas y Movimientos (14 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -47,6 +48,8 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 10. [Tod + You Came Back y habilidades en el Bolsa.md](11.2.%20Zonas%20y%20Movimientos/Tod%20+%20You%20Came%20Back%20y%20habilidades%20en%20el%20Bolsa.md)
 11. [Vanish e interacciones.md](11.2.%20Zonas%20y%20Movimientos/Vanish%20e%20interacciones.md)
 12. [Ward, funcionamiento en descarte.md](11.2.%20Zonas%20y%20Movimientos/Ward,%20funcionamiento%20en%20descarte.md)
+13. [Anna - Braving the Storm no funciona en descarte.md](11.2.%20Zonas%20y%20Movimientos/Anna%20-%20Braving%20the%20Storm%20no%20funciona%20en%20descarte.md)
+14. [Hide Away sobre The Black Cauldron con Hades debajo.md](11.2.%20Zonas%20y%20Movimientos/Hide%20Away%20sobre%20The%20Black%20Cauldron%20con%20Hades%20debajo.md)
 
 ---
 
@@ -66,7 +69,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 
 ---
 
-### 11.4. Habilidades (16 casos)
+### 11.4. Habilidades (17 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -86,6 +89,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 14. [Uso de pronombres neutros en textos de cartas (they, their, them).md](11.4.%20Habilidades/Uso%20de%20pronombres%20neutros%20en%20textos%20de%20cartas%20(they,%20their,%20them).md)
 15. [Next Stop Olympus, dos copias y lores.md](11.4.%20Habilidades/Next%20Stop%20Olympus,%20dos%20copias%20y%20lores.md)
 16. [Ariel Ethereal Voice, boost y Beyond the Horizon.md](11.4.%20Habilidades/Ariel%20Ethereal%20Voice,%20boost%20y%20Beyond%20the%20Horizon.md)
+17. [The Black Cauldron - múltiples activaciones en un turno.md](11.4.%20Habilidades/The%20Black%20Cauldron%20-%20m%C3%BAltiples%20activaciones%20en%20un%20turno.md)
 
 ---
 
@@ -147,13 +151,13 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 
 | Categoría                        | Casos  | % Total  |
 | -------------------------------- | ------ | -------- |
-| **11.0 Timing y Resolución**     | 18     | 18.8%    |
-| **11.2 Zonas y Movimientos**     | 12     | 12.5%    |
-| **11.3 Costes y Requisitos**     | 9      | 9.4%     |
-| **11.4 Habilidades**             | 16     | 16.7%    |
-| **11.5 Keywords**                | 12     | 12.5%    |
-| **11.6 Interacciones Complejas** | 29     | 30.2%    |
-| **TOTAL**                        | **96** | **100%** |
+| **11.0 Timing y Resolución**     | 19     | 19.0%    |
+| **11.2 Zonas y Movimientos**     | 14     | 14.0%    |
+| **11.3 Costes y Requisitos**     | 9      | 9.0%     |
+| **11.4 Habilidades**             | 17     | 17.0%    |
+| **11.5 Keywords**                | 12     | 12.0%    |
+| **11.6 Interacciones Complejas** | 29     | 29.0%    |
+| **TOTAL**                        | **100** | **100%** |
 
 ---
 
