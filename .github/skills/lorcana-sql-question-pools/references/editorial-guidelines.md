@@ -10,6 +10,15 @@ La salida debe seguir la estructura completa de la plantilla SQL del repositorio
 
 No usar el formato antiguo de solo `Preguntas` + `OpcionesRespuesta` cuando el usuario pida un seed nuevo basado en la plantilla vigente.
 
+## Fuentes normativas permitidas
+
+- Para preguntas de reglas base, usar únicamente `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
+- `01.1.a Official English Reference – Unmodified` es la autoridad normativa primaria.
+- `01. Reglas` se usa para citar y redactar en castellano dentro del mismo alcance.
+- Si una pregunta depende del texto exacto de una carta, verificarlo en `02. Listado de Cartas/Cartas de Lorcana.md`.
+- No usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica`, recopilaciones auxiliares ni materiales legacy.
+- Si el dato editorial o normativo no puede sostenerse con esas fuentes permitidas, detener el trabajo y pedir precisión al usuario antes de emitir SQL final.
+
 ## Estructura mínima por pregunta
 
 ### 1. Cabecera editorial

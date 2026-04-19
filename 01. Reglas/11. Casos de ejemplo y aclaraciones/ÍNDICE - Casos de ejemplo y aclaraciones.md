@@ -1,12 +1,12 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 100 | **Última actualización:** 6 de abril de 2026
+**Total de casos:** 104 | **Última actualización:** 12 de abril de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
-### 11.0. Timing y Resolución (19 casos)
+### 11.0. Timing y Resolución (20 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -29,10 +29,11 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 17. [Restricciones a enderezar impuestas por habilidades disparadas.md](11.0.%20Timing%20y%20Resolución/Restricciones%20a%20enderezar%20impuestas%20por%20habilidades%20disparadas.md)
 18. [Derrota, timing mazo vacío.md](11.0.%20Timing%20y%20Resolución/Derrota,%20timing%20mazo%20vacío.md)
 19. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](11.0.%20Timing%20y%20Resoluci%C3%B3n/Ohana%20Means%20Family%20y%20Brawl%20sin%20objetivo%20v%C3%A1lido%20o%20con%20objetivo%20inv%C3%A1lido.md)
+20. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](11.0.%20Timing%20y%20Resolución/Lonely%20Grave,%20Olaf%20-%20Helping%20Hand%20y%20Scrooge%20con%20cartas%20debajo.md)
 
 ---
 
-### 11.2. Zonas y Movimientos (14 casos)
+### 11.2. Zonas y Movimientos (16 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -50,6 +51,8 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 12. [Ward, funcionamiento en descarte.md](11.2.%20Zonas%20y%20Movimientos/Ward,%20funcionamiento%20en%20descarte.md)
 13. [Anna - Braving the Storm no funciona en descarte.md](11.2.%20Zonas%20y%20Movimientos/Anna%20-%20Braving%20the%20Storm%20no%20funciona%20en%20descarte.md)
 14. [Hide Away sobre The Black Cauldron con Hades debajo.md](11.2.%20Zonas%20y%20Movimientos/Hide%20Away%20sobre%20The%20Black%20Cauldron%20con%20Hades%20debajo.md)
+15. [Under the Sea y reordenación de pilas al mazo.md](11.2.%20Zonas%20y%20Movimientos/Under%20the%20Sea%20y%20reordenación%20de%20pilas%20al%20mazo.md)
+16. [Hades - Looking for a Deal sobre personaje con Boost.md](11.2.%20Zonas%20y%20Movimientos/Hades%20-%20Looking%20for%20a%20Deal%20sobre%20personaje%20con%20Boost.md)
 
 ---
 
@@ -69,7 +72,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 
 ---
 
-### 11.4. Habilidades (17 casos)
+### 11.4. Habilidades (21 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -93,7 +96,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 ---
 
-### 11.5. Keywords (12 casos)
+### 11.5. Keywords (11 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
 
@@ -112,7 +115,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (28 casos)
+### 11.6. Interacciones Complejas (27 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -139,11 +142,14 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 20. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](11.6.%20Interacciones%20Complejas/Por%20qué%20Rapunzel%20pierde%20su%20protección%20incluso%20si%20Resist%20reduce%20el%20daño%20a%200.md)
 21. [Pudge + Lilo + Grandmother Willow (+ Shift).md](11.6.%20Interacciones%20Complejas/Pudge%20+%20Lilo%20+%20Grandmother%20Willow%20(+%20Shift).md)
 22. [Rapunzel – Act of Kindness y mover daño.md](11.6.%20Interacciones%20Complejas/Rapunzel%20–%20Act%20of%20Kindness%20y%20mover%20daño.md)
-23. [Secuencia de desafíos con Fa Zhou - War Hero.md](11.6.%20Interacciones%20Complejas/Secuencia%20de%20desafíos%20con%20Fa%20Zhou%20-%20War%20Hero.md)
-24. [Siempre que un personaje desafíe... ocurren cosas.md](11.6.%20Interacciones%20Complejas/Siempre%20que%20un%20personaje%20desafíe...%20ocurren%20cosas.md)
-25. [Support - Interacciones.md](11.6.%20Interacciones%20Complejas/Support%20-%20Interacciones.md)
-26. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducción%20de%20Fuerza%20y%20prevención%20total%20de%20daño.md)
-27. [Usar cartas de anteriores sets reeditadas.md](11.6.%20Interacciones%20Complejas/Usar%20cartas%20de%20anteriores%20sets%20reeditadas.md)
+23. [Mover daño no es retirar daño.md](11.6.%20Interacciones%20Complejas/Mover%20da%C3%B1o%20no%20es%20retirar%20da%C3%B1o.md)
+24. [Secuencia de desafíos con Fa Zhou - War Hero.md](11.6.%20Interacciones%20Complejas/Secuencia%20de%20desafíos%20con%20Fa%20Zhou%20-%20War%20Hero.md)
+25. [Siempre que un personaje desafíe... ocurren cosas.md](11.6.%20Interacciones%20Complejas/Siempre%20que%20un%20personaje%20desafíe...%20ocurren%20cosas.md)
+26. [Support - Interacciones.md](11.6.%20Interacciones%20Complejas/Support%20-%20Interacciones.md)
+27. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducci%C3%B3n%20de%20Fuerza%20y%20prevenci%C3%B3n%20total%20de%20da%C3%B1o.md)
+28. [Usar cartas de anteriores sets reeditadas.md](11.6.%20Interacciones%20Complejas/Usar%20cartas%20de%20anteriores%20sets%20reeditadas.md)
+29. [Carta multicolor cumple efectos de uno de sus colores.md](11.6.%20Interacciones%20Complejas/Carta%20multicolor%20cumple%20efectos%20de%20uno%20de%20sus%20colores.md)
+30. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](11.6.%20Interacciones%20Complejas/Luisa%20Madrigal%20-%20I%20Can%20Take%20It%2C%20condici%C3%B3n%20Then-if%20y%20GSC.md)
 
 ---
 
@@ -151,13 +157,13 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 
 | Categoría                        | Casos  | % Total  |
 | -------------------------------- | ------ | -------- |
-| **11.0 Timing y Resolución**     | 19     | 19.0%    |
-| **11.2 Zonas y Movimientos**     | 14     | 14.0%    |
-| **11.3 Costes y Requisitos**     | 9      | 9.0%     |
-| **11.4 Habilidades**             | 17     | 17.0%    |
-| **11.5 Keywords**                | 12     | 12.0%    |
-| **11.6 Interacciones Complejas** | 29     | 29.0%    |
-| **TOTAL**                        | **100** | **100%** |
+| **11.0 Timing y Resolución**     | 20     | 19.0%    |
+| **11.2 Zonas y Movimientos**     | 16     | 15.2%    |
+| **11.3 Costes y Requisitos**     | 9      | 8.6%     |
+| **11.4 Habilidades**             | 21     | 20.0%    |
+| **11.5 Keywords**                | 11     | 10.5%    |
+| **11.6 Interacciones Complejas** | 30     | 26.9%    |
+| **TOTAL**                        | **106** | **100%** |
 
 ---
 

@@ -309,7 +309,7 @@ Colocar daño directamente por un efecto.
 Quitar contadores de daño por un efecto.  
 
 #### 1.9.1.4. Move
-Quitar daño de un personaje/localización y colocarlo en otro.  
+Quitar una cantidad de contadores de daño de un personaje/localización y colocar esos mismos contadores en otro personaje/localización como resultado de un efecto que mueve daño. Mover daño equivale técnicamente a retirar daño del origen y poner daño en el destino, aunque el efecto siga usando la terminología específica de mover daño.  
 
 #### 1.9.1.5. Take
 Un personaje o localización "recibe daño" siempre que se le inflige, se le coloca o se le mueve daño.

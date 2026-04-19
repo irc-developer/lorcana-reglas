@@ -17,11 +17,13 @@ Separar el agente en skills especializados para aumentar consistencia, trazabili
 
 ## Principios globales (heredados)
 
-- Alcance normativo: solo `01. Reglas`.
+- Alcance normativo: solo `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
+- `01.1.a Official English Reference – Unmodified` es la autoridad normativa primaria.
+- La fuente de verdad para texto exacto de cartas es `02. Listado de Cartas/Cartas de Lorcana.md`.
+- No se puede consultar ni usar ninguna carpeta fuera de esas fuentes permitidas para resolver, documentar o verificar.
 - Casos del bloque 11: apoyo interpretativo, nunca por encima de reglas base.
 - Resúmenes del bloque 12: material docente.
 - Citas de reglas: formato Obsidian con epígrafe/ancla.
-- Citas de cartas: formato Obsidian `[[Cartas de Lorcana#Nombre Exacto|Texto visible]]`.
 - Léxico de zonas obligatorio:
   - discard = descarte / zona de descarte
   - hand = mano
@@ -74,7 +76,7 @@ Identificar epígrafes normativos relevantes y conflictos documentales.
 
 ### Validaciones
 - Debe devolver al menos 2 referencias primarias cuando sea posible.
-- No puede devolver referencias fuera de `01. Reglas`.
+- No puede devolver referencias fuera de `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
 - Si detecta conflicto, debe listarlo explícitamente.
 
 ---
@@ -82,13 +84,13 @@ Identificar epígrafes normativos relevantes y conflictos documentales.
 ## Skill 2 — Card Finder
 
 ### Propósito
-Obtener texto de cartas y normalizar nombres/enlaces Obsidian.
+Resolver menciones de cartas usando la fuente de verdad de cartas del repositorio, sin contaminar el ruling normativo con material legacy.
 
 ### Entrada
 ```json
 {
   "cardsMentioned": ["Lilo gris", "malicious"],
-  "source": "Cartas de Lorcana"
+  "allowedSources": ["02. Listado de Cartas/Cartas de Lorcana.md"]
 }
 ```
 
@@ -98,7 +100,7 @@ Obtener texto de cartas y normalizar nombres/enlaces Obsidian.
   "cards": [
     {
       "canonicalName": "Lilo - Bundled Up",
-      "obsidianLink": "[[Cartas de Lorcana#Lilo - Bundled Up|Lilo - Bundled Up]]",
+      "verifiedWithinScope": true,
       "oracleText": [
         "EXTRA LAYERS During each opponent's turn, the first time this character would take damage, she takes no damage instead."
       ]
@@ -115,7 +117,9 @@ Obtener texto de cartas y normalizar nombres/enlaces Obsidian.
 ```
 
 ### Validaciones
-- Todo nombre de carta en salida debe incluir enlace Obsidian válido.
+- Solo puede consultar `02. Listado de Cartas/Cartas de Lorcana.md` para verificar texto exacto, nombres y ambigüedades de cartas.
+- No puede consultar ni usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica` ni ninguna fuente externa al alcance.
+- Si el texto exacto de una carta no está disponible en `Cartas de Lorcana.md`, debe devolver `missingCriticalFacts` y detener la resolución.
 - Si hay ambigüedad de nombre, no pasa a resolución sin confirmación.
 
 ---
@@ -215,7 +219,7 @@ Redactar y guardar el caso final en formato estándar del repositorio.
 
 1. Recibe comando (`Resuelve esta duda`) y contexto.
 2. Ejecuta Rule Finder + Card Finder en paralelo.
-3. Si hay `missingCriticalFacts`, pregunta al usuario y espera respuesta.
+3. Si hay `missingCriticalFacts`, pregunta al usuario y espera respuesta; no hace fallback a carpetas fuera del alcance.
 4. Reejecuta skills afectados con datos confirmados.
 5. Ejecuta Ruling Engine.
 6. Ejecuta Case Writer.
@@ -241,9 +245,10 @@ Redactar y guardar el caso final en formato estándar del repositorio.
 
 ## Reglas de calidad (checklist)
 
-- [ ] Usa solo `01. Reglas` para fundamentar.
+- [ ] Usa `01. Reglas` y `01.1.a Official English Reference – Unmodified` para fundamentar reglas.
+- [ ] Usa `02. Listado de Cartas/Cartas de Lorcana.md` para verificar cartas citadas o mencionadas.
+- [ ] No hace fallback a carpetas fuera del alcance.
 - [ ] Citas de reglas en formato Obsidian con ancla.
-- [ ] Cartas en formato `[[Cartas de Lorcana#...|...]]`.
 - [ ] Léxico de zonas en castellano.
 - [ ] Secuencia completa: Coste, Objetivos, Resolución, Disparos, GSC.
 - [ ] Caso guardado en raíz de `11. Casos de ejemplo y aclaraciones`.

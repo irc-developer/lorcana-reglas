@@ -28,11 +28,15 @@ Generar SQL listo para seed siguiendo la estructura completa de la plantilla del
 ## Reglas operativas
 
 1. Antes de escribir el SQL, identificar el alcance normativo exacto pedido por el usuario.
-2. Si el pool es de reglas base, priorizar `01. Reglas` y usar la referencia oficial inglesa solo para validar criterio cuando haga falta desempatar.
-3. Si la petición es ambigua, preguntar lo mínimo imprescindible antes de generar el seed.
-4. Mantener el texto en español, con ortografía normalizada y explicaciones breves pero suficientes.
-5. No inventar categorías, claves o literales de catálogo si no están confirmados en el repo o por el usuario.
-6. Si falta el literal exacto de `PreguntaReglas.TipoVinculo`, detenerse y preguntar antes de emitir SQL final ejecutable.
+2. Si el pool es de reglas base, usar exclusivamente `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
+3. `01.1.a Official English Reference – Unmodified` es la autoridad normativa primaria; `01. Reglas` se usa para citación y redacción en castellano.
+4. Si una pregunta depende del texto exacto de una carta, verificar ese texto en `02. Listado de Cartas/Cartas de Lorcana.md`.
+5. No usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica`, compilaciones auxiliares ni ningún material fuera de las fuentes permitidas.
+6. Si un dato no puede sostenerse con esas fuentes, detenerse y pedir precisión al usuario antes de generar el seed.
+7. Si la petición es ambigua, preguntar lo mínimo imprescindible antes de generar el seed.
+8. Mantener el texto en español, con ortografía normalizada y explicaciones breves pero suficientes.
+9. No inventar categorías, claves o literales de catálogo si no están confirmados en el repo o por el usuario.
+10. Si falta el literal exacto de `PreguntaReglas.TipoVinculo`, detenerse y preguntar antes de emitir SQL final ejecutable.
 
 ## Valores por defecto ya verificados
 

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md",
+                "file": "099. Otros juegos de mesa/Ayuda High Moon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Black Cauldron - múltiples activaciones en un turno"
+              "title": "Ayuda High Moon"
             }
           }
         ],
@@ -201,6 +201,20 @@
   },
   "active": "ffa4b9490f5557d1",
   "lastOpenFiles": [
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/AUDITORÍA - alcance de fuentes 2026-04-18.md",
+    "099. Otros juegos de mesa/Ayuda Arkham Horror LCG.md",
+    "099. Otros juegos de mesa/Ayuda High Moon.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md",
+    "01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck).md",
+    "01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost).md",
+    "02. Listado de Cartas/Cartas de Lorcana.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md",
+    "01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability).md",
+    "01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag).md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Carta multicolor cumple efectos de uno de sus colores.md",
     "20. Reglas CR 1.X/Glosario.md",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/Interacciones/Escoger robar la carta superior o no.md",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/Interacciones/Disparar habilidades mientras se resuelve una carta.md",
@@ -216,22 +230,8 @@
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.5 Estados y condiciones de validez",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/Tener una habilidad por otro personaje.md",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/No poder ganar lore por efecto estático.md",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/11.14.02 Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/Fuente estática abandona el juego.md",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo/11.14.01 Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.14 Habilidades estáticas y efectos de reemplazo",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.13. Zonas y condiciones/Acciones en el descarte.md",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.13. Zonas y condiciones/Revelar cartas del mazo.md",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.13. Zonas y condiciones/11.13.02 Habilidades estáticas globales y zonas.md",
-    "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.13. Zonas y condiciones/11.13.01 Cartas en una pila.md",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.13. Zonas y condiciones",
-    "20. Reglas CR 1.X/10. Palabras clave (Keywords)/10.6. Evasivo (Evasive).md",
-    "20. Reglas CR 1.X/10. Palabras clave (Keywords)/10.9. Prisa (Rush).md",
-    "20. Reglas CR 1.X/10. Palabras clave (Keywords)/10.8. Resistencia (Resist).md",
-    "20. Reglas CR 1.X/10. Palabras clave (Keywords)/10.7. Temerario (Reckless).md",
-    "20. Reglas CR 1.X/10. Palabras clave (Keywords)/10.4. Impulso (boost).md",
-    "20. Reglas CR 1.X/10. Palabras clave (Keywords)/10.5. Desafiador (Challenger).md",
-    "20. Reglas CR 1.X/10. Palabras clave (Keywords)/10.3. Guardián (Bodyguard).md",
     "20. Reglas CR 1.X/10. Palabras clave (Keywords)",
     "20. Reglas CR 1.X/1. Principios generales",
     "099. Otros juegos de mesa/Earthbound Rangers",
