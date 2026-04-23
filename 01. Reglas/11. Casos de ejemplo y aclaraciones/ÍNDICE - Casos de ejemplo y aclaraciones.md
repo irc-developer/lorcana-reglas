@@ -115,12 +115,14 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (27 casos)
+### 11.6. Interacciones Complejas (28 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
 1. [Acción jugada debido a un efecto de otra carta.md](11.6.%20Interacciones%20Complejas/Acción%20jugada%20debido%20a%20un%20efecto%20de%20otra%20carta.md)
 2. [Cálculo de fuerza con Tiana y Desafiador.md](11.6.%20Interacciones%20Complejas/Cálculo%20de%20fuerza%20con%20Tiana%20y%20Desafiador.md)
+3. [Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md](11.6.%20Interacciones%20Complejas/Dale%20-%20Spike%20Suit%20usa%20la%20Voluntad%20completa,%20no%20la%20Voluntad%20restante.md)
+4. [Demona con Dale - Challenger no suma a la Voluntad.md](11.6.%20Interacciones%20Complejas/Demona%20con%20Dale%20-%20Challenger%20no%20suma%20a%20la%20Voluntad.md)
 3. [Cinderella - Dream Come True y múltiples princesas.md](11.6.%20Interacciones%20Complejas/Cinderella%20-%20Dream%20Come%20True%20y%20múltiples%20princesas.md)
 4. [Copper y Reckless sin objetivos de ataque.md](11.6.%20Interacciones%20Complejas/Copper%20y%20Reckless%20sin%20objetivos%20de%20ataque.md)
 4. [Elsa – Spirit of Winter elegir personaje agotado.md](11.6.%20Interacciones%20Complejas/Elsa%20–%20Spirit%20of%20Winter%20elegir%20personaje%20agotado.md)

@@ -1,33 +1,49 @@
 ﻿## ❓ Duda
 
-¿Cómo funciona "Following the Wind" de Pocahontas y cómo interactúa con habilidades que generan lore al questear?
+Cuando la habilidad **WHAT IS MY PATH?** de [[02. Listado de Cartas/Cartas de Lorcana#Pocahontas - Following the Wind|Pocahontas – Following the Wind]] se dispara al questear, ¿qué valor de lore toma del personaje elegido? ¿El impreso en la carta o el valor actual incluyendo bonificaciones contextuales (localización, efectos continuos...)?
+
+> *Ejemplo del caso planteado: [[02. Listado de Cartas/Cartas de Lorcana#Elsa - Ice Artisan|Elsa – Ice Artisan]] tiene {L} base 1 y está en una localización que le da +3 {L}. ¿Pocahontas gana 1 o 4 lore?*
 
 ---
 
 ## ✅ Respuesta
 
-Los efectos que generan lore generalmente se aplican después de que un personaje quest. Si "Following the Wind" modifica las condiciones de ganar lore o el orden de resolución, se sigue la [[01. Reglas/1. Principios generales/1.2 Regla dorada o Golden Rule|Regla dorada]] donde el efecto más específico prevalece.
+Pocahontas usa el **valor de lore actual ({L}) del personaje elegido**, es decir, el valor impreso más cualquier modificador continuo de {L} que esté activo en ese momento. En el ejemplo, Pocahontas ganaría **4 lore**.
+
+La clave es distinguir dos tipos de efectos:
+
+| Tipo de efecto | ¿Modifica {L}? | ¿Lo cuenta Pocahontas? |
+|---|---|---|
+| Modificador continuo de {L} (ej. localización que da +3 {L}, INCREASING WISDOM de Genie) | ✅ Sí | ✅ Sí |
+| Habilidad disparada que hace *ganar lore* (ej. RIGOROUS TRAINING de Mulan: "gain lore equal to her {S}") | ❌ No | ❌ No |
+
+**Mulan – Resourceful Recruit** ({L} base 1): aunque tenga 6 {S} y su RIGOROUS TRAINING la haga ganar mucho lore al questear, eso es un efecto disparado de "gain lore", no un modificador de {L}. Pocahontas solo ganaría **1 lore**.
+
+**Genie – Magical Researcher** ({L} base 1+): su habilidad INCREASING WISDOM dice "This character gets +1 {L}" por carta bajo él → sí modifica la característica {L} → Pocahontas cuenta todo el valor actual.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
-- ---
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)#5.3.6.4. Valor de Lore (Lore Value)|5.3.6.4. Valor de Lore]] — {L} es una característica del personaje usada cuando un efecto la referencia.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)#6.6.1.|6.6.1.]] — Los modificadores de característica (como +X {L}) se aplican de forma continua e inmediata.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)#6.6.1.2.|6.6.1.2.]] — Cuando varios modificadores se aplican a una característica, todos se combinan.
+
+> **Referencia oficial (EN):** §6.6.1 — *"Some abilities and effects can modify a characteristic of a character or location in play, such as {S} or {L}. […] Whenever a modifier applies to a card's characteristic, that characteristic changes immediately."*
 
 ---
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
+1. Pocahontas questea → se exerta.
+2. Se dispara WHAT IS MY PATH? y se añade a la bolsa.
+3. Al resolver: el jugador activo elige un personaje exertado del oponente (o propio, si el texto lo permite).
+4. Se lee el valor actual de {L} del personaje elegido (base + modificadores continuos activos en ese momento).
+5. El jugador de Pocahontas gana esa cantidad de lore.
+6. GSC.
 
 ---
 
 ## 🏷️ Tags
 
-#bag #comprehensive-rules #quest #timing #triggered-ability
+#lore-value #characteristic #continuous-modifier #triggered-ability #quest #pocahontas #localizacion #lore-pip
