@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 104 | **Última actualización:** 12 de abril de 2026
+**Total de casos:** 104 | **Última actualización:** 25 de abril de 2026
 
 ---
 
@@ -69,6 +69,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 7. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](11.3.%20Costes%20y%20Requisitos/Jugar%20una%20carta%20con%20shift%20reduciendo%20su%20coste%20(incluso%20gratis).md)
 8. [Pagar costes en la fase de final de turno.md](11.3.%20Costes%20y%20Requisitos/Pagar%20costes%20en%20la%20fase%20de%20final%20de%20turno.md)
 9. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](11.3.%20Costes%20y%20Requisitos/Reducciones%20de%20coste%20apiladas%20-%20Akood%20et%20Emuti%20y%20Grandmother%20Willow.md)
+10. [Cantar o jugar gratis cuenta como pagar 0 tinta.md](11.3.%20Costes%20y%20Requisitos/Cantar%20o%20jugar%20gratis%20cuenta%20como%20pagar%200%20tinta.md)
 
 ---
 
@@ -146,12 +147,13 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 22. [Rapunzel – Act of Kindness y mover daño.md](11.6.%20Interacciones%20Complejas/Rapunzel%20–%20Act%20of%20Kindness%20y%20mover%20daño.md)
 23. [Mover daño no es retirar daño.md](11.6.%20Interacciones%20Complejas/Mover%20da%C3%B1o%20no%20es%20retirar%20da%C3%B1o.md)
 24. [Secuencia de desafíos con Fa Zhou - War Hero.md](11.6.%20Interacciones%20Complejas/Secuencia%20de%20desafíos%20con%20Fa%20Zhou%20-%20War%20Hero.md)
-25. [Siempre que un personaje desafíe... ocurren cosas.md](11.6.%20Interacciones%20Complejas/Siempre%20que%20un%20personaje%20desafíe...%20ocurren%20cosas.md)
+25. [Mother Gothel bicolor - trigger durante el challenge y mover daño.md](11.6.%20Interacciones%20Complejas/Siempre%20que%20un%20personaje%20desafíe...%20ocurren%20cosas.md)
 26. [Support - Interacciones.md](11.6.%20Interacciones%20Complejas/Support%20-%20Interacciones.md)
 27. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducci%C3%B3n%20de%20Fuerza%20y%20prevenci%C3%B3n%20total%20de%20da%C3%B1o.md)
 28. [Usar cartas de anteriores sets reeditadas.md](11.6.%20Interacciones%20Complejas/Usar%20cartas%20de%20anteriores%20sets%20reeditadas.md)
 29. [Carta multicolor cumple efectos de uno de sus colores.md](11.6.%20Interacciones%20Complejas/Carta%20multicolor%20cumple%20efectos%20de%20uno%20de%20sus%20colores.md)
 30. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](11.6.%20Interacciones%20Complejas/Luisa%20Madrigal%20-%20I%20Can%20Take%20It%2C%20condici%C3%B3n%20Then-if%20y%20GSC.md)
+31. [Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md](11.6.%20Interacciones%20Complejas/Headless%20Horseman%20y%20Wreck-It%20Ralph%20-%20%C3%BAltimo%20valor%20conocido%20y%20bolsa.md)
 
 ---
 

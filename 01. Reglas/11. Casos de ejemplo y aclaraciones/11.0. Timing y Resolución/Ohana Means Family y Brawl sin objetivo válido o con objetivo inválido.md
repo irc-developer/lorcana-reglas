@@ -43,6 +43,12 @@ Sí, con matices.
 
 ---
 
+## 🔗 Véase también
+
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|No tener objetivo legal vs elegir un objetivo inválido]]
+
+---
+
 ## 🏷️ Tags
 
 #ohana-means-family #brawl #targeting #legal-target #illegal-choice #ward #damage-removal
