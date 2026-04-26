@@ -120,6 +120,7 @@ Esta distinción evita dos errores comunes:
 ## 🔗 Véase también
 
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido|Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido|World's Greatest Criminal Mind sin objetivo válido]]
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido|Resolución parcial sin objetivo válido]]
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/El uso de Then|El uso de Then]]
 

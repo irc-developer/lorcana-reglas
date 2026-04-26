@@ -6,17 +6,22 @@
 
 ## ✅ Respuesta
 
-La protección de Rapunzel se desactiva cuando recibe daño, independientemente de cuánto daño sea finalmente aplicado. La estática de resist se aplica primero y si, el daño se reduce a 0, no se pierde el escudo. La secuencia es:
+La protección de Rapunzel **no** se desactiva si Resist reduce el daño final a 0.
+
+Primero se calcula el daño aplicando los modificadores correspondientes, incluido Resist. Solo si el daño final es al menos 1 se considera que Rapunzel ha recibido daño a estos efectos. Si Resist lo reduce a 0, [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|8.8.2]] aclara que no se considera que se haya infligido daño alguno, así que la protección no se consume.
+
+La secuencia correcta es:
 
 1. Declaración del daño
 2. Aplicación de efectos de modificación (Resist primero)
-3. Desactivación de protecciones si el daño ≥ 1 (antes de aplicarse)
+3. Solo si el daño final es 1 o más, la protección puede consumirse por haber daño realmente infligido
 
 ---
 
 ## 📘 Fundamento en reglas
 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|8.8.2. Daño reducido a 0]]
 - [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
 - ---
 

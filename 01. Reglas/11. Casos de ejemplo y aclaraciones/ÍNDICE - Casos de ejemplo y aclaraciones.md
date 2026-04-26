@@ -1,12 +1,12 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 104 | **Última actualización:** 25 de abril de 2026
+**Total de casos:** 104 | **Última actualización:** 26 de abril de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
-### 11.0. Timing y Resolución (20 casos)
+### 11.0. Timing y Resolución (22 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -29,11 +29,13 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 17. [Restricciones a enderezar impuestas por habilidades disparadas.md](11.0.%20Timing%20y%20Resolución/Restricciones%20a%20enderezar%20impuestas%20por%20habilidades%20disparadas.md)
 18. [Derrota, timing mazo vacío.md](11.0.%20Timing%20y%20Resolución/Derrota,%20timing%20mazo%20vacío.md)
 19. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](11.0.%20Timing%20y%20Resoluci%C3%B3n/Ohana%20Means%20Family%20y%20Brawl%20sin%20objetivo%20v%C3%A1lido%20o%20con%20objetivo%20inv%C3%A1lido.md)
-20. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](11.0.%20Timing%20y%20Resolución/Lonely%20Grave,%20Olaf%20-%20Helping%20Hand%20y%20Scrooge%20con%20cartas%20debajo.md)
+20. [World's Greatest Criminal Mind sin objetivo válido.md](11.0.%20Timing%20y%20Resoluci%C3%B3n/World's%20Greatest%20Criminal%20Mind%20sin%20objetivo%20v%C3%A1lido.md)
+21. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](11.0.%20Timing%20y%20Resolución/Lonely%20Grave,%20Olaf%20-%20Helping%20Hand%20y%20Scrooge%20con%20cartas%20debajo.md)
+22. [No hay bolsa entre la parte del jugador activo y la del no activo.md](11.0.%20Timing%20y%20Resolución/No%20hay%20bolsa%20entre%20la%20parte%20del%20jugador%20activo%20y%20la%20del%20no%20activo.md)
 
 ---
 
-### 11.2. Zonas y Movimientos (16 casos)
+### 11.2. Zonas y Movimientos (17 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -53,6 +55,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 14. [Hide Away sobre The Black Cauldron con Hades debajo.md](11.2.%20Zonas%20y%20Movimientos/Hide%20Away%20sobre%20The%20Black%20Cauldron%20con%20Hades%20debajo.md)
 15. [Under the Sea y reordenación de pilas al mazo.md](11.2.%20Zonas%20y%20Movimientos/Under%20the%20Sea%20y%20reordenación%20de%20pilas%20al%20mazo.md)
 16. [Hades - Looking for a Deal sobre personaje con Boost.md](11.2.%20Zonas%20y%20Movimientos/Hades%20-%20Looking%20for%20a%20Deal%20sobre%20personaje%20con%20Boost.md)
+17. [Elegir 0 cartas para barajar en el mazo no baraja el mazo.md](11.2.%20Zonas%20y%20Movimientos/Elegir%200%20cartas%20para%20barajar%20en%20el%20mazo%20no%20baraja%20el%20mazo.md)
 
 ---
 
@@ -94,6 +97,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 15. [Next Stop Olympus, dos copias y lores.md](11.4.%20Habilidades/Next%20Stop%20Olympus,%20dos%20copias%20y%20lores.md)
 16. [Ariel Ethereal Voice, boost y Beyond the Horizon.md](11.4.%20Habilidades/Ariel%20Ethereal%20Voice,%20boost%20y%20Beyond%20the%20Horizon.md)
 17. [The Black Cauldron - múltiples activaciones en un turno.md](11.4.%20Habilidades/The%20Black%20Cauldron%20-%20m%C3%BAltiples%20activaciones%20en%20un%20turno.md)
+18. [Merida - Steady Aim y Resist.md](11.4.%20Habilidades/Merida%20-%20Steady%20Aim%20y%20Resist.md)
 
 ---
 
@@ -157,6 +161,18 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 
 ---
 
+### 11.7. Dudas por desarrollar (5 casos)
+
+Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están desarrollados, aunque el título de la sección siga pendiente de renombrarse.
+
+1. [Bolsa en multijugador con tres jugadores.md](11.7.%20Dudas%20por%20desarrollar/Bolsa%20en%20multijugador%20con%20tres%20jugadores.md)
+2. [Cada oponente en multijugador y orden de resolución.md](11.7.%20Dudas%20por%20desarrollar/Cada%20oponente%20en%20multijugador%20y%20orden%20de%20resoluci%C3%B3n.md)
+3. [Elegirte a ti mismo cuando un efecto dice chosen player.md](11.7.%20Dudas%20por%20desarrollar/Elegirte%20a%20ti%20mismo%20cuando%20un%20efecto%20dice%20chosen%20player.md)
+4. [Ganar Ward antes de la segunda elección del mismo efecto.md](11.7.%20Dudas%20por%20desarrollar/Ganar%20Ward%20antes%20de%20la%20segunda%20elecci%C3%B3n%20del%20mismo%20efecto.md)
+5. [Moverse a una localización recién jugada.md](11.7.%20Dudas%20por%20desarrollar/Moverse%20a%20una%20localizaci%C3%B3n%20reci%C3%A9n%20jugada.md)
+
+---
+
 ## 📊 Estadísticas
 
 | Categoría                        | Casos  | % Total  |
@@ -175,6 +191,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 
 ### Por mecánica de cartas
 - **Tiana**: [Efecto de Tiana...](11.4.%20Habilidades/Efecto%20de%20Tiana%20al%20enderezar%20un%20personaje.md) | [Tiana y Rapunzel...](11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducción%20de%20Fuerza%20y%20prevención%20total%20de%20daño.md) | [Cálculo fuerza Tiana...](11.6.%20Interacciones%20Complejas/Cálculo%20de%20fuerza%20con%20Tiana%20y%20Desafiador.md) 
+- **Merida**: [Merida - Steady Aim y Resist](11.4.%20Habilidades/Merida%20-%20Steady%20Aim%20y%20Resist.md)
 - **Rapunzel**: [Rapunzel pierden protección...](11.6.%20Interacciones%20Complejas/Por%20qué%20Rapunzel%20pierde%20su%20protección%20incluso%20si%20Resist%20reduce%20el%20daño%20a%200.md) | [Rapunzel Act of Kindness...](11.6.%20Interacciones%20Complejas/Rapunzel%20–%20Act%20of%20Kindness%20y%20mover%20daño.md)
 - **Shift**: [Heredar palabra clave al hacer shift](11.5.%20Keywords/Heredar%20una%20palabra%20clave%20al%20hacer%20shift.md) | [Lady - Miss Park Avenue shift](11.6.%20Interacciones%20Complejas/Lady%20-%20Miss%20Park%20Avenue%20shift.md) | [Jugar carta con shift reduciendo coste](11.3.%20Costes%20y%20Requisitos/Jugar%20una%20carta%20con%20shift%20reduciendo%20su%20coste%20(incluso%20gratis).md)
 

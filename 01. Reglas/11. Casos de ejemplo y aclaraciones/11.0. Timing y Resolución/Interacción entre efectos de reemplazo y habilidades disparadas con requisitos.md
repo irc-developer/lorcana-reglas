@@ -6,18 +6,15 @@
 
 No, no podrías resolver la habilidad de Hades. Aunque es legal elegir como objetivo a Honest John, **no puedes satisfacer el requisito de hacerle daño** a ese personaje, ya que la habilidad estática de Baloo genera un **efecto de reemplazo** que **impide** que se le haga daño a personajes con fuerza 7 o más.
 
-Dado que la habilidad de Hades exige **hacerle daño** al objetivo como condición para resolverse, y eso no es posible, la habilidad no se resuelve.
-
-En cambio, si el personaje objetivo tuviera  [[01. Reglas/10. Palabras clave (Keywords)/10.8. Resistencia (Resist)]], sí se consideraría que **ha recibido daño**, aunque luego este se reduzca. Resist no impide el daño, simplemente **lo modifica después de que se le haya hecho**, por lo que **sí permite satisfacer la condición** de la habilidad disparada de Hades.
-#triggered-ability #satisfy-condition #resist #replacement-effect #illegal-resolution #static-ability #targeting #prevent-damage #conditional-trigger
+Dado que la habilidad de Hades exige **hacer daño** al objetivo como condición para resolverse, y eso no es posible, la habilidad no se resuelve.
+#triggered-ability #satisfy-condition #replacement-effect #illegal-resolution #static-ability #targeting #prevent-damage #conditional-trigger
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[10. Palabras clave (Keywords)/10.8. Resistencia (Resist)]]
-- [[10. Palabras clave (Keywords)/10.8. Resistencia (Resist)]]
-- ---
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de cartas y efectos (Resolving Cards and Effects)|6.7.2.3. Cálculo del daño final]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de cartas y efectos (Resolving Cards and Effects)|6.7.3. Habilidades disparadas durante la resolución]]
 
 ---
 
@@ -33,5 +30,5 @@ En cambio, si el personaje objetivo tuviera  [[01. Reglas/10. Palabras clave (Ke
 
 ## 🏷️ Tags
 
-#replacement-effects #prevent-damage #satisfy-requirements #triggered-abilities #resist#triggered-ability #habilidades
+#replacement-effects #prevent-damage #satisfy-requirements #triggered-abilities #habilidades
 

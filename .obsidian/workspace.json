@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md",
+                "file": "Empecemos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luisa Madrigal - I Can Take It, condición Then-if y GSC"
+              "title": "Empecemos"
             }
           }
         ],
@@ -201,10 +201,20 @@
   },
   "active": "ffa4b9490f5557d1",
   "lastOpenFiles": [
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Moverse a una localización recién jugada.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Elegirte a ti mismo cuando un efecto dice chosen player.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Cada oponente en multijugador y orden de resolución.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Ganar Ward antes de la segunda elección del mismo efecto.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Bolsa en multijugador con tres jugadores.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad de cartas firmadas.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md",
     "01. Reglas/1. Principios generales/1.5 Costes (Costs).md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md",
@@ -220,15 +230,6 @@
     "01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check).md",
     "099. Otros juegos de mesa/Ayuda High Moon.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/AUDITORÍA - alcance de fuentes 2026-04-18.md",
-    "099. Otros juegos de mesa/Ayuda Arkham Horror LCG.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md",
-    "01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck).md",
-    "01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States).md",
-    "01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost).md",
-    "02. Listado de Cartas/Cartas de Lorcana.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md",
-    "01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability).md",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.7. Modificadores de atributos y duración de efectos",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.6 Shift e interacciones",
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.5 Estados y condiciones de validez",
@@ -236,7 +237,6 @@
     "20. Reglas CR 1.X/11. Casos de ejemplo y aclaraciones/11.13. Zonas y condiciones",
     "20. Reglas CR 1.X/10. Palabras clave (Keywords)",
     "20. Reglas CR 1.X/1. Principios generales",
-    "099. Otros juegos de mesa/Earthbound Rangers",
     "Pasted image 20260401202913.png",
     "Sin título.canvas",
     "09. Recursos/tiposdehabilidades.svg",
