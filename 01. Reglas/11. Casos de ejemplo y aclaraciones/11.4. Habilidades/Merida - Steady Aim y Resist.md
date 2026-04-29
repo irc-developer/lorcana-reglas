@@ -1,4 +1,4 @@
-## ❓ Duda
+﻿## ❓ Duda
 
 Si [[02. Listado de Cartas/Set 12 - Wilds Unknown#Merida - Formidable Archer|Merida - Formidable Archer]] tiene la habilidad STEADY AIM ("Whenever one of your actions deals damage to an opposing character, deal 2 damage to that character") y una de tus acciones intenta infligir 1 daño a un personaje rival con Resist +1, ¿se dispara la habilidad?
 
@@ -12,11 +12,11 @@ No. Si Resist reduce ese daño final a 0, la acción no se considera que haya in
 
 Sí se dispara si, tras aplicar Resist y cualquier otro modificador de daño, la acción sigue infligiendo al menos 1 daño. En ese caso, STEADY AIM crea un segundo evento de daño independiente, y Resist se aplica de nuevo a ese segundo daño cuando la habilidad se resuelve.
 
-Con escudos de reemplazo como los de [[Cartas de Lorcana#Lilo - Bundled Up|Lilo - Bundled Up]] o [[Cartas de Lorcana#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]], ocurre lo mismo en el punto decisivo: si ese escudo reemplaza el daño de la acción original por “no damage”, la acción no llega a infligir daño y STEADY AIM no se dispara.
+Con escudos de reemplazo como los de [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]] o [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]], ocurre lo mismo en el punto decisivo: si ese escudo reemplaza el daño de la acción original por “no damage”, la acción no llega a infligir daño y STEADY AIM no se dispara.
 
 Si la acción original sí llegó a infligir daño y STEADY AIM ya se disparó, los 2 daños de STEADY AIM forman un nuevo evento de daño. Ese segundo evento puede ser reducido por Resist o reemplazado por un escudo si ese efecto de reemplazo sigue disponible cuando la habilidad se resuelva.
 
-Excepción importante: no toda acción que acaba con daño sobre un personaje lo inflige. Si una acción **pone** contadores de daño directamente, como [[Cartas de Lorcana#Malicious, Mean, and Scary|Malicious, Mean, and Scary]] (“Put 1 damage counter on each opposing character”), ese daño es **daño puesto**, no **daño infligido**. En ese caso, STEADY AIM no se dispara, aunque los personajes rivales sí hayan recibido daño.
+Excepción importante: no toda acción que acaba con daño sobre un personaje lo inflige. Si una acción **pone** contadores de daño directamente, como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]] (“Put 1 damage counter on each opposing character”), ese daño es **daño puesto**, no **daño infligido**. En ese caso, STEADY AIM no se dispara, aunque los personajes rivales sí hayan recibido daño.
 
 Con Resist +1:
 
@@ -24,7 +24,7 @@ Con Resist +1:
 - Si la acción iba a infligir 2 daños, el daño final es 1, STEADY AIM sí se dispara y luego intenta infligir 2 daños más; Resist reduce ese segundo paquete a 1. El total final es 2 daños.
 - Si la acción original es reemplazada por un escudo tipo Lilo o Rapunzel, el daño final de esa acción es 0, no se considera infligido daño y STEADY AIM no se dispara.
 - Si la acción original hizo daño y luego el objetivo conserva un escudo aplicable para el siguiente evento, ese escudo puede evitar por separado los 2 daños de STEADY AIM.
-- Si la acción pone daño en vez de infligirlo, como [[Cartas de Lorcana#Malicious, Mean, and Scary|Malicious, Mean, and Scary]], STEADY AIM no se dispara.
+- Si la acción pone daño en vez de infligirlo, como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]], STEADY AIM no se dispara.
 
 ---
 

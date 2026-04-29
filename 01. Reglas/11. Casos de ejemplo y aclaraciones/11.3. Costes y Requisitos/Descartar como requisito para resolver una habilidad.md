@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Controlo [[Cartas de Lorcana#Maleficent - Vexed Partygoer|Maleficent - Vexed Partygoer]] y [[Cartas de Lorcana#Kronk - Laid Back|Kronk - Laid Back]].
+Controlo [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Maleficent - Vexed Partygoer|Maleficent - Vexed Partygoer]] y [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kronk - Laid Back|Kronk - Laid Back]].
 
 Si una habilidad dice “descarta una carta para [efecto]”, ¿puedo evitar ese descarte por una prevención de “descartar por efecto” y aun así obtener la parte final?
 

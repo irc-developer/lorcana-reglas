@@ -1,7 +1,7 @@
-## ❓ Duda
+﻿## ❓ Duda
 
 - **Caso 1:** ¿Si Alice heredaría Support a Minnie mediante una habilidad estática, y Minnie hace quest, entrando tanto Support como su efecto de banish, en qué orden se resuelven los triggers en la bolsa?
-- **Caso 2:** Si [[Cartas de Lorcana#Eilonwy - Princess of Llyr|Eilonwy - Princess of Llyr]] hace quest y da su Support a una Mulan 2/3 que ya tiene Support, ¿cuánto dará luego Mulan cuando haga quest a otro personaje: 2 o 4?
+- **Caso 2:** Si [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Eilonwy - Princess of Llyr|Eilonwy - Princess of Llyr]] hace quest y da su Support a una Mulan 2/3 que ya tiene Support, ¿cuánto dará luego Mulan cuando haga quest a otro personaje: 2 o 4?
 
 ## ✅ Respuesta
 

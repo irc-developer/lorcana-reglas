@@ -1,13 +1,13 @@
 ﻿## ❓ Duda
 
-Si controlo [[Cartas de Lorcana#Kronk - Laid Back|Kronk - Laid Back]] (efecto que impide descartar) y juego [[Cartas de Lorcana#Megara - Captivating Cynic|Megara - Captivating Cynic]], ¿puedo escoger igualmente la opción de descartar una carta?
+Si controlo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kronk - Laid Back|Kronk - Laid Back]] (efecto que impide descartar) y juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Megara - Captivating Cynic|Megara - Captivating Cynic]], ¿puedo escoger igualmente la opción de descartar una carta?
 
 ---
 
 ## ✅ Respuesta
 
 **No.**  
-Si un efecto te impide descartar, esa opción no puede completarse legalmente. Debes aplicar la opción alternativa permitida por el texto de [[Cartas de Lorcana#Megara - Captivating Cynic|Megara - Captivating Cynic]] (si existe), porque “no poder” prevalece sobre “poder”.
+Si un efecto te impide descartar, esa opción no puede completarse legalmente. Debes aplicar la opción alternativa permitida por el texto de [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Megara - Captivating Cynic|Megara - Captivating Cynic]] (si existe), porque “no poder” prevalece sobre “poder”.
 
 ---
 
@@ -20,9 +20,9 @@ Si un efecto te impide descartar, esa opción no puede completarse legalmente. D
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: juegas [[Cartas de Lorcana#Megara - Captivating Cynic|Megara - Captivating Cynic]].
+1. **Coste**: juegas [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Megara - Captivating Cynic|Megara - Captivating Cynic]].
 2. **Objetivos**: eliges la opción del efecto según lo que sea legal.
-3. **Resolución**: la opción de descartar queda bloqueada por [[Cartas de Lorcana#Kronk - Laid Back|Kronk - Laid Back]] y se aplica la opción legal restante.
+3. **Resolución**: la opción de descartar queda bloqueada por [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kronk - Laid Back|Kronk - Laid Back]] y se aplica la opción legal restante.
 4. **Disparos**: cualquier trigger generado se añade a la bolsa y espera su resolución.
 5. **GSC**: tras resolver el efecto, se realiza chequeo del estado del juego.
 

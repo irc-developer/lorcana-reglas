@@ -13,10 +13,10 @@ Depende a quien le preguntes. Como programador actualmente pienso que la equival
 `}`
 
 Aunque no hay reglas que soporten esto. Tampoco hay aclaración oficial. Todo esto es aplicable también para cartas como:
-[[Cartas de Lorcana#Mufasa - Betrayed Leader|Mufasa - Betrayed Leader]]
-[[Cartas de Lorcana#Mulan - Reflecting|Mulan - Reflecting]]
-[[Cartas de Lorcana#Pongo - Determined Father|Pongo - Determined Father]]
-[[Cartas de Lorcana#Oswald - The Lucky Rabbit|Oswald - The Lucky Rabbit]]
+[[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Mufasa - Betrayed Leader|Mufasa - Betrayed Leader]]
+[[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Mulan - Reflecting|Mulan - Reflecting]]
+[[02. Listado de Cartas/Set 3 - Into the Inklands.md#Pongo - Determined Father|Pongo - Determined Father]]
+[[02. Listado de Cartas/Set 6 - Azurite Sea.md#Oswald - The Lucky Rabbit|Oswald - The Lucky Rabbit]]
 
 #may #triggered-ability #otherwise
 

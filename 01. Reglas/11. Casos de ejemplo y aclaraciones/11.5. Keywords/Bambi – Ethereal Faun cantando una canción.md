@@ -1,13 +1,13 @@
 ﻿## ❓ Duda
 
-Si uso [[Cartas de Lorcana#Bambi - Ethereal Faun|Bambi - Ethereal Faun]] para cantar una canción, ¿puedo resolver primero su habilidad disparada y después la canción?
+Si uso [[02. Listado de Cartas/Set 11 - Winterspell.md#Bambi - Ethereal Fawn|Bambi - Ethereal Fawn]] para cantar una canción, ¿puedo resolver primero su habilidad disparada y después la canción?
 
 ---
 
 ## ✅ Respuesta
 
 **No.**  
-La canción se resuelve primero. La habilidad disparada de [[Cartas de Lorcana#Bambi - Ethereal Faun|Bambi - Ethereal Faun]] entra en la bolsa, pero espera hasta que termine por completo la resolución de la canción.
+La canción se resuelve primero. La habilidad disparada de [[02. Listado de Cartas/Set 11 - Winterspell.md#Bambi - Ethereal Fawn|Bambi - Ethereal Fawn]] entra en la bolsa, pero espera hasta que termine por completo la resolución de la canción.
 
 ---
 
@@ -21,7 +21,7 @@ La canción se resuelve primero. La habilidad disparada de [[Cartas de Lorcana#B
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: declaras que cantas la canción con [[Cartas de Lorcana#Bambi - Ethereal Faun|Bambi - Ethereal Faun]] y pagas el coste correspondiente (agotar al personaje).
+1. **Coste**: declaras que cantas la canción con [[02. Listado de Cartas/Set 11 - Winterspell.md#Bambi - Ethereal Fawn|Bambi - Ethereal Fawn]] y pagas el coste correspondiente (agotar al personaje).
 2. **Objetivos**: eliges los objetivos de la canción si su texto los requiere.
 3. **Resolución**: se resuelve completamente la canción en orden.
 4. **Disparos**: la habilidad disparada de Bambi, ocurrida al cantar, está en la bolsa y se resuelve después de terminar la canción.

@@ -3,8 +3,8 @@
 Durante el inicio de turno se disparan varias habilidades simultáneas.
 
 Casos típicos:
-- Con [[Cartas de Lorcana#Bolt - Superdog|Bolt - Superdog]] y [[Cartas de Lorcana#Lilo - Escape Artist|Lilo - Escape Artist]], ¿puedo ordenar los triggers para que primero entre Lilo y luego resolver el de Bolt?
-- Con [[Cartas de Lorcana#Vanellope Von Schweetz - Gutsy Go-Getter|Vanellope Von Schweetz - Gutsy Go-Getter]] y [[Cartas de Lorcana#Transport Pod|Transport Pod]], ¿puedo forzar un orden de resolución que cumpla una condición que no era válida al dispararse?
+- Con [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Bolt - Superdog|Bolt - Superdog]] y [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Lilo - Escape Artist|Lilo - Escape Artist]], ¿puedo ordenar los triggers para que primero entre Lilo y luego resolver el de Bolt?
+- Con [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Vanellope Von Schweetz - Gutsy Go-Getter|Vanellope Von Schweetz - Gutsy Go-Getter]] y [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Transport Pod|Transport Pod]], ¿puedo forzar un orden de resolución que cumpla una condición que no era válida al dispararse?
 
 ---
 

@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Con [[Cartas de Lorcana#The Queen - Conceited Ruler|The Queen - Conceited Ruler]], ¿puedo usar solo la parte de descartar ("choose and discard a Princess or Queen character card") sin aplicar la parte de devolver una carta de personaje desde el descarte a la mano?
+Con [[02. Listado de Cartas/Set 9 - Fabled.md#The Queen - Conceited Ruler|The Queen - Conceited Ruler]], ¿puedo usar solo la parte de descartar ("choose and discard a Princess or Queen character card") sin aplicar la parte de devolver una carta de personaje desde el descarte a la mano?
 
 Texto relevante:
 

@@ -10,14 +10,14 @@ Recuerda la [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules
 
 ---
 ### Duda
-- Juego [[Cartas de Lorcana#You're Welcome|You're Welcome]] sobre un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] ¿Se baraja o no?
+- Juego [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#You're Welcome|You're Welcome]] sobre un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] ¿Se baraja o no?
 ### Respuesta
-Se baraja. La habilidad Vanish se dispara al ser elegido como objetivo y no se resuelve hasta que termina de resolverse [[Cartas de Lorcana#You're Welcome|You're Welcome]], así que, cuando vaya a resolverse, ese personaje ya no estará en juego y no se desterrará nada.
+Se baraja. La habilidad Vanish se dispara al ser elegido como objetivo y no se resuelve hasta que termina de resolverse [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#You're Welcome|You're Welcome]], así que, cuando vaya a resolverse, ese personaje ya no estará en juego y no se desterrará nada.
 #bag #action-card #vanish #lost-trigger
 
 ---
 ### Duda
-- Juego [[Cartas de Lorcana#Bestow a Gift|Bestow a Gift]] seleccionando un personaje con Vanish.
+- Juego [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Bestow A Gift|Bestow a Gift]] seleccionando un personaje con Vanish.
 - No tengo daños para mover.
 ¿Se dispararía el vanish?
 ### Respuesta
@@ -33,7 +33,7 @@ Sacado de discord.
 
 ---
 ### Duda
-- Juego [[Cartas de Lorcana#Into the Unknown|Into the Unknown]] eligiendo a un personaje agotado con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] como objetivo.
+- Juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Into the Unknown|Into the Unknown]] eligiendo a un personaje agotado con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] como objetivo.
 ¿Va a tinta o muere?
 ### Respuesta
 Va a tinta. El trigger de Vanish se dispara al ser elegido como objetivo de la acción, pero se resuelve **después** de que el efecto de Into the Unknown haya terminado. Para cuando Vanish intenta resolverse, ese personaje ya ha pasado al inkwell (otra zona) y el trigger se resuelve sin efecto (lost trigger).

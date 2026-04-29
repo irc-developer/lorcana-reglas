@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-Si juego [[Cartas de Lorcana#Demona - Scourge of the Wyvern Clan|Demona - Scourge of the Wyvern Clan]] y mi oponente controla un [[Cartas de Lorcana#Diablo - Devoted Herald|Diablo - Devoted Herald]] agotado, ¿los robos de Demona hacen que se dispare Diablo?
+Si juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Demona - Scourge of the Wyvern Clan|Demona - Scourge of the Wyvern Clan]] y mi oponente controla un [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] agotado, ¿los robos de Demona hacen que se dispare Diablo?
 
 ¿Y qué pasa si el Diablo agotado es mío en vez de ser del oponente?
 
@@ -42,11 +42,11 @@ El mismo criterio aclara el segundo caso: un Diablo que controlas tú no mira lo
 
 ## 🔄 Secuencia oficial
 
-1. Juegas o resuelves el efecto que pone en marcha a [[Cartas de Lorcana#Demona - Scourge of the Wyvern Clan|Demona - Scourge of the Wyvern Clan]].
-2. Empieza a resolverse su habilidad: primero se agotan todos los personajes rivales, incluido [[Cartas de Lorcana#Diablo - Devoted Herald|Diablo - Devoted Herald]] si estaba en mesa.
+1. Juegas o resuelves el efecto que pone en marcha a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Demona - Scourge of the Wyvern Clan|Demona - Scourge of the Wyvern Clan]].
+2. Empieza a resolverse su habilidad: primero se agotan todos los personajes rivales, incluido [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] si estaba en mesa.
 3. Después, cada jugador con menos de 3 cartas en mano roba hasta tener 3.
 4. Cada carta que robes tú es un evento de robo separado.
-5. Por cada una de esas cartas, el [[Cartas de Lorcana#Diablo - Devoted Herald|Diablo - Devoted Herald]] del rival se dispara una vez.
+5. Por cada una de esas cartas, el [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] del rival se dispara una vez.
 6. Esos disparos se añaden a la bolsa mientras Demona sigue resolviéndose.
 7. Cuando la habilidad de Demona termina por completo, se resuelven los disparos de Diablo uno por uno.
 8. El controlador de Diablo puede robar una carta por cada disparo, pero esos robos no vuelven a disparar ese mismo Diablo.
@@ -58,7 +58,7 @@ El mismo criterio aclara el segundo caso: un Diablo que controlas tú no mira lo
 - Es tu turno.
 - Juegas a Demona.
 - Tú tienes 1 carta en mano.
-- Tu oponente tiene un [[Cartas de Lorcana#Diablo - Devoted Herald|Diablo - Devoted Herald]] en juego y 2 cartas en mano.
+- Tu oponente tiene un [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] en juego y 2 cartas en mano.
 
 Secuencia:
 

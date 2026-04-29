@@ -1,13 +1,13 @@
 ﻿## ❓ Duda
 
-Si juego [[Cartas de Lorcana#All Is Found|All Is Found]] teniendo solo 1 carta en la zona de descarte, ¿puedo meter en el pozo de tinta esa carta y también la propia [[Cartas de Lorcana#All Is Found|All Is Found]]?
+Si juego [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#All Is Found|All Is Found]] teniendo solo 1 carta en la zona de descarte, ¿puedo meter en el pozo de tinta esa carta y también la propia [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#All Is Found|All Is Found]]?
 
 ---
 
 ## ✅ Respuesta
 
 No.  
-Mientras se resuelve [[Cartas de Lorcana#All Is Found|All Is Found]], esa acción aún no está en el descarte, así que no puede elegirse con su propio efecto. Solo puedes poner en el pozo de tinta cartas que ya estén en el descarte en el momento de resolver.
+Mientras se resuelve [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#All Is Found|All Is Found]], esa acción aún no está en el descarte, así que no puede elegirse con su propio efecto. Solo puedes poner en el pozo de tinta cartas que ya estén en el descarte en el momento de resolver.
 
 ---
 
@@ -21,7 +21,7 @@ Mientras se resuelve [[Cartas de Lorcana#All Is Found|All Is Found]], esa acció
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: juegas [[Cartas de Lorcana#All Is Found|All Is Found]] y pagas su coste.
+1. **Coste**: juegas [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#All Is Found|All Is Found]] y pagas su coste.
 2. **Objetivos**: eliges cartas legales en descarte según indique el texto.
 3. **Resolución**: se aplica el efecto; la acción no es una carta elegible de su propio efecto mientras se resuelve.
 4. **Disparos**: si se generan triggers, entran en la bolsa.

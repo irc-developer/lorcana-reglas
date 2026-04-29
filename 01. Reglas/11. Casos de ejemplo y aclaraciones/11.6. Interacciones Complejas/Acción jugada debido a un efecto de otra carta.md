@@ -3,20 +3,20 @@
 Interacciones cuando una acción se juega por efecto de otra carta:
 
 ### Caso A
-Con [[Cartas de Lorcana#Alan-a-Dale - Rockin' Rooster|Alan-a-Dale - Rockin' Rooster]] + [[Cartas de Lorcana#Prince Naveen - Ukulele Player|Prince Naveen - Ukulele Player]], si se juega [[Cartas de Lorcana#We Know The Way|We Know The Way]] por efecto, ¿puede seleccionarse a sí misma para generar un bucle infinito?
+Con [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Alan-a-Dale - Rockin' Rooster|Alan-a-Dale - Rockin' Rooster]] + [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Prince Naveen - Ukulele Player|Prince Naveen - Ukulele Player]], si se juega [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#We Know The Way|We Know The Way]] por efecto, ¿puede seleccionarse a sí misma para generar un bucle infinito?
 
 ### Caso B
-Con [[Cartas de Lorcana#Max Goof - Chart Topper|Max Goof - Chart Topper]], al jugar [[Cartas de Lorcana#You're Welcome|You're Welcome]] desde un efecto, ¿se aplica primero “fondo del mazo” y luego “barajar”?
+Con [[02. Listado de Cartas/Set 9 - Fabled.md#Max Goof - Chart Topper|Max Goof - Chart Topper]], al jugar [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#You're Welcome|You're Welcome]] desde un efecto, ¿se aplica primero “fondo del mazo” y luego “barajar”?
 
 ### Caso C
-Si [[Cartas de Lorcana#Powerline - World's Greatest Rock Star|Powerline - World's Greatest Rock Star]] permite jugar [[Cartas de Lorcana#Fantastical and Magical|Fantastical and Magical]], ¿puede usarse su coste alternativo de Sing Together al jugarla de este modo?
+Si [[02. Listado de Cartas/Set 9 - Fabled.md#Powerline - World's Greatest Rock Star|Powerline - World's Greatest Rock Star]] permite jugar [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Fantastical and Magical|Fantastical and Magical]], ¿puede usarse su coste alternativo de Sing Together al jugarla de este modo?
 
 ---
 
 ## ✅ Respuesta
 
 ### Caso A — **No**
-Con reglas actuales, [[Cartas de Lorcana#We Know The Way|We Know The Way]] jugada por efecto no puede seleccionarse a sí misma durante esa resolución. No hay bucle infinito válido por esa vía.
+Con reglas actuales, [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#We Know The Way|We Know The Way]] jugada por efecto no puede seleccionarse a sí misma durante esa resolución. No hay bucle infinito válido por esa vía.
 
 ### Caso B — **Sí**
 Se respeta el orden escrito del efecto: primero la parte de poner en el fondo del mazo y después la de barajar.

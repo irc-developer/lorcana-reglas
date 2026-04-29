@@ -10,8 +10,8 @@ No, no podrías. Esto es debido a que primero debes resolver **completamente** e
 ---
 
 ### Duda
-- Mi oponente tiene en juego [[Cartas de Lorcana#Prince John - Fraidy-Cat|Prince John - Fraidy-Cat]] con cuatro daños.
-- Yo juego  [[Cartas de Lorcana#Go Go Tomago - Darting Dynamo|Go Go Tomago - Darting Dynamo]] y pago el coste extra para jugar su habilidad.
+- Mi oponente tiene en juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Prince John - Fraidy-Cat|Prince John - Fraidy-Cat]] con cuatro daños.
+- Yo juego  [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Go Go Tomago - Darting Dynamo|Go Go Tomago - Darting Dynamo]] y pago el coste extra para jugar su habilidad.
 
 ¿Puedo ganar cuatro o cinco lores al jugarlo?
 ### Respuesta

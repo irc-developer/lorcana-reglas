@@ -8,7 +8,7 @@ La pierdes. Una vez se acaba de resolver el A whole new world se hace la [[01. R
 
 ---
 ### Duda 2
-- Tengo en mano tengo [[Cartas de Lorcana#This is my family|This is my family]].
+- Tengo en mano tengo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#This Is My Family|This is my family]].
 - Diecinueve de lore.
 - Sin cartas en el mazo.
 
@@ -22,9 +22,9 @@ La ganas. Una vez se acaba de resolver la canción se cumplen las dos acciones o
 
 ---
 ### Duda 3
-- En mi mesa [[Cartas de Lorcana#Merlin - Goat|Merlin - Goat]] agotada.
-- En la del oponente otra [[Cartas de Lorcana#Merlin - Goat|Merlin - Goat]].
-- Juego [[Cartas de Lorcana#Be Prepared|Be Prepared]]
+- En mi mesa [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Merlin - Goat|Merlin - Goat]] agotada.
+- En la del oponente otra [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Merlin - Goat|Merlin - Goat]].
+- Juego [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]]
 
 ¿Quién gana la partida?
 ### Respuesta
@@ -37,7 +37,7 @@ Tú, que eres el jugador activo, ganas la partida. Una vez las cabras abandonan 
 ---
 ### Duda 4
 - Mi oponente y yo empatados a dieciocho lores.
-- Juego [[Cartas de Lorcana#I2I|I2I]].
+- Juego [[02. Listado de Cartas/Set 9 - Fabled.md#I2I|I2I]].
 
 ¿Quién gana la partida?
 ### Respuesta
@@ -49,7 +49,7 @@ Tú, que eres el jugador activo, ganas la partida. En este caso ambos jugadores 
 ### Duda 5
 - Mi oponente y yo empatados a dieciocho lores.
 - Me queda una carta en el mazo.
-- Juego [[Cartas de Lorcana#I2I|I2I]].
+- Juego [[02. Listado de Cartas/Set 9 - Fabled.md#I2I|I2I]].
 
 ¿Quién gana la partida?
 ### Respuesta

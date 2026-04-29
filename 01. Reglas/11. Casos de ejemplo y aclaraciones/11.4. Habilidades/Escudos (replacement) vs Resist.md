@@ -4,7 +4,7 @@
 
 ## ✅ Respuesta
 
-- **[[Cartas de Lorcana#Fire The Cannons!|Fire the Cannons!]]** genera un evento de “deal damage”.  
+- **[[02. Listado de Cartas/Set 1 - The First Chapter.md#Fire The Cannons!|Fire the Cannons!]]** genera un evento de “deal damage”.  
   Los **[[6.5. Efectos de Reemplazo (Replacement Effects)|Efectos de Reemplazo]]** se aplican cuando el evento *iba a ocurrir* y lo reemplazan antes de que el daño sea **hecho**.  
   Por eso, si el “escudo” de Lilo reemplaza/previene el daño, el daño nunca se llega a “hecho” y **Resist no llega a importar**.
 
@@ -16,7 +16,7 @@
 
 - **Fire the Cannons!**→ el “escudo” se aplica primero, **Resist no entra**.
 - **Desafío** → **Resist se aplica primero**; el “escudo” solo se aplica si aún queda daño por infligir.
-- La interacción con resist es aplicable también a habilidades como las de [[Cartas de Lorcana#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]] y [[Cartas de Lorcana#Hercules - Mighty Leader|Hercules - Mighty Leader]] en lo que refiere a perder el escudo si tienen resist.
+- La interacción con resist es aplicable también a habilidades como las de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]] y [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hercules - Mighty Leader|Hercules - Mighty Leader]] en lo que refiere a perder el escudo si tienen resist.
 #Resist #Replacement-Effect #challenge
 
 ---

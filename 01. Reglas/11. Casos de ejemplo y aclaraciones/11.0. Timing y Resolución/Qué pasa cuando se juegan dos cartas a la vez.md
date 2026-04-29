@@ -10,9 +10,9 @@ Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efec
 [Rulebook Quiz](https://discord.com/channels/1239209810654793730/1282749023643762688/1401659810348531872)
 
 ### Duda 2
-- Juego [[Cartas de Lorcana#The Return of Hercules|The Return of Hercules]].
-- Yo voy a poner en juego [[Cartas de Lorcana#Hans - Noble Scoundrel|Hans - Noble Scoundrel]].
-- Mi oponente va a poner en juego [[Cartas de Lorcana#Anna - Magical Mission|Anna - Magical Mission]].
+- Juego [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#The Return of Hercules|The Return of Hercules]].
+- Yo voy a poner en juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Hans - Noble Scoundrel|Hans - Noble Scoundrel]].
+- Mi oponente va a poner en juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Anna - Magical Mission|Anna - Magical Mission]].
 
 La habilidad de Hans iría a la bolsa y cuando se resuelva ganaría el lore correspondiente ¿No?
 

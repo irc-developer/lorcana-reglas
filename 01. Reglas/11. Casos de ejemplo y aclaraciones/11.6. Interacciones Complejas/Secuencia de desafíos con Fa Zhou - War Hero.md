@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Controlo [[Cartas de Lorcana#Fa Zhou - War Hero|Fa Zhou - War Hero]].  
+Controlo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Fa Zhou - War Hero|Fa Zhou - War Hero]].  
 Si primero desafío a una localización y después a un personaje agotado, ¿cumplo la secuencia para obtener el lore adicional de su habilidad?
 
 ---
@@ -25,7 +25,7 @@ La condición mira que haya ocurrido un desafío previo en el turno y que el des
 1. **Coste**: declaras el primer desafío (puede ser a localización).
 2. **Objetivos**: eliges objetivo legal del primer y segundo desafío.
 3. **Resolución**: se completan ambos desafíos en orden.
-4. **Disparos**: la habilidad de [[Cartas de Lorcana#Fa Zhou - War Hero|Fa Zhou - War Hero]] se evalúa con las condiciones del texto.
+4. **Disparos**: la habilidad de [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Fa Zhou - War Hero|Fa Zhou - War Hero]] se evalúa con las condiciones del texto.
 5. **GSC**: se verifica estado del juego tras cada desafío y tras la resolución de triggers.
 
 ---

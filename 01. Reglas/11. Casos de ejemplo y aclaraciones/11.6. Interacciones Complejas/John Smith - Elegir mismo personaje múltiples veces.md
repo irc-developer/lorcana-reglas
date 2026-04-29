@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-¿Puedo elegir a [[Cartas de Lorcana#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] varias veces en una elección múltiple? Por ejemplo, si un efecto dice "elige hasta 3 personajes", ¿puedo elegir a John Smith 3 veces?
+¿Puedo elegir a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] varias veces en una elección múltiple? Por ejemplo, si un efecto dice "elige hasta 3 personajes", ¿puedo elegir a John Smith 3 veces?
 
 ---
 

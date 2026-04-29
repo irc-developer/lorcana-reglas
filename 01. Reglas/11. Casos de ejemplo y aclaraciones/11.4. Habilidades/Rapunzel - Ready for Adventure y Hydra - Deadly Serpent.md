@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-¿Previene [[Cartas de Lorcana#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]] el daño que [[Cartas de Lorcana#Hydra - Deadly Serpent|Hydra - Deadly Serpent]] intenta infligir con su habilidad? ¿Se impide que se dispare WATCH THE TEETH? ¿Depende de si el daño ocurre en un challenge o fuera?
+¿Previene [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]] el daño que [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Hydra - Deadly Serpent|Hydra - Deadly Serpent]] intenta infligir con su habilidad? ¿Se impide que se dispare WATCH THE TEETH? ¿Depende de si el daño ocurre en un challenge o fuera?
 
 ## ✅ Respuesta
 

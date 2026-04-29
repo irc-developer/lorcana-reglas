@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-Si uso [[Cartas de Lorcana#Lonely Grave|Lonely Grave]] y pago su habilidad desterrando a [[Cartas de Lorcana#Olaf - Helping Hand|Olaf - Helping Hand]], ¿puedo poner primero la carta superior del mazo debajo de un [[Cartas de Lorcana#Scrooge McDuck - Ghostly Ebenezer|Scrooge]] con Boost y, después, resolver la habilidad de Olaf para devolver ese mismo Scrooge a la mano con esa carta adicional debajo?
+Si uso [[02. Listado de Cartas/Set 11 - Winterspell.md#Lonely Grave|Lonely Grave]] y pago su habilidad desterrando a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Olaf - Helping Hand|Olaf - Helping Hand]], ¿puedo poner primero la carta superior del mazo debajo de un [[02. Listado de Cartas/Set 11 - Winterspell.md#Scrooge McDuck - Ghostly Ebenezer|Scrooge]] con Boost y, después, resolver la habilidad de Olaf para devolver ese mismo Scrooge a la mano con esa carta adicional debajo?
 
 ---
 
@@ -25,10 +25,10 @@ Si Scrooge tiene cartas debajo cuando vuelve a la mano, todas esas cartas van co
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: activas [[Cartas de Lorcana#Lonely Grave|Lonely Grave]], lo exertas y destierras a [[Cartas de Lorcana#Olaf - Helping Hand|Olaf - Helping Hand]] como parte del coste.
+1. **Coste**: activas [[02. Listado de Cartas/Set 11 - Winterspell.md#Lonely Grave|Lonely Grave]], lo exertas y destierras a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Olaf - Helping Hand|Olaf - Helping Hand]] como parte del coste.
 2. **Disparo generado**: Olaf sale del juego y su habilidad **SECOND CHANCE** entra en la bolsa.
 3. **Resolución del efecto actual**: como todavía se está resolviendo la habilidad de Lonely Grave, ese trigger no se resuelve aún.
-4. **Efecto de Lonely Grave**: pones la carta superior de tu mazo boca abajo debajo de uno de tus personajes o localizaciones con Boost, por ejemplo [[Cartas de Lorcana#Scrooge McDuck - Ghostly Ebenezer|Scrooge McDuck - Ghostly Ebenezer]].
+4. **Efecto de Lonely Grave**: pones la carta superior de tu mazo boca abajo debajo de uno de tus personajes o localizaciones con Boost, por ejemplo [[02. Listado de Cartas/Set 11 - Winterspell.md#Scrooge McDuck - Ghostly Ebenezer|Scrooge McDuck - Ghostly Ebenezer]].
 5. **Bolsa**: una vez terminado el efecto de Lonely Grave, resuelves la habilidad de Olaf y puedes elegir a ese Scrooge para devolverlo a tu mano.
 6. **Movimiento de pila**: como Scrooge es la carta superior de la pila, todas las cartas que estuvieran debajo se mueven con él a la mano.
 7. **GSC**: tras cada resolución, se comprueba el estado del juego con normalidad.

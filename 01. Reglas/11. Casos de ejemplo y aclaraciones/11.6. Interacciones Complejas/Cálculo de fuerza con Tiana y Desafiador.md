@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-El oponente controla [[Cartas de Lorcana#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] agotada y otros personajes agotados.  
+El oponente controla [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] agotada y otros personajes agotados.  
 Declaro un desafío con un personaje que tiene Challenger +2 y se dispara el efecto de Tiana; decido no pagar los 3 de tinta que pide.  
 ¿Cómo se calcula la fuerza final del personaje desafiador?
 

@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-- **Caso 1:** En juego y seco tengo [[Cartas de Lorcana#Jafar - Keeper of Secrets|Jafar - Keeper of Secrets]] y una [[Cartas de Lorcana#Queen of Hearts - Sensing Weakness|Queen of Hearts - Sensing Weakness]]. ¿Qué fuerza tendrá mi Jafar cuando pasemos al Paso de daño por desafío?
+- **Caso 1:** En juego y seco tengo [[02. Listado de Cartas/Set 1 - The First Chapter.md#Jafar - Keeper of Secrets|Jafar - Keeper of Secrets]] y una [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Queen Of Hearts - Sensing Weakness|Queen of Hearts - Sensing Weakness]]. ¿Qué fuerza tendrá mi Jafar cuando pasemos al Paso de daño por desafío?
 
 - **Caso 2:** El número de cartas + 1 debido a que se robará antes de dicho paso de daños.
 

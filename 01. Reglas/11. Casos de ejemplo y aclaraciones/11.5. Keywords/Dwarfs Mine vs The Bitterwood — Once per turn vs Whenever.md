@@ -1,7 +1,7 @@
 ﻿## ❓ Duda
 
-¿La habilidad de [[Cartas de Lorcana#Dwarfs' Mine - Secure Fortress|Dwarfs' Mine - Secure Fortress]] puede dispararse varias veces en el mismo turno si cada vez muevo un personaje distinto?  
-¿Cómo se compara con textos tipo “whenever” como [[Cartas de Lorcana#The Bitterwood - Underground Forest|The Bitterwood - Underground Forest]]?
+¿La habilidad de [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Seven Dwarfs' Mine - Secure Fortress|Seven Dwarfs' Mine - Secure Fortress]] puede dispararse varias veces en el mismo turno si cada vez muevo un personaje distinto?  
+¿Cómo se compara con textos tipo “whenever” como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Bitterwood - Underground Forest|The Bitterwood - Underground Forest]]?
 
 ---
 

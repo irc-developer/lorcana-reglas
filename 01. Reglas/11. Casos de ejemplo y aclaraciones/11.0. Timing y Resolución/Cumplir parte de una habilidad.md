@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-¿[[Cartas de Lorcana#Madame Medusa - Deceiving Partner|Madame Medusa - Deceiving Partner]] puede infligir daño aunque no exista un objetivo válido para devolver a la mano en esa misma resolución?
+¿[[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Madame Medusa - Deceiving Partner|Madame Medusa - Deceiving Partner]] puede infligir daño aunque no exista un objetivo válido para devolver a la mano en esa misma resolución?
 
 ---
 

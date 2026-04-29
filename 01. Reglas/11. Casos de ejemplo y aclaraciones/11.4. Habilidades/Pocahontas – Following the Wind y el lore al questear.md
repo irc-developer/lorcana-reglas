@@ -1,8 +1,8 @@
 ﻿## ❓ Duda
 
-Cuando la habilidad **WHAT IS MY PATH?** de [[02. Listado de Cartas/Cartas de Lorcana#Pocahontas - Following the Wind|Pocahontas – Following the Wind]] se dispara al questear, ¿qué valor de lore toma del personaje elegido? ¿El impreso en la carta o el valor actual incluyendo bonificaciones contextuales (localización, efectos continuos...)?
+Cuando la habilidad **WHAT IS MY PATH?** de [[02. Listado de Cartas/Set 11 - Winterspell.md#Pocahontas - Following the Wind|Pocahontas – Following the Wind]] se dispara al questear, ¿qué valor de lore toma del personaje elegido? ¿El impreso en la carta o el valor actual incluyendo bonificaciones contextuales (localización, efectos continuos...)?
 
-> *Ejemplo del caso planteado: [[02. Listado de Cartas/Cartas de Lorcana#Elsa - Ice Artisan|Elsa – Ice Artisan]] tiene {L} base 1 y está en una localización que le da +3 {L}. ¿Pocahontas gana 1 o 4 lore?*
+> *Ejemplo del caso planteado: [[02. Listado de Cartas/Set 11 - Winterspell.md#Elsa - Ice Artisan|Elsa – Ice Artisan]] tiene {L} base 1 y está en una localización que le da +3 {L}. ¿Pocahontas gana 1 o 4 lore?*
 
 ---
 

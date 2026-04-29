@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Mi oponente tiene dos personajes en zona de juego y yo juego [[Cartas de Lorcana#The Mob Song|The Mob Song]].  
+Mi oponente tiene dos personajes en zona de juego y yo juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#The Mob Song|The Mob Song]].  
 Si la carta permite elegir múltiples objetivos, ¿puedo elegir dos veces el mismo personaje para concentrar el efecto?
 
 ---
@@ -21,7 +21,7 @@ Cuando un efecto dice “hasta N” objetivos, no puedes elegir el mismo objetiv
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: juegas [[Cartas de Lorcana#The Mob Song|The Mob Song]] pagando su coste.
+1. **Coste**: juegas [[02. Listado de Cartas/Set 4 - Ursula's Return.md#The Mob Song|The Mob Song]] pagando su coste.
 2. **Objetivos**: eliges hasta el número indicado de objetivos legales, sin repetir el mismo objetivo.
 3. **Resolución**: aplicas el efecto a cada objetivo elegido.
 4. **Disparos**: si se generan habilidades disparadas, entran en la bolsa.

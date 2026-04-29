@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Tengo en zona de juego [[Cartas de Lorcana#The Magic Feather|The Magic Feather]] aplicando Evasive a un personaje.  
+Tengo en zona de juego [[02. Listado de Cartas/Set 9 - Fabled.md#The Magic Feather|The Magic Feather]] aplicando Evasive a un personaje.  
 Si juego un personaje con Shift sobre ese personaje, ¿conserva la palabra clave ganada por el efecto del objeto?
 
 ---
@@ -8,7 +8,7 @@ Si juego un personaje con Shift sobre ese personaje, ¿conserva la palabra clave
 ## ✅ Respuesta
 
 Sí.  
-Al hacer Shift, el nuevo personaje no hereda el texto impreso de la carta inferior, pero sí conserva los efectos que estaban aplicándose al personaje cuando entró mediante Shift. Por eso mantiene la palabra clave otorgada por [[Cartas de Lorcana#The Magic Feather|The Magic Feather]] mientras el efecto siga activo.
+Al hacer Shift, el nuevo personaje no hereda el texto impreso de la carta inferior, pero sí conserva los efectos que estaban aplicándose al personaje cuando entró mediante Shift. Por eso mantiene la palabra clave otorgada por [[02. Listado de Cartas/Set 9 - Fabled.md#The Magic Feather|The Magic Feather]] mientras el efecto siga activo.
 
 ---
 

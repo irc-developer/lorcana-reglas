@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Si al final de turno se disparan a la vez una habilidad de robo de [[Cartas de Lorcana#Scar - Finally King|Scar - Finally King]] y otra de [[Cartas de Lorcana#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] que depende de una condición de cartas en mano, ¿puedo resolver primero a Scar para robar y luego hacer que Clarabelle también robe por el estado inicial?
+Si al final de turno se disparan a la vez una habilidad de robo de [[02. Listado de Cartas/Set 9 - Fabled.md#Scar - Finally King|Scar - Finally King]] y otra de [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] que depende de una condición de cartas en mano, ¿puedo resolver primero a Scar para robar y luego hacer que Clarabelle también robe por el estado inicial?
 
 ---
 

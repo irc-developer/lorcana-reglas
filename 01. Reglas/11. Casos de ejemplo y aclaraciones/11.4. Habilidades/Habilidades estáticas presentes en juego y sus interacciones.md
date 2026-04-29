@@ -2,13 +2,13 @@
 
 ¿Si juego un personaje agotable y hay efectos de reemplazo en juego (de otras cartas o de la propia), cuál se aplica primero?
 
-**Ejemplo 1:** Juego [[Cartas de Lorcana#Maui - King of the Ocean|Maui - King of the Ocean]] (con evasión) cuando [[Cartas de Lorcana#Peter Pan - Ageless|Peter Pan]] está en juego dándole Rush a evasivos. ¿Entra con Rush?
+**Ejemplo 1:** Juego [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Maui - Half-Shark|Maui - Half-Shark]] (con evasión) cuando [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Peter Pan - Shadow Finder|Peter Pan - Shadow Finder]] está en juego dándole Rush a evasivos. ¿Entra con Rush?
 
-**Ejemplo 2:** Juego [[Cartas de Lorcana#Prince Eric - Ursula's Groom|Prince Eric]] con [[Cartas de Lorcana#Ursula - Eric's Bride|Ursula]] en juego, ambos se conocen. ¿Entra agotado?
+**Ejemplo 2:** Juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Prince Eric - Ursula's Groom|Prince Eric]] con [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Ursula - Eric's Bride|Ursula]] en juego, ambos se conocen. ¿Entra agotado?
 
 ## ✅ Respuesta
 
-**Caso 1 (Maui - King of the Ocean + Peter Pan):** Sí, en este contexto es correcto que el Maui entre con Rush. El efecto de reemplazo de Peter Pan (dar rush a los evasivos) es extrínseco (viene de otra carta), con lo que ya está activo sobre el Maui cuando entra en juego. El efecto de reemplazo actúa antes de considerarse "jugada completamente".
+**Caso 1 (Maui - Half-Shark + Peter Pan - Shadow Finder):** Sí, en este contexto es correcto que el Maui entre con Rush. El efecto de reemplazo de Peter Pan (dar rush a los evasivos) es extrínseco (viene de otra carta), con lo que ya está activo sobre el Maui cuando entra en juego. El efecto de reemplazo actúa antes de considerarse "jugada completamente".
 
 **Caso 2 (Prince Eric + Ursula - Eric's Bride):** No, no podría entrar agotado. A diferencia del anterior caso, la habilidad estática que le permite ganar bodyguard pertenece a la propia carta (intrínseca), con lo que hasta que está "jugada" no puede "ver" a Ursula. Entrará con bodyguard, pero el momento de aplicar el efecto de reemplazo "entrar agotado" ya ha pasado porque Prince Eric necesitaba "ver" a Ursula para activar su habilidad, lo que solo ocurre después de jugarse completamente.
 

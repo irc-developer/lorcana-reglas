@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-¿Puedo evitar la restricción de "Do your worst" de [[Cartas de Lorcana#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] jugando un efecto que dice "elige hasta X personajes" (choose up to X characters) e ignorando a John Smith?
+¿Puedo evitar la restricción de "Do your worst" de [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] jugando un efecto que dice "elige hasta X personajes" (choose up to X characters) e ignorando a John Smith?
 
 ---
 

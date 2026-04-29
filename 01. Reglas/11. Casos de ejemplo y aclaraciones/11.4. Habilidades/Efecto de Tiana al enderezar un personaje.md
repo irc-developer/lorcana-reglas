@@ -1,10 +1,10 @@
-## ❓ Duda
+﻿## ❓ Duda
 
 **Caso 1:**
-- El oponente tiene [[Cartas de Lorcana#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] en juego y agotada, además de otros personajes agotados.  
+- El oponente tiene [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] en juego y agotada, además de otros personajes agotados.  
 - Declaro [[01. Reglas/Glosario#Desafiar (challenge)|desafío]] sobre uno de los personajes agotados y, al dispararse la habilidad de Tiana, no pago los tres de tinta que se exigen.  
 
-Si enderezo mi personaje con la habilidad de [[Cartas de Lorcana#Sven - Reindeer Steed|Sven - Reindeer Steed]] ¿Perdería el −3? ¿Y si enderezo a Tiana?
+Si enderezo mi personaje con la habilidad de [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Sven - Reindeer Steed|Sven - Reindeer Steed]] ¿Perdería el −3? ¿Y si enderezo a Tiana?
 
 ---
 
@@ -20,7 +20,7 @@ El efecto de reemplazo sobre la fuerza del personaje **dura todo el turno**, ind
 
 **Definición: Efecto de reemplazo de duración**
 
-El efecto de daño reducido (−3 de fuerza) de [[Cartas de Lorcana#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] es un efecto de reemplazo que dura todo el turno. No se remueve si el personaje afectado se endereza.
+El efecto de daño reducido (−3 de fuerza) de [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] es un efecto de reemplazo que dura todo el turno. No se remueve si el personaje afectado se endereza.
 
 **Fundamento:**
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5 Efectos de Reemplazo]]

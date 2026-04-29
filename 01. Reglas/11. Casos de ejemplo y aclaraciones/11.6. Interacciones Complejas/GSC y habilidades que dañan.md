@@ -9,14 +9,14 @@ Sí, el efecto de Madame Medusa está bien aplicado. Aquí lo importante es cuan
 
 ---
 ## Duda 2
-Tengo en juego [[Cartas de Lorcana#Vanellope von Schweetz - Sugar Rush Champ|Vanellope von Schweetz - Sugar Rush Champ]] ya seca a la que le queda un punto de vida. La tengo en la ubicación [[Cartas de Lorcana#Sugar Rush Speedway - Starting Line|Sugar Rush Speedway - Starting Line]] y la agoto y le hago un punto de daño para moverla gratis a mi otra ubicación [[Cartas de Lorcana#Sugar Rush Speedway - Finish Line|Sugar Rush Speedway - Finish Line]] ¿Llega a entrar en la ubicación o muere al recibir el daño?
+Tengo en juego [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Vanellope von Schweetz - Sugar Rush Champ|Vanellope von Schweetz - Sugar Rush Champ]] ya seca a la que le queda un punto de vida. La tengo en la ubicación [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Sugar Rush Speedway - Starting Line|Sugar Rush Speedway - Starting Line]] y la agoto y le hago un punto de daño para moverla gratis a mi otra ubicación [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Sugar Rush Speedway - Finish Line|Sugar Rush Speedway - Finish Line]] ¿Llega a entrar en la ubicación o muere al recibir el daño?
 ## Respuesta
-Sí, se mueve a la otra ubicación, se dispara la habilidad de la segunda ubicación y se acaba de resolver la habilidad al entrar en la segunda ubicación. En este punto, una vez se ha resuelto toda la habilidad de [[Cartas de Lorcana#Sugar Rush Speedway - Starting Line|Sugar Rush Speedway - Starting Line]] (Pagar Coste -> Mover personaje a la ubicación -> Personaje movido) se hace la [[01. Reglas/1. Principios generales (Concepts)/1.9. Verificación del estado de la partida (Game State Check)|1.9. Verificación del estado de la partida (GSC)]], comprobando que el personaje ya ha alcanzado su voluntad en daños con lo que es desterrada.
+Sí, se mueve a la otra ubicación, se dispara la habilidad de la segunda ubicación y se acaba de resolver la habilidad al entrar en la segunda ubicación. En este punto, una vez se ha resuelto toda la habilidad de [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Sugar Rush Speedway - Starting Line|Sugar Rush Speedway - Starting Line]] (Pagar Coste -> Mover personaje a la ubicación -> Personaje movido) se hace la [[01. Reglas/1. Principios generales (Concepts)/1.9. Verificación del estado de la partida (Game State Check)|1.9. Verificación del estado de la partida (GSC)]], comprobando que el personaje ya ha alcanzado su voluntad en daños con lo que es desterrada.
 #gsc #location #lethal-damage #movement
 
 ## Duda 3
-- En mesa tengo [[Cartas de Lorcana#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]].
-- Juego [[Cartas de Lorcana#Hades - Ruthless Tyrant|Hades - Ruthless Tyrant]].
+- En mesa tengo [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]].
+- Juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Hades - Ruthless Tyrant|Hades - Ruthless Tyrant]].
 
 ¿Puedo hacerle dos daños a mi Magic Broom para robar dos cartas y después sacrificarla para robar una antes 
 ## Respuesta

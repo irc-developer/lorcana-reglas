@@ -1,6 +1,6 @@
-	## ❓ Duda
+﻿	## ❓ Duda
 
-Si juego [[Cartas de Lorcana#Hades - Looking for a Deal|Hades - Looking for a Deal]] y elijo un personaje oponente que tiene cartas boca abajo debajo por Boost, y su controlador decide poner ese personaje en la parte inferior de su mazo en lugar de dejarme robar 2 cartas, ¿se miran esas cartas boca abajo? Y si hay varias cartas debajo, ¿en qué orden van al fondo del mazo?
+Si juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] y elijo un personaje oponente que tiene cartas boca abajo debajo por Boost, y su controlador decide poner ese personaje en la parte inferior de su mazo en lugar de dejarme robar 2 cartas, ¿se miran esas cartas boca abajo? Y si hay varias cartas debajo, ¿en qué orden van al fondo del mazo?
 
 ---
 
@@ -10,7 +10,7 @@ No se miran.
 
 Toda la pila se mueve junta al fondo del mazo porque el personaje elegido es la carta superior de una pila y las cartas que están debajo lo acompañan a la misma zona. Como esas cartas de Boost estaban boca abajo, siguen siendo información oculta durante el movimiento y nadie puede mirar su frontal.
 
-Además, como [[Cartas de Lorcana#Hades - Looking for a Deal|Hades - Looking for a Deal]] no dice “en cualquier orden”, no existe permiso para separar ni reordenar esa pila al ponerla en el mazo. La forma correcta de tratarlo es como un único bloque que conserva su orden relativo: el personaje elegido sigue siendo la carta superior del bloque y las cartas de Boost permanecen debajo de él en el mismo orden que ya tenían.
+Además, como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] no dice “en cualquier orden”, no existe permiso para separar ni reordenar esa pila al ponerla en el mazo. La forma correcta de tratarlo es como un único bloque que conserva su orden relativo: el personaje elegido sigue siendo la carta superior del bloque y las cartas de Boost permanecen debajo de él en el mismo orden que ya tenían.
 
 ---
 
@@ -27,7 +27,7 @@ La parte del orden final se obtiene por inferencia combinada: las cartas se muev
 
 ## 🔄 Secuencia oficial
 
-1. **Evento de inicio**: juegas [[Cartas de Lorcana#Hades - Looking for a Deal|Hades - Looking for a Deal]] y eliges un personaje oponente con una o más cartas debajo por Boost.
+1. **Evento de inicio**: juegas [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] y eliges un personaje oponente con una o más cartas debajo por Boost.
 2. **Elección del oponente**: el controlador de ese personaje decide poner esa carta en la parte inferior de su mazo en lugar de que robes 2 cartas.
 3. **Movimiento de pila**: como el personaje elegido es la carta superior de una pila, todas las cartas que estaban debajo se mueven con él a la misma zona.
 4. **Información oculta**: las cartas boca abajo puestas por Boost no se revelan durante ese movimiento.

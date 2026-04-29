@@ -1,15 +1,15 @@
 ﻿## ❓ Duda
 
-Con [[Cartas de Lorcana#Lilo - Bundled Up|Lilo - Bundled Up]], ¿se le puede poner contador de daño con [[Cartas de Lorcana#Malicious, Mean, and Scary|Malicious, Mean, and Scary]] la primera vez que se aplica?
+Con [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]], ¿se le puede poner contador de daño con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]] la primera vez que se aplica?
 
 ---
 
 ## ✅ Respuesta
 
-**No**, si es la primera vez en ese turno oponente que [[Cartas de Lorcana#Lilo - Bundled Up|Lilo - Bundled Up]] fuera a recibir daño.  
+**No**, si es la primera vez en ese turno oponente que [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]] fuera a recibir daño.  
 La habilidad **EXTRA LAYERS** previene esa primera instancia de *take damage*, y “take damage” incluye también daño **puesto** con contadores.
 
-Si [[Cartas de Lorcana#Lilo - Bundled Up|Lilo - Bundled Up]] ya recibió daño antes en ese mismo turno oponente, entonces **sí** se le puede poner el contador con [[Cartas de Lorcana#Malicious, Mean, and Scary|Malicious, Mean, and Scary]].
+Si [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]] ya recibió daño antes en ese mismo turno oponente, entonces **sí** se le puede poner el contador con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]].
 
 ---
 
@@ -25,8 +25,8 @@ Si no hay epígrafe directo para esta pareja concreta de cartas, se aplica infer
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: el oponente juega/canta [[Cartas de Lorcana#Malicious, Mean, and Scary|Malicious, Mean, and Scary]].
-2. **Objetivos**: no elige objetivo único; afecta a **each opposing character** (incluye a [[Cartas de Lorcana#Lilo - Bundled Up|Lilo - Bundled Up]]).
+1. **Coste**: el oponente juega/canta [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]].
+2. **Objetivos**: no elige objetivo único; afecta a **each opposing character** (incluye a [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]]).
 3. **Resolución**: el efecto intenta **put 1 damage counter** sobre cada personaje oponente.
 4. **Disparos**: antes de aplicar ese daño a Lilo, su replacement de “the first time ... would take damage ... takes no damage instead” reemplaza ese evento para ella (si aún no se consumió en ese turno oponente).
 5. **GSC**: se verifica estado del juego tras resolverse el efecto.

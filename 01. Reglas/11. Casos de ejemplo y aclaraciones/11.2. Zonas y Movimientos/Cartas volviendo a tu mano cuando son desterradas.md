@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Cuando una carta dice que “al ser desterrada” vuelve a tu mano (por ejemplo, [[Cartas de Lorcana#HeiHei - Persistent Presence|HeiHei - Persistent Presence]] o [[Cartas de Lorcana#Gale - Wind Spirit|Gale - Wind Spirit]]), ¿pasa primero por el descarte o vuelve directamente?  
+Cuando una carta dice que “al ser desterrada” vuelve a tu mano (por ejemplo, [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#HeiHei - Persistent Presence|HeiHei - Persistent Presence]] o [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Gale - Wind Spirit|Gale - Wind Spirit]]), ¿pasa primero por el descarte o vuelve directamente?  
 Y si esa carta estaba debajo de otra en una pila (por Boost), ¿se considera desterrada para disparar esa habilidad?
 
 ---

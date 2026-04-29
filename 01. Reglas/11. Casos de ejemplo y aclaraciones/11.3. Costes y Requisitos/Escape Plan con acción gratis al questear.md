@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-Si [[Cartas de Lorcana#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”—, ¿puedes jugar [[02. Listado de Cartas/Set 12 - Wilds Unknown#Escape Plan|Escape Plan]] usando esa misma habilidad?
+Si [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”—, ¿puedes jugar [[02. Listado de Cartas/Set 12 - Wilds Unknown#Escape Plan|Escape Plan]] usando esa misma habilidad?
 
 ---
 
@@ -10,7 +10,7 @@ Si [[Cartas de Lorcana#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa
 
 Escape Plan impone una restricción de juego: no puedes jugarla salvo que **2 o más cartas hayan sido puestas en tu descarte este turno**. Que otra carta te permita jugar una acción gratis no elimina esa restricción; solo sustituye el coste.
 
-En esta interacción, la carta de referencia es [[Cartas de Lorcana#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]], porque su habilidad primero te permite revelar y jugar una acción gratis y solo después pone el resto de cartas miradas en tu descarte.
+En esta interacción, la carta de referencia es [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]], porque su habilidad primero te permite revelar y jugar una acción gratis y solo después pone el resto de cartas miradas en tu descarte.
 
 Es verdad que la carta se juega **durante** la resolución del efecto inicial, no después. Pero eso no cambia el punto clave: la legalidad de jugar Escape Plan se comprueba **cuando llegas a la instrucción que te dice jugar esa acción**, usando el estado del juego que existe en ese momento. Las instrucciones posteriores del mismo efecto todavía no han ocurrido y no pueden “anticiparse” para cumplir la restricción.
 
@@ -61,7 +61,7 @@ Es el mismo principio por el que una acción no puede elegirse a sí misma desde
 
 ## 📝 Nota de alcance
 
-Este caso documenta la interacción usando como referencia el texto de [[Cartas de Lorcana#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]]: “Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.” La conclusión depende de ese orden exacto de instrucciones.
+Este caso documenta la interacción usando como referencia el texto de [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]]: “Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.” La conclusión depende de ese orden exacto de instrucciones.
 
 ---
 

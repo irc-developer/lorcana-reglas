@@ -1,13 +1,13 @@
 ﻿## ❓ Duda
 
-Si juego [[Cartas de Lorcana#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] sin cartas en la mano y controlo [[Cartas de Lorcana#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]] en zona de juego, ¿puedo resolver primero la habilidad de la escoba para robar y luego descartar con la habilidad de la cobra?
+Si juego [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] sin cartas en la mano y controlo [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]] en zona de juego, ¿puedo resolver primero la habilidad de la escoba para robar y luego descartar con la habilidad de la cobra?
 
 ---
 
 ## ✅ Respuesta
 
 **Sí.**  
-Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáneamente. Como son habilidades del jugador activo, eliges el orden de resolución entre ellas. Por tanto, puedes resolver primero la de [[Cartas de Lorcana#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]] para robar y después resolver la de [[Cartas de Lorcana#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] para descartar.
+Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáneamente. Como son habilidades del jugador activo, eliges el orden de resolución entre ellas. Por tanto, puedes resolver primero la de [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]] para robar y después resolver la de [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] para descartar.
 
 ---
 
@@ -21,7 +21,7 @@ Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáne
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: juegas [[Cartas de Lorcana#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] desde la mano pagando su coste.
+1. **Coste**: juegas [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] desde la mano pagando su coste.
 2. **Objetivos**: no hay objetivo obligatorio al añadirse las habilidades a la bolsa.
 3. **Resolución**: se añaden a la bolsa las habilidades disparadas de cobra y escoba; eliges resolver primero la escoba (robas) y luego la cobra (descartas).
 4. **Disparos**: cualquier nueva habilidad generada durante esas resoluciones se añade a la bolsa y se resuelve por el mismo proceso.

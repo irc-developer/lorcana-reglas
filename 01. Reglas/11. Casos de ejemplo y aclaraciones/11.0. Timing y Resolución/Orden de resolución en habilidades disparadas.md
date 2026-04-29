@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-Al final del turno, si se disparan a la vez una habilidad mía de [[Cartas de Lorcana#Cinderella - Dream Come True|Cinderella - Dream Come True]] y otra del oponente de [[Cartas de Lorcana#Goliath - Clan Leader|Goliath - Clan Leader]], ¿en qué orden se resuelven?
+Al final del turno, si se disparan a la vez una habilidad mía de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Cinderella - Dream Come True|Cinderella - Dream Come True]] y otra del oponente de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Goliath - Clan Leader|Goliath - Clan Leader]], ¿en qué orden se resuelven?
 
 ---
 

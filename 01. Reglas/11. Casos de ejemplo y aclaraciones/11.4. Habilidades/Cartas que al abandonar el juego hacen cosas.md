@@ -1,7 +1,7 @@
 ﻿## ❓ Duda
 
-Tengo en juego a [[Cartas de Lorcana#Chief Bogo - Commanding Officer|Chief Bogo - Commanding Officer]] y, además, dos personajes con Bodyguard.  
-Mi oponente juega [[Cartas de Lorcana#Be Prepared|Be Prepared]], por lo que se destierran todos los personajes.  
+Tengo en juego a [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Chief Bogo - Commanding Officer|Chief Bogo - Commanding Officer]] y, además, dos personajes con Bodyguard.  
+Mi oponente juega [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]], por lo que se destierran todos los personajes.  
 ¿Se dispara la habilidad de Chief Bogo por esos personajes con Bodyguard que abandonan la zona de juego al mismo tiempo?
 
 ---
@@ -11,7 +11,7 @@ Mi oponente juega [[Cartas de Lorcana#Be Prepared|Be Prepared]], por lo que se d
 Sí.  
 Entran dos instancias de la habilidad de Chief Bogo en la bolsa, una por cada uno de tus otros personajes con Bodyguard que fue desterrado.
 
-Cuando varias cartas abandonan la zona de juego a la vez, las habilidades disparadas “ven” a las demás cartas que abandonan junto con su fuente. Por eso, aunque todo salga simultáneamente por [[Cartas de Lorcana#Be Prepared|Be Prepared]], la habilidad se dispara por cada personaje aplicable.
+Cuando varias cartas abandonan la zona de juego a la vez, las habilidades disparadas “ven” a las demás cartas que abandonan junto con su fuente. Por eso, aunque todo salga simultáneamente por [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]], la habilidad se dispara por cada personaje aplicable.
 
 ---
 
@@ -25,7 +25,7 @@ Cuando varias cartas abandonan la zona de juego a la vez, las habilidades dispar
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: el oponente juega [[Cartas de Lorcana#Be Prepared|Be Prepared]] pagando su coste.
+1. **Coste**: el oponente juega [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] pagando su coste.
 2. **Objetivos**: no hay objetivos; la carta afecta al estado global de personajes en zona de juego.
 3. **Resolución**: todos los personajes son desterrados simultáneamente.
 4. **Disparos**: se comprueban habilidades disparadas por abandonar zona de juego; la de Chief Bogo se dispara una vez por cada “otro personaje” con Bodyguard que fue desterrado.

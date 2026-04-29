@@ -1,4 +1,4 @@
-## ❓ Duda
+﻿## ❓ Duda
 
 Si controlo a [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]], cuya habilidad dice "During challenges, your characters deal damage with their Willpower instead of their Strength", y uno de mis personajes ya tiene daño marcado, ¿ese daño reduce la cantidad de daño que hará en el desafío?
 
@@ -14,7 +14,7 @@ El daño marcado solo se cuenta contra la Willpower para comprobar si el persona
 
 Esta misma lógica también aclara una duda relacionada: [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]] no hace que tus personajes "tengan Fuerza igual a su Voluntad" ni cambia su característica de {S}. Solo cambia qué valor usan para hacer daño durante desafíos.
 
-Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de un personaje, como [[Cartas de Lorcana#Under the Sea|Under the Sea]], [[Cartas de Lorcana#Sisu - Empowered Sibling|Sisu - Empowered Sibling]] o [[Cartas de Lorcana#The Headless Horseman - Terror of Sleepy Hollow|The Headless Horseman - Terror of Sleepy Hollow]]. Si un personaje tiene 1 {S} y 4 {W}, con Dale seguirá siendo un personaje de 1 {S} para esos efectos, aunque en un desafío haría 4 de daño.
+Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de un personaje, como [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]], [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Sisu - Empowered Sibling|Sisu - Empowered Sibling]] o [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Headless Horseman - Terror of Sleepy Hollow|The Headless Horseman - Terror of Sleepy Hollow]]. Si un personaje tiene 1 {S} y 4 {W}, con Dale seguirá siendo un personaje de 1 {S} para esos efectos, aunque en un desafío haría 4 de daño.
 
 ---
 
@@ -43,7 +43,7 @@ La combinación de estas reglas lleva a esta conclusión:
 4. En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.2. Se hace el daño|4.6.6.2]], ambos personajes hacen daño simultáneamente.
 5. En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.3. GSC|4.6.6.3]] se comprueba si el daño total acumulado es igual o superior a la Willpower del personaje.
 6. Si lo es, se destierra según [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)#1.8.1.4. Daño sobre personajes o localizaciones|1.8.1.4]].
-7. Si después otro efecto como [[Cartas de Lorcana#Under the Sea|Under the Sea]] o [[Cartas de Lorcana#Sisu - Empowered Sibling|Sisu - Empowered Sibling]] mira la Fuerza de ese personaje, seguirá viendo su {S} real, no la {W} usada por Dale durante el desafío.
+7. Si después otro efecto como [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]] o [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Sisu - Empowered Sibling|Sisu - Empowered Sibling]] mira la Fuerza de ese personaje, seguirá viendo su {S} real, no la {W} usada por Dale durante el desafío.
 
 ---
 

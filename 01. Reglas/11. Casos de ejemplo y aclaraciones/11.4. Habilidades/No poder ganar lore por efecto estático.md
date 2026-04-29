@@ -1,7 +1,7 @@
 ﻿## ❓ Duda
 
-- En juego mi oponente tiene agotados un [[Cartas de Lorcana#Peter Pan - Never Land Prankster|Peter Pan - Never Land Prankster]].
-- Activo la habilidad de [[Cartas de Lorcana#Dumbo - Ninth Wonder of the Universe|Dumbo - Ninth Wonder of the Universe]], que me permite ganar un lore y robar una carta.
+- En juego mi oponente tiene agotados un [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Peter Pan - Never Land Prankster|Peter Pan - Never Land Prankster]].
+- Activo la habilidad de [[02. Listado de Cartas/Set 9 - Fabled.md#Dumbo - Ninth Wonder of the Universe|Dumbo - Ninth Wonder of the Universe]], que me permite ganar un lore y robar una carta.
 
 ¿Cómo se resolvería la habilidad?
 Siguiendo la [[1.2 Regla dorada o Golden Rule (Prioridad de reglas)]] resolvemos todo lo que podamos. En este caso, no podemos ganar el lore pero sí robar la carta.

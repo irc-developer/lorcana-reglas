@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-¿Estoy obligado a elegir a [[Cartas de Lorcana#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] si es un objetivo válido para un efecto que permite elegir cualquier personaje?
+¿Estoy obligado a elegir a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] si es un objetivo válido para un efecto que permite elegir cualquier personaje?
 
 ---
 

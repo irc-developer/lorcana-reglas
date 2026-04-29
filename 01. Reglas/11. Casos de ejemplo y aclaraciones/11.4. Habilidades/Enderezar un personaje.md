@@ -1,7 +1,7 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-- Tengo en juego una [[Cartas de Lorcana#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] enderezada, seca y con [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)|Temerario (Reckless)]] debido a un efecto del oponente.  
-- Juego a [[Cartas de Lorcana#Sven - Reindeer Steed|Sven - Reindeer Steed]].
+- Tengo en juego una [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] enderezada, seca y con [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)|Temerario (Reckless)]] debido a un efecto del oponente.  
+- Juego a [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Sven - Reindeer Steed|Sven - Reindeer Steed]].
 
 ¿Puedo enderezar mi Tiana (estando ya enderezada) para que la restricción de Sven impida que desafíe?
 

@@ -1,6 +1,6 @@
 ﻿## ❓ Duda
 
-En textos como el de [[Cartas de Lorcana#Goliath - Clan Leader|Goliath - Clan Leader]], ¿el pronombre “they” implica que el efecto aplica a ambos jugadores o solo al jugador referido por el propio texto?
+En textos como el de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Goliath - Clan Leader|Goliath - Clan Leader]], ¿el pronombre “they” implica que el efecto aplica a ambos jugadores o solo al jugador referido por el propio texto?
 
 ---
 

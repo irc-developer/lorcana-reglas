@@ -1,15 +1,15 @@
-## ❓ Duda
+﻿## ❓ Duda
 
 **Caso 1:**
-Al final del turno tengo un [[Cartas de Lorcana#Mr. Smee - Bumbling Mate|Mr. Smee - Bumbling Mate]] agotado con un daño sobre él y [[Cartas de Lorcana#Goofy - Groundbreaking Chef|Goofy - Groundbreaking Chef]].  
+Al final del turno tengo un [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Mr. Smee - Bumbling Mate|Mr. Smee - Bumbling Mate]] agotado con un daño sobre él y [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Goofy - Groundbreaking Chef|Goofy - Groundbreaking Chef]].  
 ¿Puedo resolver primero el curar y enderezar sobre Mr. Smee y así evitar su efecto?
 
 Y al revés: el Mr. Smee no tiene ningún daño.  
 ¿Puedo hacerle recibir el daño primero para luego curarlo y enderezarlo?
 
 **Caso 2:**
-- En mesa tengo [[Cartas de Lorcana#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] y dos cartas en mano.  
-- Mi oponente tiene un [[Cartas de Lorcana#Diablo - Devoted Herald|Diablo - Devoted Herald]] agotado y cuatro cartas en mano.  
+- En mesa tengo [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] y dos cartas en mano.  
+- Mi oponente tiene un [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] agotado y cuatro cartas en mano.  
 
 Declaro el final del turno, lo que hace que la habilidad de **Clarabelle** entre en la bolsa, permitiéndome robar dos cartas.  
 Como robo dos cartas, se dispara dos veces la habilidad del **Diablo**.  

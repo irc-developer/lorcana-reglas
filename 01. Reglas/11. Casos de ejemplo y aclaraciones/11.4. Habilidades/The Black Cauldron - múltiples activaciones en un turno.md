@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-Con [[02. Listado de Cartas/Cartas de Lorcana#The Black Cauldron|The Black Cauldron]], ¿puedo poner varias cartas de personaje desde mi descarte debajo del Caldero en el mismo turno pagando 1 {I} cada vez, o su primera habilidad solo permite poner 1 personaje por turno?
+Con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]], ¿puedo poner varias cartas de personaje desde mi descarte debajo del Caldero en el mismo turno pagando 1 {I} cada vez, o su primera habilidad solo permite poner 1 personaje por turno?
 
 ---
 
@@ -24,7 +24,7 @@ Eso sí: cada activación pone **solo 1 character card** desde tu descarte debaj
 
 ## 🔄 Secuencia oficial
 
-1. **Evento de inicio**: durante tu Fase Principal, decides usar **THE CAULDRON CALLS** de [[02. Listado de Cartas/Cartas de Lorcana#The Black Cauldron|The Black Cauldron]].
+1. **Evento de inicio**: durante tu Fase Principal, decides usar **THE CAULDRON CALLS** de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]].
 2. **Costes y requisitos**: compruebas que el item está ready y pagas **exert + 1 {I}**.
 3. **Elecciones y objetivos**: eliges una **character card** de tu descarte.
 4. **Resolución**: esa única carta se pone debajo del Caldero boca arriba.

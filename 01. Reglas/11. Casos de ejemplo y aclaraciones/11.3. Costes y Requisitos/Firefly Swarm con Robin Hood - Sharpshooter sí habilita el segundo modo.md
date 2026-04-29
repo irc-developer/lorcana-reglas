@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-Si [[Cartas de Lorcana#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”— y revelas [[02. Listado de Cartas/Set 12 - Wilds Unknown#Firefly Swarm|Firefly Swarm]], ¿puedes usar su segundo modo para desterrar cualquier personaje gracias a las cartas que Robin mandará al descarte al final del efecto?
+Si [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”— y revelas [[02. Listado de Cartas/Set 12 - Wilds Unknown#Firefly Swarm|Firefly Swarm]], ¿puedes usar su segundo modo para desterrar cualquier personaje gracias a las cartas que Robin mandará al descarte al final del efecto?
 
 ---
 
@@ -10,7 +10,7 @@ Si [[Cartas de Lorcana#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa
 
 La clave es distinguir entre **jugar** la acción y **resolver su efecto**.
 
-[[Cartas de Lorcana#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] te permite **jugar** una acción gratis durante la resolución de su habilidad. Pero, cuando la carta jugada de ese modo es una **acción**, su efecto no se resuelve en mitad de la frase de Robin. La regla [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.7.1]] aclara que el efecto de esa acción se resuelve **después** de que la carta o habilidad que te dijo jugarla haya terminado de resolverse.
+[[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] te permite **jugar** una acción gratis durante la resolución de su habilidad. Pero, cuando la carta jugada de ese modo es una **acción**, su efecto no se resuelve en mitad de la frase de Robin. La regla [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.7.1]] aclara que el efecto de esa acción se resuelve **después** de que la carta o habilidad que te dijo jugarla haya terminado de resolverse.
 
 Eso significa que la secuencia correcta es:
 

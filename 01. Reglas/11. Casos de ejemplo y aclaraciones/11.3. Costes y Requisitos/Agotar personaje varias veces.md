@@ -1,6 +1,6 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-Controlo [[Cartas de Lorcana#Mufasa - Betrayed Leader|Mufasa - Betrayed Leader]] y [[Cartas de Lorcana#Tinker Bell - Insistent Fairy|Tinker Bell - Insistent Fairy]]. Durante el turno oponente, Mufasa deja un personaje de fuerza 5+ en juego ya agotado.
+Controlo [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Mufasa - Betrayed Leader|Mufasa - Betrayed Leader]] y [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Tinker Bell - Insistent Fairy|Tinker Bell - Insistent Fairy]]. Durante el turno oponente, Mufasa deja un personaje de fuerza 5+ en juego ya agotado.
 
 ¿Puedo agotarlo otra vez para pagar el requisito de Tinker Bell?
 

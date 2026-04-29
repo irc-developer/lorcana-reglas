@@ -1,8 +1,8 @@
-## ❓ Duda
+﻿## ❓ Duda
 
 **Caso 1:**
 - Tengo un personaje agotado.  
-- Declaro desafío a un personaje agotado con mi [[Cartas de Lorcana#The Coachman - Greedy Deceiver|The Coachman - Greedy Deceiver]] a un personaje con [[01. Reglas/10. Palabras clave (Keywords)/10.6. Evasivo (Evasive)|evasivo]], ya que mi personaje gana evasivo cuando hay dos o más personajes agotados.  
+- Declaro desafío a un personaje agotado con mi [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#The Coachman - Greedy Deceiver|The Coachman - Greedy Deceiver]] a un personaje con [[01. Reglas/10. Palabras clave (Keywords)/10.6. Evasivo (Evasive)|evasivo]], ya que mi personaje gana evasivo cuando hay dos o más personajes agotados.  
 
 ¿Es correcta la jugada?
 

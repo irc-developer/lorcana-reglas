@@ -1,8 +1,8 @@
-## ❓ Duda
+﻿## ❓ Duda
 
-Tengo en juego [[Cartas de Lorcana#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] con su habilidad "Do your worst" activa (los oponentes deben elegir este personaje para acciones y habilidades si es posible).
+Tengo en juego [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] con su habilidad "Do your worst" activa (los oponentes deben elegir este personaje para acciones y habilidades si es posible).
 
-El oponente juega [[Cartas de Lorcana#Hypnotic Strength|Hypnotic Strength]] (acción que dice: "Roba una carta. Un personaje elegido gana Challenger +2 este turno").
+El oponente juega [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Hypnotic Strength|Hypnotic Strength]] (acción que dice: "Roba una carta. Un personaje elegido gana Challenger +2 este turno").
 
 ¿La habilidad de John Smith fuerza al oponente a aplicar Hypnotic Strength a John Smith?
 

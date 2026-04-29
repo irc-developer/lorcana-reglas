@@ -2,7 +2,7 @@
 
 Describe aquí la situación exacta de juego, incluyendo cartas implicadas, estado de mesa y acción que genera la duda.
 
-Al mencionar cartas, vincúlalas siempre con formato Obsidian: `[[Cartas de Lorcana#Nombre Exacto de Carta|Texto visible]]`.
+Al mencionar cartas, vincúlalas siempre al archivo de set correspondiente con formato Obsidian: `[[02. Listado de Cartas/Set X - Nombre del set.md#Nombre Exacto de Carta|Texto visible]]`.
 
 ---
 

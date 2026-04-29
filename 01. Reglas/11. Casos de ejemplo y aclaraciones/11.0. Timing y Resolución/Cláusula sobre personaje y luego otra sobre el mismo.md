@@ -6,8 +6,8 @@
 
 Sí, **siempre** que haya una cláusula que haga referencia a un personaje e, inmediatamente, tenga otra que contenga la palabra "the XXXX character" hacen referencia al mismo. En este caso, el personaje que ha sido seleccionado para ser agotado es el mismo que no se enderezará.
 Esto es aplicable también a:
-- [[Cartas de Lorcana#Elsa - Ice Maker|Elsa - Ice Maker]]
-- [[Cartas de Lorcana#Magic Broom - Dancing Duster|Magic Broom - Dancing Duster]]
+- [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Elsa - Ice Maker|Elsa - Ice Maker]]
+- [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Magic Broom - Dancing Duster|Magic Broom - Dancing Duster]]
 #clause #choosen-character #exert
 
 ---
