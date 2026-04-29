@@ -126,7 +126,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (32 casos)
+### 11.6. Interacciones Complejas (34 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -138,30 +138,32 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 6. [Cálculo de fuerza con Tiana y Desafiador.md](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
 7. [Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md](<11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md>)
 8. [Demona con Dale - Challenger no suma a la Voluntad.md](<11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md>)
-9. [Elsa – Spirit of Winter elegir personaje agotado.md](<11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md>)
-10. [Giant Cobra sin cartas en la mano.md](<11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md>)
-11. [GSC y el final de partida.md](<11.6. Interacciones Complejas/GSC y el final de partida.md>)
-12. [GSC y habilidades que dañan.md](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
-13. [Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md](<11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md>)
-14. [Horned King - Toca descarte antes de volver a mano.md](<11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md>)
-15. [John Smith - Choose up to X no evita restricción.md](<11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md>)
-16. [John Smith - Do your worst y restricción de elección.md](<11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md>)
-17. [John Smith - Elegir menos objetivos no esquiva restricción.md](<11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md>)
-18. [John Smith - Elegir mismo personaje múltiples veces.md](<11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md>)
-19. [John Smith - Obligado elegir si objetivo válido.md](<11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md>)
-20. [Lady - Miss Park Avenue shift.md](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>)
-21. [Legalidad de cartas firmadas.md](<11.6. Interacciones Complejas/Legalidad de cartas firmadas.md>)
-22. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
-23. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
-24. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
-25. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
-26. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
-27. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
-28. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
-29. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
-30. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
-31. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
-32. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
+9. [Demona con Diablo - Devoted Herald.md](<11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald.md>)
+10. [Elsa – Spirit of Winter elegir personaje agotado.md](<11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md>)
+11. [Giant Cobra sin cartas en la mano.md](<11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md>)
+12. [GSC y el final de partida.md](<11.6. Interacciones Complejas/GSC y el final de partida.md>)
+13. [GSC y habilidades que dañan.md](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
+14. [Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md](<11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md>)
+15. [Horned King - Toca descarte antes de volver a mano.md](<11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md>)
+16. [John Smith - Choose up to X no evita restricción.md](<11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md>)
+17. [John Smith - Do your worst y restricción de elección.md](<11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md>)
+18. [John Smith - Elegir menos objetivos no esquiva restricción.md](<11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md>)
+19. [John Smith - Elegir mismo personaje múltiples veces.md](<11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md>)
+20. [John Smith - Obligado elegir si objetivo válido.md](<11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md>)
+21. [Lady - Miss Park Avenue shift.md](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>)
+22. [Legalidad de cartas firmadas.md](<11.6. Interacciones Complejas/Legalidad de cartas firmadas.md>)
+23. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
+24. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
+25. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
+26. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
+27. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
+28. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
+29. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
+30. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
+31. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
+32. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
+33. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
+34. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
 
 ---
 
@@ -181,14 +183,14 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 24    | 19.7%   |
-| **11.2 Zonas y Movimientos**     | 17    | 13.9%   |
-| **11.3 Costes y Requisitos**     | 11    | 9.0%    |
-| **11.4 Habilidades**             | 22    | 18.0%   |
-| **11.5 Keywords**                | 11    | 9.0%    |
-| **11.6 Interacciones Complejas** | 32    | 26.2%   |
-| **11.7 Dudas por desarrollar**   | 5     | 4.1%    |
-| **TOTAL**                        | **122** | **100%** |
+| **11.0 Timing y Resolución**     | 24    | 19.4%   |
+| **11.2 Zonas y Movimientos**     | 17    | 13.7%   |
+| **11.3 Costes y Requisitos**     | 11    | 8.9%    |
+| **11.4 Habilidades**             | 22    | 17.7%   |
+| **11.5 Keywords**                | 11    | 8.9%    |
+| **11.6 Interacciones Complejas** | 34    | 27.4%   |
+| **11.7 Dudas por desarrollar**   | 5     | 4.0%    |
+| **TOTAL**                        | **124** | **100%** |
 
 ---
 

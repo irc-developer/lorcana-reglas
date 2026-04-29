@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si controlo a [[Cartas de Lorcana#Dale - Ready for His Shot|Dale - Ready for His Shot]], cuya habilidad hace que mis personajes hagan daño en los desafíos con su **Voluntad** en vez de con su **Fuerza**, y desafío con [[Cartas de Lorcana#Demona - Betrayer of the Clan|Demona - Betrayer of the Clan]], ¿su **Challenger** añade ese bono al daño que hará?
+Si controlo a [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]], cuya habilidad hace que mis personajes hagan daño en los desafíos con su **Voluntad** en vez de con su **Fuerza**, y desafío con [[Cartas de Lorcana#Demona - Betrayer of the Clan|Demona - Betrayer of the Clan]], ¿su **Challenger** añade ese bono al daño que hará?
 
 ---
 

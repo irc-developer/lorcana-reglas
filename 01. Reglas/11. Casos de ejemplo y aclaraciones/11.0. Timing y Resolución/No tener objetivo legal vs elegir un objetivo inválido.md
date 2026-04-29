@@ -68,7 +68,24 @@ Si controlas un personaje sin daño, ese personaje **sigue siendo un objetivo le
 
 Esto no es “no tener objetivo”. Es **tener un objetivo legal con resultado nulo**.
 
-### 4. Diferencia aplicada a un efecto secuencial
+### 4. Frase opcional que podría alcanzar a uno de tus personajes
+
+Three Arrows dice:
+
+“Deal 2 damage to chosen character. Then, you may deal 1 damage to another chosen character.”
+
+Si el oponente solo tiene un personaje legal para la primera frase, puedes elegirlo y hacerle 2 de daño.
+
+Al llegar a la segunda frase, no estás obligado a elegir a uno de tus personajes aunque sea el único "otro personaje" disponible, porque esa frase contiene **may** y por tanto es opcional.
+
+Eso sí: si decides hacer ese 1 de daño adicional, entonces debes elegir un personaje legal distinto del primero, y puede ser uno tuyo porque el texto no limita la propiedad del segundo objetivo.
+
+Este caso no es un problema de "objetivo inválido" sino de distinguir dos cosas:
+
+- una frase opcional que puedes no aplicar
+- y una elección que, si decides hacerla, debe respetar todas sus restricciones
+
+### 5. Diferencia aplicada a un efecto secuencial
 
 En [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC|Luisa Madrigal - I Can Take It, condición Then-if y GSC]], la segunda instrucción pide elegir un personaje rival.
 
@@ -77,7 +94,7 @@ En [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Compleja
 
 La diferencia no está en el texto de Luisa, sino en **si había o no había una elección legal disponible cuando llegó ese punto de la resolución**.
 
-### 5. Cuándo sí sería una acción ilegal
+### 6. Cuándo sí sería una acción ilegal
 
 Si una acción de turno exige desde su propio inicio un objetivo o destino legal para poder declararse correctamente, y ese requisito no existe, entonces no estamos ante un caso de “resolver sin efecto”, sino ante una **acción ilegal** en el sentido de [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.6. Acción ilegal|1.7.6]].
 
