@@ -12,7 +12,7 @@ Sí. Puedes mover un personaje a una localización el mismo turno en que esa loc
 
 La razón es que las localizaciones no usan el estado "drying". El secado solo existe para personajes. La acción de mover tampoco exige que la localización lleve en juego desde el inicio del turno; solo exige elegir uno de tus personajes y una de tus localizaciones, pagar el coste de mover y completar el movimiento.
 
-De hecho, las propias reglas dejan claro que una localización puede usarse el mismo turno en que se juega, y el ejemplo de [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.7. Jugando cartas como resultado de un efecto|6.7.7]] muestra precisamente una situación en la que juegas una localización y luego un personaje puede moverse allí gratis.
+De hecho, las propias reglas dejan claro que una localización puede usarse el mismo turno en que se juega, y el ejemplo de [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8. Jugando cartas como resultado de un efecto|6.7.8]] muestra precisamente una situación en la que juegas una localización y luego un personaje puede moverse allí gratis.
 
 Así que la respuesta corta es:
 
@@ -30,7 +30,7 @@ Así que la respuesta corta es:
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.11. Secándose (Drying)|5.1.1.11. Secarse es un estado de personajes, no de localizaciones]]
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.2.3.  Estados en la zona de juego - Localización|5.1.2.3. Las localizaciones entran en juego sin estado de ready, exerted ni drying]]
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.6. Localizaciones (Locations)#5.6.4. Entran secas|5.6.4. Una localización puede usarse el mismo turno en que se juega]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.7. Jugando cartas como resultado de un efecto|6.7.7. El ejemplo de Jim Hawkins confirma que una localización recién jugada ya puede recibir un movimiento]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8. Jugando cartas como resultado de un efecto|6.7.8. El ejemplo de Jim Hawkins confirma que una localización recién jugada ya puede recibir un movimiento]]
 
 ---
 

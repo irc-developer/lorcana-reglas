@@ -26,7 +26,7 @@ La consecuencia práctica es:
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Los efectos secuenciales siguen formando una única resolución y se hacen en orden]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Las elecciones se hacen cuando se llega a ellas]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.4. Cuarto paso - resolución del texto|6.7.2.4. El texto se resuelve entero y en el orden escrito]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. El texto se resuelve entero y en el orden escrito]]
 - [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)#8.15.1. Definición|8.15.1. Ward impide que los oponentes elijan esa carta al resolver un efecto]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.7. Corrección de jugadas|1.7.7. Si aun así se hace una elección ilegal, se retrocede hasta esa elección]]
 

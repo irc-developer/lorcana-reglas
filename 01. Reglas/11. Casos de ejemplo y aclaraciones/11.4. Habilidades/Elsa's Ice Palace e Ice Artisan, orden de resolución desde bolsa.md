@@ -18,7 +18,7 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 - Los objetivos se eligen **durante la resolución**, no cuando la habilidad entra a la bolsa
 - Por lo tanto: resuelves primero ENDLESS WINTER → agotas un personaje → luego resuelves ETERNAL WINTER con un objetivo válido
 
-**El requisito de objetivo legal ocurre en la resolución (6.7.2.4), no al añadir a la bolsa.**
+**El requisito de objetivo legal ocurre en la resolución (6.7.2.3), no al añadir a la bolsa.**
 
 ---
 
@@ -28,7 +28,7 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 - **Elsa - Ice Artisan** (ENDLESS WINTER): "When you play this character and whenever you play a location, **you may exert chosen character with 3 {S} or less**."
 - En [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]: "Si varias habilidades disparadas ocurren al mismo tiempo, **se añaden a la bolsa simultáneamente**."
 - En [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]: "Si alguna de esas habilidades disparadas pertenece al jugador activo, **este elige una de sus habilidades disparadas y la resuelve por completo**."
-- En [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.4. Cuarto paso - resolución del texto]]: "El jugador realiza las instrucciones del texto del efecto que se está resolviendo y **toma todas las decisiones requeridas por el efecto**."
+- En [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]: "El jugador realiza las instrucciones del texto del efecto que se está resolviendo y **toma las elecciones requeridas por el efecto que no se hayan hecho en el paso anterior**."
 - **Distinción crítica**: Los objetivos se eligen durante la resolución (paso 4 de 6.7.2), no cuando la habilidad entra a la bolsa (7.7.3.1)
 
 ---
@@ -44,13 +44,13 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 5. **Comprobación de la bolsa**: La bolsa verifica qué jugadores tienen habilidades
 6. **Yo soy el jugador activo**: Elijo el orden de resolución
 7. **Resuelvo primero ENDLESS WINTER**:
-   - Paso de resolución: Cuarto paso (6.7.2.4) - tomo la decisión de exertar
+   - Paso de resolución: Tercer paso (6.7.2.3) - tomo la decisión de exertar
    - Elijo un personaje contrario con 3 {S} o menos
    - Lo exerto
 8. **Game State Check**: Se completa la comprobación del estado del juego
 9. **Bolsa comprueba de nuevo**: Aún tengo ETERNAL WINTER en la bolsa
 10. **Resuelvo ETERNAL WINTER**:
-    - Paso de resolución: Cuarto paso (6.7.2.4) - tomo la decisión de elegir objetivo
+   - Paso de resolución: Tercer paso (6.7.2.3) - tomo la decisión de elegir objetivo
     - Ahora elijo el personaje que fue recién agotado por ENDLESS WINTER
     - La habilidad se resuelve válida
 11. **GSC final**: Se completa la comprobación del estado del juego

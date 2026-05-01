@@ -16,7 +16,7 @@ Zona no física donde esperan las habilidades disparadas antes de resolverse.
 **banish / banished (desterrar / desterrado)**  
 Cuando una carta pasa del juego al descarte por daño o efectos.
 
-**Beginning Phase (Fase Inicial)**  
+**Start-of-Turn Phase (Fase inicial del turno)**  
 La primera fase del turno: Ready, Set y Draw.
 
 **challenge (desafío)**  
@@ -61,6 +61,9 @@ Habilidad representada por un nombre corto en negrita.
 **location (localización)**  
 Carta con {W}, posible  ![[imagenes/lore.svg|20]] y coste de movimiento.
 
+**limiter (limitador)**  
+Algo que restringe el conjunto de opciones disponibles para un efecto. Por ejemplo, “Destierra un personaje elegido con 5 {S} o menos” añade el limitador “con 5 {S} o menos” al requisito de “personaje elegido”.
+
 **lore (lore)**  
 Recurso que los jugadores intentan alcanzar hasta 20.
 
@@ -69,6 +72,9 @@ La segunda fase del turno.
 
 **quest (hacer quest)**  
 Agotar un personaje para ganar lore.
+
+**requirement (requisito)**  
+Una elección o selección que debe hacerse siguiendo las instrucciones de la carta. Por ejemplo, “Destierra hasta 2 personajes elegidos” incluye el requisito de “hasta 2 personajes elegidos”. Algunos requisitos tienen limitadores que restringen el conjunto de opciones disponible.
 
 **replacement effect (efecto de reemplazo)**  
 Un efecto que sustituye a otro efecto.

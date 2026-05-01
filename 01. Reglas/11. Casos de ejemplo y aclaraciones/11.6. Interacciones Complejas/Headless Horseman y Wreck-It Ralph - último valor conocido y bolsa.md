@@ -28,7 +28,7 @@ La consecuencia práctica es esta:
 
 ## 📘 Fundamento en reglas
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.6. Último valor conocido|6.7.6. Último valor conocido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.7. Último valor conocido|6.7.7. Último valor conocido]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego|6.4.2.3. Fin inmediato del efecto al salir del juego]]
 - [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Los triggers creados durante una resolución esperan a que el efecto actual termine]]

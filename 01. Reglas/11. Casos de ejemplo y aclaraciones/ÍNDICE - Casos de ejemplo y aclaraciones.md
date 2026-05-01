@@ -1,12 +1,12 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 122 | **Última actualización:** 28 de abril de 2026
+**Total de casos:** 125 | **Última actualización:** 1 de mayo de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
-### 11.0. Timing y Resolución (24 casos)
+### 11.0. Timing y Resolución (25 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -34,6 +34,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 22. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
 23. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
 24. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
+25. [CR 2.1 - artefactos tipográficos del TXT y criterio de integración.md](<11.0. Timing y Resolución/CR 2.1 - artefactos tipográficos del TXT y criterio de integración.md>)
 
 ---
 
@@ -183,14 +184,14 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 24    | 19.4%   |
-| **11.2 Zonas y Movimientos**     | 17    | 13.7%   |
-| **11.3 Costes y Requisitos**     | 11    | 8.9%    |
-| **11.4 Habilidades**             | 22    | 17.7%   |
-| **11.5 Keywords**                | 11    | 8.9%    |
-| **11.6 Interacciones Complejas** | 34    | 27.4%   |
+| **11.0 Timing y Resolución**     | 25    | 20.0%   |
+| **11.2 Zonas y Movimientos**     | 17    | 13.6%   |
+| **11.3 Costes y Requisitos**     | 11    | 8.8%    |
+| **11.4 Habilidades**             | 22    | 17.6%   |
+| **11.5 Keywords**                | 11    | 8.8%    |
+| **11.6 Interacciones Complejas** | 34    | 27.2%   |
 | **11.7 Dudas por desarrollar**   | 5     | 4.0%    |
-| **TOTAL**                        | **124** | **100%** |
+| **TOTAL**                        | **125** | **100%** |
 
 ---
 

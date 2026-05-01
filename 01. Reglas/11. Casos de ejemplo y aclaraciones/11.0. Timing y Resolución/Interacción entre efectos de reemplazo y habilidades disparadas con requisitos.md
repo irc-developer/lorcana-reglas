@@ -14,7 +14,7 @@ Dado que la habilidad de Hades exige **hacer daño** al objetivo como condición
 ## 📘 Fundamento en reglas
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de cartas y efectos (Resolving Cards and Effects)|6.7.2.3. Cálculo del daño final]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de cartas y efectos (Resolving Cards and Effects)|6.7.3. Habilidades disparadas durante la resolución]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de cartas y efectos (Resolving Cards and Effects)|6.7.4. Habilidades disparadas durante la resolución]]
 
 ---
 

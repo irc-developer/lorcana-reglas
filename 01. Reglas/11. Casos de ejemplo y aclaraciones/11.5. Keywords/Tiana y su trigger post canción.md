@@ -13,8 +13,8 @@ Si una habilidad disparada ocurre durante la resolución de una acción, se aña
 
 ## 📘 Fundamento en reglas
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.4. Cuarto paso - resolución del texto|6.7.2.4. Cuarto paso - resolución del texto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.3. Habilidades disparadas por efecto de resolución|6.7.3. Habilidades disparadas por efecto de resolución]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Habilidades disparadas durante la resolución]]
 - [[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]
 
 ---

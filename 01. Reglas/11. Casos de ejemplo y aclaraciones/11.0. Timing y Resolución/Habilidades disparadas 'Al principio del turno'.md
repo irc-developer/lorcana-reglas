@@ -19,9 +19,9 @@ Sí en el primer caso y no en el segundo.
 
 ## 📘 Fundamento en reglas
 
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase de inicio (Beginning Phase)|3.2 Fase de inicio]]
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase de inicio (Beginning Phase)#3.2.1. Paso de Preparación (Ready step)|3.2.1 Ready step]]
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase de inicio (Beginning Phase)#3.2.2. Paso de Listo (Set step)|3.2.2 Set step]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2 Fase inicial del turno]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1. Preparado (Ready)|3.2.1 Ready step]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.2. Listo (Set)|3.2.2 Set step]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.4. Estructura Condicional 1, si Condicional 2, efecto|6.2.4 Condición secundaria al resolver]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7 Bolsa]]
 

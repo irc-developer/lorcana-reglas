@@ -39,7 +39,7 @@ Así que:
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.3.2 Las acciones se resuelven y luego van al descarte]]
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.4.1 Las habilidades "When you play this character" se añaden a la bolsa al entrar en juego]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4 Las habilidades "[Trigger Condition], if [Secondary Condition]" comprueban el if al resolverse]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.7 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.3.1 Si una habilidad se dispara mientras otro efecto se resuelve, espera en la bolsa hasta que el efecto actual termine]]
 
 ---

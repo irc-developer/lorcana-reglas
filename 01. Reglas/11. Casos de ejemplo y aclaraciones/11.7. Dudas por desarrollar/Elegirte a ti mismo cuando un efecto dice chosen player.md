@@ -27,7 +27,7 @@ No hay una regla general que convierta "player" en "otro jugador" por defecto.
 - [[01. Reglas/1. Principios generales/1.3. Jugadores (Players)#1.3.1. Definición|1.3.1. Jugador significa cualquier persona que participa en la partida]]
 - [[01. Reglas/1. Principios generales/1.3. Jugadores (Players)#1.3.3. Alcance de carta|1.3.3. Si el efecto menciona un tipo concreto de jugador, solo se refiere a ese tipo]]
 - [[01. Reglas/1. Principios generales/1.3. Jugadores (Players)#1.3.5.2. Aclaración|1.3.5.2. "Opponent" sí restringe expresamente a jugadores distintos del generador del efecto]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.4. Cuarto paso - resolución del texto|6.7.2.4. La elección se hace al resolver el texto que realmente aparece]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. La elección se hace al resolver el texto que realmente aparece]]
 
 ---
 

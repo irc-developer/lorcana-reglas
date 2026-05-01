@@ -15,7 +15,7 @@ Mientras se resuelve [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#All I
 
 - [[4.3. Jugar una carta (Play a Card)#4.3.3.2. Acciones|4.3.3.2. Acciones]]
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.1.2. Cartas que se juegan y se van|6.7.1.2. Cartas que se juegan y se van]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.4. Cuarto paso - resolución del texto|6.7.2.4. Cuarto paso - resolución del texto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
 
 ---
 

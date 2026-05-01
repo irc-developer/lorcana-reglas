@@ -24,10 +24,10 @@ En resumen:
 
 ## 📘 Fundamento en reglas
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.5. Jugador activo vs jugador no-activo|6.7.5. Si varios jugadores actúan, lo hacen en orden de turno dentro de la misma resolución]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.6. Jugador activo vs jugador no-activo|6.7.6. Si varios jugadores actúan, lo hacen en orden de turno dentro de la misma resolución]]
 - [[01. Reglas/9. Multijugador (Multiplayer)/9.2. Reglas adicionales de multijugador (Multiplayer Rules)#9.2.2. Resolver acciones de varios jugadores|9.2.2. En multijugador se procede hacia la izquierda, un jugador cada vez]]
 - [[01. Reglas/2. Juego (Gameplay)/2.1. General#2.1.3. Jugador inicial y jugador no inicial|2.1.3. El orden de turno en multijugador va hacia la izquierda]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.3. Habilidades disparadas por efecto de resolución|6.7.3. Los triggers creados durante esa resolución esperan]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Los triggers creados durante esa resolución esperan]]
 
 ---
 

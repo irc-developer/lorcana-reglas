@@ -28,8 +28,8 @@ Al jugar una carta por efecto, sigues el procedimiento normal de “jugar una ca
 
 ## 📘 Fundamento en reglas
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.7. Jugando cartas como resultado de un efecto|6.7.7. Jugando cartas como resultado de un efecto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.7.1. Orden de resolución de las acciones|6.7.7.1. Orden de resolución de las acciones]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8. Jugando cartas como resultado de un efecto|6.7.8. Jugando cartas como resultado de un efecto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8.1. Orden de resolución de las acciones|6.7.8.1. Orden de resolución de las acciones]]
 - [[4.3. Jugar una carta (Play a Card)#4.3.2.2. Modo de juego|4.3.2.2. Modo de juego]]
 - [[4.3. Jugar una carta (Play a Card)#4.3.3.2. Acciones|4.3.3.2. Acciones]]
 - [[8.12. Cantar Juntos (Sing Together)#8.12.1. Definición|8.12.1. Definición]]

@@ -14,7 +14,7 @@ Si un efecto te impide descartar, esa opción no puede completarse legalmente. D
 ## 📘 Fundamento en reglas
 
 - [[1.2. Regla de oro (Golden Rules)#1.2.2. Impedir por encima de permitir|1.2.2. Impedir por encima de permitir]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.4. Cuarto paso - resolución del texto|6.7.2.4. Cuarto paso - resolución del texto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
 
 ---
 
