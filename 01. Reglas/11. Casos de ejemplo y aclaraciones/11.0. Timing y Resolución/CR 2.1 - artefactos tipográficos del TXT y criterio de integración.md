@@ -9,6 +9,22 @@ Durante la revisión del TXT plano de CR 2.1 aparecen artefactos de espaciado y 
 - pérdidas de espacio en expresiones como `alleffects`, `topof`, `doesn't matter.There`
 - glifos de iconos mal exportados en reglas con símbolos, como 4.5.1.4, donde el original debe referirse al icono de lore y la extracción puede degradarlo hasta hacerlo parecer el de voluntad
 
+## Referencia rápida de símbolos extraídos
+
+La exportación a texto plano no conserva bien varios iconos del documento oficial. Como referencia práctica, estos son los casos más útiles al leer el TXT o la capa textual del PDF:
+
+| Símbolo o concepto original | Suele aparecer al extraer | Lectura correcta |
+| --- | --- | --- |
+| `{S}` | `#` | Fuerza |
+| `{W}` | `!` | Voluntad |
+| icono de exert | `!` | Agotar |
+| icono de lore | `!` | Lore |
+| `{C}` | `"` | Coste |
+| `{I}` | `"` | Inkwell |
+| `{M}` | `{M}` | Movimiento |
+
+La consecuencia es que `!` y `"` no pueden interpretarse de forma automática fuera de contexto. Cuando una frase habla de ganar lore, questear, exertar o comparar Willpower, el significado correcto hay que reconstruirlo por contexto y no por el carácter ASCII exportado.
+
 ## Criterio aplicado al integrar el repositorio
 
 - No se han tratado estos artefactos como cambios de reglas.

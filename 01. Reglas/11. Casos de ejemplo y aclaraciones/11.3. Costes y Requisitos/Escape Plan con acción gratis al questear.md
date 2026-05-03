@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”—, ¿puedes jugar [[02. Listado de Cartas/Set 12 - Wilds Unknown#Escape Plan|Escape Plan]] usando esa misma habilidad?
 

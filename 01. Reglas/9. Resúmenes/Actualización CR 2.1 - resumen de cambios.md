@@ -45,7 +45,7 @@ Este documento resume los cambios de reglas detectados en la actualización CR 2
 - Se han actualizado las reglas españolas afectadas por el change log oficial de 2.1.
 - Se ha reordenado [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7]] para reflejar la estructura y la numeración vigentes.
 - Se han rehecho los enlaces internos de las aclaraciones que apuntaban a la numeración anterior.
-- Se ha documentado por separado el criterio aplicado a las erratas y artefactos del TXT.
+- Se ha documentado por separado el criterio aplicado a las erratas y artefactos tipográficos detectados durante la integración.
 
 ---
 
@@ -55,5 +55,16 @@ Además de cambios normativos, la actualización 2.1 trae ajustes de calidad de 
 
 - “Beginning Phase” pasa a “Start-of-Turn Phase”.
 - “restriction” pasa a “limiter” cuando corresponde a selección o legalidad.
-- En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest)#4.5.1.4. Ganar lore|4.5.1.4]] la exportación a PDF/TXT puede degradar el icono correcto y hacer que el paso parezca hablar de voluntad. En contexto debe leerse como icono de lore. Véase [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/CR 2.1 - artefactos tipográficos del TXT y criterio de integración|la aclaración editorial]].
-- El TXT plano arrastra artefactos de espaciado que no deben leerse como cambios de reglas. Véase [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/CR 2.1 - artefactos tipográficos del TXT y criterio de integración|la aclaración editorial]].
+- En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest)#4.5.1.4. Ganar lore|4.5.1.4]] la extracción textual del material oficial puede degradar el icono correcto y hacer que el paso parezca hablar de voluntad. En contexto debe leerse como icono de lore. Véase la aclaración editorial recogida en [[01. Reglas/11. Casos de ejemplo y aclaraciones/ÍNDICE - Casos de ejemplo y aclaraciones|el índice de aclaraciones]].
+- La extracción textual arrastra artefactos de espaciado y glifos que no deben leerse como cambios de reglas. Véase la aclaración editorial recogida en [[01. Reglas/11. Casos de ejemplo y aclaraciones/ÍNDICE - Casos de ejemplo y aclaraciones|el índice de aclaraciones]].
+
+### Referencia rápida para símbolos extraídos
+
+| Texto extraído | Puede corresponder a |
+| --- | --- |
+| `#` | Fuerza |
+| `!` | Voluntad, lore o exert |
+| `"` | Coste o inkwell |
+| `{M}` | Movimiento |
+
+Esta equivalencia solo sirve como orientación rápida. En los casos dudosos, el símbolo correcto debe reconstruirse por contexto y, si hace falta, contrastarse con la aclaración editorial enlazada arriba.

@@ -21,6 +21,8 @@ La clave es distinguir dos tipos de efectos:
 
 **Genie – Magical Researcher** ({L} base 1+): su habilidad INCREASING WISDOM dice "This character gets +1 {L}" por carta bajo él → sí modifica la característica {L} → Pocahontas cuenta todo el valor actual.
 
+**John Silver – Greedy Treasure Seeker** ({L} base 1): su habilidad CHART YOUR OWN COURSE dice "For each location you have in play, this character gains Resist +1 and gets +1 {L}." Si controlas 2 localizaciones, John Silver tiene {L} actual 3. Si Pocahontas elige a ese John Silver exertado, ganarás **3 lore**, no 1, porque se está leyendo su {L} modificada en ese momento.
+
 ---
 
 ## 📘 Fundamento en reglas
