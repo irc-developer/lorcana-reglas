@@ -4,13 +4,13 @@
 
 ## ✅ Respuesta
 
-Sí. A la luz de la aclaración pública del diseñador de reglas, **mover daño equivale técnicamente a retirar daño del origen y poner ese mismo daño en el destino**, solo que el término "mover" lo escribe como una acción completa.
+Sí. La propia redacción actual de las **Comprehensive Rules** ya lo deja desarrollado: **mover daño implica quitar contadores de daño del origen y colocarlos en el destino**, aunque el juego siga tratando todo ello como una única acción de "mover daño".
 
 La forma más precisa de leerlo es esta:
 
 - **Retirar daño** describe quitar contadores de daño de un personaje o localización.
 - **Poner daño** describe colocar contadores de daño sobre un personaje o localización.
-- **Mover daño** combina ambas cosas: se retira daño del origen y se pone en el destino dentro de un único efecto de mover daño.
+- **Mover daño** sigue siendo un verbo propio de reglas, pero su definición ya incorpora esas dos operaciones: quitar del origen y poner en el destino.
 
 Por eso, cuando se mueve daño:
 
@@ -23,9 +23,9 @@ Lo que **no** cambia es el alcance de una instrucción. Si un efecto solo te dic
 
 ## 📘 Fundamento en reglas
 
-**Definición: mover daño está escrito como retirar del origen y poner en el destino**
+**Definición: la propia regla de Move ya desarrolla el quitar del origen y poner en el destino**
 
-La definición general del daño distingue los verbos "remove", "put" y "move", pero la propia definición de "move" desarrolla exactamente esas dos operaciones: quitar contadores de daño de un objeto y colocarlos sobre otro.
+La definición general del daño distingue los verbos "remove", "put" y "move", pero la propia definición de "move" ya desarrolla exactamente esas dos operaciones: quitar contadores de daño de un objeto y colocarlos sobre otro. Por eso esta lectura ya sale del texto de reglas, sin necesidad de apoyarse en una nota editorial adicional.
 
 **Definición: el destino del daño movido recibe daño**
 
@@ -44,18 +44,12 @@ Esto confirma que el daño movido no se trata como daño infligido, pero sigue s
 
 ---
 
-## 📝 Nota de diseño
-
-En una aclaración pública, RAV_Kyle explicó que la intención editorial era mantener paridad entre definiciones y evitar que "move" se definiera simplemente como "remove + put" sin desarrollar los términos. Precisamente por eso, indicó que **move sí equivale a remove más put, solo que escrito de forma desarrollada**.
-
----
-
 ## 🔄 Secuencia oficial
 
 1. Un efecto indica **mover** una cantidad de daño desde un origen válido a un destino válido.
 2. Al resolverse, esa cantidad de contadores de daño se **quita** del origen.
 3. Esos mismos contadores se **colocan** sobre el destino.
-4. Técnicamente, eso implica **retirar** daño del origen y **poner** daño en el destino dentro de la misma resolución.
+4. La propia definición de **Move** deja visible que eso incluye **retirar** daño del origen y **poner** daño en el destino dentro de la misma resolución.
 5. Cuando el efecto termina de resolverse, se hace el chequeo de estado del juego; si el destino tiene daño letal, será desterrado en ese momento.
 
 ---

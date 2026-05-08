@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 125 | **Última actualización:** 1 de mayo de 2026
+**Total de casos:** 132 | **Última actualización:** 7 de mayo de 2026
 
 ---
 
@@ -62,7 +62,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 
 ---
 
-### 11.3. Costes y Requisitos (12 casos)
+### 11.3. Costes y Requisitos (13 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -70,18 +70,19 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 2. [Cantar o jugar gratis cuenta como pagar 0 tinta.md](<11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md>)
 3. [Descartar como requisito para resolver una habilidad.md](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>)
 4. [Escape Plan con acción gratis al questear.md](<11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md>)
-5. [Hacerse daño como requisito.md](<11.3. Costes y Requisitos/Hacerse daño como requisito.md>)
-6. [Incrementar el coste de una carta gratis.md](<11.3. Costes y Requisitos/Incrementar el coste de una carta gratis.md>)
-7. [Jugar carta sin objetivo válido.md](<11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md>)
-8. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
-9. [Pagar costes en la fase de final de turno.md](<11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md>)
-10. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
-11. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
+5. [Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md](<11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md>)
+6. [Hacerse daño como requisito.md](<11.3. Costes y Requisitos/Hacerse daño como requisito.md>)
+7. [Incrementar el coste de una carta gratis.md](<11.3. Costes y Requisitos/Incrementar el coste de una carta gratis.md>)
+8. [Jugar carta sin objetivo válido.md](<11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md>)
+9. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
+10. [Pagar costes en la fase de final de turno.md](<11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md>)
+11. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
 12. [Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md](<11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md>)
+13. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
 
 ---
 
-### 11.4. Habilidades (22 casos)
+### 11.4. Habilidades (23 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -97,16 +98,17 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 10. [Habilidades estáticas presentes en juego y sus interacciones.md](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>)
 11. [Habilidades que contienen 'they'.md](<11.4. Habilidades/Habilidades que contienen 'they'.md>)
 12. [Habilidades y sus efectos.md](<11.4. Habilidades/Habilidades y sus efectos.md>)
-13. [Merida - Steady Aim y Resist.md](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
-14. [Next Stop Olympus, dos copias y lores.md](<11.4. Habilidades/Next Stop Olympus, dos copias y lores.md>)
-15. [No poder ganar lore por efecto estático.md](<11.4. Habilidades/No poder ganar lore por efecto estático.md>)
-16. [Performance Review y secado - cuando puedes agotar.md](<11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md>)
-17. [Pocahontas – Following the Wind y el lore al questear.md](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
-18. [Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md](<11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md>)
-19. [Shift y Webby's Diary - diferencia entre encima y debajo.md](<11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md>)
-20. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
-21. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
-22. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
+13. [Merida - Steady Aim con Grab Your Sword y Ward.md](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>)
+14. [Merida - Steady Aim y Resist.md](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
+15. [Next Stop Olympus, dos copias y lores.md](<11.4. Habilidades/Next Stop Olympus, dos copias y lores.md>)
+16. [No poder ganar lore por efecto estático.md](<11.4. Habilidades/No poder ganar lore por efecto estático.md>)
+17. [Performance Review y secado - cuando puedes agotar.md](<11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md>)
+18. [Pocahontas – Following the Wind y el lore al questear.md](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
+19. [Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md](<11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md>)
+20. [Shift y Webby's Diary - diferencia entre encima y debajo.md](<11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md>)
+21. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
+22. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
+23. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
 
 ---
 
@@ -128,7 +130,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (34 casos)
+### 11.6. Interacciones Complejas (38 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -136,37 +138,40 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 2. [Carta multicolor cumple efectos de uno de sus colores.md](<11.6. Interacciones Complejas/Carta multicolor cumple efectos de uno de sus colores.md>)
 3. [Cinderella - Dream Come True y múltiples princesas.md](<11.6. Interacciones Complejas/Cinderella - Dream Come True y múltiples princesas.md>)
 4. [Colors of the Wind - Resolución de robo múltiple.md](<11.6. Interacciones Complejas/Colors of the Wind - Resolución de robo múltiple.md>)
-5. [Copper y Reckless sin objetivos de ataque.md](<11.6. Interacciones Complejas/Copper y Reckless sin objetivos de ataque.md>)
-6. [Cálculo de fuerza con Tiana y Desafiador.md](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
-7. [Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md](<11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md>)
-8. [Demona con Dale - Challenger no suma a la Voluntad.md](<11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md>)
-9. [Demona con Diablo - Devoted Herald.md](<11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald.md>)
-10. [Elsa – Spirit of Winter elegir personaje agotado.md](<11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md>)
-11. [Giant Cobra sin cartas en la mano.md](<11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md>)
-12. [GSC y el final de partida.md](<11.6. Interacciones Complejas/GSC y el final de partida.md>)
-13. [GSC y habilidades que dañan.md](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
-14. [Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md](<11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md>)
-15. [Horned King - Toca descarte antes de volver a mano.md](<11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md>)
-16. [John Smith - Choose up to X no evita restricción.md](<11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md>)
-17. [John Smith - Do your worst y restricción de elección.md](<11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md>)
-18. [John Smith - Elegir menos objetivos no esquiva restricción.md](<11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md>)
-19. [John Smith - Elegir mismo personaje múltiples veces.md](<11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md>)
-20. [John Smith - Obligado elegir si objetivo válido.md](<11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md>)
-21. [Lady - Miss Park Avenue shift.md](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>)
-22. [Legalidad de cartas firmadas.md](<11.6. Interacciones Complejas/Legalidad de cartas firmadas.md>)
-23. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
-24. [Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md](<11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md>)
-25. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
-26. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
-27. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
-28. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
-29. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
-30. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
-31. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
-32. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
-33. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
-34. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
-35. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
+5. [Combo infinito opcional y perder tiempo.md](<11.6. Interacciones Complejas/Combo infinito opcional y perder tiempo.md>)
+6. [Copper y Reckless sin objetivos de ataque.md](<11.6. Interacciones Complejas/Copper y Reckless sin objetivos de ataque.md>)
+7. [Cálculo de fuerza con Tiana y Desafiador.md](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
+8. [Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md](<11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md>)
+9. [Demona con Dale - Challenger no suma a la Voluntad.md](<11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md>)
+10. [Demona con Diablo - Devoted Herald.md](<11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald.md>)
+11. [Elsa – Spirit of Winter elegir personaje agotado.md](<11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md>)
+12. [Fergus - Outpost Builder, Hold Fast y alcance del descarte.md](<11.6. Interacciones Complejas/Fergus - Outpost Builder, Hold Fast y alcance del descarte.md>)
+13. [Giant Cobra sin cartas en la mano.md](<11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md>)
+14. [GSC y el final de partida.md](<11.6. Interacciones Complejas/GSC y el final de partida.md>)
+15. [GSC y habilidades que dañan.md](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
+16. [Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md](<11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md>)
+17. [Horned King - Toca descarte antes de volver a mano.md](<11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md>)
+18. [John Smith - Choose up to X no evita restricción.md](<11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md>)
+19. [John Smith - Do your worst y restricción de elección.md](<11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md>)
+20. [John Smith - Elegir menos objetivos no esquiva restricción.md](<11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md>)
+21. [John Smith - Elegir mismo personaje múltiples veces.md](<11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md>)
+22. [John Smith - Obligado elegir si objetivo válido.md](<11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md>)
+23. [Lady - Miss Park Avenue shift.md](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>)
+24. [Legalidad de cartas firmadas.md](<11.6. Interacciones Complejas/Legalidad de cartas firmadas.md>)
+25. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
+26. [Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md](<11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md>)
+27. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
+28. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
+29. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
+30. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
+31. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
+32. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
+33. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
+34. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
+35. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
+36. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
+37. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
+38. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
 
 ---
 
@@ -186,14 +191,14 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 25    | 19.8%   |
-| **11.2 Zonas y Movimientos**     | 17    | 13.5%   |
-| **11.3 Costes y Requisitos**     | 12    | 9.5%    |
-| **11.4 Habilidades**             | 22    | 17.5%   |
-| **11.5 Keywords**                | 11    | 8.7%    |
-| **11.6 Interacciones Complejas** | 34    | 27.0%   |
-| **11.7 Dudas por desarrollar**   | 5     | 4.0%    |
-| **TOTAL**                        | **126** | **100%** |
+| **11.0 Timing y Resolución**     | 25    | 18.9%   |
+| **11.2 Zonas y Movimientos**     | 17    | 12.9%   |
+| **11.3 Costes y Requisitos**     | 13    | 9.8%    |
+| **11.4 Habilidades**             | 23    | 17.4%   |
+| **11.5 Keywords**                | 11    | 8.3%    |
+| **11.6 Interacciones Complejas** | 38    | 28.8%   |
+| **11.7 Dudas por desarrollar**   | 5     | 3.8%    |
+| **TOTAL**                        | **132** | **100%** |
 
 ---
 
@@ -201,7 +206,7 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 ### Por mecánica de cartas
 - **Tiana**: [Efecto de Tiana...](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>) | [Tiana y Rapunzel...](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>) | [Cálculo fuerza Tiana...](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
-- **Merida**: [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
+- **Merida**: [Merida - Steady Aim con Grab Your Sword y Ward](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>) | [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
 - **Rapunzel**: [Rapunzel pierde protección...](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
 - **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
 
