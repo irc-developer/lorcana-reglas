@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 132 | **Última actualización:** 7 de mayo de 2026
+**Total de casos:** 133 | **Última actualización:** 11 de mayo de 2026
 
 ---
 
@@ -38,27 +38,28 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
 ---
 
-### 11.2. Zonas y Movimientos (17 casos)
+### 11.2. Zonas y Movimientos (18 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
 1. [Acciones en el descarte.md](<11.2. Zonas y Movimientos/Acciones en el descarte.md>)
 2. [Anna - Braving the Storm no funciona en descarte.md](<11.2. Zonas y Movimientos/Anna - Braving the Storm no funciona en descarte.md>)
-3. [Be Prepared y devolver personajes a la mano.md](<11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano.md>)
-4. [Carta que me impide el descarte vs carta que me indica descartar.md](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>)
-5. [Cartas volviendo a tu mano cuando son desterradas.md](<11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md>)
-6. [Desterrar y volver a la mano desde la zona de juego.md](<11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md>)
-7. [Elegir 0 cartas para barajar en el mazo no baraja el mazo.md](<11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md>)
-8. [Escoger robar la carta superior o no.md](<11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md>)
-9. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
-10. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
-11. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
-12. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
-13. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
-14. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
-15. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
-16. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
-17. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
+3. [Be Prepared con Sid Phillips - Toy Surgeon.md](<11.2. Zonas y Movimientos/Be Prepared con Sid Phillips - Toy Surgeon.md>)
+4. [Be Prepared y devolver personajes a la mano.md](<11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano.md>)
+5. [Carta que me impide el descarte vs carta que me indica descartar.md](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>)
+6. [Cartas volviendo a tu mano cuando son desterradas.md](<11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md>)
+7. [Desterrar y volver a la mano desde la zona de juego.md](<11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md>)
+8. [Elegir 0 cartas para barajar en el mazo no baraja el mazo.md](<11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md>)
+9. [Escoger robar la carta superior o no.md](<11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md>)
+10. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
+11. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
+12. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
+13. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
+14. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
+15. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
+16. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
+17. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
+18. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
 
 ---
 
@@ -191,14 +192,14 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 25    | 18.9%   |
-| **11.2 Zonas y Movimientos**     | 17    | 12.9%   |
+| **11.0 Timing y Resolución**     | 25    | 18.8%   |
+| **11.2 Zonas y Movimientos**     | 18    | 13.5%   |
 | **11.3 Costes y Requisitos**     | 13    | 9.8%    |
-| **11.4 Habilidades**             | 23    | 17.4%   |
+| **11.4 Habilidades**             | 23    | 17.3%   |
 | **11.5 Keywords**                | 11    | 8.3%    |
-| **11.6 Interacciones Complejas** | 38    | 28.8%   |
+| **11.6 Interacciones Complejas** | 38    | 28.6%   |
 | **11.7 Dudas por desarrollar**   | 5     | 3.8%    |
-| **TOTAL**                        | **132** | **100%** |
+| **TOTAL**                        | **133** | **100%** |
 
 ---
 
