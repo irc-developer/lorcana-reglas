@@ -1,271 +1,212 @@
 # Arquitectura de Skills - Agente Lorcana
 
-Estado: Borrador operativo v1  
-Fecha: 2026-03-18
+Estado: Documento de diseño  
+Fecha de actualización: 2026-05-13  
+Origen del borrador: 2026-03-18
 
-## Objetivo
+> Este archivo describe el diseño objetivo. No es un agente activo ni una skill cargable. La customización operativa del workspace vive en `.github/`.
 
-Separar el agente en skills especializados para aumentar consistencia, trazabilidad y calidad de ruling:
+## Estado actual
 
-1. Skill de búsqueda de reglas.
-2. Skill de búsqueda y normalización de cartas.
-3. Skill de resolución (ruling engine).
-4. Skill de documentación final.
-5. Orquestador que controla el flujo.
+### Qué está implementado hoy
 
----
+- Instrucciones modulares en `.github/instructions/` para alcance, aclaración, verificación de cartas, timing, robos, casos, tags, enlaces y saneado de archivos.
+- Skills activas en `.github/skills/` para importación de sets, seeds SQL de preguntas y actualización de portada e índices.
+- Consolidación de la lógica de preguntas en la skill local del repositorio, sin depender ya de la skill global duplicada.
+- Un primer agente mínimo de rulings en `.github/agents/lorcana-ruling.agent.md`.
 
-## Principios globales (heredados)
+### Qué no está implementado todavía
 
-- Alcance normativo: solo `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
-- `01.1.a Official English Reference – Unmodified` es la autoridad normativa primaria.
-- La fuente de verdad para texto exacto de cartas es `02. Listado de Cartas/Cartas de Lorcana.md`.
-- No se puede consultar ni usar ninguna carpeta fuera de esas fuentes permitidas para resolver, documentar o verificar.
-- Casos del bloque 11: apoyo interpretativo, nunca por encima de reglas base.
-- Resúmenes del bloque 12: material docente.
-- Citas de reglas: formato Obsidian con epígrafe/ancla.
-- Léxico de zonas obligatorio:
-  - discard = descarte / zona de descarte
-  - hand = mano
-  - play = zona de juego
-  - inkwell = pozo de tinta
-- Si falta dato crítico: preguntar antes del ruling final.
+- No existe un orquestador real que encadene subagentes o fases con contratos formales.
+- No existe una skill separada de `Rule Finder`, `Card Finder`, `Ruling Engine` o `Case Writer` como componentes ejecutables autónomos.
+- No hay prompts de workspace específicos para activación corta del flujo de ruling.
 
----
+### Cómo se resuelve hoy el trabajo
 
-## Skill 1 — Rule Finder
+El flujo actual se apoya en una combinación de:
 
-### Propósito
-Identificar epígrafes normativos relevantes y conflictos documentales.
+1. instrucciones modulares que fijan el criterio;
+2. skills puntuales para tareas repetibles;
+3. un agente mínimo de rulings que ya documenta el caso tras cada duda resuelta, aunque todavía sin orquestador dedicado.
 
-### Entrada
-```json
-{
-  "question": "texto de duda",
-  "knownFacts": ["hecho1", "hecho2"],
-  "language": "es",
-  "scope": "01.Reglas"
-}
-```
+Esto funciona para el estado actual del repositorio, pero no expresa todavía una arquitectura formal de ejecución de rulings.
 
-### Salida
-```json
-{
-  "primaryRules": [
-    {
-      "ref": "[[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]",
-      "why": "disparo durante resolución"
-    }
-  ],
-  "secondaryRules": [
-    {
-      "ref": "[[11.2.03 Cláusula - El uso de Then#Respuesta|11.2.03 Cláusula - El uso de Then]]",
-      "why": "interpretación de cláusulas"
-    }
-  ],
-  "conflicts": [
-    {
-      "topic": "string",
-      "sources": ["refA", "refB"],
-      "status": "none|low|high"
-    }
-  ],
-  "missingCriticalFacts": ["hecho crítico faltante"]
-}
-```
+## Objetivo del diseño
 
-### Validaciones
-- Debe devolver al menos 2 referencias primarias cuando sea posible.
-- No puede devolver referencias fuera de `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
-- Si detecta conflicto, debe listarlo explícitamente.
+Separar el flujo de ruling en componentes pequeños para ganar:
 
----
+1. consistencia de criterio;
+2. trazabilidad de qué parte decide cada cosa;
+3. posibilidad de orquestar pasos sin mezclar fuentes ni responsabilidades;
+4. facilidad para evolucionar cada parte sin tocar todo el sistema.
 
-## Skill 2 — Card Finder
+## Principios de diseño vigentes
 
-### Propósito
-Resolver menciones de cartas usando la fuente de verdad de cartas del repositorio, sin contaminar el ruling normativo con material legacy.
+- El alcance normativo debe seguir viviendo en las instrucciones locales del repo.
+- La autoridad primaria para reglas sigue siendo `01.1.a Official English Reference – Unmodified`.
+- El texto exacto de cartas debe verificarse solo en `02. Listado de Cartas/Cartas de Lorcana.md`.
+- Ningún componente del diseño debe hacer fallback a carpetas legacy o auxiliares fuera del alcance permitido.
+- Las preguntas al usuario deben ser mínimas y solo cuando bloqueen la decisión normativa.
+- La salida final debe mantenerse breve, precisa y defendible.
 
-### Entrada
-```json
-{
-  "cardsMentioned": ["Lilo gris", "malicious"],
-  "allowedSources": ["02. Listado de Cartas/Cartas de Lorcana.md"]
-}
-```
+## Diseño objetivo
 
-### Salida
-```json
-{
-  "cards": [
-    {
-      "canonicalName": "Lilo - Bundled Up",
-      "verifiedWithinScope": true,
-      "oracleText": [
-        "EXTRA LAYERS During each opponent's turn, the first time this character would take damage, she takes no damage instead."
-      ]
-    }
-  ],
-  "ambiguities": [
-    {
-      "input": "malicious",
-      "candidates": ["Malicious, Mean, and Scary", "Potion of Malice"]
-    }
-  ],
-  "missingCriticalFacts": ["qué carta de malicious"]
-}
-```
+### Vista general
 
-### Validaciones
-- Solo puede consultar `02. Listado de Cartas/Cartas de Lorcana.md` para verificar texto exacto, nombres y ambigüedades de cartas.
-- No puede consultar ni usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica` ni ninguna fuente externa al alcance.
-- Si el texto exacto de una carta no está disponible en `Cartas de Lorcana.md`, debe devolver `missingCriticalFacts` y detener la resolución.
-- Si hay ambigüedad de nombre, no pasa a resolución sin confirmación.
+| Componente | Función | Estado deseado |
+|-----------|---------|----------------|
+| Rule Finder | Localizar reglas base, conflictos y epígrafes relevantes | Futuro |
+| Card Finder | Verificar nombres y texto exacto de cartas | Futuro |
+| Ruling Engine | Emitir el ruling final con secuencia oficial | Futuro |
+| Case Writer | Documentar el caso cuando proceda | Futuro |
+| Orquestador | Coordinar el flujo de extremo a extremo | Futuro |
 
----
+### 1. Rule Finder
 
-## Skill 3 — Ruling Engine
+**Propósito**  
+Identificar epígrafes normativos relevantes y detectar conflictos documentales.
 
-### Propósito
-Emitir ruling normativo final con secuencia oficial.
+**Entrada mínima**
 
-### Entrada
-```json
-{
-  "question": "texto final de duda ya desambiguada",
-  "facts": ["hechos confirmados"],
-  "rules": {
-    "primaryRules": [],
-    "secondaryRules": [],
-    "conflicts": []
-  },
-  "cards": []
-}
-```
+- `question`
+- `knownFacts`
+- `language`
+- `scope`
 
-### Salida
-```json
-{
-  "verdict": "yes|no|provisional",
-  "shortAnswer": "texto corto en español",
-  "explanation": "motivo normativo",
-  "sequence": [
-    {"step": "Coste", "detail": "..."},
-    {"step": "Objetivos", "detail": "..."},
-    {"step": "Resolución", "detail": "..."},
-    {"step": "Disparos", "detail": "..."},
-    {"step": "GSC", "detail": "..."}
-  ],
-  "citations": ["ref1", "ref2"],
-  "conflictHandling": {
-    "hasConflict": false,
-    "provisionalText": ""
-  },
-  "missingCriticalFacts": []
-}
-```
+**Salida mínima**
 
-### Validaciones
-- Formato obligatorio: Sí/No + explicación + secuencia.
-- Si hay conflicto alto: `verdict = provisional` y detallar conflicto.
-- No usar términos de zonas en inglés en salida final.
+- `primaryRules`
+- `secondaryRules`
+- `conflicts`
+- `missingCriticalFacts`
 
----
+**Validaciones clave**
 
-## Skill 4 — Case Writer
+- devolver al menos dos referencias primarias cuando sea posible;
+- no salir de `01. Reglas` y `01.1.a Official English Reference – Unmodified`;
+- listar conflictos de forma explícita cuando existan.
 
-### Propósito
-Redactar y guardar el caso final en formato estándar del repositorio.
+### 2. Card Finder
 
-### Entrada
-```json
-{
-  "title": "nombre del caso",
-  "duda": "enunciado final con datos críticos ya integrados",
-  "ruling": {
-    "shortAnswer": "...",
-    "explanation": "...",
-    "sequence": [],
-    "citations": []
-  },
-  "tags": ["#Tag1", "#Tag2"],
-  "targetFolder": "01. Reglas/11. Casos de ejemplo y aclaraciones"
-}
-```
+**Propósito**  
+Resolver menciones de cartas y verificar su texto exacto sin contaminar el análisis con fuentes legacy.
 
-### Salida
-```json
-{
-  "filePath": "ruta creada",
-  "status": "created|updated",
-  "qualityChecks": {
-    "hasObsidianCardLinks": true,
-    "hasRuleCitations": true,
-    "usesSpanishZonesLexicon": true,
-    "matchesTemplate": true
-  }
-}
-```
+**Entrada mínima**
 
-### Validaciones
-- Debe seguir la plantilla vigente del proyecto.
-- No incluye bloque de “dato faltante” en documento final.
-- Tags dinámicos según contexto.
-- No sobrescribe contenido existente: si el archivo ya existe o hay título similar, añade la nueva entrada en el mismo archivo (append) conservando histórico.
+- `cardsMentioned`
+- `allowedSources`
 
----
+**Salida mínima**
 
-## Orquestador — Flujo E2E
+- `cards`
+- `ambiguities`
+- `missingCriticalFacts`
 
-1. Recibe comando (`Resuelve esta duda`) y contexto.
-2. Ejecuta Rule Finder + Card Finder en paralelo.
-3. Si hay `missingCriticalFacts`, pregunta al usuario y espera respuesta; no hace fallback a carpetas fuera del alcance.
-4. Reejecuta skills afectados con datos confirmados.
-5. Ejecuta Ruling Engine.
-6. Ejecuta Case Writer.
-7. Devuelve al usuario:
-   - ruling corto
-   - epígrafes usados
-   - ruta del caso documentado
+**Validaciones clave**
 
-### Política de preguntas mínimas
+- usar solo `02. Listado de Cartas/Cartas de Lorcana.md`;
+- no usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X` ni `Unifica`;
+- detener la resolución si el texto exacto no está confirmado;
+- no dejar pasar ambigüedades de nombre sin confirmación.
 
-- Máximo 1–2 preguntas, solo si bloquean decisión normativa.
-- Preguntas cerradas (sí/no) siempre que sea posible.
-- Cada pregunta debe incluir una justificación breve de por qué ese dato cambia el ruling.
-- Una vez respondidas, integrar esas respuestas en la sección Duda final.
+### 3. Ruling Engine
 
-### Política de conflictos de fuentes
+**Propósito**  
+Emitir el ruling normativo final con secuencia oficial.
 
-- Si se detecta conflicto alto de fuentes, el orquestador no cierra el ruling final automáticamente.
-- Debe preguntar al usuario qué criterio aplicar antes de continuar.
-- Solo tras esa respuesta se emite ruling final y se documenta.
+**Entrada mínima**
 
----
+- `question`
+- `facts`
+- `rules`
+- `cards`
 
-## Reglas de calidad (checklist)
+**Salida mínima**
 
-- [ ] Usa `01. Reglas` y `01.1.a Official English Reference – Unmodified` para fundamentar reglas.
-- [ ] Usa `02. Listado de Cartas/Cartas de Lorcana.md` para verificar cartas citadas o mencionadas.
-- [ ] No hace fallback a carpetas fuera del alcance.
-- [ ] Citas de reglas en formato Obsidian con ancla.
-- [ ] Léxico de zonas en castellano.
-- [ ] Secuencia completa: Coste, Objetivos, Resolución, Disparos, GSC.
-- [ ] Caso guardado en raíz de `11. Casos de ejemplo y aclaraciones`.
+- `verdict`
+- `shortAnswer`
+- `explanation`
+- `sequence`
+- `citations`
+- `conflictHandling`
+- `missingCriticalFacts`
 
----
+**Validaciones clave**
 
-## Modo MVP (recomendado para empezar)
+- formato final: Sí/No + explicación + secuencia;
+- si hay conflicto alto, devolver fallo provisional y explicarlo;
+- no usar léxico de zonas en inglés en la salida final.
 
-- Ejecutar Rule Finder y Card Finder en paralelo.
-- Usar Ruling Engine con plantilla fija.
-- Case Writer añade entrada sin sobrescribir cuando exista archivo relacionado.
-- Sin memoria avanzada entre sesiones (solo archivo de premisas).
+### 4. Case Writer
 
----
+**Propósito**  
+Redactar y guardar el caso final en formato estándar del repositorio tras cada duda resuelta, salvo instrucción explícita en contra o bloqueo real.
 
-## Evolución futura (v2)
+**Entrada mínima**
 
-- Añadir normalizador de nombres de cartas por alias.
-- Añadir detector de contradicciones entre casos antiguos y reglas actuales.
-- Añadir score de trazabilidad (qué % de afirmaciones tiene cita directa).
+- `title`
+- `duda`
+- `ruling`
+- `tags`
+- `targetFolder`
+
+**Salida mínima**
+
+- `filePath`
+- `status`
+- `qualityChecks`
+
+**Validaciones clave**
+
+- respetar la plantilla vigente del proyecto;
+- no incluir bloques de dato faltante en el documento final;
+- no sobrescribir contenido válido cuando ya exista histórico;
+- cerrar también índices y portada cuando la operación lo exija.
+
+### 5. Orquestador
+
+**Propósito**  
+Coordinar el flujo de extremo a extremo cuando exista un agente dedicado.
+
+**Flujo objetivo**
+
+1. recibir la duda y el contexto;
+2. ejecutar `Rule Finder` y `Card Finder` en paralelo;
+3. si falta dato crítico, preguntar lo mínimo y esperar respuesta;
+4. reejecutar los componentes afectados con los datos confirmados;
+5. ejecutar `Ruling Engine`;
+6. ejecutar `Case Writer` tras cada duda resuelta salvo instrucción explícita en contra o bloqueo real;
+7. devolver ruling corto, referencias usadas y ruta del caso si se creó.
+
+## Brechas entre el estado actual y el diseño objetivo
+
+- Hoy las reglas están bien separadas, pero la ejecución aún no lo está.
+- El repositorio ya tiene criterio modular, pero todavía no tiene componentes ejecutables con contratos formales.
+- El comportamiento actual depende del agente general y de instrucciones dispersas, no de un pipeline explícito.
+- La activación corta tipo “Resuelve esta duda” no está modelada todavía como prompt o agente del workspace.
+
+## Roadmap recomendado
+
+### Completado
+
+1. Mover la autoridad operativa del repo a `.github/`.
+2. Trocear las premisas en instrucciones pequeñas y reusables.
+3. Consolidar la skill de preguntas en el workspace y retirar la duplicidad global.
+
+### Siguiente fase razonable
+
+1. Decidir si merece la pena crear un agente personalizado de rulings.
+2. Si la respuesta es sí, definir primero el contrato mínimo real de `Rule Finder`, `Card Finder`, `Ruling Engine` y `Case Writer` a partir del uso del repositorio, no del deseo teórico.
+3. Crear entonces un `.agent.md` del workspace que orqueste esas fases.
+
+### Fase posterior
+
+1. Añadir normalización de nombres de cartas por alias.
+2. Añadir detector de contradicciones entre casos antiguos y reglas actuales.
+3. Añadir una métrica de trazabilidad para medir cuánto de cada ruling queda sustentado por citas directas.
+
+## Qué no conviene hacer todavía
+
+- Crear un agente solo para “tener uno” sin un flujo estable.
+- Duplicar en este documento reglas operativas que ya viven en instrucciones o skills.
+- Reabrir una arquitectura monolítica de premisas que mezcle diseño, ejecución real y material histórico.

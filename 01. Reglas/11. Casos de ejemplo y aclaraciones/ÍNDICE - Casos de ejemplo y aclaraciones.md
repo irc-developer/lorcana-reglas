@@ -1,40 +1,41 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 133 | **Última actualización:** 11 de mayo de 2026
+**Total de casos:** 138 | **Última actualización:** 15 de mayo de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
-### 11.0. Timing y Resolución (25 casos)
+### 11.0. Timing y Resolución (26 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
 1. [Cartas en mano y el cálculo de triggers.md](<11.0. Timing y Resolución/Cartas en mano y el cálculo de triggers.md>)
 2. [Cartas en una pila.md](<11.0. Timing y Resolución/Cartas en una pila.md>)
 3. [Cláusula sobre personaje y luego otra sobre el mismo.md](<11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md>)
-4. [Cumplir parte de una habilidad.md](<11.0. Timing y Resolución/Cumplir parte de una habilidad.md>)
-5. [Derrota, timing mazo vacío.md](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
-6. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
-7. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
-8. [Elegir un personaje agotado por restricción.md](<11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md>)
-9. [Habilidades disparadas 'Al final del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md>)
-10. [Habilidades disparadas 'Al principio del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al principio del turno'.md>)
-11. [Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
-12. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](<11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md>)
-13. [Múltiples habilidades a la vez.md](<11.0. Timing y Resolución/Múltiples habilidades a la vez.md>)
-14. [No hay bolsa entre la parte del jugador activo y la del no activo.md](<11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md>)
-15. [No tener objetivo legal vs elegir un objetivo inválido.md](<11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md>)
-16. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](<11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md>)
-17. [Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md](<11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md>)
-18. [Orden de resolución en habilidades disparadas.md](<11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md>)
-19. [Prioridad entre jugador activo y no activo.md](<11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md>)
-20. [Qué pasa cuando se juegan dos cartas a la vez.md](<11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md>)
-21. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
-22. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
-23. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
-24. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
-25. [CR 2.1 - artefactos tipográficos del TXT y criterio de integración.md](<11.0. Timing y Resolución/CR 2.1 - artefactos tipográficos del TXT y criterio de integración.md>)
+4. [CR 2.1 - artefactos tipográficos del TXT y criterio de integración.md](<11.0. Timing y Resolución/CR 2.1 - artefactos tipográficos del TXT y criterio de integración.md>)
+5. [Cumplir parte de una habilidad.md](<11.0. Timing y Resolución/Cumplir parte de una habilidad.md>)
+6. [Derrota, timing mazo vacío.md](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
+7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
+8. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
+9. [Elegir un personaje agotado por restricción.md](<11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md>)
+10. [Habilidades disparadas 'Al final del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md>)
+11. [Habilidades disparadas 'Al principio del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al principio del turno'.md>)
+12. [Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>)
+13. [Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
+14. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](<11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md>)
+15. [Múltiples habilidades a la vez.md](<11.0. Timing y Resolución/Múltiples habilidades a la vez.md>)
+16. [No hay bolsa entre la parte del jugador activo y la del no activo.md](<11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md>)
+17. [No tener objetivo legal vs elegir un objetivo inválido.md](<11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md>)
+18. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](<11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md>)
+19. [Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md](<11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md>)
+20. [Orden de resolución en habilidades disparadas.md](<11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md>)
+21. [Prioridad entre jugador activo y no activo.md](<11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md>)
+22. [Qué pasa cuando se juegan dos cartas a la vez.md](<11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md>)
+23. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
+24. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
+25. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
+26. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
 
 ---
 
@@ -63,7 +64,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 
 ---
 
-### 11.3. Costes y Requisitos (13 casos)
+### 11.3. Costes y Requisitos (14 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -75,15 +76,16 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 6. [Hacerse daño como requisito.md](<11.3. Costes y Requisitos/Hacerse daño como requisito.md>)
 7. [Incrementar el coste de una carta gratis.md](<11.3. Costes y Requisitos/Incrementar el coste de una carta gratis.md>)
 8. [Jugar carta sin objetivo válido.md](<11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md>)
-9. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
-10. [Pagar costes en la fase de final de turno.md](<11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md>)
-11. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
-12. [Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md](<11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md>)
-13. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
+9. [Jugar un personaje gratis no permite usar Shift.md](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>)
+10. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
+11. [Pagar costes en la fase de final de turno.md](<11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md>)
+12. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
+13. [Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md](<11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md>)
+14. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
 
 ---
 
-### 11.4. Habilidades (23 casos)
+### 11.4. Habilidades (25 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -99,17 +101,19 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 10. [Habilidades estáticas presentes en juego y sus interacciones.md](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>)
 11. [Habilidades que contienen 'they'.md](<11.4. Habilidades/Habilidades que contienen 'they'.md>)
 12. [Habilidades y sus efectos.md](<11.4. Habilidades/Habilidades y sus efectos.md>)
-13. [Merida - Steady Aim con Grab Your Sword y Ward.md](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>)
-14. [Merida - Steady Aim y Resist.md](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
-15. [Next Stop Olympus, dos copias y lores.md](<11.4. Habilidades/Next Stop Olympus, dos copias y lores.md>)
-16. [No poder ganar lore por efecto estático.md](<11.4. Habilidades/No poder ganar lore por efecto estático.md>)
-17. [Performance Review y secado - cuando puedes agotar.md](<11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md>)
-18. [Pocahontas – Following the Wind y el lore al questear.md](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
-19. [Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md](<11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md>)
-20. [Shift y Webby's Diary - diferencia entre encima y debajo.md](<11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md>)
-21. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
-22. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
-23. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
+13. [Let The Storm Rage On sobre Angel - Experiment 624.md](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
+14. [Merida - Steady Aim con Grab Your Sword y Ward.md](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>)
+15. [Merida - Steady Aim y Resist.md](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
+16. [Next Stop Olympus, dos copias y lores.md](<11.4. Habilidades/Next Stop Olympus, dos copias y lores.md>)
+17. [No poder ganar lore por efecto estático.md](<11.4. Habilidades/No poder ganar lore por efecto estático.md>)
+18. [Performance Review y secado - cuando puedes agotar.md](<11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md>)
+19. [Pocahontas – Following the Wind y el lore al questear.md](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
+20. [Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>)
+21. [Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md](<11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md>)
+22. [Shift y Webby's Diary - diferencia entre encima y debajo.md](<11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md>)
+23. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
+24. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
+25. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
 
 ---
 
@@ -131,7 +135,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (38 casos)
+### 11.6. Interacciones Complejas (39 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -160,19 +164,20 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 23. [Lady - Miss Park Avenue shift.md](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>)
 24. [Legalidad de cartas firmadas.md](<11.6. Interacciones Complejas/Legalidad de cartas firmadas.md>)
 25. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
-26. [Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md](<11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md>)
-27. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
-28. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
-29. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
-30. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
-31. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
-32. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
-33. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
-34. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
-35. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
-36. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
-37. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
-38. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
+26. [Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md>)
+27. [Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md](<11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md>)
+28. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
+29. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
+30. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
+31. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
+32. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
+33. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
+34. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
+35. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
+36. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
+37. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
+38. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
+39. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
 
 ---
 
@@ -192,28 +197,29 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 25    | 18.8%   |
-| **11.2 Zonas y Movimientos**     | 18    | 13.5%   |
-| **11.3 Costes y Requisitos**     | 13    | 9.8%    |
-| **11.4 Habilidades**             | 23    | 17.3%   |
-| **11.5 Keywords**                | 11    | 8.3%    |
-| **11.6 Interacciones Complejas** | 38    | 28.6%   |
-| **11.7 Dudas por desarrollar**   | 5     | 3.8%    |
-| **TOTAL**                        | **133** | **100%** |
+| **11.0 Timing y Resolución**     | 26    | 18.8%   |
+| **11.2 Zonas y Movimientos**     | 18    | 13.0%   |
+| **11.3 Costes y Requisitos**     | 14    | 10.1%   |
+| **11.4 Habilidades**             | 25    | 18.1%   |
+| **11.5 Keywords**                | 11    | 8.0%    |
+| **11.6 Interacciones Complejas** | 39    | 28.3%   |
+| **11.7 Dudas por desarrollar**   | 5     | 3.6%    |
+| **TOTAL**                        | **138** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Angel**: [Let The Storm Rage On sobre Angel - Experiment 624](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
 - **Tiana**: [Efecto de Tiana...](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>) | [Tiana y Rapunzel...](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>) | [Cálculo fuerza Tiana...](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
 - **Merida**: [Merida - Steady Aim con Grab Your Sword y Ward](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>) | [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
-- **Rapunzel**: [Rapunzel pierde protección...](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
-- **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
+- **Rapunzel**: [Rapunzel pierde protección...](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
+- **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
 
 ### Por concepto
 - **GSC (Game State Check)**: [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
 - **Efecto estático**: [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
-- **Reemplazo**: [Aplicación múltiples efectos reemplazo (Escudos)](<11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md>) | [Interacción reemplazo vs habilidades disparadas...](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
+- **Reemplazo**: [Aplicación múltiples efectos reemplazo (Escudos)](<11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Helga Sinclair - Prepared for Anything...](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>) | [Interacción reemplazo vs habilidades disparadas...](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
 
 ---

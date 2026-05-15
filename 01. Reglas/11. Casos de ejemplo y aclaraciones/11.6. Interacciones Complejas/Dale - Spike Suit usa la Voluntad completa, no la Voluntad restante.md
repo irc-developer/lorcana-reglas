@@ -14,6 +14,8 @@ El daño marcado solo se cuenta contra la Willpower para comprobar si el persona
 
 Esta misma lógica también aclara una duda relacionada: [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]] no hace que tus personajes "tengan Fuerza igual a su Voluntad" ni cambia su característica de {S}. Solo cambia qué valor usan para hacer daño durante desafíos.
 
+Ejemplo directo: [[02. Listado de Cartas/Set 11 - Winterspell.md#Mulan - Resourceful Recruit|Mulan - Resourceful Recruit]] tiene 1 {S} y 4 {W}. Si controlas a Dale, cuando Mulan haga quest su habilidad **RIGOROUS TRAINING** seguirá mirando su {S} real, no su {W}, así que te hará ganar 1 lore, no 4, salvo que otro efecto sí aumente realmente su Fuerza.
+
 Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de un personaje, como [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]], [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Sisu - Empowered Sibling|Sisu - Empowered Sibling]] o [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Headless Horseman - Terror of Sleepy Hollow|The Headless Horseman - Terror of Sleepy Hollow]]. Si un personaje tiene 1 {S} y 4 {W}, con Dale seguirá siendo un personaje de 1 {S} para esos efectos, aunque en un desafío haría 4 de daño.
 
 ---
