@@ -12,7 +12,7 @@ applyTo:
 - Para reglas, usar solo `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
 - La autoridad normativa primaria es `01.1.a Official English Reference – Unmodified`.
 - `01. Reglas` se usa para localizar, citar y documentar en castellano.
-- Para texto exacto de cartas, nombres y enlaces de cartas, usar solo `02. Listado de Cartas/Cartas de Lorcana.md`.
+- Para texto exacto de cartas, nombres y enlaces de cartas, usar solo la sección `02. Listado de Cartas` y el archivo del set correspondiente.
 - No usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica` ni material derivado o legacy para resolver, documentar o verificar.
 - Si una regla o una carta no puede sostenerse con esas fuentes, detenerse y pedir al usuario el dato exacto o una ampliación explícita del alcance.
 - Ante discrepancia entre inglés y castellano, resolver según la referencia oficial inglesa y citar en castellano cuando exista localización equivalente.

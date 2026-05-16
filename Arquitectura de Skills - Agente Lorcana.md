@@ -44,7 +44,7 @@ Separar el flujo de ruling en componentes pequeños para ganar:
 
 - El alcance normativo debe seguir viviendo en las instrucciones locales del repo.
 - La autoridad primaria para reglas sigue siendo `01.1.a Official English Reference – Unmodified`.
-- El texto exacto de cartas debe verificarse solo en `02. Listado de Cartas/Cartas de Lorcana.md`.
+- El texto exacto de cartas debe verificarse solo en la sección `02. Listado de Cartas`, usando el archivo del set correspondiente.
 - Ningún componente del diseño debe hacer fallback a carpetas legacy o auxiliares fuera del alcance permitido.
 - Las preguntas al usuario deben ser mínimas y solo cuando bloqueen la decisión normativa.
 - La salida final debe mantenerse breve, precisa y defendible.
@@ -104,7 +104,7 @@ Resolver menciones de cartas y verificar su texto exacto sin contaminar el anál
 
 **Validaciones clave**
 
-- usar solo `02. Listado de Cartas/Cartas de Lorcana.md`;
+- usar solo la sección `02. Listado de Cartas` y el archivo del set correspondiente;
 - no usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X` ni `Unifica`;
 - detener la resolución si el texto exacto no está confirmado;
 - no dejar pasar ambigüedades de nombre sin confirmación.

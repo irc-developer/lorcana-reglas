@@ -33,7 +33,7 @@ Resolver de forma corta y verificable dos pasos:
 6. En la comprobacion rapida puede usarse displayonly para reducir ruido.
 7. En la descarga final del set no usar displayonly si hace falta generar el articulo completo.
 8. Comparar el numero de cartas recibidas con el campo Cards del set. Si no coincide, paginar antes de redactar.
-9. El articulo debe seguir el patron de ../../02. Listado de Cartas/Cartas de Lorcana.md y, si se crea como archivo independiente, tambien el de ../../02. Listado de Cartas/Illumineer's Quest - Palace Heist.md.
+9. El artículo debe seguir el patrón de los archivos de set de ../../02. Listado de Cartas, por ejemplo ../../02. Listado de Cartas/Set 12 - Wilds Unknown.md; si se crea como archivo independiente, también el de ../../02. Listado de Cartas/Illumineer's Quest - Palace Heist.md.
 10. Crear un articulo nuevo dentro de 02. Listado de Cartas salvo instruccion distinta del usuario.
 11. Si se modifica cualquier archivo del repo, revisar Empecemos.md y mantener el formato exacto de la fecha: *Ultima actualizacion dd/mm/aa*.
 
@@ -85,7 +85,7 @@ Resolver de forma corta y verificable dos pasos:
 
 ## Referencias
 
-- [Patron principal](../../02. Listado de Cartas/Cartas de Lorcana.md)
+- [Patrón de artículo de set](../../02. Listado de Cartas/Set 12 - Wilds Unknown.md)
 - [Patron de articulo independiente](../../02. Listado de Cartas/Illumineer's Quest - Palace Heist.md)
 - https://lorcana-api.com/docs/sets/fetching-sets
 - https://lorcana-api.com/docs/cards/parameters/search-parameter

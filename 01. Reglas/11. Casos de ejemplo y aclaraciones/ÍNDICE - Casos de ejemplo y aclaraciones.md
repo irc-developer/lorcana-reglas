@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 138 | **Última actualización:** 15 de mayo de 2026
+**Total de casos:** 139 | **Última actualización:** 15 de mayo de 2026
 
 ---
 
@@ -135,7 +135,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (39 casos)
+### 11.6. Interacciones Complejas (40 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -169,15 +169,16 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 28. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
 29. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
 30. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
-31. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
-32. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
-33. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
-34. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
-35. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
-36. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
-37. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
-38. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
-39. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
+31. [Oswald y Keep the Ancient Ways.md](<11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md>)
+32. [Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>)
+33. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
+34. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
+35. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
+36. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
+37. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
+38. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
+39. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
+40. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
 
 ---
 
@@ -197,14 +198,14 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 26    | 18.8%   |
-| **11.2 Zonas y Movimientos**     | 18    | 13.0%   |
+| **11.0 Timing y Resolución**     | 26    | 18.7%   |
+| **11.2 Zonas y Movimientos**     | 18    | 12.9%   |
 | **11.3 Costes y Requisitos**     | 14    | 10.1%   |
-| **11.4 Habilidades**             | 25    | 18.1%   |
-| **11.5 Keywords**                | 11    | 8.0%    |
-| **11.6 Interacciones Complejas** | 39    | 28.3%   |
+| **11.4 Habilidades**             | 25    | 18.0%   |
+| **11.5 Keywords**                | 11    | 7.9%    |
+| **11.6 Interacciones Complejas** | 40    | 28.8%   |
 | **11.7 Dudas por desarrollar**   | 5     | 3.6%    |
-| **TOTAL**                        | **138** | **100%** |
+| **TOTAL**                        | **139** | **100%** |
 
 ---
 

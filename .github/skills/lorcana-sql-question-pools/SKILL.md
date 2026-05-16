@@ -49,7 +49,7 @@ Si el usuario no fija categoría, dificultad o tipo, debes inferirlos a partir d
 1. Antes de escribir el SQL, identificar el alcance normativo exacto pedido por el usuario.
 2. Si el pool es de reglas base, usar exclusivamente `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
 3. `01.1.a Official English Reference – Unmodified` es la autoridad normativa primaria; `01. Reglas` se usa para citación y redacción en castellano.
-4. Si una pregunta depende del texto exacto de una carta, verificar ese texto en `02. Listado de Cartas/Cartas de Lorcana.md`.
+4. Si una pregunta depende del texto exacto de una carta, verificar ese texto en la sección `02. Listado de Cartas`, usando el archivo del set correspondiente.
 5. No usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica`, compilaciones auxiliares ni ningún material fuera de las fuentes permitidas.
 6. Si un dato no puede sostenerse con esas fuentes, detenerse y pedir precisión al usuario antes de generar el seed.
 7. Si la petición es ambigua, preguntar lo mínimo imprescindible antes de generar el seed.
