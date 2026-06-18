@@ -1,12 +1,12 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 139 | **Última actualización:** 15 de mayo de 2026
+**Total de casos:** 143 | **Última actualización:** 25 de mayo de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
-### 11.0. Timing y Resolución (26 casos)
+### 11.0. Timing y Resolución (27 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -35,11 +35,12 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 23. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
 24. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
 25. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
-26. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
+26. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
+27. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
 
 ---
 
-### 11.2. Zonas y Movimientos (18 casos)
+### 11.2. Zonas y Movimientos (20 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -55,16 +56,18 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 10. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
 11. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 12. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
-13. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
-14. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
-15. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
-16. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
-17. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
-18. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
+13. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
+14. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
+15. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
+16. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
+17. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
+18. [Ursula - Deal Maker solo puede elegir un personaje en juego.md](<11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md>)
+19. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
+20. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
 
 ---
 
-### 11.3. Costes y Requisitos (14 casos)
+### 11.3. Costes y Requisitos (15 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -82,6 +85,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 12. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
 13. [Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md](<11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md>)
 14. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
+15. [Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md](<11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md>)
 
 ---
 
@@ -198,14 +202,14 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 26    | 18.7%   |
-| **11.2 Zonas y Movimientos**     | 18    | 12.9%   |
-| **11.3 Costes y Requisitos**     | 14    | 10.1%   |
-| **11.4 Habilidades**             | 25    | 18.0%   |
-| **11.5 Keywords**                | 11    | 7.9%    |
-| **11.6 Interacciones Complejas** | 40    | 28.8%   |
-| **11.7 Dudas por desarrollar**   | 5     | 3.6%    |
-| **TOTAL**                        | **139** | **100%** |
+| **11.0 Timing y Resolución**     | 27    | 18.9%   |
+| **11.2 Zonas y Movimientos**     | 20    | 14.0%   |
+| **11.3 Costes y Requisitos**     | 15    | 10.5%   |
+| **11.4 Habilidades**             | 25    | 17.5%   |
+| **11.5 Keywords**                | 11    | 7.7%    |
+| **11.6 Interacciones Complejas** | 40    | 28.0%   |
+| **11.7 Dudas por desarrollar**   | 5     | 3.5%    |
+| **TOTAL**                        | **143** | **100%** |
 
 ---
 

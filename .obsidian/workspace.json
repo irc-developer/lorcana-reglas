@@ -11,46 +11,13 @@
             "id": "83152efd8f089e5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de cartas firmadas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Legalidad de cartas firmadas"
-            }
-          },
-          {
-            "id": "b8b253cb29dc88f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Reglas/11. Casos de ejemplo y aclaraciones/Legalidad de cartas firmadas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Legalidad de cartas firmadas"
-            }
-          },
-          {
-            "id": "ffa4b9490f5557d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set 12 - Wilds Unknown"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "robin hood",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -200,46 +167,46 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ffa4b9490f5557d1",
+  "active": "83152efd8f089e5b",
   "lastOpenFiles": [
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md",
-    "Premisas agente IA Lorcana.md",
-    "Arquitectura de Skills - Agente Lorcana.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fergus - Outpost Builder, Hold Fast y alcance del descarte.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Combo infinito opcional y perder tiempo.md",
-    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/Resumen de turno.md",
-    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/Guía para novatos.md",
-    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/RESUMEN-TURNO.md",
-    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md",
-    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/PROMPT-IMAGEN-MUNDREL.md",
-    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/ayuda_terraforming_mars.png",
-    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES",
-    "099. Otros juegos de mesa/Terraforming mars/Terraforming-Mars.md",
-    "099. Otros juegos de mesa/Terraforming mars",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/puede-un-personaje-resucitado-devolver-miniaturas-destruidas.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Sistema de juego organizado.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Secuencia de misiones de evento.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Reglas de torneo.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Misiones y puntuación.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Listas de ejército y preparación del evento.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Fuentes de reglas y FAQ.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Eventos Dominatus.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Eventos de equipos.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Eventos de dobles.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado/Emparejamientos y clasificación.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Tournament Rules.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Team Events.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Rules Sources and FAQs.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Pairings and Rankings.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Organized Play System.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Missions and Scoring.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Event Mission Sequence.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Doubles Events.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Dominatus Events.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play/Army Lists and Event Preparation.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Facciones/Adepta Sororitas/Oradores santificados.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Facciones/Adepta Sororitas/Destacamentos de Adepta Sororitas.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Facciones/Adepta Sororitas/Coro sentenciador.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Facciones/Adepta Sororitas/Campeonas sagradas.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Facciones/Adepta Sororitas/Campeonas de la fe.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Facciones/Adepta Sororitas",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/dudas-resueltas/adepta-sororitas",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Factions/Adepta Sororitas",
+    "099. Otros juegos de mesa/witcher old world",
     "099. Otros juegos de mesa/Nueva carpeta",
-    "099. Otros juegos de mesa/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md",
-    "099. Otros juegos de mesa/AYUDAS_JUGADORES/RESUMEN-TURNO.md",
-    "099. Otros juegos de mesa/AYUDAS_JUGADORES/PROMPT-IMAGEN-MUNDREL.md",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/es/dudas-resueltas",
+    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Weapons",
+    "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/ayuda_terraforming_mars.png",
     "099. Otros juegos de mesa/AYUDAS_JUGADORES/ayuda_terraforming_mars.png",
-    "099. Otros juegos de mesa/AYUDAS_JUGADORES",
-    "099. Otros juegos de mesa/Terraforming-Mars.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/CR 2.1 - artefactos tipográficos del TXT y criterio de integración.md",
-    "01. Reglas/9. Resúmenes/Actualización CR 2.1 - resumen de cambios.md",
-    "CRUpdate_2.1.0_EN.pdf",
-    "comprehensiverulesv2.1.txt",
-    "02. Listado de Cartas/Set 7 - Archazia''s Island.md",
-    "_generate_set12_lorcast.py",
-    "_generate_set12_lorcast.ps1",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar",
-    "01. Reglas/9. Multijugador (Multiplayer)",
     "Pasted image 20260401202913.png",
     "Sin título.canvas",
     "09. Recursos/tiposdehabilidades.svg",

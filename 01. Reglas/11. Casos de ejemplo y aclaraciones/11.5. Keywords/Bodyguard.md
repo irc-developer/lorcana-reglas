@@ -74,3 +74,48 @@ Esto es distinto de una habilidad estática **aplicada** por un efecto resuelto 
 ## 🏷️ Tags
 
 #bodyguard #challenge #objetivos #restricciones #entra-agotado #habilidad-estatica #efecto-de-reemplazo #ruling
+
+---
+
+## ❓ Duda
+
+Si un personaje con Bodyguard está afectado por un efecto que hace que no pueda ser desafiado, ¿su Bodyguard sigue impidiendo desafiar a otros personajes?
+
+---
+
+## ✅ Respuesta
+
+**No.**  
+Bodyguard solo obliga a elegir a un personaje con Bodyguard **si ese personaje es un objetivo legal**. Si otro efecto hace que ese personaje **no pueda ser desafiado**, entonces deja de ser una opción válida para el desafío y su Bodyguard no puede imponerse sobre una elección imposible.
+
+En ese caso:
+
+- si hay **otro** personaje con Bodyguard que sí pueda ser desafiado, hay que elegir ese otro;
+- si no hay ningún Bodyguard legal pero sí otro personaje legal, se puede desafiar a ese otro personaje;
+- si no hay **ningún** personaje legal al que desafiar, no se puede declarar un desafío contra personajes.
+
+Esto cubre interacciones como [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Diablo - Stone Servant|Diablo - Stone Servant]], cuya habilidad **VILLAINOUS BOND** dice: “While this character is exerted, your Villain characters can't be challenged.”
+
+---
+
+## 📘 Fundamento en reglas
+
+- [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Diablo - Stone Servant|Diablo - Stone Servant]]: mientras está agotado, tus Villains no pueden ser desafiados.
+- [[01. Reglas/8. Palabras clave (Keywords)/8.3. Guardaespaldas (Bodyguard).md|8.3. Guardaespaldas (Bodyguard)]]: Bodyguard obliga a elegir a ese personaje u otro con Bodyguard “si es posible”.
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge).md|4.6 Desafío (Challenge)]]: primero se elige qué personaje enemigo exerted va a ser desafiado y luego se comprueban las restricciones.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md|6.4. Habilidades Estáticas (Static Abilities)]]: una habilidad estática modifica las reglas del juego de forma continua mientras su fuente siga en juego y se cumplan sus condiciones.
+
+---
+
+## 🔄 Secuencia oficial
+
+1. El jugador activo intenta declarar un desafío contra un personaje oponente exerted.
+2. Antes de cerrar la declaración, el juego comprueba las restricciones aplicables.
+3. Bodyguard exige elegir un personaje con Bodyguard solo si ese personaje puede ser desafiado legalmente.
+4. Si un efecto estático hace que ese personaje no pueda ser desafiado, ese objetivo deja de estar disponible.
+5. Si existe otro objetivo legal, el desafío debe redirigirse a ese objetivo legal que cumpla las restricciones.
+6. Si no existe ningún personaje legal, ese desafío contra personajes no puede declararse.
+
+## 🏷️ Tags
+
+#challenge #static-ability #interactions #scope #turn-actions
