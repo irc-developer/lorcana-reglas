@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 143 | **Última actualización:** 25 de mayo de 2026
+**Total de casos:** 144 | **Última actualización:** 30 de junio de 2026
 
 ---
 
@@ -121,21 +121,22 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 ---
 
-### 11.5. Keywords (11 casos)
+### 11.5. Keywords (12 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
 
 1. [Aclaraciones de Fabled.md](<11.5. Keywords/Aclaraciones de Fabled.md>)
 2. [Bambi – Ethereal Faun cantando una canción.md](<11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md>)
 3. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>)
-4. [Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md](<11.5. Keywords/Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md>)
-5. [El uso de Then.md](<11.5. Keywords/El uso de Then.md>)
-6. [Fairy Godmother – Magical x2.md](<11.5. Keywords/Fairy Godmother – Magical x2.md>)
-7. [Heredar una palabra clave al hacer shift.md](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>)
-8. [Lilo - Bundled Up y Malicious, Mean, and Scary.md](<11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary.md>)
-9. [Mickey Mouse – Bob Cratchit y cartas under.md](<11.5. Keywords/Mickey Mouse – Bob Cratchit y cartas under.md>)
-10. [Tiana y su trigger post canción.md](<11.5. Keywords/Tiana y su trigger post canción.md>)
-11. [We Know The Way no puede seleccionarse a sí misma.md](<11.5. Keywords/We Know The Way no puede seleccionarse a sí misma.md>)
+4. [Boost olvidado al poner carta debajo en torneo.md](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>)
+5. [Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md](<11.5. Keywords/Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md>)
+6. [El uso de Then.md](<11.5. Keywords/El uso de Then.md>)
+7. [Fairy Godmother – Magical x2.md](<11.5. Keywords/Fairy Godmother – Magical x2.md>)
+8. [Heredar una palabra clave al hacer shift.md](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>)
+9. [Lilo - Bundled Up y Malicious, Mean, and Scary.md](<11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary.md>)
+10. [Mickey Mouse – Bob Cratchit y cartas under.md](<11.5. Keywords/Mickey Mouse – Bob Cratchit y cartas under.md>)
+11. [Tiana y su trigger post canción.md](<11.5. Keywords/Tiana y su trigger post canción.md>)
+12. [We Know The Way no puede seleccionarse a sí misma.md](<11.5. Keywords/We Know The Way no puede seleccionarse a sí misma.md>)
 
 ---
 
@@ -202,14 +203,14 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 27    | 18.9%   |
-| **11.2 Zonas y Movimientos**     | 20    | 14.0%   |
-| **11.3 Costes y Requisitos**     | 15    | 10.5%   |
-| **11.4 Habilidades**             | 25    | 17.5%   |
-| **11.5 Keywords**                | 11    | 7.7%    |
-| **11.6 Interacciones Complejas** | 40    | 28.0%   |
+| **11.0 Timing y Resolución**     | 27    | 18.8%   |
+| **11.2 Zonas y Movimientos**     | 20    | 13.9%   |
+| **11.3 Costes y Requisitos**     | 15    | 10.4%   |
+| **11.4 Habilidades**             | 25    | 17.4%   |
+| **11.5 Keywords**                | 12    | 8.3%    |
+| **11.6 Interacciones Complejas** | 40    | 27.8%   |
 | **11.7 Dudas por desarrollar**   | 5     | 3.5%    |
-| **TOTAL**                        | **143** | **100%** |
+| **TOTAL**                        | **144** | **100%** |
 
 ---
 
@@ -221,6 +222,7 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 - **Merida**: [Merida - Steady Aim con Grab Your Sword y Ward](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>) | [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
 - **Rapunzel**: [Rapunzel pierde protección...](<11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
 - **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
+- **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
 - **GSC (Game State Check)**: [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
