@@ -2,13 +2,17 @@
 type: rules-question
 category: attached-units
 canonical: false
-source: core-rules-and-faction-rules
+source: core-rules-and-official-app
 surface: resolved-question
 owner-domain: attached-units
 status: verified
 rules:
-  - 19.00
+  - 19.01
+  - 19.01.01
   - 19.04
+  - Rules Appendix - Destroyed
+  - Rules Appendix - Revived
+  - Divine Intervention
 tags:
   - warhammer40k
   - resolved-question
@@ -17,7 +21,6 @@ tags:
   - destroyed-models
   - healing
   - hospitaller
-  - medikit
   - stratagems
   - rules-application
 aliases:
@@ -25,7 +28,6 @@ aliases:
   - curar heridas devuelve miniaturas destruidas
   - hospitalaria resucitada puede devolver miniaturas
   - Hospitaller resucitada puede devolver guardaespaldas
-  - medikit despues de intervencion divina
   - personaje resucitado en turnos siguientes puede devolver miniaturas
   - resucitar personaje y devolver guardaespaldas
   - personaje devuelto con estratagema recupera miniaturas
@@ -34,91 +36,65 @@ related:
   - Revivir
   - Eliminado o eliminada
   - Unidad adjunta
+  - Formar unidades adjuntas
   - Habilidades en unidades adjuntas
-  - Actualizaciones de reglas de Adepta Sororitas
 ---
 
-# ¿Puede un personaje resucitado curar heridas para devolver miniaturas destruidas?
+# ¿Puede un personaje resucitado usar su habilidad para devolver miniaturas destruidas?
 
 ## Respuesta corta
 
-Si la unidad adjunta completa fue destruida, no. En turnos posteriores el personaje resucitado está en mesa, pero vuelve como una unidad separada si su antigua unidad guardaespaldas ya no está en el campo de batalla. No puede devolver miniaturas de una unidad guardaespaldas destruida que ya no forma parte de su unidad.
+Sí, si su habilidad dice que devuelve miniaturas destruidas a su unidad y no hay una regla que separe al personaje de la unidad adjunta.
 
-Si la unidad guardaespaldas seguía en mesa cuando el personaje fue devuelto, entonces el personaje debe volver a esa unidad y formar de nuevo una [[Unidad adjunta]]. En ese caso, en turnos posteriores podrá usar sus habilidades en el momento normal, pero solo devolverá miniaturas si la habilidad dice expresamente que devuelve miniaturas destruidas. Curar heridas, por sí solo, no devuelve miniaturas.
+La clave es esta: una [[Unidad adjunta]] es una sola unidad a efectos de reglas. Si la guardaespaldas es eliminada, eso no separa automáticamente al [[Líder]] o [[Apoyo]] de la unidad adjunta salvo que una regla lo diga expresamente.
 
-## Regla práctica
+Por tanto, si una estratagema como `Divine Intervention` devuelve al campo al personaje y ese personaje sigue siendo parte de la misma unidad adjunta, en turnos posteriores puede usar una habilidad tipo Hospitalaria que devuelva miniaturas destruidas a "esta unidad". Esas miniaturas destruidas siguen siendo miniaturas destruidas de esa unidad.
 
-Separa siempre estas dos cosas:
+## Qué aclara la app
 
-- Curar heridas: una miniatura que sigue existiendo recupera heridas perdidas.
-- Revivir o devolver miniaturas: una regla añade a la unidad miniaturas que ya habían sido eliminadas.
+La app oficial de Warhammer 40,000, en `19.01.01 - Unidades adjuntas después de que su unidad Guardaespaldas sea eliminada`, no dice que todas las unidades adjuntas se separen siempre que muera la guardaespaldas.
 
-Una habilidad que solo hace que una miniatura recupere heridas no puede traer de vuelta miniaturas eliminadas. Para devolver miniaturas destruidas necesitas una regla que use ese tipo de efecto de forma explícita, como "devuelve miniaturas destruidas a esta unidad".
+Lo que dice es que algunas unidades tienen reglas especiales que sí provocan esa separación. Cuando una unidad adjunta está afectada por una regla de ese tipo y su guardaespaldas es eliminada, entonces las unidades líder/apoyo pasan a ser unidades individuales a efectos de toda regla.
 
-## Caso tipo Hospitalaria o medikit
+La consecuencia es la inversa también: si no hay una regla especial que diga que se separan, no se separan por defecto.
 
-La duda con una Hospitalaria, o con una regla parecida a un medikit, se resuelve mirando a qué unidad se refiere la frase "esta unidad".
+## Cómo aplicarlo
 
-Si la unidad adjunta completa fue destruida y una estratagema devuelve solo a la Hospitalaria, la Hospitalaria vuelve como unidad separada porque su unidad guardaespaldas ya no está en el campo de batalla. En su siguiente fase de mando, "esta unidad" es la unidad actual de la Hospitalaria, no la antigua unidad adjunta destruida.
+1. Comprueba si la unidad adjunta tiene una regla que diga que, al eliminarse la guardaespaldas, el Líder o Apoyo pasa a ser una unidad separada.
+2. Si esa regla existe, el personaje queda como unidad individual y no puede devolver miniaturas de la antigua guardaespaldas con una habilidad que afecte a "esta unidad".
+3. Si esa regla no existe, el personaje sigue formando parte de la misma unidad adjunta.
+4. Si después el personaje vuelve al campo mediante una regla como `Divine Intervention`, vuelve como parte de esa misma unidad si puede hacerlo.
+5. En turnos posteriores, una habilidad que devuelva miniaturas destruidas a "esta unidad" puede devolver miniaturas destruidas de esa unidad, respetando sus condiciones y sin superar los efectivos iniciales.
 
-Por eso, aunque una habilidad diga que puedes devolver miniaturas destruidas a esta unidad, no hay miniaturas de la antigua guardaespaldas que devolver a la unidad actual de la Hospitalaria. Esas miniaturas pertenecían a la unidad guardaespaldas destruida, que ya no está formando una unidad adjunta con ella.
+## Curar heridas no es lo mismo
 
-La secuencia que bloquea la jugada es:
+Si la habilidad solo dice que una miniatura recupera heridas, no devuelve miniaturas destruidas.
 
-1. Se destruye la última miniatura de la guardaespaldas.
-2. Las unidades `PERSONAJE` que formaban parte de esa unidad adjunta dejan de formar parte de una unidad adjunta y pasan a ser unidades separadas.
-3. Si más tarde se devuelve un Líder, solo vuelve a la guardaespaldas si esa guardaespaldas sigue en el campo de batalla.
-4. Si la guardaespaldas no sigue en el campo de batalla, el Líder vuelve como unidad separada.
-5. En turnos posteriores, cualquier "esta unidad" se refiere a esa unidad separada, no a la guardaespaldas destruida.
-
-## Si era una unidad adjunta destruida entera
-
-Si la unidad adjunta completa fue destruida y una estratagema devuelve únicamente la última miniatura destruida, lo que vuelve es esa miniatura concreta: el personaje. No vuelven por arrastre las miniaturas guardaespaldas ni otros personajes que también formasen parte de la unidad adjunta.
-
-Desde ese momento, comprueba qué unidad existe realmente en mesa. Si solo ha vuelto el personaje, su unidad no contiene una unidad guardaespaldas a la que añadir miniaturas, a menos que la propia estratagema o una regla específica diga otra cosa. En turnos posteriores seguirá sin poder devolver miniaturas de la antigua guardaespaldas, porque esa guardaespaldas no está en el campo de batalla ni forma parte de su unidad actual.
-
-## Si la guardaespaldas seguía en mesa
-
-Si el personaje fue eliminado pero la unidad guardaespaldas seguía en el campo de batalla, al ser devuelto debe volver a esa unidad si es posible y formar de nuevo una [[Unidad adjunta]].
-
-En ese caso, en una fase posterior adecuada, una habilidad que diga que devuelve miniaturas destruidas a "esta unidad" puede devolver miniaturas válidas de esa unidad, respetando sus condiciones y sin superar sus efectivos iniciales. Si la regla solo dice que una miniatura recupera heridas, no devuelve miniaturas.
-
-## Momento de uso
-
-El personaje tampoco usa sus habilidades mientras está eliminado. Una vez devuelto al campo, sus habilidades vuelven a aplicarse según corresponda, pero solo en el momento en que puedan usarse.
-
-Por ejemplo, si su curación se usa en tu fase de mando y el personaje vuelve al final de otra fase, no retrocede el tiempo para usar una habilidad cuyo momento ya pasó.
+Para devolver miniaturas destruidas, la habilidad debe decirlo expresamente. Una regla tipo Hospitalaria que devuelve miniaturas destruidas funciona por ese texto de devolución de miniaturas, no por el mero hecho de "curar heridas".
 
 ## Ejemplos
 
-Una unidad adjunta formada por una guardaespaldas y un personaje es destruida por completo. Usas una estratagema que devuelve al campo al personaje. El personaje vuelve, pero la guardaespaldas sigue destruida y el personaje está como unidad separada. En su siguiente fase de mando, aunque una habilidad diga que devuelve miniaturas destruidas a su unidad, no puede devolver miniaturas de la antigua guardaespaldas, porque ya no son parte de su unidad actual.
+Una unidad adjunta incluye una guardaespaldas y una Hospitalaria con [[Apoyo]]. La unidad entera es destruida y `Divine Intervention` devuelve a la Hospitalaria. Si no hay una regla que diga que, al morir la guardaespaldas, la Hospitalaria pasa a ser una unidad separada, la Hospitalaria sigue siendo parte de esa unidad adjunta. En su siguiente fase de mando, si su habilidad permite devolver miniaturas destruidas a su unidad, puede devolver miniaturas válidas de la guardaespaldas.
 
-Un personaje es eliminado por [[Precisión]], pero quedan miniaturas de la guardaespaldas en mesa. Más tarde una regla devuelve al personaje. Como la guardaespaldas está en el campo de batalla, el personaje vuelve a esa unidad. En una fase posterior, si su habilidad permite devolver miniaturas destruidas a esa unidad, podrá hacerlo si se cumplen las condiciones de esa habilidad.
-
-Un personaje vuelve solo después de que toda la unidad fuese destruida. Si su habilidad únicamente dice que una miniatura recupera heridas, puede curarse a sí mismo u otra miniatura válida según indique la regla, pero no puede devolver miniaturas destruidas.
-
-## Errores comunes
-
-- Tratar "recuperar heridas" como si fuera "devolver miniaturas destruidas".
-- Pensar que al revivir al personaje se revive también la unidad guardaespaldas que lo acompañaba.
-- Pensar que en turnos posteriores el personaje sigue unido a una guardaespaldas que fue destruida por completo.
-- Usar una habilidad de fase de mando en el mismo turno aunque el personaje haya vuelto después de ese momento.
-- Ignorar condiciones como "esta unidad contiene una unidad guardaespaldas".
-- Aplicar habilidades de una miniatura mientras esa miniatura todavía estaba eliminada.
+En cambio, si una regla especial sí dice que al eliminarse la guardaespaldas la Hospitalaria pasa a ser una unidad separada, entonces "esta unidad" será solo la unidad individual de la Hospitalaria. En ese caso no puede devolver miniaturas de la antigua guardaespaldas.
 
 ## Fundamento de reglas
 
-- [[Eliminado o eliminada]]: las miniaturas y unidades eliminadas no pueden usar habilidades salvo que una regla indique lo contrario.
-- [[Revivir]]: devolver miniaturas eliminadas a una unidad es un efecto específico y no puede superar los efectivos iniciales.
-- [[Unidad adjunta]]: una unidad adjunta combina guardaespaldas y unidades Líder/Apoyo mientras existe como unidad adjunta.
+- [[Unidad adjunta]]: una unidad adjunta es una sola unidad a efectos de reglas.
+- [[Formar unidades adjuntas]]: la app oficial aclara en `19.01.01` que la separación tras eliminar la guardaespaldas ocurre cuando una regla especial de ese tipo lo indica.
+- [[Revivir]]: cuando una regla devuelve miniaturas a una unidad, las añade a esa unidad sin superar sus efectivos iniciales.
+- [[Eliminado o eliminada]]: una miniatura eliminada no usa habilidades mientras está eliminada, salvo que una regla diga lo contrario.
 - [[Habilidades en unidades adjuntas]]: si una fuente destruida se devuelve más tarde a la unidad, sus habilidades vuelven a aplicarse según corresponda.
-- Comentario de reglas oficial, `Leader`, pág. 39: cuando se destruye la última miniatura de una unidad guardaespaldas, cada unidad `PERSONAJE` de esa unidad adjunta deja de formar parte de una unidad adjunta y se convierte en una unidad separada con sus efectivos iniciales originales.
-- Comentario de reglas oficial, `Returning Models to a Unit`, pág. 28: si un Líder destruido vuelve y la guardaespaldas a la que estaba unido está en el campo de batalla, debe volver a esa unidad; "otherwise, they are returned as a separate unit".
-- Comentario de reglas oficial, `Regaining Wounds`, pág. 28: recuperar heridas solo repone heridas perdidas de una miniatura y no puede ponerla por encima de sus heridas iniciales.
-- Reglas de hoja de datos tipo Hospitalaria o medikit: cuando una regla permite devolver miniaturas destruidas a "esta unidad", esa expresión apunta a la unidad actual que contiene la fuente de la habilidad.
-- Adepta Sororitas Faction Pack, hoja de datos de Sanctifiers, `Salvationist Medikit`: ejemplo de regla que devuelve miniaturas destruidas que no sean `CHARACTER` a esta unidad durante la fase de mando. La limitación importante es "esta unidad".
-- [[Actualizaciones de reglas de Adepta Sororitas]]: Divine Intervention devuelve la última miniatura destruida de la unidad al final de la fase; no devuelve automáticamente toda la unidad adjunta.
+- `Divine Intervention`: devuelve al campo el último modelo destruido de la unidad al final de la fase.
+
+## Errores comunes
+
+- Pensar que la guardaespaldas eliminada separa automáticamente al Líder o Apoyo.
+- Citar `19.01.01` como si dijera que siempre se separan; su texto habla de reglas especiales que producen esa separación.
+- Confundir recuperar heridas con devolver miniaturas destruidas.
+- Pensar que `Divine Intervention` devuelve más de una miniatura; solo devuelve la última miniatura destruida.
+- Usar la habilidad mientras el personaje sigue eliminado, antes de que vuelva al campo.
 
 ## Resumen para arbitraje casual
 
-Si toda la unidad adjunta fue destruida y solo vuelve la Hospitalaria/personaje, en turnos posteriores sigue siendo una unidad separada: "esta unidad" es solo esa unidad separada, así que no puede devolver miniaturas de la guardaespaldas destruida. Si la guardaespaldas seguía viva y el personaje volvió a ella, entonces sí podrá usar en turnos posteriores una regla que expresamente devuelva miniaturas destruidas a esa unidad. Curar heridas no basta.
+Sí puede, si la habilidad devuelve miniaturas destruidas a su unidad y no hay una regla que separe al personaje de la unidad adjunta. La app `19.01.01` no crea una separación automática; solo explica qué pasa cuando una regla especial sí dice que se separan.

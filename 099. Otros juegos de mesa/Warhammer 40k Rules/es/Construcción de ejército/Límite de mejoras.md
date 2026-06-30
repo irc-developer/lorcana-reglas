@@ -5,7 +5,7 @@ source_lang: en
 type: concept
 category: army-construction
 canonical: true
-source: warhammer-community-new-edition
+source: faction-packs-and-official-app
 surface: article
 owner-domain: army-construction
 tags:
@@ -32,34 +32,35 @@ Límite de mejoras es el número de elecciones de mejora disponibles al construi
 
 ## Reglas
 
-Ejemplos publicados:
-
-| Tamaño de batalla | Límite de mejoras |
-| --- | ---: |
-| Incursion | 2 |
-| Strike Force | 4 |
-
 Los destacamentos pueden proporcionar mejoras.
 
-Algunas mejoras pueden tener la etiqueta Upgrade, que cambia cómo pueden aplicarse a unidades que no son Character.
+Salvo que se especifique lo contrario, cada mejora solo se puede incluir una vez en el ejército y solo las unidades `PERSONAJE` pueden recibir mejoras. Si la unidad incluye más de una miniatura, eliges una miniatura `PERSONAJE` de esa unidad para recibir la mejora. Los `HÉROES ÉPICOS` no pueden tener mejoras.
+
+Algunas mejoras oficiales aparecen con la etiqueta `UPGRADE`, traducida en español como `TALENTO`. Cada `TALENTO` se puede incluir hasta 3 veces en el ejército. La segunda y tercera inclusión no cuentan para el máximo de mejoras, pero se pagan los puntos correspondientes cada vez.
+
+En `25.04`, las unidades Líder y Apoyo se adjuntan antes de elegir mejoras. Por tanto, si una unidad adjunta contiene un `HÉROE ÉPICO`, esa unidad adjunta no puede recibir una mejora ni un `TALENTO`.
+
+Algunas reglas de destacamento pueden modificar cómo cuentan sus mejoras para el total de mejoras del ejército. Por ejemplo, el pack de Adepta Sororitas confirma que las mejoras elegidas del destacamento Oradores santificados no cuentan para el número total de mejoras del ejército.
 
 ## Interacciones
 
-- [[Tamaño de batalla]] determina el límite de mejoras.
+- [[Tamaño de batalla]] determina el límite de mejoras cuando la fuente aprobada aplicable lo proporciona.
 - [[Destacamentos]] puede proporcionar mejoras.
-- [[Mejoras de unidad]] es una rama especial de mejoras para unidades que no son Character.
+- [[Mejoras de unidad]] registra la etiqueta `UPGRADE`/`TALENTO` y sus reglas generales de repetición y asignación.
 
 ## Restricciones
 
 - Este artículo registra la estructura del límite, no el texto de mejoras concretas.
 - Los costes y restricciones de mejoras concretas requieren artículos de destacamento o facción respaldados por fuente.
+- Los `HÉROES ÉPICOS` no pueden tener mejoras. Como las mejoras se asignan después de formar unidades adjuntas, una unidad adjunta que contiene un Héroe Épico no puede recibir una mejora.
 
 ## Dominio
 
 Parte de:
 [[Sistema de construcción de ejército]]
 
-## Referencias
+## Fuentes oficiales
 
-- Warhammer Community: Building an army in the new edition of Warhammer 40,000, 02 Apr 2026.
-- https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+- `doc/fuentes_oficiales/eng_11-06_warhammer40000_faction_pack_adepta_sororitas-ktlklgb0t5-knvswx9kyw.pdf`, página 4, destacamento `Sanctified Orators`, regla `Hymns of Battle`.
+- `doc/fuentes_oficiales/eng_11-06_warhammer40000_faction_pack_adepta_sororitas-ktlklgb0t5-knvswx9kyw.pdf`, páginas 2-4, mejoras con etiqueta `UPGRADE`.
+- App oficial de Warhammer 40,000, `25.04 Rellena la hoja de ejército`, sección `Elegir mejoras` y aclaración `Talentos`.

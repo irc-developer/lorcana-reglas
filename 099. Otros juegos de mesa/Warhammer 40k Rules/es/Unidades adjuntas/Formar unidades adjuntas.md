@@ -39,6 +39,12 @@ Ambas pueden liderar unidades guardaespaldas amigas para formar [[Unidad adjunta
 
 Las unidades líder y apoyo solo pueden liderar las unidades guardaespaldas indicadas por sus reglas.
 
+## Después de que la guardaespaldas sea eliminada
+
+La app oficial de Warhammer 40,000 incluye la aclaración `19.01.01 - Unidades adjuntas después de que su unidad Guardaespaldas sea eliminada`.
+
+Esta aclaración no dice que toda unidad adjunta se separe automáticamente en todos los casos. Aclara qué ocurre cuando una unidad adjunta está afectada por una regla especial que ya indica que, al eliminarse la guardaespaldas, las unidades líder y/o apoyo pasan a ser unidades separadas con sus efectivos iniciales originales: en ese caso, cada una pasa a ser una unidad individual a efectos de toda regla.
+
 ## Restricciones
 
 Salvo que se indique lo contrario, cada unidad guardaespaldas solo puede tener una unidad líder y una unidad apoyo adjuntas.
@@ -46,5 +52,6 @@ Salvo que se indique lo contrario, cada unidad guardaespaldas solo puede tener u
 ## Referencias
 
 - Reglas básicas oficiales: Formar unidades adjuntas 19.01.
+- App oficial de Warhammer 40,000: 19.01.01, Unidades adjuntas después de que su unidad Guardaespaldas sea eliminada.
 - Reglas básicas oficiales: Líder 24.22.
 - Reglas básicas oficiales: Apoyo 24.34.

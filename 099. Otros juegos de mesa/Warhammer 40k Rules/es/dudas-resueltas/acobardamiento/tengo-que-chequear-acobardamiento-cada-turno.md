@@ -132,7 +132,7 @@ Si una unidad contiene varias miniaturas vehículo, se compara el número de min
 - [[Tiradas de acobardamiento]]: una tirada fallida hace que la unidad pase a estar acobardada.
 - [[Efectivos iniciales y mitad de efectivos]]: define cuándo una unidad está a mitad de efectivos o bajo mitad de efectivos.
 - [[Retroceder]]: Huida desesperada puede provocar una tirada adicional fuera del paso normal de Acobardamiento.
-- Referencias oficiales: Reglas básicas `08.03`, Acobardamiento, y `01.07`, Tiradas de acobardamiento.
+- Fuente oficial: `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, referencias `08.03` Battle-shock, `01.07` Battle-shock Rolls, y Rules Appendix, Starting Strength.
 
 ## Resumen para arbitraje casual
 

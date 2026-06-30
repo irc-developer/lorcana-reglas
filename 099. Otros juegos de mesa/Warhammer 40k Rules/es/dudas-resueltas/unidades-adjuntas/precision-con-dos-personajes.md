@@ -96,7 +96,7 @@ Las tiradas de salvación y el daño sí se resuelven usando el grupo del person
 - [[Precisión]]: el jugador activo puede elegir un grupo de asignación `PERSONAJE` visible al inicio del paso de orden de asignación.
 - [[Infligir daño]]: los ataques se asignan a miniaturas del grupo en curso y, cuando ese grupo es eliminado, se continúa con el siguiente grupo del orden de asignación.
 - [[Atacar a unidades adjuntas]]: mientras queden guardaespaldas, se usa la Resistencia más alta de esas miniaturas para resolver los ataques.
-- Referencias oficiales: `05.03`, `05.04`, `19.02` y `24.28`.
+- Fuente oficial: `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, referencias `05.03`, `05.04`, `19.02` y `24.28`.
 
 ## Resumen para arbitraje casual
 

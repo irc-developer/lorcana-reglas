@@ -2,20 +2,24 @@
 type: rules-question
 category: adepta-sororitas
 canonical: false
-source: core-rules-and-faction-rules
+source: core-rules-and-official-app
 surface: resolved-question
 owner-domain: attached-units
 status: verified
 rules:
-  - 19.00
   - 19.01
   - 19.04
+  - 25.04
+  - Hagiomnifex
+  - Hymns of Battle
+  - Talentos
 tags:
   - warhammer40k
   - resolved-question
   - adepta-sororitas
   - attached-units
   - hagiomnifex
+  - upgrades
   - rules-application
 aliases:
   - puedo usar Hagiomnifex dos veces en la misma unidad
@@ -24,59 +28,58 @@ aliases:
   - dos Hagiomnifex en una unidad adjunta
   - una activación de Hagiomnifex por personaje
 related:
-  - Oradores santificados
   - Unidad adjunta
   - Formar unidades adjuntas
   - Habilidades en unidades adjuntas
+  - Mejoras de unidad
+  - Límite de mejoras
 ---
 
 # ¿Puedo usar Hagiomnifex una vez por cada personaje de una unidad adjunta?
 
 ## Respuesta corta
 
-No. Mientras el Líder, el Apoyo y la unidad guardaespaldas formen una [[Unidad adjunta]], cuentan como una sola unidad. Hagiomnifex solo puede usarse una vez por turno y por unidad, aunque dos de los personajes que la componen tengan esa mejora.
+No. En construcción de ejército, ni siquiera deberías poder asignar dos Hagiomnifex a la misma unidad adjunta.
 
-## Regla práctica
+La app `25.04 Rellena la hoja de ejército` indica que primero adjuntas unidades [[Líder]] y [[Apoyo]] a sus guardaespaldas, y después eliges mejoras. Al elegir mejoras, asignas cada mejora a una unidad diferente de tu ejército. Como la unidad adjunta ya es una sola unidad, no puedes dar dos copias de Hagiomnifex a dos personajes dentro de esa misma unidad adjunta.
 
-Cuenta la unidad que usa la mejora, no el número de copias de Hagiomnifex presentes en ella.
+## Qué dice la regla
 
-Una unidad adjunta puede usar Hagiomnifex una sola vez durante cada turno y elegir un único beneficio en esa activación. Tener dos copias de la mejora dentro de esa misma unidad no permite activarla dos veces ni elegir dos beneficios.
+El Core Rules dice que una [[Unidad adjunta]] es una sola unidad a todos los efectos de reglas.
 
-Si los dos personajes pertenecen a unidades distintas, cada una de esas unidades puede usar su propio Hagiomnifex una vez por turno.
+El Faction Pack de Adepta Sororitas dice que Hagiomnifex es una mejora `Upgrade` para una unidad `ADEPTA SORORITAS CHARACTER`, excluyendo unidades `PENITENT`, y que su habilidad se usa una vez por turno y por unidad al inicio de una fase.
 
-## Cómo decidirlo en mesa
+La app oficial añade el punto de construcción de lista: las unidades Líder y Apoyo se adjuntan antes de elegir mejoras, y cada mejora se asigna a una unidad diferente.
 
-1. Comprueba qué unidades forman la [[Unidad adjunta]].
-2. Trátalas como una sola unidad para resolver reglas que afectan a unidades.
-3. Comprueba si esa unidad ya ha usado Hagiomnifex durante el turno actual.
-4. Si no lo ha usado, al inicio de una fase puede activarlo y elegir un beneficio.
-5. Si ya lo ha usado, no puede volver a activarlo ese turno, aunque otro personaje de la unidad también tenga la mejora.
+## Aplicación a la duda
 
-## Ejemplos
+Si un Líder y un Apoyo van a formar parte de la misma unidad adjunta, esa unidad adjunta ya existe cuando eliges mejoras.
 
-Una unidad guardaespaldas tiene adjuntos un Líder y un Apoyo. Ambos personajes tienen Hagiomnifex. Al inicio de la fase de movimiento, la unidad usa la mejora y elige el beneficio que mejora su Movimiento. Durante ese turno no puede volver a usar Hagiomnifex al inicio de otra fase para elegir un segundo beneficio.
+Por tanto, no puedes asignar una copia de Hagiomnifex al Líder y otra al Apoyo como si fueran unidades separadas. En ese momento ya no son dos unidades distintas para asignar mejoras: forman parte de una única unidad adjunta.
 
-En cambio, un Líder con Hagiomnifex está unido a una unidad guardaespaldas y otro personaje con Hagiomnifex está unido a una unidad guardaespaldas diferente. Son dos unidades adjuntas distintas, por lo que cada una puede usar Hagiomnifex una vez durante el mismo turno.
+Si tienes varias unidades adjuntas distintas, sí puedes incluir Hagiomnifex en más de una de ellas, respetando el límite de hasta tres copias de un mismo `Talento` y pagando cada vez.
+
+## Si llegara a haber dos copias
+
+Si por una regla excepcional o un error de lista una misma unidad tuviera dos copias de Hagiomnifex, su texto seguiría limitando el uso a una vez por turno y por unidad.
+
+Pero para construir la lista normal con `25.04`, la respuesta principal es más fuerte: no puedes asignar dos Hagiomnifex a la misma unidad adjunta.
 
 ## Errores comunes
 
-- Interpretar «por unidad» como «por personaje» o «por portador».
+- Asignar mejoras al Líder y al Apoyo como si todavía fueran unidades separadas.
+- Olvidar que las unidades se adjuntan antes de elegir mejoras.
+- Pensar que "hasta tres copias" permite poner varias copias en la misma unidad.
+- Interpretar "por unidad" como "por personaje".
 - Pensar que Hagiomnifex puede usarse una vez en cada fase; su límite es una vez por turno.
-- Elegir dos beneficios a la vez porque la unidad contiene dos copias de la mejora.
-- Tratar al Líder y al Apoyo como unidades separadas mientras siguen formando parte de la misma unidad adjunta.
-- Confundir la posibilidad de asignar la mejora a dos unidades durante la construcción del ejército con el número de veces que puede usarse después de que esas unidades se hayan unido.
 
-## Fundamento de reglas
+## Fuentes oficiales
 
-- [[Oradores santificados]]: Hagiomnifex establece expresamente un límite de una vez por turno y por unidad.
-- [[Unidad adjunta]]: la unidad guardaespaldas y las unidades Líder y Apoyo que la lideran forman una sola unidad a efectos de reglas.
-- [[Formar unidades adjuntas]]: define cuándo las unidades Líder y Apoyo se unen a la unidad guardaespaldas.
-- [[Habilidades en unidades adjuntas]]: explica cómo se aplican las habilidades y reglas que afectan a una unidad adjunta.
-- Referencias oficiales de las Reglas básicas: `19.00`, `19.01` y `19.04`.
-- Guía de facción oficial de Adepta Sororitas, 11 de mayo de 2026, sección Oradores santificados.
-
-La conclusión procede directamente de combinar el límite textual de Hagiomnifex con la definición de unidad adjunta. No se obtiene una activación adicional por cada copia de la mejora presente en la unidad.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `19.01` Forming Attached Units.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `19.04` Abilities in Attached Units.
+- `doc/fuentes_oficiales/eng_11-06_warhammer40000_faction_pack_adepta_sororitas-ktlklgb0t5-knvswx9kyw.pdf`, Sanctified Orators, `Hymns of Battle` y `Hagiomnifex`.
+- App oficial de Warhammer 40,000, `25.04 Rellena la hoja de ejército`, secciones `Adjuntar unidades Líder y Apoyo`, `Elegir mejoras` y aclaración `Talentos`.
 
 ## Resumen para arbitraje casual
 
-El Líder, el Apoyo y la unidad guardaespaldas son una sola unidad mientras estén adjuntos. Como Hagiomnifex se limita a una vez por turno y por unidad, esa unidad solo puede activarlo una vez y elegir un beneficio, aunque contenga dos copias de la mejora.
+No puedes poner dos Hagiomnifex en la misma unidad adjunta: primero se forman las unidades adjuntas y después se asignan mejoras a unidades diferentes. Si por alguna excepción hubiera dos copias en una misma unidad, Hagiomnifex seguiría siendo una vez por turno y por unidad.

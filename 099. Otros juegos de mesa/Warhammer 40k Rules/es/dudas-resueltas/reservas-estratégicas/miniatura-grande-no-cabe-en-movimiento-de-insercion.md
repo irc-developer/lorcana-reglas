@@ -2,13 +2,13 @@
 type: rules-question
 category: strategic-reserves
 canonical: false
-source: core-rules-and-rules-appendix
+source: core-rules
 surface: resolved-question
 owner-domain: strategic-reserves
 status: verified
 rules:
   - 03.02
-  - 17.02
+  - 20.03
   - 20.04
 tags:
   - warhammer40k
@@ -28,73 +28,55 @@ related:
   - Movimiento de inserción
   - Llegar desde reservas estratégicas
   - Desplegar
-  - Figura
 ---
 
 # ¿Qué hago si una miniatura es demasiado grande para entrar completamente dentro de 6" del borde?
 
 ## Respuesta corta
 
-Si la miniatura es físicamente demasiado grande para quedar completamente dentro de 6" del borde durante su [[Movimiento de inserción]], despliega la miniatura **tocando ese borde del campo de batalla**.
+Con las fuentes oficiales aprobadas para esta wiki, no hay una excepción que permita desplegar una miniatura demasiado grande tocando el borde si no puede quedar completamente dentro de 6".
 
-Debe respetar todas las demás restricciones de la entrada, especialmente quedar a más de 8" en horizontal de toda unidad enemiga. Durante ese turno, su unidad **no puede realizar ataques con armas a distancia ni declarar una carga**.
+El `Ingress Move` exige desplegar la unidad completamente dentro de 6" de uno o más bordes del campo de batalla y a más de 8" en horizontal de toda unidad enemiga. Si no puedes desplegar todos los modelos cumpliendo todos los requisitos y restricciones, la regla general de `Set Up` indica que debes retirar la unidad del campo de batalla y devolverla a su posición original, por ejemplo a reservas estratégicas.
 
-Por tanto, un Profanador que no quepa completamente en la franja de 6" puede entrar tocando el lateral, siempre que el resto de su posición sea legal.
+## Qué dice la regla
 
-## Cómo resolverlo en mesa
+`Set Up` exige colocar una unidad en el campo de batalla de modo que:
 
-1. Comprueba que la miniatura no cabe por su propio tamaño físico, incluso colocándola en una orientación legal.
-2. Elige el borde permitido por el [[Movimiento de inserción]].
-3. Despliega la miniatura tocando ese borde.
-4. Comprueba que queda a más de 8" en horizontal de toda unidad enemiga.
-5. Antes de la tercera ronda de batalla, comprueba también que ninguna parte relevante de la miniatura queda en la zona de despliegue del oponente.
-6. La unidad no puede realizar ataques con armas a distancia ni declarar una carga durante ese turno.
+- esté en coherencia;
+- no esté trabada;
+- cumpla todos los demás requisitos y restricciones aplicables.
 
-Si no existe ninguna posición que cumpla estas condiciones, la unidad no puede completar el movimiento de inserción. Retírala y devuélvela a reservas estratégicas; podrá intentar entrar más adelante si todavía dispone de una ventana de llegada válida.
+Si no puedes desplegar todos los modelos de la unidad, retiras esa unidad del campo de batalla y la devuelves a su posición original.
 
-## Qué significa «demasiado grande»
+El `Ingress Move` de reservas estratégicas exige desplegar la unidad:
 
-La excepción se aplica porque las dimensiones de la propia miniatura impiden colocarla completamente dentro de la franja de 6".
+- completamente dentro de 6" de uno o más bordes del campo de batalla;
+- a más de 8" en horizontal de toda unidad enemiga;
+- antes de la tercera ronda de batalla, sin modelos dentro de la zona de despliegue del oponente.
 
-No se aplica simplemente porque:
+## Aplicación a la duda
 
-- una unidad enemiga bloquea las posiciones disponibles;
-- el terreno impide colocar la miniatura de forma estable o legal;
-- no hay espacio para mantener la coherencia de una unidad con varias miniaturas;
-- otra restricción de despliegue impide usar la posición elegida.
+Si una miniatura grande no puede colocarse completamente dentro de 6" del borde permitido, el PDF aprobado no da una excepción especial para colocarla solo tocando el borde.
 
-En esos casos debes buscar otra posición legal. Si no existe, no puedes desplegar la unidad mediante ese movimiento.
+Por tanto, con estas fuentes aprobadas, esa unidad no completa legalmente el `Ingress Move` en esa posición. Debe devolverse a su posición original, normalmente reservas estratégicas. Si más adelante todavía existe una ventana legal para llegar desde reservas, podrá intentar hacer un `Ingress Move` que sí cumpla las condiciones.
 
-## Miniaturas con Figura
+## Conclusión
 
-Si la miniatura tiene la clave [[Figura]], las referencias a su posición se miden desde el punto más cercano de la miniatura, no necesariamente desde su peana.
-
-Esto es relevante para miniaturas grandes o sin peana, como algunos vehículos. La excepción no permite que ninguna parte de la miniatura atraviese el borde del campo de batalla: debe quedar sobre el campo y tocando el borde correspondiente.
-
-## Ejemplo: Profanador
-
-Un Profanador realiza un movimiento de inserción desde un borde lateral. Por sus dimensiones no puede quedar completamente dentro de 6" de ese borde.
-
-Puede desplegarse con la parte pertinente de la miniatura tocando el borde lateral. Aun así, debe quedar a más de 8" en horizontal de toda unidad enemiga y cumplir la restricción de la zona de despliegue rival si la entrada ocurre antes de la tercera ronda.
-
-Después de entrar de esta forma, puede permanecer en el campo de batalla y ser elegido normalmente para otros efectos permitidos, pero durante ese turno no puede disparar ni declarar una carga.
+No uses la solución de "tocar el borde" como regla verificada de esta wiki, porque no aparece en el PDF aprobado. La posición debe cumplir el requisito de estar completamente dentro de 6"; si no puede cumplirlo, la unidad vuelve a su posición original.
 
 ## Errores comunes
 
-- Dejar parte de la miniatura fuera del campo de batalla.
-- Ignorar la distancia de más de 8" respecto de las unidades enemigas.
-- Usar la excepción porque el enemigo o el terreno bloquean la entrada, aunque la miniatura sí quepa físicamente dentro de 6".
-- Permitir que la unidad dispare o declare una carga durante el turno en que usa esta excepción.
-- Medir siempre desde la peana aunque la miniatura tenga la clave [[Figura]].
+- Aplicar una excepción procedente de material no incluido en `doc/fuentes_oficiales/`.
+- Tratar "tocando el borde" como equivalente a "completamente dentro de 6".
+- Ignorar la distancia de más de 8" respecto de unidades enemigas.
+- Mantener la unidad en una posición que no cumple todos los requisitos de `Set Up`.
 
-## Fundamento de reglas
+## Fuentes oficiales
 
-- [[Movimiento de inserción]]: normalmente exige desplegar la unidad completamente dentro de 6" de uno o más bordes y a más de 8" en horizontal de toda unidad enemiga.
-- Apéndice de reglas, Desplegar miniaturas grandes: permite que una miniatura físicamente demasiado grande se despliegue tocando el borde y limita sus ataques a distancia y sus cargas durante ese turno.
-- [[Desplegar]]: exige cumplir todas las condiciones y restricciones aplicables para colocar la unidad.
-- [[Figura]]: modifica desde dónde se mide la posición de determinadas miniaturas grandes.
-- Referencias oficiales: Reglas básicas `20.04` y Apéndice de reglas de la app de Warhammer 40,000.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `03.02` Set Up.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `20.03` Arriving from Strategic Reserves.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `20.04` Ingress Move.
 
 ## Resumen para arbitraje casual
 
-Si la miniatura no cabe dentro de 6" por su propio tamaño, colócala tocando el borde de entrada. Debe seguir a más de 8" de toda unidad enemiga y cumplir las demás restricciones. Ese turno no puede disparar ni declarar una carga. Si ni así existe una posición legal, vuelve a reservas estratégicas.
+Con el PDF aprobado, una unidad que entra desde reservas debe quedar completamente dentro de 6" del borde y a más de 8" del enemigo. Si una miniatura grande no cabe cumpliendo eso, no hay excepción aprobada para ponerla tocando el borde: vuelve a reservas o a su posición original.

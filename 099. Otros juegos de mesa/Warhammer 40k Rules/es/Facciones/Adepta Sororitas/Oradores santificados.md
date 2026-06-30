@@ -52,8 +52,8 @@ La guia de faccion no previewa una estratagema concreta para Oradores santificad
 - [[Alcance de detección]] importa para Rito de la Revelacion.
 - [[Tiradas para herir]] importa para Coro del Repudio.
 - [[Límite de mejoras]] importa porque las mejoras de este destacamento no cuentan contra el total normal.
-- [[cuantos-hagiomnifex-puedo-comprar|¿Cuántas veces puedo elegir Hagiomnifex si no cuenta para el límite de mejoras?]] distingue entre la elección de la mejora y sus aplicaciones como Upgrade.
-- [[hagiomnifex-en-unidad-adjunta|¿Puedo usar Hagiomnifex una vez por cada personaje de una unidad adjunta?]] resuelve el límite de activaciones cuando un Líder y un Apoyo con esta mejora forman parte de la misma unidad.
+- [[cuantos-hagiomnifex-puedo-comprar|¿Cuántas veces puedo elegir Hagiomnifex si no cuenta para el límite de mejoras?]] resuelve el límite de hasta tres inclusiones de Hagiomnifex como Talento/Upgrade.
+- [[hagiomnifex-en-unidad-adjunta|¿Puedo usar Hagiomnifex una vez por cada personaje de una unidad adjunta?]] aclara que no puedes asignar dos Hagiomnifex a la misma unidad adjunta al construir la lista.
 
 ## Restricciones
 

@@ -86,7 +86,7 @@ Si un ataque tiene [[Precisión]], el jugador activo puede elegir un grupo de as
 - [[Formar unidades adjuntas]]: explica que Líder y Apoyo se unen a la unidad guardaespaldas, no uno al otro.
 - [[Atacar a unidades adjuntas]]: mantiene el marco de unidad adjunta al resolver ataques contra ella.
 - [[Precisión]]: permite al jugador activo elegir un grupo de asignación `PERSONAJE` visible en el momento indicado.
-- Referencias oficiales: `05.03`, `19.00`, `19.01`, `19.02`, `24.28` y `24.34`.
+- Fuente oficial: `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, referencias `05.03`, `19.00`, `19.01`, `19.02`, `24.28` y `24.34`.
 
 ## Resumen para arbitraje casual
 

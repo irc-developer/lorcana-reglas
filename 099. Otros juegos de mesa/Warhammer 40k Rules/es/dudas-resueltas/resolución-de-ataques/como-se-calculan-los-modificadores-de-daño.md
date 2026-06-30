@@ -2,11 +2,12 @@
 type: rules-question
 category: attack-resolution
 canonical: false
-source: core-rules-and-missing-digital-reference
+source: core-rules-app
 surface: resolved-question
 owner-domain: attack-resolution
-status: needs-official-clarification
+status: verified
 rules:
+  - 02.02.01
   - 02.04
   - 05.04
   - 06.02
@@ -27,6 +28,8 @@ aliases:
   - reducir el daño a cero
   - reducir el daño a la mitad
   - daño cero y fusión
+  - daño reducido a cero y fusión
+  - no se suma fusión si el daño es cero
   - dividir y restar daño
 related:
   - Daño (D)
@@ -40,57 +43,110 @@ related:
 
 ## Respuesta corta
 
-Las Reglas básicas de 2026 remiten expresamente a una entrada llamada **Characteristic Modifiers** en la página 11, pero esa entrada no está desarrollada en las 88 páginas del PDF y, a fecha de 15 de junio de 2026, tampoco aparece en el manual de la app.
+La app oficial sí contiene la regla general de modificadores. Para calcular el [[Daño (D)|Daño]] final de un ataque, aplica los modificadores en este orden:
 
-Por tanto, **el orden general de los modificadores de atributos no está actualmente disponible en una fuente oficial consultable**. El PDF parece contener una referencia a contenido digital omitido o todavía no publicado.
+1. Cambiar o reemplazar el valor por un valor especificado, por ejemplo cambiar el Daño a `0`.
+2. Multiplicar.
+3. Sumar, por ejemplo [[Fusión|[FUSIÓN X]]].
+4. Dividir, por ejemplo reducir el Daño a la mitad.
+5. Restar.
+6. Redondear al alza cualquier fracción, después de aplicar todos los modificadores.
 
-La fórmula usada en la edición anterior era:
+Pero antes de hacer esa cuenta hay una comprobación más importante: **solo puedes sumar, restar, multiplicar o dividir si el ataque conserva un atributo D numérico modificable**.
 
-`cambiar o sustituir → dividir → multiplicar → sumar → restar → redondear al alza`
+Si una regla reduce el Daño a `0`, lo cambia a `-`, indica que el ataque no inflige daño o deja el Daño sin valor numérico, no le sumas nada después. No añades [[Fusión|[FUSIÓN X]]], no aplicas otros `+1 al Daño` y no intentas reconstruir un Daño a partir de `0`, `-` o "nada".
 
-Es el precedente más razonable para un arbitraje provisional, pero no debe presentarse como texto verificado de las reglas de 2026 hasta que Games Workshop publique la entrada ausente o una FAQ equivalente.
+La parte fácil de olvidar en los casos que sí tienen Daño numérico es que **la suma va antes que la división**.
 
-## Lo que sí está confirmado
+## Regla práctica
 
-- [[Daño (D)|Daño]] es el atributo `D` del arma.
-- Cuando un ataque inflige daño, la miniatura elegida pierde una cantidad de heridas igual a `D`.
-- [[Fusión|[FUSIÓN X]]] suma `X` al atributo `D` si se cumple su condición de alcance.
-- El ejemplo oficial de Fusión convierte un atributo `D6` en `D6+2`.
-- [[Heridas devastadoras|[HERIDAS DEVASTADORAS]]] usa el atributo `D` para determinar las heridas mortales causadas por una herida crítica.
+Cuando una regla cambia o reemplaza un atributo por un valor concreto, ese cambio se resuelve antes que los modificadores matemáticos. A partir de ese nuevo valor, aplicas multiplicaciones, sumas, divisiones y restas.
+
+Sin embargo, si esa regla deja el Daño en `0`, `-` o sin infligir daño, la secuencia se detiene para ese ataque: no hay un atributo D válido sobre el que aplicar sumas posteriores.
+
+Si el atributo ya incluye un operador, ese operador forma parte del atributo y no es un modificador externo. Por ejemplo, si el arma tiene Daño `D6+1`, primero determinas ese valor completo y después aplicas los modificadores.
+
+Las fracciones no se redondean en mitad del cálculo. Se redondea al alza solamente al final, después de todos los modificadores.
+
+## Ejemplos
+
+### Daño reducido a 0
+
+Un ataque de Daño 6 está sujeto a una regla que reduce su Daño a `0`.
+
+Ese ataque queda en Daño 0. Si también tendría `[FUSIÓN 2]`, no le sumas ese `+2`: sigue siendo Daño 0.
+
+### Daño `-`, sin Daño o sin infligir daño
+
+Si una regla cambia el atributo D del ataque a `-`, hace que el ataque no inflija daño o dice que su Daño se reduce a nada, no hay un valor numérico que modificar.
+
+En esos casos, no añades `[FUSIÓN X]`, no aplicas `+1 al Daño` y no pasas a dividir o restar. El ataque no recupera Daño por modificadores posteriores.
+
+### Fusión y reducción a la mitad con Daño numérico
+
+Un ataque de Daño 4 recibe `[FUSIÓN 2]` y después otra regla reduce su Daño a la mitad.
+
+Como el ataque sí conserva un Daño numérico, se aplica el orden normal:
+
+`(4 + 2) ÷ 2 = 3`
+
+El resultado es Daño 3.
+
+### Sumar y reducir a la mitad
+
+Un ataque de Daño 5 recibe `+1 al Daño` y después se reduce a la mitad.
+
+`(5 + 1) ÷ 2 = 3`
+
+El resultado es Daño 3. No es `5 ÷ 2 + 1`.
+
+### Reducir a la mitad y restar
+
+Un ataque de Daño 5 se reduce a la mitad y además recibe `-1 al Daño`.
+
+`5 ÷ 2 - 1 = 1,5`
+
+Después de aplicar todos los modificadores, se redondea al alza:
+
+`1,5 → 2`
+
+El resultado es Daño 2.
+
+### Daño aleatorio
+
+Un arma tiene Daño `D6+1`. Sacas un `4`, así que su Daño es `5`. Si luego recibe `+1 al Daño` y se reduce a la mitad:
+
+`(5 + 1) ÷ 2 = 3`
+
+El `+1` del perfil `D6+1` no es el mismo modificador que el `+1 al Daño` aplicado después.
 
 ## Heridas devastadoras
 
-Si una regla modifica válidamente el atributo `D`, [[Heridas devastadoras]] usa el valor que tenga ese atributo al resolverse la habilidad.
+[[Heridas devastadoras]] usa el atributo D del ataque para determinar cuántas heridas mortales se infligen cuando se obtiene una herida crítica.
 
-Cada herida crítica solo puede dañar a una miniatura y se pierde cualquier exceso de heridas mortales de ese ataque.
+Por tanto, si el atributo D está modificado, primero calcula el Daño final con el orden anterior. Después usa ese valor final para determinar las heridas mortales de Heridas devastadoras.
 
-## Criterio provisional de arbitraje
+Esto no convierte cualquier herida mortal adicional del arma en Daño modificable. Si una regla causa heridas mortales por otro medio, solo se modifican si esa propia regla lo permite.
 
-Hasta que aparezca **Characteristic Modifiers**, una mesa o evento puede adoptar expresamente la fórmula de la edición anterior:
+## Errores comunes
 
-1. Determinar primero el atributo aleatorio.
-2. Cambiar o sustituir valores.
-3. Dividir.
-4. Multiplicar.
-5. Sumar.
-6. Restar.
-7. Redondear al alza al final.
+- Aplicar la división antes que la suma.
+- Redondear inmediatamente después de dividir.
+- Tratar el `+1` de `D6+1` como si fuera un modificador externo.
+- Resolver `[FUSIÓN]` antes de cambiar el Daño a 0.
+- Sumar `[FUSIÓN]` a un ataque cuyo Daño fue reducido a `0`, cambiado a `-` o anulado.
+- Pensar que un ataque que no inflige daño puede recuperar Daño mediante modificadores posteriores.
+- Aplicar modificadores al Daño de Heridas devastadoras después de convertirlo en heridas mortales.
 
-Con ese criterio provisional, cambiar el Daño a 0 se aplicaría antes que `[FUSIÓN 2]`, dando como resultado Daño 2. Este resultado era una FAQ expresa de la edición anterior, pero todavía no está confirmado por una fuente publicada para la edición de 2026.
+## Fuentes oficiales
 
-## Fundamento de reglas
-
-- [[Daño (D)]]: Reglas básicas, Armas `02.04`, página 10.
-- Modificadores de atributos: la página 11 incluye **Characteristic Modifiers** entre las referencias aplicables a perfiles y armas, pero no contiene su definición.
-- Soporte digital: la página 86 explica que la app oficial contiene definiciones ampliadas, interacciones poco frecuentes y FAQ. Sin embargo, **Characteristic Modifiers** no figura actualmente en el manual de la app.
-- [[Infligir daño]]: Reglas básicas, Infligir daño `05.04`.
-- [[Heridas mortales]]: Reglas básicas, Heridas mortales `06.02`.
-- [[Heridas devastadoras]]: Reglas básicas, `[HERIDAS DEVASTADORAS]` `24.10`, página 80.
-- [[Fusión]]: Reglas básicas, `[FUSIÓN]` `24.25`, página 83. Su ejemplo convierte un atributo `D6` en `D6+2`.
-- PDF oficial de las Reglas básicas de 2026: https://assets.warhammer-community.com/eng_01-06_warhammer40k_new40k_core_rules-was6fbu1ix-hfewhmxyiy.pdf
-- Descargas oficiales de Warhammer 40,000: https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/
-- Precedente histórico: *Core Rules Updates* versión 1.8 con *Rules Commentary* versión 1.7 de la edición anterior.
+- App oficial de Warhammer 40,000, Reglas básicas, `02. Hojas de datos`, `02.02 Perfiles`, `02.02.01 Modificadores`: orden para aplicar modificadores.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `02.04` Profiles and Weapons: atributo `D` y referencia no desarrollada a `Characteristic Modifiers`.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `05.04` Inflict Damage: pérdida de heridas igual al atributo `D`.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `06.02` Mortal Wounds: resolución de heridas mortales.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `24.10` `[DEVASTATING WOUNDS]`.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `24.25` `[MELTA]`.
 
 ## Resumen para arbitraje casual
 
-El PDF de 2026 remite a **Characteristic Modifiers**, pero la definición no está publicada ni en sus 88 páginas ni actualmente en el manual de la app. La fórmula de la edición anterior puede usarse como criterio provisional acordado, no como una regla de 2026 ya verificada.
+Para calcular Daño: cambia o reemplaza valores, multiplica, suma, divide, resta y redondea al alza al final. Pero si una regla reduce el Daño a `0`, lo cambia a `-` o hace que el ataque no inflija daño, paras ahí: no se le suma `[FUSIÓN]` ni ningún otro bono posterior.

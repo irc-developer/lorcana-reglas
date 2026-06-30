@@ -71,7 +71,7 @@ Si una guardaespaldas ya tiene una unidad Líder adjunta, todavía puede recibir
 - [[Unidad adjunta]]: una vez formada, la combinación funciona como una sola unidad a efectos de reglas.
 - [[Habilidades en unidades adjuntas]]: explica cómo se aplican después las habilidades o reglas que afectan a la unidad combinada.
 - [[Líder]] y [[Apoyo]]: son habilidades básicas que remiten al procedimiento de unidades adjuntas.
-- Referencias oficiales: `19.01`, `24.22` y `24.34`.
+- Fuente oficial: `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, referencias `19.01`, `24.22` y `24.34`.
 
 ## Resumen para arbitraje casual
 

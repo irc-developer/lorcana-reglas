@@ -72,7 +72,7 @@ También funciona en el otro sentido a nivel de unidad: si la Escolta aporta una
 - [[Unidad adjunta]] y [[Formar unidades adjuntas]]: explican cuándo una unidad de Escolta y un Líder o Apoyo pasan a ser una sola unidad adjunta.
 - [[Unidades y miniaturas]]: separa las comprobaciones sobre unidades de las comprobaciones sobre miniaturas.
 - [[Anti]]: ejemplo de regla que comprueba la keyword de la unidad blanco.
-- Referencias oficiales: `19.03`, `02.05`, `01.02`, `19.01` y `24.03`.
+- Fuente oficial: `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, referencias `19.03`, `02.05`, `01.02`, `19.01` y `24.03`.
 
 ## Resumen para arbitraje casual
 

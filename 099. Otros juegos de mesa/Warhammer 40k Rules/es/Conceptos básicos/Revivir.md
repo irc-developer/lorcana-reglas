@@ -46,10 +46,11 @@ Las miniaturas devueltas a una unidad se despliegan en coherencia con las miniat
 
 Pueden estar trabadas con unidades enemigas solo si esas unidades ya están trabadas con la unidad a la que se devuelven esas miniaturas.
 
-Si una miniatura líder o apoyo de una unidad adjunta resulta eliminada y posteriormente revivida, debe ser devuelta a esa unidad adjunta si la unidad guardaespaldas a la que estaba unida sigue en el campo de batalla. Si esa unidad guardaespaldas no está en el campo de batalla, la miniatura revivida vuelve como una unidad separada.
+Si una miniatura líder o apoyo de una unidad adjunta resulta eliminada y posteriormente revivida, debe ser devuelta a esa unidad adjunta si es posible. Si una regla aplicable establece que, al eliminarse la guardaespaldas, las unidades líder y/o apoyo pasan a ser unidades separadas, aplica esa regla antes de determinar a qué unidad se devuelven las miniaturas.
 
 ## Referencias
 
 - Reglas básicas oficiales: Revivir, Apéndice de reglas.
-- Comentario de reglas oficial: Returning Models to a Unit.
-- Comentario de reglas oficial: Leader, separación de unidades adjuntas cuando se destruye la última miniatura de una unidad guardaespaldas o de una unidad personaje.
+- App oficial de Warhammer 40,000: 19.01.01, Unidades adjuntas después de que su unidad Guardaespaldas sea eliminada.
+- `Warhammer 40,000 Core Rules Updates and Rules Commentary`, sección `Rules Commentary`: Returning Models to a Unit.
+- `Warhammer 40,000 Core Rules Updates and Rules Commentary`, sección `Updates & Errata`: Page 39 - Leader, separación de unidades adjuntas cuando se destruye la última miniatura de una unidad guardaespaldas o de una unidad personaje.

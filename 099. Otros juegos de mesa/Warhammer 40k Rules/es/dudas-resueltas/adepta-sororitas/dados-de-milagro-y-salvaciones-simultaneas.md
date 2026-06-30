@@ -2,7 +2,7 @@
 type: rules-question
 category: adepta-sororitas
 canonical: false
-source: core-rules-and-faction-rules
+source: core-rules
 surface: resolved-question
 owner-domain: attack-resolution
 status: verified
@@ -10,6 +10,7 @@ rules:
   - 04.03
   - 05.00
   - 05.03
+  - Acts of Faith FAQ
 tags:
   - warhammer40k
   - resolved-question
@@ -26,8 +27,6 @@ aliases:
   - puedo esperar al resultado para usar un dado de milagro
   - tiradas rápidas y dados de milagro
 related:
-  - Adepta Sororitas
-  - Actualizaciones de reglas de Adepta Sororitas
   - Resolver ataques
   - Secuencia de ataque
   - Tiradas de salvación
@@ -38,77 +37,42 @@ related:
 
 ## Respuesta corta
 
-No. En la secuencia de ataque vigente, si en un mismo paso hay que tirar más de un D6, todos esos dados se tiran a la vez. No existe una regla general que permita tirar las salvaciones de una en una para observar cada resultado antes de decidir si se usa un dado de milagro.
+No. En la secuencia de ataque, si en un mismo paso hay que tirar más de un D6, todos esos dados se tiran simultáneamente. No puedes tirar algunas salvaciones de ese mismo paso, mirar los resultados y después decidir qué haces con un dado restante como si siguiera siendo información oculta.
 
-Para realizar un Acto de fe, debes decidir la sustitución antes de efectuar la tirada correspondiente. Sustituyes uno de los dados por el resultado del dado de milagro elegido y después tiras simultáneamente los demás dados de ese paso.
+El Faction Pack de Adepta Sororitas confirma además que un dado de milagro puede formar parte de una repetición; si repites una tirada en la que sustituiste un dado por un dado de milagro, ese dado se pierde y la unidad sigue contando como si hubiera realizado un Acto de fe.
 
-## Regla práctica
+## Qué dice la regla
 
-Cuando tengas varias tiradas de salvación que deban resolverse juntas:
+El Core Rules dice que los ataques idénticos contra una misma unidad se agrupan y resuelven juntos. También dice que, en cada paso de la secuencia de ataque, si hay más de un dado que tirar, todas esas tiradas se hacen simultáneamente.
 
-1. Determina cuántos dados de salvación hay que tirar.
-2. Antes de tirarlos, decide si la unidad realiza un Acto de fe.
-3. Si lo hace, retira de tu reserva el dado de milagro elegido y usa su valor como resultado de uno de esos dados.
-4. Tira simultáneamente todos los dados de salvación restantes.
-5. Resuelve las salvaciones y el daño siguiendo el orden de asignación establecido.
+El Faction Pack de Adepta Sororitas no reproduce todo el procedimiento de Actos de fe, pero sí contiene una FAQ que trata los dados de milagro en repeticiones: pueden usarse como parte de una repetición, y si se repite una tirada en la que se había sustituido un dado por uno de milagro, ese dado se pierde.
 
-No puedes tirar primero algunos dados normales, comprobar si has fallado suficientes salvaciones y usar entonces un dado de milagro para uno de los dados pendientes del mismo paso.
+## Aplicación a la duda
 
-## Qué salvaciones se tiran juntas
+Si varias salvaciones pertenecen al mismo paso de la misma secuencia de ataque, se tiran juntas. La regla de simultaneidad impide resolverlas una por una para ganar información antes de decidir sobre otro dado de ese mismo paso.
 
-La obligación de tirar simultáneamente se aplica a los dados que forman parte del mismo paso de la secuencia de ataque.
+Esto no obliga a mezclar ataques distintos. Si hay ataques con perfiles, Daño, FP, habilidades o reglas diferentes, se agrupan y resuelven cuando corresponda según el procedimiento de ataques idénticos.
 
-[[Resolver ataques]] reúne los ataques idénticos contra el mismo blanco. Son idénticos los ataques que comparten los mismos atributos relevantes y a los que afectan las mismas habilidades y reglas. Los dados reunidos recorren juntos la [[Secuencia de ataque]].
+## Conclusión
 
-Esto no obliga a mezclar salvaciones procedentes de ataques diferentes. Por ejemplo, se resuelven por separado:
+No puedes tirar salvaciones del mismo paso de una en una para decidir después si usas un dado de milagro en una de las restantes. Dentro de ese paso, los dados se tratan como una tirada simultánea.
 
-- ataques con distinto Factor de Penetración;
-- ataques con distinto Daño;
-- ataques afectados por habilidades o reglas diferentes;
-- ataques de armas que no formen un mismo grupo de ataques idénticos.
-
-Cada grupo se resuelve cuando le corresponde, pero dentro de su paso de salvación sus dados se tiran simultáneamente.
-
-## Ejemplo
-
-Una unidad Adepta Sororitas debe realizar cinco tiradas de salvación de 4+ contra cinco ataques idénticos.
-
-La jugadora dispone de un dado de milagro con resultado 6. Antes de tirar las salvaciones, decide realizar un Acto de fe y sustituye uno de los cinco dados por ese 6. Después tira juntos los otros cuatro dados.
-
-No puede tirar primero cuatro salvaciones normales y reservar la quinta para decidir, según los resultados obtenidos, si usa el dado de milagro.
-
-Si la misma unidad también debe salvar posteriormente contra un ataque de otra arma con atributos distintos, ese ataque pertenece a otro grupo y se resolverá por separado cuando corresponda.
-
-## ¿Es una tirada rápida opcional?
-
-No en este sistema de resolución. Tirar simultáneamente varios D6 dentro de un mismo paso no se presenta como una abreviación opcional para acelerar la partida, sino como parte del procedimiento normal de la [[Secuencia de ataque]].
-
-Por tanto, no puede abandonarse ese procedimiento para obtener una ventaja de información al usar Actos de fe, repeticiones u otras reglas que se declaren antes de tirar.
-
-## Repeticiones
-
-Un dado de milagro puede formar parte de una repetición si la regla aplicable permite repetir esa tirada.
-
-Sin embargo, si se repite una tirada en la que se había sustituido un dado por uno de milagro, ese dado de milagro se pierde y no vuelve a utilizarse en la repetición. La unidad sigue contando como si hubiera realizado un Acto de fe.
+Si una regla te permite repetir una tirada en la que habías usado un dado de milagro, puedes repetirla, pero el dado de milagro usado se pierde y no vuelve a incorporarse a la repetición.
 
 ## Errores comunes
 
-- Tratar las tiradas simultáneas como una regla opcional de tiradas rápidas.
-- Tirar salvaciones de una en una para decidir después si se usa un dado de milagro.
-- Sustituir un dado después de haber visto el resultado de los demás dados del mismo paso.
-- Mezclar en una sola tirada ataques que no son idénticos.
-- Pensar que todos los ataques de una unidad deben resolverse en un único grupo, aunque tengan atributos o reglas diferentes.
-- Recuperar el dado de milagro al repetir una tirada en la que se había utilizado.
+- Tratar la simultaneidad de dados como una abreviación opcional de "tiradas rápidas".
+- Tirar salvaciones del mismo paso una a una para decidir después si gastar un dado de milagro.
+- Mezclar ataques que no son idénticos en un único grupo.
+- Recuperar el dado de milagro al repetir una tirada en la que se había usado.
 
-## Fundamento de reglas
+## Fuentes oficiales
 
-- [[Resolver ataques]]: reúne los ataques idénticos contra el mismo blanco antes de resolver su secuencia.
-- [[Secuencia de ataque]]: si en uno de sus pasos hay que tirar más de un D6, todas esas tiradas se hacen a la vez.
-- [[Tiradas de salvación]]: se realiza una tirada de salvación por cada ataque que haya herido al blanco.
-- Actos de fe: permite sustituir un dado antes de efectuar la tirada; no autoriza a observar resultados parciales antes de decidir la sustitución.
-- [[Actualizaciones de reglas de Adepta Sororitas]]: confirma las interacciones vigentes entre dados de milagro y repeticiones.
-- Referencias oficiales de reglas básicas: `04.03`, `05.00` y `05.03`.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `04.03` Resolve Attacks: agrupación de ataques idénticos.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `05.00` Attack Sequence: tiradas simultáneas dentro de cada paso.
+- `doc/fuentes_oficiales/eng_01-06_warhammer40k_new40k_core_rules.pdf`, `05.03` Save Rolls.
+- `doc/fuentes_oficiales/eng_11-06_warhammer40000_faction_pack_adepta_sororitas-ktlklgb0t5-knvswx9kyw.pdf`, FAQ de Adepta Sororitas sobre Miracle dice y re-rolls.
 
 ## Resumen para arbitraje casual
 
-Las salvaciones pertenecientes al mismo paso se tiran simultáneamente. Si quieres usar un dado de milagro, debes declararlo y sustituir uno de los dados antes de lanzar los restantes. No puedes tirar las salvaciones de una en una para decidir después si gastarlo.
+Las salvaciones del mismo paso se tiran simultáneamente. No puedes mirar resultados parciales antes de decidir sobre otro dado de ese mismo paso. Si repites una tirada donde usaste un dado de milagro, ese dado se pierde.

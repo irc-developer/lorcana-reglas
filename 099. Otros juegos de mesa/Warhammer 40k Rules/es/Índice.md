@@ -294,6 +294,9 @@ related:
 - [[Warhammer 40k Rules/es/Estratagemas/Usar estratagemas|Usar estratagemas]]
 - [[Warhammer 40k Rules/es/Estratagemas/Valor insensato|Valor insensato]]
 
+**Dudas resueltas:**
+- [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/impacto-aplastante-monstruo-en-unidad-adjunta|Impacto aplastante con monstruo en unidad adjunta]]
+
 ### Acciones
 
 **Entry point:** [[Warhammer 40k Rules/es/Acciones/Sistema de acciones|Sistema de acciones]]
@@ -342,8 +345,10 @@ related:
 **Dudas resueltas:**
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/apoyo-y-lider-en-unidades-adjuntas|Cómo interactúa Apoyo con Líder]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/asignar-heridas-a-lider-y-apoyo|Asignar heridas a Líder y Apoyo]]
+- [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/impacto-aplastante-monstruo-en-unidad-adjunta|Impacto aplastante con monstruo en unidad adjunta]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/precision-con-dos-personajes|Precisión con dos personajes]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/keywords-en-unidades-adjuntas|Claves en unidades adjuntas]]
+- [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/personaje-epico-en-unidad-con-upgrade|Personaje épico en unidad con Upgrade]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/puede-un-personaje-resucitado-devolver-miniaturas-destruidas|Personaje resucitado y devolver miniaturas destruidas]]
 
 ### Monstruos y vehículos
