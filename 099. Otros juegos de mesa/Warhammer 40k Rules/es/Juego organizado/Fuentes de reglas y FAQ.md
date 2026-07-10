@@ -20,6 +20,7 @@ aliases:
 related:
   - Sistema de juego organizado
   - Reglas de torneo
+  - FAQ del Warhammer Open Tacoma 2026
   - Misiones y puntuación
 ---
 
@@ -62,6 +63,7 @@ Parte de:
 ## Conceptos relacionados
 
 - [[Reglas de torneo]]
+- [[FAQ del Warhammer Open Tacoma 2026]]
 - [[Misiones y puntuación]]
 - [[Índice]]
 

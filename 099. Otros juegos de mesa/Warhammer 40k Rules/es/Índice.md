@@ -223,6 +223,9 @@ related:
 - [[Warhammer 40k Rules/es/Disparo/Disparo normal|Disparo normal]]
 - [[Warhammer 40k Rules/es/Disparo/Disparos repentinos|Disparos repentinos]]
 
+**Dudas resueltas:**
+- [[Warhammer 40k Rules/es/dudas-resueltas/disparo/biovoro-minas-espora-y-oculto|Biovoro, minas espora y Oculto]]
+
 ### Carga
 
 **Entry point:** [[Warhammer 40k Rules/es/Carga/Sistema de carga|Sistema de carga]]
@@ -348,6 +351,8 @@ related:
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/impacto-aplastante-monstruo-en-unidad-adjunta|Impacto aplastante con monstruo en unidad adjunta]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/precision-con-dos-personajes|Precisión con dos personajes]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/keywords-en-unidades-adjuntas|Claves en unidades adjuntas]]
+- [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/monstruo-infanteria-oculto-y-disparo-trabado|Monstruo con infantería, Oculto y disparo trabado]]
+- [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/personaje-herido-en-unidad-adjunta|Personaje herido en unidad adjunta]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/personaje-epico-en-unidad-con-upgrade|Personaje épico en unidad con Upgrade]]
 - [[Warhammer 40k Rules/es/dudas-resueltas/unidades-adjuntas/puede-un-personaje-resucitado-devolver-miniaturas-destruidas|Personaje resucitado y devolver miniaturas destruidas]]
 

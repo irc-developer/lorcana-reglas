@@ -24,6 +24,7 @@ related:
   - Misiones y puntuación
   - Emparejamientos y clasificación
   - Fuentes de reglas y FAQ
+  - FAQ del Warhammer Open Tacoma 2026
   - Eventos de dobles
   - Eventos de equipos
   - Eventos Dominatus
@@ -49,6 +50,7 @@ Este dominio cubre preparación del evento, secuencia de misión, puntuación, e
 - [[Misiones y puntuación]]
 - [[Emparejamientos y clasificación]]
 - [[Fuentes de reglas y FAQ]]
+- [[FAQ del Warhammer Open Tacoma 2026]]
 - [[Eventos de dobles]]
 - [[Eventos de equipos]]
 - [[Eventos Dominatus]]

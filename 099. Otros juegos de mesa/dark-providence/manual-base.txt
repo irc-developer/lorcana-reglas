@@ -1,0 +1,3755 @@
+===== PAGINA 1 =====
+R E G L A M E N T O
+
+
+===== PAGINA 2 =====
+2
+Dark ProvidEnce - Reglamento
+Índice
+INTRODUCCIÓN ............................................................. 2 
+EL JUEGO........................................................................ 2 
+CONTENIDO.................................................................... 3 
+CONCEPTOS BÁSICOS...................................................... 4 
+	
+ Lealtad...............................................................................4 
+	
+ Tableros.............................................................................4 
+	
+ Cartas.................................................................................6 
+	
+ Agentes...............................................................................6 
+PREPARACIÓN................................................................. 7 
+MECÁNICAS..................................................................... 8 
+	
+ Acciones..............................................................................8 
+Añadir Influencia..................................................................................8 
+Reclamar (solo la 1ª acción)..................................................................9 
+Reclamar una carta de Activo principal......................................................... 9 
+Reclamar una Ciudad...................................................................................10 
+Reclamar una carta de Mitos.......................................................................10 
+Recuperar Influencia..........................................................................10 
+Adquirir Influencia.............................................................................11 
+Viajar..................................................................................................11 
+Manipular Ritual/Investigación..........................................................11 
+Acción de carta...................................................................................12 
+Asesinar..........................................................................................................12 
+Cerrar o abrir un Portal................................................................................13 
+Colocar o retirar un Bloqueo.........................................................................13 
+Descartar cartas..................................................................................13 
+Revelar la Lealtad...............................................................................14 
+Pasar....................................................................................................14 
+	
+ Prueba de Cordura............................................................. 14 
+Caer en la Locura...............................................................................14 
+FINAL DE LA PARTIDA.....................................................15 
+	
+ Desencadenantes del final de la partida............................... 15 
+	
+ Puntuación........................................................................ 15 
+Puntuación general.............................................................................15 
+Investigadores.....................................................................................15 
+Sectarios..............................................................................................15 
+Disidentes............................................................................................15 
+	
+ Determinar el ganador....................................................... 17 
+MODO SOLITARIO..........................................................18 
+CRÉDITOS......................................................................23 
+Introducción
+«Y en apoyo de esta Declaración, con absoluta confianza en la protección de 
+la Divina Providencia, empeñamos nuestra vida, nuestra hacienda y nuestro 
+sagrado honor». —Declaración de Independencia de los EE. UU.
+Has de saber que los Primigenios no ejercen su dominio únicamente sobre esta 
+realidad. A lo largo de toda la multiplicidad de universos infinitos se pueden 
+hallar realidades bastante familiares, con todas las mismas naciones y pueblos, 
+que hablan todas sus lenguas humanas y sueñan las mismas pesadillas. Los 
+Primigenios existen en todas ellas. En una de ellas, una nación muy familiar 
+se encuentra sumida en un periodo igual de familiar. Hablamos de Estados 
+Unidos y de la ruina que supuso para el país la llamada Gran Depresión. 
+Un momento y un lugar propicios para sembrar la discordia y la división en 
+lo que, de otro modo, se convertiría en un bastión de la civilización humana. 
+Cuando se trata de la humanidad, si hay algo de lo que nunca anda escasa es 
+de egoísmo. La codicia es universal y los Primigenios siempre se han valido de 
+ella como herramienta para enfrentar a hermano contra hermano, para trocar 
+amigos en enemigos. Ofrécele a alguien un taburete que le permita alzarse 
+sobre la chusma e ignorará que está haciendo equilibrios sobre la garganta de 
+su vecino. La mitad oriental de ese vasto continente es el lugar perfecto para 
+fomentar una segunda revolución bajo el estandarte de tal Funesta Providencia. 
+Esta realidad es un lugar de lealtades volubles y actos siniestros, pues en esta 
+época ceder a la corrupción de pérfidos poderes es un peligro omnipresente 
+en las ciudades más influyentes de la nación. El camarada que te cubre las 
+espaldas podría aprovechar la oportunidad para clavarle un puñal. 
+Sin embargo, no todo está perdido. Si la humanidad careciera de poder, los 
+Primigenios no sentirían la necesidad de actuar desde las sombras. No, son 
+demasiado conscientes de la amenaza que representa una humanidad unida, y 
+no necesitan que se les recuerde que incluso la Muerte Puede Morir.
+El juego
+Cthulhu: Dark Providence es un juego competitivo en el que de 1 a 5 jugadores 
+asumen papeles secretos de Investigadores, Sectarios o Disidentes de 2 ban­
+dos, en la pugna por controlar el destino de un país al borde de la ruina. Aun­
+que la Lealtad de cada jugador a un bando determinado determina cómo 
+obtiene puntos al final de la partida, solo una persona ganará la partida. 
+Durante la partida, los jugadores usan cubos de Influencia para pujar por el 
+derecho a reclamar cartas de Activo, asumir el control de Ciudades y obte­
+ner cartas de Mitos. Cada nueva carta de Activo adquirida mejora el mazo 
+de los jugadores y, por tanto, los recursos y acciones que pueden realizar 
+durante un turno. Los jugadores intentarán mantener su Lealtad en secreto 
+y, poniendo al límite la cordura de sus propios Agentes, realizar diversas 
+acciones para obtener puntos de Victoria, como atraer a Agentes reclutados 
+a su bando, asesinar a los agentes de otros jugadores, obtener ayuda extra 
+de potentes cartas de Mitos, bloquear a otros jugadores para que no puedan 
+reclamar cartas, o cerrar y abrir Portales. Al final, el jugador con menos PV 
+y cualquier otro que comparta su Lealtad son eliminados de la partida y solo 
+gana el jugador restante con más PV. 
+
+
+===== PAGINA 3 =====
+Dark ProvidEnce - Reglamento
+3
+CONTENIDO
+6 cartas de Lealtad
+Lealtad
+Investigador
+Sectario
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+2 PV
+6 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+5 PV
+4 PV
+3 PV
+3 PV
+7 PV
+3 PV
+5 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+washington D.C.
+Nueva York
+arkham
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+2 PV
+6 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+5 PV
+4 PV
+3 PV
+3 PV
+7 PV
+3 PV
+5 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+washington D.C.
+Nueva York
+arkham
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+1 tablero de juego
+3 
+2 
+1 
+ALMACÉN
+CARTAS DE CIUDAD
+CARTAS DE MITOS
+limbo
+4 
+5 
+12
+PV
+9
+PV
+6
+PV
+4
+PV
+2
+PV
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+ALMACÉN
+CARTAS DE CIUDAD
+CARTAS DE MITOS
+limbo
+4 
+5 
+12
+PV
+9
+PV
+6
+PV
+4
+PV
+2
+PV
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+1 tablero de 
+medidores
+5 tableros de jugador (1 de cada color)
+1 ficha de 
+Mi-Go
+5 Fichas de Agente principal
+22 fichas de 
+Agente reclutado
+8 fichas de 
+Profundo
+1 figura de 
+Cthulhu
+1 ficha de 
+Ley marcial
+3 fichas de Whateleys
+60 fichas de Control
+(12 de cada color)
+12 fichas de 
+Bloqueo
+12 fichas de 
+Locura
+6 fichas de 
+Cordura
+12 fichas de Portal 
+de doble cara
+1 marcador de 
+Investigación
+1 marcador 
+de Ritual
+8 Cartas de 
+Comportamiento de sectario
+SECTARIO 1: Reclama 1 carta  
+de Activo principal. Añade 1 
+  
+a su casilla de Ciudad.
+SECTARIO 2: Reclama una Ciudad. 
+.
+Comportamiento de sectario
+SECTARIO 1: Reclama una carta 
+de Mitos. Añade 1 
+ a la carta de 
+Activo principal de su Ciudad.
+SECTARIO 2: Realiza su efecto de Sectario.
+Comportamiento de sectario
+SECTARIO 1: 
+. Añade 1 
+ 
+a su casilla de Ciudad.
+SECTARIO 2: Reclama 1 carta de 
+Activo principal. Añade 1 
+ a 
+una carta de Mitos disponible.
+Comportamiento de sectario
+2 fichas 
+de Sectario
+Componentes 
+del modo solitario
+6 cartas de Primigenio
+OBJETIVO DEL PRIMIGENIO: Yog-Sothoth 
+gana de inmediato una vez que 
+reclama 5 o más cartas de Mitos.
+SECTARIO 1: recupera toda su 
+ del 
+Limbo. Luego, añade 1 
+ a cada carta 
+de Mitos disponible, si puede.
+SECTARIO 2: reclama una carta de Activo principal si 
+puedes y añade la 
+ de este Sectario de esa carta 
+a una carta de Mitos disponible. De lo contrario, 
+añade 
+ a una carta de Mitos disponible.
+Yog-Sothoth
+OBJETIVO DEL PRIMIGENIO: la Cabra 
+Negra gana de inmediato una vez que ha 
+reclamado 4 o más cartas de cualquier tipo 
+con 
+. Coloca todas las cartas con 
+ 
+reclamadas por Sectarios junto a esta carta.
+SECTARIO 1: añade 1 
+ a la primera carta de 
+Activo principal con 
+. De lo contrario, 
+.
+SECTARIO 2: añade 1 carta de Mitos a la fila 
+de Mitos. Luego, añade 
+ 
+ a la primera 
+carta de Mitos con 
+. De lo contrario, 
+.
+La Cabra Negra
+OBJETIVO DEL PRIMIGENIO: Hastur gana 
+de inmediato una vez que ha reclamado 
+4 o más Agentes. Coloca todos los Agentes 
+reclamados por Sectarios junto a esta carta.
+SECTARIO 1: añade 1 
+ a cada una de 
+las 3 primeras cartas de Activo principal.
+SECTARIO 2: reclama la primera carta 
+de Activo principal con 4 o más 
+ de 
+Sectarios. Luego, reclama la primera carta 
+del Almacén. De lo contrario, 
+.
+Hastur
+2 cartas 
+de Sectario
+REVELADO 
+SECTARIO 2
+-3
+REVELADO 
+SECTARIO 1
+-3
+95 cubos de Influencia
+(19 de cada color)
+24 cartas de Mitos
+CONSTANTE: obtén 1 acción la primera 
+vez que reclames una carta en tu turno.
+NIKOLA TESLA
+RECLAMAR: añade los 
+ que moverías al Limbo 
+por reclamar esta carta a una carta de Activo 
+principal o casilla de Ciudad en su lugar.
+CONSTANTE: puedes reclamar cartas 
+en las que estés empatado en 
+.
+FINAL DE LA PARTIDA: ganas todos los 
+empates durante la puntuación.
+DAGÓN
+1
+RECLAMAR: coloca la figura de Cthulhu en cualquier 
+casilla de Ciudad. Mueve toda la 
+ de esa Ciudad 
+y de su carta de Activo principal al Limbo. Luego, 
+aniquila todos los Agentes reclutados, Profundos 
+y cartas de Activo principal que haya allí. Mueve 
+todos los Agentes principales a una casilla de Ciudad 
+adyacente a tu elección. Cualquier jugador que 
+controlase la Ciudad pierde el control de ella.
+CONSTANTE: los jugadores no pueden colocar 
+Agentes en la Ciudad que tiene la figura de Cthulhu, 
+mover a través de la Ciudad o reclamar la Ciudad.
+2
+CTHULHU
+60 cartas de Activo principal
+Trapezoedro brillante
+Agente Eunice Hunt
+ACCIÓN GRATUITA:  
+roba 2 cartas de Activo.
+Universidad de Miskatonic
+13 cartas de 
+Activo de ciudad
+Nueva York
+Pittsburgh
+Arkham
+50 cartas de Activo inicial
+(10 por cada Agente principal)
+AGENTE VIERNES
+AGENTE JUEVES
+AGENTE MIÉRCOLES
+AGENTE LUNES
+AGENTE MARTES
+1 bolsa de Prueba 
+de Cordura
+1 base de plástico
+5 cartas de Referencia
+ 
+☞Añadir Influencia: añade la cantidad de 
+ 
+jugada a una carta de Activo principal, casilla 
+de Ciudad o carta de Mitos. 
+ 
+☞Reclamar (solo la 1ª acción): reclama una carta 
+o Ciudad donde tengas mayoría de 
+. 
+ 
+☞Recuperar Influencia: recupera la misma 
+cantidad de 
+ jugados de cartas de Activo 
+principal, casillas de Ciudad, cartas de Mitos o 
+el Limbo, en cualquier combinación. 
+ 
+☞Adquirir Influencia: obtén 1 
+ del suministro 
+general por cada 2 
+ jugados. 
+ 
+☞Viajar: mueve a los Agentes jugando la 
+cantidad necesaria de 
+ de las rutas por las 
+que se muevan. 
+ 
+☞Manipular Ritual/Investigación: juega 
+/
+ 
+para aumentar o 
+/
+ para reducir los 
+medidores correspondientes. 
+ 
+☞Acción de carta: realiza los efectos de ACCIÓN 
+de las cartas. 
+ 
+☞Descartar cartas: descarta cualquier número de 
+cartas de Activo de tu mano. 
+ 
+☞Revelar la Lealtad: revela tu Lealtad y obtén 
+PV. Solo se puede realizar si con esto obtienes 
+suficientes PV para desencadenar el final de 
+la partida. 
+ 
+☞Pasar: termina tu turno.
+ACCIONES
+ 
+☞Añadir Influencia: añade la cantidad de 
+ 
+jugada a una carta de Activo principal, casilla 
+de Ciudad o carta de Mitos. 
+ 
+☞Reclamar (solo la 1ª acción): reclama una carta 
+o Ciudad donde tengas mayoría de 
+. 
+ 
+☞Recuperar Influencia: recupera la misma 
+cantidad de 
+ jugados de cartas de Activo 
+principal, casillas de Ciudad, cartas de Mitos o 
+el Limbo, en cualquier combinación. 
+ 
+☞Adquirir Influencia: obtén 1 
+ del suministro 
+general por cada 2 
+ jugados. 
+ 
+☞Viajar: mueve a los Agentes jugando la 
+cantidad necesaria de 
+ de las rutas por las 
+que se muevan. 
+ 
+☞Manipular Ritual/Investigación: juega 
+/
+ 
+para aumentar o 
+/
+ para reducir los 
+medidores correspondientes. 
+ 
+☞Acción de carta: realiza los efectos de ACCIÓN 
+de las cartas. 
+ 
+☞Descartar cartas: descarta cualquier número de 
+cartas de Activo de tu mano. 
+ 
+☞Revelar la Lealtad: revela tu Lealtad y obtén 
+PV. Solo se puede realizar si con esto obtienes 
+suficientes PV para desencadenar el final de 
+la partida. 
+ 
+☞Pasar: termina tu turno.
+ACCIONES
+30 soportes (6 de cada color)
+
+
+===== PAGINA 4 =====
+4
+Dark ProvidEnce - Reglamento
+Conceptos básicos
+◈ Lealtad ◈
+Cada persona de la partida es representante de un bando en la lucha por el 
+destino de la humanidad, que viene determinado por su carta de Lealtad.
+Los Investigadores buscan evitar la inminente catástrofe 
+que acecha desde los confines de nuestro universo. Los Inves­
+tigadores obtienen puntos de Victoria (PV) cerrando Portales 
+inactivos a dimensiones oscuras, reclamando Agentes con PV 
+de Investigador (de color rosa VP
+VP ) y avanzando en el medidor 
+de Investigación. Sin embargo, por muy valientes que sean, 
+sus vidas y su cordura están siempre en peligro. Si en algún momento un 
+Investigador cae en la Locura, la partida termina de inmediato (consulta la 
+pág. 14). Lo contrario de los Investigadores son los Sectarios.
+Los Sectarios buscan instaurar una era de oscuridad y caos 
+en la que sus amos de otro mundo les recompensarán por su 
+servicio. Los Sectarios obtienen puntos de Victoria (PV) 
+abriendo Portales inactivos, asesinando a Agentes, recla­
+mando cartas de Mitos con PV de Sectario (de color verde VP
+VP ) 
+y avanzando en el medidor de Ritual para provocar el fin del 
+mundo tal y como lo conocemos. Puesto que su cordura ya es de por sí cues­
+tionable y se les recompensará con la inmortalidad, cuando un Sectario es 
+asesinado o cae en la Locura la partida no se acaba. Lo contrario de los Sec­
+tarios son los Investigadores.
+Los Disidentes fueron en su día Sectarios e Investigadores, 
+pero desde entonces han perdido la fe en el bando al que jura­
+ron lealtad.
+Todos los Disidentes obtienen PV por asesinar a Agentes, por 
+cerrar y abrir Portales inactivos, y por el medidor correspon­
+diente a su antigua Lealtad (Investigador o Sectario), pero no 
+obtienen puntos por reclutar Agentes o invocar Primigenios. 
+Dado que los Disidentes son enemigos de ambos bandos del 
+enfrentamiento, ocultar su identidad es primordial y sufren 
+penalizaciones si alguna vez se revela su Lealtad (consulta la 
+pág. 14). Lo contrario de un Disidente es un Disidente del 
+otro tipo (por ejemplo, un Investigador disidente es lo contra­
+rio de un Sectario disidente, y viceversa).
+Todos los jugadores, sea cual sea su Lealtad (Investigador, Sectario o Disi­
+dente) obtienen los puntos de Victoria genéricos (de color azul VP
+VP ).
+◈ Tableros ◈
+Hay 2 tableros en el juego: el de juego y el de medidores. Las principales 
+acciones de la partida tienen lugar en el tablero de juego, mientras que el 
+tablero de medidores se usa para llevar la cuenta de los puntos de Victoria 
+(PV) de los jugadores y su progresión de Lealtad.
+	
+☞Tablero de juego
+1.	 Nombre de la Ciudad
+2.	 Recordatorio de la carta de Ciudad: un recordatorio de los recur­
+sos que proporciona la carta de Activo de la Ciudad.
+3.	 Casilla de Ciudad: casilla en la que se añaden cubos de Influencia 
+para reclamar una Ciudad, se añaden fichas de Bloqueo para bloquear 
+una acción de reclamar, y se colocan y mueven Agentes.
+4.	 Espacio de control de la Ciudad: se usa para marcar el momento 
+en que un jugador toma el control de una Ciudad.
+5.	 Valor de control de la Ciudad: cantidad de PV obtenidos de inme­
+diato al reclamar una Ciudad. También es el valor que hay que igualar 
+para asesinar en la Ciudad.
+6.	 Portal: Portales inactivos a otras dimensiones que pueden cerrarse o 
+abrirse durante la partida.
+7.	 Valor de Portal: es el valor que hay que igualar para cerrar o abrir un 
+Portal y se obtiene como PV al final de la partida.
+8.	 Espacio del mazo de Activos principales: espacio en el que se 
+colocan las cartas de Activo principal y se añaden cubos de Influencia 
+para reclamar cartas de Activo principal. También describe un efecto 
+que se resuelve de inmediato cuando se agota el mazo.
+9.	 Ruta: conecta las Ciudades. Cada ruta tiene un coste que hay que 
+pagar para moverse por ella. Las Ciudades conectadas por una misma 
+ruta se consideran adyacentes.
+Investigador
+Sectario
+4 PV
+4 PV
+4 PV
+3 PV
+detroit
+chicago
+e  
+Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+2
+3
+4
+5
+6
+7
+8
+9
+1
+
+
+===== PAGINA 5 =====
+Dark ProvidEnce - Reglamento
+5
+	
+☞Tablero de medidores
+A.	 Medidor de PV: se usa para llevar la cuenta de los PV de cada jugador.
+B.	 Medidor de Investigación: se usa para registrar la progresión del 
+bando de los Investigadores.
+C.	 Medidor de Ritual: se usa para registrar la progresión del bando de 
+los Sectarios.
+D.	 Cartas de Mitos: fila de cartas de Mitos disponibles para reclamar, 
+así como una reserva para añadir más cartas a la fila durante la partida.
+E.	 Cartas de Ciudad: reserva de cartas de Activo de Ciudad, para 
+tomarlas cuando se reclamen Ciudades.
+F.	 Almacén: reserva de cartas de Activo principal que, a menos que se 
+indique lo contrario, no entran en juego.
+G.	 Limbo: los cubos de Influencia usados para reclamar se mueven al 
+Limbo hasta que se recuperan.
+
+3 
+2 
+1 
+ALMACÉN
+CARTAS DE CIUDAD
+CARTAS DE MITOS
+limbo
+4 
+5 
+12
+PV
+9
+PV
+6
+PV
+4
+PV
+2
+PV
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+ALMACÉN
+CARTAS DE CIUDAD
+CARTAS DE MITOS
+limbo
+4 
+5 
+12
+PV
+9
+PV
+6
+PV
+4
+PV
+2
+PV
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+A
+B
+C
+D
+E
+F
+G
+
+
+===== PAGINA 6 =====
+6
+Dark ProvidEnce - Reglamento
+◈ Cartas ◈
+Las cartas de Activo forman los mazos de los jugadores y se usan durante 
+la partida para realizar acciones. Existen 3 tipos de cartas de Activo:
+	
+ Cartas de Activo inicial: son las 10 cartas del Agente principal de un 
+jugador y componen su mazo al comienzo de la partida.
+	
+ Cartas de Activo principal: estas cartas se colocan en las Ciudades, 
+en el espacio del mazo de Activos principales, y los jugadores las pueden 
+reclamar durante la partida para mejorar su mazo y darle forma a su 
+estrategia.
+	
+ Cartas de Activo de Ciudad: los jugadores obtienen acceso a estas 
+cartas al reclamar y tomar el control de una Ciudad.
+Las cartas de Mitos proporcionan poderosos efectos que los jugado­
+res pueden usar durante la partida, pero nunca se añaden al mazo de 
+un jugador.
+◈ Agentes ◈
+Los Agentes son personajes que los jugadores controlan durante la partida. 
+Cada jugador comienza la partida con un Agente principal y, a lo largo 
+de ella, puede convencer a Agentes reclutados. Los Agentes proporcionan 
+1 de Influencia adicional mientras estén en una casilla de Ciudad para la 
+acción de reclamar (consulta la pág. 09). Además, los Agentes pueden añadir 
+Poder ( 
+ ) en la casilla de Ciudad que ocupan, actuar mediante acciones de 
+cartas (consulta la pág. 12) o proporcionar sus propios efectos permanentes 
+(exclusivos de Harry Houdini, Lilian La France y Alice Ochs).
+Cada ficha de Agente tiene dos caras. Todos los Agentes comienzan la par­
+tida con su cara normal bocarriba y solo se les da la vuelta por el efecto de 
+la carta Resucitados.
+¡IMPORTANTE! Todos los componentes están limitados por sus existencias. Si 
+un efecto del juego va a hacer que un jugador tome un elemento que ya se ha agotado, 
+tomará hasta la cantidad máxima disponible e ignorará el resto.
+CONSTANTE: puedes reclamar a los Agentes 
+reclutados que asesines. Coloca a los Agentes 
+reclamados de esta manera en la misma 
+Ciudad en la que fueron asesinados.
+HERBERT WEST
+1
+Cartas de Mitos
+PV
+Prueba de Cordura
+Esto significa que se debe 
+realizar una prueba de Cordura 
+después de reclamar la carta 
+(consulta la pág. 14).
+Agentes principales
+Lado normal
+Lado Resucitado
+Agentes reclutados
+Lado normal
+Lado Resucitado
+Poder
+Acciones
+PV
+Indianápolis
+Cartas de Activo 
+de Ciudad
+Nombre
+AGENTE MARTES
+RECLAMAR: aniquila todas las cartas de 
+Activo principal bajo esta carta. Añade 
+1 carta de Mitos a la fila de Mitos.
+Anomalía dimensional
+Cartas de 
+Activo inicial
+Recursos
+Carta de 
+Activo principal
+Efecto
+
+
+===== PAGINA 7 =====
+Dark ProvidEnce - Reglamento
+7
+Preparación
+La siguiente es la preparación para una partida de 2 a 5 jugadores. La pre­
+paración y las reglas del modo solitario están en la pág. 18.
+1.	 Coloca el tablero de juego al alcance de todos los jugadores.
+2.	 Coloca el tablero de medidores a la derecha del tablero de juego.
+3.	 Coloca los marcadores de Ritual e Investigación en la casilla inicial de 
+los medidores de Ritual e Investigación respectivamente.
+4.	 Coloca las fichas de Cordura y Locura en la bolsa de Prueba de Cor­
+dura y deja la bolsa cerca del tablero de juego.
+5.	 Coloca las cartas de Activo de Ciudad en un mazo bocarriba a la dere­
+cha del espacio de cartas de Ciudad del tablero de medidores.
+6.	 Baraja las cartas de Activo principal. Luego, en función del número de 
+jugadores, coloca una cantidad de ellas bocabajo en la zona de mazo de 
+cada una de las 12 Ciudades:
+	
+ 2 o 3 jugadores: 3 cartas por Ciudad.
+	
+ 4 o 5 jugadores: 4 cartas por Ciudad.
+Luego, revela la primera carta de Activo principal de cada Ciudad, deján­
+dola bocarriba encima de su mazo correspondiente. Si se revela una carta 
+de Agente, coloca su ficha correspondiente encima de la carta.
+7.	 Coloca las cartas de Activo principal restantes en un mazo bocabajo a la 
+derecha del espacio de Almacén del tablero de medidores.
+8.	 Baraja las cartas de Mitos y coloca el mazo a la derecha del espacio para 
+cartas de Mitos del tablero de medidores. Revela y coloca a la derecha 
+del mazo una cantidad de ellas bocarriba en función del número de 
+jugadores para crear la fila de Mitos:
+	
+ 2 o 3 jugadores: 3 cartas.
+	
+ 4 o 5 jugadores: 4 cartas.
+9.	 Cada jugador:
+	
+ Elige un color y toma su correspondiente tablero de jugador, fichas 
+de Control, soportes y 7 cubos de Influencia. Deja los cubos de 
+Influencia restantes en un suministro general junto al tablero, orde­
+nados por colores.
+	
+ Elige 1 Agente principal y toma sus correspondientes cartas de Activo 
+inicial y ficha de Agente principal.
+	
+ Desliza su ficha de Agente principal en el soporte con la cara normal 
+bocarriba.
+	
+ Baraja sus cartas de Activo inicial, forma un mazo bocabajo y roba 5 
+cartas. Coloca las cartas restantes en la zona de mazo de su tablero 
+de jugador.
+	
+ Coloca 1 cubo de Influencia en la casilla 0 del medidor de PV en el 
+tablero de medidores.
+10.	Según el número de jugadores, baraja las cartas de Lealtad indicadas y 
+ponlas bocabajo.
+	
+ 2 o 3 jugadores: 1 Sectario, 1 Investigador y 2 Disidentes.
+	
+ 4 o 5 jugadores: 2 Sectarios, 2 Investigadores y 1 Disidente al azar
+Luego, reparte 1 carta a cada jugador. Devuelve todas las cartas no uti­
+lizadas a la caja, sin revelarlas. Cada jugador mira su carta de Lealtad, 
+sin revelarla, y la coloca bocabajo junto a su tablero de jugador.
+11.	Coloca la figura de Cthulhu encajada en su base de plástico, y las fichas 
+de Agentes reclutados, Bloqueos, Portales, Mi-Go, Profundos, Whate­
+leys y Ley marcial cerca del tablero de juego, separadas por tipo, para 
+crear el suministro general.
+12.	El jugador que os resulte más sospechoso es el jugador inicial. Empezando 
+por el jugador inicial y siguiendo en sentido antihorario, cada jugador 
+coloca su Agente principal en una casilla de Ciudad a su elección que 
+no tenga otro Agente. Para vuestra primera partida, recomendamos que 
+cada jugador revele 1 carta de Activo de Ciudad al azar para determinar 
+su Ciudad inicial. Si la carta robada es la de R’lyeh, ignórala.
+¡Que empiece la locura!
+1
+4
+6
+2
+8
+9
+9
+9
+3
+5
+7
+9
+9
+9
+10
+10
+10
+12
+12
+12
+12
+12
+10
+10
+11
+
+
+===== PAGINA 8 =====
+8
+Dark ProvidEnce - Reglamento
+Mecánicas
+Cthulhu: Dark Providence se juega en una serie de turnos, empezando por 
+el jugador inicial y siguiendo en sentido horario. Durante su turno, cada 
+jugador:
+1.	 Realiza 2 acciones más el número de acciones gratuitas que pueda tener.
+2.	 Coloca las cartas usadas para realizar acciones en la pila de descartes de 
+su tablero de jugador, en cuanto la acción se haya resuelto por completo.
+3.	 Roba cartas de encima de su mazo hasta tener 5 en la mano. Si un juga­
+dor no puede robar una carta porque su mazo se ha agotado, baraja su 
+pila de descartes para crear un nuevo mazo, y continúa robando cartas 
+hasta alcanzar el tamaño de su mano.
+Luego, una vez finalizado el turno de un jugador, le toca el turno al siguiente 
+en sentido horario. La partida continúa de este modo hasta que se produce 
+uno de los desencadenantes del final, momento en el que se calculan las pun­
+tuaciones y se determina quién ha ganado (consulta la pág. 15).
+NOTA: es posible que algunas cartas tengan efectos que contradicen una regla. En 
+esos casos, la carta tiene preferencia sobre el reglamento.
+◈ Acciones ◈
+Las acciones pueden requerir recursos de las cartas de Activo para realizar­
+las. Un jugador solo puede usar una carta de Activo para un único propósito:
+1.	 Usar un único tipo de recurso.
+2.	 Usar su efecto ACCIÓN.
+3.	 Usar su efecto ACCIÓN GRATUITA.
+Al jugar cartas para obtener recursos, un jugador no puede jugar 
+más de las necesarias para conseguir los recursos requeridos por 
+la acción que pretende realizar.
+Si una carta tiene un efecto de RESPUESTA, especificará qué es lo que des­
+encadena dicho efecto (que una carta sea aniquilada, descartada, usada por 
+su efecto de ACCIÓN, etc.). Una RESPUESTA no se considera una acción 
+y, por tanto, no cuenta para las 2 acciones que un jugador puede realizar 
+durante su turno.
+	
+☞Añadir Influencia
+Un jugador puede jugar 1 o más cartas de Activo de su mano con Influencia 
+(
+) para añadir ese número de cubos de Influencia de su suministro perso­
+nal a una carta de Activo principal, casilla de Ciudad o carta de Mitos. Un 
+jugador solo puede añadir Influencia a 1 carta o casilla de Ciudad cualquiera, 
+independientemente de si tiene un Agente presente, como parte de 
+una única acción. No hay límite en el número de cubos de Influencia que se 
+pueden añadir a una carta o casilla de Ciudad. Un jugador no puede jugar 
+deliberadamente más cartas de las necesarias. La única vez que un jugador 
+puede añadir menos cubos de Influencia que el número indicado es si juega 
+una carta con 2 
+ y solo tiene 1 disponible en su suministro personal.
+4 PV
+4 PV
+4 PV
+4 
+boston
+detroit
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+EJEMPLO: en su turno, la Agente Martes juega 2 cartas de Activo 
+inicial de su mano: una con 1 
+ y otra con 2 
+. Tiene un total de 3 
+ 
+para añadir a cualquier carta de Activo principal, casilla de Ciudad o carta 
+de Mitos. Con la idea de adquirir la carta Anarquistas en un turno futuro, 
+añade sus 3 cubos de Influencia a dicha carta.
+Anarquistas
+RESPUESTA: aniquila esta carta después 
+de jugarla como parte de una acción.
+TNT
+AGENTE MARTES
+AGENTE MARTES
+Aniquilar
+Algunos efectos pueden aniquilar cartas o fichas durante la partida. 
+Cada vez que se aniquila una carta, se retira permanentemente hasta 
+el final de la partida, devolviéndola a la caja. Si es una carta o ficha 
+de Agente, retira su ficha del soporte, devuelve el soporte al jugador, 
+y retira la carta y la ficha hasta el final de la partida. Las cartas de 
+Activo de Ciudad no pueden ser aniquiladas. Si una carta de Activo 
+de Ciudad va a ser aniquilada, devuélvela a la zona de cartas de Ciu­
+dad del tablero de medidores.
+
+
+===== PAGINA 9 =====
+Dark ProvidEnce - Reglamento
+9
+	
+☞Reclamar (solo la 1ª acción)
+Un jugador puede usar su primera, y solo la primera, acción para recla­
+mar 1 carta de Activo principal, carta de Mitos o Ciudad en la que tenga 
+mayoría de Influencia. En caso de empate, salvo que se indique lo contrario, 
+no se considera que ningún jugador tiene mayoría de Influencia. Aunque la 
+presencia de Agentes no es obligatoria, proporcionan 1 de Influencia adicio­
+nal mientras están presentes en una Ciudad para la acción de reclamar. Sin 
+embargo, un jugador siempre debe tener como mínimo 1 cubo de Influencia 
+en la carta o Ciudad para poder reclamarla. Las cartas y Ciudades con una 
+ficha de Bloqueo (
+) no se pueden reclamar. La acción en sí de recla­
+mar no requiere cartas para ejecutarla.
+NOTA: la Agente Alice Ochs 
+ añade 2 de Influencia de Agente a su casilla de 
+Ciudad actual, en lugar de 1.
+Cuando realiza una acción de reclamar, el jugador sigue estos pasos, en orden:
+1.	 Mueve al Limbo sus cubos de Influencia de la carta o casilla de Ciu­
+dad de una Ciudad que esté reclamando. Cualquier otro jugador con 
+Influencia en esa carta o casilla de Ciudad devuelve todos sus cubos de 
+Influencia a su suministro personal.
+2.	 Sigue los pasos necesarios para reclamar cada tipo de carta o Ciudad 
+como corresponda (como se explica a continuación).
+3.	 Resuelve los efectos de RECLAMAR de la carta reclamada, si los tuviera.
+4.	 Comprueba si la carta reclamada tiene un icono de Prueba de Cordura 
+(
+). Si lo tiene, tiene que realizar una prueba de Cordura (consulta la 
+pág. 14).
+IMPORTANTE: algunos efectos permiten a los jugadores reclamar cartas o Ciuda­
+des durante la partida. Esto se sigue considerando una acción de reclamar a la hora de 
+resolver efectos de RECLAMAR, aunque los jugadores no necesitan tener Influencia 
+en las cartas ni tiene que ser su 1ª acción, a menos que se indique lo contrario.
+Cada tipo de carta tiene sus propios pasos que se deben seguir al reclamarla:
+Reclamar una carta de Activo principal
+El jugador toma la carta del tablero y la añade a su pila de descartes. Si la 
+carta reclamada es un Agente reclutado, el jugador toma la ficha correspon­
+diente y la desliza en un soporte de su color (con la cara normal bocarriba). 
+Después, el jugador coloca al Agente reclutado en la misma casilla de Ciu­
+dad en la que lo reclamó.
+Luego, revela la siguiente carta del mazo de esa Ciudad, si la hay. Si la carta 
+revelada es un Agente, coloca la ficha de Agente correspondiente encima 
+de la carta. Si la carta reclamada era la última de ese mazo, el jugador en 
+su lugar incrementa el medidor de Ritual en 2 y añade 1 carta de Mitos del 
+mazo a la fila de Mitos.
+IMPORTANTE: Un jugador solo puede controlar 6 Agentes al mismo tiempo. 
+Esto incluye a su Agente principal, los Agentes reclutados y el Mi-Go (un Agente espe­
+cial adquirido mediante una carta de Mitos). Un jugador no puede reclamar Agentes 
+si ya tiene 6 en juego.
+EJEMPLO: el  Agente Viernes comienza su turno con cubos de Influencia 
+en la casilla de Ciudad de Atlanta y en las cartas de Resucitados y Wyatt Earp. 
+Sin embargo, solo tiene mayoría de Influencia en la carta Wyatt Earp y decide 
+usar su 1ª acción para reclamarlo. Mueve al Limbo sus cubos de Influencia que 
+tiene en Wyatt Earp y añade la carta a su pila de descartes.
+Como Wyatt Earp es un Agente reclutado, el Agente Viernes toma la ficha 
+de Agente correspondiente y la coloca en uno de sus soportes. Luego, coloca al 
+Agente Wyatt Earp en la casilla de Ciudad de Nueva Orleans, ya que fue 
+la Ciudad en la que reclamó a Wyatt Earp. Por último, le da la vuelta a la 
+primera carta de Activo principal de Nueva Orleans.
+6 PV
+3 PV
+4 PV
+5 PV
+4 PV
+3 PV
+charleston
+atlanta
+Nueva Orleans
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+ACCIÓN: otro jugador recupera 
+ 
+  
+de una casilla de Ciudad o carta  
+de Activo principal a tu elección.
+Añade un 
+ a una casilla de Ciudad.
+FBI
+Los Agentes Resucitados no 
+pueden ser asesinados.
+RECLAMAR: dale la vuelta a tu Agente principal 
+para ponerlo por su lado de Resucitado.
+ACCIÓN: dale la vuelta a 1 de tus Agentes 
+reclutados para ponerlo por su lado de 
+Resucitado o reclama 1 Agente reclutado de otro 
+jugador que comparta actualmente una casilla 
+de Ciudad con 1 de tus Agentes Resucitados.
+Resucitados
+ACCIÓN: 
+ sin 
+.
+Agente Wyatt Earp
+ACCIÓN: 
+ sin 
+.
+Agente Wyatt Earp
+2 
+limbo
+-2
+31
+-5
+34
+1
+30
+-4
+33
+-3
+32
+2 
+limbo
+-2
+31
+-5
+34
+1
+30
+-4
+33
+-3
+32
+6 PV
+3 PV
+4 PV
+5 PV
+4 PV
+3 PV
+charleston
+atlanta
+Nueva Orleans
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+ACCIÓN: otro jugador recupera 
+ 
+  
+de una casilla de Ciudad o carta  
+de Activo principal a tu elección.
+Añade un 
+ a una casilla de Ciudad.
+FBI
+Portal a otro mundo
+ACCIÓN: 
+ o 
+ con 1  
+de tus Agentes sin 
+.
+Portal a otro mundo
+Los Agentes Resucitados no 
+pueden ser asesinados.
+RECLAMAR: dale la vuelta a tu Agente principal 
+para ponerlo por su lado de Resucitado.
+ACCIÓN: dale la vuelta a 1 de tus Agentes 
+reclutados para ponerlo por su lado de 
+Resucitado o reclama 1 Agente reclutado de otro 
+jugador que comparta actualmente una casilla 
+de Ciudad con 1 de tus Agentes Resucitados.
+Resucitados
+
+
+===== PAGINA 10 =====
+10
+Dark ProvidEnce - Reglamento
+Reclamar una Ciudad
+El jugador coloca su ficha de Control en el espacio de control de la Ciudad. 
+Si otro jugador tenía el control de la Ciudad, recupera su ficha de Control. El 
+jugador que toma el control de la Ciudad anota una cantidad de PV igual al 
+valor de control de la Ciudad. A la inversa, si esto ha hecho que un jugador 
+pierda el control de la Ciudad, pierde de inmediato una cantidad de PV igual 
+al valor de control de la Ciudad. Luego, el jugador que reclama la Ciudad 
+toma la carta de Activo de Ciudad del mazo de cartas de Ciudad y la añade 
+a su pila de descartes. Si la Ciudad fue reclamada de manos de otro jugador, 
+toma la carta del mazo, la mano o pila de descartes de dicho jugador. Si la 
+carta estaba en la mano del jugador, roba 1 carta de Activo para reemplazarla. 
+Si la carta estaba en su mazo, tiene que barajar su mazo después.
+NOTA: un jugador nunca puede reclamar una Ciudad que ya controla.
+IMPORTANTE: aparte de las cartas que especifican lo contrario, tomar el control 
+de las Ciudades es la única forma que tienen los jugadores de obtener PV durante la 
+partida. Todos los demás PV se obtienen una vez que se activa el final de la partida 
+(consulta la pág. 15).
+Reclamar una carta de Mitos
+El jugador coloca la carta de Mitos junto a la zona designada de su tablero 
+de jugador. Algunas cartas de Mitos (Cthulhu, Mi-Go, y Los Whateleys) 
+también tienen componentes asociados que el jugador toma con la carta. 
+No añadas una nueva carta de Mitos a la fila de Mitos para reemplazar la 
+que acabas de reclamar.
+	
+☞Recuperar Influencia
+Un jugador puede jugar 1 o más cartas de Activo de su mano con 
+ para 
+recuperar esa misma cantidad de sus cubos de Influencia de casillas de Ciu­
+dad, cartas de Mitos, cartas de Activo principal y el Limbo, en cualquier 
+combinación. Los cubos de Influencia del suministro general no se pueden 
+obtener mediante esta acción.
+EJEMPLO: la Agente Jueves 
+comienza su turno con mayoría de 
+cubos de Influencia en la carta de Mitos 
+Yog-Sothoth. Decide reclamar la carta, 
+la coloca junto a su tablero de jugador y 
+mueve sus cubos de Influencia al Limbo. 
+Yog-Sothoth tiene un efecto de RECLA­
+MAR, por lo que Agente Jueves 
+obtendrá una acción adicional durante 
+este turno.
+EJEMPLO: la Agente Jueves juega 2 cartas con un total de 4 
+. 
+Decide recuperar 2 
+ del Limbo, 1 de la carta de Mitos Ofrenda y 1 de la 
+casilla de Ciudad de Boston, y los devuelve a su suministro personal.
+RECLAMAR: obtén 1 acción.
+CONSTANTE: puedes añadir a tu 
+mano la primera carta de Activo 
+principal que reclames cada turno.
+1
+YOG-SOTHOTH
+4 PV
+boston
+2 
+limbo
+2 
+limbo
+AGENTE JUEVES
+ACCIÓN: coloca o retira un .
+Trapezoedro brillante
+ACCIÓN GRATUITA: una vez por turno, 
+puedes descartar 1 carta de Activo de tu 
+mano para robar 1 carta de Activo.
+OFRENDA
+EJEMPLO: el Agente Lunes comienza su turno con mayoría de cubos de 
+Influencia en la casilla de Ciudad de Atlanta y decide reclamar la Ciudad. 
+El Agente Viernes, que también tenía Influencia en Atlanta, recupera 
+sus cubos de Influencia al mismo tiempo que el Agente Lunes mueve sus 
+cubos al Limbo. Como Atlanta estaba bajo el control de la Agente Martes, 
+el Agente Lunes reemplaza la ficha de Control de esta por la suya. La 
+Agente Martes pierde de inmediato 4 PV por perder el control de la Ciudad 
+y el Agente Lunes obtiene 4 PV. Finalmente, la Agente Martes retira 
+la carta de su mazo, vuelve a barajar su mazo y le da la carta de Ciudad al 
+Agente Lunes, que la añade a su pila de descartes.
+6 PV
+4 PV
+4 PV
+3 PV
+atlanta
+eans
+Añade 1 carta de  
+Mitos a la fila de Mitos
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+limbo
+limbo
+ACCIÓN: otro jugador recupera 
+ 
+  
+de una casilla de Ciudad o carta  
+de Activo principal a tu elección.
+Añade un 
+ a una casilla de Ciudad.
+FBI
+
+
+===== PAGINA 11 =====
+Dark ProvidEnce - Reglamento
+11
+	
+☞Adquirir Influencia
+Un jugador puede jugar 1 o más cartas de Activo de su mano que tengan 
+el icono de riqueza (
+) para obtener cubos de Influencia de su color del 
+suministro general y añadirlos a su suministro personal. Por cada 2 
+ 
+jugados, el jugador toma 1 cubo de Influencia de su color. Cualquier exceso 
+de 
+ se pierde. Una vez que un jugador ha tomado todos sus cubos de 
+Influencia del suministro general, ya no puede realizar esta acción.
+IMPORTANTE: la cantidad de 
+ es limitada. Si se van a obtener más 
+ 
+de los disponibles, se obtiene en su lugar la cantidad disponible, siguiendo la restric­
+ción estándar de jugar el mínimo número de cartas necesarias para realizar la acción 
+requerida.
+	
+☞Viajar
+Un jugador puede jugar 1 o más cartas de Activo de su mano con 
+ para 
+mover 1 o más de sus Agentes y/o Profundos de una casilla de Ciudad a 
+otra a través de rutas conectadas. El coste de viajar con un Agente es el 
+importe total en 
+de las rutas más eficientes entre la casilla de Ciudad de 
+origen y la de destino. Un jugador nunca puede pagar más de lo necesario 
+para viajar. El jugador puede usar esta acción para viajar con cualquiera de 
+sus Agentes en cualquier Ciudad y viajar a múltiples destinos, siempre que 
+tenga suficiente 
+.
+Cualquier exceso de 
+ se pierde.
+NOTA: una vez por turno, la Agente Lilian La France 
+ puede moverse a una Ciu­
+dad adyacente sin pagar el coste de viajar.
+	
+☞Manipular Ritual/Investigación
+Un jugador puede jugar 1 o más cartas de Activo de su mano con 
+/
+ 
+para aumentar o 
+/
+ para disminuir el medidor correspondiente tantas 
+casillas como los iconos jugados. Los jugadores solo pueden aumentar O dis­
+minuir un único medidor con 1 sola acción de manipular Ritual/Investiga­
+ción (es decir, una única acción solo puede mover 1 medidor en 1 dirección). 
+Si el marcador de Ritual o de Investigación llega alguna vez a la casilla final 
+de su medidor respectivo, se desencadena el final de la partida. Ejecuta los 
+pasos de final de la partida de inmediato después de resolver por completo 
+esta acción (consulta la pág. 15).
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+4 PV
+3 PV
+3 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+ACCIÓN: otro jugador recupera 
+ 
+  
+de una casilla de Ciudad o carta  
+de Activo principal a tu elección.
+Añade un 
+ a una casilla de Ciudad.
+FBI
+ACCIÓN GRATUITA: descarta 
+cualquier número de cartas de Activo 
+de tu mano para robar ese mismo 
+número de cartas de Activo.
+Francmasones
+Portal a otro mundo
+ACCIÓN: 
+ o 
+ con 1  
+de tus Agentes sin 
+.
+Portal a otro mundo
+RECLAMAR: aniquila todas las cartas de 
+Activo principal bajo esta carta. Añade 
+1 carta de Mitos a la fila de Mitos.
+Anomalía dimensional
+Los Agentes Resucitados no 
+pueden ser asesinados.
+RECLAMAR: dale la vuelta a tu Agente principal 
+para ponerlo por su lado de Resucitado.
+ACCIÓN: dale la vuelta a 1 de tus Agentes 
+reclutados para ponerlo por su lado de 
+Resucitado o reclama 1 Agente reclutado de otro 
+jugador que comparta actualmente una casilla 
+de Ciudad con 1 de tus Agentes Resucitados.
+Resucitados
+RECLAMAR: coloca 4 fichas de Profundo 
+en cualquier casilla de Ciudad.
+ACCIÓN: la partida termina si los 
+8 Profundos están en juego. De lo contrario, 
+coloca hasta 2 Profundos en cualquier casilla 
+de Ciudad. Luego, reclama 1 Ciudad con 
+valor de control igual o inferior al número 
+de Profundos que haya en esa Ciudad.
+Profundos
+EJEMPLO: el Agente Lunes juega 2 cartas con un total de 4 
+. Usa 
+1 
+ para viajar con su Agente principal de Pittsburgh a Indianápolis y 
+3 
+ para viajar con Moses Fleet de Charleston a Nueva Orleans.
+EJEMPLO: durante su turno, la Agente Martes juega las cartas Nueva 
+Orleans y James Horus Rose para manipular el medidor de Ritual. Avanza el 
+marcador de Ritual 3 casillas hacia arriba.
+Nueva Orleans
+ACCIÓN: 
+ o 
+.
+agente James Horus Rose
+3 
+ALMACÉN
+4 
+2
+PV
+1
+28
+2
+27
+-1
+30
+3
+26
+0
+29
+3 
+ALMACÉN
+4 
+2
+PV
+1
+28
+2
+27
+-1
+30
+3
+26
+0
+29
+ACCIÓN GRATUITA: roba 1 carta 
+de Activo. Añade 
+ 
+.
+WALL STREET
+AGENTE LUNES
+EJEMPLO: durante su turno, el Agente 
+Viernes juega 2 cartas, con lo que tiene un 
+total de 5 
+ para adquirir Influencia. Toma 
+2 cubos de Influencia de su color del suministro 
+general y los añade a su suministro personal. La 
+ que no se gaste se pierde y no se puede usar 
+en esta ni en ninguna otra acción posterior.
+
+
+===== PAGINA 12 =====
+12
+Dark ProvidEnce - Reglamento
+	
+☞Acción de carta
+Un jugador puede jugar 1 carta de Activo o usar una carta de Mitos para 
+realizar un efecto de ACCIÓN indicado en la carta. Algunas cartas tienen 
+efectos de ACCIÓN GRATUITA. Se realizan siguiendo el mismo proceso, 
+pero no usan ninguna de las 2 acciones del turno del jugador.
+La siguiente es una lista de efectos comunes de ACCIÓN y ACCIÓN 
+GRATUITA:
+Asesinar
+Para asesinar (
+) al Agente de otro jugador, un jugador tiene que:
+1.	 Tener un Agente presente en la misma casilla de Ciudad que el Agente 
+de otro jugador. A menos que se indique lo contrario, los Agen­
+tes Resucitados no pueden ser asesinados.
+2.	 Jugar una carta de Activo que permita a ese Agente realizar esta acción:
+	
+ Juega una carta del Agente correspondiente si tiene 
+O BIEN
+	
+ Juega una carta que permita a cualquier Agente asesinar
+3.	 Igualar o superar el valor de control de la Ciudad con 
+, 
+siguiendo la restricción de jugar el mínimo número de cartas necesarias 
+para realizar la acción requerida. Los Agentes presentes en la misma 
+Ciudad controlados por el jugador que realiza la acción contribuyen 
+con su 
+, aunque no estén ellos realizando la acción. Luego, cualquier 
+ que falte tendrá que proceder de cartas de Activo jugadas desde la 
+mano. Juega 1 o más cartas adicionales con 
+ para igualar el valor de 
+control de la Ciudad total. La carta usada para asesinar no aporta su 
+, si tuviera alguno. Si el jugador no tiene suficiente 
+, la acción no 
+puede realizarse. Cualquier exceso de 
+ se pierde.
+4.	 El jugador que realiza la acción toma la ficha de Agente correspon­
+diente y la coloca en la zona de Cripta de su tablero de jugador.
+5.	 El jugador cuyo Agente fue asesinado aniquila la carta de Agente. Si 
+la carta estaba en su mano, roba 1 carta de Activo de su mazo para 
+reemplazarla. Si la carta estaba en su mazo, tiene que barajar su mazo 
+después. Luego, toma su soporte vacío y lo devuelve a su suministro 
+personal.
+IMPORTANTE: el Agente principal de un jugador solo puede ser asesinado si 
+dicho jugador no tiene otros Agentes y además tiene 5 PV o más en el medidor de 
+puntuación. El Agente principal de un jugador tampoco puede ser asesinado si ya se 
+ha revelado su Lealtad como Sectario. Los Profundos (Agentes especiales que pueden 
+adquirirse mediante cartas) pueden ser asesinados como cualquier otro Agente reclu­
+tado. Sus fichas se devuelven al suministro general.
+Si el Agente principal de un jugador es asesinado, revela su carta de Leal­
+tad. Si es una carta de Sectario, se cancela el asesinato y la partida continúa 
+como de costumbre. Si es una carta de Investigador o Disidente, se desenca­
+dena el final de la partida. Ejecuta los pasos de final de la partida de inme­
+diato después de resolver por completo esta acción (consulta la pág. 15).
+NOTA: el Agente Harry Houdini 
+ nunca puede ser asesinado.
+EJEMPLO: la Agente reclutada de la Agente Jueves, Adsila Chavos, se 
+encuentra en la casilla de Ciudad de Atlanta junto con el Agente reclutado del 
+Agente Viernes, Gerard Lescaux. En su turno, la Agente Jueves decide 
+jugar la carta Adsila Chavos, que le permite asesinar. Para asesinar con éxito 
+en Atlanta, necesita igualar o superar su valor de control, 4. La ficha de 
+Adsila Chavos tiene 1 
+, por lo que juega 3 cartas con el fin de sumar 3 
+ 
+más. Gerard Lescaux es asesinado. La Agente Jueves toma su ficha y la 
+coloca en la Cripta de su tablero de jugador, y devuelve el soporte al Agente 
+Viernes, que aniquila la carta Gerard Lescaux de su pila de descartes.
+EJEMPLO: el Agente principal del Agente Miércoles y su Agente 
+reclutado, Harry Houdini, se encuentran en la casilla de Ciudad de 
+Indianápolis junto con un Agente reclutado del Agente Lunes, el Padre 
+Lachlan. En su turno, el Agente Miércoles decide jugar la carta 
+Conspirador sanguinario, que le permite asesinar con uno de sus Agentes, y 
+decide asesinar al Padre Lachlan con su Agente principal. Como sus 2 Agentes 
+combinados tienen 3 
+, lo que iguala el valor de control de Ciudad de 
+Indianápolis, el Padre Lachlan es asesinado sin que haga falta jugar ninguna 
+carta de Activo adicional. El Agente Miércoles toma su ficha y la coloca 
+en la Cripta de su tablero de jugador, y le devuelve el soporte al Agente 
+Lunes, que aniquila la carta Padre Lachlan de su mazo.
+3 PV
+5 PV
+5 PV
+Indianápolis
+San Luis
+arta de  
+la de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+ACCIÓN GRATUITA: 
+ o 
+ con 1 de 
+tus Agentes. Aniquila esta carta.
+Conspirador sanguinario
+6 PV
+4 PV
+4 PV
+atlanta
+Nueva Orleans
+carta de  
+fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Portal a otro mundo
+ACCIÓN: 
+ o 
+ con 1  
+de tus Agentes sin 
+.
+Portal a otro mundo
+ACCIÓN: 
+ o mueve un  de 
+1 carta o casilla de Ciudad a otra 
+carta o casilla de Ciudad.
+Agente Adsila Chavos
+ACCIÓN: otro jugador recupera 
+ 
+  
+de una casilla de Ciudad o carta  
+de Activo principal a tu elección.
+Añade un 
+ a una casilla de Ciudad.
+FBI
+de tu mano para robar ese mismo 
+número de cartas de Activo.
+
+
+===== PAGINA 13 =====
+Dark ProvidEnce - Reglamento
+13
+Cerrar o abrir un Portal
+Para cerrar (
+) o abrir (
+) un Portal, un jugador tiene que:
+1.	 Tener al menos 1 de sus Agentes presente en una Ciudad sin una ficha 
+de Portal.
+2.	 Jugar una carta de Activo que permita a ese Agente realizar 
+ o 
+:
+	
+ Juega una carta del Agente correspondiente si tiene 
+ o 
+O BIEN
+	
+ Juega una carta que permita a cualquier Agente 
+ o 
+3.	 Igualar o superar el valor de Portal con 
+, siguiendo la restric­
+ción de jugar el mínimo número de cartas necesarias para realizar la 
+acción requerida. Los Agentes presentes en la misma Ciudad contro­
+lados por el jugador que realiza la acción contribuyen con su 
+, aun­
+que no estén ellos realizando la acción. Luego, cualquier 
+ que falte 
+tendrá que proceder de cartas de Activo jugadas desde la mano. Juega 
+1 o más cartas adicionales con 
+ para igualar el valor de control de la 
+Ciudad. La carta usada para cerrar/abrir el Portal no aporta su 
+, si 
+tuviera alguno. Si el jugador no tiene suficiente 
+, la acción no puede 
+realizarse. Cualquier exceso de 
+ se pierde.
+4.	 Colocar una ficha de Portal con la cara correspondiente (
+ o 
+) 
+bocarriba en el espacio de Portal de la Ciudad con una ficha de Con­
+trol encima.
+5.	 Realizar una prueba de Cordura (consulta la pág. 14). Si roba una 
+ficha de Locura y era un Agente reclutado el que realizaba la 
+acción, el Agente es aniquilado (los Agentes principales no pueden 
+ser aniquilados). Retira del juego la ficha y la carta de Agente corres­
+pondientes a ese Agente reclutado. Si la carta estaba en su mano, roba 
+1 carta de Activo de su mazo para reemplazarla. Si la carta estaba en su 
+mazo, tiene que barajar su mazo después. Luego, toma su soporte vacío 
+y lo devuelve a su suministro personal.
+Colocar o retirar un Bloqueo
+Un jugador puede jugar 1 carta de Activo de su mano con un Bloqueo (
+) 
+para colocar o retirar una ficha de Bloqueo de una carta de Activo princi­
+pal, una carta de Mitos o una casilla de Ciudad. Las cartas y Ciudades que 
+tienen un 
+ no pueden reclamarse por ningún medio, a menos que se indi­
+que lo contrario. Sin embargo, los jugadores aún pueden añadir y recuperar 
+Influencia de una carta o casilla de Ciudad con una ficha de Bloqueo. Una 
+carta o casilla de Ciudad no puede tener más de 1 
+.
+IMPORTANTE: la cantidad de fichas de 
+ es limitada. Si se va a colocar un 
+ 
+pero no quedan fichas, no se puede realizar la acción.
+	
+☞Descartar cartas
+Un jugador puede descartar cualquier número de cartas de Activo de su 
+mano y colocarlas en su pila de descartes.
+NOTA: aunque descartarse es una forma estupenda de renovar tu mazo más rápido, 
+recuerda que los jugadores solo roban cartas hasta alcanzar el tamaño de su mano al 
+final de su turno. 
+EJEMPLO: la Agente principal de la Agente Jueves se encuentra en la 
+casilla de Ciudad de Atlanta. Juega una carta de Activo inicial que le permite 
+cerrar un Portal. Luego, juega 2 cartas de su mano para sumar 3 
+ al 
+ 
+de su Agente principal y obtener un total de 4, que iguala el valor de Portal. 
+Coloca 1 ficha de Portal por la cara de cerrado en el espacio de Portal y 1 ficha 
+de Control encima. Como efecto de la carta, además la carta es aniquilada. 
+Luego, realiza una prueba de Cordura.
+EJEMPLO: la Agente Jueves y el Agente Lunes tienen ambos 
+ 
+en la carta de Mitos Nikola Tesla, pero el Agente Lunes tiene actualmente 
+mayoría de Influencia. Con la idea de evitar que el Agente Lunes reclame 
+la carta Nikola Tesla, la Agente Jueves juega una carta de Activo inicial 
+que le permite colocar o retirar 1 
+. Coloca 1 ficha de Bloqueo en la carta. 
+El Agente Lunes solo podrá reclamar la carta después de que él u otro 
+jugador realice una acción para retirar el 
+ en un turno futuro (y solo si sigue 
+teniendo mayoría de Influencia en la carta).
+6 PV
+4 PV
+4 PV
+atlanta
+Nueva Orleans
+a de  
+e Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Anarquistas
+AGENTE JUEVES
+ACCIÓN: 
+ o 
+ en la casilla 
+de Ciudad donde esté tu Agente 
+principal. Aniquila esta carta.
+CONSTANTE: obtén 1 acción la primera 
+vez que reclames una carta en tu turno.
+NIKOLA TESLA
+AGENTE JUEVES
+ACCIÓN: coloca o retira un .
+ACCIÓN: otro jugador recupera 
+ 
+  
+de una casilla de Ciudad o carta  
+de Activo principal a tu elección.
+Añade un 
+ a una casilla de Ciudad.
+FBI
+
+
+===== PAGINA 14 =====
+14
+Dark ProvidEnce - Reglamento
+	
+☞Revelar la Lealtad
+Un jugador solo puede llevar a cabo esta acción si su Lealtad aún no se ha 
+revelado y solo si tiene suficientes PV para desencadenar el final de la par­
+tida en función del número de jugadores.
+La acción en sí de revelar la Lealtad no requiere cartas para 
+ejecutarla.
+El jugador revela su carta de Lealtad y de inmediato obtiene PV por:
+	
+ Portales que ha cerrado/abierto, según su Lealtad.
+	
+ El intervalo en el que se encuentra su marcador de Lealtad en el 
+medidor.
+Este jugador no obtiene estos PV una segunda vez durante el cálculo de 
+puntuación del final de la partida (consulta la pág. 15). Además, aunque ter­
+minar la partida de esta manera podría ser ventajoso para un jugador, una 
+carta de Lealtad no revelada vale 3 PV al final de la partida y, en el caso de 
+los Disidentes, también pierden 3 PV por revelar su carta de Lealtad.
+NOTA: si el jugador calculó mal sus PV y no se desencadena el final de la partida, 
+pierde todos los PV obtenidos con esta acción. Ajusta su total de PV en el número que 
+tenía antes y coloca su carta de Lealtad bocabajo. Renuncia a esta acción, los Primi­
+genios se mofan de su fracaso y la partida continúa como de costumbre.
+	
+☞Pasar
+El jugador puede decidir terminar su turno sin realizar más acciones.
+◈ Prueba de Cordura ◈
+Cada vez que un jugador reclama una carta con el icono 
+ o cierra/abre 
+un Portal, debe realizar una prueba de Cordura siguiendo estos pasos en 
+orden:
+1.	 Roba 1 ficha de Prueba de Cordura de la bolsa.
+2.	 Coloca la ficha robada en la zona de Cordura de su tablero de jugador. 
+Se pueden robar 2 tipos de ficha:
+	
+
+: Conserva algo de su Cordura. Estas fichas no contribuyen a que 
+un jugador caiga en la Locura.
+	
+
+: La Locura acecha al agente. A menos que se indique lo contrario, 
+un jugador con 3 
+ cae de inmediato en la Locura.
+NOTA: recuerda que si se roba 1 
+ como resultado de una acción de cerrar/abrir 
+Portal, cualquier Agente reclutado que realice la acción es aniquilado. Los Agentes 
+principales no pueden ser aniquilados.
+	
+☞Caer en la Locura
+Se considera que un jugador que saca su 3ª ficha de 
+ ha caído en la 
+Locura. Revela su carta de Lealtad, si es posible. Si es de Sectario, la partida 
+continúa con la carta de Lealtad revelada. Si es una carta de Investigador o 
+Disidente, se desencadena el final de la partida. Ejecuta los pasos de final de 
+la partida de inmediato (consulta la pág. 15).
+EJEMPLO: tras abrir un Portal con un Agente reclutado, el Agente 
+Viernes realiza una prueba de Cordura y roba 1 ficha de 
+ de la bolsa. 
+Como esta es su segunda ficha de Locura, la partida continúa. Sin embargo, 
+dado que realizó la prueba de Cordura como resultado de la apertura de un 
+Portal y robó 1 ficha de 
+, el Agente reclutado que realizó la acción queda 
+aniquilado. El Agente Viernes retira la ficha y la carta del Agente de la 
+partida y devuelve su soporte a su suministro personal.
+
+
+===== PAGINA 15 =====
+Dark ProvidEnce - Reglamento
+15
+Final de la partida
+La partida continúa hasta que se produce uno de los desencadenantes del 
+final de partida. Luego, una vez que la acción que desencadenó el final de la 
+partida se haya resuelto por completo, calculad la puntuación.
+◈ Desencadenantes del final de la partida ◈
+	
+ Un jugador alcanza el número requerido de PV en función del número 
+de jugadores, indicado en el medidor de PV por el icono :
+	» Partida de 2 jugadores: 33 PV
+	» Partida de 3 jugadores: 30 PV
+	» Partida de 4 jugadores: 26 PV
+	» Partida de 5 jugadores: 22 PV
+	
+ Un jugador obtiene su 3ª 
+ y revela su Lealtad como Investigador o 
+Disidente.
+	
+ El Agente principal de un jugador es asesinado.
+	
+ El marcador de Ritual o de Investigación alcanza la última casilla de su 
+medidor.
+	
+ Se juega la acción de la carta de Activo principal Profundos y los 8 Pro­
+fundos están en juego.
+◈ Cálculo de la puntuación ◈
+Los jugadores obtienen PV en función de la Puntuación general, así como 
+de su Lealtad.
+	
+☞Puntuación general
+	
+ Cada jugador obtiene 3 PV si su carta de Lealtad no ha sido revelada 
+durante la partida. Luego, todos revelan sus cartas de Lealtad.
+	
+ Cada jugador obtiene PV por las cartas y Agentes que haya reclamado 
+con VP
+VP , como el Hospital Estatal de Danvers, Herbert West, Kana 
+Mishima, Randolph Carter o Llave de plata.
+	
+ Cada jugador comprueba si hay efectos de FINAL DE LA PARTIDA en 
+sus cartas de Mitos, que podrían proporcionar PV adicionales y/o condi­
+ciones de desempate.
+NOTA: asegúrate de volver a comprobar la puntuación de otras cartas puntuadas durante 
+la partida, como Ciudad Perdida y El Necronomicón, así como las Ciudades que contro­
+lan los jugadores. Además, recuerda que los jugadores que hayan realizado previamente la 
+acción de revelar la Lealtad no obtienen puntos por los medidores de Ritual o Investigación 
+ni por los Portales cerrados/abiertos, puesto que ya habían obtenido esos puntos.
+	
+☞Investigadores
+Cada Investigador obtiene PV:
+	
+ Iguales al intervalo en el que se encuentra el marcador de Investigación 
+en el medidor.
+	
+ Iguales al valor de Portal en cada Portal que tenga un 
+.
+	
+ Por cada Agente reclutado que haya reclamado con VP
+VP .
+	
+☞Sectarios
+Cada Sectario obtiene PV:
+	
+ Iguales al intervalo en el que se encuentra el marcador de Ritual en el 
+medidor.
+	
+ 1 PV por cada Agente asesinado en su Cripta.
+	
+ Iguales al valor de Portal en cada Portal que tenga un 
+.
+	
+ Por cada carta de Mitos que haya reclamado con VP
+VP .
+	
+ Iguales al número de Agentes Resucitados que controla.
+	
+ 8 PV si ha reclamado la carta Profundos Y ADEMÁS los 8 Profundos 
+están en juego.
+	
+☞Disidentes
+Cada Disidente obtiene PV:
+	
+ -3 PV si su carta de Lealtad fue revelada durante la partida, antes de la 
+puntuación final.
+	
+ Investigador disidente: iguales al intervalo en el que se encuentra el 
+marcador de Investigación en el medidor.
+	
+ Sectario disidente: iguales al intervalo en el que se encuentra el mar­
+cador de Ritual en el medidor.
+	
+ Iguales al valor de Portal en cada Portal que tenga un 
+ y 
+.
+	
+ 1 PV por cada Agente asesinado en su Cripta.
+NOTA: los Disidentes no obtienen VP
+VP  (PV de Investigador) ni VP
+VP  (PV de Sectario) 
+de las cartas o Agentes que hayan reclamado, ya que su abyecta deslealtad provoca 
+que los dejen de lado.
+
+
+===== PAGINA 16 =====
+16
+Dark ProvidEnce - Reglamento
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+2 PV
+6 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+5 PV
+4 PV
+3 PV
+3 PV
+7 PV
+3 PV
+5 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+washington D.C.
+Nueva York
+arkham
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+2 PV
+6 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+5 PV
+4 PV
+3 PV
+3 PV
+7 PV
+3 PV
+5 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+washington D.C.
+Nueva York
+arkham
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+EJEMPLO: durante su turno, la Agente Jueves asesinó al Agente principal 
+del Agente Miércoles. Luego, el Agente Miércoles reveló su Lealtad como 
+Investigador, desencadenando el final de la partida. Ahora, los jugadores calculan 
+sus PV:
+Puntuación general
+1  El Agente Lunes, la Agente Martes, la Agente Jueves, y el Agente 
+Viernes mantuvieron su Lealtad en secreto hasta el final de la partida y cada 
+uno obtiene 3 PV.
+2  El Agente Miércoles, sin embargo, tenía su Lealtad revelada y no 
+consigue ningún PV por Lealtad.
+3  Además, el Agente Viernes había reclamado la carta de Mitos Llave de 
+plata y obtiene 1 PV.
+Puntuación de los Investigadores
+4  El Agente Lunes revela su Lealtad como Investigador y, junto con el 
+Agente Miércoles, obtiene 2 PV correspondientes al intervalo en el que se 
+encuentra el marcador de Investigación en el medidor de Investigación.
+5  El Agente Lunes cerró el Portal de Charleston durante la partida y obtiene 
+5 PV. Sin embargo, no obtiene ningún PV por su Agente reclutado Moses Fleet, ya 
+que no otorga PV de Investigador.
+6  El Agente Miércoles no cerró ningún Portal durante la partida, pero 3 de 
+sus 4 Agentes reclutados tienen PV de Investigador, así que consigue 3 PV.
+7  Como es un Investigador, no suma puntos por el Agente que asesinó.
+Puntuación de los Sectarios
+8  La Agente Jueves y el Agente Viernes revelan su Lealtad como 
+Sectarios, y cada uno obtiene 4 PV correspondientes al intervalo en el que se 
+encuentra el marcador de Ritual en el medidor de Rituales.
+9  La Agente Jueves obtiene 1 PV por la carta de Mitos Yog-Sothoth que 
+había reclamado y 10  2 PV por los Agentes que asesinó durante la partida.
+11  No obtiene ningún PV por cerrar el Portal de Atlanta, ya que es una Sectaria.
+12  El Agente Viernes abrió el Portal de San Luis durante la partida y 
+obtiene 5 PV.
+Puntuación de los Disidentes
+13  La Agente Martes revela su Lealtad como Disidente y obtiene 2 PV 
+correspondientes al intervalo en el que se encuentra el marcador de Investigación 
+en el medidor de Investigación.
+14  También obtiene 5 PV por el Portal de Washington D. C. que cerró durante 
+la partida y 15  3 PV por el Portal de Chicago que abrió.
+3 
+2 
+1 
+ALMACÉN
+CARTAS DE CIUDAD
+CARTAS DE MITOS
+limbo
+4 
+5 
+12
+PV
+9
+PV
+6
+PV
+4
+PV
+2
+PV
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+ALMACÉN
+CARTAS DE CIUDAD
+CARTAS DE MITOS
+limbo
+4 
+5 
+12
+PV
+9
+PV
+6
+PV
+4
+PV
+2
+PV
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+Lealtad
+Lealtad
+CONSTANTE: revela la primera carta del mazo 
+de Almacén después de realizar una acción de 
+reclamar. Luego, elige aniquilarla o reclamarla sin 
+. 
+Coloca de inmediato un Agente reclamado de esta 
+forma en cualquier casilla de Ciudad.
+LLAVE DE PLATA
+1
+Lealtad
+RECLAMAR: obtén 1 acción.
+CONSTANTE: puedes añadir a tu 
+mano la primera carta de Activo 
+principal que reclames cada turno.
+1
+YOG-SOTHOTH
+Lealtad
+Investigador
+1
+1
+3
+2
+6
+1
+1
+7
+9
+5
+11
+12
+15
+14
+8
+13
+4
+10
+Agente Jueves
+Agente Martes
+Agente Lunes
+Agente Viernes
+Agente Miércoles
+
+
+===== PAGINA 17 =====
+Dark ProvidEnce - Reglamento
+17
+◈ Determinar el ganador ◈
+Una vez que todos los jugadores hayan calculado su puntuación final, todos 
+los jugadores con la misma Lealtad que el jugador con la cantidad de PV 
+más baja son eliminados. Si un solo Disidente tiene los PV más bajos, ese 
+jugador es eliminado. Si ambos Disidentes empatan en la puntuación más 
+baja, el Sectario Disidente es eliminado. Si hay un empate en la puntuación 
+más baja entre distintas Lealtades, el empate entre Disidentes y Sectarios se 
+resuelve a favor de los Sectarios, y el de ambos a favor de los Investigadores.
+De los jugadores restantes, gana el jugador que tenga más PV. En caso de 
+empate a mayor puntuación, gana el jugador con más cartas de Mitos. Si 
+sigue habiendo empate, el empate entre Disidentes y Sectarios se resuelve a 
+favor de los Sectarios, y el de ambos a favor de los Investigadores. Si sigue 
+habiendo empate, los jugadores empatados comparten la victoria.
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+2 PV
+6 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+5 PV
+4 PV
+3 PV
+3 PV
+7 PV
+3 PV
+5 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+washington D.C.
+Nueva York
+arkham
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+2 PV
+6 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+5 PV
+4 PV
+3 PV
+3 PV
+7 PV
+3 PV
+5 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+washington D.C.
+Nueva York
+arkham
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+Añade 1 carta de 
+Mitos a la fila de Mitos
+EJEMPLO: los jugadores suman ahora su puntuación de final de la partida a los 
+PV adquiridos durante la partida por hacerse con el control de Ciudades y los PV 
+inmediatos obtenidos mediante cartas.
+Agente Lunes: tenía un total de 4 PV por el control de Atlanta y obtiene 10 PV 
+adicionales al final de la partida, para un total de 14 PV.
+Agente Martes: tenía un total de 3 PV por el control de Nueva Orleans y 
+obtiene 13 PV adicionales al final de la partida, para un total de 16 PV.
+Agente Miércoles: tenía un total de 13 PV por el control de Arkham, 
+Washington D. C. y Nueva York. Obtiene 5 PV adicionales al final de la partida, 
+para un total de 18 PV.
+Agente Jueves: tenía un total de 3 PV por el control de Indianápolis y obtiene 
+10 PV adicionales al final de la partida, para un total de 13 PV.
+Agente Viernes: tenía un total de 7 PV por el control de Detroit y Pittsburgh. 
+Obtiene 13 PV adicionales al final de la partida, para un total de 20 PV.
+La Agente Jueves tiene menos PV que nadie. Ella y el Agente Viernes son 
+eliminados de la partida, ya que ambos compartían la Lealtad de Sectario. De 
+entre los jugadores restantes, el Agente Miércoles tiene la puntuación más alta 
+y ¡gana la partida!
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+3 
+2 
+1 
+4 
+5 
+14
+15
+12
+17
+10
+19
+8
+21
+6
+23
+4
+25
+1
+28
+-2
+31
+-5
+34
+13
+16
+11
+18
+9
+20
+7
+22
+5
+24
+2
+27
+-1
+30
+-4
+33
+3
+26
+0
+29
+-3
+32
+PV
+35
+
+
+===== PAGINA 18 =====
+18
+Dark ProvidEnce - Reglamento
+Modo solitario
+◈ Preparación ◈
+Siempre que juegues al modo solitario, sigue los pasos de preparación habi­
+tuales con los siguientes ajustes:
+1.	 Al tomar tu conjunto de componentes de jugador, toma una carta 
+de Lealtad de Investigador y colócala bocabajo junto a tu tablero de 
+jugador.
+2.	 Retira las siguientes cartas del mazo de Mitos: Impostor, Mi-Go y Pan­
+demonio. No se usan en el modo solitario. Luego, baraja las cartas de 
+Mitos restantes y coloca el mazo a la derecha del espacio para cartas de 
+Mitos del tablero de medidores. Revela y coloca 2 cartas a la derecha 
+del mazo para crear la fila de Mitos.
+3.	 Baraja las cartas de Activo principal. Coloca 2 cartas de Activo princi­
+pal bocabajo en la zona de mazo de cada una de las 12 ciudades. Luego, 
+dale la vuelta a la primera carta de cada Ciudad y déjala en su mazo 
+correspondiente bocarriba.
+4.	 Elige al azar 1 carta de Primigenio y colócala bocarriba a la izquierda 
+de tu tablero de jugador.
+5.	 Baraja las cartas de Comportamiento de sectario y colócalas bocabajo 
+junto a la carta de Primigenio, creando un mazo.
+6.	 Coloca las cartas de Sectario, en orden, junto a la carta de Primigenio, 
+con la cara no revelada bocarriba.
+7.	 Elige 2 de los colores no seleccionados para representar a los Sectarios 
+y toma sus respectivos soportes, cubos de Influencia y fichas de Control. 
+Coloca 1 ficha de Sectario en cada soporte y los cubos de Influencia y 
+las fichas de Control junto a la carta de Sectario correspondiente, for­
+mando sus suministros personales.
+8.	 Coloca al Sectario 1 en Arkham y al Sectario 2 en Nueva York.
+9.	 Coloca 1 cubo de Influencia de un color no seleccionado en la 6ª casilla 
+del medidor de PV. Representa la puntuación del Primigenio.
+El jugador juega primero. ¡Que empiece la locura!
+◈ Mecánicas ◈
+Durante el modo solitario, el jugador y el Primigenio se alternan para jugar 
+sus turnos.
+	
+☞Mecánicas del jugador
+Todas las reglas de una partida multijugador se aplican al jugador durante 
+el modo solitario, con las siguientes excepciones:
+	
+ Ignora cualquier parte de un efecto que interactúe con la mano, el mazo 
+o la pila de descartes de otro jugador. Resuelve todo lo que puedas del 
+resto del efecto.
+	
+ Siempre que se reclame una carta de Mitos, desliza las cartas de Mitos 
+de la fila hacia la izquierda, hacia el mazo de Mitos, ocupando el espacio 
+de la carta reclamada si es posible. Si la fila de Mitos se agota alguna vez, 
+añade de inmediato una carta de Mitos a la fila.
+	
+☞Mecánicas del Primigenio
+El Primigenio se considera un jugador con los siguientes ajustes:
+	
+ Cada Primigenio tiene un objetivo. Si consigue su objetivo, gana de inme­
+diato la partida.
+	
+ Cada Primigenio proporciona efectos únicos a los Sectarios que pueden 
+ser activados durante su turno (consulta la pág. 22).
+	
+ El Primigenio no tiene mazo, mano de cartas de Activo ni pila de descar­
+tes. A menos que se indique lo contrario, cuando el Primigenio reclame 
+cualquier carta de Activo principal, resuelve sus acciones de recursos 
+(consulta la pág. 22) y luego la aniquila. Las cartas de Activo de Ciudad 
+que vayan a ser aniquiladas se devuelven a la zona de cartas de Ciudad 
+del tablero de medidores como de costumbre.
+	
+ Todas las fichas 
+ obtenidas por el Primigenio se colocan cerca de la 
+carta de Primigenio. Sin embargo, el Primigenio no puede caer en la 
+Locura. Si el Primigenio llega a acumular 5 o más 
+, el jugador revela 
+su carta de Lealtad y el final de la partida se desencadena al final del 
+turno del Primigenio.
+	
+ El Primigenio trata todos los 
+ como 
+ y todos los 
+ como 
+.
+	
+☞Sectarios
+Los Sectarios se consideran los Agentes principales del Primigenio y siguen 
+estas reglas especiales:
+	
+ Cada carta de Sectario se considera una carta de Lealtad del Primige­
+nio. Las cartas comienzan la partida por su cara Sin revelar y se les da la 
+vuelta para ponerlas por su cara Revelado si el Sectario correspondiente 
+es asesinado.
+SIN REVELAR: no puedes reclamar la 
+Ciudad en la que está este Sectario 
+ni su carta de Activo principal.
+SECTARIO 1
+Cartas de Sectario
+Recursos
+Efecto
+SECTARIO 1: 
+. Añade 1 
+ 
+a su casilla de Ciudad.
+SECTARIO 2: Reclama 1 carta de 
+Activo principal. Añade 1 
+ a 
+una carta de Mitos disponible.
+Comportamiento de sectario
+Cartas de Comportamiento 
+de sectario
+Recursos
+Comportamiento
+OBJETIVO DEL PRIMIGENIO: Dagón gana 
+de inmediato una vez que el medidor de 
+Ritual esté 8 o más casillas por delante 
+del medidor de Investigación.
+SECTARIO 1: retira todos los 
+ de las casillas 
+de Ciudad no controladas por un Sectario. 
+Después, reclama una Ciudad, si puede.
+SECTARIO 2: 
+. De lo contrario, 
+.
+Dagón
+Nombre
+Efectos de los Sectarios
+Objetivo del Primigenio
+
+
+===== PAGINA 19 =====
+Dark ProvidEnce - Reglamento
+19
+	
+ Si un Sectario debe añadir más Influencia de la que tiene a una carta o 
+casilla de Ciudad, añade toda la que tiene. Si no le queda ninguna, recu­
+pera toda su Influencia del Limbo en su suministro personal y se mueve a 
+la siguiente Ciudad, ya que se considera que ha fallado la acción.
+	
+ Los Agentes Sectarios no aportan Influencia a las cartas ni a las casillas 
+de Ciudad.
+	
+ El jugador no puede reclamar una Ciudad o una carta de Activo princi­
+pal en la misma Ciudad que un Agente Sectario cuya carta de Sectario 
+esté Sin revelar.
+	
+ Cualquier PV obtenido por un Sectario se considera un PV del Primigenio. 
+A diferencia de la puntuación de los jugadores, cualquier PV obtenido por 
+el Primigenio se puntúa de inmediato. Esto también significa que el Primi­
+genio comienza la partida con 6 PV, 3 por cada carta de Sectario Sin reve­
+lar. Por el contrario, si alguna vez se revela una carta de Sectario, el Primi­
+genio pierde de inmediato sus respectivo PV (3 por cada uno).
+Para ejecutar las acciones de los Sectarios, imagina siempre un camino 
+único durante su turno, desde Arkham hasta Nueva Orleans.
+Hay un portal de Nueva Orleans a Arkham al que solo pueden acceder los 
+Sectarios. Los Sectarios de Nueva Orleans consideran Arkham una ciudad 
+adyacente. Siempre que los Sectarios viajen, realicen una acción o tengan 
+algún efecto que haga referencia a la «primera» Ciudad, empieza siempre 
+desde la Ciudad en la que el Sectario se encuentra actualmente y sigue el 
+camino hasta que se alcance una casilla de Ciudad que cumpla la condición.
+	
+☞Turno del Primigenio
+El Primigenio juega su turno revelando la primera carta del mazo de Com­
+portamiento de sectario y resolviéndolo. Cada carta tiene una línea para 
+cada Sectario, indicando las acciones que el Sectario correspondiente 
+intenta realizar. Una vez que la carta se resuelve por completo, termina el 
+turno del Primigenio. Si alguna acción no se puede realizar, la acción falla y 
+el Sectario realiza una acción de viaje en su lugar (consulta la pág. 21).
+Los Sectarios resuelven las acciones de la siguiente manera:
+Añadir influencia a una Ciudad
+Si la Ciudad no está ya controlada por un Sectario, añade la Influencia total 
+indicada en la carta de Comportamiento de sectario y la respectiva carta de 
+Sectario combinadas a la casilla de Ciudad en la que está ese Sectario en 
+ese momento. Si la Ciudad está controlada por cualquiera de los dos Secta­
+rios, la acción falla.
+Añadir Influencia a una carta de Activo principal
+Suma la Influencia total de la carta de Comportamiento de sectario y la res­
+pectiva carta de Sectario a la carta de Activo principal de la casilla de Ciu­
+dad en la que está ese Sectario en ese momento. Si no hay ninguna carta de 
+Activo principal en esa Ciudad, la acción falla.
+4 PV
+3 PV
+6 PV
+6 PV
+4 PV
+3 PV
+4 PV
+6 PV
+4 PV
+2 PV
+6 PV
+5 PV
+4 PV
+5 PV
+4 PV
+3 PV
+5 PV
+5 PV
+4 PV
+3 PV
+3 PV
+7 PV
+3 PV
+5 PV
+charleston
+pittsburgh
+boston
+atlanta
+Indianápolis
+detroit
+Nueva Orleans
+San Luis
+chicago
+washington D.C.
+Nueva York
+arkham
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+Añade 1 carta de  
+Mitos a la fila de Mitos
+
+
+===== PAGINA 20 =====
+20
+Dark ProvidEnce - Reglamento
+Añadir Influencia a una carta de Mitos
+Suma la Influencia total de la carta de Comportamiento de sectario y la res­
+pectiva carta de Sectario a la primera carta de la fila de Mitos sin Influen­
+cia de Sectarios. Si todas las cartas de Mitos tienen Influencia de Sectarios, 
+añade Influencia del Sectario que realiza la acción a la primera carta de 
+Mitos sin Influencia suya. Si todas las cartas de Mitos tienen Influencia del 
+Sectario respectivo, añade la Influencia a la primera carta de Mitos.
+Reclamar una Ciudad
+El Sectario reclama la primera Ciudad sin un 
+ en la que dicho Secta­
+rio tenga más Influencia que el jugador. Si no hay una Ciudad en la que se 
+cumpla esa condición, el Sectario retira el 
+ de la primera casilla de Ciu­
+dad donde tenga más Influencia que el jugador. Si tampoco se cumple, la 
+acción fracasa.
+Después de que un Sectario reclame una Ciudad, realiza estos pasos en 
+orden:
+1.	 Mueve toda la Influencia del Sectario respectivo de la casilla de Ciu­
+dad al Limbo. Devuelve el resto de cubos de Influencia de la casilla de 
+Ciudad al suministro personal del jugador y/o al suministro personal del 
+otro Sectario.
+2.	 Retira la ficha de Control del jugador, si la hubiera. Si la ficha de Con­
+trol del jugador fue retirada, reduce los PV del jugador en el valor de 
+control de la Ciudad correspondiente.
+3.	 Coloca una ficha de Control del Sectario que reclama la Ciudad en el 
+espacio de control de la casilla de Ciudad correspondiente y también 
+una ficha de Bloqueo, si es posible.
+4.	 El Primigenio obtiene una cantidad de PV igual al valor de control de 
+la Ciudad reclamada.
+5.	 Coloca la carta de Activo de Ciudad correspondiente bocarriba junto 
+a la carta de Primigenio y resuelve acciones basadas en sus recursos 
+para el Sectario que la reclamó (consulta la pág. 22). Si la carta estaba 
+en la mano del jugador, roba 1 carta de Activo para reemplazarla. Si la 
+carta estaba en su mazo, tiene que barajar su mazo después. Después de 
+resolver los recursos de la carta de Activo de Ciudad, aniquila la carta 
+y devuélvela a la zona de cartas de Ciudad del tablero de medidores.
+Reclamar una carta de Activo principal
+El Sectario reclama la carta de Activo principal de la primera Ciudad en cuya 
+carta de Activo principal tenga ese Sectario más Influencia que el jugador. Si no 
+hay una carta de Activo principal para la que se cumpla esa condición, el Secta­
+rio retira el 
+ de la primera carta de Activo principal donde tenga más Influen­
+cia que el jugador. Si ninguna carta cumple esa condición, la acción falla.
+Después de que un Sectario reclame una carta de Activo principal, realiza 
+los siguientes pasos, en orden:
+1.	 Mueve al Limbo toda la Influencia de la carta de Activo principal que 
+pertenezca al Sectario que la reclama. Devuelve el resto de cubos de 
+Influencia de la casilla de Ciudad al suministro personal del jugador y/o 
+al suministro personal del otro Sectario.
+2.	 Revela la carta de Activo principal bocabajo de esa Ciudad. Si no que­
+dan cartas de Activo principal en esa Ciudad, avanza el medidor de 
+Ritual 2 casillas y añade 1 carta de Mitos a la fila de Mitos.
+3.	 Resuelve acciones basadas en los recursos de la carta para el Sectario 
+que la reclamó (consulta la pág. 22). Luego, aniquila esa carta de Activo 
+principal, a menos que la carta de Primigenio indique lo contrario.
+4.	 Si la carta reclamada tiene un icono de 
+, realiza una prueba de Cor­
+dura para el Sectario (consulta la pág. 22).
+Reclamar una carta de Mitos
+El Sectario reclama la primera carta de Mitos sin un 
+ en la que dicho Sec­
+tario tenga más Influencia que el jugador. Si no hay una carta de Mitos para 
+la que se cumpla esa condición, el Sectario retira el 
+ de la primera carta 
+de Mitos donde tenga más Influencia que el jugador. Si ninguna carta cum­
+ple esa condición, la acción falla.
+Después de que un Sectario reclame una carta de Mitos, realiza los siguien­
+tes pasos, en orden:
+1.	 Mueve al Limbo toda la Influencia de la carta de Mitos que pertenezca 
+al Sectario que la reclama. Devuelve el resto de cubos de Influencia de 
+la carta de Mitos al suministro personal del jugador y/o al suministro 
+personal del otro Sectario.
+2.	 Coloca la carta de Mitos bocarriba junto a la carta de Primigenio. 
+Luego, resuelve acciones basadas en los recursos de la carta para el Sec­
+tario que la reclamó (consulta la pág. 22).
+EJEMPLO: durante el turno del Primigenio, la carta de Comportamiento 
+de sectario revelada determina que la Sectaria 1 tiene que añadir Influencia 
+a una carta de Mitos. Para determinar a qué carta debe añadir la Influencia 
+de Sectarios, el jugador revisa la fila de Mitos, buscando la primera carta (de 
+izquierda a derecha) sin ninguna Influencia de Sectarios (roja o morada). 
+Como ambas cartas de la fila ya tienen Influencia de Sectarios, el jugador 
+busca entonces la primera carta sin Influencia del Sectario que realiza la 
+acción, así que coloca 3 
+ en la segunda carta de la fila.
+SIN REVELAR: no puedes reclamar la 
+Ciudad en la que está este Sectario 
+ni su carta de Activo principal.
+SECTARIO 1
+SECTARIO 1: Reclama 1 carta de 
+Activo principal. Añade 1 
+ a 
+una carta de Mitos disponible.
+SECTARIO 2: 
+. Añade 1 
+ 
+a su casilla de Ciudad.
+Comportamiento de sectario
+RECLAMAR: revela cartas de la parte 
+superior del mazo del Almacén hasta que 
+se revele un Agente. Reclama ese Agente y 
+colócalo en cualquier casilla de Ciudad.
+CONSTANTE: tus cartas de Agente 
+reclutado obtienen 
+ y también puedes 
+usarlas para asesinar Resucitados.
+HASTUR
+1
+RECLAMAR: devuelve 1 
+ a la bolsa o 
+elige 1 jugador cualquiera para que 
+.
+HOSPITAL ESTATAL DE DANVERS
+1
+
+
+===== PAGINA 21 =====
+Dark ProvidEnce - Reglamento
+21
+3.	 El Primigenio obtiene 1 PV. Si la carta de Mitos coincide con el Primi­
+genio, obtiene 3 PV adicionales.
+4.	 Desliza las cartas de Mitos de la fila hacia la izquierda, ocupando el 
+espacio de la carta reclamada, si es posible.
+5.	 Si la carta reclamada tiene un icono de 
+, realiza una prueba de Cor­
+dura para el Sectario (consulta la pág. 12).
+Asesinar
+Un Sectario solo puede asesinar si el jugador tiene una puntuación actual de 
+5 PV o más. El Sectario que realiza 
+ asesina a un Agente del jugador que 
+esté en la casilla de Ciudad donde está su ficha de Agente Sectario. Si hay 
+más de 1 Agente reclutado perteneciente al jugador en la Ciudad, el juga­
+dor elige cuál es asesinado. Si el total combinado de 
+ en la carta de Com­
+portamiento de sectario, en la carta de Sectario correspondiente y en todos 
+los Agentes Sectarios presentes en esa casilla de Ciudad iguala o supera el 
+valor de control de la Ciudad, la acción tiene éxito. Si, por cualquier razón, 
+el Sectario no puede asesinar al Agente (si el jugador tiene menos de 5 PV 
+y/o si el Agente es el Agente principal del jugador y tiene Agentes reclutados 
+en el tablero), la acción falla.
+Después de que un Sectario asesine a un Agente, resuelve los siguientes 
+pasos en orden:
+1.	 Coloca la ficha del Agente junto a la carta de Primigenio. El Primige­
+nio obtiene 1 PV.
+2.	 Si el Agente asesinado era el Agente principal del jugador, el jugador 
+revela su carta de Lealtad y el final de la partida se desencadena al final 
+del turno del Primigenio.
+3.	 Si el Agente asesinado era un Agente reclutado, el jugador aniquila su 
+correspondiente carta de Activo principal. Si la carta estaba en la mano 
+del jugador, roba 1 carta de Activo para reemplazarla. Si la carta estaba 
+en su mazo, tiene que barajar su mazo después.
+Abrir Portal
+Si el Portal dado no se ha cerrado ni abierto y el total combinado de 
+ en 
+la carta de Comportamiento de sectario, en la carta de Sectario correspon­
+diente y en todos los Agentes Sectarios presentes en esa casilla de Ciudad 
+iguala o supera el valor de Portal, la acción tiene éxito. Si, por cualquier 
+motivo, el Sectario no puede abrir el Portal, la acción falla. Después de que 
+un Sectario abra un Portal, resuelve los siguientes pasos en orden:
+1.	 Coloca la ficha de Control del Sectario correspondiente en el espacio 
+de Portal de esa Ciudad, encima de una ficha de Portal del suministro 
+general con la cara de abierto bocarriba.
+2.	 El Primigenio obtiene una cantidad de PV igual al valor de Portal.
+3.	 Realiza una prueba de Cordura para el Sectario (consulta la pág. 22).
+Viajar
+Los Sectarios realizan una acción de viajar después de resolver su efecto de 
+Sectario, fallar al realizar una acción diferente, o al resolver una acción 
+ 
+de una carta que han reclamado. Mueve al Agente Sectario a la siguiente 
+casilla de Ciudad, siguiendo el camino. Si esto no es posible (debido a la 
+presencia de Cthulhu o de una ficha de Ley marcial), simplemente mueve 
+al Agente Sectario a la siguiente Ciudad del camino a la que pueda viajar. 
+EJEMPLO: el Sectario 2 tiene mayoría de Influencia sobre la carta de Mitos 
+Hastur y la reclama durante el turno del Primigenio. La Influencia del otro 
+Sectario y del jugador se retiran de la carta y se devuelven a sus suministros 
+personales. Luego, la Influencia del Sectario 2 se mueve al Limbo y la carta se 
+coloca junto a la carta de Primigenio. El Primigenio obtiene de inmediato 5 
+PV, 1 por el hecho de adquirir una carta de Mitos, 1 que otorga la propia carta 
+de Mitos Hastur y 3 PV adicionales porque la carta coincide con el Primigenio. 
+Luego, todas las cartas de la fila se deslizan hacia la izquierda, ocupando el 
+lugar de la carta reclamada. Por último, el Sectario 2 debe realizar una prueba 
+de Cordura.
+REVELADO 
+SECTARIO 2
+-3
+SECTARIO 1: Realiza su efecto de Sectario.
+SECTARIO 2: Reclama una carta 
+de Mitos. Añade 1 
+ a la carta de 
+Activo principal de su Ciudad.
+Comportamiento de sectario
+RECLAMAR: devuelve 1 
+ a la bolsa o 
+elige 1 jugador cualquiera para que 
+.
+HOSPITAL ESTATAL DE DANVERS
+1
+RECLAMAR: revela cartas de la parte 
+superior del mazo del Almacén hasta que 
+se revele un Agente. Reclama ese Agente y 
+colócalo en cualquier casilla de Ciudad.
+CONSTANTE: tus cartas de Agente 
+reclutado obtienen 
+ y también puedes 
+usarlas para asesinar Resucitados.
+HASTUR
+1
+RECLAMAR: devuelve 1 
+ a la bolsa o 
+elige 1 jugador cualquiera para que 
+.
+HOSPITAL ESTATAL DE DANVERS
+1
+RECLAMAR: revela cartas de la parte 
+superior del mazo del Almacén hasta que 
+se revele un Agente. Reclama ese Agente y 
+colócalo en cualquier casilla de Ciudad.
+CONSTANTE: tus cartas de Agente 
+reclutado obtienen 
+ y también puedes 
+usarlas para asesinar Resucitados.
+HASTUR
+1
+OBJETIVO DEL PRIMIGENIO: Hastur gana 
+de inmediato una vez que ha reclamado 
+4 o más Agentes. Coloca todos los Agentes 
+reclamados por Sectarios junto a esta carta.
+SECTARIO 1: añade 1 
+ a cada una de 
+las 3 primeras cartas de Activo principal.
+SECTARIO 2: reclama la primera carta 
+de Activo principal con 4 o más 
+ de 
+Sectarios. Luego, reclama la primera carta 
+del Almacén. De lo contrario, 
+.
+Hastur
+
+
+===== PAGINA 22 =====
+22
+Dark ProvidEnce - Reglamento
+Si no es posible viajar a Nueva Orleans o Arkham (debido a la presencia de 
+Cthulhu o a la ficha de Ley Marcial), el portal de atajo respectivo se des­
+plaza a la Ciudad más cercana a la que se pueda viajar siguiendo el camino.
+Efectos de los Sectarios
+Cada carta de Primigenio contiene efectos únicos que otorga a cada Sec­
+tario. Siempre que se revele una carta de Comportamiento de sectario con 
+un efecto de Sectario, sigue las instrucciones indicadas en la carta de Pri­
+migenio. Si, por cualquier motivo, el Sectario no puede realizar el efecto, la 
+acción falla. Luego, el Sectario viaja a la siguiente Ciudad, como de costum­
+bre. Solo hay 2 cartas con efecto de Sectario en el mazo de Comportamien­
+tos de sectario. Después de que ambas cartas de Comportamiento 
+de sectario con el efecto Sectario se hayan resuelto por completo, 
+añade la pila de descartes al mazo y barájalo.
+	
+☞Resolver acciones de recursos
+Después de que un Sectario reclame cualquier carta, resuelve acciones basa­
+das en los recursos de la carta. Cada acción de recurso se resuelve de una en 
+una, en el siguiente orden, si está presente en la carta:
+1.	
+: suma la Influencia total de la carta de Sectario, la carta reclamada 
+y la carta de Activo principal de la casilla de Ciudad en la que está ese 
+Sectario en ese momento. Si no hay ninguna carta de Activo principal 
+en esa Ciudad, la acción falla.
+2.	
+: el Agente Sectario correspondiente viaja un número de casillas 
+de Ciudad igual al total de 
+ combinado de la carta de Sectario y la 
+carta reclamada.
+3.	
+: abre el Portal de la Ciudad en la que esté ese Sectario, siguiendo 
+el proceso habitual para que los Sectarios abran Portales (consulta la 
+pág. 21), sumando también al total el 
+ de la carta reclamada. Si esto no 
+es posible, o el total de 
+ es menor que el valor de Portal, la acción falla.
+4.	
+/
+: avanza el medidor de Ritual en la cantidad correspondiente 
+de la carta reclamada.
+5.	
+ / 
+: retrocede el medidor de Investigación en la cantidad corres­
+pondiente de la carta reclamada.
+Prueba de Cordura
+Los Sectarios realizan una prueba de Cordura robando 1 ficha de Cor­
+dura al azar de la bolsa de Prueba de Cordura. Si es un 
+, no tiene efecto 
+y la ficha es aniquilada. Si es una 
+, colócala junto a la carta de Primi­
+genio. Si el Primigenio llega a acumular 5 o más 
+, el jugador revela su 
+carta de Lealtad y el final de la partida se desencadena al final del turno del 
+Primigenio.
+◈ Final de la partida ◈
+La partida continúa hasta que se produce al menos uno de los desencade­
+nantes del final de la partida. Luego, una vez que la acción que desencadenó 
+el final de la partida se haya resuelto por completo, calculad la puntuación.
+	
+☞Desencadenantes del final de la partida
+	
+ El jugador o Primigenio alcanza o supera los 35 PV.
+	
+ El jugador cae en la Locura.
+	
+ El Primigenio obtiene su 5ª 
+.
+	
+ El Agente principal de un jugador es asesinado.
+	
+ El marcador de Ritual o de Investigación alcanza la última casilla de su 
+medidor.
+	
+ Se juega la acción de la carta de Activo principal Profundos y los 8 Pro­
+fundos están en juego.
+	
+☞Cálculo de la puntuación
+El jugador obtiene PV como Investigador, siguiendo las reglas habituales.
+	
+☞Determinar el ganador
+Después de que el jugador calcule su puntuación final, la compara con la 
+puntuación total del Primigenio. Gana el PV total más alto. En caso de 
+empate, gana el jugador.
+EJEMPLO: durante este turno, la carta revelada de Comportamiento de 
+sectario indicó que el Sectario 1 realizara su efecto de Sectario. El jugador 
+consulta el efecto de Sectario en la carta de Primigenio y añade 1 
+ a las 
+3 primeras cartas de Activo principal, siguiendo el camino.
+OBJETIVO DEL PRIMIGENIO: Hastur gana 
+de inmediato una vez que ha reclamado 
+4 o más Agentes. Coloca todos los Agentes 
+reclamados por Sectarios junto a esta carta.
+SECTARIO 1: añade 1 
+ a cada una de 
+las 3 primeras cartas de Activo principal.
+SECTARIO 2: reclama la primera carta 
+de Activo principal con 4 o más 
+ de 
+Sectarios. Luego, reclama la primera carta 
+del Almacén. De lo contrario, 
+.
+Hastur
+SECTARIO 1: Realiza su efecto de Sectario.
+SECTARIO 2: Reclama una carta 
+de Mitos. Añade 1 
+ a la carta de 
+Activo principal de su Ciudad.
+Comportamiento de sectario
+
+
+===== PAGINA 23 =====
+Dark ProvidEnce - Reglamento
+23
+Créditos
+DISEÑO DEL JUEGO: Martin Wallace y Travis R. Chance
+DESARROLLO Y DISEÑO DEL MODOS SOLITARIO: Chris Hamm
+PRODUCTORA JEFE: Isadora Leite
+PRODUCCIÓN: Thiago Aranha, Daryl Choo, Marcela Fabreti, Rebecca 
+Ho, Nicholas Sia, Kenneth Tan y Gregory Varghese
+EDICIÓN: Jason Koepp y Adam Krier
+TRADUCCIÓN: Ángel Martínez Murillo
+REVISIÓN: Joaquín C. Martín-Rayo
+TRASFONDO ADICIONAL: Eric Kelley
+CONSULTOR DE TRASFONDO: Francesco Nepitello
+DIRECTOR DE ARTE: Mathieu Harlaut
+ILUSTRACIONES: Anders Finér
+JEFES DE DISEÑO GRÁFICO: Max Duarte y Fabio de Castro
+DISEÑO GRÁFICO: Júlia Ferrari
+DIRECTOR DE DISEÑO DE JUEGOS: Guilherme Goulart
+EDITOR: David Preti
+PRUEBAS DE JUEGO: Daniel Alejos, Adam Daulton, Jason Funk y Jeff 
+Huter
+Versión original: Luke Badger, David Blowers, Katherine Boag, Chris 
+Boote, Simon Bracegirdle, Patrick Brennan, Angela Caunce, Teik, Chooi 
+Oh, Tim Cockitt, Kirstin Donaldson, Glenn Doyle, Nathan Grange, Martin 
+Hair, Gordon Lewis, Amanda Milne, Rob Mulholland, Don Oddy, Andy 
+Ogden, Stewart Pilling, Julia Schiller, Andrew Smith, Daniel Smith, David 
+Taylor y Brad Thompson
+
+
+===== PAGINA 24 =====
+24
+Dark ProvidEnce - Reglamento
+◈ Asesinar ◈
+1.	 Ten un Agente presente en la misma casilla de Ciudad que el Agente de 
+otro jugador. A menos que se indique lo contrario, los Agentes 
+Resucitados no pueden ser asesinados.
+2.	 Juega una carta del Agente correspondiente si tiene 
+ O BIEN juega 
+una carta que permita a cualquier Agente asesinar.
+3.	 Iguala o supera el valor de control de la Ciudad con 
+ de los Agentes 
+que tenga en la Ciudad y jugando cartas adicionales (solo si es necesa­
+rio). Recuerda que el 
+ de la carta jugada para realizar la acción no 
+contribuye al total de 
+.
+4.	 Toma la ficha de Agente correspondiente y colócala en la zona de 
+Cripta de tu tablero de jugador.
+◈ Cerrar o abrir un Portal ◈
+1.	 Ten 1 Agente presente en una Ciudad sin una ficha de Portal.
+2.	 Juega una carta del Agente correspondiente si tiene 
+ o 
+ O BIEN
+Juega una carta que permita a cualquier Agente 
+ o 
+.
+3.	 Iguala o supera el valor de Portal de la Ciudad con 
+ de los Agentes 
+que tenga en la Ciudad y jugando cartas adicionales (solo si es necesa­
+rio). Recuerda que el 
+ de la carta jugada para realizar la acción no 
+contribuye al total de 
+.
+4.	 Coloca tu ficha de Control en el espacio de Portal de esa Ciudad, 
+encima de una ficha de Portal del suministro general con la cara corres­
+pondiente bocarriba.
+5.	 Haz una prueba de Cordura.
+◈ Prueba de Cordura ◈
+Siempre que se reclame una carta con 
+ o cuando cierres/abras un Portal, 
+realiza una prueba de Cordura:
+1.	 Roba 1 ficha de Prueba de Cordura de la bolsa.
+2.	 Coloca la ficha robada en la zona de Cordura de tu tablero de jugador.
+Un jugador con 3 
+ cae en la Locura de inmediato y revela su carta de 
+Lealtad, si es posible. Si es de Sectario, la partida continúa con la carta de 
+Lealtad revelada. Si es una carta de Investigador o Disidente, se desenca­
+dena el final de la partida.
+◈ Desencadenantes del final de la partida ◈
+	
+ Un jugador alcanza el número requerido de PV en función del número 
+de jugadores, indicado en el medidor de PV.
+	
+ Un jugador obtiene su 3ª 
+ y revela su Lealtad como Investigador o 
+Disidente.
+	
+ El Agente principal de un jugador es asesinado.
+	
+ El marcador de Ritual o de Investigación alcanza la última casilla de su 
+medidor.
+	
+ Se juega la acción de la carta de Activo principal Profundos y los 8 Pro­
+fundos están en juego.
+◈ Cálculo de la puntuación ◈
+	
+ Cada jugador obtiene 3 PV si su carta de Lealtad no ha sido revelada 
+durante la partida.
+	
+ Cada jugador obtiene PV por las cartas y Agentes que haya reclamado 
+con VP
+VP .
+	
+ Cada jugador comprueba si hay efectos de FINAL DE LA PARTIDA en 
+sus cartas de Mitos, que podrían proporcionar PV adicionales y/o condi­
+ciones de desempate.
+	
+☞Investigadores
+	
+ PV iguales al intervalo en el que se encuentra el marcador de Investiga­
+ción en el medidor.
+	
+ PV iguales al valor de Portal en cada Portal que tenga un 
+.
+	
+ PV por cada Agente reclutado que haya reclamado con VP
+VP .
+	
+☞Sectarios
+	
+ PV iguales al intervalo en el que se encuentra el marcador de Ritual en 
+el medidor.
+	
+ 1 PV por cada Agente asesinado en su Cripta.
+	
+ PV iguales al valor de Portal en cada Portal que tenga un 
+.
+	
+ PV por cada carta de Mitos que haya reclamado con VP
+VP .
+	
+ PV iguales al número de Agentes Resucitados que controla.
+	
+ 8 PV si ha reclamado la carta Profundos Y ADEMÁS los 8 Profundos 
+están en juego.
+	
+☞Disidentes
+	
+ -3 PV si su carta de Lealtad fue revelada durante la partida, antes de la 
+puntuación final.
+	
+ Investigador disidente: PV iguales al intervalo en el que se encuentra 
+el marcador de Investigación en el medidor.
+	
+ Sectario disidente: PV iguales al intervalo en el que se encuentra el 
+marcador de Ritual en el medidor.
+	
+ PV iguales al valor de Portal en cada Portal que tenga un 
+ y 
+.
+	
+ 1 PV por cada Agente asesinado en su Cripta.
+◈ Determinar el ganador ◈
+Elimina a todos los jugadores con la misma Lealtad que el jugador con la 
+cantidad de PV individuales más baja. De los jugadores restantes, gana el 
+jugador que tenga más PV. En caso de empate, consulta la pág. 17.
+RESUMEN
