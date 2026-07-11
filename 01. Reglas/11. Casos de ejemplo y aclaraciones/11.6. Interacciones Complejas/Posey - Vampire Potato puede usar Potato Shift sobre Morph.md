@@ -16,7 +16,7 @@ El texto específico de Morph evita que sea necesario que él mismo sea un objet
 
 - [[1.2. Regla de oro (Golden Rules)|1.2. Regla de oro]] hace prevalecer la excepción específica de Advanced Mimicry.
 - [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales de Shift.
-- Las *Attack of the Vine Set Release Notes* confirman expresamente esta interacción y anuncian las nuevas reglas para desplazar sobre cartas que no sean personajes.
+- Las *Attack of the Vine Set Release Notes* confirman expresamente esta interacción; CR 2.2 codifica Potato Shift y el soporte no personaje en 8.10.8.6 y 8.10.4.1.
 
 ---
 
@@ -32,7 +32,7 @@ El texto específico de Morph evita que sea necesario que él mismo sea un objet
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. Los enlaces de las cartas y la numeración definitiva de Potato Shift quedan pendientes.
+Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y Potato Shift confirmado por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. Los enlaces de las cartas siguen siendo provisionales.
 
 ---
 

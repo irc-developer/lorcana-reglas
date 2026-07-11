@@ -19,7 +19,7 @@ Combo Shift puede utilizar un personaje con cualquiera de los dos nombres o dos 
 
 - [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales vigentes de Shift y pilas.
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] define seco, secándose, preparado y agotado.
-- Combo Shift y la combinación de estados son reglas nuevas de las *Attack of the Vine Set Release Notes*, pendientes de su redacción definitiva en CR 2.2.
+- Combo Shift y la combinación de estados están confirmados en CR 2.2, reglas 8.10.8.4 y 8.10.4.2.
 
 ---
 
@@ -35,7 +35,7 @@ Combo Shift puede utilizar un personaje con cualquiera de los dos nombres o dos 
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. Tanto el enlace de la carta como la numeración de Combo Shift son provisionales.
+Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y reglas generales confirmadas por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. El enlace de la carta sigue siendo provisional.
 
 ---
 

@@ -1,3 +1,6 @@
+> [!WARNING] Documento consolidado histórico
+> Este archivo no está actualizado íntegramente a CR 2.2 y no debe usarse como referencia vigente. Consulte `01. Reglas`, `Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf` y el artículo `Reglas completas de Disney Lorcana 2.2 - cambios respecto a 2.1.md`.
+
 # 1. CONCEPTS
 
 ## 1.1. General

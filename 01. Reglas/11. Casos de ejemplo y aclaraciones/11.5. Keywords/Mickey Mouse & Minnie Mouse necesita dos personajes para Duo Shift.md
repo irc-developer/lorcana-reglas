@@ -22,7 +22,7 @@ Al utilizar dos personajes:
 
 - [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales de Shift.
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] define los estados combinados por la nueva variante.
-- Las reglas de personajes con dos nombres y Duo Shift proceden de las *Attack of the Vine Set Release Notes* y quedan pendientes de integración en CR 2.2.
+- Duo Shift está confirmado en CR 2.2, regla 8.10.8.3. La explicación específica de nombres duales permanece en las *Attack of the Vine Set Release Notes*.
 
 ---
 
@@ -38,7 +38,7 @@ Al utilizar dos personajes:
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta y la numeración de Duo Shift son provisionales.
+Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y Duo Shift confirmado por CR 2.2, 8.10.8.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. El enlace de la carta sigue siendo provisional.
 
 ---
 

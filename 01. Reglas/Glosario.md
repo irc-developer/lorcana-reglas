@@ -28,8 +28,14 @@ Carta con {S} y {W} que entra en la zona de Juego.
 **classification (clasificación)**  
 Categoría que identifica características de una carta.
 
+**conditional dependent effect (efecto dependiente de una condición)**
+Efecto cuya aplicación depende de que una condición indicada por *if* o *unless* sea verdadera o falsa (6.1.15–6.1.16). Sustituye en CR 2.2 al término *conditional static ability* para este concepto.
+
 **damage (daño)**  
 Representado por contadores y contado contra {W}.
+
+**deal damage / take damage (infligir daño / recibir daño)**
+Una fuente puede seguir considerándose que inflige daño aunque los modificadores reduzcan la cantidad a 0; en ese caso, el personaje o la localización no reciben daño (1.9.5).
 
 **deck (mazo)**  
 Conjunto de cartas de un jugador; zona privada.
@@ -78,6 +84,9 @@ Una elección o selección que debe hacerse siguiendo las instrucciones de la ca
 
 **replacement effect (efecto de reemplazo)**  
 Un efecto que sustituye a otro efecto.
+
+**Shift variants (variantes de Shift)**
+[Classification] Shift, Universal Shift, Duo Shift, Combo Shift, Temporary Shift y Potato Shift (8.10.8).
 
 **static ability (habilidad estática)**  
 Habilidad que está activa continuamente.

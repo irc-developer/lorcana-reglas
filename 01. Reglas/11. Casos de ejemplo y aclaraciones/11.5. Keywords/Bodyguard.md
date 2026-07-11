@@ -15,7 +15,7 @@ Bodyguard crea una restricción de objetivo de desafío: si puedes elegir un per
 
 - [[8.3. Guardaespaldas (Bodyguard)#8.3.3. Objetivo prioritario|8.3.3. Objetivo prioritario]]
 - [[4.6 Desafío (Challenge)#4.6.4.2. Declarar desafiado|4.6.4.2. Declarar desafiado]]
-- [[4.6 Desafío (Challenge)#4.6.4.3. Restricciones|4.6.4.3. Restricciones]]
+- [[4.6 Desafío (Challenge)#4.6.4.3. Requisitos, limitadores y costes|4.6.4.3. Requisitos, limitadores y costes]]
 
 ---
 

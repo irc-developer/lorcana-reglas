@@ -1,25 +1,36 @@
-La verificación del estado del juego es un proceso automático que el juego realiza para comprobar un conjunto de condiciones específicas y ejecutar las *acciones requeridas* cuando se cumplen una o más de esas condiciones [CR-1.9.1, CR-351].
+# Verificaciones del estado del juego
 
-## **¿Cuándo se realiza una verificación del estado del juego?** [CR-1.9.2, CR-352]:
+Una verificación del estado del juego (*game state check*) es el proceso automático de la regla 1.8 que comprueba condiciones concretas y aplica sus resultados.
 
-La verificación del estado del juego se realiza en los siguientes momentos clave:
+## Cuándo se realiza
 
-- **Al final de cada paso** del turno.
-- **Después de que cualquier acción o habilidad haya terminado de resolverse.**
-- **Después de que cada efecto en la bolsa (bag) haya terminado de resolverse.**
+La regla 1.8.1 ordena comprobar el estado:
 
-## **Condiciones que evalúan una verificación del estado del juego** [CR-1.9.1, CR-351-352]:
+- al final de cada paso de la fase inicial del turno;
+- después de la declaración y del daño de un desafío;
+- después de completar cada acción de turno;
+- después de que se resuelvan todos los efectos de una acción o habilidad;
+- cuando termina el turno.
 
-- Si un jugador tiene **20 o más puntos de lore**, ese jugador gana la partida [CR-1.9.1.1, CR-352].
-- Si un jugador intentó robar de un mazo sin cartas **desde la última verificación del estado del juego**, ese jugador **pierde la partida** [CR-1.9.1.2, CR-352].
-- Si un **personaje o ubicación tiene daño igual o superior a su Voluntad ({W})**, ese personaje o ubicación es **desterrado** [CR-1.9.1.3, CR-352]. Se considera que un personaje desterró a otro personaje o ubicación si el destierro fue resultado de daño infligido en un desafío o por una habilidad de personaje como, por ejemplo, mover daños, [CR-1.9.1.3, CR-186].
+## Condiciones
 
-### **Proceso de la verificación del estado del juego** [CR-1.9.2, CR-352-353]:
+- **1.8.1.1:** un jugador con 20 o más puntos de lore gana la partida.
+- **1.8.1.2:** si el turno de un jugador termina sin cartas en su mazo, pierde la partida.
+- **1.8.1.3:** en multijugador, el último jugador que permanece en la partida gana.
+- **1.8.1.4:** un personaje o una localización con daño igual o superior a su Voluntad {W} es desterrado.
 
-Durante una verificación del estado del juego, se sigue este orden:
+Un personaje o una localización desterrados por daño de un personaje en un desafío, o por la habilidad de un personaje desde la última verificación, se consideran desterrados por ese personaje.
 
-1. Primero, se comprueban y completan todas las **condiciones de victoria y derrota** y las acciones requeridas.
-2. Si no se cumplen condiciones de victoria o derrota, se comprueban y completan todas las demás condiciones y acciones requeridas (como el destierro de personajes/ubicaciones por daño).
-3. Una vez que se completan todas las acciones requeridas, **la verificación del estado del juego se repite** hasta que no haya más acciones requeridas que completar [CR-1.9.3, CR-188].
-4. Las habilidades disparadas que ocurrieron durante este proceso se añaden a la bolsa para resolverse **después** de que la verificación del estado del juego y todas las acciones requeridas hayan finalizado por completo [CR-1.9.2, CR-1.9.4, CR-187-188] como, por ejemplo, las que dependen de desterrar un personaje.
-5. Cualquier acción requerida generada por una verificación del estado del juego ocurre en el **orden de turno** [CR-1.9.2.1, CR-188]. Si un jugador ganaría y perdería al mismo tiempo debido a la misma verificación, ese jugador gana la partida [CR-1.9.2.1, CR-188]. Si varias acciones requeridas ocurren a la vez, se consideran una única acción combinada que sucede simultáneamente [CR-1.9.5, CR-188-189].
+## Proceso
+
+1. Se aplican simultáneamente todos los resultados que corresponden al mismo jugador; si afectan a varios jugadores, se aplican en orden de turno (1.8.4).
+2. Las habilidades que se disparan por la verificación se añaden a la bolsa, pero no se resuelven todavía (1.8.2).
+3. La verificación se repite inmediatamente (1.8.3).
+4. Cuando ninguna condición se cumple, se resuelven las habilidades de la bolsa. Después se comprueba otra vez el estado antes de continuar.
+
+Una condición solo produce su resultado si sigue cumpliéndose cuando ocurre la verificación (1.8.5). Si durante la resolución un personaje alcanza daño letal, pero antes de terminar el efecto ese daño se mueve o se retira, no es desterrado por esa condición.
+
+> [!NOTE] Error del PDF oficial
+> El ejemplo B de 1.8.3 remite a la inexistente 1.8.1.5 para una localización. La regla correcta es 1.8.1.4, que reúne personajes y localizaciones.
+
+#game-state-check #bag #banish #win #lose

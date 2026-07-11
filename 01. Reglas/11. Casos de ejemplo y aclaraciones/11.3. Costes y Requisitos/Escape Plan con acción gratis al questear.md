@@ -33,7 +33,7 @@ Por tanto:
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.3 Las elecciones se hacen al resolverse el efecto]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3 Las instrucciones se realizan en el orden escrito]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4.4.1 “No puedes [hacer algo] salvo que...” es una restricción condicional]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.16.1 «No puedes [hacer algo] salvo que...» es un efecto dependiente de una condición]]
 
 ---
 

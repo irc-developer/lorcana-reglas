@@ -18,7 +18,7 @@ Tener dos o más copias no cambia esta conclusión.
 
 - [[1.10. Materiales (Materials)|1.10. Materiales]] contiene los requisitos generales de construcción de mazo.
 - La excepción solo alcanza al conjunto definido por «other Hunny characters».
-- Las *Attack of the Vine Set Release Notes* anuncian una nueva regla 1.10.1.3 para habilidades que modifican la construcción del mazo y confirman que la fuente de la excepción debe ser legal primero.
+- CR 2.2, regla 1.10.1.3, confirma que la fuente de una excepción de construcción debe ser legal antes de aplicar su habilidad.
 
 ---
 
@@ -33,7 +33,7 @@ Tener dos o más copias no cambia esta conclusión.
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El texto definitivo de 1.10.1.3 y el enlace de la carta quedan pendientes.
+La regla general está confirmada por CR 2.2, 1.10.1.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. El enlace de la carta sigue siendo provisional.
 
 ---
 

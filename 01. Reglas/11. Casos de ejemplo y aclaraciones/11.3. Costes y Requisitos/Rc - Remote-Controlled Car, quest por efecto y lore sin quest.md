@@ -63,7 +63,7 @@ Questear y ganar lore no son exactamente la misma cosa. El quest normal incluye 
 - [[01. Reglas/1. Principios generales/1.5 Costes (Costs)#1.5.3. Obligación|1.5.3. Un coste debe pagarse completo; si no puedes pagarlo entero, no puedes realizar la acción que lo exige]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.3. Elecciones durante la resolución|1.7.3. Las decisiones se toman en el momento en que el efecto o acción se resuelve]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.7. Corrección de jugadas|1.7.7. Si una elección concreta es ilegal, se retrocede solo hasta esa elección]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#6.4.4.1. Unless|6.4.4.1. En una estática con "unless", el efecto sigue aplicándose mientras la condición sea falsa]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.16. Construcciones con «unless» e «if»|6.1.16.1. Con «unless», el efecto sigue aplicándose mientras la condición sea falsa]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Las elecciones se hacen en su punto propio de resolución]]
 
 **Nota de criterio:** esta interpretación distingue entre dos cosas distintas: por un lado, la restricción de Reckless sobre cuándo puedes cerrar el turno; por otro, la decisión aparte de declarar un challenge pagando LOW BATTERIES.

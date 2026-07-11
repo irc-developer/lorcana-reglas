@@ -14,7 +14,7 @@ Si juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Celia Mae - Fri
 
 - [[1.5 Costes (Costs)|1.5. Costes]] exige que un coste se pague por completo.
 - [[6.1. General (General)|6.1. Reglas generales de efectos]] establece que rechazar un efecto opcional hace que esa parte se resuelva sin efecto.
-- Las *Attack of the Vine Set Release Notes* anuncian para 6.1.4.1 que no pagar o no poder pagar el coste unido a `may` se trata como elegir «no».
+- CR 2.2, reglas 6.1.4 y 6.1.4.1, confirma que no pagar o no poder pagar el coste unido a `may` se trata como elegir «no».
 
 ---
 
@@ -29,7 +29,7 @@ Si juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Celia Mae - Fri
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. La redacción general definitiva queda pendiente de CR 2.2 y el enlace de la carta es provisional.
+Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y principio general confirmado por CR 2.2, 6.1.4.1. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. El enlace de la carta sigue siendo provisional.
 
 ---
 
