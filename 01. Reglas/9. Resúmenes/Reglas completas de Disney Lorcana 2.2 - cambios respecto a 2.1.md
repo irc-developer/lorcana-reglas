@@ -87,7 +87,7 @@ La 2.2 introduce el mayor bloque funcional de la actualización:
 
 - **Duo Shift:** usa dos personajes, uno por cada nombre de la carta; las cartas inferiores se ordenan libremente.
 - **Combo Shift:** permite usar un personaje que comparta uno de los nombres o dos personajes que aporten ambos.
-- **Temporary Shift:** crea un disparo retardado que, al final del turno, retira el daño y devuelve solo la carta superior a la mano si sigue en juego.
+- **Temporary Shift:** crea un disparo retardado que, al final del turno, retira el daño del personaje representado por la pila y devuelve únicamente la carta temporal si la pila sigue en juego, aunque esa carta haya quedado en medio o debajo.
 - **Potato Shift:** permite desplazar un personaje sobre un objeto llamado Potato.
 - **Estados combinados:** secándose prevalece sobre seco y agotado sobre preparado cuando se usan dos cartas.
 - **Carta no personaje:** su antigüedad en juego determina si el personaje entra seco o secándose.

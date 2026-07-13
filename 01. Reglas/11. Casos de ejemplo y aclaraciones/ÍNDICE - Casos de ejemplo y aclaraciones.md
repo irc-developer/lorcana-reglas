@@ -141,7 +141,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 ---
 
-### 11.5. Keywords (15 casos)
+### 11.5. Keywords (16 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
 
@@ -158,8 +158,9 @@ Casos sobre palabras clave específicas de Lorcana.
 11. [Mickey Mouse – Bob Cratchit y cartas under.md](<11.5. Keywords/Mickey Mouse – Bob Cratchit y cartas under.md>)
 12. [Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) **(NUEVO: ATTACK OF THE VINE)**
 13. [Morph - Little Imitator funciona con todas las variantes de Shift.md](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) **(NUEVO: ATTACK OF THE VINE)**
-14. [Tiana y su trigger post canción.md](<11.5. Keywords/Tiana y su trigger post canción.md>)
-15. [We Know The Way no puede seleccionarse a sí misma.md](<11.5. Keywords/We Know The Way no puede seleccionarse a sí misma.md>)
+14. [Temporary Shift funciona aunque quede en medio de la pila.md](<11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md>) **(NUEVO: ATTACK OF THE VINE)**
+15. [Tiana y su trigger post canción.md](<11.5. Keywords/Tiana y su trigger post canción.md>)
+16. [We Know The Way no puede seleccionarse a sí misma.md](<11.5. Keywords/We Know The Way no puede seleccionarse a sí misma.md>)
 
 ---
 
