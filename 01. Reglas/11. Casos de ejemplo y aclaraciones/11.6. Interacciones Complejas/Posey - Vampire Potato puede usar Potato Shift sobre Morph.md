@@ -32,7 +32,7 @@ El texto específico de Morph evita que sea necesario que él mismo sea un objet
 
 ## 📝 Fuente y estado
 
-Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y Potato Shift confirmado por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. Los enlaces de las cartas siguen siendo provisionales.
+Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y Potato Shift confirmado por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

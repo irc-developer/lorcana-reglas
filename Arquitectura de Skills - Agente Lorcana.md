@@ -1,212 +1,64 @@
 # Arquitectura de Skills - Agente Lorcana
 
-Estado: Documento de diseño  
-Fecha de actualización: 2026-05-13  
+Estado: Documento de diseño implementado
+Fecha de actualización: 2026-07-26
 Origen del borrador: 2026-03-18
 
-> Este archivo describe el diseño objetivo. No es un agente activo ni una skill cargable. La customización operativa del workspace vive en `.github/`.
+> Este archivo explica la arquitectura. La configuración operativa vive en `.github/`.
 
-## Estado actual
+## Arquitectura activa
 
-### Qué está implementado hoy
+El flujo de rulings se mantiene pequeño y explícito:
 
-- Instrucciones modulares en `.github/instructions/` para alcance, aclaración, verificación de cartas, timing, robos, casos, tags, enlaces y saneado de archivos.
-- Skills activas en `.github/skills/` para importación de sets, seeds SQL de preguntas y actualización de portada e índices.
-- Consolidación de la lógica de preguntas en la skill local del repositorio, sin depender ya de la skill global duplicada.
-- Un primer agente mínimo de rulings en `.github/agents/lorcana-ruling.agent.md`.
+1. `.github/copilot-instructions.md` contiene el contrato breve y siempre activo.
+2. `.github/skills/lorcana-ruling-workflow/SKILL.md` es la única fuente de verdad para el ciclo obligatorio completo.
+3. `.github/agents/lorcana-ruling.agent.md` dispone de lectura, búsqueda, edición y ejecución, y sigue esa skill antes de responder.
+4. `.github/instructions/` conserva conocimiento técnico y editorial reutilizable.
 
-### Qué no está implementado todavía
+No hay una skill obligatoria separada para la portada o los índices. Esa conducta está incorporada en el workflow unificado para impedir que dependa de una segunda selección automática.
 
-- No existe un orquestador real que encadene subagentes o fases con contratos formales.
-- No existe una skill separada de `Rule Finder`, `Card Finder`, `Ruling Engine` o `Case Writer` como componentes ejecutables autónomos.
-- No hay prompts de workspace específicos para activación corta del flujo de ruling.
+## Transacción editorial
 
-### Cómo se resuelve hoy el trabajo
+Una duda de reglas se procesa en este orden:
 
-El flujo actual se apoya en una combinación de:
+1. concretar la pregunta;
+2. localizar fuentes oficiales y verificar cartas;
+3. producir el ruling técnico;
+4. buscar duplicados o solapamientos;
+5. crear o actualizar el artículo canónico;
+6. revisar estructura, metadatos, tags, enlaces, fuentes, ortografía y formato;
+7. sincronizar todos los índices afectados;
+8. actualizar la fecha visible de `Empecemos.md` cuando el artículo cambie materialmente;
+9. validar el conjunto;
+10. responder con el ruling y las rutas de los artículos.
 
-1. instrucciones modulares que fijan el criterio;
-2. skills puntuales para tareas repetibles;
-3. un agente mínimo de rulings que ya documenta el caso tras cada duda resuelta, aunque todavía sin orquestador dedicado.
+La respuesta al usuario es el cierre de la transacción, no una fase anterior a la documentación.
 
-Esto funciona para el estado actual del repositorio, pero no expresa todavía una arquitectura formal de ejecución de rulings.
+## Responsabilidades
 
-## Objetivo del diseño
+| Capa | Responsabilidad |
+| --- | --- |
+| Contrato global | Garantizar que cualquier ruling active el ciclo completo y sus dos únicas excepciones |
+| Workflow unificado | Ordenar, ejecutar y validar todas las fases obligatorias |
+| Agente de rulings | Proporcionar identidad, herramientas y salida final del flujo |
+| Instrucciones especializadas | Aportar alcance, verificación de cartas, timing, deduplicación, formato, tags, enlaces e higiene |
+| Documentos históricos | Explicar decisiones sin imponer comportamiento operativo |
 
-Separar el flujo de ruling en componentes pequeños para ganar:
+## Fuentes y límites
 
-1. consistencia de criterio;
-2. trazabilidad de qué parte decide cada cosa;
-3. posibilidad de orquestar pasos sin mezclar fuentes ni responsabilidades;
-4. facilidad para evolucionar cada parte sin tocar todo el sistema.
+- La autoridad primaria para reglas es `01.1.a Official English Reference – Unmodified/`.
+- La localización y documentación en castellano vive en `01. Reglas/`.
+- Los nombres y textos exactos de cartas se verifican en el archivo del set dentro de `02. Listado de Cartas/`.
+- Las carpetas legacy o auxiliares no son autoridad normativa.
+- Las preguntas al usuario se limitan a datos críticos que cambien el resultado.
+- La documentación solo se omite por petición explícita de no editar o por un bloqueo técnico comprobado.
 
-## Principios de diseño vigentes
+## Decisión histórica aclarada
 
-- El alcance normativo debe seguir viviendo en las instrucciones locales del repo.
-- La autoridad primaria para reglas sigue siendo `01.1.a Official English Reference – Unmodified`.
-- El texto exacto de cartas debe verificarse solo en la sección `02. Listado de Cartas`, usando el archivo del set correspondiente.
-- Ningún componente del diseño debe hacer fallback a carpetas legacy o auxiliares fuera del alcance permitido.
-- Las preguntas al usuario deben ser mínimas y solo cuando bloqueen la decisión normativa.
-- La salida final debe mantenerse breve, precisa y defendible.
+Se retiró la antigua regla monolítica que mezclaba todas las responsabilidades en un único documento de premisas. No se retiró la documentación automática de rulings: permanece activa y ahora se ejecuta mediante el workflow unificado.
 
-## Diseño objetivo
+El diseño previo proponía componentes autónomos como `Rule Finder`, `Card Finder`, `Ruling Engine` y `Case Writer`. Esas etiquetas pueden seguir siendo útiles para razonar sobre responsabilidades, pero no son agentes ni skills obligatorias separadas. Crear varias piezas mandatorias volvería a introducir selección probabilística y fuentes de verdad competidoras.
 
-### Vista general
+## Limitación residual
 
-| Componente | Función | Estado deseado |
-|-----------|---------|----------------|
-| Rule Finder | Localizar reglas base, conflictos y epígrafes relevantes | Futuro |
-| Card Finder | Verificar nombres y texto exacto de cartas | Futuro |
-| Ruling Engine | Emitir el ruling final con secuencia oficial | Futuro |
-| Case Writer | Documentar el caso cuando proceda | Futuro |
-| Orquestador | Coordinar el flujo de extremo a extremo | Futuro |
-
-### 1. Rule Finder
-
-**Propósito**  
-Identificar epígrafes normativos relevantes y detectar conflictos documentales.
-
-**Entrada mínima**
-
-- `question`
-- `knownFacts`
-- `language`
-- `scope`
-
-**Salida mínima**
-
-- `primaryRules`
-- `secondaryRules`
-- `conflicts`
-- `missingCriticalFacts`
-
-**Validaciones clave**
-
-- devolver al menos dos referencias primarias cuando sea posible;
-- no salir de `01. Reglas` y `01.1.a Official English Reference – Unmodified`;
-- listar conflictos de forma explícita cuando existan.
-
-### 2. Card Finder
-
-**Propósito**  
-Resolver menciones de cartas y verificar su texto exacto sin contaminar el análisis con fuentes legacy.
-
-**Entrada mínima**
-
-- `cardsMentioned`
-- `allowedSources`
-
-**Salida mínima**
-
-- `cards`
-- `ambiguities`
-- `missingCriticalFacts`
-
-**Validaciones clave**
-
-- usar solo la sección `02. Listado de Cartas` y el archivo del set correspondiente;
-- no usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X` ni `Unifica`;
-- detener la resolución si el texto exacto no está confirmado;
-- no dejar pasar ambigüedades de nombre sin confirmación.
-
-### 3. Ruling Engine
-
-**Propósito**  
-Emitir el ruling normativo final con secuencia oficial.
-
-**Entrada mínima**
-
-- `question`
-- `facts`
-- `rules`
-- `cards`
-
-**Salida mínima**
-
-- `verdict`
-- `shortAnswer`
-- `explanation`
-- `sequence`
-- `citations`
-- `conflictHandling`
-- `missingCriticalFacts`
-
-**Validaciones clave**
-
-- formato final: Sí/No + explicación + secuencia;
-- si hay conflicto alto, devolver fallo provisional y explicarlo;
-- no usar léxico de zonas en inglés en la salida final.
-
-### 4. Case Writer
-
-**Propósito**  
-Redactar y guardar el caso final en formato estándar del repositorio tras cada duda resuelta, salvo instrucción explícita en contra o bloqueo real.
-
-**Entrada mínima**
-
-- `title`
-- `duda`
-- `ruling`
-- `tags`
-- `targetFolder`
-
-**Salida mínima**
-
-- `filePath`
-- `status`
-- `qualityChecks`
-
-**Validaciones clave**
-
-- respetar la plantilla vigente del proyecto;
-- no incluir bloques de dato faltante en el documento final;
-- no sobrescribir contenido válido cuando ya exista histórico;
-- cerrar también índices y portada cuando la operación lo exija.
-
-### 5. Orquestador
-
-**Propósito**  
-Coordinar el flujo de extremo a extremo cuando exista un agente dedicado.
-
-**Flujo objetivo**
-
-1. recibir la duda y el contexto;
-2. ejecutar `Rule Finder` y `Card Finder` en paralelo;
-3. si falta dato crítico, preguntar lo mínimo y esperar respuesta;
-4. reejecutar los componentes afectados con los datos confirmados;
-5. ejecutar `Ruling Engine`;
-6. ejecutar `Case Writer` tras cada duda resuelta salvo instrucción explícita en contra o bloqueo real;
-7. devolver ruling corto, referencias usadas y ruta del caso si se creó.
-
-## Brechas entre el estado actual y el diseño objetivo
-
-- Hoy las reglas están bien separadas, pero la ejecución aún no lo está.
-- El repositorio ya tiene criterio modular, pero todavía no tiene componentes ejecutables con contratos formales.
-- El comportamiento actual depende del agente general y de instrucciones dispersas, no de un pipeline explícito.
-- La activación corta tipo “Resuelve esta duda” no está modelada todavía como prompt o agente del workspace.
-
-## Roadmap recomendado
-
-### Completado
-
-1. Mover la autoridad operativa del repo a `.github/`.
-2. Trocear las premisas en instrucciones pequeñas y reusables.
-3. Consolidar la skill de preguntas en el workspace y retirar la duplicidad global.
-
-### Siguiente fase razonable
-
-1. Decidir si merece la pena crear un agente personalizado de rulings.
-2. Si la respuesta es sí, definir primero el contrato mínimo real de `Rule Finder`, `Card Finder`, `Ruling Engine` y `Case Writer` a partir del uso del repositorio, no del deseo teórico.
-3. Crear entonces un `.agent.md` del workspace que orqueste esas fases.
-
-### Fase posterior
-
-1. Añadir normalización de nombres de cartas por alias.
-2. Añadir detector de contradicciones entre casos antiguos y reglas actuales.
-3. Añadir una métrica de trazabilidad para medir cuánto de cada ruling queda sustentado por citas directas.
-
-## Qué no conviene hacer todavía
-
-- Crear un agente solo para “tener uno” sin un flujo estable.
-- Duplicar en este documento reglas operativas que ya viven en instrucciones o skills.
-- Reabrir una arquitectura monolítica de premisas que mezcle diseño, ejecución real y material histórico.
+Las instrucciones pueden imponer orden, herramientas y criterios de cierre, pero no ofrecen por sí solas una transacción de base de datos con rollback automático. La garantía práctica depende de que el agente inspeccione el diff y valide artículo, índices y fecha antes de responder; ante un fallo real debe declarar el bloqueo y el trabajo incompleto.

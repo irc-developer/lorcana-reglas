@@ -2,8 +2,9 @@
 
 **Uso**: Este es el archivo de referencia OBLIGATORIO para todos los tags usados en casos de ejemplo. Antes de usar un tag, **verificar que está en este registro**. Si es nuevo, agregarlo aquí en orden alfabético.
 
-**Última actualización**: 21 de marzo de 2026  
-**Total de tags**: 18
+**Última actualización**: 26 de julio de 2026
+
+**Total de tags**: 47
 
 ---
 
@@ -24,11 +25,14 @@
 | `#golden-rule` | Regla de oro (excepciones del texto de carta) | Cuando el texto anula reglas |
 | `#gsc` | Game State Checks (verificaciones de estado) | Momentos cuando se verifica estado del juego |
 | `#lore-gain` | Ganar sabiduría/lore | Dudas sobre cómo ganar lore |
+| `#multiple-names` | Personajes con varios nombres reglamentarios | Comparaciones con personajes unidos por `&` |
 | `#multiple-triggers` | Múltiples habilidades disparadas | Dudas sobre varios triggers simultáneos |
+| `#quest` | Acción de irse de aventura | Dudas sobre la legalidad o el proceso de quest |
 | `#replacement-effect` | Efectos de reemplazo | Habilidades con "instead" |
 | `#shift` | Habilidad keyword Shift | Dudas sobre Shift y timing |
 | `#static-ability` | Habilidades estáticas (siempre activas) | Efectos constantes en juego |
 | `#triggered-ability` | Habilidades disparadas (When/Whenever) | Dudas sobre triggers |
+| `#vanish` | Palabra clave Vanish | Efectos que eligen personajes rivales con Vanish |
 | `#ward` | Palabra clave Ward | Dudas sobre protección de targeting |
 
 ### Zonas y Movimientos
@@ -69,14 +73,16 @@ Los tags de cartas se crean con el nombre exacto en minúscula con guiones:
 
 | Tag | Carta | Ejemplo |
 |-----|-------|---------|
-| `#grandmother-willow` | Grandmother Willow | Dudas específicas de esa carta |
-| `#horned-king` | Horned King | Dudas específicas de esa carta |
-| `#grandmother-willow` | Grandmother Willow | Dudas específicas de esa carta |
 | `#ariel-ethereal-voice` | Ariel - Ethereal Voice | Dudas específicas de esa carta |
 | `#beyond-the-horizon` | Beyond the Horizon | Dudas específicas de esa carta |
+| `#grandmother-willow` | Grandmother Willow | Dudas específicas de esa carta |
+| `#horned-king` | Horned King | Dudas específicas de esa carta |
 | `#lilo` | Lilo | Dudas específicas de esa carta |
 | `#next-stop-olympus` | Next Stop Olympus | Dudas específicas de esa carta |
+| `#one-and-only` | One and Only | Dudas específicas de esa carta |
 | `#pudge` | Pudge | Dudas específicas de esa carta |
+| `#strange-things` | Strange Things | Dudas específicas de esa carta |
+| `#this-growing-pressure` | This Growing Pressure | Dudas específicas de esa carta |
 
 ---
 

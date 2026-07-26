@@ -33,7 +33,7 @@ No existe un intervalo en el que Merida esté preparada entre su entrada y el ag
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta es provisional.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

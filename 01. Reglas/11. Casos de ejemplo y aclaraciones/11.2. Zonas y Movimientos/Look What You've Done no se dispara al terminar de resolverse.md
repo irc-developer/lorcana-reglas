@@ -33,7 +33,7 @@ La habilidad de Look What You've Done se dispara únicamente cuando un efecto o 
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta es provisional.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

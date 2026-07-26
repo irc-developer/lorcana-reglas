@@ -33,7 +33,7 @@ Tener dos o más copias no cambia esta conclusión.
 
 ## 📝 Fuente y estado
 
-La regla general está confirmada por CR 2.2, 1.10.1.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. El enlace de la carta sigue siendo provisional.
+La regla general está confirmada por CR 2.2, 1.10.1.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

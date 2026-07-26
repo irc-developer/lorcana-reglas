@@ -35,7 +35,7 @@ Combo Shift puede utilizar un personaje con cualquiera de los dos nombres o dos 
 
 ## 📝 Fuente y estado
 
-Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y reglas generales confirmadas por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. El enlace de la carta sigue siendo provisional.
+Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y reglas generales confirmadas por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

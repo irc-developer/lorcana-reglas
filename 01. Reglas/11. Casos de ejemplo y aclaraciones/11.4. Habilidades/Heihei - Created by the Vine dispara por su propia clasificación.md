@@ -30,7 +30,7 @@ Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Heihei - Created by th
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta es provisional.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

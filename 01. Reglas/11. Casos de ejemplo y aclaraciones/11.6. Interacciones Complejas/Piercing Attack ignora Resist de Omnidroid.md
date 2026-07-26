@@ -33,7 +33,7 @@ El daño base de Piercing Attack es 2. Resist +2 normalmente lo reduciría a 0, 
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. Los enlaces de ambas cartas son provisionales.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

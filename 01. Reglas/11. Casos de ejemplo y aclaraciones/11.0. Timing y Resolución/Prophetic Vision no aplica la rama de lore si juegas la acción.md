@@ -32,7 +32,7 @@ Esa rama se aplica si la carta revelada no es una acción o si es una acción y 
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta es provisional.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

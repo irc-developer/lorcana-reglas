@@ -34,7 +34,7 @@ Sin embargo, Morph no altera el número de cartas exigido. Duo Shift necesita do
 
 ## 📝 Fuente y estado
 
-Ruling de carta recogido en las *Attack of the Vine Set Release Notes*. La lista de variantes está confirmada por CR 2.2, 8.10.8; la excepción concreta de Morph no se reproduce allí. Véase [[CR 2.2 - comparación final con Attack of the Vine]]. Los enlaces siguen siendo provisionales.
+Ruling de carta recogido en las *Attack of the Vine Set Release Notes*. La lista de variantes está confirmada por CR 2.2, 8.10.8; la excepción concreta de Morph no se reproduce allí. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

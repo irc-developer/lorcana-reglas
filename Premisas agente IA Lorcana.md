@@ -33,9 +33,9 @@ No debe volver a convertirse en un bloque monolítico de reglas operativas.
 
 ### Skills activas del workspace
 
+- Flujo transaccional completo de rulings: [.github/skills/lorcana-ruling-workflow/SKILL.md](.github/skills/lorcana-ruling-workflow/SKILL.md)
 - Importación de sets desde la API: [.github/skills/lorcana-api-set-import/SKILL.md](.github/skills/lorcana-api-set-import/SKILL.md)
 - Seeds SQL de preguntas: [.github/skills/lorcana-sql-question-pools/SKILL.md](.github/skills/lorcana-sql-question-pools/SKILL.md)
-- Actualización de portada e índices manuales: [.github/skills/update-empecemos-date/SKILL.md](.github/skills/update-empecemos-date/SKILL.md)
 
 ### Diseño y contexto
 
@@ -46,7 +46,7 @@ No debe volver a convertirse en un bloque monolítico de reglas operativas.
 
 - Lo específico de Lorcana debe vivir en el workspace, no en customizaciones globales del perfil.
 - Las reglas operativas deben modificarse en la instrucción o skill responsable, no aquí.
-- Si aparece una nueva responsabilidad reusable, debe añadirse como instrucción o skill pequeña, no como apéndice de este archivo.
+- El ciclo obligatorio de ruling vive completo en una única skill; el conocimiento técnico reutilizable puede seguir separado en instrucciones o skills de apoyo.
 - Si una regla vieja entra en conflicto con la capa activa, prevalece la capa activa de `.github/`.
 
 ## Qué se retiró de la capa activa
@@ -69,7 +69,7 @@ Ese modelo ya no se usa porque generaba duplicidad, contradicciones internas y u
 ## Material que queda solo como histórico
 
 - Bloques de prompt listos para copiar.
-- Reglas antiguas que obligaban a documentar todos los rulings por defecto.
+- La antigua regla monolítica de documentación fue retirada. La documentación automática de rulings sigue activa y ahora se implementa mediante `.github/skills/lorcana-ruling-workflow/SKILL.md`.
 - Guías de optimización de requests o de ejecución dependientes del agente del momento.
 - Cualquier formulación detallada que ya haya sido absorbida por una instrucción modular.
 

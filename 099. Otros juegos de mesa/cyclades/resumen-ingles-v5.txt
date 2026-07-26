@@ -1,0 +1,1426 @@
+===== PAGE 1 =====
+The Esoteric Order of Gamers
+orderofgamers.com
+High quality materials for the dedicated devotee of immersive, thematic tabletop games.
+Game rules summaries, foamcore box plans, articles, interviews, reviews, videos, tutorials, forums 
+– and lots more.
+ @EOGamers    
+ gplus.to/EOGamers    
+ facebook.com/EOGamers    
+ EsotericOrderGamers    
+ instagram.com/orderofgamers 
+SUPPORT  
+ THE EOG 
+ BY BECOMING AN 
+ OFFICIAL   
+ MEMBER
+SIGN UP AT 
+ ORDEROFGAMERS.COM
+
+===== PAGE 2 =====
+Game: 	
+CYCLADES
+Publisher: 	
+Asmodee (2010)
+Page 1: 	
+Rules summary front
+Page 2: 	
+Rules summary back
+Page 3: 	
+Play reference front
+Page 4: 	
+Play reference back
+Page 5: 	
+Hades rules summary
+Page 6: 	
+Hades play reference front
+Page 7: 	
+Hades play reference back
+Page 8: 	
+Titans rules summary
+Page 9: 	
+Titans play reference
+Page 10: 	
+Monuments summary/reference
+Page 11: 	
+C3K play reference
+v5
+Oct 2017
+Print on card (ensure you are printing at 100% scale) laminate and trim to size. 
+These sheets are intended only for the personal use of existing owners of the game for additional reference. 
+Universal Head makes no claim whatsoever to the rights of the publisher and copyright holder, and does not 
+benefit financially from these player aids. Artwork from the original game is copyrighted by the publisher and 
+used without permission. This PDF may not be re-posted online, sold or used in any way except for personal use.
+
+===== PAGE 3 =====
+SETUP
+Each player chooses a color and takes his screen,  
+1 offering marker (2 in a 2 player game), 3 territory 
+tokens, 8 fleets and 8 troops. Each player also takes  
+5 gold pieces (GP) and hides them behind his screen.
+Place the isles, troops and fleets according to the 
+number of players, as indicated in the rules.
+Shuffle the mythological creature cards and place 
+them facedown on their board space. Place the 5 
+creature figurines next to the discard pile (you cannot 
+normally look in the discard pile during the game).
+Place the philosopher cards and the priest cards on 
+their board spaces.
+Shuffle together the players’ offering markers and 
+randomly place them on the first spaces of the game 
+turn track. The 4 God tiles go next to the board, along 
+with the building tiles, the metropolis tiles, the 2 dice, 
+the prosperity markers and the unused gold pieces.
+OVERVIEW
+The game takes place over a series of cycles during 
+which the players will:
+1. 	Gather their revenue in GP (production of their 
+isles + seafaring commerce)
+2. 	Make offerings to the Gods (auction).
+3. 	Depending on the God whose favor they obtained, 
+perform actions specific to that God.
+The goal of each player is to own 2 metropolises at 
+the end of a cycle (either by building them and/or 
+conquering them). 
+CYCLE
+1. mythological creatures
+Update the mythological creature track to have 3 
+visible creatures, one on each space. The GP under 
+each space is the cost to use that creature during the 
+action phase. 
+1. 	Discard the creature on the 2 GP space if it  
+wasn’t used during the previous round.
+2. 	Move all other cards to the right.
+3. 	Fill the remaining spaces by drawing new cards.
+When the draw pile is empty, shuffle the discard pile 
+to create a new draw pile.
+During the very first cycle, draw the first mythological 
+creature and place it faceup on the 4 GP space.
+During the second cycle, if this creature has not been 
+used, move it one square to the right and put the first 
+creature from the draw pile faceup on the vacated 
+space. If it was used, place the 2 first creatures from 
+the draw pile on the 4 GP and 3 GP spaces.
+2. The Gods
+The 4 God tiles are shuffled and placed randomly on 
+the 4 empty spaces above Apollo’s space. 
+5 players: all 4 tiles are placed faceup.
+4 players: the last of the 4 Gods is placed facedown; 
+it will not be available for this cycle. During the 
+following cycle, place this God faceup in the first 
+space, and shuffle the other 3. Once again, the God 
+placed in 4th place will be facedown and will become 
+first God during the following cycle.
+3 players: the first 2 Gods are placed faceup and the 
+last 2 facedown. During the next cycle, the 2 Gods 
+which were facedown are used. On the cycle following 
+that, the 4 Gods are shuffled again to make 2 new 
+random pairs.
+3. Revenues
+Each player receives 1 GP for each prosperity marker  
+he controls. GP earned by the players is kept hidden.
+4. Offerings
+In playing order, each player chooses a God and 
+places his offering marker on the space corresponding 
+to the offering that the player wishes to make.
+If an offering goes over 10, the player places one of 
+his territory markers on the 10+ space. The offering 
+marker then indicates any number beyond 10.
+A God grants his favor only to the player who made 
+the highest offering.
+If a player has made an offering to an already chosen 
+God, the offering must be higher than the one already 
+taking place, and the player who made the previous 
+offering must take his marker back and immediately 
+bid on a different God.
+The player thus outbid may outbid another player.  
+Any such case must be resolved before the next player 
+in the playing order places his offering marker. 
+Any player may place his offering marker on Apollo’s 
+space without cost; he does not require any offerings. 
+Multiple players may choose Apollo in the same cycle. 
+The first player to choose Apollo places his token on 
+the 1 space, the second on the 2 space, etc.
+The offering phase is over when each player has 
+placed his marker on a God.
+Each player pays the number of GP he offered,  
+taking into account any possible reductions due to 
+priest cards.
+Players cannot make an offering they can’t afford.
+5. Performing Actions
+The player who won the offering bid on the first 
+God can perform the actions specific to that God, 
+and use a mythological creature, by paying the cost 
+corresponding to each of those actions.
+The free action of each god must be taken, and it 
+must be completed first.
+Call upon one or more mythological creatures  
+(all Gods except Apollo)
+Recruit (all Gods except Apollo)
+Build (all Gods except Apollo)
+Special action (all Gods except Athena and Apollo)
+Increase revenue (Apollo)
+Players may alternate actions (eg, recruit, build and 
+recruit again).
+When a player is done with his actions, he places 
+his offering marker on the last free space of the turn 
+track. The player who won the offering bid on the next 
+God then performs his actions.
+a. Call One or More Mythological Creatures
+By paying the cost indicated under the card (minus 
+any cost reductions due to temples) the player can 
+take the corresponding creature card and apply its 
+effect. Once used, the card is placed faceup in the 
+discard pile.
+The powers of the creatures must be used 
+immediately. 
+New creature cards are only placed on the board at 
+the beginning of each cycle. The player who made the 
+best offering to the first God gets to help himself first.
+There is nothing to stop him from playing multiple 
+creatures, so it is possible that the last few players of 
+the cycle will no longer have any creatures available to 
+them by the time their turn comes around.
+b. Recruit
+The main Gods allow players to recruit—depending 
+on their specialty—a troop, a fleet, a priest or a 
+philosopher for free, but also to recruit more in 
+exchange for GP.
+c. Build
+A specific type of building is associated with each 
+God, each building with a different effect.
+A player may build the same type of building multiple 
+times, even on the same isle, as long as he can afford 
+the cost of 2 GP each.
+Buildings are placed on the white squares of each 
+isle.
+d. Special Action
+Some Gods grant special actions. During his turn, a 
+player may perform these actions multiple times, as 
+long as he has enough GP to afford them.
+e. Apollo
+Finally, the player(s) who have chosen Apollo play last 
+and have a limited choice of actions. Playing Apollo is 
+technically a way to skip one’s turn to save money.
+6. End of the Round
+Once every player has played and placed their offering 
+marker on the turn track, the round is finished.
+If one or more players own 2 metropolises, the game 
+ends. Otherwise, a new cycle begins.
+
+===== PAGE 4 =====
+THE GODS
+Poseidon
+Recruit Fleets
+Free fleet. You may purchase extra fleets: the second 
+costs 1 GP, the third 2 GP, and the fourth 3 GP. You 
+cannot purchase more than 3 extra fleets in a turn.
+No player may have more than 8 fleets. Fleets must 
+be built on sea spaces around isles you control. This 
+space must either be empty or contain your fleets.
+Build Port
+A port gives a defensive bonus during sea-faring battles 
+that take place on squares adjacent to the isle it is on.
+Move Fleets
+For 1 GP, you may choose fleets currently on the same 
+sea space and move them a maximum of 3 spaces. 
+You can add or abandon fleets during that movement.
+If fleets enter a space occupied by enemy fleets, their 
+movement ends and a battle begins immediately.
+Ares
+Recruit Troops
+Free troop. You may purchase extra troops: the second 
+costs 2 GP, the third 3 GP, and the fourth 4 GP. You 
+cannot purchase more than 3 extra troops in a turn.
+No player may have more than 8 troops. Troops must 
+be placed on isles you control.
+Build Fortress
+A fortress gives a defensive bonus during land-based 
+battles to troops on the same isle.
+Move Troops
+For 1 GP, you may move some or all of your troops on 
+an isle to another isle connected by a chain of fleets 
+of your color. If you land on an isle where enemy 
+troops are present, a battle starts immediately. If you 
+land on an isle free of troops, you claim it without a 
+battle, even if the isle has a fortress.
+If you move your last troop off an isle, you must leave 
+a territory marker there. The isle belongs to you as 
+long as no opponent lands there.
+A player may not attack the last isle of another player, 
+unless he can prove that he would win the game were 
+he to sucessfully conquer the isle.
+Zeus
+Recruit Priests
+Free priest. You may purchase a single extra priest for 
+4 GP. Priests are kept in plain sight.
+Each priest reduces the offering to be paid by 1 GP 
+at the beginning of each cycle. No matter how many 
+priests you have, you must pay at least 1 GP for your 
+offering (only Apollo is free).
+Build Temple
+Each temple reduces the cost of buying a 
+mythological creature by 1 GP. The price reduction of 
+each temple can only be used once per cycle.  
+No matter how many temples you own, you must still 
+spend at least 1 GP to get a creature.
+Change the Creatures
+For 1 GP, you can discard an available creature card 
+and replace it with the first card of the draw pile.
+Athena
+Recruit Philosophers
+Free philosopher. You may purchase a single extra 
+philosopher for 4 GP. Philosophers are kept in plain 
+sight.
+As soon as you get a fourth philosopher, you must 
+immediately discard them to build a metropolis.
+Build University
+The university has no special effect.
+Apollo
+You get 1 GP if you control more than one isle,  
+or 4 GP if you control a single isle.
+You also place 1 prosperity marker on the isle of  
+your choice. An isle can have several markers on it.
+If more than one player has chosen Apollo during a 
+single round, all earn the extra GP, but only the first 
+player who chose Apollo gets a prosperity marker. 
+BATTLE
+Each player participating in battle rolls 1 die and 
+adds the number of troops / fleets he has in the 
+combat zone.
+If the battle takes place on an isle where one or more 
+fortresses have been built, the defender adds 1 to his 
+for each fortress.
+If the battle takes place on a sea space adjacent to 
+an isle (or isles) where the defender has built one or 
+more ports, the defender adds 1 for each port.
+An isle is always considered to be a single space.
+The player with the lowest result loses the first 
+assault. He removes a troop / fleet from the battle and 
+places it in his reserve (in front of his screen). If the 
+result is a tie, both players lose a troop / fleet.
+If both combatants still have troops / fleets, the 
+defender can decide to retreat. If he does not (or 
+cannot), the attacker can also retreat. If neither of the 
+players retreat, a new assault takes place.
+These steps are repeated until only one player is left 
+in the combat zone. That player takes control of the 
+isle or the sea space in which battle occurred.
+If it was an isle, the winner also gets all buildings 
+found on the isle.
+Two armies may annihilate themselves at the same 
+time. In the case of a land-based battle, the defender 
+keeps his isle and a territory marker of his color on 
+it. He still benefits from the revenues of that isle and 
+the effects of buildings on it, but it will no longer 
+be defended against a subsequent attack until he 
+recruits new troops.
+Retreating during a land-based battle
+The player wishing to retreat must bring his troops 
+back to an isle belonging to him and linked by fleets 
+of his color to the one where battle occurred. If these 
+conditions are not met, the troops cannot retreat.
+Retreating during a sea-faring battle
+The player wishing to retreat must move his fleets 
+to an empty adjacent space or one he controls. If no 
+space is available, the fleets cannot retreat.
+THE METROPOLISES
+Each isle has a space (dotted red square) reserved 
+for a metropolis. There are two ways of creating a 
+metropolis:
+1. Economic Development
+A player who owns all 4 types of buildings (port, 
+fortress, temple and university), even if they are 
+spread over many isles, must immediately discard 
+them and replace them with a metropolis, which he 
+places on an empty space on one of his isles.
+If there are no free spaces, the player must destroy 
+one or more of his buildings to free the space.
+2. Intellectual Development
+A player who has 4 philosophers must immediately 
+discard them to earn a metropolis, which he places on 
+an empty space on one of his isles.
+If the only available space is occupied by buildings, 
+the player must destroy them to free the space.
+If a player only has one isle on which he already owns 
+a metropolis, his 4 philosophers are discarded (the 
+new metropolis ‘replaces’ the old one).
+A player can also earn a metropolis by conquering an 
+isle where one already exists.
+A metropolis has the powers of all other buildings.
+VICTORY
+The game ends at the end of a cycle where at least 
+one player owns 2 metropolises. That player wins.
+If more than a single player ends the cycle with 
+2 metropolises, the player who has the most GP 
+remaining behind his screen wins.
+2 PLAYER GAME
+Each player takes the 2 offering markers of his 
+color. Shuffle the 4 offering markers and place them 
+randomly on the first spaces of the turn track.
+Play exactly as detailed for 4 players, but each player 
+must make offerings to 2 Gods instead of a single one 
+(it is possible to outbid yourself).
+Each player must be able to pay the entire cost of 
+his offerings on both chosen Gods. A priest allows a 
+player to save 1 GP on the sum of your offerings.
+The game ends when one of the players owns 3 
+(instead of 2) metropolises at the end of a cycle.
+
+===== PAGE 5 =====
+CYCLE
+1. Mythological Creatures
+Update the mythological creature track. 
+Discard the 2 GP space creature if it wasn’t used, 
+move all cards to the right, and draw cards for 
+remaining spaces. 
+The GP listed is the cost to use that creature 
+during the action phase. 
+2. Update Gods Track
+Shuffle the 4 God tiles and place them randomly 
+on the 4 empty spaces above Apollo’s space. 
+3. Revenues
+Each player gets 1 GP for each prosperity marker 
+he controls. 
+4. Offerings
+In playing order indicated by the offering markers 
+on the turn track, each player chooses a God and 
+places his offering marker on the offering space he 
+wishes to bid.
+Apollo’s space has no cost. Multiple players may 
+choose Apollo.
+The offering phase is over when each player has 
+placed his marker.
+Each player pays the number of GP he offered, 
+remembering reductions due to priest cards.
+5. Performing Actions
+The player who won the offering bid on the first 
+God can perform the actions specific to his God, 
+and may use a mythological creature, by paying the 
+corresponding costs.
+a. Call Mythological Creatures
+b. Recruit
+c. Build
+d. Special action
+e. Increase Revenue (Apollo only)
+He then places his offering marker on the last free 
+space of the turn track. 
+The player who won the offering bid on the next 
+God then performs his actions.
+6. End of the Round
+If one or more players own 2 metropolises, the 
+game ends. 
+A player who is the lone owner of 2 metropolises  
+at the end of a cycle wins the game. If he is not 
+the only one, the player owning 2 metropolises 
+with the most GP wins.
+POWERS OF THE GODS
+	
+POSEIDON
+Recruit free fleet, + 1-3 fleets for 
+extra GP.
+Build port.
+Move For 1 GP, move fleets on a 
+space up to 3 spaces.
+	
+ARES
+Recruit free troop, + 1-3 troops for 
+extra GP.
+Build fortress.
+Move troops from one isle to 
+another along a chain of fleets.
+	
+ZEUS
+Recruit free priest, + 1 priest for 
+an extra 4 GP.
+Build temple.
+Replace one mythological creature 
+from the draw pile for 1 GP.
+	
+ATHENA
+Recruit free philosopher, + 1 
+philosopher for an extra 4 GP.
+Build university.
+	
+APOLLO
+Receive 1 GP (4 GP if you control 
+only one isle); and 1 prosperity 
+marker if you were the first to 
+make an offering.
+PRIESTS & PHILOSOPHERS
+Priests Each priest reduces the offering to be paid 
+at the beginning of each cycle by 1 GP (min 1).
+Philosophers As soon as a player gains a fourth 
+philosopher, he must immediately discard them to 
+build a metropolis.
+BUILDINGS
+Port Defensive bonus of +1 during sea-faring 
+battles taking place on spaces adjacent to the isle.
+Fortress Defensive bonus of +1 during land-based 
+battles taking place on the isle.
+Temple Each temple reduces the cost to purchase 
+a mythological creature by 1 GP once per cycle. 
+At least 1 GP must be spent no matter the number 
+of temples owned.
+Metropolis Has the effect of all buildings.
+
+===== PAGE 6 =====
+CHIMERA
+Choose a creature card from the 
+discard pile, use it, then shuffle the 
+discard pile back into the draw pile.
+When Chimera arrives in the discard 
+pile, whether used, discarded with 
+Zeus, or unbought, re-shuffle the 
+creature deck and the discard pile.
+CYCLOPS
+Replace one of your buildings with  
+a building of another type.
+DRYAD
+Steal a priest from the player of your 
+choice.
+THE FATES
+Receive your revenue again, as you 
+do at the beginning of a cycle.
+GIANT
+Destroy a building (not a metropolis).
+GRIFFON
+Steal half the GP (round down)  
+of another player of your choice.  
+The chosen player must show his 
+fortune to the other players.
+HARPY
+Remove a troop from the board and 
+place it before its owner’s shield.
+PEGASUS
+Move some or all of the troops on 
+one of your isles to another, without  
+the necessity of a chain of fleets. 
+SATYR
+Steal a philosopher from the player 
+of your choice.
+SIREN
+Replace an opponent’s fleet with one 
+of yours. If you have none in reserve, 
+you can take it from somewhere else 
+on the board.
+SPHINX
+‘Re-sell’ your fleets, troops, priest 
+cards and philosopher cards for 2 GP 
+each. Return tokens to the reserve 
+and cards to the draw pile.
+SYLPH
+You may move your fleets a total of 
+10 spaces.
+For the following creatures except 
+the Kraken, place the figure on an 
+isle of your choice. Its power applies 
+to that isle until the beginning of 
+your next turn. 
+Two figures on the same isle destroy 
+each other.
+CHIRON (CENTAUR)
+Chiron protects the isle from Pegasi, 
+Giants, and Harpies. 
+None of these creatures can be 
+used against troops or buildings on 
+this isle.
+MEDUSA
+Troops on the same isle cannot be 
+moved. Troops may still be moved 
+onto that isle.
+MINOTAUR
+The Minotaur counts as 2 troops to 
+protect the isle where he is present, 
+and he does not retreat.
+During a battle, a player’s troops 
+must be eliminated before the 
+Minotaur. When he is the only one 
+left, he is discarded if the defender 
+loses another battle.
+POLYPHEMUS (CYCLOPS)iron
+All fleets adjacent to Polyphemus’ 
+isle are pushed away one space and 
+no fleet can land on the isle as long 
+as he’s there.
+The player who plays Polyphemus 
+moves the fleets in the order and 
+direction of his choice. Two fleets 
+of different colors cannot be on the 
+same space. 
+If a movement is impossible, the 
+fleet is destroyed.
+THE KRAKEN
+Place the Kraken on a sea space. 
+If fleets are there, they are destroyed 
+(return the tokens to their owner). 
+For each extra GP spent to purchase 
+the Kraken, you may move it one 
+space. Every fleet encountered is 
+destroyed.
+At the end of its movement, the 
+Kraken remains in place and that sea 
+space is forbidden to all fleets until 
+it moves again. The next player to 
+use it may make it reappear on any 
+sea space.
+MYTHOLOGICAL CREATURES
+
+===== PAGE 7 =====
+MODULE 1: FREE POSITIONING
+Requires only the original game components.
+Follow the normal setup, except players receive 7 GP 
+(instead of 5), and leave the board free of any military 
+units. 
+Then hold a preliminary round of betting to decide on 
+which isles players will start the game.
+Shuffle the God tiles (one less than the number of 
+players) and place them on the empty slots located 
+above Apollo.
+Following the normal auction rules for positioning 
+however, during the preliminary round, there can be 
+only one player on Apollo.
+Once the auction is ended, players pay their offerings, 
+then chose the isles on which they will start the game; 
+starting with the player who won the auction on the 
+first God, and ending with one who chose Apollo.
+In turn, you receive 2 troops + 2 fleets + a bonus 
+depending on the God whose auction you won:
+Poseidon: a fleet
+Ares: a troop
+Athena: a philosopher
+Zeus: a priest
+Apollo: a Prosperity marker
+You must deploy your troops on at least 2 different 
+isles. The player who bet on Ares may choose to start 
+with a third isle, or to place 2 troops on one isle and 
+one troop on the second isle.
+You must then spread your fleets on 2 different 
+locations which are adjacent to the isles where your 
+troops are deployed. Your 2 fleets may be placed on 
+2 different locations near the same isle. The player 
+who bet on Poseidon may choose to start with a third 
+location, or to place 2 fleets on one location and one 
+fleet on the second location.
+Once you have completed your deployment, place 
+your marker on the last available slot to determine the 
+order of play in the next round. 
+The player who bet on the next God then deploys in 
+the same fashion. 
+The first round then begins. Skip the income phase in 
+this first round.
+2 Player Game
+3 God tiles are placed in addition to Apollo. Each 
+player plays with 2 Offering markers.
+Once the auction is ended and paid, players are 
+placed in the order of the offering markers.
+When you remove your marker, immediately deploy 1 
+fleet + 1 troop + the bonus given by the chosen God.
+MODULE 2: HADES & HIS UNDEAD
+At the beginning of a round, place the Hades tile next 
+to the board with the Threat side up. Place the Hades 
+column on the 0 space.
+At the beginning of each round, before The Gods 
+phase, a player rolls 2 combat dice and advances the 
+column by the total number rolled.
+If the column reaches or passes the 9th space, mix 
+the God tiles and place them in the usual manner, 
+then cover the tile of the active God placed just above 
+Apollo with the Hades tile showing its Hades side.
+At the end of the round (after the resolution of Apollo):
+All undead units are removed from the board.
+The Hades tile is placed back next to the board with 
+its Threat side up, and the column on the 0 space.
+HAdes
+Recruit Undead (Troops and/or Fleets)
+Free undead. You may purchase extra undead: the 
+second costs 1 GP, the third 2 GP, the fourth 3 GP, 
+and the fifth 4 GP. 
+You cannot purchase more than 4 extra undead in a 
+turn. You can purchase a mix of troops and fleets.
+Build a Necropolis
+There can be only one necropolis on the board. It must 
+be built on an isle you control and it fills a site usually 
+reserved for a metropolis (any other buildings already 
+on this site, including a metropolis, are crushed).
+For each regular military unit (not undead) eliminated 
+from the board (in battle or by effect of a mythological 
+creature) 1 GP is placed on the necropolis.
+During the next Revenues phase, the player controlling 
+the isle where the necropolis is located takes all the GP 
+from the necropolis.
+When Hades comes into play later in the game, you can 
+build a new necropolis. Remove the necropolis from its 
+current position (leaving any GP on the isle where they 
+were placed) and place it on an isle you control. 
+Move Troops and/or Fleets
+The rules of movement and combat are the same as 
+for the movements associated with Poseidon and Ares.
+However at least one undead military unit must 
+join each move (regular troops may join but are not 
+mandatory).
+During combat, if defeated, the player controlling 
+Hades chooses the order in which he loses its military 
+units (undead or regular units). 
+MODULE 3: HEROES & CREATURES
+At the start of the game, shuffle the new heroes and 
+mythological creatures cards with the mythological 
+creature cards from the base game.
+There are 4 new mythological creatures: Cerberus 
+(with figure), Charon, the Furies, and Empusa. There 
+is also new card which replaces the original Chiron. 
+Heroes come into play and are recruited in the same 
+way as mythological creatures. However they are not 
+mythological creatures, so temples do not provide a 
+discount for their purchase; you cannot discard a Hero 
+card through the special power of Zeus; and there may 
+be several heroes on the same isle, and on the same 
+isle as a creature figure. 
+When a hero is recruited, place his figure on one of 
+your isles and keep the card in front of you. This hero 
+will remain in play as long as he lives and you pay his 
+maintenance cost.
+At the beginning of each round, just after the Revenues 
+phase, you must pay 2 GP for each hero you want to 
+keep. If you do not pay, the hero disappears: remove 
+the hero’s card and figure from the game.
+Each Hero is worth a troop figure in combat, but has 2 
+additional abilities:
+A military power of its own, active when the hero 
+takes part in combat.
+A special power, usually with its own conditions, 
+if you decide to remove the hero’s card and figure 
+from the game the hero during your Action phase.
+You cannot sacrifice a hero during the turn he is 
+recruited, and you cannot sacrifice a hero if you have 
+selected Apollo. 
+If a hero is killed in battle he cannot be sacrificed just 
+before he dies. 
+MODULE 4: DIVINE FAVORS
+At the start of the game, stack the Priestess cards 
+near the board. Shuffle the Magic Items cards and 
+Divine Favors tiles and put them in facedown piles 
+near the board.
+You can discard a priestess to avoid paying the cost 
+of maintaining a hero, or you can discard a priestess 
+to not discard a creature figure and benefit from its 
+effect for another turn.
+At the beginning of each turn, during The Gods phase:
+If Hades comes into play, re-shuffle all Divine 
+Favors tiles (discarded or not) to form a new 
+facedown pile. (Divine Favors are not available when 
+Hades is active)
+Otherwise, draw the top Divine Favors tile and place 
+it faceup next to the active God immediately above 
+Apollo. The player whose offerings win the favor of 
+this God will benefit both from the advantages of 
+this God and from the Divine Favor.
+Each tile provides a Divine Favor bonus item (a 
+Priestess or a Magic Item) and a power usable once 
+during this Action phase. 
+At the end of the Action phase, the Divine Favor tile is 
+discarded (even if the player didn’t use its power).
+Magic Items are gained through some Divine Favors 
+tiles. They are are kept faceup by the player who 
+claimed them, and may be used in the turn they are 
+obtained or in the following round. Discard Magic 
+Items after use.
+
+===== PAGE 8 =====
+CREATURES
+CHARON
+Hire a hero from among those
+             
+previously removed from the game. 
+Penthesilea cannot be brought back 
+if a player used her sacrificial power.
+EMPUSA
+Use only with the Hades module.
+ 
+       
+Steal all GP in the necropolis.
+ERINYES
+Take a prosperity marker from one
+ 
+      
+isle and transfer it to one of your 
+isles (cornucopias printed on the 
+board are not affected).
+For the following creatures, place the figure on an 
+isle of your choice. Its power applies to that isle until 
+the beginning of your next turn. Two figures on the 
+same isle destroy each other.
+CERBERUS
+During the Revenues phase, collect
+  
+   
+the income from this isle instead of 
+controlling it.
+CHIRON (CENTAUR)
+Replaces the one in the base game. 
+   
+The Centaur protects the isle from 
+Pegasi, Giants, Harpies, Erinyes, 
+Empusa, and the sacrificial power 
+of Perseus. 
+POWERS OF THE GODS
+	
+HADES
+Recruit 1-5 undead units (troops 
+and/or fleets).
+Build necropolis.
+Move Troops and/or fleets (with at 
+least one undead).
+PRIESTESS
+Priestess Discard a priestess to avoid paying the cost 
+of maintaining a hero. Discard a priestess to not 
+discard a creature figure and benefit from its effect 
+for another turn.
+BUILDINGS
+Necropolis For each regular military unit (not undead) 
+eliminated, place 1 GP on the necropolis. During the 
+next Revenues phase, the player controlling the isle 
+takes all the GP from the necropolis.
+Theater The theater can replace any other structure to 
+obtain a metropolis, but it has no special effect.
+HEROES
+Just after the Revenues phase of each round, you 
+must pay 2 GP for each hero you want to keep.
+ACHILLES
+	
+Military power In battle, Achilles 
+counts as 2 troops.
+Sacrificial power If you have 4 isles 
+when Achilles is sacrificed, build a 
+metropolis on one of your isles.
+HECTOR
+	
+Military power If Hector is attacked, 
+the attacker loses a troop before the 
+fight.
+Sacrificial power When Hector is 
+sacrificed, you can discard 2 priests 
+to recruit 1 philosopher, or 5 priests 
+to recruit 2 philosophers.
+MIDAS
+	
+Military power During battle, you 
+can pay 1 GP to re-roll your dice (as 
+many times as desired).
+Sacrificial power If you pay 15 GP 
+when Midas is sacrificed, build a 
+metropolis on one of your isles.
+PENTHESILEA
+	
+Military power You win any ties 
+rolled during battles (you do not lose 
+any troops).
+Sacrificial power If Penthesilea 
+is sacrificed when you build a 
+metropolis, put the building on 
+Penthesilea’s card. This metropolis 
+can never be captured.
+PERSEUS
+	
+Military power When Perseus loses 
+a battle round, he may let one troop 
+retreat instead of destroying it (this 
+can be used several times per round, 
+but cannot be used on himself).
+Sacrificial power When Perseus is 
+sacrificed, you can move some or all 
+of the troops present on his isle to 
+any other isle that is not protected 
+by a hero.
+ULYSSES
+	
+Military power When Ulysses joins an 
+attack, the defender gets no bonus 
+for fortresses and/or metropolises.
+Sacrificial power When Ulysses 
+is sacrificed, you can build a 
+metropolis using only 1 port + 1 
+temple + 1 university.
+HADES EXPANSION
+
+===== PAGE 9 =====
+APOLLO’S ARROWS
+	
+Play during a ground combat, 
+whether in attack or defense, just 
+before you roll the dice. 
+	 	
+For this battle assault only, roll an 
+additional combat die and add its 
+result to the regular die.
+ARTEMIS’ ARROWS
+	
+Play during your turn. Remove a 
+creature figure from the board (not a 
+hero).
+CHARIOT OF THE SUN
+	
+Play during your turn. Rearrange all 
+your ground troops on your isles as 
+you wish.
+NECKLACE OF HARMONY
+	
+Play after all players have paid bids. 
+	 	
+You cannot be the target of any 
+military strike (on the ground or at 
+sea) until the end of turn.
+PALACE ON MT OLYMPUS
+	
+Play just after the Gods are set up in 
+the normal way. Rearrange the Gods 
+in the order of your choice. Apollo 
+must stay in the last position.
+PANDORA’S BOX
+	
+Play during your turn. Steal a 
+priestess from an opponent.
+PELOP’S SCEPTRE
+	
+Play during your turn. Discard 
+the top card of the creature deck. 
+Continue until you discard a creature 
+with a figure; that creature joins your 
+side immediately. 
+	 	
+If you draw the Chimera, reshuffle 
+the deck and resume drawing
+POSEIDON’S TRIDENT
+	
+Play during a naval battle, in attack
+ 
+or defense, just before you roll the 
+dice. For this round only, roll an 
+additional combat die and add its 
+result to the regular die.
+ZEUS’ AEGIS
+	
+Play  when rolling for the column on
+ 
+the Hades tile (Threat side). 
+	 	
+After the roll, you can roll again and 
+add or subtract the second result to 
+the original roll. Move the column 
+according to the total (even if the 
+first roll reached 9).
+DIVINE FAVOURS
+ARTEMIS
+	
+Receive a Priestess. Once per turn, 
+you may discard as many priests and 
+philosophers as you want to recruit 
+an equal number of troops or fleets.
+APHRODITE
+	
+Receive a Priestess. Once per turn, 
+you may double the number of 
+troops present on one of your isles 
+for 2 GP.
+DIONYSUS
+	
+Receive a Magic Item. Once per 
+turn, you may build a theater for  
+2 GP.
+DEMETER
+	
+Receive a Priestess. Once per turn, 
+gain 1 GP for each isle you control.
+HESTIA
+	
+Receive a Priestess. Once per turn, 
+you may build a standard building 
+for 2 GP.
+HERA
+	
+Receive a Priestess. Once per turn, 
+you may discard the top card of the 
+creature deck for 2 GP. Continue 
+until you discard a hero; that hero 
+joins your side immediately. If you 
+draw the Chimera, reshuffle the deck 
+and resume drawing.
+HEPHAESTUS
+	
+Receive a Magic Item. Once per 
+turn, you may draw 2 additional 
+Magic Item cards for 2 GP. Keep 
+one facedown, return the other and 
+reshuffle the draw pile.
+HERMES
+	
+Receive a Magic Item. Once per 
+turn you may place a Prosperity 
+marker on any sea space where you 
+have at least 1 fleet. This space will 
+generate additional income during 
+the revenues phase of each turn.
+MAGIC ITEMS
+APHRODITE’S BELT
+	
+Play once the God tiles have been 
+reshuffled and put into place. You 
+may prevent an opponent of your 
+choice from placing an offering 
+marker on the God of your choice for 
+the duration of this round.
+
+===== PAGE 10 =====
+SETUP
+The Titans expansion offers 2 game modes:
+3 to 5 players: competitive, as per the base game.
+4 or 6 players: team play (teams of 2). With 4 players, 
+players can play competitively or in teams. With 6 
+players, team play is mandatory.
+Replace the base game board with the new board 
+(use the appropriate side depending on the number 
+of players). 
+Players do not control islands, but different territories 
+that are part of the same island and are equivalent 
+to islands in the base game. Mythological creatures 
+whose effects applied to an island in the base game 
+now apply to a territory.
+Take 1 of each building type (a port, a fortress, a 
+temple and a university) and place them randomly 
+on each building space (white square) that shows a 
+building symbol. 
+Kronos joins the Gods from the base game. Use the 
+new offerings board.
+6 players: Shuffle the 5 large God tiles and place 
+them randomly on the 5 empty spaces above Apollo.
+5 players: The last of the 5 Gods is placed facedown 
+and is not be available for this cycle. During the 
+following cycle, place this God in the first space, 
+faceup, and shuffle the other 4. Once again, the God 
+placed in 5th place will be facedown and becomes 
+the first God during the following cycle.
+4 players: The last 2 Gods are placed facedown and 
+become the first 2 Gods during the next cycle.
+3 players: The last 3 Gods are placed facedown. Two 
+of them are randomly placed in the first 2 spaces 
+during the next cycle.
+The new board does not have predefined starting 
+positions. Follow the base game setup; however 
+players each receive 7 GP (instead of 5), and the 
+board is left free of any military units.
+A preliminary round of bidding is then held to decide 
+on which territories players will start the game.
+Shuffle the God tiles and place them on the Offerings 
+board. As in the base game, there must be as many 
+faceup Gods (including Apollo) as there are players.
+Hold an auction following the normal auction rules, 
+however during this preliminary round, there can be 
+only 1 player on Apollo.
+After the auction, players pay their offerings. They 
+then chose the territories on which they will start the 
+game, starting with the player who won the auction on 
+the first God, and ending with the one who took Apollo.
+Each player takes 2 troops, 2 fleets, and an additional 
+bonus depending on the God whose auction he won:
+Poseidon: 1 fleet and 1 port.
+Ares: 1 troop and 1 fortress.
+Zeus: 1 priest and 1 temple.
+Athena: 1 philosopher and 1 university.
+Kronos: 1 titan and 1 building or a second titan 
+depending on Kronos’s position on the Offerings 
+board.
+Apollo: 1 GP and 1 prosperity marker.
+The player who won the auction on the first God must 
+then deploy his troops on 2 adjacent territories, even 
+if he has 3 troops or a titan (it is therefore impossible 
+to start the game on one of the smaller islands that 
+are made of only 1 territory). 
+He must then place his fleets on 2 sea spaces. 
+These spaces must be adjacent to the 2 territories 
+he occupies, even if he has 3 fleets. If the player 
+received a building, he must then place it in one of 
+his 2 territories. If the player decided to start in one 
+of the territories that already contained a building, 
+then it is possible for him to start the game with 2 
+buildings.
+Once a player has completed his deployment, he 
+places his offering marker on the last available slot 
+determining the order of play for the next round. 
+The player who bet on the next God then deploys in 
+the same fashion.
+The player who took Apollo goes last and places a 
+prosperity token on one of his 2 territories.
+The game then begins as normal; however on the first 
+round player will receive no income.
+Setup: Divine Artifacts
+At the start of the game, shuffle the 5 artifacts into 
+the Mythological Creatures deck: these artifacts will 
+appear on the creatures track during the game.
+Setup: Special Metropolises
+At the start of the game, randomly draw 2 special 
+metropolis cards and place them faceup on the 
+corresponding spaces in the corners of the board. The 
+other 3 cards are not be used in the game.
+KRONOS
+Recruit Titan
+You may spend 2 GP to purchase a titan, only once 
+per turn. 
+You can purchase 1 titan even if you received one as 
+a free bonus this turn. A player cannot control more 
+than 3 titans on the board.
+Free Bonus
+You get a free building of your choice among those 
+offered by the Gods located above Kronos on the 
+Offerings board. If Kronos occupies the first place, you 
+get a free Titan instead of a building.
+TITANS
+In a battle, a titan counts as 1 troop. It must be 
+placed on a territory that belongs to you, exactly like 
+a troop obtained with Ares. If you have obtained the 
+favors of Ares you can move your titans like normal 
+troops.
+However, moving a titan allows you to move any other 
+troops that occupy the same territory. It costs 1 GP 
+for the first move. You can then decide to perform 
+a second titan move, with the same titan or with 
+another, for 2 GP. A third move would then cost 3 GP, 
+and so on.
+Movement like this allows the army to move from 
+one territory to an adjacent territory or to a territory 
+connected by a chain of fleets of the army’s color.
+When a titan, alone or moving with normal troops, 
+enters an enemy territory, a battle starts immediately. 
+The titan counts as 1 troop. If the owner of the titan 
+loses 1 round of combat, he can decide whether to 
+lose a normal troop or his titan if another troop is part 
+of his army.
+The Harpy cannot kill a titan, as it is not a normal troop.
+A player who chooses Apollo during the offerings 
+phase cannot move his titans.
+TEAM PLAY
+Teammates must start on different islands. 
+Teammates sit next to each another so they can 
+communicate. They can share how much gold they 
+have, but cannot give each other GPs.
+Play using the normal rules; each player controls his 
+own units and nothing is shared between teammates.
+A player may not cross or enter a teammate’s territory 
+(even if it is empty), nor can he use his teammate’s 
+fleets. However, teammates must collaborate to 
+achieve the new goal of having 3 metropolises 
+between the two of them.
+When a team possesses 3 metropolises, the end of the 
+game is triggered and players finish the current cycle.
+The game will automatically end, even if that team 
+loses its third metropolis. At the end of the cycle, the 
+team that possesses the most metropolises wins the 
+game. On a tie, the richest team wins.
+As the base game, it is forbidden to attack a player’s 
+last territory, unless it would allow the team to 
+immediately gain the fifth artifact or build its third (or 
+more) metropolis.
+Military Victory
+In team games, a metroplis may be gained by a 
+military victory. If a player conquers an opponent’s 
+last territory, he can immediately place a metropolis 
+on it if: 
+1.	that territory does not already contain a metropolis; 
+2. 	that territory has the necessary dotted red square 
+for a metropolis; and 
+3. 	it would give the team its third (or more) metropolis.
+
+===== PAGE 11 =====
+THE LARGE CORNUCOPIA
+	
+During the revenues phase, every 
+prosperity marker located in 
+the same territory as the Large 
+Cornucopia provides 2 GP.
+Team play: the GPs provided by that territory can be 
+freely distributed among the teammates.
+THE WINGED SANDALS
+	
+During the revenues phase, this 
+artifact provides 1 GP.
+When troops located in the same territory as the 
+Sandals are moving (due to Ares or to a titan), they 
+can fly to any territory on the same island. 
+They act as if every territory of the island were 
+adjacent to their starting territory. The Sandals stay 
+with the troops during this movement. 
+Team play: the owner can pay 1 GP at the beginning 
+of his turn to move the Sandals to one of his 
+teammate’s territories anywhere on the board.
+SPECIAL METROPOLISES
+The first player to build a metropolis can take the 
+card of his choice and place the corresponding tile in 
+his territory. It has a special power in addition to the 
+normal powers provided by a metropolis. 
+The second player to build a metropolis takes the 
+second card and its corresponding tile. Subsequent 
+metropolises do not have special powers.
+Each power is tied to its metropolis. If it is 
+conquered, the new owner benefits from its powers 
+(the former owner gives him the corresponding card).
+MILITARY METROPOLIS
+	
++3 defensive bonus in a ground 
+battle, instead of +1.
+SEASIDE METROPOLIS
+	
++3 total bonus in a sea battle on 
+adjacent sea spaces. This bonus can 
+also be used when attacking.
+RELIGIOUS METROPOLIS
+	
+Discount of 2 GP when buying a 
+creature, instead of 1 GP. It acts as 
+if it held 2 temples instead of one.
+CULTURAL METROPOLIS
+	
+The owner of this metropolis can 
+build new metropolises by using 3 
+philosophers instead of 4. 
+	 	
+This power is mandatory.
+COMMERCIAL METROPOLIS
+	
+Provides 2GP during the revenues 
+phase.
+POWERS OF THE GODS
+	
+KRONOS
+Recruit titan for 2 GP, once per turn.
+Build free building of choice from 
+among those offered by Gods above 
+Kronos. If first, free Titan.
+DIVINE ARTIFACTS
+An artifact can be bought like a creature during 
+a player’s turn: keep the card and place the 
+corresponding figurine in any one of your territories.
+Artifacts can be moved with troops starting in the 
+same territory. If you conquer a territory where 
+artifacts are present, you gain control of them. The 
+former owner must give you the corresponding cards.
+The special power of Zeus does not allow for an 
+artifact card to be discarded, and temples do not 
+give a discount for buying an artifact. If an artifact 
+has to be discarded because nobody bought it from 
+the 2 GP space, return it to the box.
+A player or team owning all 5 artifacts wins the game 
+immediately (do not finish the current cycle). In team 
+play, they can be owned by different teammates.
+THE CADUCEUS
+	
+During the revenues phase, this 
+artifact provides 1 GP.
+When a battle occurs in the territory where the 
+Caduceus is located, the controlling player can pay 
+1 GP to prevent the destruction of one of his troops. 
+He can use this power as many times as he wants 
+during a turn, as long as he can pay for it.
+Team play: the GP to save a troop can be paid by the 
+owner’s teammate.
+THE CAP OF INVISIBILITY
+	
+During the revenues phase, this 
+artifact provides 1 GP.
+Troops travelling with the Cap (due to Ares or to 
+a titan) can use other players’ fleets or can pass 
+through territories occupied by troops belonging to 
+other players without needing to stop and battle. The 
+Cap stays with the troops during this movement.
+Team play: the owner can pay 1 GP at the beginning 
+of his turn to move the Cap to one of his teammate’s 
+territory anywhere on the board.
+ZEUS’ LIGHTNING
+	
+During the revenues phase, this 
+artifact provides 1 GP.
+During the Offerings phase, if the player who owns 
+the Lightning is outbid, the player who outbid him 
+must pay him 1 GP. If he cannot pay, he is not 
+allowed to bid on the same God.
+Team play: the GP that is received by the owner 
+when he is outbid can be given to his teammate.
+TITANS EXPANSION
+
+===== PAGE 12 =====
+MONUMENTS
+	
+GREAT CITADEL OF ARES
+As long as 1 or more of your troops 
+are stationed on this territory, it 
+cannot be invaded by sea, land 
+(Titans) or air (Pegasus). It remains 
+affected by other effects (Harpy, etc.)
+	
+GREAT LIGHTHOUSE OF 
+POSEIDON
+Any of your fleets destroyed in battle 
+can be saved and placed on a sea 
+space adjacent to this territory and 
+either empty or controlled by you.  
+If this is not possible, your fleets are 
+removed from the board.
+	
+MILITARY ACADEMY
+When you collect revenues, place a 
+troop on this territory for free. If this 
+is not possible, this monument does 
+nothing this cycle.
+	
+ACADEMY OF NAVAL 
+WARFARE
+When you collect revenues, place 
+a free fleet on a sea space that is 
+adjacent to this territory and either 
+empty or controlled by you. If this is 
+not possible, this monument does 
+nothing this cycle.
+	
+TEMPLE OF POSEIDON
+Once per cycle, on your turn, you 
+may remove one of your fleets from 
+the board to draw the top card of the 
+Mythological Creatures deck and use 
+its effect.
+	
+TEMPLE OF ARES
+Once per cycle, on your turn, you 
+may remove one of your troops from 
+the board to randomly draw a card 
+from the Mythological Creatures 
+discard pile and use its effect.
+	
+TEMPLE OF ATHENA
+You pay 1 GP less to recruit priests 
+and philosophers.
+	
+GREAT TEMPLE OF ZEUS
+When your turn starts, update the 
+Mythological Creature track as if it 
+was the beginning of the cycle.
+	
+CITY OF WARRIORS
+When defending this territory, all of 
+your adjacent fleets count as troops. 
+They are added to your die roll.
+	
+GREAT UNIVERSITY OF 
+ATHENA
+You may buy more than 1 
+philosopher with Athena.
+SETUP
+Before the game starts, randomly draw a number 
+of Monument cards equal to the number of players 
+and place them faceup next to the board with 
+their corresponding miniatures. These are the only 
+monuments that players can build during that game. 
+Return the other cards and miniatures to to the box.
+CONSTRUCTION
+As soon as you control 2 buildings shown on one 
+of the available Monument cards, you build that 
+Monument by taking its card and placing the 
+corresponding miniature in one of your territories (a 
+single land space).
+Each monument can only be built once during the 
+game.
+Adding a monument can occur after the second 
+building shown on a card is built, or after you take 
+control of a territory where that building was already 
+present. The 2 buildings used to build a monument 
+stay on the board.
+If you forget to build the monument when you have 
+the opportunity, you may build it later if you still 
+possess the 2 required buildings and if no one else 
+built the monument before you. You do have to wait 
+until you are resolving the actions of your god (being 
+on Apollo does not allow you to do it).
+A monument does not occupy a building space; it 
+is placed in the territory like a figurine that will not 
+move until the end of the game.
+Each monument provides a special effect to the 
+player who occupies the territory it is located in.
+A player who takes control of a territory where there 
+is a monument takes the corresponding card from its 
+former owner. From now on, the new owner benefits 
+from the effect of the monument. 
+A monument does not count as buildings that can be 
+used for the construction of a metropolis.
+Giant The Giant cannot be used to destroy a 
+monument.
+Hades Expansion
+Theater: Cannot be used to construct monuments. 
+Necropolis and the temples of Poseidon and Ares: 
+Removing a troop or a fleet leads to 1 GP being 
+added to the Necropolis.
+Necropolis and The Great Lighthouse of Poseidon: 
+Saving a fleet leads to 1 GP not being added to the 
+Necropolis.
+Titans Expansion
+With the Free Positioning rules, it is possible for 
+players to start the game with 2 buildings in play, so 
+a monumentcound be built right from the start. 
+It is also possible to combine the effects of a special 
+metropolis and a monument.
+MONUMENTS EXPANSION
+
+===== PAGE 13 =====
+EGYPTIAN REINFORCEMENTS
+These miniatures are considered to be elite Egyptian troops; they are not 
+mythological creatures (Zeus’ special power and the effect of temples do 
+not apply to them).
+Egyptian reinforcements cards are added to the mythological creatures 
+deck at the beginning of the game and are bought the same way.
+When you acquire an Egyptian reinforcement, place the miniature on 
+one of your islands. It is now considered a troop (and can be destroyed 
+by the Harpy).
+Egyptian reinforcements can be moved alone or with other standard 
+troops when using the favors of Ares. In that case, they do not have any 
+special ability and simply count as a troop. In the case of a lost fight, the 
+Egyptian reinforcement is always destroyed last.
+Special Attack
+At any time during your turn, you may pay 1 GP to perform a special 
+attack.
+Move your Egyptian reinforcement, along with some or all of the troops 
+on the same island, to another island, as if it were a movement done with 
+Ares (ships are necessary). For this move or a possible battle, the troop 
+benefits from the reinforcement’s special power.
+Each Egyptian reinforcement can perform 1 special attack per turn.
+It is not possible to perform a special attack when placed on Apollo.
+THE ELEPHANT
+	
+The army led by the Elephant always rolls a 3 on its 
+combat die.
+THE MUMMY
+	
+Enemy troops destroyed in combat by the army led by the 
+Mummy are immediately transformed into troops of the 
+attacker. If that player does not have any troops left in 
+his supply, there is no effect.
+THE PHOENIX
+	
+When troops led by the Phoenix are destroyed in combat, 
+they are immediately returned to play (on the island from 
+which they attacked).
+THE SCARAB
+	
+At the end of its movement, if it is not killed in battle, 
+the Scarab can transform 1 building on its new island 
+into another type of building.
+THE SCORPION
+	
+When the scorpion arrives on an opponent’s island, 
+immediately remove 1 enemy troop.
+THE SNAKE
+	
+During its movement, the army led by the Snake can 
+cross 1 empty seas space as though it contained a 
+friendly ship.
+THE SPHINX
+	
+The army led by the Sphinx can immediately teleport 
+to an island already controlled by its owner before 
+performing its move.
+C3K EXPANSION

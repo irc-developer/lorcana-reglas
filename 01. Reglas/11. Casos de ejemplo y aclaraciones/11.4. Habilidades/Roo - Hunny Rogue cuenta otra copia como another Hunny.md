@@ -32,7 +32,7 @@ Cada Roo ve a la otra copia como otro personaje Hunny, por lo que ambas pueden g
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta es provisional.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

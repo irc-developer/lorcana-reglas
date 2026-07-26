@@ -1,5 +1,13 @@
 # Guía del workspace
 
+## Contrato obligatorio para rulings
+
+- Una tarea que resuelve una duda de reglas de Lorcana no termina con una respuesta de chat: debe completar el flujo de `.github/skills/lorcana-ruling-workflow/SKILL.md`.
+- Antes de la respuesta final, verifica las fuentes oficiales, resuelve el ruling, crea o actualiza el artículo canónico, revisa su calidad, sincroniza los índices afectados y, si el artículo cambió materialmente, la fecha visible de `Empecemos.md`, y valida el conjunto.
+- La respuesta final debe incluir el ruling y la ruta del artículo creado, modificado o verificado como canónico.
+- Solo se omite la documentación si el usuario pide explícitamente no modificar el repositorio o si se ha comprobado un bloqueo técnico real; en ese caso, indica la excepción y el trabajo que quedó pendiente.
+- La incertidumbre, la falta de selección automática de otra skill o una ruta incómoda no son bloqueos técnicos.
+
 ## Fuente de verdad de cartas
 
 - Para nombres, texto exacto y enlaces de cartas, usa solo la sección `02. Listado de Cartas` y el archivo del set correspondiente.

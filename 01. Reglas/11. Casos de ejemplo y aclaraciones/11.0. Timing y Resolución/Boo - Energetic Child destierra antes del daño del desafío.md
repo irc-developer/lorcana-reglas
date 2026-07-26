@@ -32,7 +32,7 @@ Un desafío tiene dos partes: declaración y daño. Kid-Tastrophe! se dispara cu
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta es provisional hasta incorporar el Set 13 al listado de cartas.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

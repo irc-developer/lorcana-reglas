@@ -14,4 +14,5 @@ El listado de cartas de esta carpeta se ha dividido por sets en archivos indepen
 - [Set 10 - Whispers in the Well](./Set 10 - Whispers in the Well.md)
 - [Set 11 - Winterspell](./Set 11 - Winterspell.md)
 - [Set 12 - Wilds Unknown](./Set 12 - Wilds Unknown.md)
+- [Set 13 - Attack of the Vine!](<./Set 13 - Attack of the Vine.md>)
 - [Illumineer's Quest - Palace Heist](./Illumineer's Quest - Palace Heist.md)

@@ -43,7 +43,7 @@ Aunque el ataque fuera a hacer **1** daño o **5** daños, el resultado es el mi
 
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos)|Aplicación de múltiples efectos de reemplazo (Escudos)]]
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist|Escudos (replacement) vs Resist]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0|Por qué Rapunzel pierde su protección incluso si Resist reduce el daño a 0]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0|Rapunzel conserva su protección si Resist reduce el daño a 0]]
 
 ---
 

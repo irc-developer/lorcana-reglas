@@ -32,7 +32,7 @@ Se pueden elegir hasta dos cartas y cada una debe tener coste 2 o menos. Por eje
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]]. El enlace de la carta es provisional.
+Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 
