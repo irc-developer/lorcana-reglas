@@ -1,6 +1,6 @@
 # Guía Completa de Disney Lorcana TCG en Español
 
-*Última actualización 26/07/26*
+*Última actualización 30/07/26*
 
 ¡Hola! Me llamo Iván (Shinobana), apasionado jugador de lorcana y juez en ciernes. Sé bienvenido/a a la **guía definitiva en español sobre Disney Lorcana TCG**, el juego de cartas coleccionables de Disney. Aquí encontrarás **reglas oficiales adaptadas al castellano**, explicaciones detalladas, glosario completo, materiales para árbitros y mucho más.
 
@@ -17,6 +17,7 @@ Esta guía está basada en las **Comprehensive Rules 2.2.0**, vigentes desde el 
 ### 🔎 Reglas Oficiales en Español
 > Traducción íntegra y adaptada del reglamento oficial de Lorcana. Ideal para jugadores competitivos o quienes están aprendiendo.
 
+> Nuevo: [[Formato Coconut (Beta)|reglas de [Format Coconut]]] y [[Cartas Coconut de la beta|lista inicial de cartas [Coconut]]], el formato multijugador experimental publicado por Ravensburger.
 
 ---
 
