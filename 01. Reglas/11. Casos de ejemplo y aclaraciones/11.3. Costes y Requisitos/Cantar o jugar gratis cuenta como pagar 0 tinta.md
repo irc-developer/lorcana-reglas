@@ -15,6 +15,10 @@ La distinción importante es esta:
 - Si el texto mira el **coste** de la carta, sigues usando su coste impreso.
 - Si el texto mira la **tinta pagada** para jugarla, miras la cantidad efectivamente pagada: 0.
 
+### Aplicación a Jessie
+
+Si controlas a [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Jessie - Lively Cowgirl|Jessie - Lively Cowgirl]] y juegas un personaje mediante [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]] o mediante otro efecto que diga que lo juegas gratis, la carta se juega gratis y se han pagado 0 de tinta. Por ello se cumple YODEL-AY-HEE-HOO, que mira si se pagaron 2 de tinta o menos.
+
 ---
 
 ## 📘 Fundamento en reglas
@@ -48,4 +52,4 @@ Este caso aclara únicamente condiciones que miran la **tinta pagada**. No cambi
 
 ## 🏷️ Tags
 
-#cost #ink-paid #alternative-cost #sing #song #for-free #payment-modifiers
+#alternate-cost #singing #gameplay #resolution

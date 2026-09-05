@@ -11,10 +11,12 @@
             "id": "83152efd8f089e5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.13.4"
             }
           }
         ]
@@ -169,6 +171,13 @@
   },
   "active": "83152efd8f089e5b",
   "lastOpenFiles": [
+    "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/RESUMEN-TURNO.md",
+    "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md",
+    "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/FAQ-OFICIAL-RESUMIDA.md",
+    "099. Otros juegos de mesa/arkham-horror-tercera-edicion/doc/Referencia_Arkham_Horror-1.pdf",
+    "099. Otros juegos de mesa/arkham-horror-tercera-edicion/doc",
+    "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES",
+    "099. Otros juegos de mesa/arkham-horror-tercera-edicion",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md",
     "Arquitectura de Skills - Agente Lorcana.md",
     "lorcana-reglas.rar",
@@ -198,13 +207,6 @@
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Wisp Conjurer entra ya agotada.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Heihei - Created by the Vine dispara por su propia clasificación.md",
-    "Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf",
-    "099. Otros juegos de mesa/Warhammer 40k Rules/es/dudas-resueltas/disparo",
-    "099. Otros juegos de mesa/Warhammer 40k Rules/es/Juego organizado",
-    "099. Otros juegos de mesa/Warhammer 40k Rules/en/Organized Play",
     "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/ayuda_terraforming_mars.png",
     "099. Otros juegos de mesa/AYUDAS_JUGADORES/ayuda_terraforming_mars.png",
     "Pasted image 20260401202913.png",

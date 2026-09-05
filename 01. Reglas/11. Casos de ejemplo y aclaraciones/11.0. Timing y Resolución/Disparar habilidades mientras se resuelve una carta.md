@@ -1,49 +1,39 @@
-﻿## ❓ Duda
+## ❓ Duda
 
-¿Puedo resolver triggers de la bolsa mientras está jugando una carta, o debo esperar a que se resuelva completamente?
-
-## ✅ Respuesta
-
-No, no podrías. Esto es debido a que primero debes resolver **completamente** el efecto de la acción que jugaste antes de comenzar a resolver los triggers que tengas en la bolsa.
-#triggered-ability #discard #bag #hand 
+Si [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Buzz Lightyear - Jungle Ranger|Buzz Lightyear - Jungle Ranger]] entra en juego mediante [[02. Listado de Cartas/Set 11 - Winterspell.md#Let's Get Dangerous|Let's Get Dangerous]], ¿puede su habilidad TAKE CHARGE devolver esa misma acción del descarte a la mano?
 
 ---
 
-### Duda
-- Mi oponente tiene en juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Prince John - Fraidy-Cat|Prince John - Fraidy-Cat]] con cuatro daños.
-- Yo juego  [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Go Go Tomago - Darting Dynamo|Go Go Tomago - Darting Dynamo]] y pago el coste extra para jugar su habilidad.
+## ✅ Respuesta
 
-¿Puedo ganar cuatro o cinco lores al jugarlo?
-### Respuesta
-Cuatro. Cuando juegas una carta debes primero resolver tus habilidades disparadas de la bolsa y hasta que no acabes no tendrá que hacerlo el oponente, en este caso recibir el daño extra al jugar el personaje. 
-#triggered-ability #damage #bag #active-player #cost
+**Sí.** [[02. Listado de Cartas/Set 11 - Winterspell.md#Let's Get Dangerous|Let's Get Dangerous]] no va al descarte hasta que termina de resolverse por completo. Al resolverse la instrucción que juega a Buzz, TAKE CHARGE se dispara, pero queda en la bolsa y espera.
+
+Cuando termina toda la resolución de la canción, la acción se coloca en el descarte. Después se resuelve TAKE CHARGE y ya puede elegir esa acción, si cumple el coste máximo indicado.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
-- ---
+- [[02. Listado de Cartas/Set 11 - Winterspell.md#Let's Get Dangerous|Let's Get Dangerous]]: juega la acción y se resuelve antes de ir al descarte.
+- [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Buzz Lightyear - Jungle Ranger|Buzz Lightyear - Jungle Ranger]]: TAKE CHARGE puede devolver a la mano una acción de coste 7 o menos desde el descarte.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.1.2. Cartas que se juegan y se van|6.7.1.2. Acciones que van al descarte]]: una acción va al descarte después de resolver su efecto.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Habilidades durante la resolución]]: los disparos esperan hasta que termina el efecto o la carta que los generó.
+- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.7.1.2, 6.7.4 y 6.7.8.
 
 ---
 
 ## 🔄 Secuencia oficial
 
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
+1. Juegas Let's Get Dangerous.
+2. La acción entra temporalmente en la zona de juego y comienza a resolver su efecto.
+3. El efecto juega a Buzz; TAKE CHARGE se dispara y entra en la bolsa.
+4. Let's Get Dangerous termina de resolver todas sus instrucciones.
+5. La acción va al descarte.
+6. Se resuelve TAKE CHARGE y puede devolver Let's Get Dangerous a la mano.
+7. Se realiza el GSC tras la resolución completa.
 
 ---
 
 ## 🏷️ Tags
 
-#triggered-ability #habilidades
-
+#triggered-ability #discard #bag-priority #resolution #timing

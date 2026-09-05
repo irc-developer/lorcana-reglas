@@ -1,0 +1,2259 @@
+{
+  "casos": [
+    {
+      "titulo": "Potato Shift: estado seco sobre Morph y sobre un Potato recién jugado",
+      "pregunta": "¿Potato Shift sobre un Morph seco entra seco? ¿Preparar un Potato jugado este turno permite que el personaje con Potato Shift entre seco?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "shift",
+        "estado_seco",
+        "potato_shift",
+        "redaccion_reglas"
+      ],
+      "preguntas_indices": [
+        804,
+        995
+      ],
+      "respuestas_indices": [
+        800,
+        802,
+        803,
+        805,
+        806,
+        996
+      ],
+      "contexto_indices": [
+        801,
+        997
+      ],
+      "resumen_respuestas": "Primero se afirma que sobre Morph entra secándose, pero se corrige citando 8.10.4: hereda el estado del personaje. Se reconoce una posible ambigüedad de 8.10.8.6. Sobre un Potato jugado ese mismo turno entra secándose aunque se prepare.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Morph",
+        "Potato",
+        "personaje con Potato Shift no identificado por nombre"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "800–806 son discusión interpretativa de la redacción del CRD; la afirmación inicial de800 es cuestionada en802–806.",
+        "No confundir estar preparado con estar seco.",
+        "Posible vínculo con casos anteriores al índice800 sobre variantes de Shift."
+      ]
+    },
+    {
+      "titulo": "Daño infligido y recibido tras aplicar Resist",
+      "pregunta": "¿El daño reducido a cero sigue considerándose infligido? ¿Qué daño reproduce Mulan y cómo se distinguen daño base, infligido y recibido?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "daño",
+        "resist",
+        "modificadores",
+        "redaccion_reglas"
+      ],
+      "preguntas_indices": [
+        813,
+        825,
+        852,
+        853,
+        856,
+        860,
+        864
+      ],
+      "respuestas_indices": [
+        814,
+        826,
+        831,
+        834,
+        836,
+        839,
+        854,
+        857,
+        861,
+        863,
+        865
+      ],
+      "contexto_indices": [
+        812,
+        815,
+        816,
+        819,
+        820,
+        821,
+        832,
+        833,
+        835,
+        837,
+        838,
+        851,
+        855,
+        858,
+        859,
+        862,
+        866
+      ],
+      "resumen_respuestas": "Se sostiene que el daño base sigue siendo infligido y los modificadores determinan el daño recibido; se cita1.9.5 y su ejemplo. La explicación de863 se corrige expresamente en865: Resist modifica el daño recibido procedente de un efecto que inflige daño. Se interpreta que Mulan reproduce el daño previo a la reducción.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Mulan",
+        "Merida – Formidable Archer",
+        "Smash",
+        "Namaari – Resolute Daughter"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La variante hipotética de853 sobre modificadores positivos no recibe una respuesta específica.",
+        "El canal discute cambios de reglas ya publicados en CRD2.2; no implica Set14.",
+        "No se deben reutilizar todas las formulaciones del debate como si fueran compatibles entre sí."
+      ]
+    },
+    {
+      "titulo": "Vanellope: persistencia de reducción de fuerza al hacer Shift",
+      "pregunta": "¿El cambio de reglas comentado afecta a hacer Shift de Vanellope sobre otra Vanellope que tiene un efecto de reducción de fuerza al jugar una Princess?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "shift",
+        "modificadores_fuerza"
+      ],
+      "preguntas_indices": [
+        817
+      ],
+      "respuestas_indices": [],
+      "contexto_indices": [],
+      "resumen_respuestas": "No hay respuesta identificable en el rango. El antecedente de «this» no está suficientemente claro.",
+      "estado_respuesta": "contexto_insuficiente",
+      "cartas_mencionadas": [
+        "Vanellope"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Revisar contexto anterior a800 antes de concretar el caso; no equiparar automáticamente esta pregunta con el cambio de daño."
+      ]
+    },
+    {
+      "titulo": "Temporary Shift cubierto por otro Shift al final del turno",
+      "pregunta": "¿Vuelve a la mano una carta con Temporary Shift que queda bajo otra carta? ¿Cómo encaja la condición «in play» del CRD con las notas del set?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "temporary_shift",
+        "disparadas_retrasadas",
+        "zonas",
+        "redaccion_reglas"
+      ],
+      "preguntas_indices": [
+        818,
+        823,
+        931
+      ],
+      "respuestas_indices": [
+        822,
+        824,
+        932,
+        936,
+        937
+      ],
+      "contexto_indices": [
+        933,
+        934,
+        935
+      ],
+      "resumen_respuestas": "Se explica que Temporary Shift crea una disparada retrasada independiente del texto cubierto. Posteriormente se reconoce que la redacción «in play» contradice la definición de carta en juego y las notas del set; se propone que diga «in the play zone».",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Fusionar con pregunta similar del rango anterior (el informe cita776).",
+        "El canal ofrece una intención y detecta una contradicción documental; no consta aquí una corrección oficial final."
+      ]
+    },
+    {
+      "titulo": "Terminología de daño en Rapunzel y Beast",
+      "pregunta": "¿Rapunzel – Ready for Adventure y Beast – Selfless Protector siguen utilizando «dealt to» pese a la explicación de que ese lenguaje se ha sustituido por «takes»?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "daño",
+        "efectos_reemplazo",
+        "redaccion_reglas"
+      ],
+      "preguntas_indices": [
+        867
+      ],
+      "respuestas_indices": [],
+      "contexto_indices": [
+        868
+      ],
+      "resumen_respuestas": "La discusión se deriva a una conversación del servidor oficial cuyo contenido no está en la captura.",
+      "estado_respuesta": "contexto_insuficiente",
+      "cartas_mencionadas": [
+        "Rapunzel – Ready for Adventure",
+        "Beast – Selfless Protector"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Complemento del caso sobre daño infligido y recibido; la consulta requiere el hilo externo para conocer su resolución."
+      ]
+    },
+    {
+      "titulo": "Lilo – Bundled Up con Resist y daño reducido a cero",
+      "pregunta": "¿Se consume la protección de Lilo – Bundled Up si Resist reduce a cero el daño que recibiría?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "daño",
+        "resist",
+        "efectos_reemplazo"
+      ],
+      "preguntas_indices": [
+        869
+      ],
+      "respuestas_indices": [
+        870,
+        871
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se responde que no recibe daño y, por tanto, no se consume su efecto.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Lilo – Bundled Up"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Responsabilidad de anunciar Source of the Vine",
+      "pregunta": "¿Quién debe recordar y comunicar la habilidad de Source of the Vine al buscar lore el rival? ¿Puede su controlador ganar lore por asumir que el rival no pagó?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "comunicacion",
+        "disparadas_obligatorias",
+        "responsabilidad_jugadores"
+      ],
+      "preguntas_indices": [
+        872
+      ],
+      "respuestas_indices": [
+        873
+      ],
+      "contexto_indices": [
+        874,
+        875
+      ],
+      "resumen_respuestas": "Se indica que ambos jugadores deben resolver correctamente habilidades obligatorias, con responsabilidad principal del controlador. No puede suponerse que el rival rehúsa pagar sin informarle ni comprobar que conoce la elección.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Source of the Vine"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "John Smith: desafío de un personaje que ya abandonó el juego",
+      "pregunta": "Con John Smith agotado, si otro personaje desafió y fue desterrado, ¿se gana lore al final del turno porque ninguno de los personajes actuales desafió?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "comprobaciones_historicas",
+        "fin_turno"
+      ],
+      "preguntas_indices": [
+        878,
+        883
+      ],
+      "respuestas_indices": [
+        880,
+        882,
+        885,
+        887,
+        889
+      ],
+      "contexto_indices": [
+        876,
+        877,
+        879,
+        881,
+        884,
+        886,
+        888
+      ],
+      "resumen_respuestas": "Se interpreta que se comprueba si un personaje desafió durante el turno, aunque ya no esté en juego; se compara con otras comprobaciones históricas. No se ganaría ese lore.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "John Smith",
+        "Devil’s Eye Diamond",
+        "Cinderella"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "El autor prepara un cuestionario; la pregunta principal es una duda real de interpretación, no una investigación de hechos durante arbitraje.",
+        "La versión de John Smith depende del adjunto876; el nombre parcial figura en877."
+      ]
+    },
+    {
+      "titulo": "Localizar reglas de protección de un solo uso y daño",
+      "pregunta": "¿Dónde explica el CRD2.2 la interacción de las reglas de daño con las protecciones de un solo uso?",
+      "ambito": "documentacion_formatos",
+      "temas": [
+        "localizar_reglas",
+        "daño",
+        "efectos_reemplazo"
+      ],
+      "preguntas_indices": [
+        891
+      ],
+      "respuestas_indices": [
+        893
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se responde que no hay un apartado para cada interacción; hay que aplicar el texto de la carta y las reglas generales de sus habilidades.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "No identifica una carta o situación concreta; conservar como consulta documental."
+      ]
+    },
+    {
+      "titulo": "Temporary Shift y una pila de cartas que queda sin carta superior",
+      "pregunta": "¿Qué ocurre con una pila abandonada tras Temporary Shift, incluida una pila boca abajo preparada con Scrooge o con acciones entre las cartas?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "temporary_shift",
+        "cartas_apiladas",
+        "zonas",
+        "acciones"
+      ],
+      "preguntas_indices": [
+        894,
+        899,
+        904
+      ],
+      "respuestas_indices": [
+        898,
+        900,
+        901,
+        903,
+        905
+      ],
+      "contexto_indices": [
+        895,
+        896,
+        897,
+        902,
+        906,
+        907,
+        908,
+        909,
+        910,
+        911,
+        912,
+        913,
+        914,
+        915,
+        916,
+        917,
+        918,
+        919,
+        920,
+        921,
+        922,
+        923,
+        924,
+        927,
+        928
+      ],
+      "resumen_respuestas": "Se enlaza una respuesta externa que los participantes consideran incompleta. Se discuten personajes con requisitos, acciones y pilas boca abajo; las resoluciones propuestas son hipótesis y el grupo sigue esperando aclaración.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [
+        "Scrooge McDuck – Reformed Miser",
+        "Mirabel",
+        "Counting House",
+        "Leviathans"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Vincular al caso original de pila abandonada del rango anterior a800.",
+        "898 remite al Discord oficial pero el contenido de la respuesta no está extraído.",
+        "No convertir la especulación sobre ejecutar acciones una tras otra en una regla afirmada."
+      ]
+    },
+    {
+      "titulo": "Belle bajo The Black Cauldron y jugarla al desterrar el objeto",
+      "pregunta": "¿Se puede jugar Belle que estaba bajo The Black Cauldron al desterrar el objeto y cuenta como jugada desde el descarte?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "cartas_bajo_otras",
+        "zonas",
+        "jugar_desde_descarte"
+      ],
+      "preguntas_indices": [
+        925,
+        929
+      ],
+      "respuestas_indices": [
+        926
+      ],
+      "contexto_indices": [
+        930
+      ],
+      "resumen_respuestas": "Se responde que funciona y que Belle se juega desde el descarte; el bot identifica Belle – Apprentice Inventor.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Belle – Apprentice Inventor",
+        "The Black Cauldron"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Posible repetición de una consulta anterior; la formulación pregunta si ya había respuesta."
+      ]
+    },
+    {
+      "titulo": "Activar Scream Canister sin objetivo para gastar tinta",
+      "pregunta": "¿Se puede activar Scream Canister sin personajes rivales elegibles para agotar tinta y permitir que Randall busque2 de lore?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "habilidades_activadas",
+        "costes",
+        "objetivos",
+        "hacer_todo_lo_posible"
+      ],
+      "preguntas_indices": [
+        939
+      ],
+      "respuestas_indices": [
+        941
+      ],
+      "contexto_indices": [
+        940,
+        942
+      ],
+      "resumen_respuestas": "Se responde que se puede pagar el coste de agotar el objeto y2 de tinta, y luego resolver el efecto hasta donde sea posible.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Randall Boggs",
+        "Scream Canister",
+        "Ru"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Windstorm y comprobación de destierro entre sus efectos",
+      "pregunta": "¿Windstorm destierra a Peter Pan y Tinker Bell antes de su daño adicional a Evasive? ¿La palabra «then» crea una comprobación intermedia, a diferencia de Let the Storm Rage On con Diablo?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "resolucion_efectos",
+        "comprobacion_estado",
+        "daño",
+        "then"
+      ],
+      "preguntas_indices": [
+        943,
+        945,
+        948
+      ],
+      "respuestas_indices": [
+        944,
+        946,
+        947,
+        949
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se afirma que se resuelve todo el texto antes de desterrar por daño; Peter Pan y Tinker Bell siguen presentes para el daño adicional. «Then» recuerda el orden escrito, sin crear un paso intermedio. Se usa Diablo con Let the Storm Rage On como comparación.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Windstorm",
+        "Peter Pan",
+        "Tinker Bell",
+        "Diablo",
+        "Let the Storm Rage On"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Orden de cartas de un personaje Shift o Boost al cambiar de zona",
+      "pregunta": "¿Quién decide el orden de las cartas de un personaje con Shift o Boost cuando el efecto las mueve, y qué reglas lo respaldan?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "cartas_apiladas",
+        "orden_cartas",
+        "propietario",
+        "zonas"
+      ],
+      "preguntas_indices": [
+        950
+      ],
+      "respuestas_indices": [
+        951
+      ],
+      "contexto_indices": [
+        952,
+        953
+      ],
+      "resumen_respuestas": "Se responde que lo decide el propietario salvo que la carta diga lo contrario, citando1.4.3 y7.2.3; se menciona que TFS no cambia esa regla.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "TFS (abreviatura sin desarrollar)"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Revisar si se fusiona con preguntas anteriores sobre ordenar cartas al fondo del mazo, como110 o667.",
+        "La pregunta no describe por sí sola el efecto que mueve las cartas; TFS solo aparece en la respuesta."
+      ]
+    },
+    {
+      "titulo": "Cambiar cartas del mazo en una presentación o formato limitado",
+      "pregunta": "¿Se permite hacer sideboard entre rondas o entre partidas de una presentación, y quién determina la norma aplicable?",
+      "ambito": "organizacion_herramientas",
+      "temas": [
+        "presentacion",
+        "limited",
+        "sideboard",
+        "reglas_evento"
+      ],
+      "preguntas_indices": [
+        954,
+        971
+      ],
+      "respuestas_indices": [
+        955,
+        972,
+        974,
+        976
+      ],
+      "contexto_indices": [
+        973,
+        975,
+        977
+      ],
+      "resumen_respuestas": "Se afirma que no hay reglas específicas de sideboard de Limited y que las tiendas fijan su práctica. Se menciona como práctica habitual cambiar entre encuentros, no entre partidas; en el caso concreto el organizador prohíbe cambiar y se indica seguir esa norma.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Fusionar con preguntas previas del mismo asunto, posiblemente602.",
+        "Separar práctica habitual de obligación reglamentaria al validar."
+      ]
+    },
+    {
+      "titulo": "Clasificación Hunny: versiones distintas y reimpresiones",
+      "pregunta": "¿Las versiones antiguas de un personaje reciben Hunny porque una versión nueva lo tiene? ¿Qué ocurre con la reimpresión de Pooh – Hunny Wizard si la app no está actualizada?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "clasificaciones",
+        "reimpresiones",
+        "erratas",
+        "app"
+      ],
+      "preguntas_indices": [
+        956,
+        968
+      ],
+      "respuestas_indices": [
+        957,
+        958,
+        960,
+        964,
+        966,
+        969,
+        970
+      ],
+      "contexto_indices": [
+        959,
+        961,
+        963,
+        965,
+        967
+      ],
+      "resumen_respuestas": "Se explica que las clasificaciones pertenecen a cada carta concreta, no al nombre general del personaje. Para Pooh – Hunny Wizard se afirma que la versión original sí tiene Hunny por errata, aunque no se muestre actualizada en la app.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Piglet – Cocoa Maker",
+        "Winnie the Pooh – Hunny Wizard",
+        "Hades"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La respuesta inicial «salvo errata en la app» se matiza:969–970 dicen que existe clasificación aplicable pese a la app desactualizada.",
+        "No confundir versiones distintas de un personaje con reimpresiones de la misma carta."
+      ]
+    },
+    {
+      "titulo": "Shift sobre un personaje cuyo daño supera la nueva voluntad",
+      "pregunta": "¿El personaje recién jugado con Shift es desterrado si hereda daño igual o superior a su voluntad?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "shift",
+        "daño",
+        "voluntad",
+        "comprobacion_estado"
+      ],
+      "preguntas_indices": [
+        979
+      ],
+      "respuestas_indices": [
+        980
+      ],
+      "contexto_indices": [
+        981
+      ],
+      "resumen_respuestas": "Se responde afirmativamente al supuesto de daño superior a la voluntad del nuevo personaje.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La pregunta literal habla de más daño del que soporta; el umbral exacto debe comprobarse en validación."
+      ]
+    },
+    {
+      "titulo": "Protección de Rapunzel frente a un atacante con fuerza cero",
+      "pregunta": "¿Un desafío con fuerza0 consume Act of Kindness de Rapunzel? ¿Cambia si la fuerza era1 y se redujo a0 por Rhino?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "fuerza_cero",
+        "daño",
+        "efectos_reemplazo"
+      ],
+      "preguntas_indices": [
+        982,
+        984
+      ],
+      "respuestas_indices": [
+        983,
+        985,
+        987
+      ],
+      "contexto_indices": [
+        986,
+        988,
+        989
+      ],
+      "resumen_respuestas": "Se diferencia reducir fuerza de reducir daño: un personaje con fuerza0 no inflige daño inicialmente. Se cita5.3.6.2 y se concluye que no consume la protección.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Rapunzel – Ready for Adventure",
+        "Rhino – One-Sixteenth Wolf"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Complementa el caso de Lilo con Resist: la ausencia inicial de daño y la reducción de daño no son el mismo supuesto."
+      ]
+    },
+    {
+      "titulo": "Alcance de una habilidad estática de una localización sin identificar",
+      "pregunta": "¿La habilidad mostrada beneficia a personajes aunque no estén en esa localización?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "localizaciones",
+        "habilidades_estaticas"
+      ],
+      "preguntas_indices": [
+        990
+      ],
+      "respuestas_indices": [
+        991
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se responde que es un efecto estático y que no exige que los personajes estén en la localización.",
+      "estado_respuesta": "contexto_insuficiente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "La localización y el texto exacto solo constan en la imagen de990; no se deben generalizar todas las habilidades de localizaciones."
+      ]
+    },
+    {
+      "titulo": "Lilo jugada desde el descarte frente a The Horned King",
+      "pregunta": "¿Cómo interactúa la entrada agotada de Lilo desde el descarte con The Horned King, en comparación con una interacción de Merida mostrada en un vídeo?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "jugar_desde_descarte",
+        "entrada_agotada",
+        "efectos_reemplazo"
+      ],
+      "preguntas_indices": [
+        992
+      ],
+      "respuestas_indices": [
+        993
+      ],
+      "contexto_indices": [
+        994
+      ],
+      "resumen_respuestas": "Se responde que para Lilo no cambia el resultado: su propia disparada la hace entrar agotada, o lo hace solo The Horned King si se juega desde el descarte en la fase principal por otra vía.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Lilo (versión que vuelve del descarte)",
+        "The Horned King",
+        "Merida"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La comparación con Merida depende de un vídeo no incluido; conservar el supuesto explícito sobre Lilo."
+      ]
+    },
+    {
+      "titulo": "Orden para alterar la mano inicial",
+      "pregunta": "¿Puede un jugador esperar a que su rival termine de alterar la mano inicial antes de hacerlo él?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "mano_inicial",
+        "procedimiento",
+        "orden_jugadores"
+      ],
+      "preguntas_indices": [
+        998
+      ],
+      "respuestas_indices": [
+        1000
+      ],
+      "contexto_indices": [
+        999,
+        1001,
+        1002
+      ],
+      "resumen_respuestas": "Se cita2.2.2 y se indica que altera primero quien juega primero, y después quien juega segundo.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Nace de una observación en retransmisión; validar regla y posible gestión de una secuencia incorrecta por separado."
+      ]
+    },
+    {
+      "titulo": "Rapunzel & Flynn Rider: jugar el personaje descartado durante un desafío",
+      "pregunta": "¿Cuándo se juega el personaje descartado gracias a Rapunzel & Flynn Rider – Unlikely Pair? ¿Puede hacerse durante un desafío contra Dr. Bushroot?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "disparadas",
+        "bolsa",
+        "desafio",
+        "jugar_cartas"
+      ],
+      "preguntas_indices": [
+        1003,
+        1007
+      ],
+      "respuestas_indices": [
+        1004,
+        1006,
+        1008
+      ],
+      "contexto_indices": [
+        1005,
+        1009,
+        1010
+      ],
+      "resumen_respuestas": "Se responde que se decide y juega al resolver la habilidad de la bolsa. Si el descarte se produce al desafiar a Bushroot, se puede jugar antes del paso de daño del desafío.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Rapunzel & Flynn Rider – Unlikely Pair",
+        "Dr. Bushroot"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Vine Pod y personajes con nombres dobles",
+      "pregunta": "¿Se puede desterrar un Mickey individual con Vine Pod para jugar Mickey & Minnie? ¿Cuántos nombres tiene un personaje doble y dónde se define?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "nombres_dobles",
+        "elegibilidad",
+        "efectos_reemplazo"
+      ],
+      "preguntas_indices": [
+        1011,
+        1015,
+        1037
+      ],
+      "respuestas_indices": [
+        1012,
+        1014,
+        1017,
+        1018,
+        1038
+      ],
+      "contexto_indices": [
+        1013,
+        1016,
+        1036,
+        1039,
+        1040
+      ],
+      "resumen_respuestas": "Se explica que el personaje doble tiene tres nombres y basta coincidir en uno. Antes de que se concrete la pregunta, otra respuesta describe desterrar Mickey & Minnie con reemplazo y continuar resolviendo Vine Pod. Se confirma que la regla de nombres dobles está en el CRD.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Vine Pod",
+        "Mickey & Minnie",
+        "Mickey",
+        "Minnie",
+        "Sulley & Boo – Scare Buddies",
+        "Flotsam and Jetsam"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "1013 es una pregunta para aclarar el supuesto, no un caso independiente.",
+        "1012/1014 responden a una variante distinta de la pregunta precisada en1015; no tratarlas como explicación directa de ese supuesto.",
+        "1036 es una propuesta de documentación, utilizada como contexto del mismo tema."
+      ]
+    },
+    {
+      "titulo": "Willow: qué personaje consume la reducción de coste",
+      "pregunta": "¿Puede elegirse a qué personaje aplicar Willow o la consume el siguiente, incluso si se juega gratis mediante un efecto?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "reduccion_coste",
+        "next",
+        "jugar_gratis"
+      ],
+      "preguntas_indices": [
+        1019
+      ],
+      "respuestas_indices": [
+        1020,
+        1022,
+        1023,
+        1024
+      ],
+      "contexto_indices": [
+        1021
+      ],
+      "resumen_respuestas": "Se responde que la consume el siguiente personaje jugado, incluso mediante un efecto gratuito como Just in Time; «next» no permite guardarla para otro posterior.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Willow",
+        "Just in Time"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Vendetta: ser desafiada y desterrada frente a destierro fuera de desafío",
+      "pregunta": "¿La habilidad mostrada se dispara si la carta es desterrada fuera de un desafío? ¿Equivale «challenged and banished» a «banished in a challenge»?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "desafio",
+        "disparadas",
+        "destierro"
+      ],
+      "preguntas_indices": [
+        1025
+      ],
+      "respuestas_indices": [
+        1027
+      ],
+      "contexto_indices": [
+        1026,
+        1028
+      ],
+      "resumen_respuestas": "Se distingue que «banished in a challenge» incluye atacar y defender, mientras «challenged and banished» solo incluye ser desafiada. Se responde que fuera de un desafío no se dispara.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "El nombre de la carta está únicamente en el adjunto1025; Vendetta puede ser nombre de habilidad y no debe inventarse como carta."
+      ]
+    },
+    {
+      "titulo": "Iago con reducción de fuerza y Challenger",
+      "pregunta": "Si Iago – Stomping Mad recibe−2 de fuerza de Della’s Moon Lullaby, ¿desafía con3 o5 en el turno rival?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "fuerza",
+        "modificadores",
+        "challenger"
+      ],
+      "preguntas_indices": [
+        1029
+      ],
+      "respuestas_indices": [
+        1030,
+        1031
+      ],
+      "contexto_indices": [
+        1032
+      ],
+      "resumen_respuestas": "Se suman todos los modificadores:0−2+5=3.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Iago – Stomping Mad",
+        "Della’s Moon Lullaby"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Entintar boca arriba: regla de torneo o regla general",
+      "pregunta": "¿Por qué4.2.1.3 sigue indicando colocar tinta boca abajo si se utiliza entintado boca arriba?",
+      "ambito": "documentacion_formatos",
+      "temas": [
+        "tinta",
+        "reglas_torneo",
+        "jerarquia_documental"
+      ],
+      "preguntas_indices": [
+        1033
+      ],
+      "respuestas_indices": [
+        1034
+      ],
+      "contexto_indices": [
+        1035
+      ],
+      "resumen_respuestas": "Se responde que el procedimiento de boca arriba sigue siendo una regla de torneo.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Super Goof contra Peter Pan – Never Land Prankster",
+      "pregunta": "¿Super Goof gana2 de lore al desafiar mientras Peter Pan – Never Land Prankster está agotado?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "desafio",
+        "habilidades_estaticas",
+        "ganar_lore"
+      ],
+      "preguntas_indices": [
+        1041,
+        1043
+      ],
+      "respuestas_indices": [
+        1042,
+        1044
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se indica que la habilidad de Peter Pan es estática y deja de impedir lore en cuanto se declara legalmente un desafío. Super Goof gana los2 de lore.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Super Goof",
+        "Peter Pan – Never Land Prankster"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Pocahontas – Peacekeeper retirada por Red Alert",
+      "pregunta": "¿Sigue vigente la prohibición de desafiar de Pocahontas – Peacekeeper si Red Alert la retira del juego?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "duracion_efectos",
+        "salir_del_juego",
+        "desafio"
+      ],
+      "preguntas_indices": [
+        1047
+      ],
+      "respuestas_indices": [
+        1049,
+        1050
+      ],
+      "contexto_indices": [
+        1048
+      ],
+      "resumen_respuestas": "Se responde que el efecto de su habilidad al jugarla no exige que permanezca en juego.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Pocahontas – Peacekeeper",
+        "Red Alert"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Mover o colocar daño frente a Hercules – Mighty Leader",
+      "pregunta": "¿Mover o colocar contadores con Cheshire Cat o Malicious, Mean and Scary evita el efecto de Hercules – Mighty Leader?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "mover_daño",
+        "colocar_contadores",
+        "proteccion"
+      ],
+      "preguntas_indices": [
+        1051
+      ],
+      "respuestas_indices": [
+        1052
+      ],
+      "contexto_indices": [
+        1053,
+        1054,
+        1055
+      ],
+      "resumen_respuestas": "Se responde que mover o colocar contadores no es infligir daño, por lo que Hercules no afecta a esas operaciones.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Hercules – Mighty Leader",
+        "Cheshire Cat – Inexplicable",
+        "Malicious, Mean and Scary"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Cartas alteradas, Enchanted y cartas marcadas",
+      "pregunta": "¿«Altered art» de TR3.11 incluye Enchanted? ¿Pueden usarse si su grosor o curvatura permiten distinguirlas incluso enfundadas?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "legalidad_cartas",
+        "alteraciones",
+        "cartas_marcadas",
+        "enchanted"
+      ],
+      "preguntas_indices": [
+        1056,
+        1059
+      ],
+      "respuestas_indices": [
+        1057,
+        1058,
+        1060,
+        1061
+      ],
+      "contexto_indices": [
+        1062
+      ],
+      "resumen_respuestas": "Se diferencia una carta modificada físicamente por alguien de una variante oficial Enchanted. Se afirma que las Enchanted pueden usarse siempre que no sean distinguibles; un problema de grosor o curvatura se trataría como carta marcada.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La frase amplia «all cards are legal as printed» se debe interpretar en el contexto del arte y revisar; no valida la legalidad de formato de cualquier carta."
+      ]
+    },
+    {
+      "titulo": "Touch the Sky y la condición de elegir de Tod",
+      "pregunta": "¿Touch the Sky dispara Tod – Knows All the Tricks aunque se determine qué personaje mover sin usar «choose/chosen»? ¿Cómo se relacionaría ese texto con Ward si permitiera mover rivales?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "elegir",
+        "ward",
+        "mover_personajes",
+        "disparadas"
+      ],
+      "preguntas_indices": [
+        1063,
+        1066
+      ],
+      "respuestas_indices": [
+        1064,
+        1067
+      ],
+      "contexto_indices": [
+        1065,
+        1068
+      ],
+      "resumen_respuestas": "Se responde que Touch the Sky no elige en sentido reglamentario, por lo que no dispara Tod. En la variante hipotética sin «of yours», se afirma que Ward no impediría mover al rival, aunque probablemente ese texto se cambiaría.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Tod – Knows All the Tricks",
+        "Touch the Sky"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "1066 es una modificación hipotética del texto de una carta existente, no una carta futura ni Set14."
+      ]
+    },
+    {
+      "titulo": "Elegir un personaje propio con Ward",
+      "pregunta": "¿Ward impide que el propietario elija sus propios personajes?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "ward",
+        "elegir"
+      ],
+      "preguntas_indices": [
+        1069
+      ],
+      "respuestas_indices": [
+        1070
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se confirma que el jugador puede elegir sus propios personajes con Ward.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Touch the Sky sin poder mover ningún personaje",
+      "pregunta": "Con un único personaje ya en la única localización, ¿Touch the Sky permite robar aunque no pueda moverlo?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "mover_personajes",
+        "referencias",
+        "then",
+        "resolucion_parcial"
+      ],
+      "preguntas_indices": [
+        1071,
+        1076,
+        1093
+      ],
+      "respuestas_indices": [
+        1073,
+        1077,
+        1094
+      ],
+      "contexto_indices": [
+        1078,
+        1095,
+        1099,
+        1101
+      ],
+      "resumen_respuestas": "Se declara expresamente una cuestión abierta. La interpretación provisional es no robar porque no se establece la referencia a la localización; se afirma que el precedente está bajo revisión. En la repregunta del14 de agosto todavía no hay novedades.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [
+        "Touch the Sky"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Conservar como respuesta provisional, no como ruling oficial confirmado.",
+        "1099 enlaza un vídeo explicativo; no se ha consultado su contenido."
+      ]
+    },
+    {
+      "titulo": "Dónde localizar las guías de sets de GooglyGlimmers",
+      "pregunta": "¿Dónde se publican actualmente las guías de sets del autor para consultar interacciones?",
+      "ambito": "organizacion_herramientas",
+      "temas": [
+        "recursos",
+        "guias",
+        "videos"
+      ],
+      "preguntas_indices": [
+        1072
+      ],
+      "respuestas_indices": [
+        1074
+      ],
+      "contexto_indices": [
+        1075,
+        1079,
+        1088
+      ],
+      "resumen_respuestas": "El autor dice que no ha publicado guías para los últimos sets y que ha hecho vídeos de interacciones.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Consulta de disponibilidad de un recurso comunitario, no regla del juego."
+      ]
+    },
+    {
+      "titulo": "Violet sobre Violet: disparadas de ambas cartas y Merida",
+      "pregunta": "Con Violet Parr – Super Resilient y Merida agotadas, ¿jugar otra Violet mediante Shift dispara a Merida y a las dos Violet? ¿La Violet de abajo ve jugar la nueva?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "shift",
+        "jugar_personaje",
+        "disparadas",
+        "bolsa"
+      ],
+      "preguntas_indices": [
+        1080,
+        1083
+      ],
+      "respuestas_indices": [
+        1081,
+        1085
+      ],
+      "contexto_indices": [
+        1082,
+        1084,
+        1086
+      ],
+      "resumen_respuestas": "Se responde que entran tres disparadas en la bolsa; la Violet nueva se juega y dispara a la anterior antes de cubrirla.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Violet Parr – Super Resilient",
+        "Merida (coste4, no entintable)"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "1084 aporta una imagen explicativa, pero1085 conserva explicación textual."
+      ]
+    },
+    {
+      "titulo": "Tod y el límite de dos veces si se rechaza prepararlo",
+      "pregunta": "¿Se consume una de las dos resoluciones de Tod si se elige no prepararlo, por ejemplo porque ya estaba preparado al recibir Education or Elimination?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "limites_por_turno",
+        "may",
+        "resolver_habilidades"
+      ],
+      "preguntas_indices": [
+        1087
+      ],
+      "respuestas_indices": [
+        1089,
+        1090
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se responde que rechazar el «may» no consume una de las dos veces y se cita6.1.13.2 sobre «once», aplicándolo por analogía a «twice».",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Tod – Knows All the Tricks",
+        "Education or Elimination"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "El propio canal reconoce que la cita regula «once» y extrapola a «twice»; comprobar soporte directo en validación."
+      ]
+    },
+    {
+      "titulo": "Pool de cartas y rotación en Coconut",
+      "pregunta": "¿Coconut usa el pool de Infinity o Core y le afectan rotación o prohibiciones?",
+      "ambito": "documentacion_formatos",
+      "temas": [
+        "coconut",
+        "legalidad",
+        "rotacion"
+      ],
+      "preguntas_indices": [
+        1091
+      ],
+      "respuestas_indices": [
+        1092
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se afirma que Coconut tiene su propia legalidad y, en ese momento, todas las cartas son legales, sin rotación ni prohibiciones.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Respuesta fechada13 de agosto2026; Coconut se identifica como beta en mensajes posteriores. No extrapolar automáticamente su vigencia."
+      ]
+    },
+    {
+      "titulo": "Tiempo de ronda y organización de eventos Coconut",
+      "pregunta": "¿Qué límite de tiempo y estructura se deberían usar en un evento Coconut de tienda?",
+      "ambito": "organizacion_herramientas",
+      "temas": [
+        "coconut",
+        "tiempo_ronda",
+        "estructura_evento",
+        "beta"
+      ],
+      "preguntas_indices": [
+        1103
+      ],
+      "respuestas_indices": [
+        1104,
+        1105,
+        1107,
+        1109,
+        1110,
+        1111
+      ],
+      "contexto_indices": [
+        1106,
+        1108
+      ],
+      "resumen_respuestas": "Se afirma que Coconut está en beta y no es competitivo, sin tiempo recomendado. Se aconseja juego abierto por mesas; se dice que RPH ofrece una lista de jugadores y no rondas suizas para este formato.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Distinguir las recomendaciones personales de una norma oficial al validar."
+      ]
+    },
+    {
+      "titulo": "Activación opcional de habilidad que otorga Challenger+3",
+      "pregunta": "¿La segunda habilidad de la carta mostrada es obligatoria cada turno o puede omitirse si no interesa Challenger+3, por ejemplo con Dale?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "habilidades_activadas",
+        "costes",
+        "opcionalidad"
+      ],
+      "preguntas_indices": [
+        1112,
+        1115
+      ],
+      "respuestas_indices": [
+        1114,
+        1116
+      ],
+      "contexto_indices": [
+        1113,
+        1117
+      ],
+      "resumen_respuestas": "Se explica que es una habilidad activada que se usa voluntariamente pagando su coste, incluso varias veces; no es parte de una habilidad al entrar.",
+      "estado_respuesta": "contexto_insuficiente",
+      "cartas_mencionadas": [
+        "Dale – RFHS (abreviatura del mensaje)"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "La carta que tiene la habilidad no está identificada en el texto y depende del adjunto1112."
+      ]
+    },
+    {
+      "titulo": "Robin Hood en Coconut: colección y número de arcos externos",
+      "pregunta": "¿Qué significa «collection» en Robin Hood – Sneaky Sleuth? ¿Hay que llevar varios Robin’s Bow fuera del mazo?",
+      "ambito": "documentacion_formatos",
+      "temas": [
+        "coconut",
+        "fuera_del_juego",
+        "coleccion",
+        "primer_turno"
+      ],
+      "preguntas_indices": [
+        1118,
+        1123
+      ],
+      "respuestas_indices": [
+        1120,
+        1122,
+        1124,
+        1125
+      ],
+      "contexto_indices": [
+        1119,
+        1121,
+        1126
+      ],
+      "resumen_respuestas": "Se explica que se refiere a cartas fuera del mazo y que basta un arco adicional al del mazo, porque la habilidad solo actúa en el primer turno. Se recuerda que el formato está en beta.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Robin Hood – Sneaky Sleuth",
+        "Robin’s Bow"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Ursula Coconut y Angel – Underdog al cantar",
+      "pregunta": "¿Angel – Underdog canta por4 o3 con Ursula Coconut?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "coconut",
+        "cantar",
+        "costes"
+      ],
+      "preguntas_indices": [
+        1129
+      ],
+      "respuestas_indices": [
+        1130
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se responde que canta por4.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Ursula (Coconut)",
+        "Angel – Underdog"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "El mensaje no conserva el nombre completo ni el texto de Ursula Coconut; identificarlos al validar."
+      ]
+    },
+    {
+      "titulo": "Dos John Smith – Undaunted Protector frente a Red Alert",
+      "pregunta": "¿Dos John Smith – Undaunted Protector se protegen entre sí hasta dejar Red Alert sin elecciones legales?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "elegir",
+        "restricciones_eleccion",
+        "multiples_copias"
+      ],
+      "preguntas_indices": [
+        1131,
+        1133
+      ],
+      "respuestas_indices": [
+        1132,
+        1134
+      ],
+      "contexto_indices": [
+        1135,
+        1136,
+        1137
+      ],
+      "resumen_respuestas": "Se responde que ambos John Smith son elecciones legales para Red Alert.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "John Smith – Undaunted Protector",
+        "Red Alert"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Usar un dado para indicar el tamaño de la mano",
+      "pregunta": "¿Está permitido utilizar un dado para representar cuántas cartas hay en la mano?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "marcadores",
+        "tamano_mano",
+        "comunicacion"
+      ],
+      "preguntas_indices": [
+        1138
+      ],
+      "respuestas_indices": [
+        1139
+      ],
+      "contexto_indices": [
+        1140
+      ],
+      "resumen_respuestas": "Se responde que no, salvo que haya cambiado la regla; se aporta una imagen de la norma como soporte.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Respuesta condicionada a que la regla siga vigente; revisar documento actual.",
+        "Posible repetición de consultas anteriores sobre marcadores numéricos (258,265).",
+        "1140 es una broma sobre hipotético daño a la mano, no una regla ni una duda de carta futura."
+      ]
+    },
+    {
+      "titulo": "Jessie – Lively Cowgirl: tinta pagada al cantar y reducciones",
+      "pregunta": "¿Jessie se dispara al cantar una canción de coste superior a2 sin pagar tinta? ¿Importa el coste impreso o lo realmente pagado, y desde cuándo se interpreta así?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "tinta_pagada",
+        "coste_impreso",
+        "cantar",
+        "reduccion_coste"
+      ],
+      "preguntas_indices": [
+        1142,
+        1145
+      ],
+      "respuestas_indices": [
+        1144,
+        1146,
+        1147,
+        1148
+      ],
+      "contexto_indices": [
+        1143
+      ],
+      "resumen_respuestas": "Se distingue «pay» de «cost»: cantar pagando0 dispara a Jessie aunque el coste sea mayor. Se da el ejemplo de Bullseye reducido a2 por Woody, se afirma que se sabía desde el lanzamiento y se extiende la explicación a Babyhead.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Jessie – Lively Cowgirl",
+        "You’ve Got a Friend in Me",
+        "Bullseye",
+        "Woody",
+        "Babyhead"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Redacción hipotética de Milo: elegir antes de descartar",
+      "pregunta": "Si Milo dijera «puedes elegir un personaje rival; si lo haces, puedes descartar…», ¿se podría descartar sin un rival elegible?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "if_you_do",
+        "efectos_secuenciales",
+        "elegir"
+      ],
+      "preguntas_indices": [
+        1149,
+        1152,
+        1154
+      ],
+      "respuestas_indices": [
+        1153,
+        1155
+      ],
+      "contexto_indices": [
+        1150,
+        1151,
+        1156
+      ],
+      "resumen_respuestas": "Se responde que no: si no se resuelve por completo elegir el personaje, no puede resolverse el segundo efecto secuencial condicionado.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Milo (texto hipotético)"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Este caso modifica expresamente el texto de Milo. No es el funcionamiento de la carta impresa ni una consulta de Set14.",
+        "Mantener separado del caso real1166–1171."
+      ]
+    },
+    {
+      "titulo": "Decisión arbitral en retransmisión: Luisa con3 de daño sin otros personajes",
+      "pregunta": "¿Qué ocurrió en Sailor contra Dillon del campeonato norteamericano y fue correcto impedir mover el daño de Luisa?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "mover_daño",
+        "revision_decision",
+        "retransmision",
+        "apelacion"
+      ],
+      "preguntas_indices": [
+        1157,
+        1158,
+        1160
+      ],
+      "respuestas_indices": [
+        1159,
+        1161
+      ],
+      "contexto_indices": [
+        1162
+      ],
+      "resumen_respuestas": "Un participante relata que Luisa tenía3 de daño y no había otros personajes de los que moverlo. Afirma que impedir mover el daño de Luisa fue incorrecto y que la decisión no se apeló.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Luisa (coste5)"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Es una afirmación del canal sobre una partida externa, no una verificación independiente del vídeo.",
+        "Fusionar o enlazar con la consulta de reglas sobre Luisa del índice118, conservando el incidente de arbitraje como variante."
+      ]
+    },
+    {
+      "titulo": "Ursula – Voice Stealer sin personaje rival preparado",
+      "pregunta": "¿Ursula – Voice Stealer permite jugar una canción si el único personaje rival ya está agotado?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "elegibilidad",
+        "agotado",
+        "referencias",
+        "cantar"
+      ],
+      "preguntas_indices": [
+        1163
+      ],
+      "respuestas_indices": [
+        1164
+      ],
+      "contexto_indices": [
+        1165
+      ],
+      "resumen_respuestas": "Se responde que no se puede elegir al personaje agotado con esa habilidad; el segundo efecto carece de referencia y no permite jugar una canción.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Ursula – Voice Stealer",
+        "Elsa – Spirit of Winter"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Milo: descartar obliga a devolver un personaje elegible",
+      "pregunta": "¿Puede Milo descartar sin devolver ningún personaje? Si es el único personaje en juego, ¿debe devolverse a sí mismo?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "may",
+        "hacer_todo_lo_posible",
+        "elegir",
+        "devolver_mano"
+      ],
+      "preguntas_indices": [
+        1166,
+        1169
+      ],
+      "respuestas_indices": [
+        1167,
+        1171
+      ],
+      "contexto_indices": [
+        1168,
+        1170,
+        1173
+      ],
+      "resumen_respuestas": "Se responde que «you may» cubre toda la oración: si se descarta, se debe devolver un personaje válido. Si solo está Milo, debe devolverse a sí mismo.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Milo"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Separar de la redacción hipotética de1149; aquí se discute el texto real."
+      ]
+    },
+    {
+      "titulo": "Violet – Learning New Powers y John Smith sin daño",
+      "pregunta": "¿Puede elegirse John Smith – Undaunted Protector sin daño como origen del daño que Violet intenta mover? ¿Cambiaría si el texto exigiera un personaje dañado?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "mover_daño",
+        "elegibilidad",
+        "restricciones_eleccion"
+      ],
+      "preguntas_indices": [
+        1174,
+        1177
+      ],
+      "respuestas_indices": [
+        1175,
+        1178
+      ],
+      "contexto_indices": [
+        1176,
+        1179
+      ],
+      "resumen_respuestas": "Se responde que John Smith es una elección legal aunque no tenga daño. Sería distinto si el texto exigiera expresamente un personaje dañado.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Violet Parr – Learning New Powers",
+        "John Smith – Undaunted Protector"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Robin’s Bow externo devuelto al mazo en Coconut",
+      "pregunta": "¿Robin’s Bow traído desde la colección puede entrar en el mazo mediante You’re Welcome?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "coconut",
+        "zonas",
+        "fuera_del_juego"
+      ],
+      "preguntas_indices": [
+        1180
+      ],
+      "respuestas_indices": [
+        1181,
+        1182,
+        1183
+      ],
+      "contexto_indices": [
+        1184
+      ],
+      "resumen_respuestas": "Se responde que, una vez en juego, se comporta como cualquier otro objeto y puede ir al mazo.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Robin’s Bow",
+        "You’re Welcome"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Relacionar con el caso de colección de1118, manteniendo esta variante de cambio de zona."
+      ]
+    },
+    {
+      "titulo": "RED, efectos de reemplazo y coste alternativo de Shift",
+      "pregunta": "¿Hay una actualización sobre RED y su interacción con efectos de reemplazo, en particular el coste de Shift?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "coste_alternativo",
+        "shift",
+        "efectos_reemplazo"
+      ],
+      "preguntas_indices": [
+        1185,
+        1186
+      ],
+      "respuestas_indices": [
+        1187,
+        1189
+      ],
+      "contexto_indices": [
+        1188
+      ],
+      "resumen_respuestas": "Se remite a un hilo del servidor oficial. Al concretarse que se preguntaba por Shift, se afirma que ese tipo de habilidad nunca ha podido referirse a costes alternativos.",
+      "estado_respuesta": "contexto_insuficiente",
+      "cartas_mencionadas": [
+        "RED (abreviatura pendiente de identificar)"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La cita de1185 remite a un mensaje anterior: «We don’t have a ruling yet… costs and replacement effects». Fusionar con ese caso original para recuperar el supuesto.",
+        "1187 no contiene la respuesta externa;1189 conserva una conclusión general pero falta el texto de la habilidad."
+      ]
+    }
+  ],
+  "mensajes_revisados": [
+    800,
+    801,
+    802,
+    803,
+    804,
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    842,
+    843,
+    844,
+    845,
+    846,
+    847,
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862,
+    863,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874,
+    875,
+    876,
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902,
+    903,
+    904,
+    905,
+    906,
+    907,
+    908,
+    909,
+    910,
+    911,
+    912,
+    913,
+    914,
+    915,
+    916,
+    917,
+    918,
+    919,
+    920,
+    921,
+    922,
+    923,
+    924,
+    925,
+    926,
+    927,
+    928,
+    929,
+    930,
+    931,
+    932,
+    933,
+    934,
+    935,
+    936,
+    937,
+    938,
+    939,
+    940,
+    941,
+    942,
+    943,
+    944,
+    945,
+    946,
+    947,
+    948,
+    949,
+    950,
+    951,
+    952,
+    953,
+    954,
+    955,
+    956,
+    957,
+    958,
+    959,
+    960,
+    961,
+    962,
+    963,
+    964,
+    965,
+    966,
+    967,
+    968,
+    969,
+    970,
+    971,
+    972,
+    973,
+    974,
+    975,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981,
+    982,
+    983,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998,
+    999,
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    1031,
+    1032,
+    1033,
+    1034,
+    1035,
+    1036,
+    1037,
+    1038,
+    1039,
+    1040,
+    1041,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047,
+    1048,
+    1049,
+    1050,
+    1051,
+    1052,
+    1053,
+    1054,
+    1055,
+    1056,
+    1057,
+    1058,
+    1059,
+    1060,
+    1061,
+    1062,
+    1063,
+    1064,
+    1065,
+    1066,
+    1067,
+    1068,
+    1069,
+    1070,
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1078,
+    1079,
+    1080,
+    1081,
+    1082,
+    1083,
+    1084,
+    1085,
+    1086,
+    1087,
+    1088,
+    1089,
+    1090,
+    1091,
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098,
+    1099,
+    1100,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    1108,
+    1109,
+    1110,
+    1111,
+    1112,
+    1113,
+    1114,
+    1115,
+    1116,
+    1117,
+    1118,
+    1119,
+    1120,
+    1121,
+    1122,
+    1123,
+    1124,
+    1125,
+    1126,
+    1127,
+    1128,
+    1129,
+    1130,
+    1131,
+    1132,
+    1133,
+    1134,
+    1135,
+    1136,
+    1137,
+    1138,
+    1139,
+    1140,
+    1141,
+    1142,
+    1143,
+    1144,
+    1145,
+    1146,
+    1147,
+    1148,
+    1149,
+    1150,
+    1151,
+    1152,
+    1153,
+    1154,
+    1155,
+    1156,
+    1157,
+    1158,
+    1159,
+    1160,
+    1161,
+    1162,
+    1163,
+    1164,
+    1165,
+    1166,
+    1167,
+    1168,
+    1169,
+    1170,
+    1171,
+    1172,
+    1173,
+    1174,
+    1175,
+    1176,
+    1177,
+    1178,
+    1179,
+    1180,
+    1181,
+    1182,
+    1183,
+    1184,
+    1185,
+    1186,
+    1187,
+    1188,
+    1189
+  ],
+  "sin_caso": [
+    {
+      "indices": [
+        807,
+        808,
+        809,
+        810,
+        811,
+        827,
+        828,
+        829,
+        830,
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847,
+        848,
+        849,
+        850,
+        890,
+        892,
+        938,
+        962,
+        978,
+        1045,
+        1046,
+        1096,
+        1097,
+        1098,
+        1100,
+        1102,
+        1127,
+        1128,
+        1141,
+        1172
+      ],
+      "motivo": "Mensajes revisados de conversación social, bromas, agradecimientos, recursos sin consulta autónoma o comentarios laterales sin duda adicional."
+    }
+  ]
+}

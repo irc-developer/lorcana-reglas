@@ -1,0 +1,818 @@
+﻿[
+    {
+        "id":  "CASO-001",
+        "title":  "Prohibiciones y legalidad cuando los documentos no estÃ¡n actualizados",
+        "question":  "Â¿QuÃ© fuente permite comprobar las prohibiciones y la legalidad de cartas si el documento de torneo todavÃ­a no incorpora el anuncio?",
+        "summary":  "Se propone comunicar las prohibiciones con enlace al comunicado; varios participantes indican que la aplicaciÃ³n oficial estÃ¡ actualizada y dispone de filtros por formato. TambiÃ©n seÃ±alan precedentes de erratas o documentos desactualizados.",
+        "notes":  "La conversaciÃ³n comienza ya iniciada; falta su pregunta original. Hiram Flaversham y cartas de Quest aparecen como comprobaciones de legalidad. No se ha validado si el estado descrito sigue vigente.",
+        "answers":  "To be honest the CCQ should post that it is banned with a link to the press release since there isn\u0027t an updated TR document. || I will say the official app does do that though but in a much less straight forward way. || It has a filter for legality where you can choose Construted, Infitity, or Banned || It is currently up to date, as far as Iâ€™m aware, yes || I just checked and Quest cards are no longer listed as Infinity legal in the App!"
+    },
+    {
+        "id":  "CASO-002",
+        "title":  "Reemplazos simultÃ¡neos para acontecimientos diferentes",
+        "question":  "Â¿Puede haber varios efectos de reemplazo simultÃ¡neos que no se apliquen al mismo acontecimiento?",
+        "summary":  "La respuesta niega el supuesto porque afirma que no suceden varios acontecimientos simultÃ¡neos en Lorcana.",
+        "notes":  "",
+        "answers":  "Thatâ€™s not really possible. Multiple events donâ€™t happen at the same time in Lorcana, so you canâ€™t have simultaneous replacement effects that apply to different events."
+    },
+    {
+        "id":  "CASO-003",
+        "title":  "Orden de elecciÃ³n y revelado con Return of Hercules",
+        "question":  "Â¿QuiÃ©n revela y juega primero con Return of Hercules, y puede el siguiente jugador elegir conociendo la elecciÃ³n anterior?",
+        "summary":  "Los participantes sostienen que resuelve primero el jugador activo y se continÃºa por orden de turno; el siguiente jugador puede utilizar la informaciÃ³n ya revelada.",
+        "notes":  "",
+        "answers":  "Active player resolves first || Okay so the answer is active player reveals first and inactive player can base their choice on the new informstions gained. || It depends. || The ruling standpoint is Active player resolved and then it continues in turn order. || What a player choses to do with the knowledge gained is up to them."
+    },
+    {
+        "id":  "CASO-004",
+        "title":  "Bronx: preparado, agotado y tinta secÃ¡ndose",
+        "question":  "Â¿Un Bronx que entra preparado pero secÃ¡ndose sigue preparado en el siguiente turno, y pueden otros efectos interactuar con personajes que se estÃ¡n secando?",
+        "summary":  "Distinguen preparado/agotado de seco/secÃ¡ndose. AÃ±aden que se puede interactuar con personajes en cualquier estado salvo restricciÃ³n del efecto.",
+        "notes":  "",
+        "answers":  "Ready is the opposite of exerted, it has nothing to do with dry/drying || No.\n\nYou can interact with characters no matter what state they are in, unless the effect youâ€™re resolving says otherwise."
+    },
+    {
+        "id":  "CASO-005",
+        "title":  "Fin del turno: disparos frente a efectos que expiran",
+        "question":  "Â¿Se resuelven primero los disparos al final del turno o desaparecen antes los efectos hasta el final del turno?",
+        "summary":  "La respuesta indica que se disparan y resuelven los efectos de final de turno y, cuando la bolsa estÃ¡ vacÃ­a, expiran los efectos hasta el final del turno.",
+        "notes":  "",
+        "answers":  "You meet the trigger condition of \"at the end of your turn\" then resolved them, then once the bag is empty, \"Until the end of your turn\" effect fade"
+    },
+    {
+        "id":  "CASO-006",
+        "title":  "Cinderella Stouthearted y cantar antes de jugarla",
+        "question":  "Â¿Cinderella Stouthearted debe estar en juego cuando se canta la canciÃ³n para poder desafiar a un personaje preparado?",
+        "summary":  "Se responde que debe estar en juego cuando se canta; cantarla antes y despuÃ©s jugar a Cinderella mediante Shift no basta.",
+        "notes":  "",
+        "answers":  "She has to be in play."
+    },
+    {
+        "id":  "CASO-007",
+        "title":  "Cinderella Stouthearted y Bodyguard preparado",
+        "question":  "Â¿Cinderella Stouthearted debe elegir un Bodyguard preparado al usar su permiso para desafiar personajes preparados?",
+        "summary":  "Se responde afirmativamente.",
+        "notes":  "",
+        "answers":  "Yes."
+    },
+    {
+        "id":  "CASO-008",
+        "title":  "Resist frente a daÃ±o movido",
+        "question":  "Â¿Resist reduce el daÃ±o que se mueve a un personaje?",
+        "summary":  "Se responde que no.",
+        "notes":  "",
+        "answers":  "No."
+    },
+    {
+        "id":  "CASO-009",
+        "title":  "Robin Hood Sharpshooter con Firefly Swarm",
+        "question":  "Â¿Las cartas descartadas con Robin Hood Sharpshooter cuentan al resolver Firefly Swarm elegida por su habilidad?",
+        "summary":  "Sostienen que primero termina My Greatest Performance, dejando las cartas en el descarte, y despuÃ©s se resuelve Firefly Swarm y se comprueba su condiciÃ³n.",
+        "notes":  "",
+        "answers":  "It will see all the cards in the Discard. || He does. But the effects of Firefly Swarm don\u0027t resolve until My Greatest Performance finishes.\n1 || What Jacob said. \n\nWhen you go to resolve Firefly and validate it\u0027s \"If\" statement, My Greatest Performance has already completely resolved, meaning all those cards are now in your Discard and the static If is now true for the Firefly Swarm you are attempting to resolve."
+    },
+    {
+        "id":  "CASO-010",
+        "title":  "Sets permitidos en el campeonato de Wilds Unknown",
+        "question":  "Â¿El campeonato de Wilds Unknown utiliza Ãºnicamente sets 9â€“12 o todo el formato Core vigente?",
+        "summary":  "Se responde que ese campeonato usa Core con sets 5â€“12 y que la rotaciÃ³n a 9â€“13 ocurre con la salida del set 13.",
+        "notes":  "Consulta histÃ³rica de un campeonato concreto. La menciÃ³n a set 13 explica la siguiente rotaciÃ³n, no convierte la duda actual en una duda exclusiva del set 13.",
+        "answers":  "Set Championships should be Core format, meaning cards from sets 5-12. || The Core Constructed format will change to sets 9-13 when set 13 releases."
+    },
+    {
+        "id":  "CASO-011",
+        "title":  "Elisa Maza frente a una reducciÃ³n previa de Jessie",
+        "question":  "Â¿Jugar Elisa Maza devuelve la fuerza de un personaje a su valor impreso tras una reducciÃ³n aplicada por Jessie?",
+        "summary":  "La respuesta es afirmativa y aporta un enlace a otra respuesta en Reddit sobre Elisa Maza.",
+        "notes":  "La carta de la imagen se identifica como Elisa Maza por el tÃ­tulo del enlace compartido, no por inspecciÃ³n de la imagen.",
+        "answers":  "yes || https://www.reddit.com/r/Lorcana/s/28CuxDYZWw\n\n@zekethebeast googly also answer this on reddit recently with citation\nr/Lorcana\nDoes Elisa Maza cancel reductions from before she was played\nSo elisa maza says characters strength can\u0027t be reduced below their printed value. Say we have the following interaction. on my opponents turn theyâ€¦\nReddit"
+    },
+    {
+        "id":  "CASO-012",
+        "title":  "Boost de Cheshire Cat sin destinatario para mover daÃ±o",
+        "question":  "Â¿Puede activarse Boost de Cheshire Cat Inexplicable sin poder completar su efecto, y puede retirarse daÃ±o si no existe personaje rival vÃ¡lido?",
+        "summary":  "Se confirma que se puede usar Boost aunque no se complete la habilidad, pero sin destino rival vÃ¡lido no se puede retirar el daÃ±o como si fuera curaciÃ³n.",
+        "notes":  "",
+        "answers":  "All correct"
+    },
+    {
+        "id":  "CASO-013",
+        "title":  "QuiÃ©n ordena los disparos de la bolsa",
+        "question":  "Â¿El jugador activo ordena todos los disparos o cada jugador decide el orden de los suyos?",
+        "summary":  "Se responde que cada jugador resuelve sus propios disparos.",
+        "notes":  "",
+        "answers":  "Each player resolves their own triggers."
+    },
+    {
+        "id":  "CASO-014",
+        "title":  "Listas de mazo y comprobaciones en Set Championships",
+        "question":  "Â¿Son obligatorias las listas de mazo y sus comprobaciones en Set Championships?",
+        "summary":  "Se responde que estos eventos deben ser competitivos y requieren lista segÃºn las instrucciones del kit; tambiÃ©n se dice que deberÃ­an contar con jueces.",
+        "notes":  "La justificaciÃ³n concreta respalda la obligaciÃ³n de lista, pero no distingue claramente la obligaciÃ³n de efectuar deck checks.",
+        "answers":  "They are supposed to be. || Just like Judges are supposed to be || Set Champs are required to be run as Competitive events, and thus require a decklist, per the set champs kit insert that all participating stores receive."
+    },
+    {
+        "id":  "CASO-015",
+        "title":  "Merida daÃ±a al atacante antes del daÃ±o de desafÃ­o",
+        "question":  "Â¿El daÃ±o disparado de Merida puede desterrar al personaje que la desafÃ­a antes de que ese personaje le haga daÃ±o de desafÃ­o?",
+        "summary":  "Se aclara que ocurre dentro del desafÃ­o, antes del paso de daÃ±o. Si ese daÃ±o destierra al atacante, el desafÃ­o termina sin paso de daÃ±o.",
+        "notes":  "La versiÃ³n de Merida solo estÃ¡ en el adjunto; la situaciÃ³n y la respuesta son comprensibles en texto.",
+        "answers":  "It happens prior to the challenge damage step, yes. Not â€œbefore the challengeâ€.\n\nSo yes, if the damage from Merida banishes the challenging character, the challenge ends without a damage step occurring."
+    },
+    {
+        "id":  "CASO-016",
+        "title":  "Bloquear inscripciones de una persona en Carde.io",
+        "question":  "Â¿Puede una organizaciÃ³n impedir en Carde.io que una persona excluida de la tienda se inscriba en futuros eventos?",
+        "summary":  "Se indica que existe una opciÃ³n en los ajustes de organizaciÃ³n; quien responde advierte que no la ha utilizado.",
+        "notes":  "El mensaje 80 no tiene texto y puede contener contexto visual de los ajustes. No se ha comprobado el funcionamiento actual.",
+        "answers":  "In organization settings."
+    },
+    {
+        "id":  "CASO-017",
+        "title":  "ElecciÃ³n de jugador inicial en rondas posteriores de Top Cut",
+        "question":  "Â¿QuiÃ©n elige jugar primero o segundo a partir de la segunda ronda de Top Cut?",
+        "summary":  "Se responde que elige la persona con mejor posiciÃ³n de clasificaciÃ³n original y se da el ejemplo de seed 1 frente a seed 4.",
+        "notes":  "",
+        "answers":  "Highest seed chooses || For example if 1 and 4 win their top 8 then 1 plays 4 so 1st seed will get the choice"
+    },
+    {
+        "id":  "CASO-018",
+        "title":  "Rondas y tamaÃ±o de Top Cut con 18 jugadores",
+        "question":  "Â¿QuÃ© consecuencias matemÃ¡ticas tiene jugar cuatro rondas y Top 4 con 18 jugadores, y puede modificarse asÃ­ un Set Championship?",
+        "summary":  "Se advierte que con mÃ¡s de 16 corresponde Top 8 y que no se pueden modificar las instrucciones de un campeonato sin permiso de Ravensburger. La explicaciÃ³n matemÃ¡tica seÃ±ala que al menos un jugador con una derrota quedarÃ­a fuera de Top 4 y compara varias combinaciones.",
+        "notes":  "Los mensajes 103â€“106 son rÃ³tulos de ejemplos; pueden depender de imÃ¡genes no recogidas en el texto. La afirmaciÃ³n matemÃ¡tica requiere revisar los supuestos.",
+        "answers":  "Over 16 is cut top 8 || Yes. || Math would be less clean cut || https://files.disneylorcana.com/Wilds-Unknown_OPChampionships_Event%20Instructions-EN.pdf this is where you see the round and cut count for the players || You\u0027d have e at least 1 player at x-1 miss top 4 || Players donâ€™t decide how an official tournament takes place. End of story.\n\nIf this isnâ€™t a set champs, do what you want. If it is, do what the documents say. || Unless you have permission to deviate from RB you have to follow the sheet and what it says based on attendance numbers || The gist of the math is you can sort of eliminate 1 round (4 instead of 5 rounds or top 4 instead of 8) but still isnt fair to players. You definitely shouldn\u0027t change both. If you do drop a round, change rounds not top cut numbers. \n\nIf Set Champs, as stated, not allowed, even if players want it. Don\u0027t do that out of integrity. \n\nIf any ole event otherwise, do whatever (editado)sÃ¡bado, 13 de junio de 2026, 22:"
+    },
+    {
+        "id":  "CASO-020",
+        "title":  "Luisa High Climber mueve su propio daÃ±o sin otro aliado",
+        "question":  "Â¿Puede Luisa High Climber activar su habilidad siendo el Ãºnico personaje propio y pasar su daÃ±o a un rival sin recibir antes daÃ±o de otro personaje?",
+        "summary":  "Se responde que sÃ­ por hacer tanto como se pueda; ademÃ¡s se propone que puede recibir un cuarto daÃ±o y mover despuÃ©s todo el daÃ±o antes de ser desterrada.",
+        "notes":  "",
+        "answers":  "Yes. || The third golden rule of Lorcana is \"do as much as you can\". || From the Comprehensive Rules:\n1.2.3. If an effect tells a player to do something, the player does as much as possible even if some part of that effect canâ€™t be done. This is known as doing as much as you can. || not only that \n\nif theres a fourth point of damage to be moved to luisa, you may still move it to luisa then move all 4 to another character and luisa lives @twin_ion13"
+    },
+    {
+        "id":  "CASO-021",
+        "title":  "Syndromeâ€™s Remote y Buzzâ€™s Arm durante el turno rival",
+        "question":  "Â¿Por quÃ© Syndromeâ€™s Remote puede dispararse en el turno rival y Buzzâ€™s Arm no puede jugarse normalmente cuando Buzz es desterrado en ese turno?",
+        "summary":  "La respuesta distingue el disparo de Syndromeâ€™s Remote, que se pone en la bolsa, del permiso estÃ¡tico de coste alternativo de Buzzâ€™s Arm, que sigue necesitando una ocasiÃ³n legal para jugar el objeto.",
+        "notes":  "",
+        "answers":  "There are two different types of abilities at play here. \n\nLEARN FROM THEIR LOSSES is a triggered ability. When its condition is met (\"whenever a robot character is banished\") its effect is put into the bag. (\"You may banish this item to draw two cards.\") When the bag is next resolved, you take the effect out and resolve it. \n\nMISSING PIECE is a static ability that is always applying. If a Buzz was banished, it gives an alternate method for playing Buzz\u0027s Arm. It doesn\u0027t ever resolve or get played, it just is always checking and giving you that option when it\u0027s appropriate. \nIn order to take advantage of that alternate cost, you still need to be able to play the item, which you usually only have the ability to do during your own main phase. (editado)lunes, 15 de junio de 2026, 14:"
+    },
+    {
+        "id":  "CASO-022",
+        "title":  "Escape Plan como segunda carta que llega al descarte",
+        "question":  "Â¿Se puede jugar Escape Plan cuando serÃ­a la segunda carta que va al descarte ese turno?",
+        "summary":  "Se responde que no puede jugarse hasta que ya hayan ido dos cartas al descarte.",
+        "notes":  "",
+        "answers":  "Correct. You can not play escape plan at all until two cards have gone to discard."
+    },
+    {
+        "id":  "CASO-024",
+        "title":  "Significado de GRE en arbitraje",
+        "question":  "Â¿QuÃ© significa la sigla GRE?",
+        "summary":  "Los participantes la desarrollan como General Rules Error, error general de reglas.",
+        "notes":  "",
+        "answers":  "General Rules Error || Gerenal Rules Error"
+    },
+    {
+        "id":  "CASO-026",
+        "title":  "Diablo parece robar dos cartas tras un desafÃ­o en simulador",
+        "question":  "Â¿Hay un error si, despuÃ©s de desafiar Will of the Wisp con Gantu y daÃ±ar a Diablo mediante un lugar, parece que el rival recibe dos robos?",
+        "summary":  "Quien pregunta reconoce que leyÃ³ mal el registro: una carta era Will of the Wisp regresando a la mano y solo otra era el robo de Diablo.",
+        "notes":  "",
+        "answers":  "Why do you think they drew 2? The log only shows them drawing 1. || Nevermind ... lol.   I saw the two cards go their hand (which I see was the Will of the Wisp and card draw from Diablo), then misread the log as \"2 draws from Diablo\".  I\u0027m wrong."
+    },
+    {
+        "id":  "CASO-028",
+        "title":  "Cartas de Shift cuentan como cartas debajo",
+        "question":  "Â¿Una carta debajo de Zipper por Shift cuenta para los efectos que exigen tener cartas debajo, aunque no proceda de Boost?",
+        "summary":  "Se responde que Shift crea una pila y satisface esa condiciÃ³n; Boost es solo una forma de colocar cartas debajo.",
+        "notes":  "",
+        "answers":  "Boost is just one ability that can put cards under another card. Shifting does create a stack, and there would be a card under Big Helper for something like Scrooge McDuck-On the Right Track"
+    },
+    {
+        "id":  "CASO-029",
+        "title":  "Acumular dos permisos de entintar adicionales",
+        "question":  "Â¿Jugar dos copias de la carta denominada sails permite poner dos cartas adicionales en el tintero?",
+        "summary":  "Se confirma que los dos permisos se acumulan.",
+        "notes":  "La fuente no identifica el nombre completo de la carta.",
+        "answers":  "Yes || You sure can"
+    },
+    {
+        "id":  "CASO-031",
+        "title":  "Grandmother Willow no reduce costes de una habilidad",
+        "question":  "Â¿Varias Grandmother Willow pueden hacer gratis tanto jugar Finnick como activar su efecto de devolver un personaje a la mano?",
+        "summary":  "La respuesta indica que la reducciÃ³n solo afecta a la tinta para jugar personajes y no a otros costes.",
+        "notes":  "",
+        "answers":  "Grandmother Willow\u0027s ability only reduces the amount of ink you pay to play a character. It doesn\u0027t reduce any other kind of cost."
+    },
+    {
+        "id":  "CASO-035",
+        "title":  "Reducir fuerza con Mickey para aplicar Under the Sea",
+        "question":  "Â¿Una reducciÃ³n temporal de fuerza de Mickey convierte un personaje de fuerza 4 en un personaje vÃ¡lido para Under the Sea al dejarlo en fuerza 2?",
+        "summary":  "Se responde que sÃ­: se toma en cuenta la fuerza reducida para enviar el personaje al fondo del mazo.",
+        "notes":  "",
+        "answers":  "Yes thatâ€™s correct it would go to the bottom of the deck with the  reduction"
+    },
+    {
+        "id":  "CASO-037",
+        "title":  "DescalificaciÃ³n del evento principal y participaciÃ³n en paralelos",
+        "question":  "Â¿Una descalificaciÃ³n del evento principal impide jugar los eventos paralelos?",
+        "summary":  "Se responde que una descalificaciÃ³n se aplica al evento concreto; impedir otros eventos requiere una prohibiciÃ³n de jugar o de acceso al recinto.",
+        "notes":  "",
+        "answers":  "Bc a DQ applies to a single event unless it was worthy of banning from the venue || Yep a player would only be stopped from playing side events if they were banned from the game or venue. A DQ only pertains to the specific event they received the DQ for. (This is general information not about any specific DQ)"
+    },
+    {
+        "id":  "CASO-039",
+        "title":  "Sid ve desterrar Toys al mismo tiempo que Ã©l",
+        "question":  "Â¿Sid obtiene lore con Raging Storm si Ã©l y un Toy propio son desterrados a la vez durante el turno propio?",
+        "summary":  "Se afirma que todos se destierran simultÃ¡neamente, que Sid ve salir a los Toys con Ã©l y que su disparo puede resolverse cuando Sid ya no estÃ¡ en juego; se cita 7.4.3.",
+        "notes":  "",
+        "answers":  "Yes. Sid sees the toy(s) on the board get banished. || Raging Storm banishes all characters at the same time. || With raging storm there is no order to the banishment all happen at the same time so Sid sees them banished || A character doesnâ€™t have to be on the board in play to have an effect or ability in the bag. As long as something is seen that triggers the ability or effect it is added to the bag || 7.4.3. Whenever 1 or more cards would leave play, they first check whether any abilities would trigger from them and/or others leaving play with them. The triggered abilities â€œseeâ€ the other cards leaving the Play zone along with the source card of the triggered ability."
+    },
+    {
+        "id":  "CASO-040",
+        "title":  "Marcadores numÃ©ricos para cambios de fuerza o voluntad",
+        "question":  "Â¿Pueden usarse dados o fichas con +1, âˆ’1 o âˆ’3 para recordar modificaciones como las de Jessie, y quÃ© alternativas hay?",
+        "summary":  "Las respuestas niegan el uso de marcadores numÃ©ricos para esas modificaciones y proponen fichas no numÃ©ricas; justifican la restricciÃ³n por posibles confusiones con daÃ±o.",
+        "notes":  "ContinuaciÃ³n relacionada en 439â€“447, segÃºn agente del siguiente bloque: fichas de fuerza sin nÃºmeros, apilables.",
+        "answers":  "Correct. Dice may not be used for that purpose. || However you like, without using numerical tokens or written notes. || Random scraps of paper always do fine || One of my locals have tokens with  and a minus in the middle and they put them on them to remember a minus || Correct. Those are also not allowed. || For clarity of the game state. || Depends on the token. || Numerical tokens can be misleading using dice to indicate the strength can be confused for the damage taken by the character"
+    },
+    {
+        "id":  "CASO-042",
+        "title":  "Prepararse dentro de un desafÃ­o y recibir daÃ±o",
+        "question":  "Â¿Una habilidad que prepara al personaje antes del cÃ¡lculo de daÃ±o evita que reciba daÃ±o de desafÃ­o?",
+        "summary":  "Se responde que estar preparado no evita el daÃ±o de desafÃ­o y que el personaje estarÃ¡ preparado mientras recibe ese daÃ±o.",
+        "notes":  "Carta solo visible en un adjunto. El entorno temporal coincide con revelaciones del set 13, pero no basta para atribuirle un set; posible_set13 se mantiene falso por falta de identificaciÃ³n.",
+        "answers":  "no, pretty sure the \u0027ready\u0027 state doesn\u0027t stop damage from the challenge. ... lol, I thought my wife was asknig me this since she\u0027s sharing lorcana cards with me || The question was edited.  The character would be ready and taking damage."
+    },
+    {
+        "id":  "CASO-048",
+        "title":  "Fecha de actualizaciÃ³n documental y tinta boca arriba",
+        "question":  "Â¿CuÃ¡ndo se actualizarÃ¡n las reglas para documentar mantener boca arriba la carta entintada hasta el final del turno antes del DLC de Brasil?",
+        "summary":  "Se responde que no hay una fecha anunciada y que otros DLC ya se celebraron sin esa actualizaciÃ³n documental.",
+        "notes":  "268â€“269 especulan sobre la prÃ³xima actualizaciÃ³n por el set 13; la duda principal afecta a un procedimiento ya anunciado. No es una consulta explÃ­cita sobre set 14.",
+        "answers":  "Weâ€™ve had no announcement on any dates for when there will be an update || The DLCs in Dortmund and Indianapolis went fine without that document update."
+    },
+    {
+        "id":  "CASO-049",
+        "title":  "Dados para indicar el tamaÃ±o de la mano",
+        "question":  "Â¿EstÃ¡ permitido utilizar un dado para representar cuÃ¡ntas cartas quedan en la mano y quÃ© debe hacerse si se usa?",
+        "summary":  "Se aclara que el dado no estÃ¡ permitido como marcador de tamaÃ±o de mano; se propone pedir que se retire, explicar la norma y llamar al juez si es necesario. Varias respuestas insisten en que llamar al juez no es abusivo.\n\nSe responde que no, salvo que haya cambiado la regla; se aporta una imagen de la norma como soporte.",
+        "notes":  "Se fusionan las consultas de los Ã­ndices 362â€“383 y 1138â€“1140, que plantean la misma cuestiÃ³n de seguimiento de la mano.",
+        "answers":  "That is also for clarity of game state. || With a non numerical token it is okay || If they use a die on the 2 side on top of their hand they set on the table when there are 3 cards in that hand, that could go down as an Information and Communication Error. || That is the opposite of my meaning.\n\nDice are not allowed as hand markers because it could be an issue with clarity of game state. || Feels like this is directly related to yesterday\u0027s rule screengrab? â rules-discussionâ \nany numerical token is not allowed other than for damage(?) || Ask them not to do it. Point out that itâ€™s against the rules. Call a judge if they refuse. || If you inform a player that something is against the rules and they continue to do it then calling a judge doesn\u0027t make you an angle shooter. They don\u0027t get any real penalty until it is a correction given multiple times in the same event. || Calling a judge is not angle shooting, whatever that means. || angle shooting is using the rules to catch people in a situation that is technically wrong / against the rules but players do it either unintentionally or because bad play has become common. One way people might use it now is calling a judge every time thier opponent forgets ink is now face up until end of turn when played as the turn inking action. (editado)miÃ©rcoles, 24 de junio de 2026, 19: || Players should feel empowered to call a judge in any situation. You don\u0027t have to call a judge if you just want to remind your opponent yourself, but you aren\u0027t wrong for calling a judge to take care of it. || You are never a jerk to call a judge. If your opponent feels that way, that is on them. It is your RIGHT to call a judge and if you are in a situation you are not comfortable with, absolutely call the judge. If it makes things awkward, I get it, that isn\u0027t a comfortable position to be in and can be hard to overcome. But the alternative can be much much worse. || No, unless this rule has changed"
+    },
+    {
+        "id":  "CASO-051",
+        "title":  "QuiÃ©n autoriza un takeback aceptado por el rival",
+        "question":  "Â¿Pueden los jugadores acordar solos un takeback o debe intervenir el juez aunque el oponente estÃ© conforme?",
+        "summary":  "Se responde que el juez debe autorizar los takebacks y que la decisiÃ³n de llamar al juez no depende del consentimiento del rival.",
+        "notes":  "",
+        "answers":  "Don\u0027t let your opponent guilt you into breaking the rules. || Judges are required to authorise take backs. It is not a player responsibility. || I\u0027ve told other players this: never let your opponent decide if you\u0027re calling a judge. You can let them know that you\u0027re going to call a judge, but it isn\u0027t a group decision. It\u0027s never \"should we call a judge?\" Always \"I\u0027m calling the judge.\".\nThere have been lots of words written recently about how players are getting away with rules violations. I don\u0027t know how true or overblown those are, but if they are accurate, part of the reason is that players don\u0027t call judges when they should. Did a player who was caught breaking the rules in round 10 just make a mistake? Or have they been doing it all day and only now her caught? We won\u0027t know if they talk their opponents in rounds 1-9 out of calling a judge. || The rules require a judge to authorize a take back no matter how a player feels. \n\nCalling a judge is not always for bad things."
+    },
+    {
+        "id":  "CASO-052",
+        "title":  "One and Only contra personajes con varios nombres",
+        "question":  "Si One and Only elige a Woody \u0026 Buzz, Â¿destierra tambiÃ©n a Woody y Buzz individuales? Â¿QuÃ© ocurre al elegir a Woody o a The Madrigal Family?",
+        "summary":  "El canal afirma que se elige un personaje, no un nombre: elegir al equipo alcanza los nombres individuales que posee; elegir a Woody alcanza al equipo que contiene ese nombre. The Madrigal Family no equivale a poseer los nombres de todos los Madrigal.",
+        "notes":  "Las grafÃ­as Buzz \u0026 Woody y Woody \u0026 Buzz se conservan como menciones del canal; comprobar nombre oficial al validar. | Relacionado con el caso sobre nombrar cartas con Bruno, que usa una operaciÃ³n distinta.",
+        "answers":  "If you choose Woody \u0026 Buzz with this One and Only, it will banish all other Woodys, Buzzes, and Woody \u0026 Buzzes. || 5.2.6.2. A character with multiple names is still a single character.\nExample A: Flotsam \u0026 Jetsam â€“ Entangling Eels is a character that has three names. The card is a character named â€œFlotsam,â€ a character named â€œJetsam,â€ and a character named â€œFlotsam \u0026 Jetsam.â€\nExample B: Bruno Madrigal â€“ Undetected Uncle has an ability called You Just Have to See It that reads, â€œ! â€” Name a card, then reveal the top card of your deck. If it\u0027s the named card, put it into your hand and gain 3 lore. Otherwise, put it on the top of your deck.â€ If the active player names â€œFlotsamâ€ for the abilityâ€™s effect and then reveals either Flotsam or Flotsam \u0026 Jetsam from the top of their deck, the revealed card is a match and the active player puts it into their hand and gains 3 lore. If the player names â€œFlotsam \u0026 Jetsamâ€ and then reveals Flotsam from the top of their deck, that isnâ€™t a match, and the player doesnâ€™t put the revealed card into their hand and doesnâ€™t gain 3 lore. Flotsam is then put back on the top of that playerâ€™s deck. || No.\n\nYouâ€™re not choosing a name with this new card, youâ€™re choosing a character. These Team characters have all three names, simultaneously, at all times. || A character is a singular card that is a character In Play no matter how many names it has. 5.2.6.2 is the rule for that || No. || You donâ€™t choose a name when you play One and Only. You choose a character.\n\nIt would result in banishing all other characters named Woody and all other characters named Buzz Lightyear || Yes || Yes."
+    },
+    {
+        "id":  "CASO-054",
+        "title":  "Marcadores apilables de reducciÃ³n de fuerza sin cifras",
+        "question":  "Â¿Se pueden apilar marcadores con el sÃ­mbolo de fuerza y un signo menos para recordar reducciones de fuerza?",
+        "summary":  "Se responde que los sÃ­mbolos sin cifras son admisibles; se distingue de usar marcadores numÃ©ricos. El segundo envÃ­o es un duplicado tÃ©cnico reconocido por los participantes.",
+        "notes":  "Posible relaciÃ³n con discusiones de marcadores o dados en otros rangos.",
+        "answers":  "That would be within the rules || Numbers bad, symbols fine."
+    },
+    {
+        "id":  "CASO-055",
+        "title":  "Descartar Look What You\u0027ve Done como coste de Shift",
+        "question":  "Si se descarta Look What You\u0027ve Done para hacer Shift con Diablo, Â¿se juega la acciÃ³n antes o despuÃ©s de cubrir el Diablo base y usa la bolsa?",
+        "summary":  "El canal concluye que primero se paga el coste y se completa el Shift; despuÃ©s la habilidad disparada permite jugar la acciÃ³n desde el descarte. Se debate si la terminologÃ­a de acciones con efectos en vez de habilidades necesita aclaraciÃ³n documental.",
+        "notes":  "Existe reserva explÃ­cita sobre la redacciÃ³n del CRD; validar con reglas y notas de publicaciÃ³n definitivas. | La propuesta de hacer daÃ±o al Diablo base depende precisamente del orden resuelto.",
+        "answers":  "You discard to shift, place shift on top of base, then you can play look what you\u0027ve done || It\u0027s a triggered ability so it uses the bag. The card is played when the triggered ability resolves. || Justification for why it\u0027s not : 5.4.3\nJustification for why it is : the card does not work if it\u0027s not... || This feels like a fun time to remind everyone that actions don\u0027t use the bag. || Hopefully CRD makes some acknowledgement or example of how these discarded card play and interact when discarded as a cost. There was a whole slew of floodborns for the mechanic. || Actions \"effects\" don\u0027t use the bag, that is also what resolves when the action is played.\nI don\u0027t think \"During your turn, when you discard a card, you may play it from your discard.\" is part of what resolves when the action is played, hence my take on calling this part an \"ability\", specifically a triggered one, and calling the \"Deal 2 damage to chosen character.\" part of the actions its actual \"effect\".\n5.4.1.2. Actions are played from a playerâ€™s hand. When an action is played, its effect resolves immediately. An action is put into the Play zone while the effect resolves. After the effect resolves, the action is put into the playerâ€™s discard pile. An effect from an action doesnâ€™t enter the bag. (See 7.7, â€œBag.â€)\n\nAnd this also leads to the question of why those 2 parts were not separated by paragraph breaks like they are on Escape Plan or Sing Together Songs and like it\u0027s prescribed by :\n6.1.1.1. A card can have multiple abilities. These are normally separated by paragraph breaks as well as keywords or story names.\n\n(Also the Sing Together Keyword is defined as an \"ability\" in :\n8.12.1. The Sing Together keyword represents a static ability [...]\nAnd this even though it appears only on Action cards despite what \"not an ability\" defenders might say about enforcing this :\n5.4.3. Effects â€“ Actions have effects rather than abilities\n) || I was mostly joking. This action clearly has a triggered \u003csomething\u003e to resolve, meaning the bag should be used."
+    },
+    {
+        "id":  "CASO-056",
+        "title":  "Repetir Look What You\u0027ve Done desde el descarte",
+        "question":  "Â¿Puede jugarse repetidamente Look What You\u0027ve Done porque vuelve al descarte al resolverse?",
+        "summary":  "Se responde que pasar de juego al descarte al terminar una acciÃ³n no es descartar una carta, por lo que ese movimiento no vuelve a disparar la condiciÃ³n.",
+        "notes":  "",
+        "answers":  "Going to the discard from play isnâ€™t discarding."
+    },
+    {
+        "id":  "CASO-058",
+        "title":  "Takeback de acciones agrupadas y origen de la polÃ­tica",
+        "question":  "Â¿Solicitar lore con tres personajes a la vez puede deshacerse como una sola jugada si no hay informaciÃ³n nueva? Â¿Desde cuÃ¡ndo existe esa polÃ­tica?",
+        "summary":  "Se acepta como una jugada agrupada mediante secuencia fuera de orden; se dice que ya estaba cubierto desde el anuncio inicial de la polÃ­tica y se sitÃºa ese anuncio en DLC Milwaukee, octubre de 2025.",
+        "notes":  "Verificar fechas histÃ³ricas solo si se decide documentar la cronologÃ­a; la duda prÃ¡ctica es el takeback de la jugada agrupada.",
+        "answers":  "yes, it is considered one play, an out-of-order sequence || Batched actions have been eligible for take backs since the policy was first outlined, as far as I recall || DLC Milwaukee || so around October 23rd 2025. || Posted in the discord 10/24:\n\nâ Disney Lorcana TCG Officialâ "
+    },
+    {
+        "id":  "CASO-062",
+        "title":  "Nombrar equipos con Bruno y cuÃ¡ntos personajes representan",
+        "question":  "Â¿QuÃ© nombres tiene un equipo al nombrar una carta con Bruno? Â¿Hamish, Hubert \u0026 Harris representa varios personajes?",
+        "summary":  "Se explica que un equipo sigue siendo un personaje con varios nombres. Nombrar Woody coincide con Woody o con su equipo; nombrar el equipo exige ese nombre completo. Se identifica una anomalÃ­a en la redacciÃ³n entonces vigente de Hamish, Hubert \u0026 Harris, que separarÃ­a sus nombres de forma inesperada.",
+        "notes":  "La observaciÃ³n de Hamish, Hubert \u0026 Harris es una interpretaciÃ³n de la redacciÃ³n histÃ³rica; requiere revisar el CRD vigente. | Relacionado con el caso One and Only, sin confundir elegir personaje con nombrar carta.",
+        "answers":  "All three || Then it would depend on what you named. Naming the team character would result in only the team character matching.\n\nNaming Woody would result in any Woody matching, and the team character. But not any Buzz Lightyear. || HHH is currently undefined because it seems to have three names.\n\nCharacters with multiple names are a single character that has three names. Each individual name, plus the combined name. || Due to a quirk in the rules, Hamish, Hubert, \u0026 Harris has three names:\n\"Hamish, Hubert,\"\n\"Harris\"\nand \"Hamish, Hubert, \u0026 Harris\"\nThis is probably not intended."
+    },
+    {
+        "id":  "CASO-063",
+        "title":  "Takeback de pasar turno y decisiones de final de turno",
+        "question":  "Â¿Puede deshacerse el pase de turno antes de que el oponente actÃºe? Â¿Cuenta como una jugada agrupada haber omitido una habilidad opcional de final de turno?",
+        "summary":  "El debate corrige respuestas iniciales restrictivas: se puede valorar deshacer el pase segÃºn informaciÃ³n y acciones posteriores, sin limitar lo que el jugador haga despuÃ©s. Pasar y resolver u omitir una habilidad de final de turno puede considerarse una jugada agrupada segÃºn los hechos; robar con Cinderella aporta informaciÃ³n y dificulta admitirlo. Se discute el posible uso para recuperar habilidades olvidadas.",
+        "notes":  "No presentar las respuestas iniciales 554â€“555 como conclusiÃ³n: se rectifican durante la conversaciÃ³n. | La resoluciÃ³n es condicionada a investigaciÃ³n y circunstancias, no una autorizaciÃ³n universal.",
+        "answers":  "Policy point of view, itâ€™s not allowed.\nBut I think itâ€™s depend on the Lore Guide to take or not the decision (after investigation) ? || Agree with @dihensoeur, I wouldn\u0027t allow it as it\u0027s no longer their turn and they want to change the board state by more than one action.\n\nIn a casual game, yeah you probably would allow it.\n\nSomething I\u0027m trying to drum into my locals is calling lore guides when someone wants to do a take back. As players are allowing take backs with multiple steps to happen which is no bueno. || There doesn\u0027t seem to be a restriction on takebacks just because the action you want to take back is passing you turn. The specific example of an ineligible takeback is waiting until your opponent has already taken an action. || A takeback is performed based on the action to takeback, not on the other potential actions that the player wants/could do. || if someone passes the turn... and then instantly is like, actually can we do a takeback\nThat sounds like a valid situation for taking back passing the turn. || Have reread the official docs I would agree with Alain here and allow for the take back of the pass turn || The idea is not \"Take back only one action to get the opportunity to do only one action\", as long as you asked to take back one action and it was allowed you can continue doing any number of legal game actions.\nIf however it was the reversed, like the player moved the character to a location, passed the turn and required a take back to finally not move it, the action of passing the turn would resonnably be allowed to take back but not the action to move the character. || Yep from my understanding take back has nothing to do with what they want to do after the take back. Player can say hey can you pause so I can call a judge. If they are still in the ready phase then asking for a take back of a end turn (as long as nothing happened on the end of turn phase) would most likely be granted. || Cinderella draws a card, so perhaps not the best example of just purely passing and resolving an ability.\n\nMaybe something like the Judy Hopps that readies a character. || But in all but the most unusual of circumstances, Iâ€™d probably consider that a batched action - people will usually pass and resolve in the same â€œmoveâ€. Of course, having multiple abilities to resolve would be less likely to be allowed a take back, but it all depends on how the actions were taken. || I would not say so. || Not really? Thereâ€™s not a whole lot of difference between the window for acknowledging Cindy and the window for allowing the take back.\n\nItâ€™s something to bear in mind, but I donâ€™t see much opportunity for abuse."
+    },
+    {
+        "id":  "CASO-064",
+        "title":  "Mr. Big con Bodyguard concedido por Powhatan\u0027s Staff",
+        "question":  "Â¿Dar Bodyguard a Mr. Big impide todos los desafÃ­os si el rival no tiene personajes capaces de desafiarlo?",
+        "summary":  "Se responde que no: Bodyguard obliga a desafiar al personaje Ãºnicamente si es posible.",
+        "notes":  "El autor dice next set en junio: alude al contexto de Set 13, no demuestra relaciÃ³n con Set 14.",
+        "answers":  "Doesnâ€™t work that way. || Bodyguard just means you have to challenge that character if possible b || Which is why giving an opponents bodyguard evasive was so good early in Lorcana history."
+    },
+    {
+        "id":  "CASO-065",
+        "title":  "Momento de la derrota por mazo vacÃ­o y victoria al final del turno",
+        "question":  "Â¿CuÃ¡ndo se comprueba la derrota por mazo vacÃ­o? Â¿Puede ganarse por llegar a 20 lore con una habilidad de final de turno antes de esa derrota? Â¿Importa vaciarse durante el turno rival?",
+        "summary":  "Se sitÃºa la derrota en la comprobaciÃ³n al terminar el turno del jugador, vinculada a 3.4.2, sin depender de intentar robar ni empezar el turno vacÃ­o. Una habilidad de final de turno que alcanza 20 lore tiene una comprobaciÃ³n anterior que ya darÃ­a la victoria. Se debate cuÃ¡n explÃ­cita es la referencia documental.",
+        "notes":  "Las preguntas 584â€“600 tratan momento exacto y prioridad de comprobaciones; 694 repite la regla bÃ¡sica. | 601 es un ejemplo propuesto para un cuestionario y no otra duda independiente.",
+        "answers":  "This part, at least, I think is clear because whatever generated that winning lore will have its own GSC. 3.4.2 adds an extra GSC || 1.8.4 || Kinda addresses the win and loss || Not sufficient || Thats why I said not sufficient - just putting out there what item would have covered it || But agree with Kujo, 3.4.2 is when turn actually ends and loss occurs || In that regard, you won\u0027t have won or lost ever || It is one of them only || Itâ€™s not possible to win and lose at the same time. The only GSC that can generate a game loss occurs after the end of turn phase. Itâ€™s not possible for that GSC to also generate a game win, because the effect that brought a player to 20 lore would already have been followed by a GSC that registered the win. || I feel it is explicit. Did you want it to reference 3.4.2 in the GSC descriptor?\n\nOtherwise, the GSC states specifically when the player\u0027s turn ends, not the End of Turn phase. 3.4.2 is exactly when a player\u0027s turn ends. || thanks for the clarification! I dont see how that is needed in any way. However, if there is room for interpretation, as you are showing, maybe it is worth a look at. || You lose the game if you end your turn with an empty deck.\n\nStarting your turn is irrelevant, and attempting to draw cards is irrelevant."
+    },
+    {
+        "id":  "CASO-066",
+        "title":  "Cambiar el mazo entre partidas o rondas en sellado y draft",
+        "question":  "En prerelease, sellado y draft, Â¿se pueden cambiar cartas entre partidas o solo entre rondas?",
+        "summary":  "Se cita la prÃ¡ctica de eventos secundarios DLC de permitir cambios entre rondas por tiempo y se afirma que, al faltar una norma escrita entonces, debe acordarlo el Ã¡rbitro principal y/o la organizaciÃ³n.",
+        "notes":  "Es una respuesta sobre prÃ¡ctica y falta de guÃ­a en aquella fecha; requiere revisar polÃ­tica vigente.",
+        "answers":  "Last time I asked this question they said at DLC side events, they were allowing players to alter their decks between rounds but not between games as a consideration for time in the round. || Addendum: ultimately it is up to an agreement between the Lead Lore Guide and/or the Tournament Organizer as there currently aren\u0027t any written guidelines on the subject."
+    },
+    {
+        "id":  "CASO-067",
+        "title":  "Reparto de premios, compensaciones externas y resultados pactados",
+        "question":  "Â¿QuÃ© repartos de premios son legales: pagar media alfombrilla, conceder por premios, vender Golden Mickey y compartir valor, o decidir al dado?",
+        "summary":  "Se distingue repartir premios disponibles de aÃ±adir dinero o bienes externos. Se rechazan concesiones a cambio de contraprestaciÃ³n y resultados decididos al azar. Se afirma que Premier Play no admite splits, que todos los jugadores restantes deben aceptar un reparto cuando corresponde y que se puede repartir solo parte de los premios.",
+        "notes":  "605 contiene cuatro supuestos relacionados; conservarlos como subescenarios para la futura validaciÃ³n. | La primera interpretaciÃ³n sobre la alfombrilla se aclara con el criterio de pertenencia al premio, no por tratarse de dinero o sobres.",
+        "answers":  "Example 1 I would say thatâ€™s not a split. \n\nExample 2 isnâ€™t splitting \n\nExample 3 \nSplitting isnâ€™t allowed at a DLC level, it specifically states that spiltting canâ€™t happen at premier events.\n\nExample 4 \nRolling a dice would be an improper match result. || Splitting isn\u0027t about value. It\u0027s about prizing. A playmat cannot be split. (Scissors notwithstanding) || 1 isnâ€™t split the prize pool available in the tournament isnâ€™t getting one person to pay the other person the secondary value of the prize pool || A spilt would be player A takes the playmat while player B takes the packs || Additionally 2 and 4 are not allowed 2 is could potentially be coercion of Iâ€™ll scoop in return for X and 4 is an improper match result || 2 and 4 are definitely improper match results. || It\u0027s not about packs or money but about those being part of the prizing. If there was money as part of the prizing and the agreed upon split was one player takes the money and the other takes the products, that would be valid. || No it would be say between second and first place on the line there is 15 packs and a playmat the split can be Iâ€™ll take 2 packs and the mat and you get the rest of the packs since thatâ€™s whatâ€™s available in the prize pool || You canâ€™t offer anything external to the prize pool in the spilt || Also for example 3, in addition to splitting not being allowed in Premier Play events, it is not possible during a match where there\u0027s a Mickey on the line because \"All remaining players must voluntarily agree to the split\".\nOnly if all 16 players agreed on splitting all the Top8 and later prizes (and not at a DLC) could these kinds of splits be allowed.\n(And the hardest prize to split in this case is the World\u0027s Invite anyway.) || Splits can also account only for part of the prizing - players can agree to split packs but still play out for a mat, for example."
+    },
+    {
+        "id":  "CASO-068",
+        "title":  "Mover daÃ±o con Cheshire sin destino legal",
+        "question":  "Â¿Puede Cheshire - Inexplicable quitarse 2 daÃ±os al hacer Boost si no hay personaje rival al que moverlos?",
+        "summary":  "Se explica que mover daÃ±o es un solo evento entre un origen y un destino: sin destino legal no se produce el movimiento ni se retira el daÃ±o de origen. Se cita 1.9.2.4.",
+        "notes":  "",
+        "answers":  "1.9.2.4. Moveâ€“ Removing (1.9.2.3) a number of damage counters from one character or location and putting (1.9.2.2) them on another character or location as a result of an effect that moved damage to them. Damage moved from a character or location canâ€™t be moved back onto that character or location by the same effect.\n\n? || The key is that itâ€™s one single event. It must be from one to another, else itâ€™s not â€œmovingâ€."
+    },
+    {
+        "id":  "CASO-070",
+        "title":  "Entrar con daÃ±o y entrar agotado: relaciÃ³n con reemplazos",
+        "question":  "Â¿Hay que aplicar tanto entrar con daÃ±o como entrar agotado o se elige solo uno como efecto de reemplazo?",
+        "summary":  "Se responde que los efectos de entrar en juego ya no son efectos de reemplazo.",
+        "notes":  "",
+        "answers":  "Enters effects are no longer replacement effects."
+    },
+    {
+        "id":  "CASO-071",
+        "title":  "Orden y visibilidad de cartas enviadas al fondo por Under the Sea",
+        "question":  "Â¿QuiÃ©n ordena las cartas enviadas al fondo por Under the Sea y puede el jugador afectado conocer ese orden?",
+        "summary":  "Se afirma que el jugador que resuelve Under the Sea elige el orden y que el afectado puede verlo; las cartas nuevas que acceden al fondo no cambian ese procedimiento.",
+        "notes":  "Menciona cartas de un nuevo set como motivo de interÃ©s, pero la duda versa sobre un procedimiento existente.",
+        "answers":  "1) yes\n2) yes || Being able to draw off the bottom of the deck doesnâ€™t change anything about how UTS resolves, though. How it resolves now was always the case."
+    },
+    {
+        "id":  "CASO-072",
+        "title":  "Fundas legales y opacidad",
+        "question":  "Â¿QuÃ© requisitos deben cumplir las fundas en torneo y sirven las de reverso translÃºcido?",
+        "summary":  "Se recomienda usar reversos totalmente opacos y fundas en buen estado. Se aclara que matte describe textura y no garantiza opacidad; se comentan marcas y alternativas con doble color.",
+        "notes":  "Separar requisitos de torneo de recomendaciones comerciales al preparar material de wiki.",
+        "answers":  "I usually purchase Dragon Shield and a dark color or double matte sleeves to make sure not see through. || I\u0027m not aware of any \u0027standard\u0027 but I do remember hearing that you can\u0027t have transparent-backed ones for tournaments? But yea, like Danxor, I prefer/love Dragon Shield https://www.dragonshield.com/collections/card-sleevesDragon ShieldCard SleevesWhether you wield the spells of Magic: The Gathering, battle with Pokemon, or duel in the realms of Yu-Gi-Oh!, our high quality card sleeves are crafted to endure the fiercest adventures, ensuring your deck emerges unscathed and victorious. Elevate your game experience with card sleeves in various colors, textures and || https://www.dragonshield.com/products/blood-red-non-glare-matte-sleeves\n\nthis is my goto right now. The non-glare line seems more durable and lasts longer for me.Dragon ShieldBlood Red - Non-Glare - Matte SleevesThe Non-Glare front makes Matte Non-Glare Blood Red easy on the eyes, giving you a softer visual experience while playing â€“ even under harsh lighting. This unique twist on our fan-favorite Matte sleeves combines Matteâ€™s legendary durability with a new take on itâ€™s beloved shuffle-feel. Give Non-Glare a try and you may || Yeah. Sleeves need to be fully opaque on the back. And then in good condition || There are \"matte sleeves\" with opaque back and \"matte sleeves\" with non-opaque back. || well, matte refers to the texture on the back of the sleeve, vs glossy/smooth || Yeah the Matte Dual sleeves have 2 colors. One on the back and one on the inside. || Yeah. The Dual sleeves are always a safe buy because the inner color fixes any issues of opaqueness || The Dualâ€™s from Dragon Shield are the only sleeves I use for my decks. Totally agree they help remove most of the concern about opaqueness. || I used to have issues with the dual mattes when they first came out because of inconsistencies on the edges, but since they\u0027ve been around a while they\u0027ve gotten pretty consistent.\n\nTinted back inner sleeves help, if you want to use lighter color sleeves that you can kinda see through.  I hate them personally, but some people swear by them."
+    },
+    {
+        "id":  "CASO-073",
+        "title":  "Enlace here roto en un documento",
+        "question":  "Â¿CuÃ¡l es el destino del enlace here que no funciona en un documento?",
+        "summary":  "Se recupera desde una versiÃ³n anterior el enlace de YouTube https://www.youtube.com/watch?v=q9ATaPv3auE.",
+        "notes":  "La captura del Ã­ndice 688 es necesaria para identificar el documento y el contexto exactos; el destino sÃ­ consta en texto.",
+        "answers":  "Looking at an older version of the document, I see that the link points to https://www.youtube.com/watch?v=q9ATaPv3auE || GitHub to the rescue!"
+    },
+    {
+        "id":  "CASO-075",
+        "title":  "Bodyguard concedido y opciÃ³n de entrar agotado",
+        "question":  "Â¿Por quÃ© Woody con Bodyguard de Bo Peep no entra igual que con Powhatan\u0027s Staff?",
+        "summary":  "Se afirma que ganar Bodyguard no concede por sÃ­ mismo entrar agotado; Powhatan\u0027s Staff aÃ±ade especÃ­ficamente esa opciÃ³n.",
+        "notes":  "La pregunta remite a un hilo anterior que puede aparecer en otro rango.",
+        "answers":  "Gaining Bodyguard doesnâ€™t allow a character to enter exerted. The staff specifically adds that extra ability."
+    },
+    {
+        "id":  "CASO-076",
+        "title":  "Duo Shift sobre Morph o sobre un Ãºnico equipo",
+        "question":  "Â¿Basta un solo Morph para Duo Shift? Â¿Puede usarse un Ãºnico Mickey \u0026 Minnie como sus dos bases?",
+        "summary":  "Se responde que hacen falta dos personajes: Morph puede sustituir a una base y dos Morph pueden sustituir ambas. Un equipo sigue siendo un solo personaje, aunque puede aportar una de las bases. Se separa el requisito de dos personajes del coste de 0 tintas y se cita una aclaraciÃ³n atribuida a Kyle.",
+        "notes":  "El canal reconoce que el texto recordatorio no era claro y espera definiciÃ³n en el CRD; la interpretaciÃ³n se presenta apoyada en aclaraciÃ³n verbal. | Las imÃ¡genes 716 y 723 apoyan el debate, pero la pregunta y conclusiÃ³n se recuperan del texto.",
+        "answers":  "Not a single one, but he can replace one of them. || Or both, if you have two Morphs. || The duo shift has a cost listed of 0 Ink. || Duo shift though requires two characters. As hard as lil baby morph tries. He is still only 1 blob || Butâ€¦ itâ€™s not phrased that way. || It just requires two characters, but not as a cost. || Duo shift just like normal shift has a cost. In case of this card itâ€™s 0 Ink. || And that is why Morph can be 1 of the two characters. || I donâ€™t disagree that the reminder text is unclear.\n\nBut weâ€™ve been specifically told Duo requires two characters, which will presumably be made clear by the actual rules. || He does not. || Jei. I hear what youâ€™re saying.\n\nWeâ€™ve been told specifically by Kyle that it doesnâ€™t work that way. || Well you can shift Mickey/Minnie on it. Just it doesnâ€™t fully fulfill the Duo Shift requirements on its own. || No, teams are still one character. || You could use one as part of the Duo shift, of course. || Yip. And they can all go into the inkwell when theyâ€™re banished"
+    },
+    {
+        "id":  "CASO-077",
+        "title":  "Bambi entrando agotado y carta aÃ±adida por Scrooge",
+        "question":  "Â¿Se dispara Bambi si entra agotado por Horned King o Simba y Scrooge le pone una carta debajo?",
+        "summary":  "Se contesta que no y se aclara que Bambi entra sin cartas debajo; la habilidad de Scrooge coloca la carta despuÃ©s, al resolverse desde la bolsa.",
+        "notes":  "Versiones exactas de las cartas no constan por nombre; el autor solo identifica color Ã¡mbar.",
+        "answers":  "No. || Also, Bambi enters play without any cards under him. Later, during bag resolution, Scroogeâ€™s ability resolves and puts a card under Bambi.(And Bambi is male, btw.)"
+    },
+    {
+        "id":  "CASO-078",
+        "title":  "Cantar una canciÃ³n revelada por Dash Parr",
+        "question":  "Â¿Puede agotarse a otros personajes para cantar la canciÃ³n revelada por Dash Parr - Super Fast?",
+        "summary":  "Se responde que sÃ­, porque al jugar una carta sin hacerlo gratis se pueden pagar costes alternativos.",
+        "notes":  "739 identifica la carta con enlace de Ravensburger a set13. | 760 pide un vÃ­deo didÃ¡ctico y es contexto, no una duda distinta.",
+        "answers":  "umm... I think that yes? Because is like a small window of time where that card acts like being in your hand, but I prefer that another person confirms it || Yeah, i want to say yes because its still asking  you to pay costs and so isn\u0027t a replacement effect which changed the funky things you could do with songs before but also getting confirmation would be great || Yes, because you can pay alternate costs when playing a card not being played for free."
+    },
+    {
+        "id":  "CASO-079",
+        "title":  "Hades y Vine Pod para jugar personajes de equipo",
+        "question":  "Â¿Pueden Hades o Vine Pod jugar un equipo al desterrar a uno de sus personajes individuales?",
+        "summary":  "Se afirma que sÃ­, usando Pocahontas \u0026 Meeko como ejemplo: el equipo tambiÃ©n posee los nombres individuales.",
+        "notes":  "",
+        "answers":  "yes because Pocohantas and Meeko have that name plus Pocohantas plus Meeko. So banishing either of those two would grant you the ability to play the team"
+    },
+    {
+        "id":  "CASO-080",
+        "title":  "Fragile as a Flower sobre un personaje ya agotado",
+        "question":  "Â¿Se puede elegir un personaje ya agotado para Fragile as a Flower?",
+        "summary":  "Se responde que sÃ­ si su coste es 2 o menos; el efecto posterior no se presenta condicionado a if you do.",
+        "notes":  "La ediciÃ³n de Fragile as a Flower no se determina en estos mensajes.",
+        "answers":  "Yup. As long as itâ€™s cost 2 or less. || Yea itâ€™s not conditional â€œif you do,â€ or something"
+    },
+    {
+        "id":  "CASO-082",
+        "title":  "Habilidades que pueden usarse mientras el personaje se seca",
+        "question":  "Â¿El secado impide pagar tinta para usar una habilidad? Â¿Por quÃ© Hamm debe esperar y Willow puede actuar el mismo turno?",
+        "summary":  "Se explica que el secado afecta acciones de turno que agotan y costes o efectos que usan el sÃ­mbolo de agotar; una habilidad cuyo coste no contiene ese sÃ­mbolo puede usarse mientras se seca.",
+        "notes":  "ComparaciÃ³n derivada del caso 753, pero puede formularse sin identificar aquella carta.",
+        "answers":  "Drying affects any turn action that requires exerting, and any cost or effect that uses the exert symbol ()\n\nCosts that donâ€™t include  can be used while drying. || Effectively, yes"
+    },
+    {
+        "id":  "CASO-084",
+        "title":  "Nombres inapropiados al registrar un mazo",
+        "question":  "Â¿Hay lÃ­mites para nombres de mazo con dobles sentidos al inscribirse en un evento oficial?",
+        "summary":  "Se responde que el nombre debe cumplir el cÃ³digo comunitario y las reglas de torneo; no consta una decisiÃ³n concreta sobre circle herc.",
+        "notes":  "La respuesta general no equivale a resoluciÃ³n del nombre concreto.",
+        "answers":  "you have to comply with the community code and tournament rules"
+    },
+    {
+        "id":  "CASO-086",
+        "title":  "Temporary Shift cubierto por otra carta",
+        "question":  "Â¿La carta con Temporary Shift vuelve a la mano si otra carta se desplaza encima y tapa su texto? Â¿Es un efecto aplicado o una habilidad retrasada?",
+        "summary":  "Se responde que sigue volviendo a la mano si permanece en la zona de juego, aunque estÃ© cubierta; se trata de una habilidad disparada retrasada que llega a la bolsa al final del turno. Se remite a la definiciÃ³n de Temporary Shift del CRD 2.2 y a notas del set.",
+        "notes":  "Comprobar la redacciÃ³n definitiva y el objeto exacto que vuelve al validar.",
+        "answers":  "That information will be in the \"Temporary Shift\" definition, under \"Shift\", under \"Keyword Abilities\". || In the CRD 2.2 || In the meantime, we do have Live Action Kyle, as well as the set notes, saying that as long as the Temp Shift card is still in the play zone, it goes back to your hand, even if covered by another card. || Which lines up exactly with expectations from the reminder text, at least. || Why? Face up cards are public knowledge, even if covered up. || It\u0027s still face up, it\u0027s just under a card || \"At the end of your turn, ...\" indeed creates a Delayed Triggered Ability (like on Gruesome and Grim, or Candy Drift). That ability goes in the bag at the end of the turn no matter what."
+    },
+    {
+        "id":  "CASO-087",
+        "title":  "Elinor al final del turno y Run Away de Rex",
+        "question":  "Si Elinor destierra a Rex con Coordinated Efforts al final del turno, Â¿sigue siendo durante mi turno a efectos de Run Away?",
+        "summary":  "Se responde que sÃ­: la fase de final de turno aÃºn pertenece al turno y se cita la secciÃ³n 3.4 del CRD.",
+        "notes":  "",
+        "answers":  "Yes, the \"End-of-Turn\" during which abilities that trigger \"At the end of your turn\" trigger and resolve, is a Phase of your turn and still \"During your turn\".\nSee \"3.4. End-of-Turn Phase\" section from the CRD."
+    },
+    {
+        "id":  "CASO-088",
+        "title":  "Potato Shift: estado seco sobre Morph y sobre un Potato reciÃ©n jugado",
+        "question":  "Â¿Potato Shift sobre un Morph seco entra seco? Â¿Preparar un Potato jugado este turno permite que el personaje con Potato Shift entre seco?",
+        "summary":  "Primero se afirma que sobre Morph entra secÃ¡ndose, pero se corrige citando 8.10.4: hereda el estado del personaje. Se reconoce una posible ambigÃ¼edad de 8.10.8.6. Sobre un Potato jugado ese mismo turno entra secÃ¡ndose aunque se prepare.",
+        "notes":  "800â€“806 son discusiÃ³n interpretativa de la redacciÃ³n del CRD; la afirmaciÃ³n inicial de800 es cuestionada en802â€“806. | No confundir estar preparado con estar seco. | Posible vÃ­nculo con casos anteriores al Ã­ndice800 sobre variantes de Shift.",
+        "answers":  "If you play a Potato Shift card on a Morph it comes into play drying, regardless of how long the Morph has been in play, because Morph is not an item named Potato. || Not quite. 8.10.4 catches it. || 8.10.4.If a shifted character is put on top of a dry character, the shifted character enters play dry. If a shifted character is put on top of a drying character, the shifted character enters play drying. || Almost certainly not. But I see what you mean. || Practically speaking, this is unlikely to be the intent. This is just pointing out something to be updated for CRD v2.2.1\n(and to give time to prepare answers for when people start asking this as a legitimate question) || No, the Shift is not dry.\nFrom the Comprehensive Rules:\n8.10.8.6. Potato Shift means â€œIf you have an item in play named Potato, you may play this character by paying their Potato Shift cost instead of their ink cost. If you do, put this card on top of an item you have in play named Potato.â€ If the character is put on top of an item named Potato and that item has been in play since the beginning of its playerâ€™s turn, then the character enters dry. Otherwise, the character enters drying. (editado)viernes, 24 de julio de 2026, 15:"
+    },
+    {
+        "id":  "CASO-089",
+        "title":  "DaÃ±o infligido y recibido tras aplicar Resist",
+        "question":  "Â¿El daÃ±o reducido a cero sigue considerÃ¡ndose infligido? Â¿QuÃ© daÃ±o reproduce Mulan y cÃ³mo se distinguen daÃ±o base, infligido y recibido?",
+        "summary":  "Se sostiene que el daÃ±o base sigue siendo infligido y los modificadores determinan el daÃ±o recibido; se cita1.9.5 y su ejemplo. La explicaciÃ³n de863 se corrige expresamente en865: Resist modifica el daÃ±o recibido procedente de un efecto que inflige daÃ±o. Se interpreta que Mulan reproduce el daÃ±o previo a la reducciÃ³n.",
+        "notes":  "La variante hipotÃ©tica de853 sobre modificadores positivos no recibe una respuesta especÃ­fica. | El canal discute cambios de reglas ya publicados en CRD2.2; no implica Set14. | No se deben reutilizar todas las formulaciones del debate como si fueran compatibles entre sÃ­.",
+        "answers":  "Only when the damage is changed to zero by modifiers. || 1.9.5 is the relevant section || 1.9.5. If a character or effect would deal damage and that damage is reduced to 0 when modifiers are applied, the character or effect is still considered to â€œdealâ€ damage. If a character or location is dealt damage and that damage is reduced to 0 when modifiers are applied, the character or location â€œtakesâ€ no damage. \n\nExample: A player has Merida â€“Formidable Archer in play. Merida has the ability Steady Aim that reads, â€œWhenever one of your actions deals damage to an opposing character, deal 2 damage to that character.â€ The player plays Smash, an action that has the effect, â€œDeal 3 damage to chosen character.â€ The player chooses Namaari â€“ Resolute Daughter, a character with Resist +3. Smash deals 3 damage,but Namaari takes 0 damage because of Resist +3. Because Smash is still considered to deal damage, Meridaâ€™s Steady Aim triggered ability occurs and is added to the bag. || so Deal is the damage you are throwing at the character and take, the damage counters that will be added after going through Resist || for Mulan to continue working as before, it should say \"When this character challenges an opposing character, dealt the same damage taken by the opposing character to another two chosen characters\". || I mean, the change was intentional, so itâ€™s not going to be errataâ€™d || Itâ€™s easier to parse if you keep it in the present tense, to avoid mixing up â€œdealt byâ€ and â€œdealt toâ€.\n\nThe base damage is the damage the effect/character deals.\n\nThen modifiers apply.\n\nThen the total damage is the damage the chosen character (etc) takes. || â€œDealt toâ€ is effectively retired language. Itâ€™s replaced entirely by â€œtakesâ€. || Not exactly.\n\nâ€œDealt toâ€ is just â€œtookâ€ from an effect that â€œdealsâ€. Itâ€™s not really its own thing. || Itâ€™s more accurate to think of it as Resist modifying the damage that the effect deals, which changes the amount of damage that is taken.\n\nItâ€™s the input that matters for Resist. It doesnâ€™t have its own special output. || No, youâ€™re right, that was poorly written.\n\nThink of it as Resist modifies the damage taken, but only from effects that deal it in the first place.\n\nItâ€™s still the input that determines whether Resist modifies the damage."
+    },
+    {
+        "id":  "CASO-093",
+        "title":  "Lilo â€“ Bundled Up con Resist y daÃ±o reducido a cero",
+        "question":  "Â¿Se consume la protecciÃ³n de Lilo â€“ Bundled Up si Resist reduce a cero el daÃ±o que recibirÃ­a?",
+        "summary":  "Se responde que no recibe daÃ±o y, por tanto, no se consume su efecto.",
+        "notes":  "",
+        "answers":  "If a character or location is dealt damage and that damage is reduced to 0 when modifiers are applied, the character or location â€œtakesâ€ no damage. || No. She doesn\u0027t \"take\" damage, so her effect isn\u0027t used."
+    },
+    {
+        "id":  "CASO-094",
+        "title":  "Responsabilidad de anunciar Source of the Vine",
+        "question":  "Â¿QuiÃ©n debe recordar y comunicar la habilidad de Source of the Vine al buscar lore el rival? Â¿Puede su controlador ganar lore por asumir que el rival no pagÃ³?",
+        "summary":  "Se indica que ambos jugadores deben resolver correctamente habilidades obligatorias, con responsabilidad principal del controlador. No puede suponerse que el rival rehÃºsa pagar sin informarle ni comprobar que conoce la elecciÃ³n.",
+        "notes":  "",
+        "answers":  "Itâ€™s your ability, if you have the item in play.\n\nIt is both playersâ€™ responsibility to correctly resolve mandatory abilities, but itâ€™s primarily down to the owner of the ability.\n\nAnd no, you canâ€™t just assume the opponent declined to pay and gain the lore without telling anybody or making sure they were aware."
+    },
+    {
+        "id":  "CASO-095",
+        "title":  "John Smith: desafÃ­o de un personaje que ya abandonÃ³ el juego",
+        "question":  "Con John Smith agotado, si otro personaje desafiÃ³ y fue desterrado, Â¿se gana lore al final del turno porque ninguno de los personajes actuales desafiÃ³?",
+        "summary":  "Se interpreta que se comprueba si un personaje desafiÃ³ durante el turno, aunque ya no estÃ© en juego; se compara con otras comprobaciones histÃ³ricas. No se ganarÃ­a ese lore.",
+        "notes":  "El autor prepara un cuestionario; la pregunta principal es una duda real de interpretaciÃ³n, no una investigaciÃ³n de hechos durante arbitraje. | La versiÃ³n de John Smith depende del adjunto876; el nombre parcial figura en877.",
+        "answers":  "Shouldn\u0027t work. It\u0027s like Devil\u0027s Eye Diamond and such. Even if the damaged character was banished, you\u0027d still be able to use their effect. || Challenged is also in the past tense. || I think most cards asking \"did X happen?\" look in the past tense and not current characters. Here\u0027s another example. || I think it\u0027s a context issue. You don\u0027t challenege/quest, the character does. || I take it as the card checks if a character challenged not if that character is still on the board. Just like if you somehow played a princess then banished it before the end of turn,.Cinderella would still let you ink and draw."
+    },
+    {
+        "id":  "CASO-096",
+        "title":  "Localizar reglas de protecciÃ³n de un solo uso y daÃ±o",
+        "question":  "Â¿DÃ³nde explica el CRD2.2 la interacciÃ³n de las reglas de daÃ±o con las protecciones de un solo uso?",
+        "summary":  "Se responde que no hay un apartado para cada interacciÃ³n; hay que aplicar el texto de la carta y las reglas generales de sus habilidades.",
+        "notes":  "No identifica una carta o situaciÃ³n concreta; conservar como consulta documental.",
+        "answers":  "There is no rule that talks about how the new damage rules interact with other abilities, because the rules donâ€™t work that way. The card text and rules for those abilities describe how they work in general, rather than listing specific interactions.\n\nIf you have a question about a particular interaction that you canâ€™t figure out from the CRD itself, you can always ask here or on the official discord."
+    },
+    {
+        "id":  "CASO-098",
+        "title":  "Belle bajo The Black Cauldron y jugarla al desterrar el objeto",
+        "question":  "Â¿Se puede jugar Belle que estaba bajo The Black Cauldron al desterrar el objeto y cuenta como jugada desde el descarte?",
+        "summary":  "Se responde que funciona y que Belle se juega desde el descarte; el bot identifica Belle â€“ Apprentice Inventor.",
+        "notes":  "Posible repeticiÃ³n de una consulta anterior; la formulaciÃ³n pregunta si ya habÃ­a respuesta.",
+        "answers":  "Yes it works, yes Belle is played from the discard"
+    },
+    {
+        "id":  "CASO-099",
+        "title":  "Activar Scream Canister sin objetivo para gastar tinta",
+        "question":  "Â¿Se puede activar Scream Canister sin personajes rivales elegibles para agotar tinta y permitir que Randall busque2 de lore?",
+        "summary":  "Se responde que se puede pagar el coste de agotar el objeto y2 de tinta, y luego resolver el efecto hasta donde sea posible.",
+        "notes":  "",
+        "answers":  "Yes, the cost to use ERRATIC SCREAMS is exert the item and pay 2 ink. Then you try to resolve the effect as much as possible."
+    },
+    {
+        "id":  "CASO-100",
+        "title":  "Windstorm y comprobaciÃ³n de destierro entre sus efectos",
+        "question":  "Â¿Windstorm destierra a Peter Pan y Tinker Bell antes de su daÃ±o adicional a Evasive? Â¿La palabra Â«thenÂ» crea una comprobaciÃ³n intermedia, a diferencia de Let the Storm Rage On con Diablo?",
+        "summary":  "Se afirma que se resuelve todo el texto antes de desterrar por daÃ±o; Peter Pan y Tinker Bell siguen presentes para el daÃ±o adicional. Â«ThenÂ» recuerda el orden escrito, sin crear un paso intermedio. Se usa Diablo con Let the Storm Rage On como comparaciÃ³n.",
+        "notes":  "",
+        "answers":  "Pan \u0026 Tink arenâ€™t banished until after the extra damage to Evasives is dealt. || Yup. || Yes, which is why Diablo draws. Because it is still in play when you draw from LTSRO. || A reasonable question. \"Then\" has no mechanical purpose, besides reminding a player that the card resolves in the order written."
+    },
+    {
+        "id":  "CASO-101",
+        "title":  "Orden de cartas de un personaje Shift o Boost al cambiar de zona",
+        "question":  "Â¿QuiÃ©n decide el orden de las cartas de un personaje con Shift o Boost cuando el efecto las mueve, y quÃ© reglas lo respaldan?",
+        "summary":  "Se responde que lo decide el propietario salvo que la carta diga lo contrario, citando1.4.3 y7.2.3; se menciona que TFS no cambia esa regla.",
+        "notes":  "Revisar si se fusiona con preguntas anteriores sobre ordenar cartas al fondo del mazo, como110 o667. | La pregunta no describe por sÃ­ sola el efecto que mueve las cartas; TFS solo aparece en la respuesta.",
+        "answers":  "The owner of the cards decides what happens to the cards, unless the card text specifically says otherwise, which TFS does not.\n\n1.4.3. \u0026 7.2.3."
+    },
+    {
+        "id":  "CASO-102",
+        "title":  "Cambiar cartas del mazo en una presentaciÃ³n o formato limitado",
+        "question":  "Â¿Se permite hacer sideboard entre rondas o entre partidas de una presentaciÃ³n, y quiÃ©n determina la norma aplicable?",
+        "summary":  "Se afirma que no hay reglas especÃ­ficas de sideboard de Limited y que las tiendas fijan su prÃ¡ctica. Se menciona como prÃ¡ctica habitual cambiar entre encuentros, no entre partidas; en el caso concreto el organizador prohÃ­be cambiar y se indica seguir esa norma.",
+        "notes":  "Fusionar con preguntas previas del mismo asunto, posiblemente602. | Separar prÃ¡ctica habitual de obligaciÃ³n reglamentaria al validar.",
+        "answers":  "Typically, LGSs will do what their player base is most used to.\n\nIn my experience, that tends to be sideboarding between matches, but not between games within a match. || There are no rules for sideboarding in Limited for Lorcana. Stores generally do what they want. || So you need to ask the person in charge at the event. || Then that is the rule."
+    },
+    {
+        "id":  "CASO-103",
+        "title":  "ClasificaciÃ³n Hunny: versiones distintas y reimpresiones",
+        "question":  "Â¿Las versiones antiguas de un personaje reciben Hunny porque una versiÃ³n nueva lo tiene? Â¿QuÃ© ocurre con la reimpresiÃ³n de Pooh â€“ Hunny Wizard si la app no estÃ¡ actualizada?",
+        "summary":  "Se explica que las clasificaciones pertenecen a cada carta concreta, no al nombre general del personaje. Para Pooh â€“ Hunny Wizard se afirma que la versiÃ³n original sÃ­ tiene Hunny por errata, aunque no se muestre actualizada en la app.",
+        "notes":  "La respuesta inicial Â«salvo errata en la appÂ» se matiza:969â€“970 dicen que existe clasificaciÃ³n aplicable pese a la app desactualizada. | No confundir versiones distintas de un personaje con reimpresiones de la misma carta.",
+        "answers":  "Unless there is an errata on the app so it shows hunny - no || Only characters that have Hunny in their sub type on the coloured bar are Hunny Characters || Best thing just filter the app by hunny classification and these are the cards outside of the blurple combo that can be included || Classifications are given to a specific card, not to a character name. || Piglet Cocoa Maker is not a reprint of an older version, so I\u0027m not sure I understand their confusion, lol. Either way, just because it\u0027s a character from Winnie the Pooh doesn\u0027t mean they are a Hunny character. || The original version isnâ€™t updated in the app, though. || Of course it isn\u0027t.\nWell, it does have the hunny classification, regardless."
+    },
+    {
+        "id":  "CASO-104",
+        "title":  "Shift sobre un personaje cuyo daÃ±o supera la nueva voluntad",
+        "question":  "Â¿El personaje reciÃ©n jugado con Shift es desterrado si hereda daÃ±o igual o superior a su voluntad?",
+        "summary":  "Se responde afirmativamente al supuesto de daÃ±o superior a la voluntad del nuevo personaje.",
+        "notes":  "La pregunta literal habla de mÃ¡s daÃ±o del que soporta; el umbral exacto debe comprobarse en validaciÃ³n.",
+        "answers":  "Yes."
+    },
+    {
+        "id":  "CASO-105",
+        "title":  "ProtecciÃ³n de Rapunzel frente a un atacante con fuerza cero",
+        "question":  "Â¿Un desafÃ­o con fuerza0 consume Act of Kindness de Rapunzel? Â¿Cambia si la fuerza era1 y se redujo a0 por Rhino?",
+        "summary":  "Se diferencia reducir fuerza de reducir daÃ±o: un personaje con fuerza0 no inflige daÃ±o inicialmente. Se cita5.3.6.2 y se concluye que no consume la protecciÃ³n.",
+        "notes":  "Complementa el caso de Lilo con Resist: la ausencia inicial de daÃ±o y la reducciÃ³n de daÃ±o no son el mismo supuesto.",
+        "answers":  "1.9.5. If a character or effect would deal damage and that damage is reduced to 0 when modifiers are applied, the character or effect is still considered to â€œdealâ€ damage.\n\nIf the character has a strength of 0 or less, then the character wouldn\u0027t deal damage in the first place, so 1.9.5 doesn\u0027t apply. || I would have thought that 1.9.5 was for things like resist, where there was damage but it was negated. The rhino example above would (in my mind) deal no damage because they had 0 strength and therefore there was no damage in the first place. I\u0027m likely wrong though! || Even with the addition of 1.9.5, 5.3.6.2 still applies:\n\n5.3.6.2. Strength  â€“ Primarily, how much damage this character deals in a challenge, though card effects can also reference this value. If a character would deal damage equal to its  and it has 0 or less , it deals no damage."
+    },
+    {
+        "id":  "CASO-107",
+        "title":  "Lilo jugada desde el descarte frente a The Horned King",
+        "question":  "Â¿CÃ³mo interactÃºa la entrada agotada de Lilo desde el descarte con The Horned King, en comparaciÃ³n con una interacciÃ³n de Merida mostrada en un vÃ­deo?",
+        "summary":  "Se responde que para Lilo no cambia el resultado: su propia disparada la hace entrar agotada, o lo hace solo The Horned King si se juega desde el descarte en la fase principal por otra vÃ­a.",
+        "notes":  "La comparaciÃ³n con Merida depende de un vÃ­deo no incluido; conservar el supuesto explÃ­cito sobre Lilo.",
+        "answers":  "Well, it doesnâ€™t make any difference for Lilo, since her only own effect is making her enter play exerted if you play her with her triggered ability. Or only THKâ€™s ability would be making her enter play exerted if you played her from the discard during your main phase."
+    },
+    {
+        "id":  "CASO-108",
+        "title":  "Orden para alterar la mano inicial",
+        "question":  "Â¿Puede un jugador esperar a que su rival termine de alterar la mano inicial antes de hacerlo Ã©l?",
+        "summary":  "Se cita2.2.2 y se indica que altera primero quien juega primero, y despuÃ©s quien juega segundo.",
+        "notes":  "Nace de una observaciÃ³n en retransmisiÃ³n; validar regla y posible gestiÃ³n de una secuencia incorrecta por separado.",
+        "answers":  "2.2.2 in the comprehensive states has the alter rules.\n\nThe order should be OTP alters first then OTD alters second."
+    },
+    {
+        "id":  "CASO-109",
+        "title":  "Rapunzel \u0026 Flynn Rider: jugar el personaje descartado durante un desafÃ­o",
+        "question":  "Â¿CuÃ¡ndo se juega el personaje descartado gracias a Rapunzel \u0026 Flynn Rider â€“ Unlikely Pair? Â¿Puede hacerse durante un desafÃ­o contra Dr. Bushroot?",
+        "summary":  "Se responde que se decide y juega al resolver la habilidad de la bolsa. Si el descarte se produce al desafiar a Bushroot, se puede jugar antes del paso de daÃ±o del desafÃ­o.",
+        "notes":  "",
+        "answers":  "Yes. || Using the standard procedure for resolving and ability from the bag. || Yes. If you discarded a character when challenging Bushroot, you would choose whether to play that character right then, before moving to the challenge damage step."
+    },
+    {
+        "id":  "CASO-110",
+        "title":  "Vine Pod y personajes con nombres dobles",
+        "question":  "Â¿Se puede desterrar un Mickey individual con Vine Pod para jugar Mickey \u0026 Minnie? Â¿CuÃ¡ntos nombres tiene un personaje doble y dÃ³nde se define?",
+        "summary":  "Se explica que el personaje doble tiene tres nombres y basta coincidir en uno. Antes de que se concrete la pregunta, otra respuesta describe desterrar Mickey \u0026 Minnie con reemplazo y continuar resolviendo Vine Pod. Se confirma que la regla de nombres dobles estÃ¡ en el CRD.",
+        "notes":  "1013 es una pregunta para aclarar el supuesto, no un caso independiente. | 1012/1014 responden a una variante distinta de la pregunta precisada en1015; no tratarlas como explicaciÃ³n directa de ese supuesto. | 1036 es una propuesta de documentaciÃ³n, utilizada como contexto del mismo tema.",
+        "answers":  "It works quite well. When Vine Pod banishes Mickey \u0026 Minnie that is replaced. The pod still goes on though. || Then you can play 1 character named Mickey, Minnie, or Mickey \u0026 Minnie. || It has 3 names, and you only need to match 1. || You can. They are right, it has three different names, and counts as all of them. || It is."
+    },
+    {
+        "id":  "CASO-111",
+        "title":  "Willow: quÃ© personaje consume la reducciÃ³n de coste",
+        "question":  "Â¿Puede elegirse a quÃ© personaje aplicar Willow o la consume el siguiente, incluso si se juega gratis mediante un efecto?",
+        "summary":  "Se responde que la consume el siguiente personaje jugado, incluso mediante un efecto gratuito como Just in Time; Â«nextÂ» no permite guardarla para otro posterior.",
+        "notes":  "",
+        "answers":  "Your boyfriend is correct. It is the first character. || \"the next\" is a shorter version of \"the first or the next after playing Willow\" || added note, this also includes character you would play for free through effects || so if willow is in play, and you play something like just in time and then play a character through just in time, it will still use up the willows effect"
+    },
+    {
+        "id":  "CASO-113",
+        "title":  "Iago con reducciÃ³n de fuerza y Challenger",
+        "question":  "Si Iago â€“ Stomping Mad recibeâˆ’2 de fuerza de Dellaâ€™s Moon Lullaby, Â¿desafÃ­a con3 o5 en el turno rival?",
+        "summary":  "Se suman todos los modificadores:0âˆ’2+5=3.",
+        "notes":  "",
+        "answers":  "0-2+5 = 3 || We calculate all modifiers."
+    },
+    {
+        "id":  "CASO-114",
+        "title":  "Entintar boca arriba: regla de torneo o regla general",
+        "question":  "Â¿Por quÃ©4.2.1.3 sigue indicando colocar tinta boca abajo si se utiliza entintado boca arriba?",
+        "summary":  "Se responde que el procedimiento de boca arriba sigue siendo una regla de torneo.",
+        "notes":  "",
+        "answers":  "It is still a tournament rule."
+    },
+    {
+        "id":  "CASO-115",
+        "title":  "Super Goof contra Peter Pan â€“ Never Land Prankster",
+        "question":  "Â¿Super Goof gana2 de lore al desafiar mientras Peter Pan â€“ Never Land Prankster estÃ¡ agotado?",
+        "summary":  "Se indica que la habilidad de Peter Pan es estÃ¡tica y deja de impedir lore en cuanto se declara legalmente un desafÃ­o. Super Goof gana los2 de lore.",
+        "notes":  "",
+        "answers":  "Peter Pan\u0027s ability doesn\u0027t go into the bag. However, the ability ends as soon as a challenege has legally been declared. So once Goofy Challenges anything, Peter Pan no longer prevents lore. || Yes."
+    },
+    {
+        "id":  "CASO-116",
+        "title":  "Pocahontas â€“ Peacekeeper retirada por Red Alert",
+        "question":  "Â¿Sigue vigente la prohibiciÃ³n de desafiar de Pocahontas â€“ Peacekeeper si Red Alert la retira del juego?",
+        "summary":  "Se responde que el efecto de su habilidad al jugarla no exige que permanezca en juego.",
+        "notes":  "",
+        "answers":  "\"when you play\" || Her effect does not require her to remain in play."
+    },
+    {
+        "id":  "CASO-117",
+        "title":  "Mover o colocar daÃ±o frente a Hercules â€“ Mighty Leader",
+        "question":  "Â¿Mover o colocar contadores con Cheshire Cat o Malicious, Mean and Scary evita el efecto de Hercules â€“ Mighty Leader?",
+        "summary":  "Se responde que mover o colocar contadores no es infligir daÃ±o, por lo que Hercules no afecta a esas operaciones.",
+        "notes":  "",
+        "answers":  "Moving and putting damage counters is not dealing damage. Herculesâ€™ ability does not affect those things."
+    },
+    {
+        "id":  "CASO-118",
+        "title":  "Cartas alteradas, Enchanted y cartas marcadas",
+        "question":  "Â¿Â«Altered artÂ» de TR3.11 incluye Enchanted? Â¿Pueden usarse si su grosor o curvatura permiten distinguirlas incluso enfundadas?",
+        "summary":  "Se diferencia una carta modificada fÃ­sicamente por alguien de una variante oficial Enchanted. Se afirma que las Enchanted pueden usarse siempre que no sean distinguibles; un problema de grosor o curvatura se tratarÃ­a como carta marcada.",
+        "notes":  "La frase amplia Â«all cards are legal as printedÂ» se debe interpretar en el contexto del arte y revisar; no valida la legalidad de formato de cualquier carta.",
+        "answers":  "That\u0027s in reference to someone adding a drawing to the card. For instance, I\u0027ve seen some versions of cards where they painted over the textbox to extend the art. It would also include drawing something in the art portion of the frame. || Enchanted cards are not altered art cards. Perhaps alternative art, but anything that looks like it would fresh from a pack is not altered. || All cards are legal as printed.\n\nBut the issue you are referring to is a marked card and is a different rule.\n\nLore Guides may determine an enchanted is illegal for the reason you state but not always || Yeah, enchanted cards are fine as long as they don\u0027t have any defects that make them distinguishable from any other card you are using. I stay away from foils because they tend to be a bit curled for me."
+    },
+    {
+        "id":  "CASO-119",
+        "title":  "Touch the Sky y la condiciÃ³n de elegir de Tod",
+        "question":  "Â¿Touch the Sky dispara Tod â€“ Knows All the Tricks aunque se determine quÃ© personaje mover sin usar Â«choose/chosenÂ»? Â¿CÃ³mo se relacionarÃ­a ese texto con Ward si permitiera mover rivales?",
+        "summary":  "Se responde que Touch the Sky no elige en sentido reglamentario, por lo que no dispara Tod. En la variante hipotÃ©tica sin Â«of yoursÂ», se afirma que Ward no impedirÃ­a mover al rival, aunque probablemente ese texto se cambiarÃ­a.",
+        "notes":  "1066 es una modificaciÃ³n hipotÃ©tica del texto de una carta existente, no una carta futura ni Set14.",
+        "answers":  "Touch the Sky does not choose. As you\u0027ve identified, it would need to say \"choose\" or \"chosen\". || Yes. But it would also probably get an errata to say â€œchosenâ€."
+    },
+    {
+        "id":  "CASO-120",
+        "title":  "Elegir un personaje propio con Ward",
+        "question":  "Â¿Ward impide que el propietario elija sus propios personajes?",
+        "summary":  "Se confirma que el jugador puede elegir sus propios personajes con Ward.",
+        "notes":  "",
+        "answers":  "yea"
+    },
+    {
+        "id":  "CASO-122",
+        "title":  "DÃ³nde localizar las guÃ­as de sets de GooglyGlimmers",
+        "question":  "Â¿DÃ³nde se publican actualmente las guÃ­as de sets del autor para consultar interacciones?",
+        "summary":  "El autor dice que no ha publicado guÃ­as para los Ãºltimos sets y que ha hecho vÃ­deos de interacciones.",
+        "notes":  "Consulta de disponibilidad de un recurso comunitario, no regla del juego.",
+        "answers":  "And Iâ€™ve been lazy the last few sets and not published one  Just been doing the videos for interactions, but I know thatâ€™s not easy to reference when needed"
+    },
+    {
+        "id":  "CASO-123",
+        "title":  "Violet sobre Violet: disparadas de ambas cartas y Merida",
+        "question":  "Con Violet Parr â€“ Super Resilient y Merida agotadas, Â¿jugar otra Violet mediante Shift dispara a Merida y a las dos Violet? Â¿La Violet de abajo ve jugar la nueva?",
+        "summary":  "Se responde que entran tres disparadas en la bolsa; la Violet nueva se juega y dispara a la anterior antes de cubrirla.",
+        "notes":  "1084 aporta una imagen explicativa, pero1085 conserva explicaciÃ³n textual.",
+        "answers":  "All three triggers will go into the bag. || The new Violet is played, triggering the old violet, then the old Violet is covered up."
+    },
+    {
+        "id":  "CASO-124",
+        "title":  "Tod y el lÃ­mite de dos veces si se rechaza prepararlo",
+        "question":  "Â¿Se consume una de las dos resoluciones de Tod si se elige no prepararlo, por ejemplo porque ya estaba preparado al recibir Education or Elimination?",
+        "summary":  "Se responde que rechazar el Â«mayÂ» no consume una de las dos veces y se cita6.1.13.2 sobre Â«onceÂ», aplicÃ¡ndolo por analogÃ­a a Â«twiceÂ».",
+        "notes":  "El propio canal reconoce que la cita regula Â«onceÂ» y extrapola a Â«twiceÂ»; comprobar soporte directo en validaciÃ³n.",
+        "answers":  "Twice, you \"may\" ready him, if you opt out of the \"may\" this does not count as one of the 2.\nNB : \"Twice\" is not technically covered in the CRD but \"Once\" is and \"Twice\" is considered to work the same way except you get 2 times the option. || 6.1.13.2. Once â€“ An ability with this duration can happen only a single time within the specified period listed after the word â€œonce.â€ The ability checks to see if it has fully resolved previously. If it has, it resolves with no effect. If a player has two or more abilities with the same name, each ability checks independently."
+    },
+    {
+        "id":  "CASO-125",
+        "title":  "Pool de cartas y rotaciÃ³n en Coconut",
+        "question":  "Â¿Coconut usa el pool de Infinity o Core y le afectan rotaciÃ³n o prohibiciones?",
+        "summary":  "Se afirma que Coconut tiene su propia legalidad y, en ese momento, todas las cartas son legales, sin rotaciÃ³n ni prohibiciones.",
+        "notes":  "Respuesta fechada13 de agosto2026; Coconut se identifica como beta en mensajes posteriores. No extrapolar automÃ¡ticamente su vigencia.",
+        "answers":  "Coconut has its own card legality rules, which are currently all legal. Rotation does not affect it, and there are no banned cards."
+    },
+    {
+        "id":  "CASO-126",
+        "title":  "Tiempo de ronda y organizaciÃ³n de eventos Coconut",
+        "question":  "Â¿QuÃ© lÃ­mite de tiempo y estructura se deberÃ­an usar en un evento Coconut de tienda?",
+        "summary":  "Se afirma que Coconut estÃ¡ en beta y no es competitivo, sin tiempo recomendado. Se aconseja juego abierto por mesas; se dice que RPH ofrece una lista de jugadores y no rondas suizas para este formato.",
+        "notes":  "Distinguir las recomendaciones personales de una norma oficial al validar.",
+        "answers":  "Coconut isnâ€™t competitive || So there is no advised time limit || Not only is it not competitive, it\u0027s not an official format, only a beta test. || Yeah I wouldnâ€™t host any format of Swiss event I would do it as open play the only thing the LGS does is help start pods || The format in RPH to host such an event doesnt use swiss if that helps || Just a player list"
+    },
+    {
+        "id":  "CASO-128",
+        "title":  "Robin Hood en Coconut: colecciÃ³n y nÃºmero de arcos externos",
+        "question":  "Â¿QuÃ© significa Â«collectionÂ» en Robin Hood â€“ Sneaky Sleuth? Â¿Hay que llevar varios Robinâ€™s Bow fuera del mazo?",
+        "summary":  "Se explica que se refiere a cartas fuera del mazo y que basta un arco adicional al del mazo, porque la habilidad solo actÃºa en el primer turno. Se recuerda que el formato estÃ¡ en beta.",
+        "notes":  "",
+        "answers":  "Cards that aren\u0027t in your deck. || It\u0027s also in beta. So I wouldn\u0027t expect anything until the official release. || just 1 in addition to the one in the deck || Yeah, unless you\u0027re expecting to have more than one \u0027first turn\u0027 in a game, one should be plenty."
+    },
+    {
+        "id":  "CASO-129",
+        "title":  "Ursula Coconut y Angel â€“ Underdog al cantar",
+        "question":  "Â¿Angel â€“ Underdog canta por4 o3 con Ursula Coconut?",
+        "summary":  "Se responde que canta por4.",
+        "notes":  "El mensaje no conserva el nombre completo ni el texto de Ursula Coconut; identificarlos al validar.",
+        "answers":  "Four"
+    },
+    {
+        "id":  "CASO-130",
+        "title":  "Dos John Smith â€“ Undaunted Protector frente a Red Alert",
+        "question":  "Â¿Dos John Smith â€“ Undaunted Protector se protegen entre sÃ­ hasta dejar Red Alert sin elecciones legales?",
+        "summary":  "Se responde que ambos John Smith son elecciones legales para Red Alert.",
+        "notes":  "",
+        "answers":  "There are two valid choices. || Yes."
+    },
+    {
+        "id":  "CASO-131",
+        "title":  "Jessie â€“ Lively Cowgirl: tinta pagada al cantar y reducciones",
+        "question":  "Â¿Jessie se dispara al cantar una canciÃ³n de coste superior a2 sin pagar tinta? Â¿Importa el coste impreso o lo realmente pagado, y desde cuÃ¡ndo se interpreta asÃ­?",
+        "summary":  "Se distingue Â«payÂ» de Â«costÂ»: cantar pagando0 dispara a Jessie aunque el coste sea mayor. Se da el ejemplo de Bullseye reducido a2 por Woody, se afirma que se sabÃ­a desde el lanzamiento y se extiende la explicaciÃ³n a Babyhead.",
+        "notes":  "",
+        "answers":  "Jessie says Pay 2 or less, not cost. Singing involved you paying 0 which is less than 2 and would trigger no matter the Card Cost of the song played. || Been known the whole time. Question has also been asked a lot. || Also things like if you play Bullseye for only 2 because you have Woody in play Jessie will trigger || for the record this is also the same with babyhead he also states pay not cost"
+    },
+    {
+        "id":  "CASO-132",
+        "title":  "RedacciÃ³n hipotÃ©tica de Milo: elegir antes de descartar",
+        "question":  "Si Milo dijera Â«puedes elegir un personaje rival; si lo haces, puedes descartarâ€¦Â», Â¿se podrÃ­a descartar sin un rival elegible?",
+        "summary":  "Se responde que no: si no se resuelve por completo elegir el personaje, no puede resolverse el segundo efecto secuencial condicionado.",
+        "notes":  "Este caso modifica expresamente el texto de Milo. No es el funcionamiento de la carta impresa ni una consulta de Set14. | Mantener separado del caso real1166â€“1171.",
+        "answers":  "No || If you canâ€™t fully resolve choosing a character, you canâ€™t resolve the second sequential effect."
+    },
+    {
+        "id":  "CASO-133",
+        "title":  "DecisiÃ³n arbitral en retransmisiÃ³n: Luisa con3 de daÃ±o sin otros personajes",
+        "question":  "Â¿QuÃ© ocurriÃ³ en Sailor contra Dillon del campeonato norteamericano y fue correcto impedir mover el daÃ±o de Luisa?",
+        "summary":  "Un participante relata que Luisa tenÃ­a3 de daÃ±o y no habÃ­a otros personajes de los que moverlo. Afirma que impedir mover el daÃ±o de Luisa fue incorrecto y que la decisiÃ³n no se apelÃ³.",
+        "notes":  "Es una afirmaciÃ³n del canal sobre una partida externa, no una verificaciÃ³n independiente del vÃ­deo. | Fusionar o enlazar con la consulta de reglas sobre Luisa del Ã­ndice118, conservando el incidente de arbitraje como variante.",
+        "answers":  "Yes. || The scenario was a Luisa with three damage with no other characters in play to move damage from.\n\nThe call was incorrect. The move off of Luisa should have been allowed.\n\nIt was not appealed."
+    },
+    {
+        "id":  "CASO-134",
+        "title":  "Ursula â€“ Voice Stealer sin personaje rival preparado",
+        "question":  "Â¿Ursula â€“ Voice Stealer permite jugar una canciÃ³n si el Ãºnico personaje rival ya estÃ¡ agotado?",
+        "summary":  "Se responde que no se puede elegir al personaje agotado con esa habilidad; el segundo efecto carece de referencia y no permite jugar una canciÃ³n.",
+        "notes":  "",
+        "answers":  "You canâ€™t choose an exerted character with her ability, so the second effect will resolve without a reference. It would not allow you to play a song."
+    },
+    {
+        "id":  "CASO-135",
+        "title":  "Milo: descartar obliga a devolver un personaje elegible",
+        "question":  "Â¿Puede Milo descartar sin devolver ningÃºn personaje? Si es el Ãºnico personaje en juego, Â¿debe devolverse a sÃ­ mismo?",
+        "summary":  "Se responde que Â«you mayÂ» cubre toda la oraciÃ³n: si se descarta, se debe devolver un personaje vÃ¡lido. Si solo estÃ¡ Milo, debe devolverse a sÃ­ mismo.",
+        "notes":  "Separar de la redacciÃ³n hipotÃ©tica de1149; aquÃ­ se discute el texto real.",
+        "answers":  "â€œYou mayâ€ covers the full sentence. If you choose to discard, you must bounce a valid chosen character. || Correct"
+    },
+    {
+        "id":  "CASO-136",
+        "title":  "Violet â€“ Learning New Powers y John Smith sin daÃ±o",
+        "question":  "Â¿Puede elegirse John Smith â€“ Undaunted Protector sin daÃ±o como origen del daÃ±o que Violet intenta mover? Â¿CambiarÃ­a si el texto exigiera un personaje daÃ±ado?",
+        "summary":  "Se responde que John Smith es una elecciÃ³n legal aunque no tenga daÃ±o. SerÃ­a distinto si el texto exigiera expresamente un personaje daÃ±ado.",
+        "notes":  "",
+        "answers":  "No.\n\nJohn Smith is a legal choice to remove damage from even though he is undamaged. || Yeah, that would make the difference"
+    },
+    {
+        "id":  "CASO-137",
+        "title":  "Robinâ€™s Bow externo devuelto al mazo en Coconut",
+        "question":  "Â¿Robinâ€™s Bow traÃ­do desde la colecciÃ³n puede entrar en el mazo mediante Youâ€™re Welcome?",
+        "summary":  "Se responde que, una vez en juego, se comporta como cualquier otro objeto y puede ir al mazo.",
+        "notes":  "Relacionar con el caso de colecciÃ³n de1118, manteniendo esta variante de cambio de zona.",
+        "answers":  "I would assume yes || There is nothing special about it other thn starting in play from outside the game. || Yeah, once the game starts itâ€™s just in play and behaves like any other item."
+    }
+]

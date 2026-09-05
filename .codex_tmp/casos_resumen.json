@@ -1,0 +1,1433 @@
+﻿[
+    {
+        "id":  "CASO-001",
+        "titulo":  "Prohibiciones y legalidad cuando los documentos no estÃ¡n actualizados",
+        "pregunta":  "Â¿QuÃ© fuente permite comprobar las prohibiciones y la legalidad de cartas si el documento de torneo todavÃ­a no incorpora el anuncio?",
+        "resumen_respuestas":  "Se propone comunicar las prohibiciones con enlace al comunicado; varios participantes indican que la aplicaciÃ³n oficial estÃ¡ actualizada y dispone de filtros por formato. TambiÃ©n seÃ±alan precedentes de erratas o documentos desactualizados.",
+        "notas":  [
+                      "La conversaciÃ³n comienza ya iniciada; falta su pregunta original. Hiram Flaversham y cartas de Quest aparecen como comprobaciones de legalidad. No se ha validado si el estado descrito sigue vigente."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Hiram Flaversham - Toymaker"
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-002",
+        "titulo":  "Reemplazos simultÃ¡neos para acontecimientos diferentes",
+        "pregunta":  "Â¿Puede haber varios efectos de reemplazo simultÃ¡neos que no se apliquen al mismo acontecimiento?",
+        "resumen_respuestas":  "La respuesta niega el supuesto porque afirma que no suceden varios acontecimientos simultÃ¡neos en Lorcana.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-003",
+        "titulo":  "Orden de elecciÃ³n y revelado con Return of Hercules",
+        "pregunta":  "Â¿QuiÃ©n revela y juega primero con Return of Hercules, y puede el siguiente jugador elegir conociendo la elecciÃ³n anterior?",
+        "resumen_respuestas":  "Los participantes sostienen que resuelve primero el jugador activo y se continÃºa por orden de turno; el siguiente jugador puede utilizar la informaciÃ³n ya revelada.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Return of Hercules",
+                                   "Maleficent (dragÃ³n; versiÃ³n no identificada)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-004",
+        "titulo":  "Bronx: preparado, agotado y tinta secÃ¡ndose",
+        "pregunta":  "Â¿Un Bronx que entra preparado pero secÃ¡ndose sigue preparado en el siguiente turno, y pueden otros efectos interactuar con personajes que se estÃ¡n secando?",
+        "resumen_respuestas":  "Distinguen preparado/agotado de seco/secÃ¡ndose. AÃ±aden que se puede interactuar con personajes en cualquier estado salvo restricciÃ³n del efecto.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Bronx (versiÃ³n no indicada)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-005",
+        "titulo":  "Fin del turno: disparos frente a efectos que expiran",
+        "pregunta":  "Â¿Se resuelven primero los disparos al final del turno o desaparecen antes los efectos hasta el final del turno?",
+        "resumen_respuestas":  "La respuesta indica que se disparan y resuelven los efectos de final de turno y, cuando la bolsa estÃ¡ vacÃ­a, expiran los efectos hasta el final del turno.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-006",
+        "titulo":  "Cinderella Stouthearted y cantar antes de jugarla",
+        "pregunta":  "Â¿Cinderella Stouthearted debe estar en juego cuando se canta la canciÃ³n para poder desafiar a un personaje preparado?",
+        "resumen_respuestas":  "Se responde que debe estar en juego cuando se canta; cantarla antes y despuÃ©s jugar a Cinderella mediante Shift no basta.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Cinderella - Stouthearted"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-007",
+        "titulo":  "Cinderella Stouthearted y Bodyguard preparado",
+        "pregunta":  "Â¿Cinderella Stouthearted debe elegir un Bodyguard preparado al usar su permiso para desafiar personajes preparados?",
+        "resumen_respuestas":  "Se responde afirmativamente.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Cinderella - Stouthearted"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-008",
+        "titulo":  "Resist frente a daÃ±o movido",
+        "pregunta":  "Â¿Resist reduce el daÃ±o que se mueve a un personaje?",
+        "resumen_respuestas":  "Se responde que no.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-009",
+        "titulo":  "Robin Hood Sharpshooter con Firefly Swarm",
+        "pregunta":  "Â¿Las cartas descartadas con Robin Hood Sharpshooter cuentan al resolver Firefly Swarm elegida por su habilidad?",
+        "resumen_respuestas":  "Sostienen que primero termina My Greatest Performance, dejando las cartas en el descarte, y despuÃ©s se resuelve Firefly Swarm y se comprueba su condiciÃ³n.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Robin Hood - Sharpshooter",
+                                   "Firefly Swarm"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-010",
+        "titulo":  "Sets permitidos en el campeonato de Wilds Unknown",
+        "pregunta":  "Â¿El campeonato de Wilds Unknown utiliza Ãºnicamente sets 9â€“12 o todo el formato Core vigente?",
+        "resumen_respuestas":  "Se responde que ese campeonato usa Core con sets 5â€“12 y que la rotaciÃ³n a 9â€“13 ocurre con la salida del set 13.",
+        "notas":  [
+                      "Consulta histÃ³rica de un campeonato concreto. La menciÃ³n a set 13 explica la siguiente rotaciÃ³n, no convierte la duda actual en una duda exclusiva del set 13."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-011",
+        "titulo":  "Elisa Maza frente a una reducciÃ³n previa de Jessie",
+        "pregunta":  "Â¿Jugar Elisa Maza devuelve la fuerza de un personaje a su valor impreso tras una reducciÃ³n aplicada por Jessie?",
+        "resumen_respuestas":  "La respuesta es afirmativa y aporta un enlace a otra respuesta en Reddit sobre Elisa Maza.",
+        "notas":  [
+                      "La carta de la imagen se identifica como Elisa Maza por el tÃ­tulo del enlace compartido, no por inspecciÃ³n de la imagen."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Elisa Maza (versiÃ³n no indicada)",
+                                   "Jessie (versiÃ³n no indicada)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-012",
+        "titulo":  "Boost de Cheshire Cat sin destinatario para mover daÃ±o",
+        "pregunta":  "Â¿Puede activarse Boost de Cheshire Cat Inexplicable sin poder completar su efecto, y puede retirarse daÃ±o si no existe personaje rival vÃ¡lido?",
+        "resumen_respuestas":  "Se confirma que se puede usar Boost aunque no se complete la habilidad, pero sin destino rival vÃ¡lido no se puede retirar el daÃ±o como si fuera curaciÃ³n.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Cheshire Cat - Inexplicable"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-013",
+        "titulo":  "QuiÃ©n ordena los disparos de la bolsa",
+        "pregunta":  "Â¿El jugador activo ordena todos los disparos o cada jugador decide el orden de los suyos?",
+        "resumen_respuestas":  "Se responde que cada jugador resuelve sus propios disparos.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-014",
+        "titulo":  "Listas de mazo y comprobaciones en Set Championships",
+        "pregunta":  "Â¿Son obligatorias las listas de mazo y sus comprobaciones en Set Championships?",
+        "resumen_respuestas":  "Se responde que estos eventos deben ser competitivos y requieren lista segÃºn las instrucciones del kit; tambiÃ©n se dice que deberÃ­an contar con jueces.",
+        "notas":  [
+                      "La justificaciÃ³n concreta respalda la obligaciÃ³n de lista, pero no distingue claramente la obligaciÃ³n de efectuar deck checks."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-015",
+        "titulo":  "Merida daÃ±a al atacante antes del daÃ±o de desafÃ­o",
+        "pregunta":  "Â¿El daÃ±o disparado de Merida puede desterrar al personaje que la desafÃ­a antes de que ese personaje le haga daÃ±o de desafÃ­o?",
+        "resumen_respuestas":  "Se aclara que ocurre dentro del desafÃ­o, antes del paso de daÃ±o. Si ese daÃ±o destierra al atacante, el desafÃ­o termina sin paso de daÃ±o.",
+        "notas":  [
+                      "La versiÃ³n de Merida solo estÃ¡ en el adjunto; la situaciÃ³n y la respuesta son comprensibles en texto."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Merida (versiÃ³n no identificada)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-016",
+        "titulo":  "Bloquear inscripciones de una persona en Carde.io",
+        "pregunta":  "Â¿Puede una organizaciÃ³n impedir en Carde.io que una persona excluida de la tienda se inscriba en futuros eventos?",
+        "resumen_respuestas":  "Se indica que existe una opciÃ³n en los ajustes de organizaciÃ³n; quien responde advierte que no la ha utilizado.",
+        "notas":  [
+                      "El mensaje 80 no tiene texto y puede contener contexto visual de los ajustes. No se ha comprobado el funcionamiento actual."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "organizacion_herramientas"
+    },
+    {
+        "id":  "CASO-017",
+        "titulo":  "ElecciÃ³n de jugador inicial en rondas posteriores de Top Cut",
+        "pregunta":  "Â¿QuiÃ©n elige jugar primero o segundo a partir de la segunda ronda de Top Cut?",
+        "resumen_respuestas":  "Se responde que elige la persona con mejor posiciÃ³n de clasificaciÃ³n original y se da el ejemplo de seed 1 frente a seed 4.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-018",
+        "titulo":  "Rondas y tamaÃ±o de Top Cut con 18 jugadores",
+        "pregunta":  "Â¿QuÃ© consecuencias matemÃ¡ticas tiene jugar cuatro rondas y Top 4 con 18 jugadores, y puede modificarse asÃ­ un Set Championship?",
+        "resumen_respuestas":  "Se advierte que con mÃ¡s de 16 corresponde Top 8 y que no se pueden modificar las instrucciones de un campeonato sin permiso de Ravensburger. La explicaciÃ³n matemÃ¡tica seÃ±ala que al menos un jugador con una derrota quedarÃ­a fuera de Top 4 y compara varias combinaciones.",
+        "notas":  [
+                      "Los mensajes 103â€“106 son rÃ³tulos de ejemplos; pueden depender de imÃ¡genes no recogidas en el texto. La afirmaciÃ³n matemÃ¡tica requiere revisar los supuestos."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-020",
+        "titulo":  "Luisa High Climber mueve su propio daÃ±o sin otro aliado",
+        "pregunta":  "Â¿Puede Luisa High Climber activar su habilidad siendo el Ãºnico personaje propio y pasar su daÃ±o a un rival sin recibir antes daÃ±o de otro personaje?",
+        "resumen_respuestas":  "Se responde que sÃ­ por hacer tanto como se pueda; ademÃ¡s se propone que puede recibir un cuarto daÃ±o y mover despuÃ©s todo el daÃ±o antes de ser desterrada.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Luisa - High Climber"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-021",
+        "titulo":  "Syndromeâ€™s Remote y Buzzâ€™s Arm durante el turno rival",
+        "pregunta":  "Â¿Por quÃ© Syndromeâ€™s Remote puede dispararse en el turno rival y Buzzâ€™s Arm no puede jugarse normalmente cuando Buzz es desterrado en ese turno?",
+        "resumen_respuestas":  "La respuesta distingue el disparo de Syndromeâ€™s Remote, que se pone en la bolsa, del permiso estÃ¡tico de coste alternativo de Buzzâ€™s Arm, que sigue necesitando una ocasiÃ³n legal para jugar el objeto.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Syndrome\u0027s Remote",
+                                   "Buzz\u0027s Arm",
+                                   "Buzz Lightyear"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-022",
+        "titulo":  "Escape Plan como segunda carta que llega al descarte",
+        "pregunta":  "Â¿Se puede jugar Escape Plan cuando serÃ­a la segunda carta que va al descarte ese turno?",
+        "resumen_respuestas":  "Se responde que no puede jugarse hasta que ya hayan ido dos cartas al descarte.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Escape Plan"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-024",
+        "titulo":  "Significado de GRE en arbitraje",
+        "pregunta":  "Â¿QuÃ© significa la sigla GRE?",
+        "resumen_respuestas":  "Los participantes la desarrollan como General Rules Error, error general de reglas.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-026",
+        "titulo":  "Diablo parece robar dos cartas tras un desafÃ­o en simulador",
+        "pregunta":  "Â¿Hay un error si, despuÃ©s de desafiar Will of the Wisp con Gantu y daÃ±ar a Diablo mediante un lugar, parece que el rival recibe dos robos?",
+        "resumen_respuestas":  "Quien pregunta reconoce que leyÃ³ mal el registro: una carta era Will of the Wisp regresando a la mano y solo otra era el robo de Diablo.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Gantu (versiÃ³n no indicada)",
+                                   "Will of the Wisp",
+                                   "Diablo (versiÃ³n no indicada)",
+                                   "Lugar sin identificar"
+                               ],
+        "ambito":  "organizacion_herramientas"
+    },
+    {
+        "id":  "CASO-028",
+        "titulo":  "Cartas de Shift cuentan como cartas debajo",
+        "pregunta":  "Â¿Una carta debajo de Zipper por Shift cuenta para los efectos que exigen tener cartas debajo, aunque no proceda de Boost?",
+        "resumen_respuestas":  "Se responde que Shift crea una pila y satisface esa condiciÃ³n; Boost es solo una forma de colocar cartas debajo.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Zipper - Little Helper",
+                                   "Zipper - Big Helper",
+                                   "Scrooge McDuck - On the Right Track"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-029",
+        "titulo":  "Acumular dos permisos de entintar adicionales",
+        "pregunta":  "Â¿Jugar dos copias de la carta denominada sails permite poner dos cartas adicionales en el tintero?",
+        "resumen_respuestas":  "Se confirma que los dos permisos se acumulan.",
+        "notas":  [
+                      "La fuente no identifica el nombre completo de la carta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "sails (abreviatura sin nombre completo)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-031",
+        "titulo":  "Grandmother Willow no reduce costes de una habilidad",
+        "pregunta":  "Â¿Varias Grandmother Willow pueden hacer gratis tanto jugar Finnick como activar su efecto de devolver un personaje a la mano?",
+        "resumen_respuestas":  "La respuesta indica que la reducciÃ³n solo afecta a la tinta para jugar personajes y no a otros costes.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Finnick (versiÃ³n no indicada)",
+                                   "Grandmother Willow (versiÃ³n no indicada)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-035",
+        "titulo":  "Reducir fuerza con Mickey para aplicar Under the Sea",
+        "pregunta":  "Â¿Una reducciÃ³n temporal de fuerza de Mickey convierte un personaje de fuerza 4 en un personaje vÃ¡lido para Under the Sea al dejarlo en fuerza 2?",
+        "resumen_respuestas":  "Se responde que sÃ­: se toma en cuenta la fuerza reducida para enviar el personaje al fondo del mazo.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Mickey Mouse (versiÃ³n que reduce fuerza no identificada)",
+                                   "Under the Sea"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-037",
+        "titulo":  "DescalificaciÃ³n del evento principal y participaciÃ³n en paralelos",
+        "pregunta":  "Â¿Una descalificaciÃ³n del evento principal impide jugar los eventos paralelos?",
+        "resumen_respuestas":  "Se responde que una descalificaciÃ³n se aplica al evento concreto; impedir otros eventos requiere una prohibiciÃ³n de jugar o de acceso al recinto.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-039",
+        "titulo":  "Sid ve desterrar Toys al mismo tiempo que Ã©l",
+        "pregunta":  "Â¿Sid obtiene lore con Raging Storm si Ã©l y un Toy propio son desterrados a la vez durante el turno propio?",
+        "resumen_respuestas":  "Se afirma que todos se destierran simultÃ¡neamente, que Sid ve salir a los Toys con Ã©l y que su disparo puede resolverse cuando Sid ya no estÃ¡ en juego; se cita 7.4.3.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Sid (versiÃ³n no indicada)",
+                                   "Raging Storm"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-040",
+        "titulo":  "Marcadores numÃ©ricos para cambios de fuerza o voluntad",
+        "pregunta":  "Â¿Pueden usarse dados o fichas con +1, âˆ’1 o âˆ’3 para recordar modificaciones como las de Jessie, y quÃ© alternativas hay?",
+        "resumen_respuestas":  "Las respuestas niegan el uso de marcadores numÃ©ricos para esas modificaciones y proponen fichas no numÃ©ricas; justifican la restricciÃ³n por posibles confusiones con daÃ±o.",
+        "notas":  [
+                      "ContinuaciÃ³n relacionada en 439â€“447, segÃºn agente del siguiente bloque: fichas de fuerza sin nÃºmeros, apilables."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Jessie (versiÃ³n no indicada)"
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-042",
+        "titulo":  "Prepararse dentro de un desafÃ­o y recibir daÃ±o",
+        "pregunta":  "Â¿Una habilidad que prepara al personaje antes del cÃ¡lculo de daÃ±o evita que reciba daÃ±o de desafÃ­o?",
+        "resumen_respuestas":  "Se responde que estar preparado no evita el daÃ±o de desafÃ­o y que el personaje estarÃ¡ preparado mientras recibe ese daÃ±o.",
+        "notas":  [
+                      "Carta solo visible en un adjunto. El entorno temporal coincide con revelaciones del set 13, pero no basta para atribuirle un set; posible_set13 se mantiene falso por falta de identificaciÃ³n."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-048",
+        "titulo":  "Fecha de actualizaciÃ³n documental y tinta boca arriba",
+        "pregunta":  "Â¿CuÃ¡ndo se actualizarÃ¡n las reglas para documentar mantener boca arriba la carta entintada hasta el final del turno antes del DLC de Brasil?",
+        "resumen_respuestas":  "Se responde que no hay una fecha anunciada y que otros DLC ya se celebraron sin esa actualizaciÃ³n documental.",
+        "notas":  [
+                      "268â€“269 especulan sobre la prÃ³xima actualizaciÃ³n por el set 13; la duda principal afecta a un procedimiento ya anunciado. No es una consulta explÃ­cita sobre set 14."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-049",
+        "titulo":  "Dados para indicar el tamaÃ±o de la mano",
+        "pregunta":  "Â¿EstÃ¡ permitido utilizar un dado para representar cuÃ¡ntas cartas quedan en la mano y quÃ© debe hacerse si se usa?",
+        "resumen_respuestas":  "Se aclara que el dado no estÃ¡ permitido como marcador de tamaÃ±o de mano; se propone pedir que se retire, explicar la norma y llamar al juez si es necesario. Varias respuestas insisten en que llamar al juez no es abusivo.\n\nSe responde que no, salvo que haya cambiado la regla; se aporta una imagen de la norma como soporte.",
+        "notas":  [
+                      "Se fusionan las consultas de los Ã­ndices 362â€“383 y 1138â€“1140, que plantean la misma cuestiÃ³n de seguimiento de la mano."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-051",
+        "titulo":  "QuiÃ©n autoriza un takeback aceptado por el rival",
+        "pregunta":  "Â¿Pueden los jugadores acordar solos un takeback o debe intervenir el juez aunque el oponente estÃ© conforme?",
+        "resumen_respuestas":  "Se responde que el juez debe autorizar los takebacks y que la decisiÃ³n de llamar al juez no depende del consentimiento del rival.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-052",
+        "titulo":  "One and Only contra personajes con varios nombres",
+        "pregunta":  "Si One and Only elige a Woody \u0026 Buzz, Â¿destierra tambiÃ©n a Woody y Buzz individuales? Â¿QuÃ© ocurre al elegir a Woody o a The Madrigal Family?",
+        "resumen_respuestas":  "El canal afirma que se elige un personaje, no un nombre: elegir al equipo alcanza los nombres individuales que posee; elegir a Woody alcanza al equipo que contiene ese nombre. The Madrigal Family no equivale a poseer los nombres de todos los Madrigal.",
+        "notas":  [
+                      "Las grafÃ­as Buzz \u0026 Woody y Woody \u0026 Buzz se conservan como menciones del canal; comprobar nombre oficial al validar.",
+                      "Relacionado con el caso sobre nombrar cartas con Bruno, que usa una operaciÃ³n distinta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "One and Only",
+                                   "Woody \u0026 Buzz",
+                                   "Woody",
+                                   "Buzz Lightyear",
+                                   "The Madrigal Family"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-054",
+        "titulo":  "Marcadores apilables de reducciÃ³n de fuerza sin cifras",
+        "pregunta":  "Â¿Se pueden apilar marcadores con el sÃ­mbolo de fuerza y un signo menos para recordar reducciones de fuerza?",
+        "resumen_respuestas":  "Se responde que los sÃ­mbolos sin cifras son admisibles; se distingue de usar marcadores numÃ©ricos. El segundo envÃ­o es un duplicado tÃ©cnico reconocido por los participantes.",
+        "notas":  [
+                      "Posible relaciÃ³n con discusiones de marcadores o dados en otros rangos."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Mickey - Expedition Leader"
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-055",
+        "titulo":  "Descartar Look What You\u0027ve Done como coste de Shift",
+        "pregunta":  "Si se descarta Look What You\u0027ve Done para hacer Shift con Diablo, Â¿se juega la acciÃ³n antes o despuÃ©s de cubrir el Diablo base y usa la bolsa?",
+        "resumen_respuestas":  "El canal concluye que primero se paga el coste y se completa el Shift; despuÃ©s la habilidad disparada permite jugar la acciÃ³n desde el descarte. Se debate si la terminologÃ­a de acciones con efectos en vez de habilidades necesita aclaraciÃ³n documental.",
+        "notas":  [
+                      "Existe reserva explÃ­cita sobre la redacciÃ³n del CRD; validar con reglas y notas de publicaciÃ³n definitivas.",
+                      "La propuesta de hacer daÃ±o al Diablo base depende precisamente del orden resuelto."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Look What You\u0027ve Done",
+                                   "Diablo"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-056",
+        "titulo":  "Repetir Look What You\u0027ve Done desde el descarte",
+        "pregunta":  "Â¿Puede jugarse repetidamente Look What You\u0027ve Done porque vuelve al descarte al resolverse?",
+        "resumen_respuestas":  "Se responde que pasar de juego al descarte al terminar una acciÃ³n no es descartar una carta, por lo que ese movimiento no vuelve a disparar la condiciÃ³n.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Look What You\u0027ve Done"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-058",
+        "titulo":  "Takeback de acciones agrupadas y origen de la polÃ­tica",
+        "pregunta":  "Â¿Solicitar lore con tres personajes a la vez puede deshacerse como una sola jugada si no hay informaciÃ³n nueva? Â¿Desde cuÃ¡ndo existe esa polÃ­tica?",
+        "resumen_respuestas":  "Se acepta como una jugada agrupada mediante secuencia fuera de orden; se dice que ya estaba cubierto desde el anuncio inicial de la polÃ­tica y se sitÃºa ese anuncio en DLC Milwaukee, octubre de 2025.",
+        "notas":  [
+                      "Verificar fechas histÃ³ricas solo si se decide documentar la cronologÃ­a; la duda prÃ¡ctica es el takeback de la jugada agrupada."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-062",
+        "titulo":  "Nombrar equipos con Bruno y cuÃ¡ntos personajes representan",
+        "pregunta":  "Â¿QuÃ© nombres tiene un equipo al nombrar una carta con Bruno? Â¿Hamish, Hubert \u0026 Harris representa varios personajes?",
+        "resumen_respuestas":  "Se explica que un equipo sigue siendo un personaje con varios nombres. Nombrar Woody coincide con Woody o con su equipo; nombrar el equipo exige ese nombre completo. Se identifica una anomalÃ­a en la redacciÃ³n entonces vigente de Hamish, Hubert \u0026 Harris, que separarÃ­a sus nombres de forma inesperada.",
+        "notas":  [
+                      "La observaciÃ³n de Hamish, Hubert \u0026 Harris es una interpretaciÃ³n de la redacciÃ³n histÃ³rica; requiere revisar el CRD vigente.",
+                      "Relacionado con el caso One and Only, sin confundir elegir personaje con nombrar carta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Bruno Madrigal",
+                                   "Woody \u0026 Buzz",
+                                   "Hamish, Hubert \u0026 Harris"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-063",
+        "titulo":  "Takeback de pasar turno y decisiones de final de turno",
+        "pregunta":  "Â¿Puede deshacerse el pase de turno antes de que el oponente actÃºe? Â¿Cuenta como una jugada agrupada haber omitido una habilidad opcional de final de turno?",
+        "resumen_respuestas":  "El debate corrige respuestas iniciales restrictivas: se puede valorar deshacer el pase segÃºn informaciÃ³n y acciones posteriores, sin limitar lo que el jugador haga despuÃ©s. Pasar y resolver u omitir una habilidad de final de turno puede considerarse una jugada agrupada segÃºn los hechos; robar con Cinderella aporta informaciÃ³n y dificulta admitirlo. Se discute el posible uso para recuperar habilidades olvidadas.",
+        "notas":  [
+                      "No presentar las respuestas iniciales 554â€“555 como conclusiÃ³n: se rectifican durante la conversaciÃ³n.",
+                      "La resoluciÃ³n es condicionada a investigaciÃ³n y circunstancias, no una autorizaciÃ³n universal."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Cinderella",
+                                   "Judy Hopps"
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-064",
+        "titulo":  "Mr. Big con Bodyguard concedido por Powhatan\u0027s Staff",
+        "pregunta":  "Â¿Dar Bodyguard a Mr. Big impide todos los desafÃ­os si el rival no tiene personajes capaces de desafiarlo?",
+        "resumen_respuestas":  "Se responde que no: Bodyguard obliga a desafiar al personaje Ãºnicamente si es posible.",
+        "notas":  [
+                      "El autor dice next set en junio: alude al contexto de Set 13, no demuestra relaciÃ³n con Set 14."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Mr. Big",
+                                   "Powhatan\u0027s Staff"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-065",
+        "titulo":  "Momento de la derrota por mazo vacÃ­o y victoria al final del turno",
+        "pregunta":  "Â¿CuÃ¡ndo se comprueba la derrota por mazo vacÃ­o? Â¿Puede ganarse por llegar a 20 lore con una habilidad de final de turno antes de esa derrota? Â¿Importa vaciarse durante el turno rival?",
+        "resumen_respuestas":  "Se sitÃºa la derrota en la comprobaciÃ³n al terminar el turno del jugador, vinculada a 3.4.2, sin depender de intentar robar ni empezar el turno vacÃ­o. Una habilidad de final de turno que alcanza 20 lore tiene una comprobaciÃ³n anterior que ya darÃ­a la victoria. Se debate cuÃ¡n explÃ­cita es la referencia documental.",
+        "notas":  [
+                      "Las preguntas 584â€“600 tratan momento exacto y prioridad de comprobaciones; 694 repite la regla bÃ¡sica.",
+                      "601 es un ejemplo propuesto para un cuestionario y no otra duda independiente."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Elinor",
+                                   "Demona"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-066",
+        "titulo":  "Cambiar el mazo entre partidas o rondas en sellado y draft",
+        "pregunta":  "En prerelease, sellado y draft, Â¿se pueden cambiar cartas entre partidas o solo entre rondas?",
+        "resumen_respuestas":  "Se cita la prÃ¡ctica de eventos secundarios DLC de permitir cambios entre rondas por tiempo y se afirma que, al faltar una norma escrita entonces, debe acordarlo el Ã¡rbitro principal y/o la organizaciÃ³n.",
+        "notas":  [
+                      "Es una respuesta sobre prÃ¡ctica y falta de guÃ­a en aquella fecha; requiere revisar polÃ­tica vigente."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-067",
+        "titulo":  "Reparto de premios, compensaciones externas y resultados pactados",
+        "pregunta":  "Â¿QuÃ© repartos de premios son legales: pagar media alfombrilla, conceder por premios, vender Golden Mickey y compartir valor, o decidir al dado?",
+        "resumen_respuestas":  "Se distingue repartir premios disponibles de aÃ±adir dinero o bienes externos. Se rechazan concesiones a cambio de contraprestaciÃ³n y resultados decididos al azar. Se afirma que Premier Play no admite splits, que todos los jugadores restantes deben aceptar un reparto cuando corresponde y que se puede repartir solo parte de los premios.",
+        "notas":  [
+                      "605 contiene cuatro supuestos relacionados; conservarlos como subescenarios para la futura validaciÃ³n.",
+                      "La primera interpretaciÃ³n sobre la alfombrilla se aclara con el criterio de pertenencia al premio, no por tratarse de dinero o sobres."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-068",
+        "titulo":  "Mover daÃ±o con Cheshire sin destino legal",
+        "pregunta":  "Â¿Puede Cheshire - Inexplicable quitarse 2 daÃ±os al hacer Boost si no hay personaje rival al que moverlos?",
+        "resumen_respuestas":  "Se explica que mover daÃ±o es un solo evento entre un origen y un destino: sin destino legal no se produce el movimiento ni se retira el daÃ±o de origen. Se cita 1.9.2.4.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Cheshire - Inexplicable"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-070",
+        "titulo":  "Entrar con daÃ±o y entrar agotado: relaciÃ³n con reemplazos",
+        "pregunta":  "Â¿Hay que aplicar tanto entrar con daÃ±o como entrar agotado o se elige solo uno como efecto de reemplazo?",
+        "resumen_respuestas":  "Se responde que los efectos de entrar en juego ya no son efectos de reemplazo.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-071",
+        "titulo":  "Orden y visibilidad de cartas enviadas al fondo por Under the Sea",
+        "pregunta":  "Â¿QuiÃ©n ordena las cartas enviadas al fondo por Under the Sea y puede el jugador afectado conocer ese orden?",
+        "resumen_respuestas":  "Se afirma que el jugador que resuelve Under the Sea elige el orden y que el afectado puede verlo; las cartas nuevas que acceden al fondo no cambian ese procedimiento.",
+        "notas":  [
+                      "Menciona cartas de un nuevo set como motivo de interÃ©s, pero la duda versa sobre un procedimiento existente."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Under the Sea"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-072",
+        "titulo":  "Fundas legales y opacidad",
+        "pregunta":  "Â¿QuÃ© requisitos deben cumplir las fundas en torneo y sirven las de reverso translÃºcido?",
+        "resumen_respuestas":  "Se recomienda usar reversos totalmente opacos y fundas en buen estado. Se aclara que matte describe textura y no garantiza opacidad; se comentan marcas y alternativas con doble color.",
+        "notas":  [
+                      "Separar requisitos de torneo de recomendaciones comerciales al preparar material de wiki."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-073",
+        "titulo":  "Enlace here roto en un documento",
+        "pregunta":  "Â¿CuÃ¡l es el destino del enlace here que no funciona en un documento?",
+        "resumen_respuestas":  "Se recupera desde una versiÃ³n anterior el enlace de YouTube https://www.youtube.com/watch?v=q9ATaPv3auE.",
+        "notas":  [
+                      "La captura del Ã­ndice 688 es necesaria para identificar el documento y el contexto exactos; el destino sÃ­ consta en texto."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "organizacion_herramientas"
+    },
+    {
+        "id":  "CASO-075",
+        "titulo":  "Bodyguard concedido y opciÃ³n de entrar agotado",
+        "pregunta":  "Â¿Por quÃ© Woody con Bodyguard de Bo Peep no entra igual que con Powhatan\u0027s Staff?",
+        "resumen_respuestas":  "Se afirma que ganar Bodyguard no concede por sÃ­ mismo entrar agotado; Powhatan\u0027s Staff aÃ±ade especÃ­ficamente esa opciÃ³n.",
+        "notas":  [
+                      "La pregunta remite a un hilo anterior que puede aparecer en otro rango."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Woody",
+                                   "Bo Peep",
+                                   "Powhatan\u0027s Staff"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-076",
+        "titulo":  "Duo Shift sobre Morph o sobre un Ãºnico equipo",
+        "pregunta":  "Â¿Basta un solo Morph para Duo Shift? Â¿Puede usarse un Ãºnico Mickey \u0026 Minnie como sus dos bases?",
+        "resumen_respuestas":  "Se responde que hacen falta dos personajes: Morph puede sustituir a una base y dos Morph pueden sustituir ambas. Un equipo sigue siendo un solo personaje, aunque puede aportar una de las bases. Se separa el requisito de dos personajes del coste de 0 tintas y se cita una aclaraciÃ³n atribuida a Kyle.",
+        "notas":  [
+                      "El canal reconoce que el texto recordatorio no era claro y espera definiciÃ³n en el CRD; la interpretaciÃ³n se presenta apoyada en aclaraciÃ³n verbal.",
+                      "Las imÃ¡genes 716 y 723 apoyan el debate, pero la pregunta y conclusiÃ³n se recuperan del texto."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Morph",
+                                   "Mickey \u0026 Minnie",
+                                   "Mickey",
+                                   "Minnie",
+                                   "Diablo"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-077",
+        "titulo":  "Bambi entrando agotado y carta aÃ±adida por Scrooge",
+        "pregunta":  "Â¿Se dispara Bambi si entra agotado por Horned King o Simba y Scrooge le pone una carta debajo?",
+        "resumen_respuestas":  "Se contesta que no y se aclara que Bambi entra sin cartas debajo; la habilidad de Scrooge coloca la carta despuÃ©s, al resolverse desde la bolsa.",
+        "notas":  [
+                      "Versiones exactas de las cartas no constan por nombre; el autor solo identifica color Ã¡mbar."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Bambi",
+                                   "Horned King",
+                                   "Simba",
+                                   "Scrooge"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-078",
+        "titulo":  "Cantar una canciÃ³n revelada por Dash Parr",
+        "pregunta":  "Â¿Puede agotarse a otros personajes para cantar la canciÃ³n revelada por Dash Parr - Super Fast?",
+        "resumen_respuestas":  "Se responde que sÃ­, porque al jugar una carta sin hacerlo gratis se pueden pagar costes alternativos.",
+        "notas":  [
+                      "739 identifica la carta con enlace de Ravensburger a set13.",
+                      "760 pide un vÃ­deo didÃ¡ctico y es contexto, no una duda distinta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Dash Parr - Super Fast"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-079",
+        "titulo":  "Hades y Vine Pod para jugar personajes de equipo",
+        "pregunta":  "Â¿Pueden Hades o Vine Pod jugar un equipo al desterrar a uno de sus personajes individuales?",
+        "resumen_respuestas":  "Se afirma que sÃ­, usando Pocahontas \u0026 Meeko como ejemplo: el equipo tambiÃ©n posee los nombres individuales.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Hades",
+                                   "Vine Pod",
+                                   "Pocahontas \u0026 Meeko",
+                                   "Pocahontas",
+                                   "Meeko"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-080",
+        "titulo":  "Fragile as a Flower sobre un personaje ya agotado",
+        "pregunta":  "Â¿Se puede elegir un personaje ya agotado para Fragile as a Flower?",
+        "resumen_respuestas":  "Se responde que sÃ­ si su coste es 2 o menos; el efecto posterior no se presenta condicionado a if you do.",
+        "notas":  [
+                      "La ediciÃ³n de Fragile as a Flower no se determina en estos mensajes."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Fragile as a Flower",
+                                   "Elsa"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-082",
+        "titulo":  "Habilidades que pueden usarse mientras el personaje se seca",
+        "pregunta":  "Â¿El secado impide pagar tinta para usar una habilidad? Â¿Por quÃ© Hamm debe esperar y Willow puede actuar el mismo turno?",
+        "resumen_respuestas":  "Se explica que el secado afecta acciones de turno que agotan y costes o efectos que usan el sÃ­mbolo de agotar; una habilidad cuyo coste no contiene ese sÃ­mbolo puede usarse mientras se seca.",
+        "notas":  [
+                      "ComparaciÃ³n derivada del caso 753, pero puede formularse sin identificar aquella carta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Hamm",
+                                   "Willow"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-084",
+        "titulo":  "Nombres inapropiados al registrar un mazo",
+        "pregunta":  "Â¿Hay lÃ­mites para nombres de mazo con dobles sentidos al inscribirse en un evento oficial?",
+        "resumen_respuestas":  "Se responde que el nombre debe cumplir el cÃ³digo comunitario y las reglas de torneo; no consta una decisiÃ³n concreta sobre circle herc.",
+        "notas":  [
+                      "La respuesta general no equivale a resoluciÃ³n del nombre concreto."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Circle of Life",
+                                   "Hercules"
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-086",
+        "titulo":  "Temporary Shift cubierto por otra carta",
+        "pregunta":  "Â¿La carta con Temporary Shift vuelve a la mano si otra carta se desplaza encima y tapa su texto? Â¿Es un efecto aplicado o una habilidad retrasada?",
+        "resumen_respuestas":  "Se responde que sigue volviendo a la mano si permanece en la zona de juego, aunque estÃ© cubierta; se trata de una habilidad disparada retrasada que llega a la bolsa al final del turno. Se remite a la definiciÃ³n de Temporary Shift del CRD 2.2 y a notas del set.",
+        "notas":  [
+                      "Comprobar la redacciÃ³n definitiva y el objeto exacto que vuelve al validar."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Gruesome and Grim",
+                                   "Candy Drift"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-087",
+        "titulo":  "Elinor al final del turno y Run Away de Rex",
+        "pregunta":  "Si Elinor destierra a Rex con Coordinated Efforts al final del turno, Â¿sigue siendo durante mi turno a efectos de Run Away?",
+        "resumen_respuestas":  "Se responde que sÃ­: la fase de final de turno aÃºn pertenece al turno y se cita la secciÃ³n 3.4 del CRD.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Elinor",
+                                   "Rex"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-088",
+        "titulo":  "Potato Shift: estado seco sobre Morph y sobre un Potato reciÃ©n jugado",
+        "pregunta":  "Â¿Potato Shift sobre un Morph seco entra seco? Â¿Preparar un Potato jugado este turno permite que el personaje con Potato Shift entre seco?",
+        "resumen_respuestas":  "Primero se afirma que sobre Morph entra secÃ¡ndose, pero se corrige citando 8.10.4: hereda el estado del personaje. Se reconoce una posible ambigÃ¼edad de 8.10.8.6. Sobre un Potato jugado ese mismo turno entra secÃ¡ndose aunque se prepare.",
+        "notas":  [
+                      "800â€“806 son discusiÃ³n interpretativa de la redacciÃ³n del CRD; la afirmaciÃ³n inicial de800 es cuestionada en802â€“806.",
+                      "No confundir estar preparado con estar seco.",
+                      "Posible vÃ­nculo con casos anteriores al Ã­ndice800 sobre variantes de Shift."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Morph",
+                                   "Potato",
+                                   "personaje con Potato Shift no identificado por nombre"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-089",
+        "titulo":  "DaÃ±o infligido y recibido tras aplicar Resist",
+        "pregunta":  "Â¿El daÃ±o reducido a cero sigue considerÃ¡ndose infligido? Â¿QuÃ© daÃ±o reproduce Mulan y cÃ³mo se distinguen daÃ±o base, infligido y recibido?",
+        "resumen_respuestas":  "Se sostiene que el daÃ±o base sigue siendo infligido y los modificadores determinan el daÃ±o recibido; se cita1.9.5 y su ejemplo. La explicaciÃ³n de863 se corrige expresamente en865: Resist modifica el daÃ±o recibido procedente de un efecto que inflige daÃ±o. Se interpreta que Mulan reproduce el daÃ±o previo a la reducciÃ³n.",
+        "notas":  [
+                      "La variante hipotÃ©tica de853 sobre modificadores positivos no recibe una respuesta especÃ­fica.",
+                      "El canal discute cambios de reglas ya publicados en CRD2.2; no implica Set14.",
+                      "No se deben reutilizar todas las formulaciones del debate como si fueran compatibles entre sÃ­."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Mulan",
+                                   "Merida â€“ Formidable Archer",
+                                   "Smash",
+                                   "Namaari â€“ Resolute Daughter"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-093",
+        "titulo":  "Lilo â€“ Bundled Up con Resist y daÃ±o reducido a cero",
+        "pregunta":  "Â¿Se consume la protecciÃ³n de Lilo â€“ Bundled Up si Resist reduce a cero el daÃ±o que recibirÃ­a?",
+        "resumen_respuestas":  "Se responde que no recibe daÃ±o y, por tanto, no se consume su efecto.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Lilo â€“ Bundled Up"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-094",
+        "titulo":  "Responsabilidad de anunciar Source of the Vine",
+        "pregunta":  "Â¿QuiÃ©n debe recordar y comunicar la habilidad de Source of the Vine al buscar lore el rival? Â¿Puede su controlador ganar lore por asumir que el rival no pagÃ³?",
+        "resumen_respuestas":  "Se indica que ambos jugadores deben resolver correctamente habilidades obligatorias, con responsabilidad principal del controlador. No puede suponerse que el rival rehÃºsa pagar sin informarle ni comprobar que conoce la elecciÃ³n.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Source of the Vine"
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-095",
+        "titulo":  "John Smith: desafÃ­o de un personaje que ya abandonÃ³ el juego",
+        "pregunta":  "Con John Smith agotado, si otro personaje desafiÃ³ y fue desterrado, Â¿se gana lore al final del turno porque ninguno de los personajes actuales desafiÃ³?",
+        "resumen_respuestas":  "Se interpreta que se comprueba si un personaje desafiÃ³ durante el turno, aunque ya no estÃ© en juego; se compara con otras comprobaciones histÃ³ricas. No se ganarÃ­a ese lore.",
+        "notas":  [
+                      "El autor prepara un cuestionario; la pregunta principal es una duda real de interpretaciÃ³n, no una investigaciÃ³n de hechos durante arbitraje.",
+                      "La versiÃ³n de John Smith depende del adjunto876; el nombre parcial figura en877."
+                  ],
+        "cartas_mencionadas":  [
+                                   "John Smith",
+                                   "Devilâ€™s Eye Diamond",
+                                   "Cinderella"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-096",
+        "titulo":  "Localizar reglas de protecciÃ³n de un solo uso y daÃ±o",
+        "pregunta":  "Â¿DÃ³nde explica el CRD2.2 la interacciÃ³n de las reglas de daÃ±o con las protecciones de un solo uso?",
+        "resumen_respuestas":  "Se responde que no hay un apartado para cada interacciÃ³n; hay que aplicar el texto de la carta y las reglas generales de sus habilidades.",
+        "notas":  [
+                      "No identifica una carta o situaciÃ³n concreta; conservar como consulta documental."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-098",
+        "titulo":  "Belle bajo The Black Cauldron y jugarla al desterrar el objeto",
+        "pregunta":  "Â¿Se puede jugar Belle que estaba bajo The Black Cauldron al desterrar el objeto y cuenta como jugada desde el descarte?",
+        "resumen_respuestas":  "Se responde que funciona y que Belle se juega desde el descarte; el bot identifica Belle â€“ Apprentice Inventor.",
+        "notas":  [
+                      "Posible repeticiÃ³n de una consulta anterior; la formulaciÃ³n pregunta si ya habÃ­a respuesta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Belle â€“ Apprentice Inventor",
+                                   "The Black Cauldron"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-099",
+        "titulo":  "Activar Scream Canister sin objetivo para gastar tinta",
+        "pregunta":  "Â¿Se puede activar Scream Canister sin personajes rivales elegibles para agotar tinta y permitir que Randall busque2 de lore?",
+        "resumen_respuestas":  "Se responde que se puede pagar el coste de agotar el objeto y2 de tinta, y luego resolver el efecto hasta donde sea posible.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Randall Boggs",
+                                   "Scream Canister",
+                                   "Ru"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-100",
+        "titulo":  "Windstorm y comprobaciÃ³n de destierro entre sus efectos",
+        "pregunta":  "Â¿Windstorm destierra a Peter Pan y Tinker Bell antes de su daÃ±o adicional a Evasive? Â¿La palabra Â«thenÂ» crea una comprobaciÃ³n intermedia, a diferencia de Let the Storm Rage On con Diablo?",
+        "resumen_respuestas":  "Se afirma que se resuelve todo el texto antes de desterrar por daÃ±o; Peter Pan y Tinker Bell siguen presentes para el daÃ±o adicional. Â«ThenÂ» recuerda el orden escrito, sin crear un paso intermedio. Se usa Diablo con Let the Storm Rage On como comparaciÃ³n.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Windstorm",
+                                   "Peter Pan",
+                                   "Tinker Bell",
+                                   "Diablo",
+                                   "Let the Storm Rage On"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-101",
+        "titulo":  "Orden de cartas de un personaje Shift o Boost al cambiar de zona",
+        "pregunta":  "Â¿QuiÃ©n decide el orden de las cartas de un personaje con Shift o Boost cuando el efecto las mueve, y quÃ© reglas lo respaldan?",
+        "resumen_respuestas":  "Se responde que lo decide el propietario salvo que la carta diga lo contrario, citando1.4.3 y7.2.3; se menciona que TFS no cambia esa regla.",
+        "notas":  [
+                      "Revisar si se fusiona con preguntas anteriores sobre ordenar cartas al fondo del mazo, como110 o667.",
+                      "La pregunta no describe por sÃ­ sola el efecto que mueve las cartas; TFS solo aparece en la respuesta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "TFS (abreviatura sin desarrollar)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-102",
+        "titulo":  "Cambiar cartas del mazo en una presentaciÃ³n o formato limitado",
+        "pregunta":  "Â¿Se permite hacer sideboard entre rondas o entre partidas de una presentaciÃ³n, y quiÃ©n determina la norma aplicable?",
+        "resumen_respuestas":  "Se afirma que no hay reglas especÃ­ficas de sideboard de Limited y que las tiendas fijan su prÃ¡ctica. Se menciona como prÃ¡ctica habitual cambiar entre encuentros, no entre partidas; en el caso concreto el organizador prohÃ­be cambiar y se indica seguir esa norma.",
+        "notas":  [
+                      "Fusionar con preguntas previas del mismo asunto, posiblemente602.",
+                      "Separar prÃ¡ctica habitual de obligaciÃ³n reglamentaria al validar."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "organizacion_herramientas"
+    },
+    {
+        "id":  "CASO-103",
+        "titulo":  "ClasificaciÃ³n Hunny: versiones distintas y reimpresiones",
+        "pregunta":  "Â¿Las versiones antiguas de un personaje reciben Hunny porque una versiÃ³n nueva lo tiene? Â¿QuÃ© ocurre con la reimpresiÃ³n de Pooh â€“ Hunny Wizard si la app no estÃ¡ actualizada?",
+        "resumen_respuestas":  "Se explica que las clasificaciones pertenecen a cada carta concreta, no al nombre general del personaje. Para Pooh â€“ Hunny Wizard se afirma que la versiÃ³n original sÃ­ tiene Hunny por errata, aunque no se muestre actualizada en la app.",
+        "notas":  [
+                      "La respuesta inicial Â«salvo errata en la appÂ» se matiza:969â€“970 dicen que existe clasificaciÃ³n aplicable pese a la app desactualizada.",
+                      "No confundir versiones distintas de un personaje con reimpresiones de la misma carta."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Piglet â€“ Cocoa Maker",
+                                   "Winnie the Pooh â€“ Hunny Wizard",
+                                   "Hades"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-104",
+        "titulo":  "Shift sobre un personaje cuyo daÃ±o supera la nueva voluntad",
+        "pregunta":  "Â¿El personaje reciÃ©n jugado con Shift es desterrado si hereda daÃ±o igual o superior a su voluntad?",
+        "resumen_respuestas":  "Se responde afirmativamente al supuesto de daÃ±o superior a la voluntad del nuevo personaje.",
+        "notas":  [
+                      "La pregunta literal habla de mÃ¡s daÃ±o del que soporta; el umbral exacto debe comprobarse en validaciÃ³n."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-105",
+        "titulo":  "ProtecciÃ³n de Rapunzel frente a un atacante con fuerza cero",
+        "pregunta":  "Â¿Un desafÃ­o con fuerza0 consume Act of Kindness de Rapunzel? Â¿Cambia si la fuerza era1 y se redujo a0 por Rhino?",
+        "resumen_respuestas":  "Se diferencia reducir fuerza de reducir daÃ±o: un personaje con fuerza0 no inflige daÃ±o inicialmente. Se cita5.3.6.2 y se concluye que no consume la protecciÃ³n.",
+        "notas":  [
+                      "Complementa el caso de Lilo con Resist: la ausencia inicial de daÃ±o y la reducciÃ³n de daÃ±o no son el mismo supuesto."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Rapunzel â€“ Ready for Adventure",
+                                   "Rhino â€“ One-Sixteenth Wolf"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-107",
+        "titulo":  "Lilo jugada desde el descarte frente a The Horned King",
+        "pregunta":  "Â¿CÃ³mo interactÃºa la entrada agotada de Lilo desde el descarte con The Horned King, en comparaciÃ³n con una interacciÃ³n de Merida mostrada en un vÃ­deo?",
+        "resumen_respuestas":  "Se responde que para Lilo no cambia el resultado: su propia disparada la hace entrar agotada, o lo hace solo The Horned King si se juega desde el descarte en la fase principal por otra vÃ­a.",
+        "notas":  [
+                      "La comparaciÃ³n con Merida depende de un vÃ­deo no incluido; conservar el supuesto explÃ­cito sobre Lilo."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Lilo (versiÃ³n que vuelve del descarte)",
+                                   "The Horned King",
+                                   "Merida"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-108",
+        "titulo":  "Orden para alterar la mano inicial",
+        "pregunta":  "Â¿Puede un jugador esperar a que su rival termine de alterar la mano inicial antes de hacerlo Ã©l?",
+        "resumen_respuestas":  "Se cita2.2.2 y se indica que altera primero quien juega primero, y despuÃ©s quien juega segundo.",
+        "notas":  [
+                      "Nace de una observaciÃ³n en retransmisiÃ³n; validar regla y posible gestiÃ³n de una secuencia incorrecta por separado."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-109",
+        "titulo":  "Rapunzel \u0026 Flynn Rider: jugar el personaje descartado durante un desafÃ­o",
+        "pregunta":  "Â¿CuÃ¡ndo se juega el personaje descartado gracias a Rapunzel \u0026 Flynn Rider â€“ Unlikely Pair? Â¿Puede hacerse durante un desafÃ­o contra Dr. Bushroot?",
+        "resumen_respuestas":  "Se responde que se decide y juega al resolver la habilidad de la bolsa. Si el descarte se produce al desafiar a Bushroot, se puede jugar antes del paso de daÃ±o del desafÃ­o.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Rapunzel \u0026 Flynn Rider â€“ Unlikely Pair",
+                                   "Dr. Bushroot"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-110",
+        "titulo":  "Vine Pod y personajes con nombres dobles",
+        "pregunta":  "Â¿Se puede desterrar un Mickey individual con Vine Pod para jugar Mickey \u0026 Minnie? Â¿CuÃ¡ntos nombres tiene un personaje doble y dÃ³nde se define?",
+        "resumen_respuestas":  "Se explica que el personaje doble tiene tres nombres y basta coincidir en uno. Antes de que se concrete la pregunta, otra respuesta describe desterrar Mickey \u0026 Minnie con reemplazo y continuar resolviendo Vine Pod. Se confirma que la regla de nombres dobles estÃ¡ en el CRD.",
+        "notas":  [
+                      "1013 es una pregunta para aclarar el supuesto, no un caso independiente.",
+                      "1012/1014 responden a una variante distinta de la pregunta precisada en1015; no tratarlas como explicaciÃ³n directa de ese supuesto.",
+                      "1036 es una propuesta de documentaciÃ³n, utilizada como contexto del mismo tema."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Vine Pod",
+                                   "Mickey \u0026 Minnie",
+                                   "Mickey",
+                                   "Minnie",
+                                   "Sulley \u0026 Boo â€“ Scare Buddies",
+                                   "Flotsam and Jetsam"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-111",
+        "titulo":  "Willow: quÃ© personaje consume la reducciÃ³n de coste",
+        "pregunta":  "Â¿Puede elegirse a quÃ© personaje aplicar Willow o la consume el siguiente, incluso si se juega gratis mediante un efecto?",
+        "resumen_respuestas":  "Se responde que la consume el siguiente personaje jugado, incluso mediante un efecto gratuito como Just in Time; Â«nextÂ» no permite guardarla para otro posterior.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Willow",
+                                   "Just in Time"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-113",
+        "titulo":  "Iago con reducciÃ³n de fuerza y Challenger",
+        "pregunta":  "Si Iago â€“ Stomping Mad recibeâˆ’2 de fuerza de Dellaâ€™s Moon Lullaby, Â¿desafÃ­a con3 o5 en el turno rival?",
+        "resumen_respuestas":  "Se suman todos los modificadores:0âˆ’2+5=3.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Iago â€“ Stomping Mad",
+                                   "Dellaâ€™s Moon Lullaby"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-114",
+        "titulo":  "Entintar boca arriba: regla de torneo o regla general",
+        "pregunta":  "Â¿Por quÃ©4.2.1.3 sigue indicando colocar tinta boca abajo si se utiliza entintado boca arriba?",
+        "resumen_respuestas":  "Se responde que el procedimiento de boca arriba sigue siendo una regla de torneo.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-115",
+        "titulo":  "Super Goof contra Peter Pan â€“ Never Land Prankster",
+        "pregunta":  "Â¿Super Goof gana2 de lore al desafiar mientras Peter Pan â€“ Never Land Prankster estÃ¡ agotado?",
+        "resumen_respuestas":  "Se indica que la habilidad de Peter Pan es estÃ¡tica y deja de impedir lore en cuanto se declara legalmente un desafÃ­o. Super Goof gana los2 de lore.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Super Goof",
+                                   "Peter Pan â€“ Never Land Prankster"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-116",
+        "titulo":  "Pocahontas â€“ Peacekeeper retirada por Red Alert",
+        "pregunta":  "Â¿Sigue vigente la prohibiciÃ³n de desafiar de Pocahontas â€“ Peacekeeper si Red Alert la retira del juego?",
+        "resumen_respuestas":  "Se responde que el efecto de su habilidad al jugarla no exige que permanezca en juego.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Pocahontas â€“ Peacekeeper",
+                                   "Red Alert"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-117",
+        "titulo":  "Mover o colocar daÃ±o frente a Hercules â€“ Mighty Leader",
+        "pregunta":  "Â¿Mover o colocar contadores con Cheshire Cat o Malicious, Mean and Scary evita el efecto de Hercules â€“ Mighty Leader?",
+        "resumen_respuestas":  "Se responde que mover o colocar contadores no es infligir daÃ±o, por lo que Hercules no afecta a esas operaciones.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Hercules â€“ Mighty Leader",
+                                   "Cheshire Cat â€“ Inexplicable",
+                                   "Malicious, Mean and Scary"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-118",
+        "titulo":  "Cartas alteradas, Enchanted y cartas marcadas",
+        "pregunta":  "Â¿Â«Altered artÂ» de TR3.11 incluye Enchanted? Â¿Pueden usarse si su grosor o curvatura permiten distinguirlas incluso enfundadas?",
+        "resumen_respuestas":  "Se diferencia una carta modificada fÃ­sicamente por alguien de una variante oficial Enchanted. Se afirma que las Enchanted pueden usarse siempre que no sean distinguibles; un problema de grosor o curvatura se tratarÃ­a como carta marcada.",
+        "notas":  [
+                      "La frase amplia Â«all cards are legal as printedÂ» se debe interpretar en el contexto del arte y revisar; no valida la legalidad de formato de cualquier carta."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-119",
+        "titulo":  "Touch the Sky y la condiciÃ³n de elegir de Tod",
+        "pregunta":  "Â¿Touch the Sky dispara Tod â€“ Knows All the Tricks aunque se determine quÃ© personaje mover sin usar Â«choose/chosenÂ»? Â¿CÃ³mo se relacionarÃ­a ese texto con Ward si permitiera mover rivales?",
+        "resumen_respuestas":  "Se responde que Touch the Sky no elige en sentido reglamentario, por lo que no dispara Tod. En la variante hipotÃ©tica sin Â«of yoursÂ», se afirma que Ward no impedirÃ­a mover al rival, aunque probablemente ese texto se cambiarÃ­a.",
+        "notas":  [
+                      "1066 es una modificaciÃ³n hipotÃ©tica del texto de una carta existente, no una carta futura ni Set14."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Tod â€“ Knows All the Tricks",
+                                   "Touch the Sky"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-120",
+        "titulo":  "Elegir un personaje propio con Ward",
+        "pregunta":  "Â¿Ward impide que el propietario elija sus propios personajes?",
+        "resumen_respuestas":  "Se confirma que el jugador puede elegir sus propios personajes con Ward.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-122",
+        "titulo":  "DÃ³nde localizar las guÃ­as de sets de GooglyGlimmers",
+        "pregunta":  "Â¿DÃ³nde se publican actualmente las guÃ­as de sets del autor para consultar interacciones?",
+        "resumen_respuestas":  "El autor dice que no ha publicado guÃ­as para los Ãºltimos sets y que ha hecho vÃ­deos de interacciones.",
+        "notas":  [
+                      "Consulta de disponibilidad de un recurso comunitario, no regla del juego."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "organizacion_herramientas"
+    },
+    {
+        "id":  "CASO-123",
+        "titulo":  "Violet sobre Violet: disparadas de ambas cartas y Merida",
+        "pregunta":  "Con Violet Parr â€“ Super Resilient y Merida agotadas, Â¿jugar otra Violet mediante Shift dispara a Merida y a las dos Violet? Â¿La Violet de abajo ve jugar la nueva?",
+        "resumen_respuestas":  "Se responde que entran tres disparadas en la bolsa; la Violet nueva se juega y dispara a la anterior antes de cubrirla.",
+        "notas":  [
+                      "1084 aporta una imagen explicativa, pero1085 conserva explicaciÃ³n textual."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Violet Parr â€“ Super Resilient",
+                                   "Merida (coste4, no entintable)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-124",
+        "titulo":  "Tod y el lÃ­mite de dos veces si se rechaza prepararlo",
+        "pregunta":  "Â¿Se consume una de las dos resoluciones de Tod si se elige no prepararlo, por ejemplo porque ya estaba preparado al recibir Education or Elimination?",
+        "resumen_respuestas":  "Se responde que rechazar el Â«mayÂ» no consume una de las dos veces y se cita6.1.13.2 sobre Â«onceÂ», aplicÃ¡ndolo por analogÃ­a a Â«twiceÂ».",
+        "notas":  [
+                      "El propio canal reconoce que la cita regula Â«onceÂ» y extrapola a Â«twiceÂ»; comprobar soporte directo en validaciÃ³n."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Tod â€“ Knows All the Tricks",
+                                   "Education or Elimination"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-125",
+        "titulo":  "Pool de cartas y rotaciÃ³n en Coconut",
+        "pregunta":  "Â¿Coconut usa el pool de Infinity o Core y le afectan rotaciÃ³n o prohibiciones?",
+        "resumen_respuestas":  "Se afirma que Coconut tiene su propia legalidad y, en ese momento, todas las cartas son legales, sin rotaciÃ³n ni prohibiciones.",
+        "notas":  [
+                      "Respuesta fechada13 de agosto2026; Coconut se identifica como beta en mensajes posteriores. No extrapolar automÃ¡ticamente su vigencia."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-126",
+        "titulo":  "Tiempo de ronda y organizaciÃ³n de eventos Coconut",
+        "pregunta":  "Â¿QuÃ© lÃ­mite de tiempo y estructura se deberÃ­an usar en un evento Coconut de tienda?",
+        "resumen_respuestas":  "Se afirma que Coconut estÃ¡ en beta y no es competitivo, sin tiempo recomendado. Se aconseja juego abierto por mesas; se dice que RPH ofrece una lista de jugadores y no rondas suizas para este formato.",
+        "notas":  [
+                      "Distinguir las recomendaciones personales de una norma oficial al validar."
+                  ],
+        "cartas_mencionadas":  [
+
+                               ],
+        "ambito":  "organizacion_herramientas"
+    },
+    {
+        "id":  "CASO-128",
+        "titulo":  "Robin Hood en Coconut: colecciÃ³n y nÃºmero de arcos externos",
+        "pregunta":  "Â¿QuÃ© significa Â«collectionÂ» en Robin Hood â€“ Sneaky Sleuth? Â¿Hay que llevar varios Robinâ€™s Bow fuera del mazo?",
+        "resumen_respuestas":  "Se explica que se refiere a cartas fuera del mazo y que basta un arco adicional al del mazo, porque la habilidad solo actÃºa en el primer turno. Se recuerda que el formato estÃ¡ en beta.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Robin Hood â€“ Sneaky Sleuth",
+                                   "Robinâ€™s Bow"
+                               ],
+        "ambito":  "documentacion_formatos"
+    },
+    {
+        "id":  "CASO-129",
+        "titulo":  "Ursula Coconut y Angel â€“ Underdog al cantar",
+        "pregunta":  "Â¿Angel â€“ Underdog canta por4 o3 con Ursula Coconut?",
+        "resumen_respuestas":  "Se responde que canta por4.",
+        "notas":  [
+                      "El mensaje no conserva el nombre completo ni el texto de Ursula Coconut; identificarlos al validar."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Ursula (Coconut)",
+                                   "Angel â€“ Underdog"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-130",
+        "titulo":  "Dos John Smith â€“ Undaunted Protector frente a Red Alert",
+        "pregunta":  "Â¿Dos John Smith â€“ Undaunted Protector se protegen entre sÃ­ hasta dejar Red Alert sin elecciones legales?",
+        "resumen_respuestas":  "Se responde que ambos John Smith son elecciones legales para Red Alert.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "John Smith â€“ Undaunted Protector",
+                                   "Red Alert"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-131",
+        "titulo":  "Jessie â€“ Lively Cowgirl: tinta pagada al cantar y reducciones",
+        "pregunta":  "Â¿Jessie se dispara al cantar una canciÃ³n de coste superior a2 sin pagar tinta? Â¿Importa el coste impreso o lo realmente pagado, y desde cuÃ¡ndo se interpreta asÃ­?",
+        "resumen_respuestas":  "Se distingue Â«payÂ» de Â«costÂ»: cantar pagando0 dispara a Jessie aunque el coste sea mayor. Se da el ejemplo de Bullseye reducido a2 por Woody, se afirma que se sabÃ­a desde el lanzamiento y se extiende la explicaciÃ³n a Babyhead.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Jessie â€“ Lively Cowgirl",
+                                   "Youâ€™ve Got a Friend in Me",
+                                   "Bullseye",
+                                   "Woody",
+                                   "Babyhead"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-132",
+        "titulo":  "RedacciÃ³n hipotÃ©tica de Milo: elegir antes de descartar",
+        "pregunta":  "Si Milo dijera Â«puedes elegir un personaje rival; si lo haces, puedes descartarâ€¦Â», Â¿se podrÃ­a descartar sin un rival elegible?",
+        "resumen_respuestas":  "Se responde que no: si no se resuelve por completo elegir el personaje, no puede resolverse el segundo efecto secuencial condicionado.",
+        "notas":  [
+                      "Este caso modifica expresamente el texto de Milo. No es el funcionamiento de la carta impresa ni una consulta de Set14.",
+                      "Mantener separado del caso real1166â€“1171."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Milo (texto hipotÃ©tico)"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-133",
+        "titulo":  "DecisiÃ³n arbitral en retransmisiÃ³n: Luisa con3 de daÃ±o sin otros personajes",
+        "pregunta":  "Â¿QuÃ© ocurriÃ³ en Sailor contra Dillon del campeonato norteamericano y fue correcto impedir mover el daÃ±o de Luisa?",
+        "resumen_respuestas":  "Un participante relata que Luisa tenÃ­a3 de daÃ±o y no habÃ­a otros personajes de los que moverlo. Afirma que impedir mover el daÃ±o de Luisa fue incorrecto y que la decisiÃ³n no se apelÃ³.",
+        "notas":  [
+                      "Es una afirmaciÃ³n del canal sobre una partida externa, no una verificaciÃ³n independiente del vÃ­deo.",
+                      "Fusionar o enlazar con la consulta de reglas sobre Luisa del Ã­ndice118, conservando el incidente de arbitraje como variante."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Luisa (coste5)"
+                               ],
+        "ambito":  "arbitraje_torneos"
+    },
+    {
+        "id":  "CASO-134",
+        "titulo":  "Ursula â€“ Voice Stealer sin personaje rival preparado",
+        "pregunta":  "Â¿Ursula â€“ Voice Stealer permite jugar una canciÃ³n si el Ãºnico personaje rival ya estÃ¡ agotado?",
+        "resumen_respuestas":  "Se responde que no se puede elegir al personaje agotado con esa habilidad; el segundo efecto carece de referencia y no permite jugar una canciÃ³n.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Ursula â€“ Voice Stealer",
+                                   "Elsa â€“ Spirit of Winter"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-135",
+        "titulo":  "Milo: descartar obliga a devolver un personaje elegible",
+        "pregunta":  "Â¿Puede Milo descartar sin devolver ningÃºn personaje? Si es el Ãºnico personaje en juego, Â¿debe devolverse a sÃ­ mismo?",
+        "resumen_respuestas":  "Se responde que Â«you mayÂ» cubre toda la oraciÃ³n: si se descarta, se debe devolver un personaje vÃ¡lido. Si solo estÃ¡ Milo, debe devolverse a sÃ­ mismo.",
+        "notas":  [
+                      "Separar de la redacciÃ³n hipotÃ©tica de1149; aquÃ­ se discute el texto real."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Milo"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-136",
+        "titulo":  "Violet â€“ Learning New Powers y John Smith sin daÃ±o",
+        "pregunta":  "Â¿Puede elegirse John Smith â€“ Undaunted Protector sin daÃ±o como origen del daÃ±o que Violet intenta mover? Â¿CambiarÃ­a si el texto exigiera un personaje daÃ±ado?",
+        "resumen_respuestas":  "Se responde que John Smith es una elecciÃ³n legal aunque no tenga daÃ±o. SerÃ­a distinto si el texto exigiera expresamente un personaje daÃ±ado.",
+        "notas":  [
+
+                  ],
+        "cartas_mencionadas":  [
+                                   "Violet Parr â€“ Learning New Powers",
+                                   "John Smith â€“ Undaunted Protector"
+                               ],
+        "ambito":  "reglas_juego"
+    },
+    {
+        "id":  "CASO-137",
+        "titulo":  "Robinâ€™s Bow externo devuelto al mazo en Coconut",
+        "pregunta":  "Â¿Robinâ€™s Bow traÃ­do desde la colecciÃ³n puede entrar en el mazo mediante Youâ€™re Welcome?",
+        "resumen_respuestas":  "Se responde que, una vez en juego, se comporta como cualquier otro objeto y puede ir al mazo.",
+        "notas":  [
+                      "Relacionar con el caso de colecciÃ³n de1118, manteniendo esta variante de cambio de zona."
+                  ],
+        "cartas_mencionadas":  [
+                                   "Robinâ€™s Bow",
+                                   "Youâ€™re Welcome"
+                               ],
+        "ambito":  "reglas_juego"
+    }
+]

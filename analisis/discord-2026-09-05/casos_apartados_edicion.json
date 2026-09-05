@@ -1,0 +1,23 @@
+{
+  "fuente_sha256": "c37e3410f0d44dc09d5c8e3940d29875f6a3d2d6fdadeafe67149377984f6c7b",
+  "alcance": "Listado y agrupación semántica. Respuestas del canal sin validar y cobertura wiki pendiente.",
+  "criterio_edicion": "Criterio confirmado por el usuario: apartar únicamente dudas del Set 14 que no tengan definición en nuestra wiki. Se conservan las del Set 13, los casos de reglas generales y los de Coconut. No se descarta una consulta solo por su fecha, por hablar de reglas nuevas o por no identificar la carta de una imagen.",
+  "mensajes_revisados": 1190,
+  "casos_antes_filtro": 138,
+  "casos_conservados": 138,
+  "casos_apartados": 0,
+  "ambitos_conservados": {
+    "documentacion_formatos": 9,
+    "reglas_juego": 96,
+    "arbitraje_torneos": 26,
+    "organizacion_herramientas": 7
+  },
+  "estado_respuestas_conservadas": {
+    "respuesta_presente": 106,
+    "debate_sin_cierre": 22,
+    "sin_respuesta": 4,
+    "contexto_insuficiente": 6
+  },
+  "advertencia": "Historial incompleto; adjuntos no leídos. Las respuestas son testimonios del canal, no conclusiones oficiales. La agrupación no implica corrección de las respuestas.",
+  "casos": []
+}

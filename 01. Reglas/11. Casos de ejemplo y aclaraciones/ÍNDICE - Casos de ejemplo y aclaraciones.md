@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 170 | **Última actualización:** 26 de julio de 2026
+**Total de casos:** 193 | **Última actualización:** 5 de septiembre de 2026
 
 ---
 
@@ -48,7 +48,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
 ---
 
-### 11.2. Zonas y Movimientos (22 casos)
+### 11.2. Zonas y Movimientos (23 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -74,10 +74,11 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 20. [Ursula - Deal Maker solo puede elegir un personaje en juego.md](<11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md>)
 21. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
 22. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
+23. [Diablo y el robo aparente tras un desafío.md](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>) **(DISCORD 2026)**
 
 ---
 
-### 11.3. Costes y Requisitos (18 casos)
+### 11.3. Costes y Requisitos (20 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -99,10 +100,12 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 16. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
 17. [Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md](<11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md>)
 18. [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) **(NUEVO: ATTACK OF THE VINE)**
+19. [Permisos adicionales para entintar se acumulan.md](<11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md>) **(DISCORD 2026)**
+20. [Entintar boca arriba en torneo.md](<11.3. Costes y Requisitos/Entintar boca arriba en torneo.md>) **(DISCORD 2026)**
 
 ---
 
-### 11.4. Habilidades (32 casos)
+### 11.4. Habilidades (34 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -138,10 +141,12 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 30. [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
 31. [Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md](<11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md>) **(NUEVO: ATTACK OF THE VINE)**
 32. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
+33. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)**
+34. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
 
 ---
 
-### 11.5. Keywords (16 casos)
+### 11.5. Keywords (18 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
 
@@ -161,10 +166,12 @@ Casos sobre palabras clave específicas de Lorcana.
 14. [Temporary Shift funciona aunque quede en medio de la pila.md](<11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md>) **(NUEVO: ATTACK OF THE VINE)**
 15. [Tiana y su trigger post canción.md](<11.5. Keywords/Tiana y su trigger post canción.md>)
 16. [We Know The Way no puede seleccionarse a sí misma.md](<11.5. Keywords/We Know The Way no puede seleccionarse a sí misma.md>)
+17. [Cantar no es usar una habilidad activada.md](<11.5. Keywords/Cantar no es usar una habilidad activada.md>)
+18. [Torrent solo reduce el siguiente coste de Shift.md](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>)
 
 ---
 
-### 11.6. Interacciones Complejas (44 casos)
+### 11.6. Interacciones Complejas (60 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -178,40 +185,56 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 8. [Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md](<11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md>)
 9. [Demona con Dale - Challenger no suma a la Voluntad.md](<11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md>)
 10. [Demona con Diablo - Devoted Herald.md](<11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald.md>)
-11. [Elsa – Spirit of Winter elegir personaje agotado.md](<11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md>)
-12. [Fergus - Outpost Builder, Hold Fast y alcance del descarte.md](<11.6. Interacciones Complejas/Fergus - Outpost Builder, Hold Fast y alcance del descarte.md>)
-13. [Giant Cobra sin cartas en la mano.md](<11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md>)
-14. [GSC y el final de partida.md](<11.6. Interacciones Complejas/GSC y el final de partida.md>)
-15. [GSC y habilidades que dañan.md](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
-16. [Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md](<11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md>)
-17. [Horned King - Toca descarte antes de volver a mano.md](<11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md>)
-18. [John Smith - Choose up to X no evita restricción.md](<11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md>)
-19. [John Smith - Do your worst y restricción de elección.md](<11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md>)
-20. [John Smith - Elegir menos objetivos no esquiva restricción.md](<11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md>)
-21. [John Smith - Elegir mismo personaje múltiples veces.md](<11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md>)
-22. [John Smith - Obligado elegir si objetivo válido.md](<11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md>)
-23. [Lady - Miss Park Avenue shift.md](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>)
-24. [Legalidad de cartas firmadas.md](<11.6. Interacciones Complejas/Legalidad de cartas firmadas.md>)
-25. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
-26. [Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md>)
-27. [Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md](<11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md>)
-28. [Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
-29. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
-30. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
-31. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
-32. [Oswald y Keep the Ancient Ways.md](<11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md>)
-33. [Piercing Attack ignora Resist de Omnidroid.md](<11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md>) **(NUEVO: ATTACK OF THE VINE)**
-34. [Posey - Vampire Potato puede usar Potato Shift sobre Morph.md](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>) **(NUEVO: ATTACK OF THE VINE)**
-35. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
-36. [Rapunzel conserva su protección si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>)
-37. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
-38. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
-39. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
-40. [Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
-41. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
-42. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
-43. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
-44. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
+11. [Elisa Maza - Forever Strong y reducciones de Fuerza previas.md](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
+12. [Elsa – Spirit of Winter elegir personaje agotado.md](<11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md>)
+13. [Fergus - Outpost Builder, Hold Fast y alcance del descarte.md](<11.6. Interacciones Complejas/Fergus - Outpost Builder, Hold Fast y alcance del descarte.md>)
+14. [Giant Cobra sin cartas en la mano.md](<11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md>)
+15. [GSC y el final de partida.md](<11.6. Interacciones Complejas/GSC y el final de partida.md>)
+16. [GSC y habilidades que dañan.md](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
+17. [Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md](<11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md>)
+18. [Horned King - Toca descarte antes de volver a mano.md](<11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md>)
+19. [John Smith - Choose up to X no evita restricción.md](<11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md>)
+20. [John Smith - Do your worst y restricción de elección.md](<11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md>)
+21. [John Smith - Elegir menos objetivos no esquiva restricción.md](<11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md>)
+22. [John Smith - Elegir mismo personaje múltiples veces.md](<11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md>)
+23. [John Smith - Obligado elegir si objetivo válido.md](<11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md>)
+24. [Lady - Miss Park Avenue shift.md](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>)
+25. [Legalidad de cartas firmadas.md](<11.6. Interacciones Complejas/Legalidad de cartas firmadas.md>)
+26. [Luisa Madrigal - I Can Take It, condición Then-if y GSC.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
+27. [Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md>)
+28. [Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md](<11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md>)
+29. [Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
+30. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
+31. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
+32. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
+33. [Oswald y Keep the Ancient Ways.md](<11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md>)
+34. [Piercing Attack ignora Resist de Omnidroid.md](<11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md>) **(NUEVO: ATTACK OF THE VINE)**
+35. [Posey - Vampire Potato puede usar Potato Shift sobre Morph.md](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>) **(NUEVO: ATTACK OF THE VINE)**
+36. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
+37. [Rapunzel conserva su protección si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>)
+38. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
+39. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
+40. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
+41. [Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
+42. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
+43. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
+44. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
+45. [Usar cartas de anteriores sets reeditadas.md](<11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md>)
+46. [Carta con error de impresión y comunicación del valor correcto.md](<11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md>)
+47. [Cartas en idiomas extranjeros en torneos.md](<11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos.md>)
+48. [Fichas de recordatorio sobre el mazo.md](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>)
+49. [Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md](<11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md>)
+50. [Retro Evolution Device y mano privada.md](<11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md>)
+51. [Set Championship con 65 jugadores o más.md](<11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md>)
+52. [Legalidad y prohibiciones - fuente oficial vigente.md](<11.6. Interacciones Complejas/Legalidad y prohibiciones - fuente oficial vigente.md>) **(DISCORD 2026)**
+53. [Wilds Unknown - sets legales según anuncio del evento.md](<11.6. Interacciones Complejas/Wilds Unknown - sets legales según anuncio del evento.md>) **(DISCORD 2026)**
+54. [Set Championships - decklists y deck checks.md](<11.6. Interacciones Complejas/Set Championships - decklists y deck checks.md>) **(DISCORD 2026)**
+55. [Top Cut - quién elige empezar en cada partida.md](<11.6. Interacciones Complejas/Top Cut - quién elige empezar en cada partida.md>) **(DISCORD 2026)**
+56. [Descalificación y eventos paralelos.md](<11.6. Interacciones Complejas/Descalificación y eventos paralelos.md>) **(DISCORD 2026)**
+57. [Sideboard en Limited - sellado, draft y presentación.md](<11.6. Interacciones Complejas/Sideboard en Limited - sellado, draft y presentación.md>) **(DISCORD 2026;y)**
+58. [Fundas opacas y legalidad en torneo.md](<11.6. Interacciones Complejas/Fundas opacas y legalidad en torneo.md>) **(DISCORD 2026)**
+59. [Nombres de mazo y conducta en torneo.md](<11.6. Interacciones Complejas/Nombres de mazo y conducta en torneo.md>) **(DISCORD 2026)**
+60. [Guías comunitarias de GooglyGlimmers.md](<11.6. Interacciones Complejas/Guías comunitarias de GooglyGlimmers.md>) **(DISCORD 2026)**
 
 ---
 
@@ -227,18 +250,60 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 ---
 
+### Casos incorporados desde Discord (validación 72+26)
+
+> 15 casos revisados: 63 duplicados descartados, 20 ampliaciones y 14 artículos nuevos (dos casos de Limited comparten artículo).
+
+- [Legalidad y prohibiciones: fuente oficial vigente](<11.6. Interacciones Complejas/Legalidad y prohibiciones - fuente oficial vigente.md>)
+- [Wilds Unknown: sets legales según anuncio del evento](<11.6. Interacciones Complejas/Wilds Unknown - sets legales según anuncio del evento.md>)
+- [Set Championships: decklists y deck checks](<11.6. Interacciones Complejas/Set Championships - decklists y deck checks.md>)
+- [Top Cut: quién elige empezar en cada partida](<11.6. Interacciones Complejas/Top Cut - quién elige empezar en cada partida.md>)
+- [Diablo y el robo aparente tras un desafío](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>)
+- [Permisos adicionales para entintar se acumulan](<11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md>)
+- [Descalificación y eventos paralelos](<11.6. Interacciones Complejas/Descalificación y eventos paralelos.md>)
+- [Bruno y equipos con varios nombres](<11.4. Habilidades/Bruno y equipos con varios nombres.md>)
+- [Sideboard en Limited: sellado, draft y presentación](<11.6. Interacciones Complejas/Sideboard en Limited - sellado, draft y presentación.md>)
+- [Fundas opacas y legalidad en torneo](<11.6. Interacciones Complejas/Fundas opacas y legalidad en torneo.md>)
+- [Nombres de mazo y conducta en torneo](<11.6. Interacciones Complejas/Nombres de mazo y conducta en torneo.md>)
+- [Source of the Vine y responsabilidad de anunciar](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>)
+- [Entintar boca arriba en torneo](<11.3. Costes y Requisitos/Entintar boca arriba en torneo.md>)
+- [Guías comunitarias de GooglyGlimmers](<11.6. Interacciones Complejas/Guías comunitarias de GooglyGlimmers.md>)
+
+#### Ampliaciones en artículos existentes
+
+- [Heredar una palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>)
+- [Set Championship con 65 jugadores o más](<11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md>)
+- [Fichas de recordatorio sobre el mazo](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>)
+- [Reversión de jugadas (takebacks)](<../10. Artículos/Reversión de jugadas (takebacks).md>)
+- [Reversión de jugadas (takebacks)](<../10. Artículos/Reversión de jugadas (takebacks).md>)
+- [4.5 Resultado de un encuentro inapropiado (Improper Match Result)](<../../04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md>)
+- [Habilidades estáticas presentes en juego y sus interacciones](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>)
+- [Posey - Vampire Potato puede usar Potato Shift sobre Morph](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
+- [Escudos (replacement) vs Resist](<11.4. Habilidades/Escudos (replacement) vs Resist.md>)
+- [Desterrar y volver a la mano desde la zona de juego](<11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md>)
+- [Resolución parcial sin objetivo válido](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
+- [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>)
+- [Qué pasa cuando se juegan dos cartas a la vez](<11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md>)
+- [Tod + You Came Back y habilidades en el Bolsa](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
+- [Formato Coconut (Beta)](<../9. Multijugador (Multiplayer)/Formato Coconut (Beta).md>)
+- [Formato Coconut (Beta)](<../9. Multijugador (Multiplayer)/Formato Coconut (Beta).md>)
+- [Formato Coconut (Beta)](<../9. Multijugador (Multiplayer)/Formato Coconut (Beta).md>)
+- [Cartas Coconut de la beta](<../9. Multijugador (Multiplayer)/Cartas Coconut de la beta.md>)
+- [Luisa Madrigal - I Can Take It, condición Then-if y GSC](<11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md>)
+- [Formato Coconut (Beta)](<../9. Multijugador (Multiplayer)/Formato Coconut (Beta).md>)
+
 ## 📊 Estadísticas
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 33    | 19.4%   |
-| **11.2 Zonas y Movimientos**     | 22    | 12.9%   |
-| **11.3 Costes y Requisitos**     | 18    | 10.6%   |
-| **11.4 Habilidades**             | 32    | 18.8%   |
-| **11.5 Keywords**                | 16    | 9.4%    |
-| **11.6 Interacciones Complejas** | 44    | 25.9%   |
-| **11.7 Dudas por desarrollar**   | 5     | 2.9%    |
-| **TOTAL**                        | **170** | **100%** |
+| **11.0 Timing y Resolución**     | 33    | 17.1%   |
+| **11.2 Zonas y Movimientos**     | 23    | 11.9%   |
+| **11.3 Costes y Requisitos**     | 20    | 10.4%   |
+| **11.4 Habilidades**             | 34    | 17.6%   |
+| **11.5 Keywords**                | 18    | 9.3%    |
+| **11.6 Interacciones Complejas** | 60    | 31.1%   |
+| **11.7 Dudas por desarrollar**   | 5     | 2.6%    |
+| **TOTAL**                        | **193** | **100%** |
 
 ---
 
@@ -246,6 +311,7 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 ### Por mecánica de cartas
 - **Angel**: [Let The Storm Rage On sobre Angel - Experiment 624](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
+- **Elisa Maza**: [Forever Strong y reducciones de Fuerza previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
 - **Tiana**: [Efecto de Tiana...](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>) | [Tiana y Rapunzel...](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>) | [Cálculo fuerza Tiana...](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
 - **Merida**: [Merida - Steady Aim con Grab Your Sword y Ward](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>) | [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
 - **Rapunzel**: [Rapunzel conserva su protección con Resist 0](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
@@ -255,7 +321,9 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 ### Por concepto
 - **GSC (Game State Check)**: [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
 - **Obligaciones y prohibiciones**: [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) | [Strange Things y This Growing Pressure](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
-- **Efecto estático**: [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
+- **Efecto estático**: [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) | [Elisa Maza y reducciones previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
 - **Reemplazo**: [Aplicación múltiples efectos reemplazo (Escudos)](<11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Helga Sinclair - Prepared for Anything...](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>) | [Interacción reemplazo vs habilidades disparadas...](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
+
+- **Dudas depuradas del foro de Discord**: [Cantar no es usar una habilidad activada](<11.5. Keywords/Cantar no es usar una habilidad activada.md>) | [Torrent solo reduce el siguiente coste de Shift](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>) | [Cartas en idiomas extranjeros en torneos](<11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos.md>) | [Fichas de recordatorio sobre el mazo](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>) | [Retro Evolution Device y mano privada](<11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md>) | [Lyle Tiberius Rourke y Rapunzel & Flynn Rider](<11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md>) | [Set Championship con 65 jugadores o más](<11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md>) | [Carta con error de impresión y comunicación](<11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md>)
 
 ---

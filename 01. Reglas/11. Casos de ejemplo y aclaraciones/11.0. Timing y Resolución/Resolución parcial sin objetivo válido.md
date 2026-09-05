@@ -34,3 +34,11 @@ Sí. La primera no puede resolverse al no tener un objetivo válido, por lo que 
 ## 🏷️ Tags
 
 #challenger #clause #interaction #ward
+
+---
+
+### Pagar Scream Canister sin objetivo legal
+
+Scream Canister puede activarse y pagarse aunque no exista un objetivo legal para su efecto. El coste se paga al iniciar la acción; al resolver, se hace todo lo posible y se omite la elección que no tiene objetivo. Pagar el coste no convierte una elección sin objetivo en una elección válida.
+
+Fundamento: reglas 1.2.3, 4.3.2 y 6.7.2 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].

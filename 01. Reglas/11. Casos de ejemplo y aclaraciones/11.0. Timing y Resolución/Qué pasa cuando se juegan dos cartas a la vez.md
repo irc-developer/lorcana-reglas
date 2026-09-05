@@ -51,3 +51,10 @@ Esta habilidad disparada es de tipo [[7.4.4 Condición de activación C1 si C2 e
 
 #simultaneous-effects #resolution-order #bag #active-player#simultaneou-effect
 
+---
+
+### Touch the Sky no usa «chosen»
+
+El texto impreso de Touch the Sky dice «move a character of yours» y no contiene una elección «chosen». Por eso no satisface una condición de Tod que requiera que el personaje sea elegido para una acción o habilidad de objeto. La variante hipotética que permitiría mover personajes rivales no forma parte de la carta y no produce una regla aplicable sobre Ward.
+
+Fundamento: reglas 5.2.6 y 6.7 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], junto al texto vigente de Touch the Sky.

@@ -1,0 +1,22 @@
+{
+  "criterio_edicion": "Criterio confirmado por el usuario: apartar únicamente dudas del Set 14 que no tengan definición en nuestra wiki. Se conservan las del Set 13, los casos de reglas generales y los de Coconut. No se descarta una consulta solo por su fecha, por hablar de reglas nuevas o por no identificar la carta de una imagen.",
+  "fusiones": [
+    {
+      "partes": ["P1-49", "P3-44"],
+      "ajustes": {
+        "titulo": "Dados para indicar el tamaño de la mano",
+        "pregunta": "¿Está permitido utilizar un dado para representar cuántas cartas quedan en la mano y qué debe hacerse si se usa?",
+        "notas": ["Se fusionan las consultas de los índices 362–383 y 1138–1140, que plantean la misma cuestión de seguimiento de la mano."]
+      }
+    },
+    {
+      "partes": ["P1-51", "P2-01"],
+      "ajustes": {
+        "titulo": "Cómo fomentar las llamadas al juez y reducir trampas",
+        "pregunta": "¿Cómo conseguir que los jugadores se sientan cómodos llamando a un juez cuando tienen una duda o sospechan una irregularidad?",
+        "notas": ["Se fusiona la pregunta del índice 396 con su continuación en los índices 400–408."]
+      }
+    }
+  ],
+  "ajustes": {}
+}

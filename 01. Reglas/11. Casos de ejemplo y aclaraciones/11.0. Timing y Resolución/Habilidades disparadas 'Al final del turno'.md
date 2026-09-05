@@ -1,57 +1,39 @@
-﻿## ❓ Duda
+## ❓ Duda
 
-**Caso 1:**
-Al final del turno tengo un [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Mr. Smee - Bumbling Mate|Mr. Smee - Bumbling Mate]] agotado con un daño sobre él y [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Goofy - Groundbreaking Chef|Goofy - Groundbreaking Chef]].  
-¿Puedo resolver primero el curar y enderezar sobre Mr. Smee y así evitar su efecto?
-
-Y al revés: el Mr. Smee no tiene ningún daño.  
-¿Puedo hacerle recibir el daño primero para luego curarlo y enderezarlo?
-
-**Caso 2:**
-- En mesa tengo [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] y dos cartas en mano.  
-- Mi oponente tiene un [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] agotado y cuatro cartas en mano.  
-
-Declaro el final del turno, lo que hace que la habilidad de **Clarabelle** entre en la bolsa, permitiéndome robar dos cartas.  
-Como robo dos cartas, se dispara dos veces la habilidad del **Diablo**.  
-¿Volvería a robar con Clarabelle debido a su habilidad?
+¿Una habilidad que se dispara al final del turno vuelve a dispararse si, durante esa misma fase, otra habilidad cambia el estado que la habilidad comprueba?
 
 ---
 
 ## ✅ Respuesta
 
-**Caso 1:**
-Sí.  Todas las habilidades que se disparan **al final del turno** se añaden **simultáneamente a la bolsa**, y es el **jugador activo** quien decide en qué orden se resuelven.  
+**No.** Una habilidad disparada al final del turno se añade a la bolsa una vez cuando se cumple su condición de disparo. Si además tiene una condición secundaria, esa condición se comprueba al resolverla.
 
-Esto permite, por ejemplo:  
-- Resolver primero la habilidad de **Mr. Smee** para luego activar la de **Goofy**, curando y enderezando el personaje.  
-- O bien hacerlo al revés, resolviendo primero la de Goofy para evitar el efecto de Mr. Smee.
+Por ejemplo, [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] entra en la bolsa al final del turno aunque tenga el mismo número de cartas que el oponente. Si al resolverla sigue empatada, no roba. Si otra habilidad cambia después el tamaño de las manos, Clarabelle no vuelve a entrar en la bolsa.
 
-**Caso 2:**
-No.  Los *triggers* de **final de turno** solo se disparan **una vez por turno**, en el momento en que comienza la fase de [[01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase)|final de turno]].  
-No se vuelven a disparar si durante esa misma fase ocurren nuevas condiciones similares.
-
----
+Esto no impide que otras habilidades distintas se disparen por los eventos que ocurran durante la resolución; simplemente no crea una segunda instancia de la misma condición de final de turno.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase)]]
-- [[01. Reglas/4. Estructura del turno (Turn Structure)/4.4. Final del turno (End Of Turn Phase)|final de turno]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Definición]]: una instancia se dispara por cada vez que se cumple su condición.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.4. Estructura Condicional 1, si Condicional 2, efecto|6.2.4. Condición secundaria]]: la condición secundaria se verifica al resolver.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Habilidades durante la resolución]]: los disparos nuevos esperan en la bolsa, pero son eventos nuevos.
+- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.2.1, 6.2.4 y 7.7.3.
 
 ---
 
 ## 🔄 Secuencia oficial
 
-1. Evento de inicio
-2. Costes y requisitos (si aplica)
-3. Elecciones y objetivos
-4. Resolución
-5. Disparos y bolsa
-6. GSC
+1. Comienza el final del turno y se comprueban las condiciones de disparo.
+2. Clarabelle se añade a la bolsa, sin comprobar todavía la diferencia de cartas.
+3. Se resuelven las habilidades en el orden correspondiente.
+4. Al resolver Clarabelle, se comprueba la condición secundaria con el número actual de cartas.
+5. Si es falsa, esa instancia se resuelve sin efecto.
+6. Cambios posteriores no reabren la condición de final de turno.
 
 ---
 
 ## 🏷️ Tags
 
-#end-of-turn-phase #end-of-turn-ability #order #triggered-ability
+#end-of-turn #triggered-ability #bag-priority #timing #resolution

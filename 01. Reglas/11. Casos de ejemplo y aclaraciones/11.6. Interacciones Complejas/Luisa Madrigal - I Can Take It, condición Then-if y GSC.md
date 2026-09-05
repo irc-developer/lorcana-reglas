@@ -109,3 +109,11 @@ No se deshace la activación porque la ilegalidad no estaba en **usar** la habil
 ## 🏷️ Tags
 
 #gsc #activated-ability #move-damage #take-damage #resist #sequential-effect #then-if #resolution #timing #luisa-madrigal
+
+---
+
+### Luisa con tres daños y sin otro personaje
+
+La regla de Luisa — I Can Take It permite mover su propio daño tanto como sea posible cuando no existe otro personaje legal. La conclusión reglamentaria se mantiene aunque el relato de la retransmisión y la decisión arbitral concreta no estén verificados; esos hechos deben separarse y no citarse como precedente sin vídeo o acta.
+
+Fundamento: artículo de Luisa — I Can Take It y reglas 1.9.2.4 y 6.7.2 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].

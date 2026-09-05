@@ -44,3 +44,11 @@
 ## 🏷️ Tags
 
 #replacement-effects #timing #play-card #extrinsic #intrinsic #bodyguard #abilities #rush
+
+---
+
+### Aplicar conjuntamente daño y agotamiento al entrar
+
+Las modificaciones de cómo una carta entra en juego no son efectos de reemplazo independientes que obliguen a escoger uno. Si un efecto hace que el personaje entre con daño y otro hace que entre agotado, se aplican ambos durante la resolución de la jugada, salvo que el propio texto establezca una incompatibilidad. El personaje puede quedar agotado y con daño mientras sigue secándose.
+
+Fundamento: reglas 4.3.3 y 6.7.9 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].

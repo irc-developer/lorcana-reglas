@@ -114,3 +114,11 @@ Cada elección está vinculada a una carta normal de Disney Lorcana. Esa carta a
 - [Disney Lorcana TCG Resources](https://www.disneylorcana.com/en-US/resources/).
 
 #multiplayer #deck-construction
+
+---
+
+### Ursula Coconut y Angel — Underdog
+
+Angel — Siren Singer tiene Singer 3. La habilidad Coconut de Ursula — Deceiver of All hace que los personajes cuenten como si tuvieran coste +1 al cantar, por lo que Angel cuenta como coste 4 para esa canción. La comprobación depende de usar los textos vigentes de ambas cartas; no se puede calcular con un resumen incompleto.
+
+Fundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Cartas Coconut de la beta.md|Cartas Coconut de la beta]] y el listado de cartas de Winterspell.

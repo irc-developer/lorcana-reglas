@@ -1,0 +1,1214 @@
+{
+  "fecha": "2026-09-05",
+  "fuente": "analisis/discord-2026-09-05/validacion_casos_102.json",
+  "alcance": "72 correctas y 26 parciales; se excluyen incorrecta, desactualizada y pendientes",
+  "resumen": {
+    "casos_utilizados": 98,
+    "duplicados_descartados": 63,
+    "ampliaciones": 20,
+    "articulos_nuevos": 14,
+    "casos_nuevos": 15,
+    "articulos_incorporados": 14,
+    "ampliaciones_incorporadas": 20
+  },
+  "casos": [
+    {
+      "id": "CASO-001",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad y prohibiciones - fuente oficial vigente.md"
+      ],
+      "respuesta_corregida": "La referencia vinculante es el comunicado o la lista oficial vigente para el evento, junto con las Tournament Rules aplicables. La aplicación oficial sirve como consulta auxiliar y puede ayudar a detectar una discrepancia, pero no sustituye un anuncio posterior ni una errata publicada. Si dos fuentes oficiales parecen incompatibles, se conserva la fecha de cada una y se consulta al Lore Guide del evento antes de registrar la legalidad.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-002",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md"
+      ]
+    },
+    {
+      "id": "CASO-003",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md"
+      ]
+    },
+    {
+      "id": "CASO-004",
+      "veredicto_validacion": "correcta",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift.md"
+      ],
+      "respuesta_corregida": "### CASO-004 — Bronx: preparado no significa seco\n\nAl hacer Shift, hay que distinguir dos estados independientes: **preparado/agotado** y **seco/secándose**. Bronx puede estar preparado y seguir secándose si acaba de entrar en juego; prepararlo no elimina la restricción de secado. El personaje superior hereda el estado correspondiente según las reglas de Shift, pero no convierte una carta recién jugada en una carta seca.\n\nFundamento: regla 1.7.5 y regla 8.10.4 de {CR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift.md"
+      ]
+    },
+    {
+      "id": "CASO-005",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md"
+      ]
+    },
+    {
+      "id": "CASO-006",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md"
+      ]
+    },
+    {
+      "id": "CASO-007",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md"
+      ]
+    },
+    {
+      "id": "CASO-008",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md"
+      ]
+    },
+    {
+      "id": "CASO-009",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md"
+      ]
+    },
+    {
+      "id": "CASO-010",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Wilds Unknown - sets legales según anuncio del evento.md"
+      ],
+      "respuesta_corregida": "No puede decidirse entre «9–12» y «todo Core» usando solo una tabla actual de Tournament Rules. En un campeonato concreto manda el anuncio o kit de ese evento, con su fecha y formato. La tabla de Core permite comprobar qué era legal en la fecha de la regla, pero no demuestra por sí sola las instrucciones históricas de Wilds Unknown. Hasta localizar ese anuncio, la respuesta debe quedar como provisional y no publicarse como regla general.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-011",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md"
+      ]
+    },
+    {
+      "id": "CASO-012",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md"
+      ]
+    },
+    {
+      "id": "CASO-013",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Múltiples habilidades a la vez.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Múltiples habilidades a la vez.md"
+      ]
+    },
+    {
+      "id": "CASO-014",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championships - decklists y deck checks.md"
+      ],
+      "respuesta_corregida": "En los torneos Competitive y Premier los jugadores deben registrar su mazo; el organizador anuncia el método y la fecha límite. La obligación de entregar una lista no significa que el organizador tenga que revisar el mazo de todos los jugadores: las reglas exigen comprobaciones cuando sea posible y fijan una expectativa mínima del 10 % para Premier. La presencia de jueces y el procedimiento concreto deben anunciarse con el evento.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-015",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md"
+      ]
+    },
+    {
+      "id": "CASO-017",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Top Cut - quién elige empezar en cada partida.md"
+      ],
+      "respuesta_corregida": "En Top Cut Premier, antes de la primera partida se determina aleatoriamente qué jugador elige entre jugar primero o robar primero. En cada partida posterior elige quien perdió la partida anterior. En eliminación directa, el seed más alto de la fase suiza elige en la primera partida. Los eventos Competitive pueden anunciar una estructura distinta.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-018",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md"
+      ],
+      "respuesta_corregida": "### CASO-018 — 18 jugadores: tabla oficial de rondas y Top Cut\n\nCon 18 jugadores, la tabla de Set Championship asigna **5 rondas suizas y Top 8**. El cálculo de qué jugadores quedarían fuera de un Top 4 puede servir para explicar las consecuencias matemáticas, pero no autoriza sustituir la tabla por cuatro rondas y Top 4. Cualquier estructura distinta requiere autorización y debe anunciarse antes del evento.\n\nFundamento: sección 3.1–3.2 de {TR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md"
+      ]
+    },
+    {
+      "id": "CASO-020",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md"
+      ]
+    },
+    {
+      "id": "CASO-021",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md"
+      ]
+    },
+    {
+      "id": "CASO-022",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md"
+      ]
+    },
+    {
+      "id": "CASO-024",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "04. Guia de correccion de jugadas/02. Errores de reglas/2.4 Error general de reglas (General Rule Error).md",
+        "04. Guia de correccion de jugadas/05. Consejos generales/Causa raíz y corrección apropiada (GRE).md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "04. Guia de correccion de jugadas/02. Errores de reglas/2.4 Error general de reglas (General Rule Error).md",
+        "04. Guia de correccion de jugadas/05. Consejos generales/Causa raíz y corrección apropiada (GRE).md"
+      ]
+    },
+    {
+      "id": "CASO-026",
+      "veredicto_validacion": "correcta",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md"
+      ],
+      "respuesta_corregida": "No hay dos robos de Diablo en la secuencia descrita. Una carta vuelve a la mano por el efecto del lugar y solo la otra carta es el robo de Diablo. La interfaz del simulador puede mostrar ambos movimientos juntos; para revisar la jugada hay que reconstruir cada cambio de zona. Si el estado final coincide con esa secuencia, no queda una infracción de reglas pendiente.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-028",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md"
+      ]
+    },
+    {
+      "id": "CASO-029",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md"
+      ],
+      "respuesta_corregida": "Los permisos independientes para entintar una carta adicional se acumulan. Cada [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Sail the Azurite Sea|Sail the Azurite Sea]] concede una acción adicional durante ese turno; con dos copias puedes realizar las dos, además de tu acción normal de entintar, si aún tienes cartas en la mano y cumples el resto de requisitos.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-031",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md"
+      ]
+    },
+    {
+      "id": "CASO-035",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md"
+      ]
+    },
+    {
+      "id": "CASO-037",
+      "veredicto_validacion": "correcta",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Descalificación y eventos paralelos.md"
+      ],
+      "respuesta_corregida": "Una descalificación se aplica al evento en el que se dicta y no crea por sí sola una prohibición general del recinto ni de todos sus eventos paralelos. Para extender la exclusión debe existir una medida de elegibilidad o conducta comunicada por la organización. Si esa medida está documentada, se aplica según su alcance.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-039",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y habilidades que dañan.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y habilidades que dañan.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md"
+      ]
+    },
+    {
+      "id": "CASO-040",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md"
+      ],
+      "respuesta_corregida": "### CASO-040 — No usar números para recordar Fuerza o Voluntad\n\nLos dados, papeles o fichas con «+1», «−1» o «−3» no pueden representar cambios numéricos de Fuerza o Voluntad. Se pueden usar recordatorios no numéricos que no oculten cartas ni creen ambigüedad. La excepción numérica prevista en las reglas de torneo es el daño.\n\nFundamento: secciones 5.1–5.2 de {TR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md"
+      ]
+    },
+    {
+      "id": "CASO-042",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md"
+      ]
+    },
+    {
+      "id": "CASO-049",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md"
+      ]
+    },
+    {
+      "id": "CASO-051",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/10. Artículos/Reversión de jugadas (takebacks).md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/10. Artículos/Reversión de jugadas (takebacks).md"
+      ]
+    },
+    {
+      "id": "CASO-052",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md"
+      ]
+    },
+    {
+      "id": "CASO-054",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md"
+      ]
+    },
+    {
+      "id": "CASO-055",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md"
+      ]
+    },
+    {
+      "id": "CASO-056",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md"
+      ]
+    },
+    {
+      "id": "CASO-058",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/10. Artículos/Reversión de jugadas (takebacks).md"
+      ],
+      "respuesta_corregida": "### CASO-058 — Acciones agrupadas y takeback\n\nSolicitar lore con varios personajes puede tratarse como una secuencia agrupada fuera de orden si las acciones son inmediatas y no se obtuvo información nueva. La aplicación de la reversión sigue siendo una decisión del Lore Guide: no se concede automáticamente por haber actuado de forma agrupada. La fecha histórica atribuida al anuncio de esta política no queda verificada en la documentación local.\n\nFundamento: política de reversión de jugadas y sección 3.7 de {TR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/10. Artículos/Reversión de jugadas (takebacks).md"
+      ]
+    },
+    {
+      "id": "CASO-062",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Bruno y equipos con varios nombres.md"
+      ],
+      "respuesta_corregida": "Al nombrar una carta con Bruno se usa un nombre de carta, tal como aparece impreso. Un personaje cuyo nombre contiene un equipo sigue siendo una sola carta de personaje, aunque el nombre incluya varios nombres separados por comas o conjunciones; no representa varias cartas ni varios personajes para una elección. [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Hamish, Hubert & Harris - Making Mischief|Hamish, Hubert & Harris]] debe tratarse como un único personaje con nombres múltiples: el nombre combinado y los nombres individuales pueden ser nombres distintos a efectos de una elección. La puntuación de esta carta genera una anomalía de redacción; si se discute qué fragmentos exactos forman cada nombre, hay que consultar el CRD o al Lore Guide.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-063",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/10. Artículos/Reversión de jugadas (takebacks).md"
+      ],
+      "respuesta_corregida": "### CASO-063 — Pasar turno y habilidades opcionales olvidadas\n\nPasar turno puede rebobinarse solo si el Lore Guide considera que se cumplen los criterios de takeback. Una habilidad opcional de final de turno y un pase omitido pueden formar una única secuencia únicamente cuando no hubo información nueva y los hechos lo permiten. Robar cartas o realizar otra acción con información privada normalmente impide la reversión.\n\nFundamento: artículo de reversión de jugadas y sección 3.7 de {TR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/10. Artículos/Reversión de jugadas (takebacks).md"
+      ]
+    },
+    {
+      "id": "CASO-064",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md"
+      ]
+    },
+    {
+      "id": "CASO-065",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Derrota, timing mazo vacío.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y el final de partida.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Derrota, timing mazo vacío.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y el final de partida.md"
+      ]
+    },
+    {
+      "id": "CASO-066",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Sideboard en Limited - sellado, draft y presentación.md"
+      ],
+      "respuesta_corregida": "No existe un permiso universal de sideboard entre partidas o rondas de Limited en la documentación consultada. El organizador debe anunciar cómo se construye el mazo y qué cambios, si alguno, están permitidos para ese evento. Una práctica de una tienda o de un evento secundario no se convierte en regla general; si no se anunció una excepción, se conserva el mazo registrado durante el encuentro.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-067",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md"
+      ],
+      "respuesta_corregida": "### CASO-067 — Separar reparto de premios y resultado del encuentro\n\nEl reparto de premios disponibles solo es válido dentro del alcance del nivel del evento y con aceptación de todos los jugadores restantes. No se puede ofrecer dinero, bienes o una ventaja externa a cambio de conceder, ni decidir el resultado al azar. La concesión, una venta posterior de un premio y un reparto autorizado son hechos distintos y deben analizarse por separado.\n\nFundamento: sección 7.1 de {TR} y la guía de resultado de encuentro inapropiado.",
+      "fuentes_wiki_antes": [
+        "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md"
+      ]
+    },
+    {
+      "id": "CASO-068",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md"
+      ]
+    },
+    {
+      "id": "CASO-070",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md"
+      ],
+      "respuesta_corregida": "### CASO-070 — Aplicar conjuntamente daño y agotamiento al entrar\n\nLas modificaciones de cómo una carta entra en juego no son efectos de reemplazo independientes que obliguen a escoger uno. Si un efecto hace que el personaje entre con daño y otro hace que entre agotado, se aplican ambos durante la resolución de la jugada, salvo que el propio texto establezca una incompatibilidad. El personaje puede quedar agotado y con daño mientras sigue secándose.\n\nFundamento: reglas 4.3.3 y 6.7.9 de {CR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md"
+      ]
+    },
+    {
+      "id": "CASO-071",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md"
+      ]
+    },
+    {
+      "id": "CASO-072",
+      "veredicto_validacion": "correcta",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fundas opacas y legalidad en torneo.md"
+      ],
+      "respuesta_corregida": "Las fundas deben tener el reverso completamente opaco y no reflectante, ser uniformes y no presentar daños, marcas o diferencias que permitan distinguir cartas. «Mate» describe la textura, pero no garantiza opacidad. Un reverso translúcido no cumple el requisito aunque la funda sea mate.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-075",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md"
+      ]
+    },
+    {
+      "id": "CASO-076",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md"
+      ]
+    },
+    {
+      "id": "CASO-077",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md"
+      ]
+    },
+    {
+      "id": "CASO-078",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta.md"
+      ]
+    },
+    {
+      "id": "CASO-079",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md"
+      ]
+    },
+    {
+      "id": "CASO-080",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Enderezar un personaje.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Enderezar un personaje.md"
+      ]
+    },
+    {
+      "id": "CASO-082",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md"
+      ]
+    },
+    {
+      "id": "CASO-084",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Nombres de mazo y conducta en torneo.md"
+      ],
+      "respuesta_corregida": "El nombre de un mazo forma parte de la comunicación del evento y está sujeto a las normas de conducta. La organización o el Lore Guide puede rechazar o exigir cambiar un nombre ofensivo, discriminatorio o inapropiado. No hay una decisión documentada en la wiki que apruebe el nombre concreto «circle herc», así que no debe presentarse como permitido sin consultar al evento.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-086",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md"
+      ]
+    },
+    {
+      "id": "CASO-087",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md"
+      ]
+    },
+    {
+      "id": "CASO-088",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md"
+      ],
+      "respuesta_corregida": "### CASO-088 — Potato recién jugado y variante Morph\n\nLa parte inequívoca es esta: un objeto Potato jugado durante el turno sigue sin estar en juego al comienzo de ese turno. Aunque se prepare, un personaje que use Potato Shift sobre él entra **secándose**. La combinación de Potato Shift con Morph depende de cómo se aplique la regla especial de la variante y queda marcada para una aclaración oficial; no se debe presentar una conclusión única mientras el texto siga ambiguo.\n\nFundamento: reglas 1.7.5, 8.10.4 y 8.10.8 de {CR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md"
+      ]
+    },
+    {
+      "id": "CASO-089",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist.md"
+      ],
+      "respuesta_corregida": "### CASO-089 — Resist, daño infligido y daño recibido\n\nResist modifica el daño que recibe el objetivo. Si reduce la cantidad a cero, el efecto de origen sigue siendo un efecto que **inflige daño**, aunque el personaje no reciba daño. La cantidad que una habilidad de Mulan copie o utilice depende de su texto exacto y no debe inferirse del debate; hay que separar siempre daño indicado por el efecto, daño infligido y daño recibido.\n\nFundamento: reglas 1.9.3–1.9.5 y 8.8 de {CR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist.md"
+      ]
+    },
+    {
+      "id": "CASO-093",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist.md"
+      ]
+    },
+    {
+      "id": "CASO-094",
+      "veredicto_validacion": "correcta",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md"
+      ],
+      "respuesta_corregida": "El controlador de Source of the Vine debe comunicar su disparo obligatorio cuando un personaje rival hace una aventura. El rival decide si paga 1 tinta y esa elección debe quedar clara; el silencio no puede presumirse como una negativa a pagar. Ambos jugadores comparten la obligación de mantener el estado correcto y deben llamar al Lore Guide si el disparo se olvida.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-095",
+      "veredicto_validacion": "correcta",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md"
+      ],
+      "respuesta_corregida": "### CASO-095 — John Smith y un personaje que abandona el juego\n\nCon John Smith — Snow Tracker se comprueba el evento de desafío con el texto exacto de esa carta. Si el desafío se declaró y el evento ocurrió antes de que el personaje abandone el juego, el movimiento posterior no borra el evento ya ocurrido. No se debe trasladar esta conclusión a John Smith — Undaunted Protector, cuyo texto es distinto.\n\nFundamento: reglas 4.6.4–4.6.6 y 7.4.3 de {CR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md"
+      ]
+    },
+    {
+      "id": "CASO-096",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md"
+      ]
+    },
+    {
+      "id": "CASO-099",
+      "veredicto_validacion": "correcta",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md"
+      ],
+      "respuesta_corregida": "### CASO-099 — Pagar Scream Canister sin objetivo legal\n\nScream Canister puede activarse y pagarse aunque no exista un objetivo legal para su efecto. El coste se paga al iniciar la acción; al resolver, se hace todo lo posible y se omite la elección que no tiene objetivo. Pagar el coste no convierte una elección sin objetivo en una elección válida.\n\nFundamento: reglas 1.2.3, 4.3.2 y 6.7.2 de {CR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md"
+      ]
+    },
+    {
+      "id": "CASO-100",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md"
+      ]
+    },
+    {
+      "id": "CASO-101",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md"
+      ]
+    },
+    {
+      "id": "CASO-102",
+      "veredicto_validacion": "parcial",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Sideboard en Limited - sellado, draft y presentación.md"
+      ],
+      "respuesta_corregida": "No existe un permiso universal de sideboard entre partidas o rondas de Limited en la documentación consultada. El organizador debe anunciar cómo se construye el mazo y qué cambios, si alguno, están permitidos para ese evento. Una práctica de una tienda o de un evento secundario no se convierte en regla general; si no se anunció una excepción, se conserva el mazo registrado durante el encuentro.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-103",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md"
+      ],
+      "respuesta_corregida": "### CASO-103 — Hunny pertenece a cada versión de carta\n\nLas clasificaciones pertenecen a cada carta física concreta y no se transfieren entre versiones que comparten personaje. Para Winnie the Pooh — Hunny Wizard se aplica la errata o fuente de carta vigente; una aplicación que aún no la muestre no demuestra que la errata no exista.\n\nFundamento: regla 5.3 de {CR} y la errata publicada de la carta.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md"
+      ]
+    },
+    {
+      "id": "CASO-104",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y el final de partida.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y el final de partida.md"
+      ]
+    },
+    {
+      "id": "CASO-105",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md"
+      ]
+    },
+    {
+      "id": "CASO-107",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md"
+      ]
+    },
+    {
+      "id": "CASO-108",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md"
+      ]
+    },
+    {
+      "id": "CASO-109",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md"
+      ]
+    },
+    {
+      "id": "CASO-110",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md"
+      ]
+    },
+    {
+      "id": "CASO-111",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md"
+      ]
+    },
+    {
+      "id": "CASO-113",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md"
+      ]
+    },
+    {
+      "id": "CASO-114",
+      "veredicto_validacion": "correcta",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Entintar boca arriba en torneo.md"
+      ],
+      "respuesta_corregida": "No hay contradicción. Las Comprehensive Rules describen la acción normal de poner una carta en el tintero boca abajo. Las Tournament Rules añaden un procedimiento de torneo: la carta se mantiene boca arriba durante el turno en que se entinta y se gira boca abajo al final de ese turno. La excepción temporal sirve para comunicación y no cambia la regla general.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-115",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/No poder ganar lore por efecto estático.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/No poder ganar lore por efecto estático.md"
+      ]
+    },
+    {
+      "id": "CASO-116",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md"
+      ]
+    },
+    {
+      "id": "CASO-117",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y habilidades que dañan.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y habilidades que dañan.md"
+      ]
+    },
+    {
+      "id": "CASO-118",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad de cartas firmadas.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad de cartas firmadas.md"
+      ]
+    },
+    {
+      "id": "CASO-119",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md"
+      ],
+      "respuesta_corregida": "### CASO-119 — Touch the Sky no usa «chosen»\n\nEl texto impreso de Touch the Sky dice «move a character of yours» y no contiene una elección «chosen». Por eso no satisface una condición de Tod que requiera que el personaje sea elegido para una acción o habilidad de objeto. La variante hipotética que permitiría mover personajes rivales no forma parte de la carta y no produce una regla aplicable sobre Ward.\n\nFundamento: reglas 5.2.6 y 6.7 de {CR}, junto al texto vigente de Touch the Sky.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md"
+      ]
+    },
+    {
+      "id": "CASO-120",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md"
+      ]
+    },
+    {
+      "id": "CASO-122",
+      "veredicto_validacion": "correcta",
+      "decision": "articulo_nuevo",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Guías comunitarias de GooglyGlimmers.md"
+      ],
+      "respuesta_corregida": "Las guías de sets son un recurso comunitario y su disponibilidad cambia con el tiempo. Cuando no existe una guía escrita reciente, deben consultarse los canales o vídeos que el autor haya enlazado. Ese material puede ayudar a entender una interacción, pero no sustituye las Comprehensive Rules, las Tournament Rules ni una decisión del Lore Guide.",
+      "fuentes_wiki_antes": []
+    },
+    {
+      "id": "CASO-123",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md"
+      ]
+    },
+    {
+      "id": "CASO-124",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md"
+      ],
+      "respuesta_corregida": "### CASO-124 — Rechazar un «may» de Tod\n\nRechazar una opción «may» no cuenta como usarla. Por tanto, si Tod es elegido y su controlador decide no prepararlo, esa oportunidad no se consume; las oportunidades se cuentan cuando se usa la habilidad. La cantidad exacta de usos debe comprobarse en el texto vigente de Tod y no extrapolarse sin más desde un ejemplo de «once».\n\nFundamento: regla 6.1.13 de {CR} y el texto vigente de Tod — Knows All the Tricks.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md"
+      ]
+    },
+    {
+      "id": "CASO-125",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ],
+      "respuesta_corregida": "### CASO-125 — Legalidad de cartas en Coconut beta\n\nEl reglamento beta de Coconut define la construcción del mazo y la victoria a 25 de lore, pero no define un pool de sets, rotación ni lista de prohibiciones propia. No se puede afirmar que todas las cartas sean legales por defecto: el organizador debe anunciar la legalidad concreta del evento hasta que Coconut publique una política específica.\n\nFundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].",
+      "fuentes_wiki_antes": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ]
+    },
+    {
+      "id": "CASO-126",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ],
+      "respuesta_corregida": "### CASO-126 — Tiempo y estructura de un evento Coconut\n\nCoconut se publica como beta y no aporta rondas suizas, Top Cut ni un límite de tiempo de torneo. La tienda u organización debe fijar y anunciar la estructura, el tiempo y el procedimiento de emparejamientos. Una mesa abierta puede ser una opción práctica, pero no es una regla oficial del formato.\n\nFundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].",
+      "fuentes_wiki_antes": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ]
+    },
+    {
+      "id": "CASO-128",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ],
+      "respuesta_corregida": "### CASO-128 — «Collection» no es una zona definida\n\nLa hoja beta de Coconut no define «collection» como zona de juego ni indica cuántas copias externas deben llevarse. La carta asociada puede incluirse hasta cuatro veces y el resto es singleton; cualquier Robin's Bow que entre legalmente en juego se comporta después como un objeto normal. El número de cartas externas necesarias es una decisión del organizador o una interpretación que debe acordarse antes del evento.\n\nFundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].",
+      "fuentes_wiki_antes": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ]
+    },
+    {
+      "id": "CASO-129",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Cartas Coconut de la beta.md"
+      ],
+      "respuesta_corregida": "### CASO-129 — Ursula Coconut y Angel — Underdog\n\nAngel — Siren Singer tiene Singer 3. La habilidad Coconut de Ursula — Deceiver of All hace que los personajes cuenten como si tuvieran coste +1 al cantar, por lo que Angel cuenta como coste 4 para esa canción. La comprobación depende de usar los textos vigentes de ambas cartas; no se puede calcular con un resumen incompleto.\n\nFundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Cartas Coconut de la beta.md|Cartas Coconut de la beta]] y el listado de cartas de Winterspell.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Cartas Coconut de la beta.md"
+      ]
+    },
+    {
+      "id": "CASO-130",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md"
+      ]
+    },
+    {
+      "id": "CASO-131",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md"
+      ]
+    },
+    {
+      "id": "CASO-132",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md"
+      ]
+    },
+    {
+      "id": "CASO-133",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md"
+      ],
+      "respuesta_corregida": "### CASO-133 — Luisa con tres daños y sin otro personaje\n\nLa regla de Luisa — I Can Take It permite mover su propio daño tanto como sea posible cuando no existe otro personaje legal. La conclusión reglamentaria se mantiene aunque el relato de la retransmisión y la decisión arbitral concreta no estén verificados; esos hechos deben separarse y no citarse como precedente sin vídeo o acta.\n\nFundamento: artículo de Luisa — I Can Take It y reglas 1.9.2.4 y 6.7.2 de {CR}.",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md"
+      ]
+    },
+    {
+      "id": "CASO-134",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md"
+      ]
+    },
+    {
+      "id": "CASO-135",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md",
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md"
+      ]
+    },
+    {
+      "id": "CASO-136",
+      "veredicto_validacion": "correcta",
+      "decision": "duplicado_descartado",
+      "destinos": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades y sus efectos.md"
+      ],
+      "respuesta_corregida": "",
+      "fuentes_wiki_antes": [
+        "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades y sus efectos.md"
+      ]
+    },
+    {
+      "id": "CASO-137",
+      "veredicto_validacion": "parcial",
+      "decision": "ampliacion",
+      "destinos": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ],
+      "respuesta_corregida": "### CASO-137 — Robin's Bow y «collection»\n\nUna vez que Robin's Bow está en juego es un objeto normal y You're Welcome puede barajarlo si el objetivo es legal. Lo que Coconut beta no define es cómo una carta de «collection» entra en juego y pasa a formar parte del estado de la partida. Esa zona inicial debe acordarse o documentarse antes de aplicar la interacción.\n\nFundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].",
+      "fuentes_wiki_antes": [
+        "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md"
+      ]
+    }
+  ]
+}

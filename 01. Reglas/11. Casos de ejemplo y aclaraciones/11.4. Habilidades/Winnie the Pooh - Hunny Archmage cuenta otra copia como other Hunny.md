@@ -39,3 +39,11 @@ Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control p
 ## 🏷️ Tags
 
 #static-ability #scope #lore-gain
+
+---
+
+### Hunny pertenece a cada versión de carta
+
+Las clasificaciones pertenecen a cada carta física concreta y no se transfieren entre versiones que comparten personaje. Para Winnie the Pooh — Hunny Wizard se aplica la errata o fuente de carta vigente; una aplicación que aún no la muestre no demuestra que la errata no exista.
+
+Fundamento: regla 5.3 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y la errata publicada de la carta.

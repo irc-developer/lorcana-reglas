@@ -2,9 +2,9 @@
 
 **Uso**: Este es el archivo de referencia OBLIGATORIO para todos los tags usados en casos de ejemplo. Antes de usar un tag, **verificar que está en este registro**. Si es nuevo, agregarlo aquí en orden alfabético.
 
-**Última actualización**: 26 de julio de 2026
+**Última actualización**: 5 de septiembre de 2026
 
-**Total de tags**: 47
+**Total de tags**: 59
 
 ---
 
@@ -31,7 +31,10 @@
 | `#replacement-effect` | Efectos de reemplazo | Habilidades con "instead" |
 | `#shift` | Habilidad keyword Shift | Dudas sobre Shift y timing |
 | `#static-ability` | Habilidades estáticas (siempre activas) | Efectos constantes en juego |
+| `#strength-reduction` | Reducciones de Fuerza | Efectos que aplican modificadores negativos de Fuerza |
+| `#singing` | Cantar canciones | Diferencia entre cantar y usar habilidades |
 | `#triggered-ability` | Habilidades disparadas (When/Whenever) | Dudas sobre triggers |
+| `#torrent` | Palabra clave Torrent | Reducciones del siguiente coste de Shift |
 | `#vanish` | Palabra clave Vanish | Efectos que eligen personajes rivales con Vanish |
 | `#ward` | Palabra clave Ward | Dudas sobre protección de targeting |
 
@@ -46,12 +49,14 @@
 | `#hand` | Zona de mano | Cartas en mano y límites |
 | `#inkwell` | Pozo de tinta | Mecánica de especiales de tinta |
 | `#play-zone` | Zona de juego | Personajes en juego |
+| `#private-information` | Información privada | Mano y otras zonas ocultas |
 
 ### Timing y Turno
 
 | Tag | Descripción | Ejemplo de uso |
 |-----|-------------|-----------------|
 | `#end-of-turn` | Final de turno | Verificaciones y derrotas en fin de turno |
+| `#round-structure` | Estructura de rondas | Rondas Swiss y Top Cut |
 | `#timing` | Cuestiones de timing general | Dudas sobre cuándo ocurren efectos |
 | `#turn-actions` | Acciones de turno | Dudas sobre qué se puede hacer en turno |
 | `#turn-start` | Inicio de turno | Verificaciones y triggers de inicio |
@@ -62,10 +67,16 @@
 | Tag | Descripción | Ejemplo de uso |
 |-----|-------------|-----------------|
 | `#defeat` | Condiciones de derrota | Formas de perder |
+| `#communication` | Comunicación del estado de juego | Información que debe comunicarse |
+| `#foreign-language` | Cartas en idiomas extranjeros | Legalidad práctica de impresiones no inglesas |
 | `#gameplay` | Mecánica de juego general | Dudas sobre reglas base |
 | `#interactions` | Interacciones complejas | Cuando 2+ mecánicas se combinan |
+| `#marked-cards` | Cartas identificables o marcadas | Diferencias físicas que revelan cartas |
+| `#misprint` | Errores de impresión | Valores impresos incorrectos |
+| `#reminder-token` | Fichas de recordatorio | Seguimiento visual de información propia |
 | `#resolution` | Resolución de efectos | Cómo se resuelven habilidades |
 | `#scope` | Alcance de habilidades | Cuándo y dónde aplican las habilidades |
+| `#tournament-rules` | Reglas de torneo | Procedimientos y políticas competitivas |
 
 ### Nombres de Cartas
 
@@ -75,6 +86,7 @@ Los tags de cartas se crean con el nombre exacto en minúscula con guiones:
 |-----|-------|---------|
 | `#ariel-ethereal-voice` | Ariel - Ethereal Voice | Dudas específicas de esa carta |
 | `#beyond-the-horizon` | Beyond the Horizon | Dudas específicas de esa carta |
+| `#elisa-maza-transformed-gargoyle` | Elisa Maza - Transformed Gargoyle | Dudas específicas de esa carta |
 | `#grandmother-willow` | Grandmother Willow | Dudas específicas de esa carta |
 | `#horned-king` | Horned King | Dudas específicas de esa carta |
 | `#lilo` | Lilo | Dudas específicas de esa carta |

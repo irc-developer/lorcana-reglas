@@ -249,4 +249,19 @@ Depender de errores accidentales del oponente **no es un objetivo competitivo le
 - ✘ No permite probar jugadas
     
 - ✘ No depende del consentimiento del oponente
-    
+
+---
+
+### Acciones agrupadas y takeback
+
+Solicitar lore con varios personajes puede tratarse como una secuencia agrupada fuera de orden si las acciones son inmediatas y no se obtuvo información nueva. La aplicación de la reversión sigue siendo una decisión del Lore Guide: no se concede automáticamente por haber actuado de forma agrupada. La fecha histórica atribuida al anuncio de esta política no queda verificada en la documentación local.
+
+Fundamento: política de reversión de jugadas y sección 3.7 de [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules 6.11]].
+
+---
+
+### Pasar turno y habilidades opcionales olvidadas
+
+Pasar turno puede rebobinarse solo si el Lore Guide considera que se cumplen los criterios de takeback. Una habilidad opcional de final de turno y un pase omitido pueden formar una única secuencia únicamente cuando no hubo información nueva y los hechos lo permiten. Robar cartas o realizar otra acción con información privada normalmente impide la reversión.
+
+Fundamento: artículo de reversión de jugadas y sección 3.7 de [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules 6.11]].

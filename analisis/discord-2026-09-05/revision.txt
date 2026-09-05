@@ -1,0 +1,4080 @@
+[0] respuesta_debate_o_contexto
+It isn't updated of course so yeah they should probably do that.
+
+[1] respuesta_debate_o_contexto
+I see your point is probably that the fact the list isn't updated so how are players supposed to know outside of a press release.
+
+[2] respuesta_debate_o_contexto
+There is a Infinity CCQ tomorrow, a player pointed out that there's no bans according to the rules. 
+
+An update would be handy to not have any discussion
+
+[3] respuesta_debate_o_contexto
+Yeah, exactly that.
+
+[4] respuesta_debate_o_contexto
+To be honest the CCQ should post that it is banned with a link to the press release since there isn't an updated TR document.
+
+[5] respuesta_debate_o_contexto
+This is why I'm opposed to maintaining a ban list directly in the core documents. It's been repeatedly demonstrated that the documents have a long turnaround time, with multiple internal teams needing to review any changes. 
+
+Put the ban list in its own file that can be updated as soon as a card is banned.
+
+[6] agradecimiento_o_confirmacion
+Agreed if it takes too much to review and update the larger documents, banned lists need to just be maintaned as their own document that can easily be updated.
+
+[7] respuesta_debate_o_contexto
+I will say the official app does do that though but in a much less straight forward way.
+
+[8] duda_candidata
+Tbh, I’m not sure that would necessarily help here. Even our most limited documentation is still produced and reviewed months out.
+
+The only timely update I can recall is when the CRD prevented players readying their inkwell.
+
+[9] respuesta_debate_o_contexto
+It has a filter for legality where you can choose Construted, Infitity, or Banned
+
+[10] respuesta_debate_o_contexto
+ah true just realized the whole must leave inked ink face up until end of turn is not in formal documents yet.
+
+[11] respuesta_debate_o_contexto
+I am working on the assumption that a simple list of formats and banned cards could be rubber-stamped faster than a core document update.
+
+[12] respuesta_debate_o_contexto
+I was going to suggest that the app doesn't go through the same process, given that it has the bans correct... But then I remembered the 'takes damage' errata.
+
+[13] respuesta_debate_o_contexto
+Yeah, still waiting on those
+
+[14] agradecimiento_o_confirmacion
+Thankfully there’s still a glossary entry for “is/was damaged”
+
+[15] duda_candidata
+Is there a good example of multiple replacement effects happening at once that don't apply to the same event? Trying to make a puzzle for a friend
+
+[16] respuesta_debate_o_contexto
+That’s not really possible. Multiple events don’t happen at the same time in Lorcana, so you can’t have simultaneous replacement effects that apply to different events.
+
+[17] duda_candidata
+Is the Lorcana app a reliable source for determining legality? It lists the legal formats under each card. Hiram Flaversham - Toymaker is the only card with no legal format listed with it.
+
+[18] respuesta_debate_o_contexto
+It is currently up to date, as far as I’m aware, yes
+
+[19] respuesta_debate_o_contexto
+I just checked and Quest cards are no longer listed as Infinity legal in the App!
+
+[20] duda_candidata
+Since it seems to be more relevant again: Who reveals first when Return of Hercules is played? Or do both choose a card and reveal it at the same time? May be relevant because my choice whether I want to play a character and which character might be different, if I know which character my opponent will play.
+
+[21] respuesta_debate_o_contexto
+Active player resolves first
+
+[22] duda_candidata
+So inactive player would probably not choose to reveal and play a character if I as the active player reveal malificirnt dragon?
+
+[23] respuesta_debate_o_contexto
+Idk I’m thinking about things from a ruling standpoint not how players would choose to resolve a card
+
+[24] respuesta_debate_o_contexto
+Okay so the answer is active player reveals first and inactive player can base their choice on the new informstions gained.
+
+[25] respuesta_debate_o_contexto
+It depends.
+
+[26] respuesta_debate_o_contexto
+The ruling standpoint is Active player resolved and then it continues in turn order.
+
+[27] respuesta_debate_o_contexto
+What a player choses to do with the knowledge gained is up to them.
+
+[28] duda_candidata
+My wife and I keep questioning how Bronx works when he first comes into play. He’s not “ready” as he’s drying but he’s also not “exerted”… if the next turn the Player meets his qualification with sufficient cards in hard and is no longer dried, can he be used to challenge?
+
+I’m under the impression that “yes” because his initial position was “ready” (not exerted)
+
+[29] respuesta_debate_o_contexto
+Ready is the opposite of exerted, it has nothing to do with dry/drying
+
+[30] respuesta_debate_o_contexto
+That’s what I thought, and how we’ve been playing. Good to know! Thanks
+
+[31] respuesta_debate_o_contexto
+1
+
+[32] duda_candidata
+Oh! Is this why you can interact with characters that are drying? They're present and ready, you just can't use them yet.
+
+[33] respuesta_debate_o_contexto
+No.
+
+You can interact with characters no matter what state they are in, unless the effect you’re resolving says otherwise.
+
+[34] duda_candidata
+Oh I see, thank you for the clarification
+
+[35] duda_candidata
+Which one happens first "until the end of your turn" effects going away, or "at the end of your turn" triggers?
+
+[36] respuesta_debate_o_contexto
+You meet the trigger condition of "at the end of your turn" then resolved them, then once the bag is empty, "Until the end of your turn" effect fade
+
+[37] duda_candidata
+Quick question: Does Cinderella Stoutharted need to see the song in order to challenge a ready character or could you sing the song and shift her afterwards?
+
+[38] respuesta_debate_o_contexto
+She has to be in play.
+
+[39] duda_candidata
+Thanks  Does she need to target a ready bodyguard if there happens to be one in play?
+
+[40] agradecimiento_o_confirmacion
+Yes.
+
+[41] agradecimiento_o_confirmacion
+Thanks
+
+[42] respuesta_debate_o_contexto
+We should probably make a FAQ for Cindy if she is being played again
+
+[43] duda_candidata
+Am i correct in thinking resist would affect any damage moved on to a character?
+
+[44] agradecimiento_o_confirmacion
+No.
+
+[45] respuesta_debate_o_contexto
+Oh right ok
+
+[46] respuesta_debate_o_contexto
+shes being played in amber steel i think
+
+[47] duda_candidata
+Does Robin Hood Sharpshooter see the other cards as discarded when choosing Fire Swarm? or do you need to resolve Swarm first?
+
+[48] respuesta_debate_o_contexto
+@Speedy
+Robin Hood - Sharpshooter
+
+[49] respuesta_debate_o_contexto
+@Speedy
+Firefly Swarm
+
+[50] respuesta_debate_o_contexto
+It will see all the cards in the Discard.
+
+[51] respuesta_debate_o_contexto
+Which is why this is such a popular combo in the  X control archetypes right now.
+
+[52] agradecimiento_o_confirmacion
+Thank you. Thought Robin had to finish the ability before they went to the discard.
+
+[53] respuesta_debate_o_contexto
+He does. But the effects of Firefly Swarm don't resolve until My Greatest Performance finishes.
+1
+
+[54] respuesta_debate_o_contexto
+What Jacob said. 
+
+When you go to resolve Firefly and validate it's "If" statement, My Greatest Performance has already completely resolved, meaning all those cards are now in your Discard and the static If is now true for the Firefly Swarm you are attempting to resolve.
+
+[55] agradecimiento_o_confirmacion
+thanks guys
+
+[56] duda_candidata
+Hello, apologies if its been asked already but, my local store isn't sure on the set restrictions, are we restricted to just sets 9-12 for the Wilds Unkown set championship?
+
+[57] respuesta_debate_o_contexto
+Set Championships should be Core format, meaning cards from sets 5-12.
+
+[58] respuesta_debate_o_contexto
+Okay, thank you, I was double checking because I saw the flow chart for how they wanted restrictions to work going forward and wasn't 100% sure
+
+[59] respuesta_debate_o_contexto
+The Core Constructed format will change to sets 9-13 when set 13 releases.
+
+[60] duda_candidata
+If a character gets -strength from a Jesse, would playing this after raise its strengths back?
+
+[61] multimedia_o_sin_texto
+
+
+[62] agradecimiento_o_confirmacion
+yes
+
+[63] enlace_o_recurso
+https://www.reddit.com/r/Lorcana/s/28CuxDYZWw
+
+@zekethebeast googly also answer this on reddit recently with citation
+r/Lorcana
+Does Elisa Maza cancel reductions from before she was played
+So elisa maza says characters strength can't be reduced below their printed value. Say we have the following interaction. on my opponents turn they…
+Reddit
+
+[64] duda_candidata
+Just got asked so want to confirm I was correct.
+
+Cheshire Cat Inexplicable.
+
+You can boost if the boost ability can't be completed right?
+
+However if there is no valid opposing character if you boost you cannot move 2 off Cheshire?
+
+[65] respuesta_debate_o_contexto
+All correct
+
+[66] respuesta_debate_o_contexto
+Great. A buddy is judging a local set champs and a player is trying to argue with him that they can remove the 2 off Cheshire as basically healing if there isn't a valid opposing character
+
+[67] respuesta_debate_o_contexto
+well that’s a very cute, completely made up thing
+
+[68] respuesta_debate_o_contexto
+This seems to happen every time at this shop. Players think they know the rules then want to bully the judge to get their way. I'm confident my buddy didn't actually need my assistance but was more telling the story of the call and wanted confirmation nothing had changed without his knowledge.
+
+[69] duda_candidata
+For clarification does the active player decide the order of all triggers in the bag or do the they only resolve their triggers in the bag then the inactive decides their triggers?
+
+[70] respuesta_debate_o_contexto
+Each player resolves their own triggers.
+
+[71] duda_candidata
+Dumb question: are deck lists and checks required at set champs?
+
+[72] respuesta_debate_o_contexto
+They are supposed to be.
+
+[73] respuesta_debate_o_contexto
+Just like Judges are supposed to be
+
+[74] respuesta_debate_o_contexto
+Set Champs are required to be run as Competitive events, and thus require a decklist, per the set champs kit insert that all participating stores receive.
+
+[75] respuesta_debate_o_contexto
+Gotcha, thanks
+
+[76] duda_candidata
+If you choose to deal the damage, does the damage happen prior to the challenge?  Example if a character with only 1 willpower was challenging Merida, does that character take the damage first which would banish them without inflicting any damage onto Merida?
+
+[77] respuesta_debate_o_contexto
+It happens prior to the challenge damage step, yes. Not “before the challenge”.
+
+So yes, if the damage from Merida banishes the challenging character, the challenge ends without a damage step occurring.
+
+[78] respuesta_debate_o_contexto
+Awesome thank you
+
+[79] duda_candidata
+Before I ask in the official channels is there a way in Carde.io to mark a known player as no longer allowed in a shop to prevent them from signing up for furture events.
+
+[80] multimedia_o_sin_texto
+
+
+[81] respuesta_debate_o_contexto
+In organization settings.
+
+[82] agradecimiento_o_confirmacion
+Thank you!
+
+[83] respuesta_debate_o_contexto
+I have not used, it so I don't know how well it actually works.
+
+[84] respuesta_debate_o_contexto
+I don't typically go in organization settings but going to see if that works based on the situation we have going on in our local scene.
+
+[85] respuesta_debate_o_contexto
+GL ellie
+
+[86] respuesta_debate_o_contexto
+Ban yourself and let us know if it works lol
+
+[87] multimedia_o_sin_texto
+
+
+[88] duda_candidata
+Hiiii
+May I know while playoff (Set Cham Topcut)
+On the second round of Topcut
+how to decide which player has the choice of playing first or second?
+Thank you
+
+[89] respuesta_debate_o_contexto
+Highest seed chooses
+
+[90] respuesta_debate_o_contexto
+For example if 1 and 4 win their top 8 then 1 plays 4 so 1st seed will get the choice
+
+[91] agradecimiento_o_confirmacion
+Thank you
+
+[92] duda_candidata
+Is there a math formula to think about when trying to do 4 Rounds with 18 players?
+
+[93] respuesta_debate_o_contexto
+Players want to do 4 Rounds, Top 4 cut. As there are only 18 players.
+
+[94] duda_candidata
+How off will it be to do just 4 Rounds with 18 players?
+
+[95] respuesta_debate_o_contexto
+Over 16 is cut top 8
+
+[96] agradecimiento_o_confirmacion
+Yes.
+
+[97] respuesta_debate_o_contexto
+Math would be less clean cut
+
+[98] enlace_o_recurso
+https://files.disneylorcana.com/Wilds-Unknown_OPChampionships_Event%20Instructions-EN.pdf this is where you see the round and cut count for the players
+
+[99] respuesta_debate_o_contexto
+You'd have e at least 1 player at x-1 miss top 4
+
+[100] respuesta_debate_o_contexto
+I know the cut offs. But they are based on real math issues to help have a cleaner top cut.
+
+[101] respuesta_debate_o_contexto
+Players don’t decide how an official tournament takes place. End of story.
+
+If this isn’t a set champs, do what you want. If it is, do what the documents say.
+
+[102] respuesta_debate_o_contexto
+Unless you have permission to deviate from RB you have to follow the sheet and what it says based on attendance numbers
+
+[103] respuesta_debate_o_contexto
+4 rounds top 4
+
+[104] respuesta_debate_o_contexto
+4 rounds Top 8 instead
+
+[105] respuesta_debate_o_contexto
+5 rounds top 4
+
+[106] respuesta_debate_o_contexto
+5 rounds top 8
+
+[107] respuesta_debate_o_contexto
+The gist of the math is you can sort of eliminate 1 round (4 instead of 5 rounds or top 4 instead of 8) but still isnt fair to players. You definitely shouldn't change both. If you do drop a round, change rounds not top cut numbers. 
+
+If Set Champs, as stated, not allowed, even if players want it. Don't do that out of integrity. 
+
+If any ole event otherwise, do whatever (editado)sábado, 13 de junio de 2026, 22:
+
+[108] agradecimiento_o_confirmacion
+Thanks. I just wanted to understand it better overall. The why's of things.
+
+[109] respuesta_debate_o_contexto
+Yeah, no sweat! Keep asking away, there's lots of nuance to why things are!
+
+[110] duda_candidata
+I have Scrooge McDuck - Ghostly Ebenezer with 3 cards under him.. Oponnent plays Hades - Looking for a deal, and I choose to hide Scrooge under deck..
+
+In which order card goes under deck..
+
+I was looking in CRD and i didn't found if this is specified
+
+[111] respuesta_debate_o_contexto
+Whatever order you like. Just don’t look at the face down cards.
+
+[112] duda_candidata
+So, i can choose if Scrooge goes above or under boosted cards.. or even in random order?
+
+[113] respuesta_debate_o_contexto
+Yup
+
+[114] agradecimiento_o_confirmacion
+Thanks
+
+[115] respuesta_debate_o_contexto
+For reference, the Comprehensive Rules contain:
+7.2.3. If cards are added to the top or bottom of a deck “in any order” and any of the cards were faceup, the order in which the faceup cards are added to the deck must be known by all players.
+7.2.3.1. If those faceup cards are in one or more stacks, and/or any of those stacks contain both faceup and facedown cards, any of the cards in those stacks can be combined and freely ordered with the other cards being added to the deck, including cards in other stacks. No states are applied to or removed from those cards until they’re added to the top or bottom of the deck. (editado)domingo, 14 de junio de 2026, 21:
+
+[116] duda_candidata
+7.2.3. is saying " If cards are added to the top or bottom of a deck “in any order”" but Hades Looking for a deal doesn't have "in any order", so does this rule still should be applied in this case?
+
+[117] respuesta_debate_o_contexto
+My interpretation is that 7.2.3 doesn't apply (i.e. the opponent doesn't know the exact order) but 7.2.3.1 still applies.
+
+[118] duda_candidata
+If Player 1 has a Luisa- High Climber with 3 damage as their only character in play. Can they pay 1 to activate the I can take it ability to move 3 to an opposing character
+
+[119] agradecimiento_o_confirmacion
+Yes.
+
+[120] agradecimiento_o_confirmacion
+Thank you
+
+[121] respuesta_debate_o_contexto
+The debate was because her ability says move “from” a character and since there was no other character to move 0 damage from then it would not have been legal. Everyone agreed that they could understand the ruling either way. Thank you again.
+
+[122] respuesta_debate_o_contexto
+The third golden rule of Lorcana is "do as much as you can".
+
+[123] respuesta_debate_o_contexto
+From the Comprehensive Rules:
+1.2.3. If an effect tells a player to do something, the player does as much as possible even if some part of that effect can’t be done. This is known as doing as much as you can.
+
+[124] respuesta_debate_o_contexto
+not only that 
+
+if theres a fourth point of damage to be moved to luisa, you may still move it to luisa then move all 4 to another character and luisa lives @twin_ion13
+
+[125] duda_candidata
+Ah man I misread the quiz question as if goofy could ready  not if goofy could quest lol
+
+[126] duda_candidata
+Hey Alain, I know this is a very old post but I'm looking to learn more about this ruling. 
+
+What is the difference with Syndrome's Remote being able to trigger and banish this item and discarding to draw.
+
+As compared to Buzz's Arm not being able to be played when Buzz Lightyear is banished on your opponent's turn?
+
+Saw a video of Googly Glimmers recently on the Buzz's Arm so I would like to learn more about it. Because it feels similar to me
+
+[127] respuesta_debate_o_contexto
+@Jacob SmithSyndrome's Remote
+
+[128] respuesta_debate_o_contexto
+@Jacob SmithBuzz's Arm
+
+[129] respuesta_debate_o_contexto
+There are two different types of abilities at play here. 
+
+LEARN FROM THEIR LOSSES is a triggered ability. When its condition is met ("whenever a robot character is banished") its effect is put into the bag. ("You may banish this item to draw two cards.") When the bag is next resolved, you take the effect out and resolve it. 
+
+MISSING PIECE is a static ability that is always applying. If a Buzz was banished, it gives an alternate method for playing Buzz's Arm. It doesn't ever resolve or get played, it just is always checking and giving you that option when it's appropriate. 
+In order to take advantage of that alternate cost, you still need to be able to play the item, which you usually only have the ability to do during your own main phase. (editado)lunes, 15 de junio de 2026, 14:
+
+[130] respuesta_debate_o_contexto
+Replying so you have a ping ^
+
+[131] agradecimiento_o_confirmacion
+Thank you Jacob! Good to learn something new.
+
+[132] duda_candidata
+Can I also check if I am right about this card - Escape Plan
+
+You cannot play it as the "second" card into discard right?
+
+[133] multimedia_o_sin_texto
+
+
+[134] respuesta_debate_o_contexto
+Correct. You can not play escape plan at all until two cards have gone to discard.
+
+[135] agradecimiento_o_confirmacion
+Thanks!
+
+[136] duda_candidata
+Takeback Policy Question:
+
+Alice is sitting at 11 lore and sees they can quest for 9 to win the game.  Because their opponent currently has 13 Lore.
+
+They in a single "batch" action start exerting their characters from left to right exerting Milo, then Milo, then The Queen while saying 
+
+"I quest for - 3, 6, 9 lore to win the game"
+
+Oliver says wait hold up, your Queen only has 1 lore at the time she quested and calls a judge.  During the judge call Alice asks for a takeback for their entire questing sequence.
+
+What is the proper ruling? (editado)martes, 16 de junio de 2026, 20:
+
+[137] respuesta_debate_o_contexto
+⁠Disney Lorcana TCG Official⁠
+
+[138] duda_candidata
+take back seems okay here?
+
+[139] respuesta_debate_o_contexto
+I think this is the exact kind of “gotcha” the policy was written to discourage, but it doesn’t strictly apply. The player clearly knows how The Queen’s ability works, because otherwise they wouldn’t see that they have game on board.
+
+However, because the order of questing affects the outcome of the action, they cannot be executed in an OoOS - that policy doesn’t apply. Thus they cannot be taken back as a single batched action, because they can’t be a single batched action.
+
+On the other, other hand, that makes attempting to batch them together a GRE. A warning and rewind would be appropriate.
+
+[140] duda_candidata
+Rewind of all the questing? Or just the Queen as that was the only spot something diverged on what they said and what happened?
+
+[141] respuesta_debate_o_contexto
+The full sequence. The error is batching all the quests together.
+
+[142] respuesta_debate_o_contexto
+(IMO)
+
+[143] respuesta_debate_o_contexto
+Since they incorrectly resolved the ability, that's a GRE... they didn't miss it. I'm inclined to rewind the batch.
+
+[144] duda_candidata
+what's "GRE" stand for here?
+
+[145] respuesta_debate_o_contexto
+General Rules Error
+
+[146] respuesta_debate_o_contexto
+Gerenal Rules Error
+
+[147] respuesta_debate_o_contexto
+Sorry for the acronyms
+
+[148] respuesta_debate_o_contexto
+I thought the policy directly applied to batching things that can't be batched, like questing, and being lenient to how players typically play.
+
+I can see the application of GRE though, that makes sense otherwise
+
+[149] respuesta_debate_o_contexto
+no worries! I'm learning
+
+[150] multimedia_o_sin_texto
+
+
+[151] respuesta_debate_o_contexto
+TIL... wife and I always tap ink before playing a card... didn't realize the order was actually supposed to be reversed
+
+[152] duda_candidata
+The OoOS policy allows players to batch things that the game rules do not allow to be batched - by the CRD alone, nothing can be batched because that’s not how the game works.
+
+However, to legally batch things under the OoOS exception, the order in which the actions being batched are carried out must make no difference to the resolution of the sequence. In this case, that’s not true, because the order of questing will change the lore value gained - so it cannot be a legally batched sequence.
+
+If the batched action is not legal, then it can’t really be considered a “batched action” for the take back policy, and is instead a game error.
+
+(Although ultimately whether or not to allow a take back here doesn’t actually matter, because there was still a GRE either way so the rewind will do the same thing as a take back would and they would still receive the corrective action whether a take back was allowed or not).
+
+For Chris:
+OoOS - Out of Order Sequencing (policy in the tournament rules)
+CRD - comprehensive rules document
+
+[153] respuesta_debate_o_contexto
+However, to legally batch things under the OoOS exception, the order in which the actions being batched are carried out must make no difference to the resolution of the sequence. In this case, that’s not true, because the order of questing will change the lore value gained - so it cannot be a legally batched sequence.
+
+Oh, I understand now, thanks!
+
+[154] duda_candidata
+Why would this happen?  I challenged a Will of the Wisp with Gantu, and because of the location, I could deal two damage to another character, so I choose a Diablo (opponent had two on board), of which one was banished, but the computer drew two cards for Diablo?  Is that a bug or am I missing something?  It's not draw a card per Diablo, is it?
+
+[155] duda_candidata
+Why do you think they drew 2? The log only shows them drawing 1.
+
+[156] respuesta_debate_o_contexto
+Nevermind ... lol.   I saw the two cards go their hand (which I see was the Will of the Wisp and card draw from Diablo), then misread the log as "2 draws from Diablo".  I'm wrong.
+
+[157] duda_candidata
+Quite complex and spicy question: At set champs, we are going to have a person with autism. On locals he always playes with sunglasses and headphones to reduce stress. Also, he plays quite slow. We are fine with it and dont play with timelimits at locals and let him play his game. How is it at set champs? Can the Judge give extra time to that match? Must he be threaten like everyone else and given "slow play" warnings? We want him to enjoy the game and dont feel bad for behing himself
+
+[158] respuesta_debate_o_contexto
+@Hylander47
+
+[159] respuesta_debate_o_contexto
+At some prior DLCs, the person's matches had an extra 5 minutes. However, I do not think that was consistent at every one. It just was what we did for the 2 specifically where I was aware of the accommodation.
+
+[160] respuesta_debate_o_contexto
+This one is definitely complex. You have to weight the need of the player and the event. Competitive events usually have very tight schedules as there are multiple rounds and top cut. Time extensions not only affect the individuals at the table but the entire event. 
+
+100% sunglasses and headphones is an easy yes. Time I'd say 5 minutes as pupulesurfer said would not be terrible and honestly most players wouldn't even notice but more than that and you could be significantly extending the entire event adding an hour or more.
+
+[161] respuesta_debate_o_contexto
+Also I know at more competitive events headphones not connected to an audio source are preferred but if they need music or something they have to make it available to the judge to confirm they are't say listening to a meta guide or on a phone call that is telling them what moves to make.
+
+[162] respuesta_debate_o_contexto
+Thabnks for the Support
+
+[163] duda_candidata
+Random, and I'm not sure how to word it... I'm also very much sure no rules would currently target it... but
+
+If I play Zipper - Little Helper, and then Shift him to Zipper - Big Helper -- does it technically "have a card under it" w/r/t Boost and mechanics of that type?
+
+[164] respuesta_debate_o_contexto
+Boost is just one ability that can put cards under another card. Shifting does create a stack, and there would be a card under Big Helper for something like Scrooge McDuck-On the Right Track
+
+[165] duda_candidata
+Hi team. Reminder please. If I play 2 sails. Can I ink an extra 2 times
+
+[166] agradecimiento_o_confirmacion
+Yes
+
+[167] respuesta_debate_o_contexto
+You sure can
+
+[168] duda_candidata
+Awesome. Thanks. Had a question from judge at our set champs
+
+[169] duda_candidata
+Ok, another question. I’ve printed the wrong deck list for the daughter and there are a couple of cards different. Her deck is legal just not as written
+
+[170] duda_candidata
+Have you submitted the deck list yet?  If not, and you are not past the submission cutoff, there is still time to fix it.
+
+[171] respuesta_debate_o_contexto
+We had submitted it.
+
+[172] duda_candidata
+Had play already begun when you realized the error?
+
+[173] respuesta_debate_o_contexto
+Correct.
+
+[174] duda_candidata
+Okay.  And the player (your daughter) is presumably fairly young?  (Also, I believe this is in the context of a set championship?)
+
+[175] respuesta_debate_o_contexto
+Both correct. 11yrs and set champs
+
+[176] respuesta_debate_o_contexto
+Okay.  I can only speak for how I would have handled this at a Set Championship I was running, because I would opt to deviate from competitive play correction here to use it as a learning experience for a young player.  I am sure there are other judges who would rule differently.
+
+If I were HJ at this event, and you approached me with the issue, I would want to sit down with you both and clear up which cards are there vs which ones are reported.  If you have the correct cards with you, I would have her make the required adjustment to make her deck match the submitted list.  We would have a quick chat about making sure the cards match the list and triple checking before the tournament starts.  At most I would record a caution.
+
+If you don't have the cards, same conversation.  Without knowing full context and having full investigation information, at a set champs I was running, I would let her continue to play the deck she brought but assess a formal warning.  This is technically a major deck registration error and would be a game loss even at casual, but I would have a hard time game lossing a minor whose parent uploaded the wrong list, all things being equal.
+
+[177] respuesta_debate_o_contexto
+Play correction guide by the letter would be to replace the cards not on the submitted deck list with ink proxies, I am pretty sure.  But that is no fun for any kid.
+
+[178] respuesta_debate_o_contexto
+Oh I would totally game loss her and make sure she knows it’s dads fault and to give him a hard time for it for like a week. 
+
+/s. this is a joke
+
+[179] respuesta_debate_o_contexto
+If they were regulars at my shop who I was comfortable joshing with, I so totally would
+
+[180] respuesta_debate_o_contexto
+Of note this is why I make my wife do her own decklist for events. 
+
+So I can’t be blamed.
+
+[181] respuesta_debate_o_contexto
+Although you joke, this is what happened. She was given a game loss
+
+[182] respuesta_debate_o_contexto
+That's technically the corrective action described in the PCG for cases where the decklist has to be altered so you can't blame the Lore Guide for applying the "correct" correction.
+
+However if I were HJ at said set champ I would also consider everything in the context, one of them being the fact that Set Championships are supposed to be uniformly run across all stores, yet most of them (at least in my area) don't collect decklists even though they are required to do so.
+Had the same error happened in a store that did not care about decklists, it would have never been detected and never considered an error.
+
+Contrary to kleptokatt I would have still issued a Warning for DRE Minor instead of a Caution if she could find the cards to match the submitted decklist. The reason is that upgrading 2 Warning to a Game Loss in DRE Minor is never supposed to happen, the player had a deck not matching the decklist, during the first DRE we changed the cards to match the decklist and unless the player intentionally changes cards back, the same error is not supposed to happen again in the tournament.
+And the Warning is important to track that it's the second time it happened in case it actually does, which would get to an investigation to check that she is not siding her deck depending on matchups. 
+
+If she could not find the cards however, I would apply the remedy and alter the decklist to match the deck if the deck is indeed legal but also issue a GRE Major Warning instead of the prescribed GL given context and how she was "victim" of the store running the event correctly by actually collecting the decklists.
+
+If this happened again in the tournament this Warning would however also be upgraded to a GL.
+
+[183] respuesta_debate_o_contexto
+Fun fact : A Lore Guide in our area had this exact same problem to handle except it was their child playing in the Set Champ and it's the Lore Guide who built their deck incorrectly... So they had to both apply the correct corrective action to not appear like they were favoring their child and say sorry to their child for messing up for them.
+
+[184] respuesta_debate_o_contexto
+Yea it was the correct action and no issue at all. Was interested to see how close set champs were followed. As it was she went into top 8 game with the loss but still one 2-1. Got knocked out in semis by mirror. A good weekend and no stress. Was just curious as to how others would have approached the situation
+
+[185] respuesta_debate_o_contexto
+Congrats on her for the excellent result despite the GL! You can be proud of her!
+
+Don't forget to talk with her after the tournament about the stressful situation.
+She could feel that she was let down by the Lore Guide and this could lower her confidence in the judges leading to being afraid to call for other errors or questions she could have later on.
+Players not calling for Lore Guides when they should because they are afraid to do so is actually one of the biggest and saddest problems we have to face and I understand how such an experience could worsen the problem if not handled correctly.
+
+[186] respuesta_debate_o_contexto
+And also, this is advice for you but before the beginning of every tournament take time to deck check yourself, it will avoid any of such mistakes while helping you be more relaxed on this matter during the tournament. 
+Take the actual paper decklist you are about to give to the store or open the actual decklist you submitted in RPH and take time to check card by card that they all match.
+Then also take time to pile count your deck slowly while looking at every card back to check for disparity, and lastly take time to mash shuffle slowly while looking at cards side to check that there's no bent card or damaged sleeves sides that you can easily identify while shuffling. 
+This takes about 5-10 min per deck and the peace of mind it offers is worth every second of it
+
+[187] duda_candidata
+With Finnick and cards like Grandmother Willow, if you had 3 Grandmother willow out, would you be able to play Finnick for 0 and activate the bounce effect for 0? I am assuming no, but I want to double check
+
+[188] respuesta_debate_o_contexto
+Grandmother Willow's ability only reduces the amount of ink you pay to play a character. It doesn't reduce any other kind of cost.
+
+[189] duda_candidata
+If you discard this at the end of your turn with Goliath would you be able to immediately pay 2 ink and play it?
+
+[190] respuesta_debate_o_contexto
+That is still during your turn. Should work, but don't forget to save the ink.
+
+[191] respuesta_debate_o_contexto
+I wasn't sure if "end of turn" discarding would still count as being on your turn but good to know!
+
+[192] respuesta_debate_o_contexto
+It is the end of your turn during End of Turn triggers. It stops being your turn when the opponent starts their turn.
+
+[193] duda_candidata
+my confusion here is that it "wasn't" the end of my turn, if I can/will still play cards? 'end of turn' implies something unique to me where only during the 'main' phase I can play cards.
+
+I was under the impression: 'start of your turn' is during your ready step, then your main phase, and then the 'end of your turn' cleanup.
+
+[194] duda_candidata
+but wait, this is an Action, it's put into your Discard as soon as it's done taking effect? It's already in your discard before Goliath would even trigger 'end of turn'?
+
+[195] duda_candidata
+If I have 8 ink 'ready' could you arguably play 'Look What You've Done' 4 times??
+
+[196] respuesta_debate_o_contexto
+“Going to the discard” is not “discarding”.
+
+[197] respuesta_debate_o_contexto
+You're playing the card as part of a triggered effect. Not taking the game action to play a card. Similar to cards like Mufasa but still having to pay the cost. (editado)domingo, 21 de junio de 2026, 1:
+
+[198] duda_candidata
+actually i do have a question for this card
+
+if you discard this, is it an ability that can be a marble in the bag?
+
+[199] respuesta_debate_o_contexto
+i have a quiz idea that depends on the answer
+
+[200] respuesta_debate_o_contexto
+Yes. 
+During your turn, when you discard this card.....
+It's a trigger, and triggers go to the bag.
+
+[201] respuesta_debate_o_contexto
+wait til set notes
+
+[202] duda_candidata
+Shouldn't the "During your turn, when you discard this card, you may play it from your discard." be separated from the action's effect "Deal 2 damage to chosen character." with a "paragraph break" like on Escape Plan?
+
+[203] respuesta_debate_o_contexto
+It would probably be clearer that way. But paragraph breaks aren’t defined as having any particular rules function anyway, so it’s just formatting afaik
+
+[204] respuesta_debate_o_contexto
+6.1.1.1. A card can have multiple abilities. These are normally separated by paragraph breaks as well as keywords or story names.
+
+[205] respuesta_debate_o_contexto
+Actions don’t have abilities
+
+[206] duda_candidata
+Or... Do they?
+They have an "effect" which is what resolves when they are played, we all agree on that.
+But some of them have a line of text separated by a paragraph break which is not something resolved with the action but something that applies to the action itself. 
+Escape Plan first paragraph sounds very much like a Static Ability and this looks very much like a Triggered Ability
+
+[207] multimedia_o_sin_texto
+
+
+[208] multimedia_o_sin_texto
+
+
+[209] duda_candidata
+Yes, I know. 
+But then explain to me using only excerpts from the CRD how that "During your turn, when you discard this card, you may play it from your discard." can actually resolve if it's not an ability...
+And since I know that's a new card and we should not try to handle them with current rules until the new CR version is out, then how does the first "part" (let's call it neither an effect nor an ability) of Escape Plan prevents it from being played? 
+If it's an effect, it is resolved when the action is played and only then you realize that you should never have played the action in the first place, oopsie.
+5.4.1.2. Actions are played from a player’s hand. When an action is played, its effect resolves immediately. An action is put into the Play zone while the effect resolves. After the effect resolves, the action is put into the player’s discard pile. An effect from an action doesn’t enter the bag. (See 7.7, “Bag.”)
+
+[210] respuesta_debate_o_contexto
+(To be clear, I'm not arguing about the fact the CRD as written only lists actions as having effects, just that this definition fits well most text written on Action cards, which is the part that resolves when they are played, but we've got more and more Action cards with text that fits better the definition of an ability and the CRD could change to better define how those parts work.)
+
+[211] multimedia_o_sin_texto
+
+
+[212] duda_candidata
+assuming chaos draft, if i have the team up rapunzel and flynn and i discard an item belle, can i banish an item to play belle
+
+[213] duda_candidata
+i shouldnt right?  because belle is an ability not an alternate cost
+
+[214] duda_candidata
+if i have team up rapunzel and flynn in play
+
+i sing whole new world, can i play 1 drop robin and shift onto that robin with 5 cost robin if i discard both together
+
+[215] duda_candidata
+if i sang beyond the horizon with ursula deceiver of all and team up rapunzel and flynn, and on first discard i discard a shift robin, can i shift onto a robin hood i discarded on the second copy of beyond the horizon
+
+[216] duda_candidata
+Hey guys, 
+
+Looking at Mickey who gives opposing characters -2(S) temporarily, if this was used to make a 4(s) into a 2(s) and then followed with Under The Sea, would it be correct that the character is now a viable target for UTS and would be put in the bottom of the players deck? 
+
+I just wanted to check I was understanding the wording correctly.
+
+[217] respuesta_debate_o_contexto
+Yes that’s correct it would go to the bottom of the deck with the  reduction
+
+[218] agradecimiento_o_confirmacion
+Thank you:) we have set champs this weekend and I feel so out of the loop
+
+[219] respuesta_debate_o_contexto
+I've had someone pull that exact move on me, sooo I learned by experience
+
+[220] duda_candidata
+I’m not sure if this is the best forum for it but I wanted to pass a note of feedback for Lore Guides who may be able to influence the competitive rules. 
+
+This weekend I have heard a few instances (first party on the table next to me and second hand from my team mate who observed the same on a Saturday game) of a case that needs to be documented. 
+
+Apparently it’s a Warning to carry a case with your deck and extra cards (I.e an extra deck). I understand that this is to prevent people from unofficially sideloading but unfortunately this is not documented or if it is…it’s not explicit. The instances that we observed this weekend were of genuinely confused players who just traveled with a double case. I think that the clarity could benefit everyone.
+
+[221] respuesta_debate_o_contexto
+Play Correction 3.3 Deck Reg Error Minor. Red text starting at extra cards - this is why. I empathize and understand the frustration. It doesnt feel like thats what this means as it is obviously a second deck in those cases but it is also the letter of the law that we have to go off of.
+
+[222] duda_candidata
+Yeah. Maybe some clarification/specificity would be helpful: i.e. never ok? It’s ok if the sleeves are different. Ok if they are in a dual box with different containers? Etc. Ultimately someone who is going to cheat doing this doesn’t need to carry the sideload in the same box. 
+
+My concern is that the person next to me was super concerned because he got deck checked before and he was already given a warning for it. So he was concerned that they will give him a warning for the same thing but that was his only box for the trip. He was fine, but that’s stressful when it’s just about being uninformed
+
+[223] respuesta_debate_o_contexto
+Yeah, its tough too. You need the punishment to be harsh enough to deter bad actors but there is a fine line to make it less abusable. I certainly dont have the answer but others might have a good solution.
+
+[224] respuesta_debate_o_contexto
+Even your points are valid starting spots
+
+[225] duda_candidata
+Yeah. I’m not sure what the right solution is beyond making things a bit more explicit to start. I’m all in about removing bad actors from the community (a. I do it professionally and b. Because my son plays I’m a bit of a papa bear to help kids, and not kids, be safe from cheaters). This is about preventing well intended ignorant ilumeneers from getting in trouble
+
+[226] duda_candidata
+off topic question,
+
+why does a dq for the main event will still let you play in the side event
+
+[227] respuesta_debate_o_contexto
+Bc a DQ applies to a single event unless it was worthy of banning from the venue
+
+[228] respuesta_debate_o_contexto
+I know nothing of any specific DQ, this is just general info
+
+[229] respuesta_debate_o_contexto
+gotcha
+
+[230] respuesta_debate_o_contexto
+Mixed up
+
+[231] respuesta_debate_o_contexto
+good bot
+
+[232] respuesta_debate_o_contexto
+Yep a player would only be stopped from playing side events if they were banned from the game or venue. A DQ only pertains to the specific event they received the DQ for. (This is general information not about any specific DQ)
+
+[233] duda_candidata
+no no i m not naming names for this. just was wondering how dq works since someone in another discord asked
+
+[234] respuesta_debate_o_contexto
+We are mostly tacking that on to protect ourselves as many of us have been part of DQ conversations as Lore Guides so want to make it clear we are not discussing any DQ we have been involved in.
+
+[235] respuesta_debate_o_contexto
+makes sense
+
+[236] duda_candidata
+At a set champs or other tournament, say you get a round 1 bye. Do the rules allow for that person to spend that time taking notes on what decks each person is playing and any tech cards they happen to see?
+
+[237] respuesta_debate_o_contexto
+I thought the answer was no, but im hearing from a friend that its not covered in the rules and allowed
+
+[238] respuesta_debate_o_contexto
+Scouting is not covered in the documents that we have.
+
+[239] respuesta_debate_o_contexto
+Dang, unfortunate. I've avoided doing all this time because I was certain it would be a banned thing. I usually do a quick scan of what's present and maybe another scan a bit later but I dont like hovering and the weird looks people give me.
+
+And all this time I could have been taking notes like im certain some others have been when they sat next to my table with phones out typing away ;_;
+
+[240] respuesta_debate_o_contexto
+I thought notes taking would equate to having deck knowledge you aren't supposed to have which is somewhat covered in the rules
+
+[241] respuesta_debate_o_contexto
+The only thing we have is that you aren’t allowed, during a match, to consult any prepared notes
+
+[242] respuesta_debate_o_contexto
+Also a player actively in a game shouldn't be taking notes during either.
+
+[243] respuesta_debate_o_contexto
+When a player has a bye you can’t stop them going round and making notes on who’s playing what under the current rules they just can’t used these notes during a game
+
+[244] respuesta_debate_o_contexto
+I meant someone in a game. Not on the bye.
+
+[245] respuesta_debate_o_contexto
+I means, we could.
+
+[246] respuesta_debate_o_contexto
+Don't want to, though.
+
+[247] respuesta_debate_o_contexto
+Correct
+
+[248] duda_candidata
+If Raging Storm is played with Sid on board and you have a toy, if it is your turn does Sid’s second effect take place where you gain lore?
+
+[249] respuesta_debate_o_contexto
+Yes. Sid sees the toy(s) on the board get banished.
+
+[250] respuesta_debate_o_contexto
+The Tournament Rules contain:
+Spectators are expected to allow Disney Lorcana TCG tournaments to proceed unaffected by their observation. Any person present at a Disney Lorcana TCG event who isn’t a Tournament Official or actively participating in an in-progress match is considered a Spectator.
+
+I consider that taking notes on what decks each person is playing might affect how the tournament proceeds, so when I see a player doing that, I ask them to stop. (editado)martes, 23 de junio de 2026, 7:
+
+[251] duda_candidata
+what determines the order of characters being banished here? Given if Sid is banished first then yea, the effect is moot?
+
+[252] respuesta_debate_o_contexto
+Raging Storm banishes all characters at the same time.
+
+[253] respuesta_debate_o_contexto
+With raging storm there is no order to the banishment all happen at the same time so Sid sees them banished
+
+[254] respuesta_debate_o_contexto
+I guess that conflicts with my current understanding of a character's 'effect' being active, like Sid's because at the point he sees a Toy being banished, he's also no longer in 'play' as he's also removed from play at the same time. I'm all for Sid behaving this way (I have a toy deck I've been experimenting with), I just want to understand that timing better.
+
+[255] respuesta_debate_o_contexto
+A character doesn’t have to be on the board in play to have an effect or ability in the bag. As long as something is seen that triggers the ability or effect it is added to the bag
+
+[256] respuesta_debate_o_contexto
+ah okay, so the moment the banish happens, the effect was added to the bag, and then Sid disappears, and the effect resolves.
+
+[257] duda_candidata
+7.4.3. Whenever 1 or more cards would leave play, they first check whether any abilities would trigger from them and/or others leaving play with them. The triggered abilities “see” the other cards leaving the Play zone along with the source card of the triggered ability.
+
+[258] duda_candidata
+Question, I just notice that in the tournament rule 5.2 about note taking.
+
+Any type of number is prohibited on tracking except for damage.
+
+Does it mean that when I use Jessie ability, I cannot use the dice to track how much the target charactor power is reduced?
+
+[259] respuesta_debate_o_contexto
+Correct. Dice may not be used for that purpose.
+
+[260] duda_candidata
+How should we track the jessie ability?
+
+[261] respuesta_debate_o_contexto
+However you like, without using numerical tokens or written notes.
+
+[262] respuesta_debate_o_contexto
+I see. Thank you
+
+[263] respuesta_debate_o_contexto
+Random scraps of paper always do fine
+
+[264] respuesta_debate_o_contexto
+One of my locals have tokens with  and a minus in the middle and they put them on them to remember a minus
+
+[265] duda_candidata
+OH wait does that mean I can't use the -1 and -3 strength or -1 and -3 will power and equivalant positive tokens becuase they have a numerical representiation?
+
+[266] respuesta_debate_o_contexto
+Correct. Those are also not allowed.
+
+[267] respuesta_debate_o_contexto
+Ugh that's frustrating. I know local players also have used the reduction tokens from magic.
+
+[268] respuesta_debate_o_contexto
+Oh we are getting a CDR update (assumption ofcourse)
+
+[269] respuesta_debate_o_contexto
+Probably at least a minor adjustment with Attack of the Vine, at least to cover Temporary Shift and the like.
+
+[270] duda_candidata
+for buzz, if i have a toy in play, i can choose the order of how i want to resolve his ability right?  but must i resolve both of them at once?
+
+[271] respuesta_debate_o_contexto
+We'll know for sure once the new CRD is published. There is the rule that states to do things in the order of the card lol
+
+[272] respuesta_debate_o_contexto
+i was thinking that too but i was also reading it as two separate ability rather than a consecutive one
+
+[273] respuesta_debate_o_contexto
+I agree, just I couldn't find anything in the CRD that mentions choices like this when you are allowed all of them
+
+[274] duda_candidata
+does that mean he readies himself before damage calc
+
+[275] respuesta_debate_o_contexto
+no, pretty sure the 'ready' state doesn't stop damage from the challenge. ... lol, I thought my wife was asknig me this since she's sharing lorcana cards with me
+
+[276] duda_candidata
+The question was edited.  The character would be ready and taking damage.
+
+[277] respuesta_debate_o_contexto
+yeah because i spelled damage wrong i think
+
+[278] duda_candidata
+What's the take chat?
+
+[279] respuesta_debate_o_contexto
+I agree with you. Likely no.
+
+[280] multimedia_o_sin_texto
+
+
+[281] respuesta_debate_o_contexto
+I vote likely yes, but only by mistake, and it's cleared up in the CRD for the following set.
+
+[282] respuesta_debate_o_contexto
+It is only a card that is returning to hand, the character stays in play. I say no.
+
+[283] respuesta_debate_o_contexto
+I refuse to answer until we get the CRD update for Temporary Shift!
+
+[284] respuesta_debate_o_contexto
+However, I vote yes by intention but the CRD doesn't make it so and so we have yes by fiat
+
+[285] respuesta_debate_o_contexto
+it should.  why wouldn't it
+
+[286] duda_candidata
+Is removing the top card of a shift stack the same as removing the character?
+
+[287] respuesta_debate_o_contexto
+it was a character when it was returned, it didnt become a card till it is in hand
+
+[288] respuesta_debate_o_contexto
+while the description is card, it is still a character in play
+
+[289] respuesta_debate_o_contexto
+and reminder text isnt rule text
+
+[290] respuesta_debate_o_contexto
+And we don’t have the rules text.
+
+[291] respuesta_debate_o_contexto
+Putting a card on top is generally playing a new character, but I've found this to be a pretty grey area for a while
+
+[292] respuesta_debate_o_contexto
+we dont have the rule text for temporary but we do have what is identify as a character
+
+[293] respuesta_debate_o_contexto
+But the rules do say that when a shift character leaves play, the whole stack moves.
+
+If this is splitting the stack, then it’s reasonable to say the character isn’t leaving - else the whole stack would move.
+
+[294] respuesta_debate_o_contexto
+or the character is refer to as card as a more general term.  its not like that has not happened before
+
+[295] duda_candidata
+Has it?
+
+[296] duda_candidata
+i think yzma?
+
+[297] respuesta_debate_o_contexto
+the shift yzma
+
+[298] respuesta_debate_o_contexto
+dual color
+
+[299] respuesta_debate_o_contexto
+Refers to a card in the discard, as normal.
+
+[300] respuesta_debate_o_contexto
+off topic, if multiple ming lee are stacked together and i return the top one to hand, do all the ming lee gets bounce as well
+
+[301] respuesta_debate_o_contexto
+Definitely need the actual rules for that
+
+[302] duda_candidata
+are you saying like you shifted multiple in the same turn or shifted it on a copy of the same card? To me that would decide.
+
+[303] respuesta_debate_o_contexto
+First thing I'm looking up when the new CR comes out is what happens when you normal-shift on top of a temp-shift.
+
+[304] agradecimiento_o_confirmacion
+no
+
+[305] respuesta_debate_o_contexto
+Slip that lil guy outta that stack
+
+[306] duda_candidata
+How, outside of shifting, whould you have multiple Ming Lees stacked together?
+And how, outside of Temporary Shift, would you return only part of a stack?
+
+[307] respuesta_debate_o_contexto
+the temporary shift never mentioned it had to be the turn it shifts that it returns to hand.  its separated by a period
+
+[308] respuesta_debate_o_contexto
+…Wut
+
+[309] duda_candidata
+are u saying she only has to be return the turn she is shift?
+
+[310] respuesta_debate_o_contexto
+because its read "you may pay x to shift me.  at the end of turn, remove all damage and return only this card to hand"
+
+[311] respuesta_debate_o_contexto
+It’s not optional, so it will happen any turn she is in play after shifting. Effectively only the first.
+
+[312] duda_candidata
+then that raises another question
+
+if i shift 2 copies onto her in one turn, do they both get return or will the information not be retained
+
+for the second one
+
+[313] duda_candidata
+I mean, that’s the same question. You just didn’t realize you asked it
+
+[314] multimedia_o_sin_texto
+
+
+[315] respuesta_debate_o_contexto
+standard caveat that reminder text isn't rules text, but it doesn't specify the bounce has to be after a shift. Just, at the end of turn, bounce this card.
+
+[316] respuesta_debate_o_contexto
+If minnie is dry and mickey is drying when I shift can this quest
+
+[317] respuesta_debate_o_contexto
+Maybe
+
+[318] respuesta_debate_o_contexto
+Update required.
+
+[319] multimedia_o_sin_texto
+
+
+[320] duda_candidata
+8.10.4. If a shifted character is put on top of a dry character, the shifted character enters play dry. If a shifted character is put on top of a drying character, the shifted character enters play drying. 
+If we apply the same rules of "do things in order" then.... i still don't know. Does it enter dry first, then can't be drying? Does it enter dry, but then get overruled as entering drying... ow, my head
+
+[321] respuesta_debate_o_contexto
+We just don’t have an answer. There’s no point trying to apply existing rules to this one. There’s no accounting for shifting onto multiple characters.
+
+[322] duda_candidata
+Yeah it's just an update required question, I was just being cheeky asking lol
+
+[323] respuesta_debate_o_contexto
+i got yell at asking that in main discord the other day
+
+[324] respuesta_debate_o_contexto
+actually if one gets reckless and the other cant challenge, what happens if you shift onto them
+
+[325] respuesta_debate_o_contexto
+Same as if you applied the effects to the same character.
+
+[326] duda_candidata
+But there is an interesting question with applied keywords in there somewhere
+
+[327] respuesta_debate_o_contexto
+so in theory then, the character will be both dry and drying
+
+[328] duda_candidata
+would that be decides at the point of observation
+
+[329] respuesta_debate_o_contexto
+I would imagine the Can't > Can would apply
+
+[330] respuesta_debate_o_contexto
+but I guess we shall wait and see
+
+[331] respuesta_debate_o_contexto
+It’ll be decided by, and bear with me here because this is going to be a shock… the new rules.
+
+[332] respuesta_debate_o_contexto
+or maybe you can quest but only gain 2.5 lore
+
+[333] respuesta_debate_o_contexto
+or you can only challenge
+
+[334] respuesta_debate_o_contexto
+or you can wait for the new rules
+
+[335] duda_candidata
+Can Mickey & Minnie shift on top of just a single Mickey & Minnie card. As that single character suffices as a character named Mickey and a character named Minnie. 
+
+Or does it require two separate character cards?
+
+[336] respuesta_debate_o_contexto
+I think we need the full rules to answer that. Reminder text isn’t enough.
+
+[337] respuesta_debate_o_contexto
+The reminder text does specify two characters, and further stipulates one called mickey and one called minnie. Emphasis here on reminder text.
+
+[338] respuesta_debate_o_contexto
+We missed the most important part of the Lorecast. 
+
+Eating the card explains the card. 
+
+We need to get our hands on the cards and eat them and we will know all.
+
+[339] respuesta_debate_o_contexto
+Reminds of topology how a set could be both open and closed at the same time. Aka, clopen!
+
+[340] respuesta_debate_o_contexto
+I can confirm this does not work how you think it works
+
+[341] respuesta_debate_o_contexto
+yes but reading the card does not always explain the cards
+
+[342] multimedia_o_sin_texto
+
+
+[343] multimedia_o_sin_texto
+
+
+[344] duda_candidata
+Step 1: cool magic rock
+Step 2: steal stick from Teferi
+Step 3: profit?
+
+[345] respuesta_debate_o_contexto
+Reminder text does say “or” though. Guessing it’s an exclusive or
+
+[346] duda_candidata
+No it doesn’t?
+
+[347] respuesta_debate_o_contexto
+the combo shift says or, but not the duo shift
+
+[348] respuesta_debate_o_contexto
+inclusive or, or googlys nightmare
+
+[349] respuesta_debate_o_contexto
+Now I want Temporary Duo Shift cards that work like dbz or power rangers -esque fusions
+
+[350] duda_candidata
+You mean after you've joined two other stacks into one with non deterministic order and have to revert that at the end of your turn? No thanks.
+
+[351] duda_candidata
+What part of the card don't you understand? Whether you have to shuffle even if you fail to find?
+
+[352] multimedia_o_sin_texto
+
+
+[353] duda_candidata
+Do we know when next rules update will drop? 2 weeks to DLC Brazil and no documents update on ink staying faceup until end of turn, and the only official resource is the Lorecast vod
+
+[354] respuesta_debate_o_contexto
+We’ve had no announcement on any dates for when there will be an update
+
+[355] respuesta_debate_o_contexto
+The DLCs in Dortmund and Indianapolis went fine without that document update.
+
+[356] respuesta_debate_o_contexto
+But this wouldn’t be fun. 
+
+My take is that if we align with the “lore” of the game (the backstory…not the points) both characters should be dry for the shift to be considered dry. It will be messy with all the ink flowing through the board
+
+[357] duda_candidata
+While we are at it: honest question, why is that risky/bad?
+
+[358] respuesta_debate_o_contexto
+For clarity of the game state.
+
+[359] duda_candidata
+Tokens can be misleading? It feels that tokens mainly contribute to the clarity of the game state, no?
+
+[360] respuesta_debate_o_contexto
+Depends on the token.
+
+[361] duda_candidata
+Numerical tokens can be misleading using dice to indicate the strength can be confused for the damage taken by the character
+
+[362] respuesta_debate_o_contexto
+Yeah, that makes sense. But I recall that we are also not allowed to use dices to mark the number of cards on hand...which is weird to me as usually my opponents do that to provide information to me. I wouldn't want to call a judge on that case.
+
+[363] duda_candidata
+https://lorebot.ink/articles/guest-article-how-to-fix-cheating-in-disney-lorcana
+
+i honestly dont know where else to post this but thoughts?LoreBotGuest Article: How to Fix Cheating in Disney LorcanaJoseph Quigley discusses current problems with how instances of cheating are handled in Disney Lorcana events, and provides some suggestions on how we may better approach the situations.
+
+[364] respuesta_debate_o_contexto
+That is also for clarity of game state.
+
+[365] duda_candidata
+Ah! So hand marking is ok but not on cards in play?
+
+[366] respuesta_debate_o_contexto
+I just want to be a rule aviding player...and sometimes this makes it hard
+
+[367] respuesta_debate_o_contexto
+With a non numerical token it is okay
+
+[368] respuesta_debate_o_contexto
+If they use a die on the 2 side on top of their hand they set on the table when there are 3 cards in that hand, that could go down as an Information and Communication Error.
+
+[369] respuesta_debate_o_contexto
+I understood @GooglyGlimmers last message to signal that it's ok to use a die with the number of cards to be ok for signaling how many cards are on hand.
+
+[370] respuesta_debate_o_contexto
+That is the opposite of my meaning.
+
+Dice are not allowed as hand markers because it could be an issue with clarity of game state.
+
+[371] duda_candidata
+Ok. So... should I ask my opponent not to do it?
+
+[372] duda_candidata
+Or what's the best way to handle it?
+
+[373] duda_candidata
+Feels like this is directly related to yesterday's rule screengrab? ⁠rules-discussion⁠
+any numerical token is not allowed other than for damage(?)
+
+[374] respuesta_debate_o_contexto
+Because if I ask them, I feel like I'll come across as a jerk
+
+[375] respuesta_debate_o_contexto
+But also I don't want to call the judge, as that will make me a jerk and an angle shooter for something that they are doing mainly for me
+
+[376] respuesta_debate_o_contexto
+!dunno
+
+[377] respuesta_debate_o_contexto
+(not trying to be difficult...but this ruling is clunky)
+
+[378] respuesta_debate_o_contexto
+Ask them not to do it. Point out that it’s against the rules. Call a judge if they refuse.
+
+[379] respuesta_debate_o_contexto
+If you inform a player that something is against the rules and they continue to do it then calling a judge doesn't make you an angle shooter. They don't get any real penalty until it is a correction given multiple times in the same event.
+
+[380] respuesta_debate_o_contexto
+Calling a judge is not angle shooting, whatever that means.
+
+[381] respuesta_debate_o_contexto
+angle shooting is using the rules to catch people in a situation that is technically wrong / against the rules but players do it either unintentionally or because bad play has become common. One way people might use it now is calling a judge every time thier opponent forgets ink is now face up until end of turn when played as the turn inking action. (editado)miércoles, 24 de junio de 2026, 19:
+
+[382] respuesta_debate_o_contexto
+Players should feel empowered to call a judge in any situation. You don't have to call a judge if you just want to remind your opponent yourself, but you aren't wrong for calling a judge to take care of it.
+
+[383] respuesta_debate_o_contexto
+You are never a jerk to call a judge. If your opponent feels that way, that is on them. It is your RIGHT to call a judge and if you are in a situation you are not comfortable with, absolutely call the judge. If it makes things awkward, I get it, that isn't a comfortable position to be in and can be hard to overcome. But the alternative can be much much worse.
+
+[384] respuesta_debate_o_contexto
+As my therapist says..."should" can be tricky
+
+This weekend my opponent wanted to do a straightforward takeback andI told him that I was ok but we should call the judge...he looked at me like I was the worst. So I let him do it.
+
+[385] respuesta_debate_o_contexto
+Don't let your opponent guilt you into breaking the rules.
+
+[386] respuesta_debate_o_contexto
+Judges are required to authorise take backs. It is not a player responsibility.
+
+[387] duda_candidata
+I've told other players this: never let your opponent decide if you're calling a judge. You can let them know that you're going to call a judge, but it isn't a group decision. It's never "should we call a judge?" Always "I'm calling the judge.".
+There have been lots of words written recently about how players are getting away with rules violations. I don't know how true or overblown those are, but if they are accurate, part of the reason is that players don't call judges when they should. Did a player who was caught breaking the rules in round 10 just make a mistake? Or have they been doing it all day and only now her caught? We won't know if they talk their opponents in rounds 1-9 out of calling a judge.
+
+[388] respuesta_debate_o_contexto
+I think that there's a stigma about being "judged"
+
+[389] respuesta_debate_o_contexto
+There is, for sure.
+
+[390] respuesta_debate_o_contexto
+When I wanted to do the take back I totally called the judge...it was fine. I didn't want to put the onus on the opponent. I don't care...I'm a big boy. But I also dont' want to make my opponent uncomfortable.
+
+[391] respuesta_debate_o_contexto
+But that's likely on me....
+
+[392] duda_candidata
+All of these calls for harsher penalties.. The absolute first and best step towards catching more problems is to build a community that is willing to call for a judge anytime and every time they have a question or concern.
+
+[393] respuesta_debate_o_contexto
+The rules require a judge to authorize a take back no matter how a player feels. 
+
+Calling a judge is not always for bad things.
+
+[394] duda_candidata
+A good example is I may call a judge and say hey I really need to use the bathroom can you watch me seat and the game state so I can quickly go?
+
+[395] duda_candidata
+See ⁠rules-discussion⁠
+
+The solutions presented end up becoming harsher consequences for those already trying to follow the rules. In the end, the cheaters get caught and bounced more often than not with current rules (EDIT: Personal Opinion). It will only get better as more people become willing to call judges for anything that seems 'off' or is legitimately obviously against the rules. It is not a bad thing to call a judge. You are there to play a game and assume it will be fair. Why would there be a problem with making sure it stays that way? That is something I'll never understand - players denying themselves a fair experience. The reason cheaters fly under the radar is a lack of having a judge at every table (never going to happen) and players unwilling to call for a judge. Keeping track across events only goes so far. Players can and have registered with new accounts, friend's accounts, etc to circumvent things like this. It isn't as easy to implement and enforce as it is being made out to be. To use some common phrasing, the grass is always greener on the other side. (editado)miércoles, 24 de junio de 2026, 20:
+
+[396] duda_candidata
+That makes sense: how can we make everyone more comfortable calling judges?
+
+[397] respuesta_debate_o_contexto
+Just doing and educating when people are mean about it.
+
+[398] respuesta_debate_o_contexto
+I appreciate that @Jon always remind us of that...but for many...a judge is a scary entity
+
+[399] respuesta_debate_o_contexto
+Call judges more often yourself.
+
+[400] respuesta_debate_o_contexto
+I called a judge 3 times in one game at a local event. When my opponent  rolled his eyes on call 3, I firmly said I'm allowed to call a judge and this is a learn to play event so I just wanted to confirm how we should be playing this sequence you keep doing that feels wrong.
+
+[401] respuesta_debate_o_contexto
+(this was not Lorcana but a new to me format of magic I was trying to learn)
+
+[402] respuesta_debate_o_contexto
+Anecdote: when I first started judging (different game), prerelease events at my local store didn't have a judge, had never had a judge in the two years the store had been open.
+ The local competitor scene was used to playing at larger events, and when I judged local competitive events, I got plenty of judge calls, but my first time judging a prerelease for 30-some players, I had maybe two or three calls. 
+Next prerelease, a few more. Next time, a few more. Now, at a prerelease at that store, I expect a half dozen calls every round. The players got used to calling, because they saw others calling, and it snowballed.
+
+[403] respuesta_debate_o_contexto
+just do it, encourage your opponent to do it (and do it yourself when you have done something wrong) and tell your friends to do it.
+Judges aren't writing any tickets, they are literally there to be a third party to everything that can happen during the game
+
+[404] respuesta_debate_o_contexto
+My local community knows I'm a judge and so I've encouraged them even at events that I'm not there as a judge because it doesn't require I've to go ahead and call judge and I'll answer.
+
+[405] respuesta_debate_o_contexto
+It's it free labor sure but I'm there playing and trading anyways.
+
+[406] respuesta_debate_o_contexto
+All of the suggestions in the article are beyond our scope as judges. Harsher penalties, tracking between events, suspending dqd players, kicking dqd players out of the venue...us agreeing or disagreeing with these suggestions doesn't factor into it; these are all questions for RB / the tournament organizer
+
+[407] respuesta_debate_o_contexto
+100% agree, but there is discourse that can be discussed as judges.  Just nothing we can execute on without the powers above working through it.
+
+[408] duda_candidata
+The biggest thing imo is in how we approach calls when they do come. We want to show the players that we're here to help, not just looking for an opportunity to Get Them. Our demeanor in a judge call carries enormous weight. If players call us over and we approach with a grumpy "...what?" or a friendly "Hi, players - how can I help?" that will make a big difference in how likely these players are to call a judge again in the future
+
+[409] duda_candidata
+Can we really say "In the end, the cheaters get caught and bounced more often than not with current rules."
+
+Surely that would require some kind of idea of the number of people cheating and not caught? I've never seen any kind of study, survey or data indicating this is available.
+
+[410] respuesta_debate_o_contexto
+This was certainly personal opinion, I should have been clearer
+
+[411] duda_candidata
+Thanks for clarifying  (editado)miércoles, 24 de junio de 2026, 20:
+
+[412] respuesta_debate_o_contexto
+Edited!
+
+[413] duda_candidata
+Poll: Have you cheated at a DLC and were you caught?
+ XD
+
+[414] respuesta_debate_o_contexto
+Stranger things have been asked in the world of data analysis!
+
+[415] duda_candidata
+I mean, isn't this the same thing that the DHS does when we come to the country as foreigners?
+
+[416] respuesta_debate_o_contexto
+...  i wouldn't know.
+
+[417] respuesta_debate_o_contexto
+Yes and no. A lot of countries share law enforcement data with each other.
+
+[418] respuesta_debate_o_contexto
+Interpol
+
+[419] duda_candidata
+so if i have a woody and a buzz on board and a shifted woody & buzz and someone plays one and only would it banish all my woody and buzz characters if they chose the shifted duo woody & buzz? since technically the name is different but they count as woody and buzz??
+
+[420] respuesta_debate_o_contexto
+If you choose Woody & Buzz with this One and Only, it will banish all other Woodys, Buzzes, and Woody & Buzzes.
+
+[421] respuesta_debate_o_contexto
+5.2.6.2. A character with multiple names is still a single character.
+Example A: Flotsam & Jetsam – Entangling Eels is a character that has three names. The card is a character named “Flotsam,” a character named “Jetsam,” and a character named “Flotsam & Jetsam.”
+Example B: Bruno Madrigal – Undetected Uncle has an ability called You Just Have to See It that reads, “! — Name a card, then reveal the top card of your deck. If it's the named card, put it into your hand and gain 3 lore. Otherwise, put it on the top of your deck.” If the active player names “Flotsam” for the ability’s effect and then reveals either Flotsam or Flotsam & Jetsam from the top of their deck, the revealed card is a match and the active player puts it into their hand and gains 3 lore. If the player names “Flotsam & Jetsam” and then reveals Flotsam from the top of their deck, that isn’t a match, and the player doesn’t put the revealed card into their hand and doesn’t gain 3 lore. Flotsam is then put back on the top of that player’s deck.
+
+[422] duda_candidata
+Wouldn't Example B mean if you choose Woody and Buzz it only hits them but had they chosen Woody, it would banish all Woody and Woody & Buzz?
+
+[423] respuesta_debate_o_contexto
+No.
+
+You’re not choosing a name with this new card, you’re choosing a character. These Team characters have all three names, simultaneously, at all times.
+
+[424] respuesta_debate_o_contexto
+Oh, I follow, thanks! I also hadn't seen the card yet so was operating under false assumptions, whoops...
+
+[425] respuesta_debate_o_contexto
+makes sense now
+
+[426] duda_candidata
+Then can you choose “Woody & Buzz” as - a - character?
+
+[427] respuesta_debate_o_contexto
+A character is a singular card that is a character In Play no matter how many names it has. 5.2.6.2 is the rule for that
+
+[428] respuesta_debate_o_contexto
+Makes sense
+
+[429] respuesta_debate_o_contexto
+too bad Morph doesn't have all legal names
+
+[430] duda_candidata
+lol, like "Morph can be anything, therefore all names qualify for him"?
+
+[431] duda_candidata
+The Madrigal Family would banish every Madrigal then right?
+
+[432] agradecimiento_o_confirmacion
+No.
+
+[433] respuesta_debate_o_contexto
+Hmm okay so a team character with a different name from the other madrigals
+
+[434] duda_candidata
+ok so new question, If i have "Rapunzel & Flynn Rider" in play and i make a challenge with something that makes me discard when challenging and i discard a character with shift, do i resolve the discard play before the challenge ends? so i could shift onto the character in the challenge or another character on my board with a trigger that happens when i shift or play? (this was posted in the "Disney Lorcana TCG Fans" fb page)
+
+[435] respuesta_debate_o_contexto
+The character would be played as part of resolving effects from the bag, before moving to the challenge damage step.
+
+[436] duda_candidata
+would it matter if both characters in challenge are evasive but then u shift ontop and now one is evasive and one isnt? or since its already been declared it still moves to damage right?
+
+[437] respuesta_debate_o_contexto
+That would not stop the challenge from continuing, no. Challenge limiters are only checked before abilities resolve.
+
+[438] respuesta_debate_o_contexto
+this set gonna be fun, thx!!!
+
+[439] duda_candidata
+Ok just before I waste a bunch of filament,
+
+If I have a strength symbol with a - can I stack multiples to mark a reduction of strength with say Mickey expedition leader
+
+[440] respuesta_debate_o_contexto
+That would be within the rules
+
+[441] respuesta_debate_o_contexto
+Numbers bad, symbols fine.
+
+[442] duda_candidata
+Ok just before I waste a bunch of filament,
+
+If I have a strength symbol with a - can I stack multiples to mark a reduction of strength with say Mickey expedition leader
+
+[443] multimedia_o_sin_texto
+
+
+[444] respuesta_debate_o_contexto
+I know people said turn up paper was ok and the symbol itself but I want sure if adding a - made it become a numerical value tracker
+
+[445] respuesta_debate_o_contexto
+It came up tonight at league because people were using magic counters and I wanted to make sure whatever thing possible choose was actually legal.
+
+[446] respuesta_debate_o_contexto
+Sorry if it was discussed at length before this week the numerical part (not just no dice) is new knowldge for my local scene.
+
+[447] duda_candidata
+Googly answered with the gif because your exact same message was posted twice within 30 min, not because it was discussed before 
+Sometimes Discord does that on an unreliable network...
+
+[448] multimedia_o_sin_texto
+
+
+[449] duda_candidata
+if i discard look what you have done to pay for the cost to shift diablo, does the diablo shift on to the shift choice first?
+
+[450] duda_candidata
+the reason i m asking is, if i discard look what you have done and i pay the cost to play from discard, can i deal 2 damage to the base diablo and still end up with the shifted diablo in play that can quest, challenge, or sing if the base diablo is dried
+
+[451] respuesta_debate_o_contexto
+dont ask what i am drinking
+
+thanks
+
+[452] respuesta_debate_o_contexto
+You discard to shift, place shift on top of base, then you can play look what you've done
+
+[453] respuesta_debate_o_contexto
+are we sure the ability uses the bag though
+
+[454] respuesta_debate_o_contexto
+or is it played from discard as an action
+
+[455] respuesta_debate_o_contexto
+It's a triggered ability so it uses the bag. The card is played when the triggered ability resolves.
+
+[456] duda_candidata
+so we are sure thats a triggered ability?
+
+okay
+
+[457] duda_candidata
+(Are we sure it's an ability? (I think so but others think otherwise  ) )
+
+[458] respuesta_debate_o_contexto
+Justification for why it's not : 5.4.3
+Justification for why it is : the card does not work if it's not...
+
+[459] multimedia_o_sin_texto
+
+
+[460] respuesta_debate_o_contexto
+This feels like a fun time to remind everyone that actions don't use the bag.
+
+[461] respuesta_debate_o_contexto
+Hopefully CRD makes some acknowledgement or example of how these discarded card play and interact when discarded as a cost. There was a whole slew of floodborns for the mechanic.
+
+[462] duda_candidata
+Actions "effects" don't use the bag, that is also what resolves when the action is played.
+I don't think "During your turn, when you discard a card, you may play it from your discard." is part of what resolves when the action is played, hence my take on calling this part an "ability", specifically a triggered one, and calling the "Deal 2 damage to chosen character." part of the actions its actual "effect".
+5.4.1.2. Actions are played from a player’s hand. When an action is played, its effect resolves immediately. An action is put into the Play zone while the effect resolves. After the effect resolves, the action is put into the player’s discard pile. An effect from an action doesn’t enter the bag. (See 7.7, “Bag.”)
+
+And this also leads to the question of why those 2 parts were not separated by paragraph breaks like they are on Escape Plan or Sing Together Songs and like it's prescribed by :
+6.1.1.1. A card can have multiple abilities. These are normally separated by paragraph breaks as well as keywords or story names.
+
+(Also the Sing Together Keyword is defined as an "ability" in :
+8.12.1. The Sing Together keyword represents a static ability [...]
+And this even though it appears only on Action cards despite what "not an ability" defenders might say about enforcing this :
+5.4.3. Effects – Actions have effects rather than abilities
+)
+
+[463] agradecimiento_o_confirmacion
+Thanks. Weirdly the first set didn't show for me so definitely just have been a discord issue
+
+[464] respuesta_debate_o_contexto
+I was mostly joking. This action clearly has a triggered <something> to resolve, meaning the bag should be used.
+
+[465] duda_candidata
+Can you play "look what you have done" multiple times, as long as you can pay for it?
+
+Because you discard it, play it from the discard. So it enters play from your discard, no? So when it leaves play, it goes to the discard again. What am I missing here?
+
+[466] respuesta_debate_o_contexto
+Going to the discard from play isn’t discarding.
+
+[467] respuesta_debate_o_contexto
+See, that was what I was missing. Thank you!
+
+[468] multimedia_o_sin_texto
+
+
+[469] respuesta_debate_o_contexto
+I blame the heat for not thinking clearly
+
+[470] respuesta_debate_o_contexto
+Update!
+
+[471] respuesta_debate_o_contexto
+its too early to read
+
+[472] respuesta_debate_o_contexto
+(is it in effect immediately)
+
+[473] respuesta_debate_o_contexto
+only sheet updated on that page seems to be the CCQ Event Term Sheet.
+
+[474] respuesta_debate_o_contexto
+unless they typo'd the Update date for Tournament rules
+
+[475] respuesta_debate_o_contexto
+since it has the right day/month, but not year.
+
+[476] respuesta_debate_o_contexto
+They did.
+
+[477] duda_candidata
+you know what this doesnt cover?
+
+[478] respuesta_debate_o_contexto
+swordsSpoiler
+
+[479] respuesta_debate_o_contexto
+we can still promote swordsSpoiler
+
+[480] respuesta_debate_o_contexto
+The line between opening packs and gambling is....thin
+
+[481] respuesta_debate_o_contexto
+Interesting that they made the change to require stating the full name of the card when inking
+
+[482] respuesta_debate_o_contexto
+We don’t really get it
+
+[483] respuesta_debate_o_contexto
+Had to be face up anyway
+
+[484] respuesta_debate_o_contexto
+Players communicate so well already...
+
+[485] respuesta_debate_o_contexto
+Now I actually have to know my cards subtitles lol
+
+[486] duda_candidata
+With takebacks…can we consider multiple exertions done at the same time (e.g. I decided to quest with 3 glimmers at the same time) to be one action if all were done at the same time and still don’t reveal any new information?
+
+[487] respuesta_debate_o_contexto
+yes, it is considered one play, an out-of-order sequence
+
+[488] agradecimiento_o_confirmacion
+Thank you! This is an extremely welcome change.
+
+[489] respuesta_debate_o_contexto
+Batched actions have been eligible for take backs since the policy was first outlined, as far as I recall
+
+[490] respuesta_debate_o_contexto
+I can only see the entire name rule only being used for sharking purposes, not any legit reason
+
+[491] respuesta_debate_o_contexto
+That would be challenging, since there’s no penalty associated with it
+
+[492] respuesta_debate_o_contexto
+That won't stop those losers lol
+
+[493] duda_candidata
+Uh oh, looks like we got a typo?
+
+[494] respuesta_debate_o_contexto
+no no, you just never read it for over a year.
+
+[495] respuesta_debate_o_contexto
+time travel
+
+[496] duda_candidata
+When was it first outlined?
+
+[497] respuesta_debate_o_contexto
+DLC Milwaukee
+
+[498] respuesta_debate_o_contexto
+so around October 23rd 2025.
+
+[499] respuesta_debate_o_contexto
+Posted in the discord 10/24:
+
+⁠Disney Lorcana TCG Official⁠
+
+[500] duda_candidata
+From the summery posted ... "Inking requires the full card name."  What does that mean, are we supposed to say "I ink Captain Hook Forceful Duelist" out loud?  Also, Hi Chris.
+
+[501] respuesta_debate_o_contexto
+Presumably
+
+[502] duda_candidata
+Do we get more time for all this extra recitation of full names, titles, and honorifics of all inked cards?
+
+[503] duda_candidata
+I mean, tournament round times have been increased, so, kinda?
+
+[504] duda_candidata
+I often met players saying “ink basil” but without specifying which one (and playing a BG Basil deck ). Maybe this is the explanation?
+
+[505] respuesta_debate_o_contexto
+I see. Very well then. Carry on.
+
+[506] respuesta_debate_o_contexto
+true, but I honestly can't tell you the subtitle of a card most times
+
+[507] respuesta_debate_o_contexto
+I always leave it face up since forever and let opponent see it tho
+
+[508] respuesta_debate_o_contexto
+When you're inking a card, you're looking right at it. Knowing its version shouldn't be an issue.
+
+[509] duda_candidata
+I don't see any specific mention of "tokens" in the 3.11 Approved Accessory section, but mentioned in 5.2 for Notes and Information Tracking. 
+Would the use of a card guard still fall under 5.2 or is it just missing from 3.11?
+
+[510] respuesta_debate_o_contexto
+Reading the card names the card.gif
+
+[511] respuesta_debate_o_contexto
+Can be an issue if your card is in a language not spoken by your opponent and you need to announce the English full name, you might not always know it fully.
+
+[512] respuesta_debate_o_contexto
+Could be an issue if you play with foreign language cards
+
+[513] respuesta_debate_o_contexto
+This is fair. But, I think that is addressed, one second.
+
+[514] duda_candidata
+can you really be fairly playing with a card if you personally can't understand the whole card?
+
+[515] multimedia_o_sin_texto
+
+
+[516] respuesta_debate_o_contexto
+This is for abilities that ask you to name a card, but I think it should be applicable here as well.
+
+[517] respuesta_debate_o_contexto
+I already had a hard time remembering the actual English name of "Junior Woodchuck Guidebook" when announcing in Dortmund with my cards written "Manuel des Castors Juniors". It often ended up being a "Chuckwood Cookbook" or things like that.
+
+[518] duda_candidata
+hey, TMYK, 'castor' as in castor oil, is... woodchuck??
+
+[519] respuesta_debate_o_contexto
+Mmm. Cooked woodchuck.
+
+[520] respuesta_debate_o_contexto
+oh nope, Castor is also a bean, lol
+
+[521] respuesta_debate_o_contexto
+(In French "Castor" actually means "Beaver" while "Woodchuck" is technically "Marmotte" but Huey, Dewey and Louie are indeed members of "Les Castors Juniors" which is the translation chosen for "Junior Woodchucks" in English.)
+
+[522] respuesta_debate_o_contexto
+Same, my tips was to say “little demona” then “big demona” but it cannot cover for all
+
+[523] respuesta_debate_o_contexto
+Sure, but reading the card slows down play heh
+
+[524] respuesta_debate_o_contexto
+I swear I knew this (je parle français un peu) but just went off the rails.
+
+[525] duda_candidata
+It might be too early to call, but with Merida, the intuitive interaction using windstorm would be that Evasives get 7 damage pre-resist  (1+2+2+2) and non-evasives get 3, correct?
+
+[526] agradecimiento_o_confirmacion
+Yes.
+
+[527] duda_candidata
+Good. Can’t wait for you to maie a video explaining it to masses of confused players
+
+[528] respuesta_debate_o_contexto
+It’s already been requested
+
+[529] duda_candidata
+How surprising /s
+
+but thanks for the new series of shorts, it allows me to have something to send my players when they’re asking me how interactions work or when I explain to them and they go "are you sure???"
+
+[530] respuesta_debate_o_contexto
+About that, during the Finals of DLC Indianapolis where Googly was seen in one of the players cam, Twitch chat was going crazy on "Hey! This is the guy from the videos!".
+
+[531] duda_candidata
+does Buzz & Woody count as "Buzz and Woody" or "Buzz" and also "Woody"? regarding naming cards
+
+[532] respuesta_debate_o_contexto
+All three
+
+[533] duda_candidata
+How about naming "Buzz & Woody" while playing "The one and only", does it banish all others "Buzz" and/or "Woody", or only "Buzz & Woody"
+
+[534] respuesta_debate_o_contexto
+You don’t choose a name when you play One and Only. You choose a character.
+
+It would result in banishing all other characters named Woody and all other characters named Buzz Lightyear
+
+[535] respuesta_debate_o_contexto
+ah yes, I just read the card again
+
+[536] duda_candidata
+How about card which requires you to name a card, like Bruno?
+
+[537] duda_candidata
+So, in the past, the 'headline' of the card was the 'Character'... I guess there's a clear distinction here that these are Teams therefore two characters? Hamish, Hubert &  Harris isn't considered 3 separate characters, thus far?
+
+[538] respuesta_debate_o_contexto
+Then it would depend on what you named. Naming the team character would result in only the team character matching.
+
+Naming Woody would result in any Woody matching, and the team character. But not any Buzz Lightyear.
+
+[539] respuesta_debate_o_contexto
+Pithing Needle brain
+
+[540] respuesta_debate_o_contexto
+Alright, got that
+
+[541] respuesta_debate_o_contexto
+HHH is currently undefined because it seems to have three names.
+
+Characters with multiple names are a single character that has three names. Each individual name, plus the combined name.
+
+[542] respuesta_debate_o_contexto
+This is why people are misreading. Association without full detail analysis.
+
+[543] respuesta_debate_o_contexto
+Not the same thing but reflective of various similar effects in MtG
+
+[544] respuesta_debate_o_contexto
+lol yea and it usually requires to choose a name when it is name related ability
+
+[545] respuesta_debate_o_contexto
+yea, naming a 'card' vs naming a 'character'
+
+[546] respuesta_debate_o_contexto
+Due to a quirk in the rules, Hamish, Hubert, & Harris has three names:
+"Hamish, Hubert,"
+"Harris"
+and "Hamish, Hubert, & Harris"
+This is probably not intended.
+
+[547] duda_candidata
+Hubert Legendary when?
+
+[548] respuesta_debate_o_contexto
+I just call them Triple H
+
+[549] respuesta_debate_o_contexto
+I never ever remember their full name/order, and even had to consult Dreamborn before writing my initial message, lol
+
+[550] duda_candidata
+So conversely: if I play One and Only and pick a 1c woody, then my opponent’s team Buzz & Woody would be banished?
+
+[551] agradecimiento_o_confirmacion
+Yes
+
+[552] agradecimiento_o_confirmacion
+Yes.
+
+[553] duda_candidata
+just a quick one about takebacks.... it happened at a set champs recently... if someone passes the turn... and then instantly is like, actually can we do a takeback to use up one more ink to move someone to a location... based on my understanding of the rules, this isnt allowed as its no longer their turn?
+
+the other player had not drawn for turn or anything yet.
+
+[554] duda_candidata
+Policy point of view, it’s not allowed.
+But I think it’s depend on the Lore Guide to take or not the decision (after investigation) ?
+
+[555] respuesta_debate_o_contexto
+Agree with @dihensoeur, I wouldn't allow it as it's no longer their turn and they want to change the board state by more than one action.
+
+In a casual game, yeah you probably would allow it.
+
+Something I'm trying to drum into my locals is calling lore guides when someone wants to do a take back. As players are allowing take backs with multiple steps to happen which is no bueno.
+
+[556] respuesta_debate_o_contexto
+There doesn't seem to be a restriction on takebacks just because the action you want to take back is passing you turn. The specific example of an ineligible takeback is waiting until your opponent has already taken an action.
+
+[557] duda_candidata
+I'm going to nitpick a bit but how would moving 1 character to a location be changing the board state by more than 1 action. 
+
+I would be hesitant to say yes to that change immediately, but I don't think it's an unreasonable request to take back you passing your turn if your opponent is still in his ready phase , just to move 1 character to a location. 
+
+But as always, you have to judge these on a game to game basis and try to be as consistent as possible.
+
+[558] respuesta_debate_o_contexto
+A takeback is performed based on the action to takeback, not on the other potential actions that the player wants/could do.
+
+[559] duda_candidata
+if someone passes the turn... and then instantly is like, actually can we do a takeback
+That sounds like a valid situation for taking back passing the turn.
+
+[560] respuesta_debate_o_contexto
+Have reread the official docs I would agree with Alain here and allow for the take back of the pass turn
+
+[561] respuesta_debate_o_contexto
+This is where my head got a little stuck and you are right, can't base the take back on future events.
+
+My thought pattern was that if the location has an ability that could be triggered when moving a character there, then it will have bigger implications.
+
+But as you said can't do it on what they will do next.
+
+[562] respuesta_debate_o_contexto
+The idea is not "Take back only one action to get the opportunity to do only one action", as long as you asked to take back one action and it was allowed you can continue doing any number of legal game actions.
+If however it was the reversed, like the player moved the character to a location, passed the turn and required a take back to finally not move it, the action of passing the turn would resonnably be allowed to take back but not the action to move the character.
+
+[563] duda_candidata
+Oh I get that, my brain was in player mode which is to try and figure out all possibilities. 
+
+When in this example should be "Did any actions or triggers happen after the player passed their turn? No. Allow take back"
+
+[564] duda_candidata
+Yep from my understanding take back has nothing to do with what they want to do after the take back. Player can say hey can you pause so I can call a judge. If they are still in the ready phase then asking for a take back of a end turn (as long as nothing happened on the end of turn phase) would most likely be granted.
+
+[565] duda_candidata
+Now I guess my question is if they say have Cinderella on board and say end turn and pass the turn to the next player could we take back all the way to play since we also have to take back end of turn decisions so it's more than one item.
+
+[566] respuesta_debate_o_contexto
+We shouldn't really know/care that they want to move a character to a location.
+
+[567] respuesta_debate_o_contexto
+Cinderella draws a card, so perhaps not the best example of just purely passing and resolving an ability.
+
+Maybe something like the Judy Hopps that readies a character.
+
+[568] respuesta_debate_o_contexto
+But in all but the most unusual of circumstances, I’d probably consider that a batched action - people will usually pass and resolve in the same “move”. Of course, having multiple abilities to resolve would be less likely to be allowed a take back, but it all depends on how the actions were taken.
+
+[569] duda_candidata
+What if you jump straight to passing turn, mashing declaration of end of turn, denying the trigger, and passing into one oos batch action?
+....
+Hey, stop answering questions before I finish typing them
+
+[570] multimedia_o_sin_texto
+
+
+[571] respuesta_debate_o_contexto
+Ah yes could have been more clear say there is a Cinderella in play and since it is a may end of turn ability then if they chose not to use her ability is that considered 2 actions that need to be taken back.
+
+[572] respuesta_debate_o_contexto
+I would not say so.
+
+[573] duda_candidata
+Well... Couldn't that be abused to avoid MT?
+Declare end of turn, forget about Cinderella, pass the turn, when the opponent is about to take a turn action say stop, call a Lore Guide to ask for a Take Back of passing the turn, then declare end of turn and resolve Cinderella?
+
+TR3.5 [...] Players should take care when applying out-of-order sequencing, as it doesn’t cover any Missed Triggers.
+
+[574] duda_candidata
+Not really? There’s not a whole lot of difference between the window for acknowledging Cindy and the window for allowing the take back.
+
+It’s something to bear in mind, but I don’t see much opportunity for abuse.
+
+[575] respuesta_debate_o_contexto
+i have an insane idea for infinity from next set but im not 100% sure if it would work so you play Powhatan's Staff then use it and then play mr big in theory if your opponent doesn't have anything with 1 strength to be able to challenge mr big they can not challenge anything at since Powhatan's staff would give mr big bodyguard
+
+[576] respuesta_debate_o_contexto
+Doesn’t work that way.
+
+[577] respuesta_debate_o_contexto
+Bodyguard just means you have to challenge that character if possible b
+
+[578] respuesta_debate_o_contexto
+Which is why giving an opponents bodyguard evasive was so good early in Lorcana history.
+
+[579] respuesta_debate_o_contexto
+i didnt think would but i thought i would check in case i was thinking about it incorectly
+
+[580] duda_candidata
+Whats this buddy?
+
+[581] respuesta_debate_o_contexto
+Cause I dont want time you out for getting hacked
+
+[582] multimedia_o_sin_texto
+
+
+[583] respuesta_debate_o_contexto
+Looks like a gif link that didn’t load right
+
+[584] duda_candidata
+hey squad, clarifying question here. There was a recently change to the Comprehensive Rules to where a deck-out loss occurs "if a player's turn ends with no cards in the deck"-- but do we know when precisely this occurs. Presumably, this occurs during 3.4.2, but is there anywhere that actually says this?
+
+[585] duda_candidata
+Furthermore, what if a player reaches 20 lore as a result of an end-of-turn triggered ability, but also has an empty deck during this time? Does the game state check at the end of that triggered ability cause the player to win the game before any subsequent game state check that would cause them to lose the game?
+
+there previously was a clarifying rule about if a player would lose and win the game simultaneously and what happens, but it appears that section is now removed.
+
+[586] respuesta_debate_o_contexto
+This part, at least, I think is clear because whatever generated that winning lore will have its own GSC. 3.4.2 adds an extra GSC
+
+[587] respuesta_debate_o_contexto
+1.8.4
+
+[588] respuesta_debate_o_contexto
+Kinda addresses the win and loss
+
+[589] respuesta_debate_o_contexto
+Not sufficient
+
+[590] duda_candidata
+I'm sorry, I don't really see how. What does it say occurs if a player would win and lose at the same time?
+
+[591] respuesta_debate_o_contexto
+Thats why I said not sufficient - just putting out there what item would have covered it
+
+[592] respuesta_debate_o_contexto
+But agree with Kujo, 3.4.2 is when turn actually ends and loss occurs
+
+[593] respuesta_debate_o_contexto
+In that regard, you won't have won or lost ever
+
+[594] respuesta_debate_o_contexto
+It is one of them only
+
+[595] respuesta_debate_o_contexto
+It’s not possible to win and lose at the same time. The only GSC that can generate a game loss occurs after the end of turn phase. It’s not possible for that GSC to also generate a game win, because the effect that brought a player to 20 lore would already have been followed by a GSC that registered the win.
+
+[596] duda_candidata
+ok, so there's nowhere that explicitly says that 3.4.2. is where the "end of turn with no cards in deck" occurs, but this is the most logical interpretation of the rules as written. Is that an accurate assessment of the current state of affairs?
+
+[597] duda_candidata
+I feel it is explicit. Did you want it to reference 3.4.2 in the GSC descriptor?
+
+Otherwise, the GSC states specifically when the player's turn ends, not the End of Turn phase. 3.4.2 is exactly when a player's turn ends.
+
+[598] respuesta_debate_o_contexto
+the opposite. I think 3.4.2. should reference that is where the check for the victory (or in this case, loss) condition occurs
+
+[599] duda_candidata
+Hello, just want to understand the issue. Please correct me:
+(GSC) 1.8.1.2 is fully based on player’s turn ended.
+So, you’re suggesting that 3.4 section should talk about it?
+
+[600] duda_candidata
+thanks for the clarification! I dont see how that is needed in any way. However, if there is room for interpretation, as you are showing, maybe it is worth a look at.
+
+[601] duda_candidata
+so something like an elinor?  this could be a quiz question
+
+[602] duda_candidata
+Hello! For pre release, when can people change their cards? Is it between games or rounds?  thank you, same question for draft.
+
+[603] duda_candidata
+Last time I asked this question they said at DLC side events, they were allowing players to alter their decks between rounds but not between games as a consideration for time in the round.
+
+[604] respuesta_debate_o_contexto
+Addendum: ultimately it is up to an agreement between the Lead Lore Guide and/or the Tournament Organizer as there currently aren't any written guidelines on the subject.
+
+[605] respuesta_debate_o_contexto
+What is allowed and not allowed regarding splitting
+
+Example 1
+
+In the finals from Set Championships players split the mat, like player A pays player B 50% of the value and keeps the mat 
+
+Example 2
+
+Neither player benefits from a draw, player A gets the win in return for part of the prices 
+
+Example 3
+
+At a DLC a pair decides a winner, sells the Golden Mickey and the losing player gets half the value
+
+Example 4
+
+Player A suggests the winner is determined by rolling a dice
+
+I would say none of these are allowed, but I have been wrong more often
+
+[606] respuesta_debate_o_contexto
+Example 1 I would say that’s not a split. 
+
+Example 2 isn’t splitting 
+
+Example 3 
+Splitting isn’t allowed at a DLC level, it specifically states that spiltting can’t happen at premier events.
+
+Example 4 
+Rolling a dice would be an improper match result.
+
+[607] duda_candidata
+Why would 1 nog be a split. Both players would go home with half of the value that was to be won by that match
+
+For 2 and 4, it might not be exactly splitting, but it is not forbidden to offer, correct?
+
+[608] respuesta_debate_o_contexto
+Splitting isn't about value. It's about prizing. A playmat cannot be split. (Scissors notwithstanding)
+
+[609] respuesta_debate_o_contexto
+1 isn’t split the prize pool available in the tournament isn’t getting one person to pay the other person the secondary value of the prize pool
+
+[610] respuesta_debate_o_contexto
+A spilt would be player A takes the playmat while player B takes the packs
+
+[611] respuesta_debate_o_contexto
+Additionally 2 and 4 are not allowed 2 is could potentially be coercion of I’ll scoop in return for X and 4 is an improper match result
+
+[612] respuesta_debate_o_contexto
+2 and 4 are definitely improper match results.
+
+[613] respuesta_debate_o_contexto
+So technically a player could say, I can give you X packs and I'll keep the mat, but not I'll give you X money and I'll keep the mat
+
+[614] respuesta_debate_o_contexto
+It's not about packs or money but about those being part of the prizing. If there was money as part of the prizing and the agreed upon split was one player takes the money and the other takes the products, that would be valid.
+
+[615] respuesta_debate_o_contexto
+No it would be say between second and first place on the line there is 15 packs and a playmat the split can be I’ll take 2 packs and the mat and you get the rest of the packs since that’s what’s available in the prize pool
+
+[616] respuesta_debate_o_contexto
+You can’t offer anything external to the prize pool in the spilt
+
+[617] respuesta_debate_o_contexto
+Also for example 3, in addition to splitting not being allowed in Premier Play events, it is not possible during a match where there's a Mickey on the line because "All remaining players must voluntarily agree to the split".
+Only if all 16 players agreed on splitting all the Top8 and later prizes (and not at a DLC) could these kinds of splits be allowed.
+(And the hardest prize to split in this case is the World's Invite anyway.)
+
+[618] respuesta_debate_o_contexto
+Splits can also account only for part of the prizing - players can agree to split packs but still play out for a mat, for example.
+
+[619] duda_candidata
+Bringing this up here really quick. Is there a good spot to point to in the rules for saying that Cheshire Inexplicable cannot move the 2 damage when boosting if there is no opposing character? I thought maybe the “to” abilities section in CRD 6 but in skimming that didn’t seem to have anything helpful for that.
+
+[620] duda_candidata
+1.9.2.4. Move– Removing (1.9.2.3) a number of damage counters from one character or location and putting (1.9.2.2) them on another character or location as a result of an effect that moved damage to them. Damage moved from a character or location can’t be moved back onto that character or location by the same effect.
+
+?
+
+[621] respuesta_debate_o_contexto
+That is pretty close! That pretty clearly defines it cannot move back to itself. And where I was getting hung up was there is no legal choice for the moving to. I guess the assumption off of the first sentence is that there MUST be a legal choice to move to into order to remove from the originating character. That assumption is what I was hoping to see somewhere in the rules.
+
+[622] respuesta_debate_o_contexto
+The key is that it’s one single event. It must be from one to another, else it’s not “moving”.
+
+[623] respuesta_debate_o_contexto
+Any ideas on how things like Duo shift are going to work, specifically how the shift character will enter and what states of the cards under it will be inherited... like if one of the shift cards was exerted, and the other not exerted ... or one was given reckless, but the other not ... one card has 1 damage the other 2 ... etc... asking because our local group wants to play with proxies (we have a local CCQ literally the day after prerelease) and have some guess at what the new rules will be.  We are thinking that the player can order the cards under the shift character, and the top card assumes the state of the directly under it.
+
+[624] respuesta_debate_o_contexto
+We will find out the rules when the rules are updated.
+
+I would anticipate the worst as far as inheriting states like ready/exerted.
+
+I would anticipate that everything other than states will be inherited completely. Effects, damage, etc.
+
+I would anticipate that inheriting multiple copies of a keyword ability hasn’t been deeply considered and will not be known immediately.
+
+[625] duda_candidata
+With respect to your latter point, inheriting multiple copies of a keyword, wouldn't this follow the precedent of double-application from effects and keywords already printed on a card?
+For instance, Ranger Plane giving Support to a character that already has the support keyword.  You don't get double support.
+
+For curiosity's sake, are there any cards currently that pass their keywords to the card(s) on top of them?  None come to mind, but each set they add takes up more of my RAM, and I'm about at my limit.  And thanks to NVidia, RAM is stupid expensive right now.
+
+[626] respuesta_debate_o_contexto
+If an effect gives the Keyword to a character, the shifted character will keep it, like if you played Helping Hand into a Mickey and another Helping Hand into a Minnie then shifted Mickey & Minnie - Adventuring Duo, we would be in a situation where it's unknown from current rules if the stack would now have double Support or not, but if you played yet another Helping Hand on the stack it would not gain it again because of :
+8.1.2. [...] If a card with a keyword that doesn’t stack would get that same keyword from an ability or action, it won’t get that keyword.
+
+[627] respuesta_debate_o_contexto
+Yeah, and it's likely a moot point. The M&M is likely to keep Support, just one instance though. The main issue would be if it mattered where/how the keyword was given.
+
+[628] agradecimiento_o_confirmacion
+Thanks.  I know that part, I just wasn't sure if there are edge cases where a printed effect would transfer over even though the card "disappears" once it's not top of the stack.
+
+[629] respuesta_debate_o_contexto
+The inheritance of applied keywords would almost certainly never be an actual issue.
+
+But it is an unknown, as far as if both keywords would be inherited, or if which keyword would be inherited if it’s only one.
+
+[630] respuesta_debate_o_contexto
+A relevant example would be if Mickey gained Evasive until the start of the next turn while Minnie gained Evasive this turn I guess.
+(One from Tinker Bell - Most Helpful and one from Tod - Playful Kit)
+
+[631] respuesta_debate_o_contexto
+There it is. That's the case the matters.
+
+[632] respuesta_debate_o_contexto
+It's an applied keyword in that scenario though, so the shift should just inherit the "evasive token" from Minnie, unless Duo Shift behaves differently than a normal shift.  Since Minnie gained evasive this turn before the shift, the keyword would carry over if it was just the Diver card from set 2.
+
+[633] duda_candidata
+And what happens to the applied Keyword that Mickey had?
+
+[634] respuesta_debate_o_contexto
+Ah, I see the conflict.  I misunderstood and thought that the until next turn keyword was from the previous turn, so would fall off before the new one is placed.
+
+[635] respuesta_debate_o_contexto
+Other Game brain says the player both are inherited, and though you don't get double evasive benefits, you do get both limitations.
+
+[636] duda_candidata
+What if the answer is it gets the stuff from the first character choosen?
+
+[637] respuesta_debate_o_contexto
+Pls no
+
+[638] respuesta_debate_o_contexto
+Players will never remember that.  I sure wouldn't, with my spaghetti brain.
+
+[639] respuesta_debate_o_contexto
+Timestamps we need Timestamps, inherits the earliest effect!
+
+[640] respuesta_debate_o_contexto
+Timestamps and Layers and we are golden
+
+[641] multimedia_o_sin_texto
+
+
+[642] respuesta_debate_o_contexto
+You’re a disgrace.
+
+[643] respuesta_debate_o_contexto
+FIFO would make more sense to me.
+
+Also, please don't curse me with layers.
+
+[644] multimedia_o_sin_texto
+
+
+[645] multimedia_o_sin_texto
+
+
+[646] respuesta_debate_o_contexto
+Let me be free i beg
+
+[647] respuesta_debate_o_contexto
+#unban krack clan ironwork
+
+[648] duda_candidata
+Are rules on replacement effects still written in a way that you only have to choose one when you have an “enters with x damage” character entering with an “enters exerted” or have they been further clarified so you have to do both?
+
+[649] respuesta_debate_o_contexto
+Enters effects are no longer replacement effects.
+
+[650] agradecimiento_o_confirmacion
+Thank you sir.
+
+[651] respuesta_debate_o_contexto
+Hey
+
+[652] respuesta_debate_o_contexto
+They always comment where I have notifications set up. Every time.
+
+[653] multimedia_o_sin_texto
+
+
+[654] multimedia_o_sin_texto
+
+
+[655] respuesta_debate_o_contexto
+The dead giveaway is when there is a comment in ⁠community-feedback lol
+
+[656] respuesta_debate_o_contexto
+cause we are perfect obviously
+
+[657] duda_candidata
+@GooglyGlimmers dude I've been watching so many of your videos lately. keep up the great work.
+
+https://www.youtube.com/shorts/HexPW2rrLH8
+
+TBH, I had no idea Shifted characters 'inherited' abilities... I always considered it a replacement character. So I'm evaluating everything all over again YouTubeGooglyGlimmersHow does Duo Shifting work with exerted or drying characters?
+
+[658] respuesta_debate_o_contexto
+Just remember it’s only applied effects and abilities, not ones written on the card.
+
+[659] respuesta_debate_o_contexto
+OOOOOH, yes. okay, then yes, that's how I assumed it would be. PHEW
+
+[660] duda_candidata
+Let's pretend this is sealed: If I have Rapunzel/Flynn in play and  I challenge a Bushroot (must discard when challenging) with a mickey and discard a shift Adventuring Duo and my mickey and Minnie are both dry, does the shift take effect before or after the challenge resolves?
+
+[661] respuesta_debate_o_contexto
+The shift would occur before the game moves to the challenge damage step.
+
+[662] respuesta_debate_o_contexto
+So the duo would challenge the bushroot, interesting
+
+[663] respuesta_debate_o_contexto
+Presumably.
+
+We don’t have precedent for shifting onto a character in a challenge and a character not in a challenge at the same time.
+
+[664] duda_candidata
+And I guess conversely if Minnie was still drying would the challenge just fizzle?
+
+[665] respuesta_debate_o_contexto
+Probably not. The check for challenge legality has already been passed.
+
+[666] agradecimiento_o_confirmacion
+Thanks
+
+[667] duda_candidata
+With the new set having cards that allow you to draw/otherwise get a card from the bottom of your deck, how does Under The Sea work? Does the UTS player decide the order of the cards before they go to the bottom? Can the player getting hit with UTS see that order?
+
+[668] respuesta_debate_o_contexto
+1) yes
+2) yes
+
+[669] respuesta_debate_o_contexto
+Being able to draw off the bottom of the deck doesn’t change anything about how UTS resolves, though. How it resolves now was always the case.
+
+[670] respuesta_debate_o_contexto
+Makes sense, but from playing in paper and on the various Voldemort places, nobody really cared about card order. I'm just thinking now that order might matter to at least one person moving forward. But cool, knowledge is power
+
+[671] respuesta_debate_o_contexto
+In general no one cared because they know the game will be over before those cards are accessed. Now the equation changed a little bit
+
+[672] duda_candidata
+Is there a standard for card sleeves? Can anyone link me to a set or style that my wife and I can purchase?
+
+[673] respuesta_debate_o_contexto
+I usually purchase Dragon Shield and a dark color or double matte sleeves to make sure not see through.
+
+[674] duda_candidata
+I'm not aware of any 'standard' but I do remember hearing that you can't have transparent-backed ones for tournaments? But yea, like Danxor, I prefer/love Dragon Shield https://www.dragonshield.com/collections/card-sleevesDragon ShieldCard SleevesWhether you wield the spells of Magic: The Gathering, battle with Pokemon, or duel in the realms of Yu-Gi-Oh!, our high quality card sleeves are crafted to endure the fiercest adventures, ensuring your deck emerges unscathed and victorious. Elevate your game experience with card sleeves in various colors, textures and
+
+[675] respuesta_debate_o_contexto
+https://www.dragonshield.com/products/blood-red-non-glare-matte-sleeves
+
+this is my goto right now. The non-glare line seems more durable and lasts longer for me.Dragon ShieldBlood Red - Non-Glare - Matte SleevesThe Non-Glare front makes Matte Non-Glare Blood Red easy on the eyes, giving you a softer visual experience while playing – even under harsh lighting. This unique twist on our fan-favorite Matte sleeves combines Matte’s legendary durability with a new take on it’s beloved shuffle-feel. Give Non-Glare a try and you may
+
+[676] respuesta_debate_o_contexto
+I just watched a stream and they said something about a guy having to resleeve in the tournement. Kids were loud so I missed the details. Figured I’d ask.
+
+[677] respuesta_debate_o_contexto
+Yeah. Sleeves need to be fully opaque on the back. And then in good condition
+
+[678] respuesta_debate_o_contexto
+Wife and I play with translucent textured. I’ll get us each a matte color. Thanks brother!
+
+[679] respuesta_debate_o_contexto
+There are "matte sleeves" with opaque back and "matte sleeves" with non-opaque back.
+
+[680] respuesta_debate_o_contexto
+well, matte refers to the texture on the back of the sleeve, vs glossy/smooth
+
+[681] respuesta_debate_o_contexto
+Yeah the Matte Dual sleeves have 2 colors. One on the back and one on the inside.
+
+[682] respuesta_debate_o_contexto
+There’s these new Black/Gold ones. Black sleeves. With a gold inside. Look real nice.
+
+[683] respuesta_debate_o_contexto
+I noticed that with my recent purchase. I didn't realize it when I was buying them, but the Eucalyptus back with a black inside is so pretty.
+
+[684] respuesta_debate_o_contexto
+Yeah. The Dual sleeves are always a safe buy because the inner color fixes any issues of opaqueness
+
+[685] respuesta_debate_o_contexto
+The Dual’s from Dragon Shield are the only sleeves I use for my decks. Totally agree they help remove most of the concern about opaqueness.
+
+[686] respuesta_debate_o_contexto
+I used to have issues with the dual mattes when they first came out because of inconsistencies on the edges, but since they've been around a while they've gotten pretty consistent.
+
+Tinted back inner sleeves help, if you want to use lighter color sleeves that you can kinda see through.  I hate them personally, but some people swear by them.
+
+[687] respuesta_debate_o_contexto
+Gem line from dragon shield will always be my go to
+
+[688] duda_candidata
+This link is broken for me and can’t be clicked. Anyone have it?
+
+[689] respuesta_debate_o_contexto
+The “here”
+
+[690] enlace_o_recurso
+Looking at an older version of the document, I see that the link points to https://www.youtube.com/watch?v=q9ATaPv3auE
+
+[691] respuesta_debate_o_contexto
+GitHub to the rescue!
+
+[692] agradecimiento_o_confirmacion
+Thanks brother!
+
+[693] multimedia_o_sin_texto
+
+
+[694] duda_candidata
+Question about rule 1.8.1.2. If i understand it correctly you dont loose game with and empty deck at the end of your turn but you do if you start your turn with an empty deck. And you dont loose the game if opponent makes you deck out for example with demona?
+
+[695] respuesta_debate_o_contexto
+You lose the game if you end your turn with an empty deck.
+
+Starting your turn is irrelevant, and attempting to draw cards is irrelevant.
+
+[696] respuesta_debate_o_contexto
+Wait i wrote that wrong thats exactly what i meant : D I blame my toddler for keeping me up at night. But its clear now thanks for the super fast response
+
+[697] duda_candidata
+Quick question:
+
+My understanding is that this stacks... as in, if i quested with 3 floodborns before playing a card... it would be 3 ink less?
+
+[698] respuesta_debate_o_contexto
+You got it right!
+
+[699] respuesta_debate_o_contexto
+Be mindful that it only works when using a Shift ability.
+
+[700] duda_candidata
+ah yeh forgot to put that in the initial question 
+
+Thanks so much
+
+[701] respuesta_debate_o_contexto
+Oop, the auto message delete didn’t work
+
+[702] respuesta_debate_o_contexto
+I lost track of the thread on Woody entering play with Bodyguard from Bo Peep vs Powhatan's Staff
+
+[703] respuesta_debate_o_contexto
+Gaining Bodyguard doesn’t allow a character to enter exerted. The staff specifically adds that extra ability.
+
+[704] agradecimiento_o_confirmacion
+Thank you
+
+[705] duda_candidata
+can you shift micky and minnie onto morph? Specificallly can you duo shift onto a single morph?
+
+[706] respuesta_debate_o_contexto
+Not a single one, but he can replace one of them.
+
+[707] respuesta_debate_o_contexto
+Or both, if you have two Morphs.
+
+[708] agradecimiento_o_confirmacion
+thanks!
+
+[709] duda_candidata
+The new morph does mention that you can shift any character on top of morph, including any shift variants, so would the idea being essentially duo shift requires 2 characters as a cost (kinda like how you need to discard to shift diablo onto morph)? It throws me off a bit that it doesn't specifically say cost in the duo shift help text
+
+[710] respuesta_debate_o_contexto
+The duo shift has a cost listed of 0 Ink.
+
+[711] respuesta_debate_o_contexto
+Duo shift though requires two characters. As hard as lil baby morph tries. He is still only 1 blob
+
+[712] respuesta_debate_o_contexto
+Case in point, duo shift and puppy shift (without reminder text) seems to both be shift variants, which can shift on top of morph. Diablo has shift: --- cost as a framework, so I can see a world where duo shift is essentially phrased as duo shift: two characters one named micky and one named minnie.
+
+[713] respuesta_debate_o_contexto
+But… it’s not phrased that way.
+
+[714] respuesta_debate_o_contexto
+right, hence the confusion of allowing it to be shifted onto a single morph.
+
+[715] respuesta_debate_o_contexto
+It just requires two characters, but not as a cost.
+
+[716] multimedia_o_sin_texto
+
+
+[717] respuesta_debate_o_contexto
+Duo shift just like normal shift has a cost. In case of this card it’s 0 Ink.
+
+[718] duda_candidata
+Is duo shift a variant? yes, does morph say any variant? also yes?
+
+[719] respuesta_debate_o_contexto
+And that is why Morph can be 1 of the two characters.
+
+[720] duda_candidata
+I don’t disagree that the reminder text is unclear.
+
+But we’ve been specifically told Duo requires two characters, which will presumably be made clear by the actual rules.
+
+[721] respuesta_debate_o_contexto
+right, duo normally requires 2 characters, but I think morph changes the game rules, to allow any character to be shifted on top of him
+
+[722] respuesta_debate_o_contexto
+He does not.
+
+[723] multimedia_o_sin_texto
+
+
+[724] respuesta_debate_o_contexto
+Jei. I hear what you’re saying.
+
+We’ve been told specifically by Kyle that it doesn’t work that way.
+
+[725] respuesta_debate_o_contexto
+Fair enough. Guess this is a case of reading the card doesn't explain the card lol
+
+[726] respuesta_debate_o_contexto
+Well you can shift Mickey/Minnie on it. Just it doesn’t fully fulfill the Duo Shift requirements on its own.
+
+[727] respuesta_debate_o_contexto
+dang, July 1st in the official lorcana channel discussion, I was late to the party....haha re-reading through that whole thing
+
+[728] duda_candidata
+Here's another question, can micky and minnie duo shift on itself? No because it requres 2 characters? Or are team cards considered 2 characters?
+
+[729] respuesta_debate_o_contexto
+No, teams are still one character.
+
+[730] respuesta_debate_o_contexto
+You could use one as part of the Duo shift, of course.
+
+[731] agradecimiento_o_confirmacion
+got it, reverse exponentiate, I play 2 micky and 2 minnies, duo shift 2 micky and minnies, duo shift down to 1 micky and minnie, a stack of 7 cards!
+
+[732] respuesta_debate_o_contexto
+Yip. And they can all go into the inkwell when they’re banished
+
+[733] duda_candidata
+If amber bambi enters play exerted (from amber horned king or amber simba) with a card under him from say amber scrooge does his ability trigger?
+
+[734] agradecimiento_o_confirmacion
+No.
+
+[735] respuesta_debate_o_contexto
+Poop ok
+
+[736] respuesta_debate_o_contexto
+Also, Bambi enters play without any cards under him. Later, during bag resolution, Scrooge’s ability resolves and puts a card under Bambi.(And Bambi is male, btw.)
+
+[737] duda_candidata
+huh. how'd you get that smaller text?
+
+[738] respuesta_debate_o_contexto
+Start the line with -# (editado)miércoles, 8 de julio de 2026, 18:
+
+[739] respuesta_debate_o_contexto
+@Pox_426[They/Them]Dash Parr - Super Fast
+
+[740] duda_candidata
+Can you exert other characters to sing a song you reveal off of Dash Parr's effect?
+
+[741] duda_candidata
+umm... I think that yes? Because is like a small window of time where that card acts like being in your hand, but I prefer that another person confirms it
+
+[742] respuesta_debate_o_contexto
+Yeah, i want to say yes because its still asking  you to pay costs and so isn't a replacement effect which changed the funky things you could do with songs before but also getting confirmation would be great
+
+[743] respuesta_debate_o_contexto
+Yes, because you can pay alternate costs when playing a card not being played for free.
+
+[744] respuesta_debate_o_contexto
+Woo! Yay for kind of remembering older Googly explanations
+
+[745] duda_candidata
+Can you hades/vine pod into team characters?
+
+[746] respuesta_debate_o_contexto
+yes because Pocohantas and Meeko have that name plus Pocohantas plus Meeko. So banishing either of those two would grant you the ability to play the team
+
+[747] respuesta_debate_o_contexto
+cool, thanks!
+
+[748] duda_candidata
+Fragile as a flower you can choose an already exerted character just like Elsa right?
+
+[749] respuesta_debate_o_contexto
+Yup. As long as it’s cost 2 or less.
+
+[750] agradecimiento_o_confirmacion
+Thank you!
+
+[751] respuesta_debate_o_contexto
+I was pretty confident in my judge call but players debated me so wanted to double check.
+
+[752] respuesta_debate_o_contexto
+Yea it’s not conditional “if you do,” or something
+
+[753] duda_candidata
+This card can be used once per turn right? Can it be used while drying?
+
+[754] respuesta_debate_o_contexto
+Once, and always on the first thing played (after herself).
+
+Yes, it works while she’s drying.
+
+[755] agradecimiento_o_confirmacion
+Thank you. Love your vids btw
+
+[756] duda_candidata
+Drying "only" affects exerting for challenging/questing, right? Does an ability that has a cost also have to wait? (like if an ability says 'pay 1 ink"?
+
+[757] respuesta_debate_o_contexto
+Drying affects any turn action that requires exerting, and any cost or effect that uses the exert symbol ()
+
+Costs that don’t include  can be used while drying.
+
+[758] duda_candidata
+So Hamm is next turn but Willow is same turn?
+
+[759] respuesta_debate_o_contexto
+Effectively, yes
+
+[760] duda_candidata
+Can this be a video?  It’s not too intuitive for most players (at least in my area) about costs and alternate costs and play for free.
+
+[761] duda_candidata
+Anyone have a link to the ruling that Retro Evolution Device doesn't work with mickey & minnie ?
+
+[762] duda_candidata
+We don’t have a ruling yet. I believe the issue of costs and replacement effects is an unaddressed question.
+
+[763] respuesta_debate_o_contexto
+Hm, someone told me it was already ruled
+
+[764] respuesta_debate_o_contexto
+IMO paying the cost triggers the replacement, so you have paid the cost still, but idk
+
+[765] respuesta_debate_o_contexto
+That’s basically how it used to work, but the Winterspell changes basically started us over from scratch on most replacement interactions.
+
+[766] enlace_o_recurso
+set notes available: https://www.disneylorcana.com/en-US/news/2026/07/attack-of-the-vine-set-release-notesDisney Lorcana TCG Set Release Notes: Attack of the Vine! | Disney ...Welcome to the Disney Lorcana TCG set release notes for Attack of the Vine!
+
+[767] duda_candidata
+about naming convention of a deck just out of curiosity
+
+since theres a name floating around for a yellow red circle of life hercules deck with a questionable name
+
+i feel like its important to ask
+
+is there a restriction on how “weirdly” decks can be named when submitting for official event
+
+[768] duda_candidata
+also whats this one about?  i miss the memo
+
+[769] respuesta_debate_o_contexto
+you have to comply with the community code and tournament rules
+
+[770] respuesta_debate_o_contexto
+right
+
+[771] duda_candidata
+so the name is out of line (?)
+
+[772] duda_candidata
+what name?
+
+[773] respuesta_debate_o_contexto
+circle herc
+
+[774] duda_candidata
+also do we have clarity if two characters are at two different location, which location will you be at if you duo shift them?
+dealers choice?
+
+[775] duda_candidata
+and do we have an answer on shifting mid challenge from poisonous a few days ago?
+
+[776] duda_candidata
+finally what crd rules am i looking for about temporary shift being the middle card?  like if something shift on top of it, the text for temporary shift would have been blocked right?
+
+so is the return to hand effect for temporary shift an applied effect similar to grim and gruesome?
+
+[777] respuesta_debate_o_contexto
+That information will be in the "Temporary Shift" definition, under "Shift", under "Keyword Abilities".
+
+[778] respuesta_debate_o_contexto
+In the CRD 2.2
+
+[779] agradecimiento_o_confirmacion
+ty
+
+[780] respuesta_debate_o_contexto
+In the meantime, we do have Live Action Kyle, as well as the set notes, saying that as long as the Temp Shift card is still in the play zone, it goes back to your hand, even if covered by another card.
+
+[781] respuesta_debate_o_contexto
+Which lines up exactly with expectations from the reminder text, at least.
+
+[782] respuesta_debate_o_contexto
+yeah just find it weird that it applies through cover up
+
+[783] respuesta_debate_o_contexto
+but it is what it is
+
+[784] duda_candidata
+Why? Face up cards are public knowledge, even if covered up.
+
+[785] multimedia_o_sin_texto
+
+
+[786] respuesta_debate_o_contexto
+i kinda expect because theres a card shift onto it the temporary shift would be disable due to not being face up anymore
+
+[787] respuesta_debate_o_contexto
+It's still face up, it's just under a card
+
+[788] duda_candidata
+so location thing… dealers choice?
+
+[789] duda_candidata
+some early guidance said "worst situation applies", like "if one is drying, it keeps drying. if one exerted, keep exerted" so I'd wonder if "if both at a location, dealer's choice, but if only 1 at a location, then not at a location"? because you didn't pay the move cost to move the second character? Man... duo shifts are adding complexity to this game, ain't it.
+
+[790] respuesta_debate_o_contexto
+in the Lorecast Kyle suggested if one was at a location, then it remains at the location. I don't think we got an answer to both though.
+
+[791] respuesta_debate_o_contexto
+"At the end of your turn, ..." indeed creates a Delayed Triggered Ability (like on Gruesome and Grim, or Candy Drift). That ability goes in the bag at the end of the turn no matter what.
+
+[792] respuesta_debate_o_contexto
+“Worst situation applies” was just a rough summary of the two things we knew at that point: exerting and drying. It shouldn’t be taken as guidance for how other situations may be resolved.
+
+[793] duda_candidata
+Circules?
+
+[794] respuesta_debate_o_contexto
+the infamous Disney imagin-philosopher
+
+[795] respuesta_debate_o_contexto
+Is the Elinor coordinated efforts ability count as "on my turn" when damaging an opponents character and banishing that character might trigger if its "on my turn". I am trying to banish a Rex at the end of my turn with coordinated efforts and wondered if that gives Rex a trigger on Run Away!
+
+[796] respuesta_debate_o_contexto
+Yes, the "End-of-Turn" during which abilities that trigger "At the end of your turn" trigger and resolve, is a Phase of your turn and still "During your turn".
+See "3.4. End-of-Turn Phase" section from the CRD.
+
+[797] respuesta_debate_o_contexto
+Great, thanks!
+
+[798] enlace_o_recurso
+New comprehensive!
+ https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf
+
+[799] respuesta_debate_o_contexto
+Woot! Time to get pedantic....
+
+[800] respuesta_debate_o_contexto
+If you play a Potato Shift card on a Morph it comes into play drying, regardless of how long the Morph has been in play, because Morph is not an item named Potato.
+
+[801] multimedia_o_sin_texto
+
+
+[802] respuesta_debate_o_contexto
+Not quite. 8.10.4 catches it.
+
+[803] respuesta_debate_o_contexto
+8.10.4.If a shifted character is put on top of a dry character, the shifted character enters play dry. If a shifted character is put on top of a drying character, the shifted character enters play drying.
+
+[804] duda_candidata
+Does not the specificity of 8.10.8.6 override that?
+
+[805] respuesta_debate_o_contexto
+Almost certainly not. But I see what you mean.
+
+[806] duda_candidata
+Practically speaking, this is unlikely to be the intent. This is just pointing out something to be updated for CRD v2.2.1
+(and to give time to prepare answers for when people start asking this as a legitimate question)
+
+[807] enlace_o_recurso
+https://youtube.com/shorts/KPiSkBld2Ns?is=9SVUkMBIcrTaxIu7YouTubeGooglyGlimmersMassive Changes To Damage Effects (Not Clickbait) (No, Really)
+
+[808] respuesta_debate_o_contexto
+going to result in a bunch of calls early on, but I don't hate the change
+
+[809] respuesta_debate_o_contexto
+getting pedantic is what we live for here.
+
+[810] enlace_o_recurso
+I can't wait till we get the Small Potatoes, and they get the classification Potato, and Potato Shift becomes confusing
+
+https://www.youtube.com/watch?v=npx2NK3UtrwYouTubegrowingupisnevereasySmall Potatoes Theme Song
+
+[811] respuesta_debate_o_contexto
+The fact you were able to make this joke brings me great suffering and great joy.
+
+[812] multimedia_o_sin_texto
+
+
+[813] duda_candidata
+1.9.5 is new right?  dealing 0 damage is still consider damage dealt now?
+
+[814] respuesta_debate_o_contexto
+Only when the damage is changed to zero by modifiers.
+
+[815] respuesta_debate_o_contexto
+thats what i meant
+
+[816] agradecimiento_o_confirmacion
+thanks
+
+[817] duda_candidata
+this deals with stuff like shifting vanillope onto vanillope with the strength reduction effect when princess is played?
+
+[818] duda_candidata
+so i read the temporary shift section
+
+still need some clarification as to where in the crd does it state the card with temporary shift returns to hand even if something without temp shift is shifted on top of it
+
+is it just because it is a delayed trigger and the card with temporary shift is face up?
+
+[819] respuesta_debate_o_contexto
+I'm still processing the Mulan's part of the damage
+
+[820] duda_candidata
+in the damage modifier section or the ability section?
+
+[821] respuesta_debate_o_contexto
+the thing that now you will pass the non-reduced damage
+
+[822] respuesta_debate_o_contexto
+It's a delayed triggered ability created when you Temp Shift
+
+[823] duda_candidata
+okay so its because its a delayed trigger affecting a card rather than the character?
+
+[824] respuesta_debate_o_contexto
+The trigger is floating around, waiting to trigger at end of turn, it isn't printed on the card, so it isn't covered up.
+
+[825] respuesta_debate_o_contexto
+I'd appreciate someone pointing me to where I can find the new rules about "Damage Dealt" vs "Damage Taken", specifically relating to Mulan.
+Rules 8.8.1 and 8.8.2 still seem to explicitly refer to Resist reducing "damage dealt".
+
+[826] respuesta_debate_o_contexto
+1.9.5 is the relevant section
+
+[827] respuesta_debate_o_contexto
+Ummm....
+
+[828] respuesta_debate_o_contexto
+Hunny Quest
+
+[829] respuesta_debate_o_contexto
+I know
+
+[830] respuesta_debate_o_contexto
+but now I'm intrigued
+
+[831] respuesta_debate_o_contexto
+1.9.5. If a character or effect would deal damage and that damage is reduced to 0 when modifiers are applied, the character or effect is still considered to “deal” damage. If a character or location is dealt damage and that damage is reduced to 0 when modifiers are applied, the character or location “takes” no damage. 
+
+Example: A player has Merida –Formidable Archer in play. Merida has the ability Steady Aim that reads, “Whenever one of your actions deals damage to an opposing character, deal 2 damage to that character.” The player plays Smash, an action that has the effect, “Deal 3 damage to chosen character.” The player chooses Namaari – Resolute Daughter, a character with Resist +3. Smash deals 3 damage,but Namaari takes 0 damage because of Resist +3. Because Smash is still considered to deal damage, Merida’s Steady Aim triggered ability occurs and is added to the bag.
+
+[832] agradecimiento_o_confirmacion
+Thank you
+
+[833] respuesta_debate_o_contexto
+So it's the example where we're finding that
+
+[834] respuesta_debate_o_contexto
+so Deal is the damage you are throwing at the character and take, the damage counters that will be added after going through Resist
+
+[835] respuesta_debate_o_contexto
+I hate this so much, it feels like the rules directly contradict themselves between this example and the actual definition of Resist. But I can see where it's coming from now thank you for finding this for me.
+
+[836] respuesta_debate_o_contexto
+for Mulan to continue working as before, it should say "When this character challenges an opposing character, dealt the same damage taken by the opposing character to another two chosen characters".
+
+[837] respuesta_debate_o_contexto
+better worded, of course
+
+[838] respuesta_debate_o_contexto
+My take is it's better that it does change tbh,  errata'ing cards is a bigger nightmare than the effects of cards happening to change when the rules change
+
+[839] respuesta_debate_o_contexto
+I mean, the change was intentional, so it’s not going to be errata’d
+
+[840] respuesta_debate_o_contexto
+eh, I love that card, so I'm happy with a buff to it
+
+[841] respuesta_debate_o_contexto
+It's a cool card
+
+[842] respuesta_debate_o_contexto
+strong, but fair
+
+[843] respuesta_debate_o_contexto
+like, it has a big initial burst, but after that it needs Support
+
+[844] respuesta_debate_o_contexto
+And it low-key gets nerfed anyay now with the Steel 1-drop rotating out
+
+[845] respuesta_debate_o_contexto
+technically... in an Amber/Red deck, you could get it earlier thanks to the wounded one
+
+[846] respuesta_debate_o_contexto
+Reuben is still around
+
+[847] respuesta_debate_o_contexto
+The Reuben line is a lot of fun I played around with it earlier this set
+
+[848] respuesta_debate_o_contexto
+I had fun with it last set, yeah. Injured mulan into Reuben into shifting Mulan was a fun trick.
+
+[849] respuesta_debate_o_contexto
+it is
+
+[850] respuesta_debate_o_contexto
+is a risky play, because that Mulan dies to anything, but if you get the combo to work, is amazing
+
+[851] duda_candidata
+I specifically hate this phrasing in 1.9.4: "To determine the total amount of damage that occurs" - It would be so clear if they used the actual term they mean but this completely blurs the line on whether we're talking about damage dealt or damage taken
+
+[852] duda_candidata
+To get a better idea of how we're interpreting this, are we essentially saying that "damage dealt" is the same thing as "the base damage" in 1.9.4.1?
+
+[853] duda_candidata
+If any positive modifiers (the inverse of resist, essentially) were to exist, could "damage dealt" theoretically increase upwards?
+
+[854] respuesta_debate_o_contexto
+It’s easier to parse if you keep it in the present tense, to avoid mixing up “dealt by” and “dealt to”.
+
+The base damage is the damage the effect/character deals.
+
+Then modifiers apply.
+
+Then the total damage is the damage the chosen character (etc) takes.
+
+[855] respuesta_debate_o_contexto
+ohhh so "dealt by" and "dealt to" are different, that does change the way I look at it
+
+[856] duda_candidata
+So it's not "dealt" vs "taken" as much as "damage from" and "damage to" a character?
+
+[857] respuesta_debate_o_contexto
+“Dealt to” is effectively retired language. It’s replaced entirely by “takes”.
+
+[858] respuesta_debate_o_contexto
+I wish they'd changed it in the definition of resist   but thank you that does clear up my understanding a lot
+
+[859] respuesta_debate_o_contexto
+Actually replacing that would then change how Resist works with damage counters being placed wouldn't it, fun
+
+[860] duda_candidata
+So am I right in concluding we essentially have three different concepts, "dealt by", "dealt to" and "taken by"?
+
+[861] respuesta_debate_o_contexto
+Not exactly.
+
+“Dealt to” is just “took” from an effect that “deals”. It’s not really its own thing.
+
+[862] duda_candidata
+I guess whether it's its own thing is semantics, but it's how Resist is defined so it's important to understand exactly what that wording means.
+
+[863] respuesta_debate_o_contexto
+It’s more accurate to think of it as Resist modifying the damage that the effect deals, which changes the amount of damage that is taken.
+
+It’s the input that matters for Resist. It doesn’t have its own special output.
+
+[864] respuesta_debate_o_contexto
+I thought the whole point was that what [the] effect now deals is unchanged
+
+[865] duda_candidata
+No, you’re right, that was poorly written.
+
+Think of it as Resist modifies the damage taken, but only from effects that deal it in the first place.
+
+It’s still the input that determines whether Resist modifies the damage.
+
+[866] respuesta_debate_o_contexto
+okay that makes sense again phew
+
+In my head, when you say "Dealt to” is just “took” from an effect that “deals”, you are inherently defining it as a new thing, even if it's not really it's own thing
+
+ I think we are on the same page on how it works
+
+[867] duda_candidata
+Except for Rapunzel - Ready for Adventure and Beast - Selfless Protector, right?
+
+[868] respuesta_debate_o_contexto
+I've just seen your message in Official about Rapunzel, even though I don't really understand the subtlety, let's continue the discussion there.
+
+[869] duda_candidata
+Does this mean if you give Lilo - Bundled up resist with something and it "takes" 0 damage it uses up the ability and it would take damage normally the next instance?
+
+[870] respuesta_debate_o_contexto
+If a character or location is dealt damage and that damage is reduced to 0 when modifiers are applied, the character or location “takes” no damage.
+
+[871] respuesta_debate_o_contexto
+No. She doesn't "take" damage, so her effect isn't used.
+
+[872] duda_candidata
+With the new Source of the Vine, who's responsiblity is it within a game to keep track of it's ability? 
+
+What I mean by that is if I am playing it, and my opponent quests, if they don't acknowledge it and pay, do I just get the 1 lore? 
+
+Or do I as a player have a responsibility to inform the opponent of the tax / trigger? 
+
+I know both players have to maintain an accurate game state, and it's a mandatory trigger. Does this mean it's both players responsibility?
+
+[873] respuesta_debate_o_contexto
+It’s your ability, if you have the item in play.
+
+It is both players’ responsibility to correctly resolve mandatory abilities, but it’s primarily down to the owner of the ability.
+
+And no, you can’t just assume the opponent declined to pay and gain the lore without telling anybody or making sure they were aware.
+
+[874] duda_candidata
+I thought that could be the case, since it's my item and my trigger it's my responsibility to highlight it when it triggers. I was just unsure. 
+
+I have a feeling if it's played much it's going to cause a lot of take back requests or be overlooked a lot.
+
+[875] respuesta_debate_o_contexto
+The good thing is the card is not very good and not inkable. So it likely won’t cause issues
+
+[876] multimedia_o_sin_texto
+
+
+[877] respuesta_debate_o_contexto
+I have out John Smith exerted. 
+
+I used to have another character in play. But it challenged and traded with my opponents character.
+
+[878] duda_candidata
+Do I gain 1 lore at end of turn?
+
+[879] respuesta_debate_o_contexto
+None of my “current” characters challenged this turn.
+
+[880] respuesta_debate_o_contexto
+Shouldn't work. It's like Devil's Eye Diamond and such. Even if the damaged character was banished, you'd still be able to use their effect.
+
+[881] respuesta_debate_o_contexto
+Well Devils eye, says one was damaged this turn. Which we can look back and see. 
+
+This is worded slightly differently
+
+[882] respuesta_debate_o_contexto
+Challenged is also in the past tense.
+
+[883] duda_candidata
+The main question is is the game checking some game state or looking at all current characters and their states
+
+[884] respuesta_debate_o_contexto
+I am just being annoying. Because I was reading various cards to work on a quiz
+
+[885] duda_candidata
+I think most cards asking "did X happen?" look in the past tense and not current characters. Here's another example.
+
+[886] respuesta_debate_o_contexto
+Yeah. I just wish it was more specific to did you challenge. Asking about your characters challenging is a bit specific. 
+
+Just wait til we get locations that somehow can challenge.
+
+[887] respuesta_debate_o_contexto
+I think it's a context issue. You don't challenege/quest, the character does.
+
+[888] respuesta_debate_o_contexto
+Well you take the action of sending the character on a challenge/quest.
+
+[889] respuesta_debate_o_contexto
+I take it as the card checks if a character challenged not if that character is still on the board. Just like if you somehow played a princess then banished it before the end of turn,.Cinderella would still let you ink and draw.
+
+[890] enlace_o_recurso
+New comprehensive rules in Japanese: https://www.takaratomy.co.jp/products/disneylorcana/common/pdf/Disney-Lorcana-Comprehensive-Rules_JP.pdf?20260710
+
+[891] duda_candidata
+Can someone direct me to where in the new 2.2 comp rules damage in respect to one-shot protections is mentioned? I can’t find it
+
+[892] duda_candidata
+Deleted my tigger question and moved it to ⁠rules-questions and also posted a separate question
+
+[893] duda_candidata
+There is no rule that talks about how the new damage rules interact with other abilities, because the rules don’t work that way. The card text and rules for those abilities describe how they work in general, rather than listing specific interactions.
+
+If you have a question about a particular interaction that you can’t figure out from the CRD itself, you can always ask here or on the official discord.
+
+[894] duda_candidata
+Did we got an answer around the Temporary Shift and the abandoned stack of cards?
+
+[895] multimedia_o_sin_texto
+
+
+[896] duda_candidata
+I don't think that's a Bruno question
+
+[897] respuesta_debate_o_contexto
+Yes, but I do like the gif
+
+[898] respuesta_debate_o_contexto
+⁠Disney Lorcana TCG Official⁠
+
+[899] respuesta_debate_o_contexto
+yes that is true but it didnt answer everything as scrooge mcduck reformed miser can set up a similar scenario with result as a stack of facedown cards instead of face up
+
+[900] respuesta_debate_o_contexto
+Not to mention, the cards being faceup is worse. It could be an action.
+
+[901] respuesta_debate_o_contexto
+Even if it's a legal card type, like a character, that still feels like a loophole that needs closing. Consider a card like Mirabel that had requirements in order to play. That could set bad precedent.
+
+[902] respuesta_debate_o_contexto
+Eh. I'm fine with a payoff for going through that much effort.
+
+[903] respuesta_debate_o_contexto
+I'd be fine with immediately playing the action, as long as it works within the rules.
+
+[904] duda_candidata
+That could make for some interesting exploits. What if the stack of cards was mostly actions? You arrange so it's all actions first then ending in a character. So fire off each action one by one?
+
+[905] respuesta_debate_o_contexto
+I guess the action would happen, then move to discard. That should take it and the stack with it actually.
+
+[906] duda_candidata
+See? The rules fix themselves. You just need to make sure they cover all situations.
+
+[907] respuesta_debate_o_contexto
+Making special rules because your game engine does things you don't like, is way less interesting than making sure the engine works, and letting unique interactions shake out.
+
+[908] respuesta_debate_o_contexto
+/opinion
+
+[909] respuesta_debate_o_contexto
+I agree with the general idea, but this feels like something more akin to a hole in the engine.
+
+[910] respuesta_debate_o_contexto
+Either way, it'll be interesting to see how it gets handled. I hope Kyle will be able to share the meeting notes for this one.
+
+[911] respuesta_debate_o_contexto
+I want it to be a weird loophole, it's a very convuluted way to resurrect a character
+
+[912] respuesta_debate_o_contexto
+imagine if its a counting house
+
+[913] respuesta_debate_o_contexto
+i m pretty sure we broke the rule committee again
+
+[914] respuesta_debate_o_contexto
+These are the things I live for!
+
+[915] duda_candidata
+Now that we have this setup, we can start quizzes with it, and do ?????!?!?!
+
+[916] respuesta_debate_o_contexto
+We can shorten the whole process to We do the Electric Boogaloo and...
+
+[917] respuesta_debate_o_contexto
+If someone did this at a DLC then called for a judge for help, they might need to get a talking to
+
+[918] respuesta_debate_o_contexto
+I expect we'll have an answer before the next DLC though.
+
+[919] respuesta_debate_o_contexto
+Sadge
+
+[920] respuesta_debate_o_contexto
+*quietly looks at all the unanswered questions in the official forum*
+
+[921] respuesta_debate_o_contexto
+…yeah. Maybe.
+
+[922] respuesta_debate_o_contexto
+I stand by this one being more game breaking than most of those unanswered questions. Then again, this is one of the least practical questions to answer.
+
+[923] respuesta_debate_o_contexto
+Yeah, I’d rather they addressed the questions that are going to come up in actual gameplay first, though.
+
+Or, like, any questions at all
+
+[924] respuesta_debate_o_contexto
+This is the Belle + Black Cauldron of the set. But far less useful to know
+
+[925] duda_candidata
+Speaking of, did we ever get the answer to Belle under the Cauldron, then banishing the Cauldron to play Belle?
+
+[926] respuesta_debate_o_contexto
+Yes it works, yes Belle is played from the discard
+
+[927] respuesta_debate_o_contexto
+i have 2 line up with one including leviathans
+
+[928] respuesta_debate_o_contexto
+we might get more temporary shift later
+
+[929] duda_candidata
+which Belle is this concerning?
+
+[930] respuesta_debate_o_contexto
+@IINK_GuillaumeBelle - Apprentice Inventor
+
+[931] duda_candidata
+Going back to the Temporary Shift topic for a minute, has there been any conversation around how the CRD defines Temporary Shift as having a secondary condition? 8.10.8.5 says “At the end of your turn, if this card is in play, remove all damage…”
+
+I get that Temporary Shift creates a delayed triggered ability. So end of turn happens, marble enters the bag. But we know abilities that have secondary conditions check when you go to resolve them. So we have to check if the card is still in play. 5.1.1.8 thankfully very clearly defines that as “A card that’s faceup in the Play zone with no cards on top of it is considered to be in play.”
+
+My concern is that by following the CRD as currently written, a Temporary shift card that has had another card shifted on top of it would be no longer in play as defined by the CRD, leading to the conclusion that nothing happens with the delayed trigger. But that contradicts the set notes. I guess I’m just wondering if this has been pointed out yet as far as anyone knows. (editado)jueves, 16 de julio de 2026, 20:
+
+[932] respuesta_debate_o_contexto
+It should be “in the play zone”.
+
+[933] respuesta_debate_o_contexto
+Yeah, that would help if it was worded that way, lol. Maybe even would need “faceup in the play zone”.
+
+[934] multimedia_o_sin_texto
+
+
+[935] respuesta_debate_o_contexto
+If can be complicated
+
+[936] respuesta_debate_o_contexto
+Yeah, as-is, it doesn't work the way the set notes claim. 
+
+But, 5.1.1.7 also refers to cards in a stack as being in play, when that is directly contradicted by various other rules, including 5.1.1.5, just above it.
+
+[937] respuesta_debate_o_contexto
+It’s a persistent issue.
+
+[938] enlace_o_recurso
+Now available: https://files.disneylorcana.com/Attack-of-the-Vine_OP-Kit-Instructions_EN.pdf
+
+[939] duda_candidata
+If I run Randall Boggs and I have Scream canister in play and my opponent either has 0 characters or something like Ru that I'm unable to target. Am I able to use the canister just to exert my ink to be able to quest for 2 with Randall?
+
+[940] respuesta_debate_o_contexto
+@RavenScream Canister
+
+[941] respuesta_debate_o_contexto
+Yes, the cost to use ERRATIC SCREAMS is exert the item and pay 2 ink. Then you try to resolve the effect as much as possible.
+
+[942] respuesta_debate_o_contexto
+Nice, thanks!
+
+[943] duda_candidata
+Does this work diff from let the storm rage on with diablo?
+
+Eg if Diablo banish w storm rage on, Diablo controller still draws before banish. 
+
+For this when windstorm first dmg banishes Peter Pan & tinkerbell. Does the second part not trigger as Peter Pan is banished and the other char lose evasive?
+
+[944] respuesta_debate_o_contexto
+Pan & Tink aren’t banished until after the extra damage to Evasives is dealt.
+
+[945] duda_candidata
+The full card text must resolve first?
+
+[946] respuesta_debate_o_contexto
+Yup.
+
+[947] respuesta_debate_o_contexto
+Yes, which is why Diablo draws. Because it is still in play when you draw from LTSRO.
+
+[948] duda_candidata
+Alright, was just wondering if the word “then” made a difference
+
+[949] duda_candidata
+A reasonable question. "Then" has no mechanical purpose, besides reminding a player that the card resolves in the order written.
+
+[950] duda_candidata
+Can someone find the reference on who would choose the order of cards in the rules if the character is a shift or boosted card
+
+[951] respuesta_debate_o_contexto
+The owner of the cards decides what happens to the cards, unless the card text specifically says otherwise, which TFS does not.
+
+1.4.3. & 7.2.3.
+
+[952] agradecimiento_o_confirmacion
+Thank you!
+
+[953] respuesta_debate_o_contexto
+Thats what I told the player I just needed the reference for it.
+
+[954] duda_candidata
+Hey so it's been a topic of discussion at the LGS I'm working at, but regarding pre-releases, I can't find any specifics about side boards? What is the typical practice for that
+
+[955] respuesta_debate_o_contexto
+Typically, LGSs will do what their player base is most used to.
+
+In my experience, that tends to be sideboarding between matches, but not between games within a match.
+
+[956] duda_candidata
+Just to check, current characters with "hunny" classification, with older non "hunny" versions, the older versions are now also "hunny"? IE: piglet cocoa maker ?
+
+[957] respuesta_debate_o_contexto
+Unless there is an errata on the app so it shows hunny - no
+
+[958] respuesta_debate_o_contexto
+Only characters that have Hunny in their sub type on the coloured bar are Hunny Characters
+
+[959] respuesta_debate_o_contexto
+That was the confusion, because pooh got a new version of his old card with "hunny" that didnt originally have it, so i wanted to make sure for people I know trying to build around it.
+
+[960] respuesta_debate_o_contexto
+Best thing just filter the app by hunny classification and these are the cards outside of the blurple combo that can be included
+
+[961] respuesta_debate_o_contexto
+the Hunny category has been made mainly for the TTRPG versions of the characters
+
+[962] duda_candidata
+D&D? More like H&H... Hunny & Heffalumps
+
+[963] respuesta_debate_o_contexto
+Thats what ive been doing but people kept asking so I wanted to be sure for them. Their thought was "but it has the same name" and i pointed out how the new hades had lost Deity so name doesn't always carry attributes
+
+[964] respuesta_debate_o_contexto
+Classifications are given to a specific card, not to a character name.
+
+[965] respuesta_debate_o_contexto
+Understood, just making sure I wasn't giving wrong information lol they were adamant.
+
+[966] duda_candidata
+Piglet Cocoa Maker is not a reprint of an older version, so I'm not sure I understand their confusion, lol. Either way, just because it's a character from Winnie the Pooh doesn't mean they are a Hunny character.
+
+[967] respuesta_debate_o_contexto
+The Original Pooh Hunny Wizard could use an errata to reflect the Fabled version with the Hunny Classification.
+
+[968] duda_candidata
+The original Pooh hunny wizard does have an eratta? It's the same card as the fabled version.
+
+[969] respuesta_debate_o_contexto
+The original version isn’t updated in the app, though.
+
+[970] respuesta_debate_o_contexto
+Of course it isn't.
+Well, it does have the hunny classification, regardless.
+
+[971] respuesta_debate_o_contexto
+Can a player in prerelease.  Change out cards during their game after a game one loss into game 2
+
+[972] respuesta_debate_o_contexto
+There are no rules for sideboarding in Limited for Lorcana. Stores generally do what they want.
+
+[973] agradecimiento_o_confirmacion
+Thanks. Its a store that made their own rules. And my opponent was telling i couldn't do that and from perspective and other places. Sideboarding from my own kit was a use from all other places
+
+[974] respuesta_debate_o_contexto
+So you need to ask the person in charge at the event.
+
+[975] respuesta_debate_o_contexto
+Just did that. They retain their house rule not to sideboard
+
+[976] respuesta_debate_o_contexto
+Then that is the rule.
+
+[977] respuesta_debate_o_contexto
+Gotcha
+
+[978] respuesta_debate_o_contexto
+Mixed up
+
+[979] duda_candidata
+If I shift onto a character that has damage and more damage than the shift character can take, is the shift instantly banished?
+
+[980] agradecimiento_o_confirmacion
+Yes.
+
+[981] agradecimiento_o_confirmacion
+Thanks.
+
+[982] duda_candidata
+Seeking clarification on the new rule changes for damage.
+
+If my character receives [ACT OF KINDESS] from my [Rapunzel - Ready for Adventure], what happens when opponent challenges it with a character with 0 strength?
+
+Since the opposing character would literally under new terms “deal 0 damage”, and then “dealt 0 damage” to my character. Would the replacement effect of [ACT OF KINDNESS] be consumed? Since it just reads “the next time they would be dealt damage”. I would assume “dealt 0 damage” still causes it to be consumed since 0 is a valid damage.
+
+[983] respuesta_debate_o_contexto
+1.9.5. If a character or effect would deal damage and that damage is reduced to 0 when modifiers are applied, the character or effect is still considered to “deal” damage.
+
+If the character has a strength of 0 or less, then the character wouldn't deal damage in the first place, so 1.9.5 doesn't apply.
+
+[984] duda_candidata
+Hmm, still kinda weird, what if the opposing character had 1 strength, but is applied an effect of -1 strength (lets say by Rhino - One-Sixteenth Wolf). 
+
+Since the damage is now modified, 1.9.5 will apply. Does this mean the eventual “dealt 0 damage” during Damage Calculation step will consume Rapunzel’s shield?
+
+[985] respuesta_debate_o_contexto
+I would have thought that 1.9.5 was for things like resist, where there was damage but it was negated. The rhino example above would (in my mind) deal no damage because they had 0 strength and therefore there was no damage in the first place. I'm likely wrong though!
+
+[986] respuesta_debate_o_contexto
+In my mind, I’m just thinking, since now everything is “Deal” -> “Dealt” -> “Take”.
+
+And Rapunzel did not specifically state “the next time they would be dealt more than 1 damage”…in this case would a “dealt 0 damage” event consume the shield since “dealt 0 damage” is, to me, still considered “the next time they would be dealt damage”.
+
+Under 4.6.6.1 “First, calculate the total amount of damage dealt to each character in the challenge. If a character’s strength is negative, it counts as 0 strength for the purpose of determining how much damage is dealt during the challenge.”
+
+It does not explicitly state that if the character strength is 0, the “dealt 0 damage” event does not occur at all in 4.6.6.2.
+
+[987] respuesta_debate_o_contexto
+Even with the addition of 1.9.5, 5.3.6.2 still applies:
+
+5.3.6.2. Strength  – Primarily, how much damage this character deals in a challenge, though card effects can also reference this value. If a character would deal damage equal to its  and it has 0 or less , it deals no damage.
+
+[988] respuesta_debate_o_contexto
+Ah great, ty. I was zoomed in on the challenge clauses and missed this. So indeed there is a clause which is 5.3.6.2 to explicitly state that 0 strength means deal no damage.
+
+[989] respuesta_debate_o_contexto
+Guess there will be no 0 damage shenanigans to remove Rapunzel’s shield.
+
+[990] duda_candidata
+Is this a passive effect don’t require the character to be in the location?
+
+[991] respuesta_debate_o_contexto
+It’s a static effect.
+
+And yes, the characters don’t have to be at the location to benefit.
+
+[992] duda_candidata
+Hey @GooglyGlimmers just saw your video of merida v horned king. My question is, would this be the same for effects like lilo (the one that can be played from discard)?
+
+[993] respuesta_debate_o_contexto
+Well, it doesn’t make any difference for Lilo, since her only own effect is making her enter play exerted if you play her with her triggered ability. Or only THK’s ability would be making her enter play exerted if you played her from the discard during your main phase.
+
+[994] respuesta_debate_o_contexto
+Yeah. Was referring to lilo's own triggered effect to enter exerted.
+
+[995] duda_candidata
+Question…
+
+I play potato and it comes in exerted, items don’t have a dry vs wet classification but if I manage to ready it up the turn I play the potato and shift the vampire potato thing onto it, is the shift dry?
+
+[996] respuesta_debate_o_contexto
+No, the Shift is not dry.
+From the Comprehensive Rules:
+8.10.8.6. Potato Shift means “If you have an item in play named Potato, you may play this character by paying their Potato Shift cost instead of their ink cost. If you do, put this card on top of an item you have in play named Potato.” If the character is put on top of an item named Potato and that item has been in play since the beginning of its player’s turn, then the character enters dry. Otherwise, the character enters drying. (editado)viernes, 24 de julio de 2026, 15:
+
+[997] respuesta_debate_o_contexto
+Awesome thank you
+
+[998] duda_candidata
+so watching china dlc and was noticing a player let his opponent decide on finishing his alter before proceeding to do his own on stream
+
+is there rules that prohibits or allow this action?
+
+[999] respuesta_debate_o_contexto
+like if its allow that can be an advantage
+
+[1000] respuesta_debate_o_contexto
+2.2.2 in the comprehensive states has the alter rules.
+
+The order should be OTP alters first then OTD alters second.
+
+[1001] respuesta_debate_o_contexto
+ah okay
+
+[1002] respuesta_debate_o_contexto
+just curious
+
+[1003] duda_candidata
+Do you have to play your character immediately off Rapunzel & Flynn Rider - Unlikely Pair when you discard it?
+
+[1004] agradecimiento_o_confirmacion
+Yes.
+
+[1005] respuesta_debate_o_contexto
+Is what i thought, came up at Locals so wanted to confirm
+
+[1006] respuesta_debate_o_contexto
+Using the standard procedure for resolving and ability from the bag.
+
+[1007] duda_candidata
+How would it work if you challenge Dr. Bushroot? You cant play cards during combat, but would this supersede and let you play?
+
+[1008] duda_candidata
+Yes. If you discarded a character when challenging Bushroot, you would choose whether to play that character right then, before moving to the challenge damage step.
+
+[1009] agradecimiento_o_confirmacion
+Thanks!
+
+[1010] respuesta_debate_o_contexto
+yay funky interactions that allow things out of turn
+
+[1011] duda_candidata
+I don’t know if this has been asked but, does vine pod work with this card? I’ve heard people say yes because the name is there, others say it’s unfair because it’s 2 for 1, but if it were both why would it be used it its 0 shift? Anyone able to clarify?
+
+[1012] respuesta_debate_o_contexto
+It works quite well. When Vine Pod banishes Mickey & Minnie that is replaced. The pod still goes on though.
+
+[1013] duda_candidata
+How are you trying to make it work? There are several different interactions you could be asking about here.
+
+[1014] respuesta_debate_o_contexto
+Then you can play 1 character named Mickey, Minnie, or Mickey & Minnie.
+
+[1015] respuesta_debate_o_contexto
+Yeah I mean if you can banish one single Mickey to play the duo
+
+[1016] respuesta_debate_o_contexto
+I’ve heard people say yes, others no, because the card has technically 3 names is what I’ve been told
+
+[1017] respuesta_debate_o_contexto
+It has 3 names, and you only need to match 1.
+
+[1018] respuesta_debate_o_contexto
+You can. They are right, it has three different names, and counts as all of them.
+
+[1019] duda_candidata
+Quick question: My boyfriend insists that you can not choose which character will be reduced in costs through Willow but is has to be first character. In my opinion I would be able to choose.
+
+[1020] respuesta_debate_o_contexto
+Your boyfriend is correct. It is the first character.
+
+[1021] duda_candidata
+Thanks. I was confused cause the wording just states „the next“ and „once during your turn“
+
+[1022] respuesta_debate_o_contexto
+"the next" is a shorter version of "the first or the next after playing Willow"
+
+[1023] respuesta_debate_o_contexto
+added note, this also includes character you would play for free through effects
+
+[1024] respuesta_debate_o_contexto
+so if willow is in play, and you play something like just in time and then play a character through just in time, it will still use up the willows effect
+
+[1025] duda_candidata
+Just to clarify because the wording is different. If she is banished but not in a challenge, does she trigger? Usually it says "when banished in a challenge" so I'm double checking
+
+[1026] respuesta_debate_o_contexto
+I tried a search of "vendetta" and didn't find anything
+
+[1027] respuesta_debate_o_contexto
+“Banished in a challenge” is different to “challenged and banished”. The former triggers both when challenging and challenged. The latter only when challenged.
+
+If they are banished outside of a challenge, nothing happens.
+
+[1028] respuesta_debate_o_contexto
+I assumed that was correct, but I have a bad way of misunderstanding the rules haha
+
+[1029] duda_candidata
+My opponent has Iago Stomping Mad in play. During my turn I sing Della’s Moon Lilliby and assign -2 strength to Iago. During my opponent’s turn, will Iago challenge for 3 or for 5? Thanks
+
+[1030] respuesta_debate_o_contexto
+0-2+5 = 3
+
+[1031] respuesta_debate_o_contexto
+We calculate all modifiers.
+
+[1032] agradecimiento_o_confirmacion
+Thank you!
+
+[1033] duda_candidata
+Question came up today, why does 4.2.1.3., from the section on Inking a card, still say "Third, the player puts the revealed card into their inkwell facedown and ready. "  We thought was changed such that "face up" inking was now a general rule, and not just a tournament rule?
+
+[1034] respuesta_debate_o_contexto
+It is still a tournament rule.
+
+[1035] respuesta_debate_o_contexto
+OK, didn't know that, but thanks.
+
+[1036] respuesta_debate_o_contexto
+Hi Lore Guides, proposal to add this to Rules FAQ:
+
+Source Disney Lorcana TCG Set Release Notes:
+Attack of the Vine!
+• Dual-named characters essentially have three names. Sulley & Boo – Scare Buddies
+counts as Sulley, as Boo, and as Sulley & Boo.
+• If an effect wants a player to name a card and the player says, “Sulley,” then the effect 
+pertains to all characters named Sulley, including dual-named characters with Sulley 
+before or after the &. ©Disney
+• If an effect wants a payer to name a character and the player says, “Sulley & Boo,” then it 
+only pertains to characters named Sulley & Boo and not to a character that’s just named 
+Sulley or one that’s just named Boo.
+• Even though a dual-named character has multiple names, it’s still considered one 
+character.
+
+[1037] respuesta_debate_o_contexto
+i thought this was already in the crd with flotsam and jetsam as an example
+
+[1038] respuesta_debate_o_contexto
+It is.
+
+[1039] respuesta_debate_o_contexto
+thx
+
+[1040] respuesta_debate_o_contexto
+i thought i was crazy
+
+[1041] duda_candidata
+I have a question. Me and my friend are playing infinity and he has Peter Pan - Never land prankster exerted and i play suuuuper Gooof and challenge into the Peter pan. Do i get the 2 lores? 
+
+My friend is telling me that i dont get them. But i challenge at the same time so both abilitys go in bag. Help pls
+
+[1042] respuesta_debate_o_contexto
+Peter Pan's ability doesn't go into the bag. However, the ability ends as soon as a challenege has legally been declared. So once Goofy Challenges anything, Peter Pan no longer prevents lore.
+
+[1043] duda_candidata
+So i get the 2 lore correct?
+
+[1044] agradecimiento_o_confirmacion
+Yes.
+
+[1045] respuesta_debate_o_contexto
+Dude no more infinity. We need to prep for LCQ
+
+[1046] respuesta_debate_o_contexto
+Yoooo sorry simon was trying something with his infinty deck but i won
+
+[1047] duda_candidata
+If Shift Pocahontas is removed from the game by Red Alert, does her effect—that the opponent cannot challenge—still apply? It isn't listed on the card as long as she's on the field. In my opinion, it's an “in-play” effect.
+
+[1048] respuesta_debate_o_contexto
+@GooglyGlimmersPocahontas - Peacekeeper
+
+[1049] respuesta_debate_o_contexto
+"when you play"
+
+[1050] respuesta_debate_o_contexto
+Her effect does not require her to remain in play.
+
+[1051] duda_candidata
+Does moving damage and putting damage bypass Hercules - Mighty Leader’s effect?
+
+[1052] respuesta_debate_o_contexto
+Moving and putting damage counters is not dealing damage. Hercules’ ability does not affect those things.
+
+[1053] respuesta_debate_o_contexto
+With cards such as Cheshire Cat - Inexplicable and Malicious Mean and Scary
+
+[1054] agradecimiento_o_confirmacion
+Thanks
+
+[1055] respuesta_debate_o_contexto
+That’s what I thought but I was just confirming
+
+[1056] duda_candidata
+Question?
+
+Under TR 3.11
+They mention about using altered art card.
+
+What kind of art card that will fit in this defination?
+
+Dose Enchanted card count? Or it can be used in competitive event.
+
+[1057] respuesta_debate_o_contexto
+That's in reference to someone adding a drawing to the card. For instance, I've seen some versions of cards where they painted over the textbox to extend the art. It would also include drawing something in the art portion of the frame.
+
+[1058] respuesta_debate_o_contexto
+Enchanted cards are not altered art cards. Perhaps alternative art, but anything that looks like it would fresh from a pack is not altered.
+
+[1059] respuesta_debate_o_contexto
+Then, it is legal to use enchanted art in the deck, if you cannot tell the difference.
+
+I'm a little concern that the enchanted card is thicker than common card and may possible to tell the difference. Although, with the sleeve.
+
+[1060] respuesta_debate_o_contexto
+All cards are legal as printed.
+
+But the issue you are referring to is a marked card and is a different rule.
+
+Lore Guides may determine an enchanted is illegal for the reason you state but not always
+
+[1061] respuesta_debate_o_contexto
+Yeah, enchanted cards are fine as long as they don't have any defects that make them distinguishable from any other card you are using. I stay away from foils because they tend to be a bit curled for me.
+
+[1062] agradecimiento_o_confirmacion
+Thank you ka everyone
+
+[1063] duda_candidata
+My local community is wondering if Tod - Knows all the tricks can be readied by being targeted with Touch the sky since he's basically chosen, but it doesn't say "chose" on the card.
+
+[1064] respuesta_debate_o_contexto
+Touch the Sky does not choose. As you've identified, it would need to say "choose" or "chosen".
+
+[1065] agradecimiento_o_confirmacion
+Thanks!
+
+[1066] duda_candidata
+Bonus: If Touch the sky didn't say "of yours", would you then be able to move an opposing character to their location even if they had ward?
+
+[1067] respuesta_debate_o_contexto
+Yes. But it would also probably get an errata to say “chosen”.
+
+[1068] respuesta_debate_o_contexto
+great, thanks!
+
+[1069] duda_candidata
+Ward is only for opposing characters, right? I can choose my own characters if I want, even if they have Ward?
+
+[1070] respuesta_debate_o_contexto
+yea
+
+[1071] duda_candidata
+Situation: 
+Player A has a character at a location and no other location or character in play.
+Player A plays "Touch the Sky".
+Do they still draw based on the lore of their location even though they were not able to move a character to that location?
+
+"Then" always trips me up.
+
+[1072] duda_candidata
+Also @GooglyGlimmers where are you posting your set guides these days? I know there are the official ones but tried to find yours to check there first haha.
+
+[1073] duda_candidata
+It’s an open question.
+Based on the precedent of references not existing if an effect was not resolved, unless the card was “chosen”, the answer is no.
+
+But Kyle has indicated that that precedent is under review and likely to change.
+
+Still waiting on the final answer though
+
+[1074] respuesta_debate_o_contexto
+And I’ve been lazy the last few sets and not published one  Just been doing the videos for interactions, but I know that’s not easy to reference when needed
+
+[1075] respuesta_debate_o_contexto
+I did try to run through videos and search in official rule chat but I know sometimes cards are shortened.
+
+[1076] duda_candidata
+So right now no clarity but since you can't move a character you couldn't select a location so no draw because the have doesn't know what location to look at?
+
+[1077] respuesta_debate_o_contexto
+That’s how I would rule it currently, yeah.
+
+[1078] agradecimiento_o_confirmacion
+Thanks. My gut was the same but someone else answered locally faster with 0 support saying yes you draw. 
+
+I told them if the card was worded "Choose a location, move a character for free, then draw equal to that locations lore." That would mean they could draw without a move.
+As currently written the act of moving is how you select a location and you can't move a character to a location it is already at so no move = no selection.
+
+[1079] duda_candidata
+This makes me feel better haha. I feel like every time I had a question it was in your guide for awhile.
+
+[1080] duda_candidata
+Board: 
+5c Violet (shift 3) ready 
+Merida 4cs unink exert 
+Hand: 
+5c Violet (shift 3) 
+Question.
+If I quest with Violet then I shift her , how many triggers are activate? Just 2 or 3? 
+I think is 3 triggers (Merida , Violet exert and the new one =total 3) im correct or is just 2 triggers(Merida and Violet)?
+
+[1081] respuesta_debate_o_contexto
+All three triggers will go into the bag.
+
+[1082] respuesta_debate_o_contexto
+@Albert - snobbysnobbyViolet Parr - Super Resilient
+
+[1083] duda_candidata
+Can you please explain the interaction of the violet shift resulting in 2 triggers. What I understand is that when the violet is shifted there is no point where the new violet is in play but not on top of the old violet. So the old violet wouldn’t see the new violet enter, correct?
+
+[1084] multimedia_o_sin_texto
+
+
+[1085] respuesta_debate_o_contexto
+The new Violet is played, triggering the old violet, then the old Violet is covered up.
+
+[1086] respuesta_debate_o_contexto
+Gotcha. Thank you
+
+[1087] duda_candidata
+For Tod, I have an unrelated question. Does the limit of 2x apply even if you choose to not ready him? For example, you play education or elimination to give Tod 1 more lore, he is already ready. You then quest for 3, can you still trigger Tod twice or only once now?
+
+[1088] respuesta_debate_o_contexto
+They helped me the other night though! Played against somebody and we ran into the Merida/Three Arrows "Dealt vs Taken" situation and I was able to link your video.
+
+[1089] respuesta_debate_o_contexto
+Twice, you "may" ready him, if you opt out of the "may" this does not count as one of the 2.
+NB : "Twice" is not technically covered in the CRD but "Once" is and "Twice" is considered to work the same way except you get 2 times the option.
+
+[1090] respuesta_debate_o_contexto
+6.1.13.2. Once – An ability with this duration can happen only a single time within the specified period listed after the word “once.” The ability checks to see if it has fully resolved previously. If it has, it resolves with no effect. If a player has two or more abilities with the same name, each ability checks independently.
+
+[1091] duda_candidata
+Is the coconut format infinity card pool or core constructed? I haven’t seen that made clear in the announcements. But maybe it is somewhere in the multiplayer rules that are referred to.
+
+[1092] respuesta_debate_o_contexto
+Coconut has its own card legality rules, which are currently all legal. Rotation does not affect it, and there are no banned cards.
+
+[1093] duda_candidata
+Hi team, has this progressed?  Played a game last night and this question came up.
+
+[1094] respuesta_debate_o_contexto
+There have been no updates.
+
+[1095] respuesta_debate_o_contexto
+In fact, I just did a video on this one today
+
+[1096] respuesta_debate_o_contexto
+Pics or it didn’t happen
+
+[1097] respuesta_debate_o_contexto
+Nah, just kidding.  Not putting pressure on you.  I'm going to go take a look - I've been consuming your content in droves as of late
+
+[1098] respuesta_debate_o_contexto
+TOO LATE
+
+[1099] enlace_o_recurso
+https://youtube.com/shorts/IiQTaAtyeOQ?si=5YJjxzLHStW1o5pH
+
+I ALREADY GRABBED THE LINKYouTubeGooglyGlimmersDrawing with Touch the Sky if you can’t move a character
+
+[1100] respuesta_debate_o_contexto
+Can't beat the speed of this guy
+
+[1101] agradecimiento_o_confirmacion
+Thanks!!
+
+[1102] respuesta_debate_o_contexto
+And yet he's not the one they call Speedy, haha.
+
+[1103] duda_candidata
+Does anyone know what the time limit, if any, a competitive coconut tournament would have?
+
+[1104] respuesta_debate_o_contexto
+Coconut isn’t competitive
+
+[1105] respuesta_debate_o_contexto
+So there is no advised time limit
+
+[1106] respuesta_debate_o_contexto
+And don’t try.
+
+[1107] respuesta_debate_o_contexto
+Not only is it not competitive, it's not an official format, only a beta test.
+
+[1108] respuesta_debate_o_contexto
+Yea, i figured, but for lgs that want to host events, that would help them establish a structure to the format
+
+[1109] respuesta_debate_o_contexto
+Yeah I wouldn’t host any format of Swiss event I would do it as open play the only thing the LGS does is help start pods
+
+[1110] respuesta_debate_o_contexto
+The format in RPH to host such an event doesnt use swiss if that helps
+
+[1111] respuesta_debate_o_contexto
+Just a player list
+
+[1112] duda_candidata
+Do I have to do the second part of the card? Or is it optional for the effect?
+
+[1113] respuesta_debate_o_contexto
+It doesn’t say may so I’m assuming I have to
+
+[1114] respuesta_debate_o_contexto
+That is an activated ability. You choose when you want to do it. It's not part of an on play ability, if that's what you're thinking.
+
+[1115] duda_candidata
+Can I ignore it completely each turn? Let’s say I’m running Dale - RFHS. I wouldn’t need the challenger bonus.
+
+[1116] duda_candidata
+Basically, she's in play. Do tou want to give her Challenger +3? Activate the ability and pay the cost. You could even activate it multiple times!
+
+On the other hand, don't want to challenge or need it, don't activate it.
+
+[1117] respuesta_debate_o_contexto
+Oh ok. That’s great.
+
+[1118] respuesta_debate_o_contexto
+sorry if this has already been asked somewhere but what does "Collection" mean in the Robin Hood "Sneaky Sleuth" Coconut card.
+
+[1119] multimedia_o_sin_texto
+
+
+[1120] respuesta_debate_o_contexto
+Cards that aren't in your deck.
+
+[1121] respuesta_debate_o_contexto
+Thats what I was theorizing! I couldn't find any reference to this in the CRD but I guess there is probably going to be a separate document for coconut format in the future.
+
+[1122] respuesta_debate_o_contexto
+It's also in beta. So I wouldn't expect anything until the official release.
+
+[1123] duda_candidata
+so if your playing the Robin Hood coconut should I just have a stack of Robin's Bows?
+
+[1124] respuesta_debate_o_contexto
+just 1 in addition to the one in the deck
+
+[1125] respuesta_debate_o_contexto
+Yeah, unless you're expecting to have more than one 'first turn' in a game, one should be plenty.
+
+[1126] respuesta_debate_o_contexto
+lol my bad I missed the "first turn" there...
+
+[1127] respuesta_debate_o_contexto
+There's a great GooglyGlimmers video about this exact wording up on Instagram
+
+[1128] duda_candidata
+Who?
+
+[1129] duda_candidata
+Playing coconut, Ursula coconut, does my Angel underdog sing for 4 or still just 3?
+
+[1130] respuesta_debate_o_contexto
+Four
+
+[1131] duda_candidata
+If there are two of John Smith - Undaunted Protector in play on player 1's side of the board, and player 2 plays Red Alert, does it do nothing because there are no valid targets?
+
+[1132] respuesta_debate_o_contexto
+There are two valid choices.
+
+[1133] duda_candidata
+They're both valid?
+
+[1134] agradecimiento_o_confirmacion
+Yes.
+
+[1135] respuesta_debate_o_contexto
+Good to know.
+
+[1136] respuesta_debate_o_contexto
+It's my past experience with Yu-gi-oh! making me think it could lock things down. Lol.
+
+[1137] respuesta_debate_o_contexto
+Good ol Marauding Captain
+
+[1138] duda_candidata
+So is using a dice for your hand in now fine?
+
+[1139] respuesta_debate_o_contexto
+No, unless this rule has changed
+
+[1140] respuesta_debate_o_contexto
+Or if a mechanic is introduced that damages your hand.
+
+[1141] respuesta_debate_o_contexto
+Oh we already have that. It's called shuffling your hand endlessly. 
+(My poor old joints)
+
+[1142] duda_candidata
+So something came up in my league this evening and no one seems to know the correct ruling. Of course, whenever you play a card with 2 or less Jessie's ability triggers. But what about singing songs? Could you sing a song that costs more (like You've Got A Friend In Me), but it counts as you aren't playing the ink cost? Or does the song also have to be 2 or less?
+
+[1143] respuesta_debate_o_contexto
+Jessie lively cowgirl
+
+[1144] respuesta_debate_o_contexto
+Jessie says Pay 2 or less, not cost. Singing involved you paying 0 which is less than 2 and would trigger no matter the Card Cost of the song played.
+
+[1145] duda_candidata
+Has this knowledge of the effect been since the release do the card or set? Or was this clarified in a later time?
+
+[1146] duda_candidata
+Been known the whole time. Question has also been asked a lot.
+
+[1147] respuesta_debate_o_contexto
+Also things like if you play Bullseye for only 2 because you have Woody in play Jessie will trigger
+
+[1148] respuesta_debate_o_contexto
+for the record this is also the same with babyhead he also states pay not cost
+
+[1149] duda_candidata
+Reenviadoif Milo was worded differently, and you play it to an empty board
+When you play this character, you may choose an opposing character. If you do, you may discard a card to return chosen character to their player's hand.
+
+Would the do as much as you can fizzles earlier before the option to discard is even available?
+
+[1150] respuesta_debate_o_contexto
+wrong thread sorry moment
+
+[1151] respuesta_debate_o_contexto
+Wut
+
+[1152] duda_candidata
+if the milo is worded that way (and if that is within the templating), would you be able to discard a card without a valid target?
+
+[1153] agradecimiento_o_confirmacion
+No
+
+[1154] duda_candidata
+the reasoning being the ability resolution stops at not having a valid target? ie. due to the if you do part, and discard coming after that
+
+[1155] respuesta_debate_o_contexto
+If you can’t fully resolve choosing a character, you can’t resolve the second sequential effect.
+
+[1156] agradecimiento_o_confirmacion
+Thank you
+
+[1157] duda_candidata
+any judges here watching the NA champs real time?
+
+[1158] duda_candidata
+the chat on twitch is going off about the judge call in game 3 of sailor and dillon, apearently they didnt allow dillon to move 3 damage from luisa 5 drop or something?
+
+[1159] agradecimiento_o_confirmacion
+Yes.
+
+[1160] duda_candidata
+im wondering what that scenerio was and if it was the wrong ruling
+
+[1161] respuesta_debate_o_contexto
+The scenario was a Luisa with three damage with no other characters in play to move damage from.
+
+The call was incorrect. The move off of Luisa should have been allowed.
+
+It was not appealed.
+
+[1162] respuesta_debate_o_contexto
+right, i missed the play (making lunch for the kiddos) but from what i gathered, thats what i was thinking too. 
+
+thank you
+
+[1163] duda_candidata
+Just to verify before a big tournament this weekend: If my opponent has an exerted character in play and I play Ursula - Voice stealer, am I able to use her ability? I assume not since the opponent is already exerted and if I cannot target them and therefore even if the second part triggers it doesn't have any character to trigger from and I cannot play a song. But it could also work since you might be able to exert something that's already exerted (see Elsa - Spirit of winter)
+
+[1164] respuesta_debate_o_contexto
+You can’t choose an exerted character with her ability, so the second effect will resolve without a reference. It would not allow you to play a song.
+
+[1165] respuesta_debate_o_contexto
+Ah okey, thanks for the info!
+
+[1166] duda_candidata
+I'm not sure if this has come before, and I promise is not Luisa related: Can Milo discard a card to not bounce anything? The text is "you may.... to ..." 
+
+I'm conflicted between interpreting the first part conditional to being able to do the second part or do as much as you can. But if it's "as much as you can"...if there's a valid target you need to do it (in either side of the board). Thoughts?
+
+[1167] respuesta_debate_o_contexto
+“You may” covers the full sentence. If you choose to discard, you must bounce a valid chosen character.
+
+[1168] respuesta_debate_o_contexto
+That's how we interpret it. Thanks!
+
+[1169] duda_candidata
+And while we are at it, Milo himself would always be a legal target, so if Milo is played to an empty board and I chose to discard a card, I need to bring it back to my hand. Correct?
+
+[1170] respuesta_debate_o_contexto
+(this is for extra brownie points, not the scenario that we were looking at yesterday)
+
+[1171] respuesta_debate_o_contexto
+Correct
+
+[1172] respuesta_debate_o_contexto
+I'm ready to judge a DLC :p @Jon brace yourself!
+
+[1173] agradecimiento_o_confirmacion
+Thanks @GooglyGlimmers always appreciate your thoroughness
+
+[1174] duda_candidata
+Just to make sure I did this right last night: Player 1 has John Smith - Undaunted Protector which doesn't have damage on him and another character that does have damage on it. Player 2 plays Violet Parr - Learning New Powers. 
+
+Player 2 cannot choose John Smith for the first chosen character of Violet's Deflect ability since it is undamaged, but then must choose John Smith as the recipient of the moved damage. Correct?
+
+[1175] respuesta_debate_o_contexto
+No.
+
+John Smith is a legal choice to remove damage from even though he is undamaged.
+
+[1176] duda_candidata
+Oh! My first instinct to question it was right then. I thought since Violet didn't say "up to" that John Smith wouldn't be valid to choose. I should have won that game.
+
+[1177] duda_candidata
+So the distinction would be if Violet stated "...chosen damaged character...," which would make John Smith ineligible, yea?
+
+[1178] respuesta_debate_o_contexto
+Yeah, that would make the difference
+
+[1179] respuesta_debate_o_contexto
+Cool. Now that I've experienced it first hand it will be memorized.
+
+[1180] duda_candidata
+Coconut question: Has there been any clarification on Robin's bow? Can the Robin's bow from your collection be put back in your deck(i.e You're Welcome)?
+
+[1181] respuesta_debate_o_contexto
+I would assume yes
+
+[1182] respuesta_debate_o_contexto
+There is nothing special about it other thn starting in play from outside the game.
+
+[1183] respuesta_debate_o_contexto
+Yeah, once the game starts it’s just in play and behaves like any other item.
+
+[1184] agradecimiento_o_confirmacion
+Thanks! That's what we had assumed as well.
+
+[1185] duda_candidata
+Do we have an update?
+
+[1186] respuesta_debate_o_contexto
+Regarding RED and replacement effects, specifically shift cost
+
+[1187] respuesta_debate_o_contexto
+⁠Disney Lorcana TCG Official⁠desconocido
+
+[1188] duda_candidata
+Ah ok I was referring to shift cost, but you answered it on the question thread on the other server
+
+[1189] duda_candidata
+Gotcha. Yeah - we didn’t need an update on that question. That sort of ability has never been able to refer to alternate costs

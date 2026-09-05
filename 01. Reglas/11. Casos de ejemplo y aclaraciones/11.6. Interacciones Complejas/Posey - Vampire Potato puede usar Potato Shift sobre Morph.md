@@ -39,3 +39,11 @@ Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y Potato 
 ## 🏷️ Tags
 
 #shift #golden-rule #interactions #alternate-cost
+
+---
+
+### Potato recién jugado y variante Morph
+
+La parte inequívoca es esta: un objeto Potato jugado durante el turno sigue sin estar en juego al comienzo de ese turno. Aunque se prepare, un personaje que use Potato Shift sobre él entra **secándose**. La combinación de Potato Shift con Morph depende de cómo se aplique la regla especial de la variante y queda marcada para una aclaración oficial; no se debe presentar una conclusión única mientras el texto siga ambiguo.
+
+Fundamento: reglas 1.7.5, 8.10.4 y 8.10.8 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].

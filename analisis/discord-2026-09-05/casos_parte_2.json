@@ -1,0 +1,1883 @@
+{
+  "casos": [
+    {
+      "titulo": "Fomentar que los jugadores llamen al árbitro",
+      "pregunta": "¿Cómo conseguir que los jugadores se sientan cómodos llamando a un árbitro?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "llamadas_al_arbitro",
+        "comunidad"
+      ],
+      "preguntas_indices": [],
+      "respuestas_indices": [
+        403,
+        404,
+        408
+      ],
+      "contexto_indices": [
+        400,
+        401,
+        402,
+        405,
+        406,
+        407
+      ],
+      "resumen_respuestas": "Se propone normalizar las llamadas, animar a los jugadores a hacerlas y atenderlas con actitud amable. Se señala que cambios de sanciones o seguimiento entre eventos dependen de Ravensburger y de la organización.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Continuación directa de la pregunta del índice 396, fuera de este rango; fusionar con el caso correspondiente de la parte 1.",
+        "Las anécdotas 400–402 son de otros juegos y se conservan solo como contexto."
+      ]
+    },
+    {
+      "titulo": "One and Only contra personajes con varios nombres",
+      "pregunta": "Si One and Only elige a Woody & Buzz, ¿destierra también a Woody y Buzz individuales? ¿Qué ocurre al elegir a Woody o a The Madrigal Family?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "nombres_multiples",
+        "elegir_personaje",
+        "destierro"
+      ],
+      "preguntas_indices": [
+        419,
+        422,
+        426,
+        431,
+        533,
+        550
+      ],
+      "respuestas_indices": [
+        420,
+        421,
+        423,
+        427,
+        432,
+        534,
+        551,
+        552
+      ],
+      "contexto_indices": [
+        424,
+        425,
+        428,
+        433,
+        535
+      ],
+      "resumen_respuestas": "El canal afirma que se elige un personaje, no un nombre: elegir al equipo alcanza los nombres individuales que posee; elegir a Woody alcanza al equipo que contiene ese nombre. The Madrigal Family no equivale a poseer los nombres de todos los Madrigal.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "One and Only",
+        "Woody & Buzz",
+        "Woody",
+        "Buzz Lightyear",
+        "The Madrigal Family"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Las grafías Buzz & Woody y Woody & Buzz se conservan como menciones del canal; comprobar nombre oficial al validar.",
+        "Relacionado con el caso sobre nombrar cartas con Bruno, que usa una operación distinta."
+      ]
+    },
+    {
+      "titulo": "Nombrar equipos con Bruno y cuántos personajes representan",
+      "pregunta": "¿Qué nombres tiene un equipo al nombrar una carta con Bruno? ¿Hamish, Hubert & Harris representa varios personajes?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "nombres_multiples",
+        "nombrar_cartas",
+        "equipo"
+      ],
+      "preguntas_indices": [
+        531,
+        536,
+        537
+      ],
+      "respuestas_indices": [
+        532,
+        538,
+        541,
+        546
+      ],
+      "contexto_indices": [
+        540,
+        542,
+        544,
+        545
+      ],
+      "resumen_respuestas": "Se explica que un equipo sigue siendo un personaje con varios nombres. Nombrar Woody coincide con Woody o con su equipo; nombrar el equipo exige ese nombre completo. Se identifica una anomalía en la redacción entonces vigente de Hamish, Hubert & Harris, que separaría sus nombres de forma inesperada.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Bruno Madrigal",
+        "Woody & Buzz",
+        "Hamish, Hubert & Harris"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "La observación de Hamish, Hubert & Harris es una interpretación de la redacción histórica; requiere revisar el CRD vigente.",
+        "Relacionado con el caso One and Only, sin confundir elegir personaje con nombrar carta."
+      ]
+    },
+    {
+      "titulo": "Shift durante un desafío al descartar con Rapunzel & Flynn Rider",
+      "pregunta": "¿Se resuelve el Shift causado al descartar durante un desafío antes del daño? ¿Continúa el desafío si cambia Evasive, el secado o se incorpora un segundo personaje mediante Duo Shift?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "shift",
+        "duo_shift",
+        "desafio",
+        "descarte",
+        "bolsa",
+        "secar",
+        "evasive"
+      ],
+      "preguntas_indices": [
+        434,
+        436,
+        660,
+        664,
+        775
+      ],
+      "respuestas_indices": [
+        435,
+        437,
+        661,
+        663,
+        665
+      ],
+      "contexto_indices": [
+        438,
+        662,
+        666
+      ],
+      "resumen_respuestas": "Se afirma que el Shift se resuelve desde la bolsa antes del paso de daño y que los requisitos para desafiar ya se comprobaron. La incorporación simultánea de un personaje ajeno al desafío mediante Duo Shift se responde de forma provisional por falta de precedente.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [
+        "Rapunzel & Flynn Rider",
+        "Bushroot",
+        "Mickey",
+        "Minnie",
+        "Mickey & Minnie - Adventuring Duo"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "434–437 y 660–665 son variantes del mismo problema; 775 pide recuperar esa respuesta.",
+        "El mensaje 775 llama poisonous a la interacción; no basta para identificar una carta adicional."
+      ]
+    },
+    {
+      "titulo": "Marcadores apilables de reducción de fuerza sin cifras",
+      "pregunta": "¿Se pueden apilar marcadores con el símbolo de fuerza y un signo menos para recordar reducciones de fuerza?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "accesorios",
+        "marcadores",
+        "fuerza",
+        "seguimiento_informacion"
+      ],
+      "preguntas_indices": [
+        439,
+        442,
+        444
+      ],
+      "respuestas_indices": [
+        440,
+        441
+      ],
+      "contexto_indices": [
+        443,
+        445,
+        446,
+        447,
+        463
+      ],
+      "resumen_respuestas": "Se responde que los símbolos sin cifras son admisibles; se distingue de usar marcadores numéricos. El segundo envío es un duplicado técnico reconocido por los participantes.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Mickey - Expedition Leader"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Posible relación con discusiones de marcadores o dados en otros rangos."
+      ]
+    },
+    {
+      "titulo": "Descartar Look What You've Done como coste de Shift",
+      "pregunta": "Si se descarta Look What You've Done para hacer Shift con Diablo, ¿se juega la acción antes o después de cubrir el Diablo base y usa la bolsa?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "costes",
+        "shift",
+        "descarte",
+        "acciones",
+        "habilidades_disparadas",
+        "bolsa"
+      ],
+      "preguntas_indices": [
+        449,
+        450,
+        453,
+        454,
+        456,
+        457
+      ],
+      "respuestas_indices": [
+        452,
+        455,
+        458,
+        460,
+        461,
+        462,
+        464
+      ],
+      "contexto_indices": [
+        451
+      ],
+      "resumen_respuestas": "El canal concluye que primero se paga el coste y se completa el Shift; después la habilidad disparada permite jugar la acción desde el descarte. Se debate si la terminología de acciones con efectos en vez de habilidades necesita aclaración documental.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Look What You've Done",
+        "Diablo"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "Existe reserva explícita sobre la redacción del CRD; validar con reglas y notas de publicación definitivas.",
+        "La propuesta de hacer daño al Diablo base depende precisamente del orden resuelto."
+      ]
+    },
+    {
+      "titulo": "Repetir Look What You've Done desde el descarte",
+      "pregunta": "¿Puede jugarse repetidamente Look What You've Done porque vuelve al descarte al resolverse?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "descarte",
+        "cambio_zona",
+        "acciones"
+      ],
+      "preguntas_indices": [
+        465
+      ],
+      "respuestas_indices": [
+        466
+      ],
+      "contexto_indices": [
+        467,
+        469
+      ],
+      "resumen_respuestas": "Se responde que pasar de juego al descarte al terminar una acción no es descartar una carta, por lo que ese movimiento no vuelve a disparar la condición.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Look What You've Done"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Vigencia y fecha de una actualización de reglas de torneo",
+      "pregunta": "¿La actualización anunciada entra en vigor inmediatamente y contiene un año equivocado en la fecha de actualización?",
+      "ambito": "documentacion_formatos",
+      "temas": [
+        "documentos",
+        "vigencia",
+        "erratas"
+      ],
+      "preguntas_indices": [
+        472,
+        474,
+        493
+      ],
+      "respuestas_indices": [
+        473,
+        475,
+        476
+      ],
+      "contexto_indices": [
+        470
+      ],
+      "resumen_respuestas": "Se confirma la errata del año y se comenta qué documento aparece actualizado. No consta respuesta inequívoca a la entrada en vigor inmediata.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "El anuncio original está en una captura del índice 470."
+      ]
+    },
+    {
+      "titulo": "Takeback de acciones agrupadas y origen de la política",
+      "pregunta": "¿Solicitar lore con tres personajes a la vez puede deshacerse como una sola jugada si no hay información nueva? ¿Desde cuándo existe esa política?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "takeback",
+        "secuencia_fuera_de_orden",
+        "acciones_agrupadas"
+      ],
+      "preguntas_indices": [
+        486,
+        496
+      ],
+      "respuestas_indices": [
+        487,
+        489,
+        497,
+        498,
+        499
+      ],
+      "contexto_indices": [
+        488
+      ],
+      "resumen_respuestas": "Se acepta como una jugada agrupada mediante secuencia fuera de orden; se dice que ya estaba cubierto desde el anuncio inicial de la política y se sitúa ese anuncio en DLC Milwaukee, octubre de 2025.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Verificar fechas históricas solo si se decide documentar la cronología; la duda práctica es el takeback de la jugada agrupada."
+      ]
+    },
+    {
+      "titulo": "Anunciar el nombre completo al convertir una carta en tinta",
+      "pregunta": "¿Hay que decir en voz alta nombre y subtítulo al entintar, incluso con cartas en otro idioma? ¿Hay sanción por omitirlo?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "comunicacion",
+        "tinta",
+        "nombres",
+        "idiomas"
+      ],
+      "preguntas_indices": [
+        500,
+        511,
+        512
+      ],
+      "respuestas_indices": [
+        491,
+        501,
+        508,
+        513,
+        516
+      ],
+      "contexto_indices": [
+        481,
+        482,
+        483,
+        484,
+        485,
+        490,
+        492,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        510,
+        514,
+        515,
+        517,
+        522,
+        523
+      ],
+      "resumen_respuestas": "Se interpreta que hay que anunciar el nombre completo y se afirma que no hay una penalización asociada. Para cartas en otro idioma se propone aplicar por analogía una regla sobre nombrar cartas; la disposición citada está en una captura y no se transcribe.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [
+        "Captain Hook - Forceful Duelist",
+        "Basil",
+        "Junior Woodchuck Guidebook",
+        "Demona"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "La aplicabilidad de la regla sobre nombrar cartas se presenta como interpretación del participante, no como confirmación oficial."
+      ]
+    },
+    {
+      "titulo": "Card guards y referencias a tokens en accesorios autorizados",
+      "pregunta": "¿Un card guard queda cubierto por la sección 5.2 o falta su mención en la sección 3.11 de accesorios autorizados?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "accesorios",
+        "tokens",
+        "documentos"
+      ],
+      "preguntas_indices": [
+        509
+      ],
+      "respuestas_indices": [],
+      "contexto_indices": [],
+      "resumen_respuestas": "No se ha localizado una respuesta a esta pregunta en el rango revisado.",
+      "estado_respuesta": "sin_respuesta",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Daño de Merida con Windstorm",
+      "pregunta": "Con Merida, ¿Windstorm hace 7 de daño a personajes Evasive antes de Resist y 3 a los demás?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "daño",
+        "modificadores",
+        "evasive",
+        "resist"
+      ],
+      "preguntas_indices": [
+        525
+      ],
+      "respuestas_indices": [
+        526
+      ],
+      "contexto_indices": [
+        527,
+        528,
+        529,
+        530
+      ],
+      "resumen_respuestas": "Se contesta afirmativamente al cálculo propuesto: 7 antes de Resist a Evasive y 3 a no Evasive.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Merida",
+        "Windstorm"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": true,
+      "notas": [
+        "La versión exacta de Merida aparece en imagen y no está escrita en el mensaje; debe identificarse antes de validar.",
+        "Revisar frente a cambios posteriores de las reglas de daño; hay anuncio del CRD 2.2.0 al final del rango."
+      ]
+    },
+    {
+      "titulo": "Takeback de pasar turno y decisiones de final de turno",
+      "pregunta": "¿Puede deshacerse el pase de turno antes de que el oponente actúe? ¿Cuenta como una jugada agrupada haber omitido una habilidad opcional de final de turno?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "takeback",
+        "fin_de_turno",
+        "habilidades_olvidadas",
+        "secuencia_fuera_de_orden"
+      ],
+      "preguntas_indices": [
+        553,
+        557,
+        565,
+        569,
+        571,
+        573
+      ],
+      "respuestas_indices": [
+        554,
+        555,
+        556,
+        558,
+        559,
+        560,
+        562,
+        564,
+        567,
+        568,
+        572,
+        574
+      ],
+      "contexto_indices": [
+        561,
+        563,
+        566,
+        570
+      ],
+      "resumen_respuestas": "El debate corrige respuestas iniciales restrictivas: se puede valorar deshacer el pase según información y acciones posteriores, sin limitar lo que el jugador haga después. Pasar y resolver u omitir una habilidad de final de turno puede considerarse una jugada agrupada según los hechos; robar con Cinderella aporta información y dificulta admitirlo. Se discute el posible uso para recuperar habilidades olvidadas.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Cinderella",
+        "Judy Hopps"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "No presentar las respuestas iniciales 554–555 como conclusión: se rectifican durante la conversación.",
+        "La resolución es condicionada a investigación y circunstancias, no una autorización universal."
+      ]
+    },
+    {
+      "titulo": "Mr. Big con Bodyguard concedido por Powhatan's Staff",
+      "pregunta": "¿Dar Bodyguard a Mr. Big impide todos los desafíos si el rival no tiene personajes capaces de desafiarlo?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "bodyguard",
+        "restricciones_desafio"
+      ],
+      "preguntas_indices": [
+        575
+      ],
+      "respuestas_indices": [
+        576,
+        577,
+        578
+      ],
+      "contexto_indices": [
+        579
+      ],
+      "resumen_respuestas": "Se responde que no: Bodyguard obliga a desafiar al personaje únicamente si es posible.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Mr. Big",
+        "Powhatan's Staff"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "El autor dice next set en junio: alude al contexto de Set 13, no demuestra relación con Set 14."
+      ]
+    },
+    {
+      "titulo": "Momento de la derrota por mazo vacío y victoria al final del turno",
+      "pregunta": "¿Cuándo se comprueba la derrota por mazo vacío? ¿Puede ganarse por llegar a 20 lore con una habilidad de final de turno antes de esa derrota? ¿Importa vaciarse durante el turno rival?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "mazo_vacio",
+        "victoria_derrota",
+        "comprobacion_estado",
+        "fin_de_turno"
+      ],
+      "preguntas_indices": [
+        584,
+        585,
+        590,
+        596,
+        598,
+        599,
+        694
+      ],
+      "respuestas_indices": [
+        586,
+        587,
+        588,
+        589,
+        591,
+        592,
+        593,
+        594,
+        595,
+        597,
+        600,
+        695
+      ],
+      "contexto_indices": [
+        601,
+        696
+      ],
+      "resumen_respuestas": "Se sitúa la derrota en la comprobación al terminar el turno del jugador, vinculada a 3.4.2, sin depender de intentar robar ni empezar el turno vacío. Una habilidad de final de turno que alcanza 20 lore tiene una comprobación anterior que ya daría la victoria. Se debate cuán explícita es la referencia documental.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Elinor",
+        "Demona"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Las preguntas 584–600 tratan momento exacto y prioridad de comprobaciones; 694 repite la regla básica.",
+        "601 es un ejemplo propuesto para un cuestionario y no otra duda independiente."
+      ]
+    },
+    {
+      "titulo": "Cambiar el mazo entre partidas o rondas en sellado y draft",
+      "pregunta": "En prerelease, sellado y draft, ¿se pueden cambiar cartas entre partidas o solo entre rondas?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "sellado",
+        "draft",
+        "construccion_mazo",
+        "rondas"
+      ],
+      "preguntas_indices": [
+        602
+      ],
+      "respuestas_indices": [
+        603,
+        604
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se cita la práctica de eventos secundarios DLC de permitir cambios entre rondas por tiempo y se afirma que, al faltar una norma escrita entonces, debe acordarlo el árbitro principal y/o la organización.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Es una respuesta sobre práctica y falta de guía en aquella fecha; requiere revisar política vigente."
+      ]
+    },
+    {
+      "titulo": "Reparto de premios, compensaciones externas y resultados pactados",
+      "pregunta": "¿Qué repartos de premios son legales: pagar media alfombrilla, conceder por premios, vender Golden Mickey y compartir valor, o decidir al dado?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "premios",
+        "splitting",
+        "soborno",
+        "resultado_indebido"
+      ],
+      "preguntas_indices": [
+        605,
+        607,
+        613
+      ],
+      "respuestas_indices": [
+        606,
+        608,
+        609,
+        610,
+        611,
+        612,
+        614,
+        615,
+        616,
+        617,
+        618
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se distingue repartir premios disponibles de añadir dinero o bienes externos. Se rechazan concesiones a cambio de contraprestación y resultados decididos al azar. Se afirma que Premier Play no admite splits, que todos los jugadores restantes deben aceptar un reparto cuando corresponde y que se puede repartir solo parte de los premios.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "605 contiene cuatro supuestos relacionados; conservarlos como subescenarios para la futura validación.",
+        "La primera interpretación sobre la alfombrilla se aclara con el criterio de pertenencia al premio, no por tratarse de dinero o sobres."
+      ]
+    },
+    {
+      "titulo": "Mover daño con Cheshire sin destino legal",
+      "pregunta": "¿Puede Cheshire - Inexplicable quitarse 2 daños al hacer Boost si no hay personaje rival al que moverlos?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "mover_daño",
+        "boost",
+        "objetivos"
+      ],
+      "preguntas_indices": [
+        619,
+        621
+      ],
+      "respuestas_indices": [
+        620,
+        622
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se explica que mover daño es un solo evento entre un origen y un destino: sin destino legal no se produce el movimiento ni se retira el daño de origen. Se cita 1.9.2.4.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Cheshire - Inexplicable"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Duo Shift: estados y habilidades heredados de dos personajes",
+      "pregunta": "¿Qué estados, daño y habilidades aplicadas hereda Duo Shift si sus dos bases difieren? ¿Qué pasa con dos Evasive de distinta duración o con habilidades impresas?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "duo_shift",
+        "herencia",
+        "estados",
+        "habilidades_aplicadas",
+        "evasive",
+        "support"
+      ],
+      "preguntas_indices": [
+        623,
+        625,
+        628,
+        633,
+        636,
+        657
+      ],
+      "respuestas_indices": [
+        624,
+        626,
+        629,
+        630,
+        631,
+        632,
+        635,
+        658
+      ],
+      "contexto_indices": [
+        627,
+        634,
+        637,
+        638,
+        659
+      ],
+      "resumen_respuestas": "Antes de publicarse las reglas se anticipa heredar agotamiento/secado desfavorables, daño y efectos aplicados, pero se reconoce incertidumbre sobre dos instancias de una palabra clave con diferente duración. Se aclara que el Shift hereda efectos y habilidades aplicados, no las habilidades impresas del personaje cubierto.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [
+        "Mickey & Minnie - Adventuring Duo",
+        "Mickey",
+        "Minnie",
+        "Ranger Plane",
+        "Helping Hand",
+        "Tinker Bell - Most Helpful",
+        "Tod - Playful Kit"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "No convertir las conjeturas expresas de 624–636 en reglas confirmadas.",
+        "La pregunta 657 sobre Shift normal recibe una aclaración firme y puede separarse de la incertidumbre específica de Duo Shift al validar."
+      ]
+    },
+    {
+      "titulo": "Entrar con daño y entrar agotado: relación con reemplazos",
+      "pregunta": "¿Hay que aplicar tanto entrar con daño como entrar agotado o se elige solo uno como efecto de reemplazo?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "entrar_en_juego",
+        "reemplazo",
+        "daño",
+        "agotamiento"
+      ],
+      "preguntas_indices": [
+        648
+      ],
+      "respuestas_indices": [
+        649
+      ],
+      "contexto_indices": [
+        650
+      ],
+      "resumen_respuestas": "Se responde que los efectos de entrar en juego ya no son efectos de reemplazo.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Orden y visibilidad de cartas enviadas al fondo por Under the Sea",
+      "pregunta": "¿Quién ordena las cartas enviadas al fondo por Under the Sea y puede el jugador afectado conocer ese orden?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "fondo_mazo",
+        "informacion_publica",
+        "orden_cartas"
+      ],
+      "preguntas_indices": [
+        667
+      ],
+      "respuestas_indices": [
+        668,
+        669
+      ],
+      "contexto_indices": [
+        670,
+        671
+      ],
+      "resumen_respuestas": "Se afirma que el jugador que resuelve Under the Sea elige el orden y que el afectado puede verlo; las cartas nuevas que acceden al fondo no cambian ese procedimiento.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Under the Sea"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Menciona cartas de un nuevo set como motivo de interés, pero la duda versa sobre un procedimiento existente."
+      ]
+    },
+    {
+      "titulo": "Fundas legales y opacidad",
+      "pregunta": "¿Qué requisitos deben cumplir las fundas en torneo y sirven las de reverso translúcido?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "fundas",
+        "accesorios",
+        "opacidad"
+      ],
+      "preguntas_indices": [
+        672,
+        676
+      ],
+      "respuestas_indices": [
+        673,
+        674,
+        675,
+        677,
+        679,
+        680,
+        681,
+        684,
+        685,
+        686
+      ],
+      "contexto_indices": [
+        678,
+        682,
+        683,
+        687
+      ],
+      "resumen_respuestas": "Se recomienda usar reversos totalmente opacos y fundas en buen estado. Se aclara que matte describe textura y no garantiza opacidad; se comentan marcas y alternativas con doble color.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Separar requisitos de torneo de recomendaciones comerciales al preparar material de wiki."
+      ]
+    },
+    {
+      "titulo": "Enlace here roto en un documento",
+      "pregunta": "¿Cuál es el destino del enlace here que no funciona en un documento?",
+      "ambito": "organizacion_herramientas",
+      "temas": [
+        "enlace_roto",
+        "recursos"
+      ],
+      "preguntas_indices": [
+        688,
+        689
+      ],
+      "respuestas_indices": [
+        690,
+        691
+      ],
+      "contexto_indices": [
+        692,
+        693
+      ],
+      "resumen_respuestas": "Se recupera desde una versión anterior el enlace de YouTube https://www.youtube.com/watch?v=q9ATaPv3auE.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "La captura del índice 688 es necesaria para identificar el documento y el contexto exactos; el destino sí consta en texto."
+      ]
+    },
+    {
+      "titulo": "Acumular reducción de coste al explorar con Floodborn",
+      "pregunta": "Si tres Floodborn exploran antes de jugar la carta, ¿se reduce el coste en 3 tintas?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "reduccion_coste",
+        "shift",
+        "quest",
+        "floodborn"
+      ],
+      "preguntas_indices": [
+        697
+      ],
+      "respuestas_indices": [
+        698,
+        699
+      ],
+      "contexto_indices": [
+        700
+      ],
+      "resumen_respuestas": "Se confirma la acumulación, precisando que la reducción solo sirve al usar una habilidad Shift.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "La carta de origen está únicamente en la imagen de 697; identificarla antes de decidir su edición y validar."
+      ]
+    },
+    {
+      "titulo": "Bodyguard concedido y opción de entrar agotado",
+      "pregunta": "¿Por qué Woody con Bodyguard de Bo Peep no entra igual que con Powhatan's Staff?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "bodyguard",
+        "entrar_en_juego",
+        "agotamiento"
+      ],
+      "preguntas_indices": [
+        702
+      ],
+      "respuestas_indices": [
+        703
+      ],
+      "contexto_indices": [
+        704
+      ],
+      "resumen_respuestas": "Se afirma que ganar Bodyguard no concede por sí mismo entrar agotado; Powhatan's Staff añade específicamente esa opción.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Woody",
+        "Bo Peep",
+        "Powhatan's Staff"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La pregunta remite a un hilo anterior que puede aparecer en otro rango."
+      ]
+    },
+    {
+      "titulo": "Duo Shift sobre Morph o sobre un único equipo",
+      "pregunta": "¿Basta un solo Morph para Duo Shift? ¿Puede usarse un único Mickey & Minnie como sus dos bases?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "duo_shift",
+        "morph",
+        "numero_personajes",
+        "costes"
+      ],
+      "preguntas_indices": [
+        705,
+        709,
+        712,
+        714,
+        718,
+        721,
+        728
+      ],
+      "respuestas_indices": [
+        706,
+        707,
+        710,
+        711,
+        713,
+        715,
+        717,
+        719,
+        720,
+        722,
+        724,
+        726,
+        729,
+        730,
+        732
+      ],
+      "contexto_indices": [
+        708,
+        716,
+        723,
+        725,
+        727,
+        731
+      ],
+      "resumen_respuestas": "Se responde que hacen falta dos personajes: Morph puede sustituir a una base y dos Morph pueden sustituir ambas. Un equipo sigue siendo un solo personaje, aunque puede aportar una de las bases. Se separa el requisito de dos personajes del coste de 0 tintas y se cita una aclaración atribuida a Kyle.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Morph",
+        "Mickey & Minnie",
+        "Mickey",
+        "Minnie",
+        "Diablo"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "El canal reconoce que el texto recordatorio no era claro y espera definición en el CRD; la interpretación se presenta apoyada en aclaración verbal.",
+        "Las imágenes 716 y 723 apoyan el debate, pero la pregunta y conclusión se recuperan del texto."
+      ]
+    },
+    {
+      "titulo": "Bambi entrando agotado y carta añadida por Scrooge",
+      "pregunta": "¿Se dispara Bambi si entra agotado por Horned King o Simba y Scrooge le pone una carta debajo?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "entrar_en_juego",
+        "boost",
+        "agotamiento",
+        "habilidades_disparadas",
+        "bolsa"
+      ],
+      "preguntas_indices": [
+        733
+      ],
+      "respuestas_indices": [
+        734,
+        736
+      ],
+      "contexto_indices": [
+        735
+      ],
+      "resumen_respuestas": "Se contesta que no y se aclara que Bambi entra sin cartas debajo; la habilidad de Scrooge coloca la carta después, al resolverse desde la bolsa.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Bambi",
+        "Horned King",
+        "Simba",
+        "Scrooge"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Versiones exactas de las cartas no constan por nombre; el autor solo identifica color ámbar."
+      ]
+    },
+    {
+      "titulo": "Cantar una canción revelada por Dash Parr",
+      "pregunta": "¿Puede agotarse a otros personajes para cantar la canción revelada por Dash Parr - Super Fast?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "canciones",
+        "costes_alternativos",
+        "revelar",
+        "jugar_cartas"
+      ],
+      "preguntas_indices": [
+        740
+      ],
+      "respuestas_indices": [
+        741,
+        742,
+        743
+      ],
+      "contexto_indices": [
+        739,
+        744,
+        760
+      ],
+      "resumen_respuestas": "Se responde que sí, porque al jugar una carta sin hacerlo gratis se pueden pagar costes alternativos.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Dash Parr - Super Fast"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "739 identifica la carta con enlace de Ravensburger a set13.",
+        "760 pide un vídeo didáctico y es contexto, no una duda distinta."
+      ]
+    },
+    {
+      "titulo": "Hades y Vine Pod para jugar personajes de equipo",
+      "pregunta": "¿Pueden Hades o Vine Pod jugar un equipo al desterrar a uno de sus personajes individuales?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "nombres_multiples",
+        "equipo",
+        "jugar_cartas",
+        "destierro"
+      ],
+      "preguntas_indices": [
+        745
+      ],
+      "respuestas_indices": [
+        746
+      ],
+      "contexto_indices": [
+        747
+      ],
+      "resumen_respuestas": "Se afirma que sí, usando Pocahontas & Meeko como ejemplo: el equipo también posee los nombres individuales.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Hades",
+        "Vine Pod",
+        "Pocahontas & Meeko",
+        "Pocahontas",
+        "Meeko"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    },
+    {
+      "titulo": "Fragile as a Flower sobre un personaje ya agotado",
+      "pregunta": "¿Se puede elegir un personaje ya agotado para Fragile as a Flower?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "elegir_personaje",
+        "agotamiento",
+        "efectos"
+      ],
+      "preguntas_indices": [
+        748
+      ],
+      "respuestas_indices": [
+        749,
+        752
+      ],
+      "contexto_indices": [
+        750,
+        751
+      ],
+      "resumen_respuestas": "Se responde que sí si su coste es 2 o menos; el efecto posterior no se presenta condicionado a if you do.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Fragile as a Flower",
+        "Elsa"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La edición de Fragile as a Flower no se determina en estos mensajes."
+      ]
+    },
+    {
+      "titulo": "Frecuencia y secado de una habilidad de carta no identificada",
+      "pregunta": "¿La habilidad de la carta mostrada puede usarse una vez por turno y funciona mientras se seca?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "frecuencia",
+        "secar",
+        "habilidades"
+      ],
+      "preguntas_indices": [
+        753
+      ],
+      "respuestas_indices": [
+        754
+      ],
+      "contexto_indices": [
+        755
+      ],
+      "resumen_respuestas": "Se afirma que actúa una vez, sobre la primera carta jugada después de ella, y que funciona mientras se seca.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": true,
+      "notas": [
+        "Carta identificable únicamente por la imagen de 753; no deducirla del pronombre she ni de la posterior mención de Willow."
+      ]
+    },
+    {
+      "titulo": "Habilidades que pueden usarse mientras el personaje se seca",
+      "pregunta": "¿El secado impide pagar tinta para usar una habilidad? ¿Por qué Hamm debe esperar y Willow puede actuar el mismo turno?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "secar",
+        "costes",
+        "agotamiento",
+        "habilidades_activadas"
+      ],
+      "preguntas_indices": [
+        756,
+        758
+      ],
+      "respuestas_indices": [
+        757,
+        759
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se explica que el secado afecta acciones de turno que agotan y costes o efectos que usan el símbolo de agotar; una habilidad cuyo coste no contiene ese símbolo puede usarse mientras se seca.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Hamm",
+        "Willow"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Comparación derivada del caso 753, pero puede formularse sin identificar aquella carta."
+      ]
+    },
+    {
+      "titulo": "Retro Evolution Device y Mickey & Minnie",
+      "pregunta": "¿Existe un ruling que impida usar Retro Evolution Device con Mickey & Minnie y cómo afecta reemplazar el pago de un coste?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "reemplazo",
+        "costes",
+        "equipo"
+      ],
+      "preguntas_indices": [
+        761,
+        763,
+        768
+      ],
+      "respuestas_indices": [
+        762,
+        764,
+        765
+      ],
+      "contexto_indices": [],
+      "resumen_respuestas": "Se dice que no hay resolución confirmada y que la relación entre costes y reemplazos sigue abierta tras cambios de Winterspell; otro participante plantea que el coste seguiría considerándose pagado.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [
+        "Retro Evolution Device",
+        "Mickey & Minnie"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "768 es repregunta de este caso, como demuestra la cita, aunque aparece intercalada en la conversación sobre nombres de mazo."
+      ]
+    },
+    {
+      "titulo": "Nombres inapropiados al registrar un mazo",
+      "pregunta": "¿Hay límites para nombres de mazo con dobles sentidos al inscribirse en un evento oficial?",
+      "ambito": "arbitraje_torneos",
+      "temas": [
+        "registro_mazo",
+        "conducta",
+        "nombres"
+      ],
+      "preguntas_indices": [
+        767,
+        771
+      ],
+      "respuestas_indices": [
+        769
+      ],
+      "contexto_indices": [
+        770,
+        772,
+        773,
+        785,
+        793,
+        794
+      ],
+      "resumen_respuestas": "Se responde que el nombre debe cumplir el código comunitario y las reglas de torneo; no consta una decisión concreta sobre circle herc.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Circle of Life",
+        "Hercules"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "La respuesta general no equivale a resolución del nombre concreto."
+      ]
+    },
+    {
+      "titulo": "Ubicación de un Duo Shift cuyas bases están en lugares distintos",
+      "pregunta": "Si se hace Duo Shift sobre dos personajes en lugares diferentes, ¿quién elige dónde queda? ¿Y si solo uno estaba en un lugar?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "duo_shift",
+        "lugares",
+        "estados"
+      ],
+      "preguntas_indices": [
+        774,
+        788
+      ],
+      "respuestas_indices": [
+        790,
+        792
+      ],
+      "contexto_indices": [
+        789
+      ],
+      "resumen_respuestas": "Se atribuye a Kyle una orientación de que si uno estaba en un lugar se permanece allí, pero se reconoce no tener respuesta para dos lugares. Se advierte que worst situation applies solo resumía secado y agotamiento.",
+      "estado_respuesta": "debate_sin_cierre",
+      "cartas_mencionadas": [],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": true,
+      "requiere_imagen": false,
+      "notas": [
+        "No usar la propuesta dealer's choice como regla: es parte de la pregunta y no queda confirmada."
+      ]
+    },
+    {
+      "titulo": "Temporary Shift cubierto por otra carta",
+      "pregunta": "¿La carta con Temporary Shift vuelve a la mano si otra carta se desplaza encima y tapa su texto? ¿Es un efecto aplicado o una habilidad retrasada?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "temporary_shift",
+        "habilidades_disparadas_retrasadas",
+        "cartas_debajo",
+        "fin_de_turno"
+      ],
+      "preguntas_indices": [
+        776,
+        782,
+        786
+      ],
+      "respuestas_indices": [
+        777,
+        778,
+        780,
+        781,
+        784,
+        787,
+        791
+      ],
+      "contexto_indices": [
+        779,
+        783
+      ],
+      "resumen_respuestas": "Se responde que sigue volviendo a la mano si permanece en la zona de juego, aunque esté cubierta; se trata de una habilidad disparada retrasada que llega a la bolsa al final del turno. Se remite a la definición de Temporary Shift del CRD 2.2 y a notas del set.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Gruesome and Grim",
+        "Candy Drift"
+      ],
+      "posible_set13": true,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": [
+        "Comprobar la redacción definitiva y el objeto exacto que vuelve al validar."
+      ]
+    },
+    {
+      "titulo": "Elinor al final del turno y Run Away de Rex",
+      "pregunta": "Si Elinor destierra a Rex con Coordinated Efforts al final del turno, ¿sigue siendo durante mi turno a efectos de Run Away?",
+      "ambito": "reglas_juego",
+      "temas": [
+        "fin_de_turno",
+        "durante_tu_turno",
+        "habilidades_disparadas"
+      ],
+      "preguntas_indices": [
+        795
+      ],
+      "respuestas_indices": [
+        796
+      ],
+      "contexto_indices": [
+        797
+      ],
+      "resumen_respuestas": "Se responde que sí: la fase de final de turno aún pertenece al turno y se cita la sección 3.4 del CRD.",
+      "estado_respuesta": "respuesta_presente",
+      "cartas_mencionadas": [
+        "Elinor",
+        "Rex"
+      ],
+      "posible_set13": false,
+      "posible_set14": false,
+      "especulacion_prepublicacion": false,
+      "requiere_imagen": false,
+      "notas": []
+    }
+  ],
+  "mensajes_revisados": [
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607,
+    608,
+    609,
+    610,
+    611,
+    612,
+    613,
+    614,
+    615,
+    616,
+    617,
+    618,
+    619,
+    620,
+    621,
+    622,
+    623,
+    624,
+    625,
+    626,
+    627,
+    628,
+    629,
+    630,
+    631,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637,
+    638,
+    639,
+    640,
+    641,
+    642,
+    643,
+    644,
+    645,
+    646,
+    647,
+    648,
+    649,
+    650,
+    651,
+    652,
+    653,
+    654,
+    655,
+    656,
+    657,
+    658,
+    659,
+    660,
+    661,
+    662,
+    663,
+    664,
+    665,
+    666,
+    667,
+    668,
+    669,
+    670,
+    671,
+    672,
+    673,
+    674,
+    675,
+    676,
+    677,
+    678,
+    679,
+    680,
+    681,
+    682,
+    683,
+    684,
+    685,
+    686,
+    687,
+    688,
+    689,
+    690,
+    691,
+    692,
+    693,
+    694,
+    695,
+    696,
+    697,
+    698,
+    699,
+    700,
+    701,
+    702,
+    703,
+    704,
+    705,
+    706,
+    707,
+    708,
+    709,
+    710,
+    711,
+    712,
+    713,
+    714,
+    715,
+    716,
+    717,
+    718,
+    719,
+    720,
+    721,
+    722,
+    723,
+    724,
+    725,
+    726,
+    727,
+    728,
+    729,
+    730,
+    731,
+    732,
+    733,
+    734,
+    735,
+    736,
+    737,
+    738,
+    739,
+    740,
+    741,
+    742,
+    743,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749,
+    750,
+    751,
+    752,
+    753,
+    754,
+    755,
+    756,
+    757,
+    758,
+    759,
+    760,
+    761,
+    762,
+    763,
+    764,
+    765,
+    766,
+    767,
+    768,
+    769,
+    770,
+    771,
+    772,
+    773,
+    774,
+    775,
+    776,
+    777,
+    778,
+    779,
+    780,
+    781,
+    782,
+    783,
+    784,
+    785,
+    786,
+    787,
+    788,
+    789,
+    790,
+    791,
+    792,
+    793,
+    794,
+    795,
+    796,
+    797,
+    798,
+    799
+  ],
+  "sin_caso": [
+    {
+      "indices": [
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        429,
+        430,
+        448,
+        459,
+        468,
+        471,
+        477,
+        478,
+        479,
+        480,
+        494,
+        495,
+        518,
+        519,
+        520,
+        521,
+        524,
+        539,
+        543,
+        547,
+        548,
+        549,
+        580,
+        581,
+        582,
+        583,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        701,
+        737,
+        738,
+        766,
+        798,
+        799
+      ],
+      "motivo": "Conversación social, opiniones sin duda normativa, anuncios de recursos, bromas o multimedia sin pregunta recuperable; revisados individualmente. Las imágenes aisladas 448 y 468 no permiten atribución semántica sin inspección."
+    }
+  ]
+}

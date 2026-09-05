@@ -30,3 +30,11 @@ Cuando un personaje es devuelto de la bolsa (discard) a juego, se considera que 
 ## 🏷️ Tags
 
 #abilities #bag #comprehensive-rules #ready #timing #tod #triggered-ability
+
+---
+
+### Rechazar un «may» de Tod
+
+Rechazar una opción «may» no cuenta como usarla. Por tanto, si Tod es elegido y su controlador decide no prepararlo, esa oportunidad no se consume; las oportunidades se cuentan cuando se usa la habilidad. La cantidad exacta de usos debe comprobarse en el texto vigente de Tod y no extrapolarse sin más desde un ejemplo de «once».
+
+Fundamento: regla 6.1.13 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y el texto vigente de Tod — Knows All the Tricks.

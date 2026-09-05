@@ -43,3 +43,35 @@ Estas lagunas no deben completarse suponiendo reglas que el PDF no contiene. Par
 - [Disney Lorcana TCG Resources](https://www.disneylorcana.com/en-US/resources/).
 
 #multiplayer #deck-construction #lore-gain
+
+---
+
+### Legalidad de cartas en Coconut beta
+
+El reglamento beta de Coconut define la construcción del mazo y la victoria a 25 de lore, pero no define un pool de sets, rotación ni lista de prohibiciones propia. No se puede afirmar que todas las cartas sean legales por defecto: el organizador debe anunciar la legalidad concreta del evento hasta que Coconut publique una política específica.
+
+Fundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].
+
+---
+
+### Tiempo y estructura de un evento Coconut
+
+Coconut se publica como beta y no aporta rondas suizas, Top Cut ni un límite de tiempo de torneo. La tienda u organización debe fijar y anunciar la estructura, el tiempo y el procedimiento de emparejamientos. Una mesa abierta puede ser una opción práctica, pero no es una regla oficial del formato.
+
+Fundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].
+
+---
+
+### «Collection» no es una zona definida
+
+La hoja beta de Coconut no define «collection» como zona de juego ni indica cuántas copias externas deben llevarse. La carta asociada puede incluirse hasta cuatro veces y el resto es singleton; cualquier Robin's Bow que entre legalmente en juego se comporta después como un objeto normal. El número de cartas externas necesarias es una decisión del organizador o una interpretación que debe acordarse antes del evento.
+
+Fundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].
+
+---
+
+### Robin's Bow y «collection»
+
+Una vez que Robin's Bow está en juego es un objeto normal y You're Welcome puede barajarlo si el objetivo es legal. Lo que Coconut beta no define es cómo una carta de «collection» entra en juego y pasa a formar parte del estado de la partida. Esa zona inicial debe acordarse o documentarse antes de aplicar la interacción.
+
+Fundamento: [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md|Formato Coconut (Beta)]].
