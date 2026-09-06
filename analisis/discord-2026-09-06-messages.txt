@@ -1,0 +1,1785 @@
+[0] 2026-05-18T03:07:23.289Z | EdiigaLore Guide
+We do as the document guides.
+
+[1] 2026-05-21T19:03:12.301Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+If a deck registration error major is only seen in game 2, is game 1 also a game loss?
+
+[2] 2026-05-21T19:04:42.526Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+A game loss is only one game. (editado)
+jueves, 21 de mayo de 2026, 21:05
+
+[3] 2026-05-21T19:06:05.771Z | Chris Lagasse
+@LordFisch | Tim I'm curious, is the deck registration error due to the deck from Game 1? or the deck from Game 2?
+
+[4] 2026-05-21T19:06:27.255Z | None
+(or does it not matter, as @Jacob Smith implies?)
+
+[5] 2026-05-21T19:06:49.014Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+the deck is the same in both. we are playing 2 game format
+
+[6] 2026-05-21T19:07:54.365Z | None
+in game 1 no card was played (or inked) that showed the error
+
+[7] 2026-05-21T19:12:26.016Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The corrective action (in this case a game loss) is not part of the remedy. 
+
+By this, I mean, losing the game isn't done to "fix" the game where the error happened. It's a correction to establish a disadvantage for committing the error.
+
+Error category, remedy, and corrective action, are three separate parts of how we identify and deal with errors.
+
+(Edited, because I forgot we have a word for "negative advantage". ) (editado)
+jueves, 21 de mayo de 2026, 21:15
+
+[8] 2026-05-21T19:17:13.702Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I understand, but I am not sure how to handle game 1.
+It was "Deck Registration Error- Major" the corrective action is Game Loss. There is no remedy because it was the second game of a two game match.
+The question is, game 1 was also played with an incorrect deck, but as only cards were played that was part of the deck list it was not seen. The opponent is now asking for a game loss in game 1. so do we give penalties for the previous game or not? (editado)
+jueves, 21 de mayo de 2026, 21:17
+
+[9] 2026-05-21T19:18:23.477Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Firstly, is this a live call?
+
+[10] 2026-05-21T19:19:18.766Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+more or less. it was 10 minutes ago. but we are playing an online team league
+
+[11] 2026-05-21T19:19:33.745Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+You are playing, or judging?
+
+[12] 2026-05-21T19:19:40.185Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+judging
+
+[13] 2026-05-21T19:20:43.701Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Ok. The corrective action of a game loss is applied to the current, ongoing, game, or to the player's next game if they are not currently in a game. It is not applied to a previous game.
+
+[14] 2026-05-21T19:21:53.555Z | None
+You should communicate that to the players and get it entered into whatever you're using to manage the tournament, then come back and we can discuss why it is that way.
+
+[15] 2026-05-21T19:23:30.970Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I already did give the game loss and entered it.
+
+[16] 2026-05-21T19:24:15.037Z | None
+I also announced it to the team captains, which is when I got the complaint. So I thought I come here and ask to be sure
+
+[17] 2026-05-21T19:26:13.030Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Do you need to go let them know that it is only one game loss?
+
+I want to get us to the point where the call is no longer live and doesn't have the potential to delay the tournament.
+
+[18] 2026-05-21T19:29:38.700Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+the tournament is not paused for this. it could only affect the league points of the team
+
+[19] 2026-05-21T19:30:10.247Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Alrighty.
+
+[20] 2026-05-21T19:31:14.728Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So, we don't give out two game losses for a single error. That would be a match loss. 
+The error isn't "playing a game with an illegal deck" it's "playing with an illegal deck".
+
+[21] 2026-05-21T19:31:58.252Z | None
+If we applied the error retroactively to every game where the deck was wrong, a deck check in the final round could lead to dozens of game losses.
+
+[22] 2026-05-21T19:32:20.816Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+thanks, that helps a lot.
+
+[23] 2026-05-21T19:32:47.354Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+How was the error caught? Was it during a game? Or during a deck check?
+
+[24] 2026-05-21T19:32:56.051Z | None
+This is me being curious.
+
+[25] 2026-05-21T19:37:18.882Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+it is a webcam tournament and I am the stream judge and caught it when a card was played that was not in the decklist (editado)
+jueves, 21 de mayo de 2026, 21:37
+
+[26] 2026-05-21T19:40:25.183Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Hmm. So what makes this a DRE-major instead of minor?
+
+[27] 2026-05-21T19:42:13.699Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+correct, as i said above
+
+[28] 2026-05-21T19:42:58.928Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Presumably they declined to alter the deck to match the list they submitted?
+
+[29] 2026-05-21T19:43:51.684Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+it was the second game of a 2-game match, after the game loss there was no reason to alter the deck anymore. (editado)
+jueves, 21 de mayo de 2026, 21:44
+
+[30] 2026-05-21T19:44:42.924Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I think I'm missing something. 
+They had a decklist that was legal, and a deck that would be legal, but didn't match the list, correct?
+
+[31] 2026-05-21T19:45:04.195Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+correct, two cards were different
+
+[32] 2026-05-21T19:45:17.098Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So why isn't this a DRE-minor?
+
+[33] 2026-05-21T19:48:36.906Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+because it had a significant impact to the tournament.
+for each match-day the teams are nominating 3 players each, which then will be matched by blind seeding table 1,2, and 3. As we are playing with open decklists it has an impact on the seeding.
+
+[34] 2026-05-21T19:48:42.770Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Also, if I'm keeping you from your tournament duties, we can break this down later. We aren't changing the ruling at this time, regardless.
+
+[35] 2026-05-21T19:49:32.726Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Here our seeding procedure (it is german, but i think it should be understandable):
+
+[36] 2026-05-21T19:50:51.715Z | None
+a different decklist (even two cards) can have an impact on who to pick for the counter
+
+[37] 2026-05-21T19:51:02.914Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So, bullet point 4, in the examples of DRE-minor, is "A player’s deck and deck list are both legal but don’t match."
+
+Is that not a good description of the situation?
+
+[38] 2026-05-21T19:51:47.900Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+a different decklist (even two cards) can have an impact on who to pick for the counter
+
+[39] 2026-05-21T19:55:07.233Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Correct, but due to the impact it has on the seeding, it was decided to lift it up to major
+
+[40] 2026-05-21T19:56:11.442Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+You're saying that if he had have the correct cards in his deck, his seating would have been different? Even though the deck list would have been identical? (editado)
+jueves, 21 de mayo de 2026, 21:56
+
+[41] 2026-05-21T19:57:04.054Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+If the decklist would have reflected the deck played, the teams may have picked a different counter
+
+[42] 2026-05-21T19:57:33.446Z | None
+That is one thing both teams agreed on
+
+[43] 2026-05-21T19:58:17.373Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Right, but the deck list wouldn't have changed, just the deck itself. Running the wrong cards in the deck could have changed the outcome of the match but that is always true with deck errors?.
+
+[44] 2026-05-21T20:00:39.129Z | LordFisch | Tim [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The compounding issue is that the player did not even know about this error as he gave the correct decklist to his team lead and the team lead accidentally uploaded the wrong one (editado)
+jueves, 21 de mayo de 2026, 22:00
+
+[45] 2026-05-21T20:04:21.075Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So, other games have the concept of which did you intend to play? The list or the deck? Lorcana always treats the list as the source of truth. So I would argue, in this situation, the correct remedy would have been to issue a deck and registration error - minor, and change the deck he was playing to match his list.
+
+Sorry for any wonky grammar, I'm using voice to text while driving. 
+
+Regardless, I think it's probably fine to treat this as major, he wanted to change the list to match his deck, which would result in upgrading it to Major. (editado)
+jueves, 21 de mayo de 2026, 22:39
+
+[46] 2026-05-21T22:20:46.704Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+Currently if we ever need to change the deck list, it's pretty much a DRE-Major.
+
+[47] 2026-05-21T22:35:17.686Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I was speaking in favor of not changing the list.
+
+[48] 2026-05-21T23:31:17.762Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+Oh i know, i didn't want to get into the semantics of it.  If the deck is wrong but the list is legal, match to list, dre-minor, move on.  But if they want to change the list, and generally any time the list is changed, it is a DRE-Major.
+
+[49] 2026-05-24T16:52:03.141Z | tigerfairybread
+Hi there!
+
+Today I played in a tournament and accidentally traded one of my 1-drops before playing Tramp-7. This made it so that Tramp-7 was too expensive to play. I realised this like 5-10 seconds after it happened, because I was zoned out a bit and quite tired at this point. Me trading the 1-drop was still the last action that I did though.
+I asked my opponent if he was fine if I took back the action, and he didn't say "no" directly, but he gave me the feeling that it was innapproriate/not allowed. So I didn't take it back.
+There was a lot on the line in this game, so I understand where he's coming from, but looking back, I think this would've been a valid take-back? As it was the last thing I did? Even though time-wise, I didn't directly call it out and a couple of seconds went by. 
+
+I've been reading back in the chat a bit and couldn't find any concrete ruling (maybe I overlooked it, I'm a bit fried at this point), but is it correct that:
+
+A judge's ruling is final
+,
+But generally, they will always approve a take-back that didn't reveal any new information and only concerns the last "atomic" move that was made?
+,
+So therefore, I could've pushed back and done the takeback? If he made a point of it, a judge would've approved?
+,
+
+I think this was likely to change the outcome of the game and therefore possibly the match.
+
+[50] 2026-05-24T16:52:26.120Z | None
+And thanks for any help in advance!
+
+[51] 2026-05-24T16:53:35.936Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+A take back isn’t down to your opponent you should call a lore guide for this
+
+[52] 2026-05-24T16:54:14.694Z | None
+You can always appeal a judges ruling to the Head Judge but that ruling is final once you’ve spoken to the head judge
+
+[53] 2026-05-24T16:56:22.378Z | tigerfairybread
+Thanks! I should've been more steadfast in this situation. Definitely a good lesson to learn!
+
+[54] 2026-05-24T17:00:48.390Z | level3xfactor [FGC], Etiqueta de servidor: FGCFGCLore Guide
+Hi there!  Today I played in a tournament and accidentally traded one of my 1-drops before playing Tramp-7. This made it so that Tramp-7 was too expensive to play. I realised this like 5-10 seconds after it happened, because I was zoned out a bit and quite tired at this point. Me trading the 1-drop was still the last action that I did though. I asked my opponent if he was fine if I took back the action, and he didn't say "no" directly, but he gave me the feeling that it was innapproriate/not allowed. So I didn't take it back. There was a lot on the line in this game, so I understand where he's coming from, but looking back, I think this would've been a valid take-back? As it was the last thing I did? Even though time-wise, I didn't directly call it out and a couple of seconds went by.   I've been reading back in the chat a bit and couldn't find any concrete ruling (maybe I overlooked it, I'm a bit fried at this point), but is it correct that: A judge's ruling is final
+,
+But generally, they will always approve a take-back that didn't reveal any new information and only concerns the last "atomic" move that was made?
+,
+So therefore, I could've pushed back and done the takeback? If he made a point of it, a judge would've approved?
+,
+ I think this was likely to change the outcome of the game and therefore possibly the match.
+
+[55] 2026-05-24T17:02:51.626Z | tigerfairybread
+No, I ended up not playing the Tramp-7, because he was too expensive after I traded one of my guys
+
+[56] 2026-05-24T17:04:57.248Z | Speedy [LRH], Etiqueta de servidor: LRHLRHAdministrator
+Thanks! I should've been more steadfast in this situation. Definitely a good lesson to learn!
+
+[57] 2026-05-24T17:07:38.912Z | tigerfairybread
+Echoing Beth,  Takebacks and rules disputes should almost never be arbitrated by players.   They have personal bias and investment in the outcome, making either perspective unfair.
+,
+They are less likely to correctly understand the documentation and correct application of it.
+,
+ Lore Guides should be called any time players know something is wrong, think something is wrong, or are uncomfortable. Their entire mandate is to help and be impartial.   Do not worry about whether or not it is a good reason to call a Lore Guide. Let the Lore Guide decide and handle it as needed.
+
+[58] 2026-05-24T17:08:22.749Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+You will never be "in trouble" for making a judge call, no matter what the outcome is.
+
+[59] 2026-05-24T17:09:24.065Z | tigerfairybread
+Out of curiosity: are there any official rulings on take-backs? If so, where can I read about them? I tried looking in the competitive ruling document, but couldn't find anything about it
+
+[60] 2026-05-24T17:11:41.786Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+Out of curiosity: are there any official rulings on take-backs? If so, where can I read about them? I tried looking in the competitive ruling document, but couldn't find anything about it
+
+[61] 2026-05-24T17:11:55.801Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+⁠Disney Lorcana TCG Official⁠ this is currently the best place to find full information on the takeback policy
+
+[62] 2026-05-24T17:12:34.847Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+Ah, beaten with the link
+
+[63] 2026-05-24T17:14:34.781Z | None
+You can also read my breakdown of the previous version of the policy here (not much changed since):
+https://lorelicense.com/policy-discussion/considering-takebacks/
+
+If you're interested in fully digesting it
+
+[64] 2026-05-24T17:44:29.080Z | tigerfairybread
+Awesome! Thank you all so much!
+
+[65] 2026-06-08T13:20:28.555Z | tempusDominum [ⅩⅢ], Etiqueta de servidor: ⅩⅢⅩⅢS1 DLC ATL
+Question that was inspired by my most recent set champs. 
+
+It's game 3, last round before top cut, win-and-in for both players. It's a slog of a YP mirror match, with both players having a decent amount of characters in play. Alex specifically has a Demona Scourge of the Wyvern Clan, as well as 3 cards in hand. Brittany plays Elsa Fifth Spirit to exert Demona, and then challenge something else on board. The turn passes to Alex.
+
+Alex readies all of their characters, including Demona. Neither player catches this mistake. Alex takes their turn, going through various turn actions such as questing, challenging, playing cards, etc. Notably, none of the actions required Demona being ready, or even existing on board. Then, Alex realizes that they made a mistake, and that Demona should not be ready, since they started with 3 cards in hand. Alex calls for a Lore Guide and explains the situation to you.
+
+What would be the error and corrective action in this case?
+
+(In the real scenario, I was Alex, and my opponent caught me readying Demona during the Ready step, before I would have moved to Set and gained lore from my Library. Since we hadn't changed phases yet, I just turned Demona sideways again and thanked my opponent for the heads up, and we both moved on. The question then came up after the tournament as a "what if?") (editado)
+lunes, 8 de junio de 2026, 15:46
+
+[66] 2026-06-08T13:46:06.381Z | The_Stream_Box
+Question that was inspired by my most recent set champs.   It's game 3, last round before top cut, win-and-in for both players. It's a slog of a YP mirror match, with both players having a decent amount of characters in play. Alex specifically has a Demona Scourge of the Wyvern Clan, as well as 3 cards in hand. Brittany plays Elsa Fifth Spirit to exert Demona, and then challenge something else on board. The turn passes to Alex.  Alex readies all of their characters, including Demona. Neither player catches this mistake. Alex takes their turn, going through various turn actions such as questing, challenging, playing cards, etc. Notably, none of the actions required Demona being ready, or even existing on board. Then, Alex realizes that they made a mistake, and that Demona should not be ready, since they started with 3 cards in hand. Alex calls for a Lore Guide and explains the situation to you.  What would be the error and corrective action in this case?  (In the real scenario, I was Alex, and my opponent caught me readying Demona during the Ready step, before I would have moved to Set and gained lore from my Library. Since we hadn't changed phases yet, I just turned Demona sideways again and thanked my opponent for the heads up, and we both moved on. The question then came up after the tournament as a "what if?") (editado)
+lunes, 8 de junio de 2026, 15:46
+
+[67] 2026-06-08T13:36:46.085Z | tempusDominum [ⅩⅢ], Etiqueta de servidor: ⅩⅢⅩⅢS1 DLC ATL
+Ah, I forgot rewinding through multiple actions could be done. I think I was conflating it with takebacks. 
+
+And yeah, definitely, if it was found to be intentional, this wouldn't even be a question 
+
+Thanks!
+
+[68] 2026-06-12T12:03:31.983Z | Hots
+This is the wrong take.  The correct take is to exercise your right as a spectator to call a judge for any game error, no matter who benefits from it.
+
+[69] 2026-06-12T12:23:04.306Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+More importantly than how Bob feels, how do we prevent that spectator from exercising her right to call a judge only for errors beneficial to her friend Alice and not errors beneficial to Bob? 
+
+
+Who is the "we" that you think should prevent this? There are different answers depending on who you are talking about. (editado)
+viernes, 12 de junio de 2026, 14:23
+
+[70] 2026-06-12T12:26:47.102Z | None
+The most obvious one being that Bob is 100% empowered to prevent this, by asking that the friend not be allowed to spectate the match.
+
+[71] 2026-06-12T12:12:29.106Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Right or not, a spectator doesn't have to call a judge. It is a right, not a requirement.  Of course, context matters. Is the match heavily spectated or not? Are many mistakes being committed? Are other spectators calling the judge or discussing doing so?   Suppose that no, this isn't a high-profile streamed match, just a routine first-round matchup between two random players, Alice and Bob, and the only spectator is the friend and ally of Alice. The other player, Bob, is a newcomer and has no friends.   Going by @FateNanoha 's terminology of 'error' and assuming that both players are committing an equal number of errors (along the lines of: exerting 3 ink instead of 2 ink for a Nani when Grandmother Willow is in play, etc.), do you think it is fair for that spectator to exercise her right to call a judge only for Alice's errors -- or selectively so --  and not for Bob's?  Of course, if you're the spectator, you can say, "I would call it out for both players, similarly, regardless friend or not." You can even be completely honest about that. But how does Bob (or the judge) know that?  I understand that not all errors are the same, and I'm not suggesting Bob is also only exerting 3 ink instead of 2 ink for a Nani when Grandmother Willow is in play. He is likely committing different errors. But from Bob's point of view, when both of them are making errors, but only ones beneficial to Alice result in the judge summons, how do you think he feels?  More importantly than how Bob feels, how do we prevent that spectator from exercising her right to call a judge only for errors beneficial to her friend Alice and not errors beneficial to Bob? Anyone can say they'd do it for both (We are all the white knight, the hero, the do-no-wrong protagonist in our own minds), but some people will lie as well to protect their ego, avoid penalty, help their friend, or just claim they are paying more attention to their friend's plays. (editado)
+viernes, 12 de junio de 2026, 14:12
+
+[72] 2026-06-12T12:36:04.064Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+That is for players. Spectators are merely "encouraged" to point out errors.
+
+[73] 2026-06-14T07:42:00.319Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+was called just now about a play correction during a set champ 
+
+and i think i make the right call
+
+player is on the draw and after altering, they had drawn 8 cards
+
+instead of shuffling their hand and redraw, i had the player instead pick one card from their hand at random to be put into the top of the deck and have the game proceed as normal since it seems like the least disruptive way to proceed as fairly as possible
+
+i ruled that since the alter is done, it will not be fair to both players if the player will essentially get a free alter 
+
+and since he is on the draw, he would see the eighth card anyway on his turn (editado)
+domingo, 14 de junio de 2026, 9:42
+
+[74] 2026-06-14T09:31:32.813Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+No need to shuffle the hand and redraw but treat this as a CCE, if both players can identify which one was the last drawn card take this one, else take a card at random from their hand and shuffle that card in the random portion of the deck, which at this point would be their whole deck. And issue CCE Warning to track for potential repetition.
+
+[75] 2026-06-14T23:28:06.446Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+So let’s say a store is running a set champ and not requiring deck lists. 
+
+During the top 8 it is discovered that a player has a 53 card deck. 
+
+Is the remedy match loss?
+
+[76] 2026-06-14T23:29:45.003Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Are they able to locate the missing cards?
+
+[77] 2026-06-14T23:34:30.040Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I don’t think there were missing cards. Unsure. Can ask this came from another event I was not at.
+
+[78] 2026-06-14T23:35:01.355Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I mean, there are 7 cards missing.
+
+[79] 2026-06-14T23:36:04.310Z | None
+At a casual event, we're probably just getting them to add seven cards to the deck, and giving them a warning for D/RE - minor.
+
+[80] 2026-06-14T23:39:23.642Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+So let’s say a store is running a set champ and not requiring deck lists.   During the top 8 it is discovered that a player has a 53 card deck.   Is the remedy match loss?
+
+[81] 2026-06-14T23:43:12.453Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Yeah I was just told they discovered they had 53 cards. I was told no decklists but yeah same post.
+
+[82] 2026-06-15T01:53:00.340Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+No need to shuffle the hand and redraw but treat this as a CCE, if both players can identify which one was the last drawn card take this one, else take a card at random from their hand and shuffle that card in the random portion of the deck, which at this point would be their whole deck. And issue CCE Warning to track for potential repetition.
+
+[83] 2026-06-15T01:53:22.451Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+since both players werent able to identify which was the extra card  wouldnt picking a card at random and shuffle into the deck be too disruptive as both player has altered their hand?  it was why i asked if the player who performed the error was on the draw and decide on the put one card from their hand at random to the top of the deck rather than random portion of the deck  (they woke my ass at midnight for this btw) (editado)lunes, 15 de junio de 2026, 3:53
+
+[84] 2026-06-15T04:06:20.267Z | None
+Happened to me as a player once, I had my pre-Mulligan hand of 7 cards, wanted to keep a ramp, a 4 cost and an inkable and Mulligan away 4 high cost uninkables. Drew 4 more cards and shuffled what I thought were the 4 cards I Mulliganned away in my deck but were actually the 3 I wanted to keep. 
+After shuffling I looked at my starting hand, it was 8 cards including the 4 uninkables I wanted to remove, no ramp and 4 other random cards I did not want.
+The remedy was to shuffle one at random in my deck and it was one of the few inkables I had remaining...  
+I still played the game but very early on I was overvalued and lost.
+
+[85] 2026-06-15T04:09:16.557Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+ah okay, i see
+
+i wonder if i made the right choice by choosing a less disruptive method.  but ultimately i should have follow closer to the guidelines
+
+[86] 2026-06-15T04:25:04.005Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+ah okay, i see  i wonder if i made the right choice by choosing a less disruptive method.  but ultimately i should have follow closer to the guidelines
+
+[87] 2026-06-15T05:17:18.622Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+I'm sitting there trying not to lose and they keep calling me to judge this thing.  I'm like guys... I'm not there to judge lol.  Not during the middle of my match
+
+[88] 2026-06-15T05:18:15.326Z | None
+like you arent suppose to judge when u r in the tournament anyway lol
+
+[89] 2026-06-15T13:36:22.211Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Hey folks! We're in the middle of Set Championship Season, and DLC Indianapolis is this weekend, it's a great time to brush up on your policy knowledge! 
+I have had a wide range of scenarios come up at real events recently, and I figure, why keep all the fun and learning for myself? 
+
+As always, assume the scenario is accuratly presented, and all players are being honest. At a real call, you will always want to investigate for mistaken statements by players, and ill intentions, but if we don't make this assumption in these discussions, every scenario just becomes a cheating investigation. 
+
+You can also assume we are at a Set Champs (competitive level), and you are the head judge of the event.
+
+The first situation up for discussion is a very common type of error: 
+
+You are called to the table, where the active player (Alan) was resolving the activated ability of Junior Woodchuck Guidebook (, 1 , Banish this item -- Draw 2 cards.). They successfully drew their first card, but for the second card, they picked two cards off the top, looked at the second card,  realized what happened, and called you. The seen card and the unseen card above it have been set back on top of the deck when you arrive. 
+
+I think it's uncontroversial to say that this is a Hidden Information Error, Warning, with the remedy of shuffle the seen card into the unknown portion of the deck. 
+
+My question is this: do you instruct them to draw the top card, completing the ability resolution, before or after applying the remedy?
+
+[90] 2026-06-15T13:36:59.947Z | None
+(and the implicit "why?")
+
+[91] 2026-06-15T13:46:30.127Z | None
+SpeedySpeedy ha fijado un mensaje en este canal. Ver todos los mensajes fijados. — 15/6/26, 15:46lunes, 15 de junio de 2026, 15:46
+
+[92] 2026-06-15T14:33:06.218Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+My gut says make them draw before rerandomizing the deck, based on the player feedback I have gotten in similar situations.
+You know the card the player would have drawn is one of those two cards, so imo they should get one of those two.  If you rerandomize first, it lets the player see two cards plus the one they actually draw.
+My players have pointed out to me several times less than politely that this effectively allows the offending player to mulligan the card draw if they don't like what they get the first time.
+
+[93] 2026-06-15T14:43:25.813Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+My position would be that they should not have put the cards back on the deck at all at the point where we are answering the call. The correct card was drawn and should still be drawn. Only the HIE card is going to be returned to the deck - which they have already done, even though they shouldn’t.
+
+[94] 2026-06-15T14:49:43.413Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I misread.  Didn't notice in the hypothetical that they put all the cards back.  >.<
+
+[95] 2026-06-15T15:10:37.076Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The two cards were picked up and placed back down as a unit. The top card was not seen.
+
+[96] 2026-06-15T15:22:21.114Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+My gut says make them draw before rerandomizing the deck, based on the player feedback I have gotten in similar situations.    You know the card the player would have drawn is one of those two cards, so imo they should get one of those two.  If you rerandomize first, it lets the player see two cards plus the one they actually draw.    My players have pointed out to me several times less than politely that this effectively allows the offending player to mulligan the card draw if they don't like what they get the first time.
+
+[97] 2026-06-15T15:32:29.861Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+This does get to what I consider the meat of the matter. What we want is to minimize possible advantage to a theoretical bad actor. That is not to say that we suspect this specific player of trying to get an advantage, but that the remedy, when applied uniformly, should make it less likely that a player could get an advantage from it.   You've identified one possible route to advantage, a player who doesn't like their draw could call a judge, claiming to have seen an extra card, in order to get a redraw. I'm with Googly on this, I wish the cards had not been returned to the top of the deck, since the player would have found it difficult to change how many cards they picked up and placed separately from the deck.  I will say that in the actual call, I confirmed that the player picked up the cards and placed them back without letting them touch any other cards, and he did know the identity of the second card in the deck.  So I think calling a judge to get a redraw is unlikely, but never impossible.  On the other hand, what is a possible route to advantage if we have them draw the card first?
+
+[98] 2026-06-15T15:36:49.215Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+There is a very important time in a judge call, between when a judge is called, and when a judge arrives, where the opponent is probably looking around at where a judge is coming from. It is startlingly easy to swap some cards around in that time, especially if they are already in your hand. 
+Personally, I find it more compelling that a player could use that time to shuffle the two cards in question, than that they could have drawn a second card after noticing that they don't like their draw.
+
+[99] 2026-06-15T15:40:22.520Z | None
+As with every call, judgement is necessary to determine how to apply the mandated remedy. We will never have explicit instructions covering every possibility. The important thing isn't even necessarily to select the "correct" option, as I believe they are both very reasonable. The important thing is to consider both of them, and the reasons each can be better.
+
+[100] 2026-06-15T15:43:00.919Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Notably, If the player had done the preferred thing, of setting the cards separate to any other cards face down on the table, instead of back on top of the deck, I would be more inclined to shuffle both in, as swapping two cards alone without being noticed is easier than picking them up from the deck, or doing it before laying them down.
+
+[101] 2026-06-15T15:44:06.785Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Players almost always put mis drawn cards back on the deck though, there is a psychological need to "fix" things. If you're lucky, they didn't put them in their hand first.
+
+[102] 2026-06-15T15:58:47.984Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+if both players can confirmed the top 2 cards were the 2 cards that was drawn as the second, i m incline to just have the players shuffle and cut and have the offending player to draw the 1 
+
+but then what if the players cannot agree the two cards are not what the player drawn
+
+[103] 2026-06-15T16:16:16.962Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+Not sure why this wouldn't be a CCE?
+
+Effect instructs you to draw 2, you accidentally drew 3.  Is it because we're saying the cards weren't fully "added" to the hand at that point?
+
+Either way, since we can identify the cards that BELONG in the hand (aka the one they drew, and the top card), we just shuffle the seen card back to the random portion of the deck.
+
+[104] 2026-06-15T16:36:33.492Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+They didn't draw the third card. They looked at it when attempting to draw. The important distinction is that the cards never touched the hand. (editado)lunes, 15 de junio de 2026, 18:36
+
+[105] 2026-06-15T16:39:11.872Z | None
+The question is, how confident are you that the top card of the deck is the "correct" card? It's fairly simple to rearrange two cards before placing them down on the deck.
+
+[106] 2026-06-15T16:41:10.906Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+If both players agree that the cards are the cards.  You could investigate and ask the player which card he saw.  If we can identify the correct card to draw, then I would be adding that to the hand while shuffling the seen card back to the random portion of the deck.
+
+[107] 2026-06-15T16:41:35.716Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Only one player saw the face of a card.
+
+[108] 2026-06-15T16:42:59.869Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+I understand that.  And if I ask the player what did he see, and he tells me he saw exactly one of the two cards when I check them.  And both players agree that he only saw the face of the two card stack..
+
+[109] 2026-06-15T16:43:46.814Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Then the opponent cannot confirm that the cards on top of the deck are the seen cards, much less their order, imo.
+
+[110] 2026-06-15T16:45:28.125Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+It's all part of the investigation is my point.  If we get to a point where players can agree and that the stack was set up as it was, then we can proceed.
+
+[111] 2026-06-15T16:46:27.083Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I understand. I just don't know how we could get to that point, if the opponent cannot know how the stack was set up.
+
+[112] 2026-06-16T05:13:02.708Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+@phil one of my locals came up to me today telling me you could have said something. i had to explain to them you cant judge and play because theres a conflict of interest
+
+and i had to explain to them no, doesnt matter if u dont know the players. its tournament rules
+
+[113] 2026-06-16T05:13:23.067Z | None
+one of them had the nerve to say if one of ur friend asked, you would have said something
+
+[114] 2026-06-16T05:13:46.092Z | None
+my head hurts
+
+[115] 2026-06-16T05:13:48.900Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+I would've been happy to help.  If I weren't in the middle of a match that I needed to win.
+
+[116] 2026-06-16T05:13:57.732Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+i know thats what i explained
+
+[117] 2026-06-16T05:14:16.845Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+And I think it's hella disrespectful for them to expect me to stop mid match to resolve something, lol
+
+[118] 2026-06-16T05:14:22.907Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+i do too
+
+[119] 2026-06-16T05:14:26.653Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+I took like 2 judge calls when my matches were done...
+
+[120] 2026-06-16T05:14:42.659Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+夜曲 [LRH], Etiqueta de servidor: LRHLRH — 16/6/26, 7:14martes, 16 de junio de 2026, 7:14
+
+[121] 2026-06-16T05:14:52.385Z | None
+i should have stay after dropping
+
+[122] 2026-06-16T05:15:44.555Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+tell them if they have problem to please message me, i'll be happy to discuss with them.
+
+[123] 2026-06-16T05:15:55.005Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+nah they should be fine now
+
+[124] 2026-06-16T05:16:03.915Z | None
+i was just annoyed thats all
+
+[125] 2026-06-16T17:24:35.036Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Alrighty, everybody ready for a trickier one?
+Same stipulations.
+
+Active player (Alice) activates Kida - Creative Thinker's KEY TO THE PUZZLE ability, but instead of putting one of the two cards into their inkwell, and leaving the other on top of her deck, she puts one on the bottom of the deck and the other in her hand. (She was thinking about the Kida - Crystal Scion in her hand) She realizes what has happened and calls you to the table. She cannot remember the card she bottomed but she is "pretty sure" that's what she did, and her opponent "thinks she put it on the top or bottom". She also says that the Let it Go in her hand is the card she drew, but "should have" left on top, she wanted that card and not the other. She has five+ cards currently in her hand, including the Let it Go.
+
+What is the Error, Corrective Action, and remedy you would apply here?
+
+[126] 2026-06-16T17:28:15.358Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Play Correction quizzes would actually be a neat addition to the server.
+
+[127] 2026-06-16T17:28:26.435Z | None
+Policy is way harder than rules for me.
+
+[128] 2026-06-16T17:29:58.142Z | Ellie [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Play Correction quizzes would actually be a neat addition to the server.
+
+[129] 2026-06-16T17:30:29.760Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+We're just waiting for the doc to get updated, any season now
+
+[130] 2026-06-16T17:30:50.121Z | Ellie [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Policy is also easier to be had as a discussion rather than a multiple choice quiz, so Jacob leads some discussions in here for that.
+
+[131] 2026-06-16T17:32:08.298Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The meat of a policy question is rarely just a simple answer, it's the "why" that really matters.
+
+[132] 2026-06-16T17:32:27.025Z | pupulesurfer / I.H.C.Moderator
+I'm seeing two errors - Too many cards in hand and a rule error for not resolving the card properly. I believe the guidance is to assess the error that caused the situation to arrise, which would be the General Rules Error for improperly resolving the ability. Is this the right track?
+
+[133] 2026-06-16T17:34:40.887Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+That is certainly the track I started down when this happened in my semifinals match last Saturday.  Whether I decided to follow it to the end of the line or take a detour is a spoiler though.
+
+[134] 2026-06-16T17:34:46.920Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I would want to ask first what turn it is and double check that Alice's ink and hand are what would be expected from the series of events the players are describing.
+
+[135] 2026-06-16T17:35:04.627Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+(and I'm not certain I got this one correct)
+
+[136] 2026-06-16T17:35:34.252Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I'm seeing two errors - Too many cards in hand and a rule error for not resolving the card properly. I believe the guidance is to assess the error that caused the situation to arrise, which would be the General Rules Error for improperly resolving the ability. Is this the right track?
+
+[137] 2026-06-16T17:36:23.704Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I would want to ask first what turn it is and double check that Alice's ink and hand are what would be expected from the series of events the players are describing.
+
+[138] 2026-06-16T17:38:36.374Z | pupulesurfer / I.H.C.Moderator
+I was thinking we had a CCE for cards in hand, and a CCE for cards in inkwell
+
+[139] 2026-06-16T17:39:41.354Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+If everything seems legit, I would pull the bottom card of the deck, but it in the inkwell, and return the let it go to the top of the deck.  She should know that information since it's a scry ability.
+
+The root cause of the issue is the GRE for executing the card incorrectly.  The CCE for hand/inkwell are secondary to that.
+
+[140] 2026-06-16T17:40:19.582Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Is that the correct remedy for a GRE?
+
+[141] 2026-06-16T17:40:37.745Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+There is no way I would trust the player that the Let It Go was the card, unless the opponent can verify 100% that the card is the one, which I would highly doubt in a situation where the player mis-resolved their ability and then caught it themselve
+
+[142] 2026-06-16T17:41:04.602Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+It restores the game state to what it should be, which is the end goal of all corrections, yeah?
+
+[143] 2026-06-16T17:41:10.538Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+It restores the game state to what it should be, which is the end goal of all corrections, yeah?
+
+[144] 2026-06-16T17:41:49.539Z | None
+I have to publish that writeup on the goals of play correction. I keep wanting to refer to it.
+
+[145] 2026-06-16T17:43:56.322Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Hi, I am Alice, I am a dirty cheater, I activated Kida and saw the Be Prep that i needed to survive, I then resolve Kida in some stupid way that puts the Be Prep in my hand, and don't really care what I do with the other card.
+
+Then I go oh crap I did that wrong to my opponent and call over a judge on myself.  I explain to the judge what I just did and that I had kept a Let It Go which was already in my hand.
+
+If the judge puts the Let it Go back, I just swapped it for a Be Prep, all while looking liek an idiot and not a cheater.
+Note judges will investigate for cheating as well.
+
+[146] 2026-06-16T17:48:03.646Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Short version:
+The goals of Correcting Errors are primarily to mitigate advantage and preserve tournament integrity, in that order.
+You cannot, intrinsically, undo most errors. There has already been irrecoverable changes, in players minds, and often, to the game state. 
+Therefore, we err on the side of removing possible advantages that could be gained by a theoretical bad actor, sometimes explicitly changing the game state further to do so.
+
+[147] 2026-06-16T17:50:12.734Z | None
+As Danxor illustrated, it is theoretically possible, if Alice were a bad actor, for her to gain an advantage from simply taking her word at the fix. 
+This isn't to say we think Alice is cheating, but we are always applying remedies in such a way that it disadvantages possible cheaters.
+
+[148] 2026-06-16T17:56:25.886Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+In that case, if the hand size and inkwell are what we expect it to be from the scenario, randomize the hand and return it to the top of the deck without revealing it to either player.  I don't think in this instance since both players agree it was bottomed instead of put in the inkwell, that would address that half of the ability.
+
+There is a world where a particularly deft card manipulator might put it somewhere else in the deck or slip another card to bottom, but the return on that sort of cheating would be minimal with the cards we currently have.
+
+I still think GRE is the warning here, since but for the GRE, the CCE never happens.
+
+[149] 2026-06-16T17:57:49.885Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+This is getting closer, for sure. I will point out, both players do not agree that a card was bottomed.
+
+[150] 2026-06-16T17:58:41.936Z | None
+Alice says that they bottomed a card, but cannot remember what it was. Oscar thinks Alice either bottomed or topped a card.
+
+[151] 2026-06-16T17:58:45.830Z | pupulesurfer / I.H.C.Moderator
+Context: If the root of the error isn’t one of the previous three corrective actions, then it falls into General Rule Error. This error is broad in definition and scope, and care should be taken to make sure the remedy and corrective actions are consistent
+
+Ah, here is what I was thinking of under GRE. The root of the error of having too many cards/too few cards in a place wasn't because we drew too many or inked too few, it was because we incorrectly resolved an ability so it should fall into GRE here.
+
+If all things in the investigation determine I cannot cite Cheating, my inclination is to cite General Rule Error, Corrective Action Warning at competitive (caution if casual). 
+
+Remedy:
+
+Either rewind the game to the point of the error or leave the game as is (1.2 Rewinding a Game). Choosing to rewind must be done with the approval of the Head Judge. If leaving the game as is, be sure to handle anything that is currently illegal (such as a character with damage equal to or greater than its Willpower that hasn’t been banished) before instructing the players to continue playing.
+
+If rewinding through a card draw and the identity of the drawn card wasn’t known to both players, a random card should be sent back to the deck. Because of the amount of information that may have been exchanged from the time of the error to the present game state, rewinding should be considered only if leaving the game as is would be substantially worse. If rewinding the game is likely to result in significantly different decisions being made (such as the introduction of new random elements), this is strong evidence that a rewind shouldn’t be performed. A good rewind should result in a game state where the gained information makes no difference and the play decisions won’t be impacted. 
+
+Remedy, with approval of HJ if I wasn't HJ, I would like to apply would involve a rewind because I think leaving the game as is would have been worse:
+
+0) explain what is happening before performing any portion of the remedy so players clearly understand
+
+1) determine if there are other known cards on either the top or bottom of the deck. I would need to have these set aside once we move through the rewind as they should not be randomized within the deck.
+
+2) once those cards were set aside, a random card from Alice's hand would be placed back into the random portion of the deck along with the bottom most card if it was not one of the confirmed known cards on the bottom of the deck.
+
+3) Randomize the deck and replace known cards that were set aside, if any.
+
+4) Instruct Alice to resolve the effect again, properly, now that the game has been rewound to the point of the error.
+
+[152] 2026-06-16T18:02:05.964Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+A few points to that:
+1- why are we randomizing the deck? When rewinding through a draw, we return a random card to the top of the deck.
+2-what is the criteria for rewinding vs leaving as-is?
+
+[153] 2026-06-16T18:07:52.932Z | pupulesurfer / I.H.C.Moderator
+1- why are we randomizing the deck? When rewinding through a draw, we return a random card to the top of the deck.
+
+I interpreted the line 'sent back to the deck' to mean a random part of the deck since it didn't state the top of the deck. Is that incorrect? Additionally, the card that was placed back during resolution could not be determined so leaving it potentially on top would have been an advantage. Randomizing would mitigate that advantage.
+
+2-what is the criteria for rewinding vs leaving as-is?
+
+If leaving as is would be significantly worse, you should assess if a rewind is better. I felt it worse that a card was added to the hand early and a card they may have wanted to keep instead of ink was potentially placed back on top of the deck. So I felt the rewind would have been the better choice
+
+[154] 2026-06-16T18:08:27.988Z | None
+I could see your question 1 being a randomize deck and then place random card from hand on top as well
+
+[155] 2026-06-16T18:09:22.476Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+1 was an open question for a while, but we did get an answer from Kyle. 
+⁠Disney Lorcana TCG Official⁠
+
+[156] 2026-06-16T18:11:09.738Z | None
+2 There is a second criteria for allowing a rewind. 
+If rewinding the game is likely to result in significantly different decisions being made (such as the introduction of new random elements), this is strong evidence that a rewind shouldn’t be performed. A good rewind should result in a game state where the gained information makes no difference and the play decisions won’t be impacted.
+
+[157] 2026-06-16T18:11:50.230Z | pupulesurfer / I.H.C.Moderator
+1 was an open question for a while, but we did get an answer from Kyle.  ⁠Disney Lorcana TCG Official⁠
+
+[158] 2026-06-16T18:12:59.655Z | None
+so if randomizing the deck were part of the remedy here, the random card from hand would be placed on top after the fact?
+
+[159] 2026-06-16T18:14:06.109Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+It depends, generally, randomization isn't going to be part of a rewind, unless you're rewinding a shuffle.
+
+[160] 2026-06-16T18:15:06.394Z | pupulesurfer / I.H.C.Moderator
+2 There is a second criteria for allowing a rewind.  > If rewinding the game is likely to result in significantly different decisions being made (such as the introduction of new random elements), this is strong evidence that a rewind shouldn’t be performed. A good rewind should result in a game state where the gained information makes no difference and the play decisions won’t be impacted.
+
+[161] 2026-06-16T18:16:29.273Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So, we ask ourselves, what decisions were made the first time through the actions we're reversing?
+
+[162] 2026-06-16T18:18:56.985Z | None
+Imo, Alice looked at the top two cards, choose one to keep around, and one to get rid of. The fact that we're sending those to different places the next time, doesn't change the core of the decision.
+
+[163] 2026-06-16T18:19:48.607Z | None
+Does that make sense? Again, I'm open to the possibility I made a mistake here.
+
+[164] 2026-06-16T18:21:49.697Z | pupulesurfer / I.H.C.Moderator
+It sounds like you and I agree? lol
+
+You say the core of her decision does not change, one card to get rid of (bottom or ink) and one to keep (hand or top of deck). So it appears that a rewind would be 'okay' since it wouldn't result in a drastically different decision being made?
+
+I may be misunderstanding what you are saying
+
+[165] 2026-06-16T18:25:05.341Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So, are they likely to choose a different card to keep the second time?
+
+[166] 2026-06-16T18:27:19.723Z | pupulesurfer / I.H.C.Moderator
+So, are they likely to choose a different card to keep the second time?
+
+[167] 2026-06-16T18:27:26.327Z | None
+sorry lol
+
+[168] 2026-06-16T18:27:54.833Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Sorry. I'm probably not being clear.
+
+[169] 2026-06-16T18:28:16.693Z | pupulesurfer / I.H.C.Moderator
+wheee - text conversation wins again!
+
+[170] 2026-06-16T18:31:55.497Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+My thoughts, less socratically:
+Rewinding means that we put a random card, probably not the let it go that they most likely drew, on top, then they get to choose to keep that card on top, or ink it, and the same for the next, one deeper card. 
+This is essentially guaranteeing that they will make a new, different decision, because they are looking at different cards, they can't make the same decision.
+
+[171] 2026-06-16T18:34:38.832Z | None
+(this is the point in the call where I pulled out my PCG, more to have something to look at while I thought about the situation than anything, and told the players "ok folks, this is a little complicated, so I want to make sure we get it right, we aren't even in a timed round, so I'm going to take a minute to double check here.")
+
+[172] 2026-06-16T18:36:46.473Z | pupulesurfer / I.H.C.Moderator
+My thoughts, less socratically: Rewinding means that we put a random card, probably not the let it go that they most likely drew, on top, then they get to choose to keep that card on top, or ink it, and the same for the next, one deeper card.  This is essentially guaranteeing that they will make a new, different decision, because they are looking at different cards, they can't make the same decision.
+
+[173] 2026-06-16T18:37:46.211Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Rewinding seems to be not ok. And leaving the game as-is is worse, yes.
+
+[174] 2026-06-16T18:38:44.451Z | pupulesurfer / I.H.C.Moderator
+This is where we DQ everyone and go get DQ?
+for legal reasons this is a joke
+
+[175] 2026-06-16T18:39:38.544Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+When every station on our track sucks, it's worth checking to see if we're on the right train.
+
+[176] 2026-06-16T18:40:54.883Z | None
+2.4 General Rule Error
+Definition: A player commits an in-game rule violation that doesn’t fall under Hidden Information Errors or Card Count Errors.
+
+2.3 Card Count Error
+Definition: A player has an incorrect number of cards in their hand or inkwell. (editado)martes, 16 de junio de 2026, 20:44
+
+[177] 2026-06-16T18:42:33.174Z | None
+Is the root of this a GRE? That is, was there a rule violation made, other than putting the wrong number of cards in the hand or inkwell?
+
+[178] 2026-06-16T18:43:44.772Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Is the root of this a GRE? That is, was there a rule violation made, other than putting the wrong number of cards in the hand or inkwell?
+
+[179] 2026-06-16T18:45:06.068Z | pupulesurfer / I.H.C.Moderator
+Is the root of this a GRE? That is, was there a rule violation made, other than putting the wrong number of cards in the hand or inkwell?
+
+[180] 2026-06-16T18:45:49.640Z | pupulesurfer / I.H.C.Moderator
+Resolving Friends on the Other Side to draw 3 is resolving it improperly but is still a CCE
+
+[181] 2026-06-16T18:46:19.745Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+Resolving Friends on the Other Side to draw 3 is resolving it improperly but is still a CCE
+
+[182] 2026-06-16T18:46:51.478Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+That is what I came to. The definition that got me is the definition of GRE. We think of it as "oh, resolving an effect incorrectly is a GRE." But that isn't what GRE says.
+
+[183] 2026-06-16T18:47:46.022Z | pupulesurfer / I.H.C.Moderator
+...is it?
+
+[184] 2026-06-16T18:49:29.729Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+A GRE, definitionally, has to be an error that doesn't fall under HIE or CCE. So what's the error that doesn't fit the definition of CCE?
+
+[185] 2026-06-16T18:49:57.567Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+Alrighty, everybody ready for a trickier one? Same stipulations.  Active player (Alice) activates Kida - Creative Thinker's KEY TO THE PUZZLE ability, but instead of putting one of the two cards into their inkwell, and leaving the other on top of her deck, she puts one on the bottom of the deck and the other in her hand. (She was thinking about the Kida - Crystal Scion in her hand) She realizes what has happened and calls you to the table. She cannot remember the card she bottomed but she is "pretty sure" that's what she did, and her opponent "thinks she put it on the top or bottom". She also says that the Let it Go in her hand is the card she drew, but "should have" left on top, she wanted that card and not the other. She has five+ cards currently in her hand, including the Let it Go.  What is the Error, Corrective Action, and remedy you would apply here?
+
+[186] 2026-06-16T18:49:58.010Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Genuine question, not Socrates.
+
+[187] 2026-06-16T18:50:47.976Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+this would be consider miscount resources and general error no?  my idea for a fix would be putting the top card of the deck to the ink well and let it go to the top of the deck  since we dont know if the plyer put the card to the top or bottom and the only thing we know is she wanted to put the let it go to the top, it would be safer and less disruptive to just put the top card of the deck to the inkwell and place let it go to the top deck
+
+[188] 2026-06-16T18:51:05.012Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+I'ma let you catch up on the discussion before answering that.
+
+[189] 2026-06-16T18:51:22.086Z | None
+educate me senpai (editado)martes, 16 de junio de 2026, 20:51
+
+[190] 2026-06-16T18:51:39.864Z | pupulesurfer / I.H.C.Moderator
+I'll take some time to let my subconscious noodle and let others take their shots at it. Thanks Jacob!
+
+[191] 2026-06-16T18:51:27.667Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+educate me senpai (editado)martes, 16 de junio de 2026, 20:51
+
+[192] 2026-06-16T18:52:11.670Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+i just got there
+
+[193] 2026-06-16T18:52:17.650Z | None
+i m on two devices
+
+[194] 2026-06-16T18:52:29.673Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+'trust' is the wrong word. We can't take her word for it.
+
+[195] 2026-06-16T18:53:44.101Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+A GRE, definitionally, has to be an error that doesn't fall under HIE or CCE. So what's the error that doesn't fit the definition of CCE?
+
+[196] 2026-06-16T18:55:06.581Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Technically, the error is the thing that they did wrong. But the thing we're trying to determine is what Category that error goes in.
+
+[197] 2026-06-16T18:56:08.895Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+Technically, the error is the thing that they did wrong. But the thing we're trying to determine is what Category that error goes in.
+
+[198] 2026-06-16T18:56:26.101Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+why not both
+
+[199] 2026-06-16T18:56:59.818Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+We categorize by what category definition it fits. Some of which refer to cause, and some to effect.
+
+[200] 2026-06-16T18:57:07.820Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I'm just going by work rules here, but the infraction is the act committed, not necessarily the result
+
+[201] 2026-06-16T18:57:40.311Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The Category definitions, I believe, are the source of identity.
+
+[202] 2026-06-16T19:04:05.320Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+okay fully caught up
+
+in this case it wouldnt be a hidden information error no?
+with kida they were suppose to see the top two cards but they resolves kidas ability wrong. 
+
+wouldnt we look at the results as a general rule error rather than the cause?
+
+[203] 2026-06-16T19:06:49.411Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+This is certainly not a HIE. Alice did not see any cards she was not supposed to see.
+
+[204] 2026-06-16T19:08:20.576Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+thats what i said
+
+[205] 2026-06-16T19:08:23.928Z | None
+[21:08] martes, 16 de junio de 2026, 21:08
+
+[206] 2026-06-16T19:09:06.102Z | None
+we should just call it irreparable and give alice a game loss
+
+[207] 2026-06-16T19:09:11.872Z | None
+(joking)
+
+[208] 2026-06-16T19:12:10.795Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+we should just call it irreparable and give alice a game loss
+
+[209] 2026-06-16T19:13:06.584Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+@夜曲 [LRH], Etiqueta de servidor: LRHLRHJacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide — 16/6/26, 21:13martes, 16 de junio de 2026, 21:13How do you feel about CCE here?
+
+[210] 2026-06-16T19:42:50.883Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+card count error?  idk if it fits
+
+[211] 2026-06-16T19:44:20.575Z | None
+actually maybe it does
+
+[212] 2026-06-16T19:44:38.016Z | None
+because it does fall to the category of one extra card that wasnt suppose to be there
+
+[213] 2026-06-16T19:46:03.201Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So, we've got a card in the hand that isn't supposed to be there, and there is a card missing from the inkwell, yeah?
+
+[214] 2026-06-16T19:48:44.161Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+yes
+
+[215] 2026-06-16T19:49:21.284Z | None
+and we cannot take alice word for it for her having a let it go that should be placed on top
+
+however, we can be certain one of the cards in hand should be the top of the deck (editado)martes, 16 de junio de 2026, 21:50
+
+[216] 2026-06-16T19:49:39.831Z | None
+and we dont know if the other card was send to the top or bottom (editado)martes, 16 de junio de 2026, 21:49
+
+[217] 2026-06-16T19:53:35.798Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So, if we are assigning a CCE - Warning for this...
+What is the Remedy?
+
+[218] 2026-06-16T19:59:33.275Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+make up the difference
+
+since we know one of the cards is suppose to be at the top of the deck, my suggested remedy would be choosing between the current top and bottom most card at random to go into the inkwell, the remaining card will be randomize into the deck and then one card at random will be placed from hand at random to the top of the deck
+
+[219] 2026-06-16T19:59:54.535Z | None
+my issue with this is it does potentially change the decisions made for that turn
+
+[220] 2026-06-16T20:00:41.185Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Is that the prescribed Remedy from the PCG, or are you trying to fix things as best you can?
+
+[221] 2026-06-16T20:00:48.932Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+both
+
+[222] 2026-06-16T20:04:45.971Z | None
+the player does have too many cards in hand.  we cannot take the players word at face value, but we do know one of those cards does belong to the top of the deck, which the pcg does suggest to randomize and placed back into the deck.  placing back to the top of the deck is suggested since it minimize disruption to the rest of the deck
+
+the other thing was both player cannot agree on if a card was placed to the top or bottom of the deck, but we do know one of those card does belong to the inkwell.  and since the identity of the card is only identifiable by one party so randomizing the two would not allow the player to learn the identity of the card placed but will still be a fix to the missing ink (which is the pcg suggestion) with minimal change to what remains in the deck (editado)martes, 16 de junio de 2026, 22:05
+
+[223] 2026-06-16T20:05:41.841Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Ok, so paragraph 2 and 3 of this, yeah?
+
+[224] 2026-06-16T20:05:48.431Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+yes
+
+[225] 2026-06-16T20:06:10.790Z | None
+but instead of randomizing from deck, i m suggesting something more controlled
+
+[226] 2026-06-16T20:06:57.660Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Why are you choosing to deviate?
+
+[227] 2026-06-16T20:09:18.824Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+the kidas effect was a legal trigger that was resolve incorrectly.  i think to follow pcg fully would allow for a different choice to be made as others suggested which i think goes against the spirit of play corrections which is to ensure the game state returns into something least disruptive and minimize changes in the choice the player makes
+
+[228] 2026-06-16T20:09:32.099Z | None
+something like that
+
+[229] 2026-06-16T20:10:14.886Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I want to dig into that, but I have to drive now. I'll be home in, like, an hour.
+
+[230] 2026-06-16T20:10:24.047Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+okay, i should still be on
+
+[231] 2026-06-16T20:11:20.712Z | None
+playing wow since maintenance ended early
+
+[232] 2026-06-16T20:47:21.026Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I read the whole conversation, here's my take: 
+I would have ruled it as CCE even if there's technically 2 occurrences of it.
+
+I would only issue 1 Warning but fix both errors.
+
+First put the top card of the deck into the inkwell exerted, there are very few cases where it would make a difference if this card was actually supposed to come from the top or the bottom and that only adds one potential unknown ink for the player who committed the error.
+About potential abuse here, if the player needed both cards seen, put the card he wanted to draw later on the top and lied that they put it on the bottom, they would lose the advantage to draw that card.
+
+Second I would select a card at random from the players hand, after putting aside cards that their opponent knew were in their hand before, like from a previously played Ursula and put it back to the deck. The direct way would be to shuffle it in the random portion of the deck, at this time considering the other bottomed card as part of known cards on the bottom.
+There's often situations where the number of known cards on the bottom can't be absolutely known, each played Vision would put a fixed number of them but a resolved UTS 5 turns ago could be hard to trace back, I would then over evaluate the size of the known part of the deck to make sure I don't shuffle in the top card of the non random part of the deck which could be important, this is why I would count the card as being actually bottomed here even if I considered it not to be the case for the card that goes into the inkwell.
+
+If I were HJ, I would think about the option to deviate to put it on the top without shuffling because after resolving Kida's effect the player is supposed to know the top card of the deck and after their next draw the game state would end closer to what it should have been if the error was not committed, either the correct card was put back on the top and they draw it or another card was and the set of card in their hand ends up the same. (editado)martes, 16 de junio de 2026, 23:14
+
+[233] 2026-06-16T21:14:07.405Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+I read the whole conversation, here's my take:  I would have ruled it as CCE even if there's technically 2 occurrences of it.  I would only issue 1 Warning but fix both errors.  First put the top card of the deck into the inkwell exerted, there are very few cases where it would make a difference if this card was actually supposed to come from the top or the bottom and that only adds one potential unknown ink for the player who committed the error. About potential abuse here, if the player needed both cards seen, put the card he wanted to draw later on the top and lied that they put it on the bottom, they would lose the advantage to draw that card.  Second I would select a card at random from the players hand, after putting aside cards that their opponent knew were in their hand before, like from a previously played Ursula and put it back to the deck. The direct way would be to shuffle it in the random portion of the deck, at this time considering the other bottomed card as part of known cards on the bottom. There's often situations where the number of known cards on the bottom can't be absolutely known, each played Vision would put a fixed number of them but a resolved UTS 5 turns ago could be hard to trace back, I would then over evaluate the size of the known part of the deck to make sure I don't shuffle in the top card of the non random part of the deck which could be important, this is why I would count the card as being actually bottomed here even if I considered it not to be the case for the card that goes into the inkwell.  If I were HJ, I would think about the option to deviate to put it on the top without shuffling because after resolving Kida's effect the player is supposed to know the top card of the deck and after their next draw the game state would end closer to what it should have been if the error was not committed, either the correct card was put back on the top and they draw it or another card was and the set of card in their hand ends up the same. (editado)martes, 16 de junio de 2026, 23:14
+
+[234] 2026-06-16T21:06:40.445Z | pupulesurfer / I.H.C.Moderator
+I read it as rule one of the two CCEs out since we can't apply 2 for a single occurance (not 2x CCE Warning, just 1x Warning given) (editado)martes, 16 de junio de 2026, 23:07
+
+[235] 2026-06-16T21:06:44.711Z | None
+lol
+
+[236] 2026-06-16T21:14:33.172Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Maybe a colloquial translation issue, but “rule out” means “determine not to be the case”. I think “rule as” would be more appropriate.
+
+[237] 2026-06-16T21:16:07.760Z | pupulesurfer / I.H.C.Moderator
+well dang, i don't translate well haha
+
+[238] 2026-06-16T21:46:02.512Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+For the record, I read "an incorrect number of cards in their hand or inkwell." As being an inclusive 'or'. And wouldn't consider this to be two separate errors.
+
+[239] 2026-06-16T22:06:19.184Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+the kidas effect was a legal trigger that was resolve incorrectly.  i think to follow pcg fully would allow for a different choice to be made as others suggested which i think goes against the spirit of play corrections which is to ensure the game state returns into something least disruptive and minimize changes in the choice the player makes
+
+[240] 2026-06-16T22:35:53.244Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+So. I'm going to go back to an earlier point.  The spirit of play correction is not to attempt to return the game to its 'correct' state. Sometimes the remedy will move towards that, but that is not the ultimate goal. The goal is to minimize advantage. Notably, only a rewind is returning the game to a prior state. In any remedy that does not include a rewind, we are not attempting to return the game to the way it was. Non-rewind remedies are performed 'in-place'. We are changing from the current, erroneous state, to a less advantageous, but still erroneous state. This movement is advancing the game (or, maybe a lateral movement, depending on how you look at it). It is not taking it back to where it was.   So, when we perform the remedy for CCE, in this case, moving a card from the player's hand to the deck, and from the deck to the inkwell, what those cards "would have been" or where they "should have" come from is, IMO, irrelevant.
+
+[241] 2026-06-16T23:37:50.135Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Without a significant and exceptional reason, we should follow the remedy as it is prescribed in the PCG.
+
+[242] 2026-06-17T16:55:52.419Z | pupulesurfer / I.H.C.Moderator
+Without a significant and exceptional reason, we should follow the remedy as it is prescribed in the PCG.
+
+[243] 2026-06-17T17:07:07.640Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Coming back  So, we have what we feel is that CCE is better than GRE because while we didn't resolve the effect properly, the effect was only cards moving to wrong places creating too many/too few cards in various zones. Had resolving the ability been something akin to 'Gain 1 lore. Draw 1 card' and we did not change our lore by +1, that would have been more GRE. We didn't resolve the effect properly and the lack of gaining lore doesn't fall into any other category far as I can tell. Is that accurate?  If CCE is the better choice, that would involve:  1) determine which cards in hand can both players confirm belong there and set aside 2) randomize unconfirmed cards and take one random card out of the hand or take last unconfirmed card 3) determine what cards are known to be on top and bottom of the deck and remove those 4) add the card removed from hand to the deck and shuffle the deck per the Remedy 5) add a random card from the deck to the inkwell without any player knowing its identity per the Remedy  If that is true, then does Alice get to look at the new top card since they would have seen it if they had resolved it properly?  I'll say it now, this all feels way more messy and worse than handling as a GRE but that is a personal opinion. I do not know if there really is an objective view of the scenario...
+
+[244] 2026-06-17T17:23:12.875Z | pupulesurfer / I.H.C.Moderator
+Yes. Notably, GRE is not defined as being for when an effect is resolved incorrectly. It's a catch all.
+
+Sure sure, I was trying to equate it directly to why I thought it qualified as a GRE before and what an example of that would be. Catch all I do understand 
+
+No. There is no part of the remedy that gives Alice knowledge of her next draw.
+
+Yeah, I knew it wasn't part of the Remedy for CCE but didn't know if Alice was then allowed to resolve a portion of it properly. So basically Alice wasted much of the ability.
+
+The goal of play correction is not to repair the game state.
+
+And this is why it would help to have a Lore Guide/Judge program because releasing a document and saying 'here, use this' without this specific context or knowledge or training is detrimental to its application. I've seen you say it or something similar many times and I certainly try to remember that. But my life experience is very much opposite that mantra and something I need to work harder at.
+
+Thanks for the conversation and lessons, it was very helpful!
+
+[245] 2026-06-17T17:34:37.221Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I'm continuing to reiterate that GRE isn't defined as "the error for improperly resolved abilities", in part, because I need to get it locked into my own brain  I definitely jumped to GRE in the live call because I had that mental shortcut 
+
+And this is why it would help to have a Lore Guide/Judge program because releasing a document and saying 'here, use this' without this specific context or knowledge or training is detrimental to its application.
+
+100% agree. This is why I've been harping on about how a quiz is a good thing, but we still need a judge program. (editado)miércoles, 17 de junio de 2026, 19:34
+
+[246] 2026-06-17T19:05:24.272Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+i will admit play correction is not my strong suit. 
+
+i do appreciate the fact that play correction is part of the quiz
+
+especially since most of the lore guides job involve more play correction anyway (editado)miércoles, 17 de junio de 2026, 21:06
+
+[247] 2026-06-18T04:24:53.628Z | ThespianGamer
+I don't recall what the scenario is, so what is the scenario where the remedy is to return a card at random from the (unknown portion of the) hand to the top of the deck? I think it was a weird mix where it was a GRE that drew you cards? Example: singing Friends with a 2 cost character? There are a lot of times where that feels like such a cleaner solution instead of fully shuffling away a random card. Shuffling away a random card can definitely be more advantageous than leaving it on top. But the opposite is also true, and possibly balances out.
+
+[248] 2026-06-18T05:11:36.505Z | Brook G-DLead Lore Guide
+Yes, a GRE could result in a random card from hand going to the top of the deck.
+The most likely cause here would be if we are rewinding the game, and the player has drawn a card for the turn.
+For example, if Alice does a whoopsie, ends her turn, Nick draws for turn then notices Alice’s error, and we decide to perform a rewind to the point of Alice’s mistake. We want to rewind every action so we aren’t accidentally leaving Nick up a card, so we would want to undo his card drawn for turn as we go back in time.
+Any other method of taking away the card drawn would be overly punitive to Nick here
+
+[249] 2026-06-18T15:21:13.765Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Here is a fun one... It was a few sets back I was at a PPG event in Dallas...
+
+I am thinking super hard if I want to activate Kida's ability or use her to sing Friends on the Other Side.  After a long thought I decided I would sing Friends, I needed to find something else relevant to do on my turn.
+
+I announce I am singing Friends, exert Kida, place Friends on top of her.  Pick up the 2 cards, look at them put 1 back on top of deck and the other into my inkwell.  Place the Friends in the discard.
+
+I then look at my hand and still stuck on what to do for the turn Play another Friends on the Other Side this time for 3 ink.  I draw 2 cards, now I go to Ink a Tipo I drew, as I am putting him into my Inkwell I notice the ink added by Kida, as I always place her ink differently.
+
+At this point I say to my opponent, hey I screwed up, when Kida sung Friends, I resolved it like her ability instead.  We need a judge.  My opponent agreed with me and even agreed which card of my inkwell came from her (mostly due to my way I resolve and place her ink)
+
+Judge comes over, I explain everything, the opponent agrees that the explanation all sounded correct.
+
+What would you rule/do for this?
+
+[250] 2026-06-18T15:52:37.533Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+CCE, 1 ink too many in the inkwell and 2 cards too few in the hand. 
+Even though there's been other turn actions taken after it does not change the remedy since there's no rewind needed.
+
+First investigate to double check if the number of cards in hand is logical from the wrong resolution of Friends to avoid potential bad actors having actually resolved it correctly but saying they did not to get 2 more cards.
+
+Then as before you have 2 CCE to fix even though there's only one Warning. At that point there's no known cards on the top of the deck so it would be included in the random portion. 
+
+One could argue a potential bad actor could see the two cards, think that they are interested in one of them but not the other and decide to purposefully resolve Friends incorrectly to get a second chance at the second card.
+
+[251] 2026-06-18T15:59:28.086Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+To your point also since both players agreed which card was inked, that card could be removed from inkwell back to deck top, then drawn, which would undo any advantage the bad actor could have had from making that error.
+
+[252] 2026-06-18T16:02:06.061Z | None
+Going to let a few others weigh in before revealing the solution that was given by the judges at the time.
+
+[253] 2026-06-18T16:06:12.392Z | None
+I saw two doors that could happen in the "fix" your "fix" is one of the two I could see happening.
+
+[254] 2026-06-18T16:07:27.845Z | EdiigaLore Guide
+I think I'm supposed to know this one
+
+[255] 2026-06-18T16:10:14.709Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+To your point also since both players agreed which card was inked, that card could be removed from inkwell back to deck top, then drawn, which would undo any advantage the bad actor could have had from making that error.
+
+[256] 2026-06-18T17:08:24.337Z | Ellie [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I’d have ruled it a GRE since you incorrectly resolved Friends. You both agree which card from the inkwell will go back to the deck, so hopefully not too bad of a rewind (otherwise, I’m leaving as-is.)
+
+[257] 2026-06-18T17:24:58.668Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I agree with @Ellie. The incorrect number of cards in the Inkwell is fruit-of-the-poisonous-tree resulting from the original Error (improperly resolving the effect of the Action) (editado)jueves, 18 de junio de 2026, 19:39
+
+[258] 2026-06-18T17:29:27.417Z | pupulesurfer / I.H.C.Moderator
+@Ellie @Albert - snobbysnobby how is this different than the conversation above Danxor's example? Or would you have handled that situation the same?
+
+[259] 2026-06-18T17:32:46.532Z | Ellie [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+@Ellie @Albert - snobbysnobby how is this different than the conversation above Danxor's example? Or would you have handled that situation the same?
+
+[260] 2026-06-18T17:34:16.450Z | Ellie [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+But in general: If I can’t figure out where the extra card in the zone came from, then it’s going to be a CCE. But if I know it came from an improperly resolved effect, then that’s going to be a GRE.
+
+[261] 2026-06-18T17:35:49.777Z | None
+I know the PCG reads like this should go the opposite way, it’s a CCE and we use GRE as a “catch all” for everything else. But my understanding comes from discussing the PCG philosophy with Kyle over the past couple years, so I’m keeping at it until we get that update someday.
+
+[262] 2026-06-18T17:39:31.527Z | pupulesurfer / I.H.C.Moderator
+I was responding to Danxor… ⁠play-correction⁠  I’m not reading every message, so if you want to ask about another example in here, I just need the message link
+
+[263] 2026-06-18T18:17:11.106Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+So what was ruled after a few judges conferred for a bit was because every action taken was technically legal, the path of least resistance would be.  I never sang Friends, I just showed my opponent the Friends, and activated Kida's ability.  And thus the Friends in the discard was returned to my hand and we played on.
+
+[264] 2026-06-18T18:34:42.418Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Oh wow, I would never have gone the route where you did not play what you said you played...
+That could be even more abused, you play Friends, see 2 cards but don't like them, you decide to not resolve Friends with the gained knowledge and you get back one Friends to play later on...
+
+[265] 2026-06-18T18:39:51.406Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Definitely could be, but it was also a super clean remedy.  It's a balancing act.
+
+[266] 2026-06-18T18:46:05.894Z | Ellie [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I knew you were, just sounded like a very similar situation and wanted your take on how to handle.  Link: ⁠play-correction⁠
+
+[267] 2026-06-18T18:48:04.704Z | pupulesurfer / I.H.C.Moderator
+Thanks for your read on it and taking the time! I appreciate learning from those with more experience on implementing the PCG, it is extremely valuable! Both you and Jacob certainly qualify!
+
+Thanks again!!! (editado)jueves, 18 de junio de 2026, 20:55
+
+[268] 2026-06-18T19:00:59.689Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Jacob reads/interprets the PCG as it is written, and while that is different than how I use it, it isn’t wrong.   Yes I would have treated that as a GRE (after investigating for cheating). I’m curious why the opponent cannot confirm if a card was put on the bottom of the player’s deck… maybe they’re very tired. Anyway, assuming we can agree the number of cards in inkwell is one fewer than it should be, I would be inclined to rewind—bottom card and random card from hand go back to the top of the deck, re-resolve Kida’s ability.   I could spend a long time planning the most fair remedy in a deviation from the PCG, but time constraints don’t often allow for that.
+
+[269] 2026-06-18T20:41:00.363Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+To your point also since both players agreed which card was inked, that card could be removed from inkwell back to deck top, then drawn, which would undo any advantage the bad actor could have had from making that error.
+
+[270] 2026-06-19T12:45:27.699Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I was driving to Indianapolis yesterday during this discussion, and I've mostly skimmed it. 
+Short thoughts before my shift starts: I would rule @pupulesurfer / I.H.C. 's scenario a CCE for the same reasons as the previous scenario. 
+Therefore, anyone who says otherwise is wrong. (That's a joke. @Ellie is also correct. The very unfortunate reality right now is that there are multiple possible correct interpretations of the PCG, which is why we so desperately need an update. Also, she's in the same building as I am this weekend, and if we fisticuffs to determine who is correct, she would probably take me easily.)
+
+[271] 2026-06-19T13:21:49.922Z | pupulesurfer / I.H.C.Moderator
+I was driving to Indianapolis yesterday during this discussion, and I've mostly skimmed it.  Short thoughts before my shift starts: I would rule @pupulesurfer / I.H.C. 's scenario a CCE for the same reasons as the previous scenario.  Therefore, anyone who says otherwise is wrong. (That's a joke. @Ellie is also correct. The very unfortunate reality right now is that there are multiple possible correct interpretations of the PCG, which is why we so desperately need an update. Also, she's in the same building as I am this weekend, and if we fisticuffs to determine who is correct, she would probably take me easily.)
+
+[272] 2026-06-19T14:05:30.582Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I think punching a Lore Guide in the face is USC Severe, but it seems some here would consider it a mere GRE and simply rewind the punch or leave as is...
+
+[273] 2026-06-19T14:08:17.542Z | AlexS2 DLC MIL
+It's not possible to rewind the game state to a pre-punch state, unfortunately.
+
+[274] 2026-06-19T14:12:27.346Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+MiB disagree
+
+[275] 2026-06-19T20:16:48.929Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+Since Im also here, I will judge this match between you two!
+
+[276] 2026-06-19T20:17:37.647Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+I think punching a Lore Guide in the face is USC Severe, but it seems some here would consider it a mere GRE and simply rewind the punch or leave as is...
+
+[277] 2026-06-19T20:35:15.618Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+depends on whos the punching no?  theres nothing in play correction that covers lore guide punching lore guides
+
+[278] 2026-06-19T21:33:20.733Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+@ kyle we need a play correction update on lore guide on lore guide violence
+
+[279] 2026-06-20T21:45:47.258Z | TajalaiS2 DLC RICH
+During my set champs, my opponent chose to challenge my Mickey Mouse - Snowboard Ace to banish him before realizing that he would then have to discard his last card. I didn’t make a big deal of letting him rewind and not challenge but I’m curious would an official lore guide rule that was valid to undo?
+
+[280] 2026-06-20T22:11:40.180Z | Brook G-DLead Lore Guide
+Yes, I would allow this. Guidance on takebacks has been that RB considers everything in play to be “old information,” so the player here is wanting to undo one action and has not gained any new info
+
+[281] 2026-06-21T00:58:48.527Z | Asamel
+@Moderator
+
+[282] 2026-06-21T19:06:05.553Z | Flygluffet
+Question.
+If person starts their turn, by inking. 
+Does their turn without ending it (i.e quest or so) but without drawing amy additional card.
+If they realise they didn't need to ink a card, would you allow them to take back?
+
+[283] 2026-06-21T19:07:12.005Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+If they’ve done additional game actions such as quest or play cards after inking no
+
+[284] 2026-06-21T19:07:50.154Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+Take backs are time limited, too. Even if nothing else happens at all, a take back may not be allowed if you spend forever thinking about it.
+
+[285] 2026-06-21T19:14:40.823Z | Flygluffet
+Thank you! That's what I thought as well, but I'm very new to play correction
+
+[286] 2026-06-21T19:37:54.123Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Came across an interesting situation today.  Player A revealed their inkwell to their opponent without looking at it themselves.
+
+Is that a HIE?  CRD 7.1.4 only says that a player can't look at a hidden zone unless directed to, but it also says that the zone is no longer private while it is revealed.
+
+I have always interpreted this as players may neither check nor voluntarily reveal cards in hidden zones without a card or effect directing to do so.
+
+Both players at the table challenged me on it, and the player who revealed scooped almost immediately after.  Am I misunderstanding the current version of the CRD, or has Other Judge just been handling this less than properly?
+
+[287] 2026-06-21T19:43:24.721Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Came across an interesting situation today.  Player A revealed their inkwell to their opponent without looking at it themselves.  Is that a HIE?  CRD 7.1.4 only says that a player can't look at a hidden zone unless directed to, but it also says that the zone is no longer private while it is revealed.  I have always interpreted this as players may neither check nor voluntarily reveal cards in hidden zones without a card or effect directing to do so.  Both players at the table challenged me on it, and the player who revealed scooped almost immediately after.  Am I misunderstanding the current version of the CRD, or has Other Judge just been handling this less than properly?
+
+[288] 2026-06-21T19:43:40.031Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+This would indeed be a Hidden Information Error (HIE)— specifically a violation of the Comprehensive Rules 7.5.4:   The inkwell is a private zone. Players can’t look at a card in an inkwell at any time, even their own. Players can count the number of cards in any inkwell at any time. Players can arrange the cards in their inkwell in any way, provided that ink cards are kept facedown and separate from cards in all other zones at all times. The status of cards in an inkwell can’t be hidden from other players. (editado)domingo, 21 de junio de 2026, 21:43
+
+[289] 2026-06-22T09:01:04.839Z | Brook G-DLead Lore Guide
+Who is getting the HIE?
+
+[290] 2026-06-23T01:42:25.548Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Who is getting the HIE?
+
+[291] 2026-06-21T19:43:40.031Z | Kujo [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+This would indeed be a Hidden Information Error (HIE)— specifically a violation of the Comprehensive Rules 7.5.4:   The inkwell is a private zone. Players can’t look at a card in an inkwell at any time, even their own. Players can count the number of cards in any inkwell at any time. Players can arrange the cards in their inkwell in any way, provided that ink cards are kept facedown and separate from cards in all other zones at all times. The status of cards in an inkwell can’t be hidden from other players. (editado)domingo, 21 de junio de 2026, 21:43
+
+[292] 2026-06-23T20:45:23.635Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+https://x.com/EDMsnob/status/2069464348725064051
+
+so any thoughts on this?
+
+[293] 2026-06-23T20:48:54.274Z | pupulesurfer / I.H.C.Moderator
+https://x.com/EDMsnob/status/2069464348725064051  so any thoughts on this?
+
+[294] 2026-06-23T20:56:29.285Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+https://x.com/EDMsnob/status/2069464348725064051  so any thoughts on this?
+
+[295] 2026-06-23T20:58:00.491Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+I think you know Albert's take lol
+
+[296] 2026-06-23T20:58:17.740Z | None
+and i dont disagree with snooby
+
+[297] 2026-06-23T20:58:29.412Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+would certainly be interested in other opinions. most Lore Guides show a discomfort with enforcing anything from the documents that are incorporated into the Tournament Rules, such as the Community Code, Diversity & Inclusion Policy, Hobby Store Terms & Conditions, etc. (editado)martes, 23 de junio de 2026, 22:58
+
+[298] 2026-06-23T21:00:24.871Z | None
+and in fairness it's extremely rare that it comes up
+
+[299] 2026-06-23T21:01:03.838Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I still stand by my position that those documents are not intended to be enforced by judges. It's not discomfort, it's a difference of opinion over interpretation of intent.
+
+[300] 2026-06-23T21:02:09.677Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+^this
+
+[301] 2026-06-23T21:02:39.307Z | None
+like we all handle logistic so differently even looking at some of the situation involving card count error
+
+[302] 2026-06-23T21:05:52.051Z | pupulesurfer / I.H.C.Moderator
+I still stand by my position that those documents are not intended to be enforced by judges. It's not discomfort, it's a difference of opinion over interpretation of intent.
+
+[303] 2026-06-23T21:06:39.417Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I still stand by my position that those documents are not intended to be enforced by judges. It's not discomfort, it's a difference of opinion over interpretation of intent.
+
+[304] 2026-06-23T21:08:46.598Z | EdiigaLore Guide
+EdiigaLore Guide — 23/6/26, 23:08martes, 23 de junio de 2026, 23:08
+
+[305] 2026-06-23T21:11:00.610Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Because it's a convenient place to remind players to follow them. Not because they are to be enforced by judges.
+
+I'm pretty sure we've done this one before.
+
+[306] 2026-06-23T21:11:44.905Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Yeah I just believe in public discourse. I respect your right to have a reasonable yet different opinion than I do
+
+[307] 2026-06-23T21:11:47.842Z | pupulesurfer / I.H.C.Moderator
+I see it as 'hey lore guide, you need to make sure this is followed' and report it as needed to the TO not 'hey lore guide, adjudicate this'
+
+[308] 2026-06-23T21:13:49.461Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+There’s a good argument for that position. It’s certainly reasonable. I just happen to differ on this point.
+
+[309] 2026-06-23T21:14:01.231Z | None
+This is what Lore Guide summits should be for
+
+[310] 2026-06-23T23:09:37.137Z | Brook G-DLead Lore Guide
+I disagree with Albert here. The title of the section is not included in the screenshot - it is Cooperation with Authorities. This whole section isn't about anything related to normal tournament stuff; this is saying ~"RB will cooperate with the police if asked to."
+
+[311] 2026-06-23T23:11:02.118Z | None
+If players want to make a google doc that says something like "Pro Player XYZ played Amber Steel in 5 of their last 6 tournaments, they'll probably play it again" and that kind of thing before their next tournament, that's outside our scope of authority as judges and not breaking any tournament rules (editado)miércoles, 24 de junio de 2026, 1:12
+
+[312] 2026-06-23T23:35:00.764Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I disagree with Albert here. The title of the section is not included in the screenshot - it is Cooperation with Authorities. This whole section isn't about anything related to normal tournament stuff; this is saying ~"RB will cooperate with the police if asked to."
+
+[313] 2026-06-23T23:38:25.022Z | Brook G-DLead Lore Guide
+I'm saying there's a big difference between keeping players' personal info, addresses, photos, etc - stalker-y type stuff that we might alert law enforcement about - and making a google doc of some past tournament results in preparation for a tournament
+
+[314] 2026-06-24T02:07:16.172Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+okay interesting scenario
+
+you are a lore guide walking around and you see a player playing with some of the new ruby monster inc cards. at the end of turn they have some ink readied (editado)miércoles, 24 de junio de 2026, 4:07
+
+[315] 2026-06-24T02:07:45.769Z | None
+out of habit, player either exert all their ink or ready their ink, do you correct them
+
+[316] 2026-06-24T02:15:05.832Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The implication is that you wouldn't correct them already?
+
+[317] 2026-06-24T02:16:13.274Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+i mean should we
+
+[318] 2026-06-24T02:16:54.082Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Are they breaking a rule?
+
+[319] 2026-06-24T02:17:31.989Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+It doesn’t matter what cards they are playing.
+
+[320] 2026-06-24T02:29:26.927Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+What would be the CA for someone readying their ink at end of turn at comp level?  I see it often on walks and usually just remind the player that ink doesn't ready until start of turn or something tells you to.  Never actually considered it worth documenting, but we are finally getting into a place where open ink on your opponent's turn is potentially significant.
+
+[321] 2026-06-24T02:30:41.532Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+We have been in that place a long long time. But people refuse to learn.
+
+[322] 2026-06-24T02:33:40.469Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+GPE-GRE. They violated a game rule that doesn't fall under HIE or CCE.
+(Yes, I usually just tell them to stop too. But we need to be enforcing it.)
+
+[323] 2026-06-24T02:36:30.196Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+So many trips for ice cream if we actually start giving GREs for inappropriately readying ink.  I could swear I saw an Inkwell Error category once upon a time, but I am attributing that to too much whiskey and not enough water before bedtime.
+
+[324] 2026-06-24T02:37:53.760Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+GREs don’t automatically upgrade to disqualification.
+
+[325] 2026-06-24T02:41:23.361Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The upgrade path ends with game losses.
+
+[326] 2026-06-24T02:41:36.796Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Ah, I thought it continued to scale beyond that.
+
+[327] 2026-06-24T02:42:30.616Z | None
+I have been fortunate enough to have never really had that matter.
+
+[328] 2026-06-24T02:42:48.377Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+However, deliberately not following the instructions from a lore guide can get you to USC territory.
+
+[329] 2026-06-24T02:45:15.645Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I did, however, find where I got the idea of an Inkwell Error though!  I think it's an artifact from the first version.
+
+[330] 2026-06-24T02:46:28.551Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+I think that's the old name for a hidden information error.
+
+[331] 2026-06-24T02:47:25.952Z | kleptokatt (MJ - IN) [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Something like that.
+
+[332] 2026-06-24T02:52:27.239Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+Are they breaking a rule?
+
+[333] 2026-06-24T02:52:59.221Z | None
+like the move is done out of habit by so many players it seems ingrained into muscle memory
+
+[334] 2026-06-24T02:59:08.458Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Gotta break that muscle memory. I've had to tell at least one player per set champ since inklands not to ready their ink at the end of their turn. And several players per DLC I've been to.
+
+[335] 2026-06-24T06:43:57.163Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+would u label it as a gre? (editado)miércoles, 24 de junio de 2026, 8:44
+
+[336] 2026-06-24T06:45:28.351Z | None
+like imagine being a player and the judge warned u multiple times in a match and then sudden u end up with a game loss on stream
+
+[337] 2026-06-24T06:46:01.002Z | None
+and then twitch chat is like “thats too strict” “burn the stream judge at stake”
+
+[338] 2026-06-24T07:15:03.439Z | The_Stream_Box
+We need to be hotter on educating people about it now that there's mechanics that revolve around it. The fact it was allowed on streams is cited as one of the main reasons why my locals do it. "I saw XYZ do it at DLC" means that so many people think it's just fine. It never has been, it's always been a rules error deserving of corrective actions.
+
+[339] 2026-06-24T09:28:05.380Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+and then twitch chat is like “thats too strict” “burn the stream judge at stake”
+
+[340] 2026-06-24T09:38:01.574Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+We need to be hotter on educating people about it now that there's mechanics that revolve around it. The fact it was allowed on streams is cited as one of the main reasons why my locals do it. "I saw XYZ do it at DLC" means that so many people think it's just fine. It never has been, it's always been a rules error deserving of corrective actions.
+
+[341] 2026-06-24T22:25:56.327Z | teagan [LORE], Etiqueta de servidor: LORELOREContent Creator
+One question I have about the "scouting" or automated scouting discussion is: how does this not just fall into the Outside Assistance portion of the Play Correction Guidelines. I understand this is hard to enforce, but even a pen and paper method, or a spreadsheet method is still recieving outside assistance. I guess the question is what is the definition of "during the game." Does "during the game" include as soon as pairings for the round are announced and you see who you are playing? Does it mean, as soon as you sit down? Does it mean as soon as you shuffle / draw a card / roll dice?
+
+[342] 2026-06-24T22:27:29.837Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Presumably, because they do not consult these tools during their match. Also, “Hidden Information” is not defined in a way that would comport with the issue at hand here
+
+[343] 2026-06-24T22:28:07.178Z | teagan [LORE], Etiqueta de servidor: LORELOREContent Creator
+Is a decks ink color pair not hidden information until cards are revealed?
+
+[344] 2026-06-24T22:28:56.854Z | None
+also hi snobby!  I appreciate all of your contributions everywhere and the competitive scene def suffers from having you not involved in lore guiding more.
+
+[345] 2026-06-24T22:29:05.451Z | None
+(we met in Chicago)
+
+[346] 2026-06-24T22:29:05.652Z | Brook G-DLead Lore Guide
+One question I have about the "scouting" or automated scouting discussion is: how does this not just fall into the Outside Assistance portion of the Play Correction Guidelines. I understand this is hard to enforce, but even a pen and paper method, or a spreadsheet method is still recieving outside assistance. I guess the question is what is the definition of "during the game." Does "during the game" include as soon as pairings for the round are announced and you see who you are playing? Does it mean, as soon as you sit down? Does it mean as soon as you shuffle / draw a card / roll dice?
+
+[347] 2026-06-24T22:30:04.533Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+(we met in Chicago)
+
+[348] 2026-06-24T22:30:30.110Z | teagan [LORE], Etiqueta de servidor: LORELOREContent Creator
+The match begins when players sit down at their table. It is not OA for a player to see pairings have gone up and message their team to ask ~"I'm playing Player X, anyone know what they're playing?" while walking to their seat
+
+[349] 2026-06-24T22:31:16.822Z | teagan [LORE], Etiqueta de servidor: LORELOREContent Creator
+Of course I remember. I had to give you a very difficult answer to a very reasonable question and it made me sweat just a little. I don’t remember what it was, but you were totally right
+
+[350] 2026-06-24T22:32:36.165Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Oh yeah the bane of my existence
+
+[351] 2026-06-24T22:51:38.127Z | Brook G-DLead Lore Guide
+That line seems razor thin to me, but I understand that is RAW currently.
+
+[352] 2026-06-24T22:52:03.925Z | Brook G-DLead Lore Guide
+That line seems razor thin to me, but I understand that is RAW currently.
+
+[353] 2026-06-24T22:55:53.690Z | Speedy [LRH], Etiqueta de servidor: LRHLRHAdministrator
+Oh yeah the bane of my existence
+
+[354] 2026-06-28T04:37:33.470Z | pupulesurfer / I.H.C.Moderator
+How do you go about investigating this to rule out Cheating to the best of your ability? 
+
+Final bullet point of Minor - Deck and List are legal but different. If ruled out cheating, what is the Remedy? Do we declare it an illegal deck and change it to match the list if able? Do we edit the list to match what they have been playing, following Major instead as instructed? Do we give the player the option?
+
+[355] 2026-06-28T06:44:24.297Z | dihensoeur
+My opinion as Novice Judge if ruled out cheating:
+what I understood is the deck must match the list as much as possible, so if both are legal but different, the player must change the deck to match the list. If they cannot => upgrade to Major.
+So we do not give to the player the option but in fact they still can say “sorry I cannot match my list” (even if in reality they have cards in their bag) if they really want to alter their list.
+
+About the investigating: i think we need to ask him first their explanation about this diff and why the decklist is not up to date?
+check if the deck seems include new tech cards very specific for the current opponent they’ll face?
+
+[356] 2026-06-28T06:57:56.334Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+is the list written with 60 cards in this scenario and there was extra or lesser cards in deck? (editado)domingo, 28 de junio de 2026, 8:58
+
+[357] 2026-06-28T07:12:01.006Z | Nd'S
+We had one at our last set champs like this where the player wrote down 56 cards but was, of course, playing with 60. The judge issued a game loss and corrected the list to include the extra 4 cards.
+
+[358] 2026-06-28T14:36:51.880Z | Moni
+what is the proper play-correction for player who made top 4 of set champs and then deck check finds the entire event their deck did not match their decklist? they corrected the deck to continue playing in top 4. it just seems very wrong the penalty is not higher at the top cut
+
+[359] 2026-06-28T14:38:01.980Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+What was the error of the deck not matching the list?
+
+[360] 2026-06-28T14:38:16.612Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Like how many card difference
+
+[361] 2026-06-28T14:39:26.583Z | Moni
+1 less mowgli, 1 more ohana and 1 less guidebook
+
+[362] 2026-06-28T14:40:27.632Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Id be asking the player questions into what did they intend to play
+
+[363] 2026-06-28T14:42:18.520Z | Moni
+they told me they wrote decklist at the event from dreamborn list which was not updated from their play testing changes; i gave a warning, they corrected their deck to match the list but at top 4 I feel like thier should have been a game loss still
+
+[364] 2026-06-28T14:43:20.786Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+We have to give the penalties that the PCG allow unfortunately. The answer they gave you wouldn’t flag any thought process of cheating as that’s the only way to upgrade past a minor in this situation (editado)domingo, 28 de junio de 2026, 16:43
+
+[365] 2026-06-28T14:43:29.691Z | Moni
+We have to give the penalties that the PCG allow unfortunately. The answer they gave you wouldn’t flag any thought process of cheating as that’s the only way to upgrade past a minor in this situation (editado)domingo, 28 de junio de 2026, 16:43
+
+[366] 2026-06-28T14:44:00.058Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+so to clarify I did the right thing, correct?
+
+[367] 2026-06-28T15:25:10.627Z | Brook G-DLead Lore Guide
+How do you go about investigating this to rule out Cheating to the best of your ability?   Final bullet point of Minor - Deck and List are legal but different. If ruled out cheating, what is the Remedy? Do we declare it an illegal deck and change it to match the list if able? Do we edit the list to match what they have been playing, following Major instead as instructed? Do we give the player the option?
+
+[368] 2026-06-28T15:26:54.111Z | Brook G-DLead Lore Guide
+We had one at our last set champs like this where the player wrote down 56 cards but was, of course, playing with 60. The judge issued a game loss and corrected the list to include the extra 4 cards.
+
+[369] 2026-06-28T15:27:27.215Z | pupulesurfer / I.H.C.Moderator
+> How do you go about investigating this What is "this"? What remedy applies will depend on what the problem is.  Broadly speaking : We ask questions until we understand the problem. Knowing what the problem was will tell us what penalty and remedy apply. The player's initial intent matters. We should not give the player the option of which penalty/fix they want to take.
+
+[370] 2026-06-28T15:29:04.820Z | None
+Both are 60 cards. Deck was 4 cards off of list where the list had 4x of card A, 4x of card B, but deck had 2x of card A, 2x of card B, and 4x of card C.
+
+The deck they intended was the listed deck, forgot changes were made in testing when asked why the difference.
+
+[371] 2026-06-28T15:32:53.608Z | Brook G-DLead Lore Guide
+My opinion as Novice Judge if ruled out cheating: what I understood is the deck must match the list as much as possible, so if both are legal but different, the player must change the deck to match the list. If they cannot => upgrade to Major. So we do not give to the player the option but in fact they still can say “sorry I cannot match my list” (even if in reality they have cards in their bag) if they really want to alter their list.  About the investigating: i think we need to ask him first their explanation about this diff and why the decklist is not up to date? check if the deck seems include new tech cards very specific for the current opponent they’ll face?
+
+[372] 2026-06-28T15:35:33.472Z | dihensoeur
+>  the deck must match the list as much as possible, so if both are legal but different, the player must change the deck to match the list. If they cannot => upgrade to Major. This is incorrect. We need to figure out what the player intended - is it the deck that is correct and the list that's wrong, or vice versa?  If the physical cards were what the player intended to play and their list was incorrect then the list needs to be changed to reflect their deck - this is a Deck/Registration Error - Major, and a Game Loss. If their list was correct but they sleeved up the wrong cards when pulling the cards out of their binders, this would be Deck/Registration Error - Minor and just a Warning.
+
+[373] 2026-06-28T16:06:22.842Z | Brook G-DLead Lore Guide
+Both are 60 cards. Deck was 4 cards off of list where the list had 4x of card A, 4x of card B, but deck had 2x of card A, 2x of card B, and 4x of card C.  The deck they intended was the listed deck, forgot changes were made in testing when asked why the difference.
+
+[374] 2026-06-28T16:09:58.733Z | None
+SpeedySpeedy ha fijado un mensaje en este canal. Ver todos los mensajes fijados. — 28/6/26, 18:09domingo, 28 de junio de 2026, 18:09
+
+[375] 2026-06-28T16:11:17.638Z | pupulesurfer / I.H.C.Moderator
+Big picture: Investigations are probably the most difficult part of judging. There's no set of perfect questions to ask for a given situation; it's just about trying to get enough information to make a decision.  One of the most useful big-picture questions to consider: if this is true, what else must be true?, Some of the best reading on the topic is a 3part series here (links to the next part are at the bottom of each article) https://blogs.magicjudges.org/articles/2014/12/30/investigations-the-search-for-collateral-truths/  I'd also recommend several podcasts: https://judgecast.com/archives/1270 https://judgecast.com/archives/408 https://judgecast.com/archives/1501  To your specific situation, a couple of questions that come to mind: Why did the player make these changes?,Player said they made changes in testing - who do they test with? When was this testing session? (If there are others in the event from the testing meetup, I can talk to them to verify this player's story),How did they submit their decklist? (If they copy-pasted over from their notes app / some website, they should be able to show me the original),
+
+[376] 2026-06-28T16:12:11.044Z | None
+But i see i could take that further with your other suggested questions (editado)domingo, 28 de junio de 2026, 18:12
+
+[377] 2026-06-28T16:31:24.718Z | Brook G-DLead Lore Guide
+A lot of times as we start asking questions, we are given info that on the surface feels very (forgive the technical speak) wishy-washy. 
+"I made the changes at home because the vibes were off.","I borrowed the deck from my friend, I guess he messed it up.",etc
+
+A good investigation is about trying to get from there to something concrete that can be proven/disproven.
+Why were the vibes off? Were they reading an article / talking to the testing team about the deck? ---> Can I see that article/testing chat?,What was your friend's name? Are they here? How did you arrange to borrow the deck? --> Most of the time these days, there's either some electronic communication showing this exchange, or both people are in the same room.,
+If the player says they arrived late and scrambled to write down the list:
+if this is a paper list, does it look like it was written out in a hurry?,did they carpool with anyone?,Depending on the size of the event/venue, perhaps it's possible to verify with another judge/person behind the counter if they remember someone handing in their list at the last moment,
+
+[378] 2026-06-28T16:38:13.632Z | None
+None of this stuff is absolute proof of guilt/innocence, by itself. It's very rare to have a situation where you feel 100% confident. In my opinion it's better to think of any piece of information as a small weight on a scale.
+We're not a court of law; we don't have to prove guilt beyond a shadow of a doubt - we're trying to figure out what we think was most likely to have happened in a children's card game. (editado)domingo, 28 de junio de 2026, 19:12
+
+[379] 2026-06-28T17:12:19.152Z | pupulesurfer / I.H.C.Moderator
+None of this stuff is absolute proof of guilt/innocence, by itself. It's very rare to have a situation where you feel 100% confident. In my opinion it's better to think of any piece of information as a small weight on a scale. We're not a court of law; we don't have to prove guilt beyond a shadow of a doubt - we're trying to figure out what we think was most likely to have happened in a children's card game. (editado)domingo, 28 de junio de 2026, 19:12
+
+[380] 2026-06-29T04:47:00.640Z | DJ Techno [LRH], Etiqueta de servidor: LRHLRHS2 DLC RICH
+How do you go about investigating this to rule out Cheating to the best of your ability?   Final bullet point of Minor - Deck and List are legal but different. If ruled out cheating, what is the Remedy? Do we declare it an illegal deck and change it to match the list if able? Do we edit the list to match what they have been playing, following Major instead as instructed? Do we give the player the option?
+
+[381] 2026-06-29T04:48:47.081Z | pupulesurfer / I.H.C.Moderator
+Thanks for your experience and insight!
+
+[382] 2026-06-29T15:02:25.134Z | Brook G-DLead Lore Guide
+I just read this section.  But im just dropping my input in this. From a situation at my locals after judging there.    U look at it both ways and go according. If a player submitted a deck list and the deck doesn't match what they wrote down in a judges call for  "deck checks". I also wonder how far in rounds are going on and any reported issues prior.   Investigate what caused the error by the player. If they miss wrote in a card or something. Handwriting issues, even though in today's modern day. Folks would be doing their deck list typed out and printed or put into an online document and electronically sent in.  Human error is human error.  A warning could be given and correct number of cards written down. Followed that the player is honestly using the correct cards listed.  In a minor situation   On a major situation Multiple errors on deck  list, cards found in a players deck that were not listed in the deck list sheet. Any  legitimate reports after rounds from other players seeing issues with that players deck.   I remember shadowing mtg judges. They say u  give a non bias view of the player, impartial ruling and  when any issues come up. Non bias overview of the situation. No playing favoritism.   My set champs. Before the round n player meeting. I told everyone can get a soft deck list inspection and make sure nothing had an error before the event starts.  That helped the players out alot. And it corrected multiple errors from deck list issues, card sleeves, and helping someone fill out their first registration sheet.
+
+[383] 2026-06-29T15:12:53.992Z | Speedy [LRH], Etiqueta de servidor: LRHLRHAdministrator
+> Human error is human error.  I agree with this point - we do not want to be penalizing sloppy handwriting or a minor misspelling or something. A player writing "Daiblo" obviously means "Diablo" and imo does not deserve a penalty.  > A warning could be given and correct number of cards written down...in a minor situation I disagree with this point. One of the examples of Deck/Registration Error - Major is "A player has a deck list that needs to be altered to reflect the deck." Any time a player's decklist is being corrected, it's a Major error and the correct penalty is a game loss.
+
+[384] 2026-06-29T15:13:10.078Z | None
+Quadruple DRE Major flashbacks (editado)lunes, 29 de junio de 2026, 17:13
+
+[385] 2026-06-29T15:13:30.785Z | Brook G-DLead Lore Guide
+..."Quadruple"?
+
+[386] 2026-06-29T15:13:42.382Z | None
+[17:13] lunes, 29 de junio de 2026, 17:13
+
+[387] 2026-06-29T15:14:09.123Z | Speedy [LRH], Etiqueta de servidor: LRHLRHAdministrator
+..."Quadruple"?
+
+[388] 2026-06-29T15:14:42.235Z | None
+Will always ask for Swiss checks going forward and be annoying about it
+
+[389] 2026-06-29T15:15:49.116Z | None
+Everybody was chill about it. Nothing felt nefarious. Just collective human mistakes. But it felt yucky to put a down vibe before T8. (editado)lunes, 29 de junio de 2026, 17:15
+
+[390] 2026-06-29T16:12:56.578Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+I had to issue 2 DRE-Majors this weekend at different set champs.  Both times after discovering the error, I would fan out the deck list with the player and ask them to confirm if they notice any cards/card counts off.  If the intent was to play certain cards.  Certain tech cards, etc.  After confirming they intended to play the deck as shown, I told them that we would need to update their deck list to match, because they intended to play with the cards on the table and nothing was off to them.
+
+[391] 2026-07-05T13:44:11.333Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+hey squad, question on note-taking here. The PCG says that taking notes is an Information & Communication Error. The Tournament Rules say it's Outside Assistance. Has this been reconciled anywhere? did I miss something?
+
+[392] 2026-07-05T13:46:40.299Z | None
+The way I read it currently: taking notes is an I&CE, but referring to notes is OA.
+
+any opinions?
+
+[393] 2026-07-05T15:18:44.828Z | pupulesurfer / I.H.C.Moderator
+That was my understanding
+
+[394] 2026-07-05T15:26:38.600Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The way I read it currently: taking notes is an I&CE, but referring to notes is OA.  any opinions?
+
+[395] 2026-07-05T15:27:50.382Z | None
+And that would make sense, if you take notes from "inside" the match that could not be considered "outside" assistance.
+
+[396] 2026-07-08T00:23:39.011Z | ccccc
+hey all....
+
+Just a question about group IDing....
+
+Hypothetically, say there is a major DLC on... and four people are at 8-0.
+
+the next round hasnt started... but one person starts tlaking about how if they all id the next few rounds htey are locked for day 2... and that it would be better to battle it out against other players than each other... trying to sway over that no matter who they play... they will ID each other.
+
+To me this is tournament manipulation, as you can only offer a ID to your opponent once. and getting 3 other people to ID, when you dont know your opponent.... would love your guys thoughts on it.
+
+My understanding, is that its ok to talk about maths and standings and stuff... but getting a group of people to agree to a ID before the round has started, is stepping over the line.
+
+Thoughts?
+
+[397] 2026-07-08T00:32:18.801Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+3.6 Intentional Draws and Concessions
+A player may concede an incomplete game or match at any time. That player immediately loses the game and, if applicable, the match moves on to the next game.
+A player who refuses to play a match is considered to have conceded that match.
+Players can’t ask their opponents to concede a game. Players can’t implicitly or explicitly offer or accept any reward or consideration in exchange for a concession. Players provided with such an offer must call a Lore Guide and report the incident.
+At any point prior to the end of a match, players may agree to an intentional draw (0-0-3) for the match. A player may request an intentional draw only once per match and can’t implicitly or explicitly offer any reward or consideration in exchange for the draw. Players provided with such an offer must call a Lore Guide and report the incident. (editado)miércoles, 8 de julio de 2026, 2:33
+
+[398] 2026-07-08T00:34:43.826Z | ccccc
+ccccc — 8/7/26, 2:34miércoles, 8 de julio de 2026, 2:34
+
+[399] 2026-07-08T00:35:29.105Z | None
+they do not know their opponents... so this would be manipulating future match outcomes right?
+
+[400] 2026-07-08T00:35:58.756Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+8-0 is already at the end of Day 1. So they were locked for day 2 2 rounds earlier.
+
+[401] 2026-07-08T00:35:59.568Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Why does it make a difference whether they know their opponents or not?
+
+[402] 2026-07-08T00:38:04.515Z | ccccc
+i did say hypothetically at the start danxor, but maybe its locked for top 32 then 
+
+the difference is manipulating people in a group setting... pressure and such.
+
+Just trying to make sure i have the rules correct.
+
+[403] 2026-07-08T00:39:21.074Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+People can talk whatever strategy they want between rounds. It is common for people near the top of standings to try and see how few rounds they actually have to play.
+
+[404] 2026-07-08T00:39:48.742Z | ccccc
+whilst common, is it allowed?
+
+[405] 2026-07-08T00:40:09.227Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Yes. Why can’t they discuss when it is possible to start drawing and still make cut?
+
+[406] 2026-07-08T00:40:23.952Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+IDing isn't manipulating match outcomes. Discussing how the tournament math works out and whether it's beneficial for which tables to ID isn't usually collusion.
+
+[407] 2026-07-08T00:40:27.117Z | ccccc
+i never said that... the difference is getting people to pre-agree to drawing?
+
+[408] 2026-07-08T00:41:17.536Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+The cool thing about tournament math is once you can start drawing it doesn’t matter if others do.
+
+[409] 2026-07-08T00:42:17.471Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+Is there really a difference between "everyone here can ID and make top 8" vs "everyone here should id to make top 8"?
+
+[410] 2026-07-08T00:43:05.803Z | ccccc
+to me there is a difference bteween "everyone here can ID and make top 8" and "we shoudl all ID to make top 8... everyone in on it? yes? ok lets do it"
+
+[411] 2026-07-08T00:44:04.003Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+The only difference between the two is whether the agreement is implied or explicit. (editado)miércoles, 8 de julio de 2026, 2:51
+
+[412] 2026-07-08T00:48:16.988Z | None
+When we start making that distinction, it has two effects. First, it creates an in-group of players with an understanding of what it means, but they can't actually discuss it with players less familiar with large tournament play, so it gives an advantage to those in the know. Second, it creates 'magic words' where the specific thing you say is what is important, instead of what you do.
+
+[413] 2026-07-08T00:52:05.001Z | ccccc
+you raise a good point.
+
+[414] 2026-07-08T00:53:19.671Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+That was a huge problem with 2GF. And near end of day 1. Where people going 1-1. Both miss day 2. But 2-0 made it.
+
+[415] 2026-07-08T00:53:32.729Z | None
+And you couldn’t offer to play a single game.
+
+[416] 2026-07-08T00:53:38.258Z | ccccc
+The benefit of 2GF was that it rewarded people for winning on the draw.
+
+[417] 2026-07-08T00:53:48.643Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+But people in the know had ways to offer a best of one.
+
+[418] 2026-07-08T00:54:16.957Z | None
+2GF caused a ton of collusion from people in the know and punished those who were not.
+
+[419] 2026-07-08T05:08:03.892Z | Brook G-DLead Lore Guide
+there are few things I've ever seen worse than a judge, called to a match to give a thumbs up to an intentional draw, needing to roll a die in front of the players to say who won game one and who won game two
+
+[420] 2026-07-09T00:41:37.851Z | Speedy [LRH], Etiqueta de servidor: LRHLRHAdministrator
+there are few things I've ever seen worse than a judge, called to a match to give a thumbs up to an intentional draw, needing to roll a die in front of the players to say who won game one and who won game two
+
+[421] 2026-07-09T18:59:37.089Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+that doesnt sound like a correct way to get a game result
+
+[422] 2026-07-09T19:00:48.442Z | Jacob Smith [LRH], Etiqueta de servidor: LRHLRHLore Guide
+And yet, in 2gf, it was required.
+
+[423] 2026-07-30T02:05:15.223Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+proposing a scenario
+
+a player quests with a pete with 4 cards under him and they pick one and put 3 cards to the bottom
+
+then they play merlin to draw from the bottom of their deck and realizes they put the wrong card on the bottom
+
+should they be allow to take back their pete ability and rearrange the cards that are send to the bottom
+
+[424] 2026-07-30T02:23:53.430Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+No, only the last action. Which is playing Merlin. And since it drew a card there is grey area there.
+
+[425] 2026-08-13T18:15:51.821Z | Tuhis
+Player A and B are playing first round of bo3.
+
+Player A gets penalized and is issued a loss for The first Match. Does player A  start The second Match or player B?
+
+[426] 2026-08-13T18:17:32.528Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Player A and B are playing first round of bo3.  Player A gets penalized and is issued a loss for The first Match. Does player A  start The second Match or player B?
+
+[427] 2026-08-13T18:18:33.974Z | Tuhis
+Yes!
+
+[428] 2026-08-13T18:27:06.813Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+Player A and B are playing first round of bo3.  Player A gets penalized and is issued a loss for The first Match. Does player A  start The second Match or player B?
+
+[429] 2026-08-13T18:38:32.156Z | Tuhis
+Player A gets the choice to be on the play or draw, just as if they had lost the game normally.
+
+[430] 2026-08-27T12:03:12.096Z | BONUS
+Question?
+
+How long would you allow the player to gain lore from the location that they forgot to gain at Set step?
+
+As it mention that it the mandatory. But the player just notice it when they play for 3-4 turns.
+
+[431] 2026-08-27T12:06:04.077Z | Albert - snobbysnobby [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Question?  How long would you allow the player to gain lore from the location that they forgot to gain at Set step?  As it mention that it the mandatory. But the player just notice it when they play for 3-4 turns.
+
+[432] 2026-08-27T12:07:42.501Z | None
+Under this criteria, Rewinding the Game to the missed mandatory game action would not be appropriate. And Rewinding the game is the only remediation available to you in this situation. One cannot simply “allow the player to gain the lore” without Rewinding to the point where it would be gained.
+
+[433] 2026-08-27T12:08:07.011Z | BONUS
+Thank you
+
+[434] 2026-08-27T12:28:29.820Z | BONUS
+If the player accidentally draw from Mushu - Stealthy dragon, while the other player have less cards in hand.
+
+Is it GRE or Hidden info error?
+
+[435] 2026-08-27T12:45:49.745Z | Alain (hexastix) [LRH], Etiqueta de servidor: LRHLRHModerator
+It can be Hidden Information Error or Card Count Error, depending on whether the drawn card was actually "put in the hand".
+
+[436] 2026-08-27T12:46:29.379Z | None
+From PCG 2.3 Card Count Error:
+There’s a fine line between a Hidden Information Error and a Card Count Error. Consider where the seen cards are and if
+they’re still a part of the same set. If they are, treat it as a Hidden Information Error. If the card(s) have moved from one
+hidden zone to another, it’s a Card Count Error. (editado)jueves, 27 de agosto de 2026, 14:46
+
+[437] 2026-08-27T14:01:05.943Z | BONUS
+Question?
+
+P1 play the Hunny deck. 
+P2 see some many color ink card and questioning if P1 really add the Christopher
+
+The lore guide already check in the decklist thay P1 have Christopher but P2 is not satify.
+
+What should the lore guide do more?
+
+Look at the remaining deck to find christopher and confirm?
+
+[438] 2026-08-27T14:08:58.506Z | Alain (hexastix) [LRH], Etiqueta de servidor: LRHLRHModerator
+The Lore Guide should definitely not look at the deck during the game to confirm the presence of a card.
+
+[439] 2026-08-27T14:09:18.867Z | None
+Maybe Christopher Robin was inked by Mickey Mouse - Detective.
+
+[440] 2026-08-27T14:13:45.038Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+I don’t understand this obsession with maybe the Hunny player is cheating by not running CR. It is far more likely a player running a deck cheats by running 5 copies of a key card than omits CR from the deck. 
+
+And I don’t see questions about that at all really.
+
+[441] 2026-08-27T14:17:56.278Z | Beth B [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Question?  P1 play the Hunny deck.  P2 see some many color ink card and questioning if P1 really add the Christopher  The lore guide already check in the decklist thay P1 have Christopher but P2 is not satify.  What should the lore guide do more?  Look at the remaining deck to find christopher and confirm?
+
+[442] 2026-08-27T14:19:45.789Z | BONUS
+Thank you. It's my first time to be a lore guide and we all very new.
+
+[443] 2026-08-27T14:20:00.914Z | None
+Thank you for all the answers
+
+[444] 2026-08-29T04:21:48.694Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+so apparently one of my friends arrived late (20 minute after round start i was told) 
+
+what is the general policy for tardiness?
+
+[445] 2026-08-29T04:23:32.299Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+20 minutes sounds like a match loss.
+
+[446] 2026-08-29T04:23:53.669Z | None
+In general 10 minutes I think is when the win is awarded to the present player.
+
+[447] 2026-08-29T04:47:04.145Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+If the event is not single elimination the player may be able to talk to the Head Lore Guide and get added back to the event to play round 2 though.
+
+[448] 2026-08-29T04:50:22.717Z | None
+Which would be up to their discretion.
+
+[449] 2026-08-29T05:06:46.307Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+its single elim
+
+[450] 2026-08-29T05:07:45.852Z | None
+which is why i got confused when i was told
+
+[451] 2026-08-29T07:48:15.205Z | The_Stream_Box
+These are the tardiness rules. 10 mins or more is match loss + drop from the tournament.
+
+[452] 2026-08-31T18:33:05.858Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Hypothetical Scenario:
+
+You are judging at worlds and respond to a Lore Guide call.  Oscar the non-active player just called you over.
+
+It is  Angela's turn, they have in play all exerted...
+
+ Stitch - Carefree Snowboarder, Lilo & Stitch - Fun-Loving Friends, Meilin Lee - Losing Control,
+Oscar states the following happened:
+
+Angela in a single swoop of actions does the following,Quests with  Stitch, says "Quest, Trigger",Quests with  Lilo & Stitch, says "Quest",Quests with Meilin Lee, says "Quest",Says "Gain 6 lore, going to 10" and writes down their lore total update on their pad.,Says "Draw 1 from trigger",This is the point Oscar stopped Angela before the card draw and called you over.,
+Angela agrees with the full sequence of events.
+
+Oscar explains he feels that Angela should not get a card draw because  Stitch's ability is a may ability, and because Angela clearly announced the trigger, and then took additional turn action after, that the trigger was removed from the bag and the card draw was declined.
+
+How would you respond to this judge call? (editado)lunes, 31 de agosto de 2026, 21:15
+
+[453] 2026-08-31T19:15:33.869Z | Vector
+Hypothetical Scenario:  You are judging at worlds and respond to a Lore Guide call.  Oscar the non-active player just called you over.  It is  Angela's turn, they have in play all exerted...   Stitch - Carefree Snowboarder, Lilo & Stitch - Fun-Loving Friends, Meilin Lee - Losing Control, Oscar states the following happened:  Angela in a single swoop of actions does the following,Quests with  Stitch, says "Quest, Trigger",Quests with  Lilo & Stitch, says "Quest",Quests with Meilin Lee, says "Quest",Says "Gain 6 lore, going to 10" and writes down their lore total update on their pad.,Says "Draw 1 from trigger",This is the point Oscar stopped Angela before the card draw and called you over., Angela agrees with the full sequence of events.  Oscar explains he feels that Angela should not get a card draw because  Stitch's ability is a may ability, and because Angela clearly announced the trigger, and then took additional turn action after, that the trigger was removed from the bag and the card draw was declined.  How would you respond to this judge call? (editado)lunes, 31 de agosto de 2026, 21:15
+
+[454] 2026-08-31T18:55:28.902Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+tell her there is no trigger (on quest) for this card  (editado)lunes, 31 de agosto de 2026, 20:55
+
+[455] 2026-08-31T18:55:39.045Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+tell her there is no trigger (on quest) for this card  (editado)lunes, 31 de agosto de 2026, 20:55
+
+[456] 2026-08-31T19:14:40.393Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+Fixed card name, at least I had right image
+
+[457] 2026-08-31T19:15:52.280Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+SHE IS EXTRA SPECIAL
+
+[458] 2026-08-31T19:15:54.819Z | None
+gah caps
+
+[459] 2026-08-31T19:17:56.828Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+But yes, I agree with Vector. The trigger was acknowledged appropriately, and resolved in an Out of Order Sequence.
+
+[460] 2026-09-01T06:59:43.524Z | IINK_Guillaume [LRH], Etiqueta de servidor: LRHLRHLore Guide
+That's a very interesting question, I would have initially said no because I remembered OoOS specifically mentioned excluding "triggers" which I was interpreting as "as long as nothing triggers during the OoOS it is fine to OoOS but as soon as something does it must be broken down into smaller actions".
+
+Now, reading the actual document back, the sentence used is :
+Players should take care when applying out-of-order sequencing, as it doesn’t cover any Missed Triggers.
+
+It does not actually mentions "triggers" as a gameplay element, but "Missed Triggers" capitalized as the PCG Error category, and referencing the PCG gives :
+Definition: A player misses a triggered ability or fails to demonstrate awareness of the trigger before it affects the game state.
+
+Thinking about it further, in the describe example and as Vector and Googly said, the player did not "miss" the triggered ability as they noticed it triggered and resolved it correctly, they also demonstrated awareness of it when it triggered by saying "Trigger" and did resolve it before it actually affected the game state.
+
+What they did MT is the Support from Lilo & Stitch.
+
+[461] 2026-09-01T10:57:08.055Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+Yeah I left the MT from Lilo & Stitch in there as it wasn’t relevant to the line and thought it added a little flavor. But everyone’s response here have been great. 
+
+I wanted to highlight this as an example of OoOS that is allowed because of your initial thought as something I could see Lore Guides ruling and wanted to share the knowledge of the proper interpretation. 
+
+As in the example both players clearly knew they wanted to draw the card and intended to. They just did things fast.
+
+[462] 2026-09-01T10:59:31.545Z | None
+Now what I would likely rule against is if they drew a song after then wanted to take back some of the “extra” quests to sing it. Though we can see what others weigh in on that. 
+
+Determining last Action the “batched” quest now drew a card. So New Information.
+
+[463] 2026-09-01T15:01:41.502Z | 夜曲 [LRH], Etiqueta de servidor: LRHLRH
+was just gonna say this is out of order sequencing since angela is aware of the trigger with the intent to resolve it (editado)martes, 1 de septiembre de 2026, 17:01
+
+[464] 2026-09-01T15:02:58.521Z | None
+i would rule in angelas favor and explain to oscar ooos tbh to make the reason behind the ruling clear (editado)martes, 1 de septiembre de 2026, 17:03
+
+[465] 2026-09-01T16:56:39.280Z | phil [ENCH], Etiqueta de servidor: ENCHENCHModerator
+The trigger was acknowledged.  Remember that if she didn't acknowledge the trigger at all, then we're under missed triggers potentially and that since it is missed then - as a may - it would be assumed that she declined.
+
+[466] 2026-09-04T11:35:36.378Z | DonCarlitoS1 DLC UK
+How about the view, that angela acknoledged the trigger at the right time but didnt say if she would draw or denie it. Just by acknoledeing the trigger doesent mean she want to draw a card. So by moving forward with turn base actions it could be asumed that she didnt wanted to draw a card and already resolved the trigger.
+
+In any tournament i would act the same as Vektor. But in this szenario we are at worlds and because of that i also understand the view of oscar.
+
+She could for example have 3 cards in hand one of them brooklin and intendet to play that card with bodyguard and because of that (stone by day) not want to draw. Change her mind during the bunch questing and than want to draw.
+But in any other case everyone knows she acknolaged the trigger to say i want to draw.
+
+For a worlds player you should be able to do the things the right way.
+Ih would checj the board and hand just to verify there is no circumstances she would nat wanted to draw a card. If that is given id deny the later draw. Otherwise i would let her draw because no new information was given.
+
+I know its hypotetical but im intrested in your view in that case.
+
+[467] 2026-09-04T11:38:37.086Z | GooglyGlimmers [LRH], Etiqueta de servidor: LRHLRHModerator
+How about the view, that angela acknoledged the trigger at the right time but didnt say if she would draw or denie it. Just by acknoledeing the trigger doesent mean she want to draw a card. So by moving forward with turn base actions it could be asumed that she didnt wanted to draw a card and already resolved the trigger.  In any tournament i would act the same as Vektor. But in this szenario we are at worlds and because of that i also understand the view of oscar.  She could for example have 3 cards in hand one of them brooklin and intendet to play that card with bodyguard and because of that (stone by day) not want to draw. Change her mind during the bunch questing and than want to draw. But in any other case everyone knows she acknolaged the trigger to say i want to draw.  For a worlds player you should be able to do the things the right way. Ih would checj the board and hand just to verify there is no circumstances she would nat wanted to draw a card. If that is given id deny the later draw. Otherwise i would let her draw because no new information was given.  I know its hypotetical but im intrested in your view in that case.
+
+[468] 2026-09-04T13:34:34.584Z | DonCarlitoS1 DLC UK
+Now what I would likely rule against is if they drew a song after then wanted to take back some of the “extra” quests to sing it. Though we can see what others weigh in on that.   Determining last Action the “batched” quest now drew a card. So New Information.
+
+[469] 2026-09-04T13:57:17.553Z | Danxor [LRH], Etiqueta de servidor: LRHLRHCommunity Collaborator
+If Angela did this "batch" quest with the trigger, then requested a Take back for the quest before drawing any cards, because all the quests were done together, I would tend to lean towards the full quest of all the characters could be taken back.
+

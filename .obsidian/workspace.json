@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de08200aade8c24d",
+        "id": "335a75e7315d981f",
         "type": "tabs",
         "children": [
           {
-            "id": "83152efd8f089e5b",
+            "id": "cf1755db56ba451f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.13.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -72,8 +72,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "83152efd8f089e5b",
+  "active": "744a2cfd2c0e60d8",
   "lastOpenFiles": [
     "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/RESUMEN-TURNO.md",
     "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md",

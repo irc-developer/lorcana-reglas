@@ -1,0 +1,542 @@
+{
+  "fecha": "2026-09-06",
+  "fuente": "C:\\Users\\plata\\Downloads\\lorcana-discord-1281081327680094323-1788710654412.json",
+  "fuente_sha256": "2963ed3ba4881529a399274a4b97894d7b22d1bab0c4b5dcce6b0ce4a6649714",
+  "mensajes_revisados": 470,
+  "casos_agrupados": 25,
+  "casos_publicables": 22,
+  "casos_excluidos_por_claridad": 3,
+  "criterio": "Se agrupan mensajes repetidos por hilo; se excluyen debates sin cierre, dependencias externas no reproducidas y escenarios con datos insuficientes. Las respuestas se validan contra la guía local de corrección y las Tournament Rules vigentes.",
+  "casos": [
+    {
+      "id": "PC-01",
+      "titulo": "Game Loss de un DRE: se aplica a la partida actual o siguiente",
+      "pregunta": "En un match de dos partidas se descubre durante la segunda partida un Deck/Registration Error - Major. ¿Debe asignarse otra pérdida de partida a la primera partida, que también se jugó con el mazo discrepante?",
+      "respuesta_canal": "Se indicó que una Game Loss es una sola partida y que la acción correctiva se aplica a la partida en curso o a la siguiente, nunca retroactivamente.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "No. Un único error de mazo produce una única acción correctiva. La Game Loss se registra para la partida en curso (o para la siguiente si el jugador no está jugando cuando se dicta), nunca para una partida ya terminada. No se transforma retroactivamente en dos Game Loss ni en una Match Loss salvo que la infracción concreta tenga expresamente esa acción correctiva.",
+      "fuentes": [
+        1,
+        8,
+        13,
+        20,
+        45,
+        48
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#deck-construction",
+        "#round-structure"
+      ],
+      "article": "Game Loss por error de registro aplicada a la partida actual.md"
+    },
+    {
+      "id": "PC-02",
+      "titulo": "Mazo de 53 cartas descubierto en el Top 8",
+      "pregunta": "En un Set Championship se descubre en el Top 8 que un jugador tiene un mazo de 53 cartas y el organizador no había pedido decklists. ¿La corrección es una Match Loss?",
+      "respuesta_canal": "La conversación solo aportó una respuesta para un evento casual; la guía local permite completar el mazo y clasificar el error de registro como menor o mayor según el caso.",
+      "veredicto": "corregida_con_wiki",
+      "respuesta_corregida": "No hay una Match Loss automática por el mero descubrimiento. En un Set Championship, que es Competitive, el mazo Construido debe tener al menos 60 cartas y el jugador debía registrar su mazo. Un mazo de 53 cartas es un Deck/Registration Error - Major: la acción correctiva de la guía es Game Loss y el mazo debe completarse con las cartas faltantes; si el Lead Lore Guide lo autoriza, pueden usarse proxies de tinta mientras se localizan. Que el organizador no hubiera solicitado la lista no elimina la responsabilidad del jugador ni convierte por sí solo la infracción en Match Loss.",
+      "fuentes": [
+        75,
+        80,
+        81
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#deck-construction",
+        "#round-structure"
+      ],
+      "article": "Mazo de 53 cartas descubierto en un Top 8.md"
+    },
+    {
+      "id": "PC-03",
+      "titulo": "Takeback tras intercambiar un coste antes de jugar Tramp-7",
+      "pregunta": "Un jugador intercambia su carta de coste 1, descubre inmediatamente que ya no puede jugar Tramp-7 y pregunta si podía deshacer la última acción aunque hayan pasado unos segundos.",
+      "respuesta_canal": "Se respondió que el oponente no autoriza un takeback y que debe llamarse a un Lore Guide; la política se aplica a la última acción sin información nueva.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "El jugador no puede deshacerlo por su cuenta ni depende del consentimiento del oponente. Debe llamar a un Lore Guide. Si el intercambio fue la jugada más reciente, no hubo otra acción ni información adicional y el juez puede reconstruir el estado, el Lore Guide puede autorizar el takeback completo. La espera y la observación de la reacción del oponente son factores que el juez debe valorar; no existe un derecho automático.",
+      "fuentes": [
+        49,
+        51,
+        52,
+        57,
+        59
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#timing",
+        "#turn-actions",
+        "#communication"
+      ],
+      "article": "Takeback tras una última acción sin información nueva.md"
+    },
+    {
+      "id": "PC-04",
+      "titulo": "Takeback de un desafío contra Mickey Mouse - Snowboard Ace",
+      "pregunta": "El jugador declara un desafío contra Mickey Mouse - Snowboard Ace y, antes de resolverlo, recuerda que al abandonar el juego tendrá que descartar su última carta. ¿Puede retirar el desafío?",
+      "respuesta_canal": "Se consideró un takeback válido porque el desafío era la última jugada y no se había obtenido información nueva.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "El Lore Guide puede permitir el takeback si la solicitud es inmediata y el desafío todavía no se ha resuelto. El efecto de Mickey es información pública y el jugador no ha obtenido información adicional por declarar el desafío. La autorización corresponde exclusivamente al Lore Guide y debe revertirse la jugada completa.",
+      "fuentes": [
+        279,
+        280
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#challenge",
+        "#timing"
+      ],
+      "article": "Takeback de un desafío antes de resolverlo.md"
+    },
+    {
+      "id": "PC-05",
+      "titulo": "Incar una carta y pedir un takeback después de hacer quest",
+      "pregunta": "Un jugador empieza su turno poniendo una carta en el pozo de tinta, hace después una quest y entonces se da cuenta de que no necesitaba entintar esa carta. ¿Puede deshacer el entintado?",
+      "respuesta_canal": "Se indicó que una acción posterior, aunque no haya robo de carta, hace que el takeback deje de ser elegible.",
+      "veredicto": "correcta",
+      "respuesta_corregida": "No. El takeback solo puede afectar a la jugada más reciente del jugador. La quest posterior es otra acción de juego, por lo que el entintado ya no puede deshacerse como takeback. El Lore Guide debe mantener el estado y aplicar la política normal.",
+      "fuentes": [
+        282,
+        283,
+        284
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#quest",
+        "#inkwell",
+        "#turn-actions"
+      ],
+      "article": "Takeback denegado después de una acción posterior.md"
+    },
+    {
+      "id": "PC-06",
+      "titulo": "Ocho cartas después de alterar la mano inicial",
+      "pregunta": "En la mano inicial, un jugador que roba primero altera su mano y termina con ocho cartas. ¿Puede colocar una carta al azar en la parte superior del mazo para que luego la robe, o debe aplicarse la corrección de conteo de cartas?",
+      "respuesta_canal": "La respuesta de la guía fue CCE Warning; si no se identifica la carta sobrante, se elige una carta al azar de la mano y se baraja en la parte aleatoria del mazo.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "Es un Card Count Error en un torneo Competitive y corresponde una Warning. Primero se investiga si puede identificarse la carta extra (por ejemplo, la última robada). Si no puede determinarse, se aparta aleatoriamente una carta de la mano y se baraja en la parte aleatoria del mazo. No se concede una nueva alteración ni se coloca deliberadamente la carta en la parte superior por el hecho de que el jugador vaya a robar en su turno.",
+      "fuentes": [
+        73,
+        74,
+        83,
+        85
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#hand",
+        "#private-information",
+        "#draw-multiple"
+      ],
+      "article": "Ocho cartas después de alterar la mano inicial.md"
+    },
+    {
+      "id": "PC-07",
+      "titulo": "Kida resuelta enviando cartas a la mano y al fondo",
+      "pregunta": "Al activar Kida - Creative Thinker, el jugador pone una carta en su mano y la otra en el fondo del mazo en vez de poner una en el pozo de tinta y la otra encima del mazo. ¿Qué error y remedio corresponden?",
+      "respuesta_canal": "El canal debatió CCE frente a GRE y varias formas de rebobinar. La guía de la wiki clasifica por el número incorrecto de cartas en mano y pozo de tinta.",
+      "veredicto": "corregida_con_wiki",
+      "respuesta_corregida": "Es un Card Count Error, Warning en Competitive. El resultado conocido es una carta de más en la mano y una carta de menos en el pozo de tinta; no es un Hidden Information Error porque no se vio una carta que el efecto no permitiera mirar. Tras investigar qué cartas de la mano son públicas, se elige aleatoriamente una carta no confirmada de la mano y se baraja en la parte aleatoria del mazo. Después se pone una carta aleatoria del mazo en el pozo de tinta boca abajo y agotada. Se emite una sola Warning por el incidente, aunque se corrijan ambos conteos. No se concede una mirada adicional a la parte superior ni se reconstruye la elección declarada por el jugador.",
+      "fuentes": [
+        125,
+        132,
+        145,
+        151,
+        217,
+        233,
+        240,
+        243
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#hand",
+        "#inkwell",
+        "#private-information",
+        "#resolution"
+      ],
+      "article": "Kida resuelta con cartas en zonas equivocadas.md"
+    },
+    {
+      "id": "PC-08",
+      "titulo": "Friends on the Other Side cantada mediante Kida",
+      "pregunta": "El jugador canta Friends on the Other Side con Kida, pero resuelve por error la habilidad de Kida y después realiza otras acciones legales. ¿Se devuelve la canción a la mano o se aplica una corrección de conteo?",
+      "respuesta_canal": "Se propusieron CCE y GRE; el ruling de la mesa devolvió Friends a la mano, pero la guía de la wiki exige aplicar la corrección de conteo para evitar una segunda oportunidad con información obtenida.",
+      "veredicto": "corregida_con_wiki",
+      "respuesta_corregida": "La corrección es un Card Count Error, Warning en Competitive: la resolución incorrecta dejó dos cartas de menos en la mano y una carta de más en el pozo de tinta. Se investiga la secuencia y se corrigen ambos conteos en el estado actual: se identifica y retira la carta extra del pozo de tinta (o se elige al azar entre las no confirmadas) y se baraja en la parte aleatoria del mazo; después el jugador roba dos cartas de la parte aleatoria hasta recuperar el número correcto en su mano. No se devuelve Friends a la mano para repetirla: la canción se jugó y las acciones posteriores, incluidos los robos, introdujeron información. Si hubiera indicios de que la historia se falseó para obtener una segunda selección, se investiga como posible trampa.",
+      "fuentes": [
+        249,
+        250,
+        256,
+        260,
+        263,
+        268
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#singing",
+        "#hand",
+        "#inkwell",
+        "#resolution"
+      ],
+      "article": "Friends on the Other Side resuelta por error con Kida.md"
+    },
+    {
+      "id": "PC-09",
+      "titulo": "Carta robada por el rival al hacer un rebobinado",
+      "pregunta": "Si se decide rebobinar hasta un error cometido por Alice, pero Nick ya terminó su turno y robó una carta, ¿cómo se deshace ese robo sin perjudicarle?",
+      "respuesta_canal": "Se explicó que, al deshacer el robo durante el rebobinado, se devuelve una carta aleatoria de la parte no conocida de la mano a la parte superior del mazo.",
+      "veredicto": "correcta",
+      "respuesta_corregida": "El rebobinado debe deshacer también el robo de Nick. Como la carta que robó ya no puede identificarse, se elige aleatoriamente una carta de la parte desconocida de su mano y se coloca en la parte superior del mazo. Así se revierte el robo sin elegir una carta concreta ni imponer una pérdida adicional al jugador que no cometió el error.",
+      "fuentes": [
+        247,
+        248
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#private-information",
+        "#hand",
+        "#resolution"
+      ],
+      "article": "Carta robada durante un rebobinado.md"
+    },
+    {
+      "id": "PC-10",
+      "titulo": "Revelar el pozo de tinta al oponente",
+      "pregunta": "Un jugador muestra su pozo de tinta al oponente sin mirarlo él mismo. ¿Es un Hidden Information Error?",
+      "respuesta_canal": "La respuesta del canal lo clasificó como HIE por revelar una zona privada.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "Sí. El pozo de tinta es una zona privada y el jugador es responsable de no revelar sus cartas. Mostrarlo al oponente constituye un Hidden Information Error y recibe la acción correctiva indicada para el nivel del torneo. La información que el oponente llegó a ver no puede borrarse; el Lore Guide debe registrar qué se expuso y aplicar el remedio de HIE que sea posible, sin inventar una nueva información privada ni permitir que el jugador elija una corrección favorable.",
+      "fuentes": [
+        286,
+        287,
+        288,
+        291
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#inkwell",
+        "#private-information",
+        "#communication"
+      ],
+      "article": "Revelar el pozo de tinta al oponente.md"
+    },
+    {
+      "id": "PC-11",
+      "titulo": "Preparar o agotar la tinta fuera de la Ready Step",
+      "pregunta": "Por costumbre, un jugador prepara o agota todo su pozo de tinta al final de su turno. ¿Debe corregirse y qué infracción es en un torneo Competitive?",
+      "respuesta_canal": "Se identificó como Gameplay Rules Error - General Rules Error y se señaló que no basta con recordarlo si se está aplicando la política competitiva.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "Sí. El estado de preparado o agotado debe representar las acciones realmente realizadas y la tinta solo se prepara en la Ready Step o por un efecto que lo indique. Cambiar todo el pozo por hábito es un General Rules Error y recibe una Warning en Competitive. Si el juez llega antes de que haya decisiones posteriores y el estado anterior es conocido, devuelve las cartas a su estado correcto; si ya hubo acciones, aplica los criterios de rebobinado. Ignorar deliberadamente una instrucción del Lore Guide puede constituir una infracción de conducta adicional.",
+      "fuentes": [
+        314,
+        320,
+        322,
+        328,
+        334,
+        338
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#inkwell",
+        "#turn-structure",
+        "#turn-actions"
+      ],
+      "article": "Preparar o agotar la tinta fuera de la Ready Step.md"
+    },
+    {
+      "id": "PC-12",
+      "titulo": "Discrepancia entre mazo y lista: investigar la intención",
+      "pregunta": "En un deck check, el mazo y la lista son legales pero no coinciden. ¿Debe el juez obligar siempre a adaptar el mazo a la lista, o puede el jugador elegir qué registro corregir?",
+      "respuesta_canal": "La respuesta final indicó que no se ofrece una elección: hay que investigar qué pretendía jugar el jugador. Cambiar la lista para reflejar el mazo es DRE Major y Game Loss; adaptar el mazo a una lista correcta es DRE Minor y Warning.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "El juez debe investigar la intención; no se ofrece al jugador la opción de escoger la sanción más conveniente. La lista registrada es la referencia del evento, pero la explicación del jugador y las pruebas permiten determinar qué estaba intentando jugar. Si pretendía jugar el mazo físico y la lista era la equivocada, se corrige la lista: Deck/Registration Error - Major y Game Loss. Si la lista era la correcta y el jugador reunió por error otras cartas, se corrige el mazo para que coincida con ella: Deck/Registration Error - Minor y Warning. La posición en Top Cut no cambia por sí sola la acción correctiva; solo la evidencia de engaño permite escalar por conducta.",
+      "fuentes": [
+        354,
+        358,
+        362,
+        363,
+        367,
+        369,
+        372,
+        390
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#deck-construction",
+        "#communication",
+        "#private-information"
+      ],
+      "article": "Investigar la intención en una discrepancia entre mazo y lista.md"
+    },
+    {
+      "id": "PC-13",
+      "titulo": "Tomar notas propias frente a consultar notas externas",
+      "pregunta": "La guía de corrección menciona Information and Communication Error para tomar notas y las Tournament Rules mencionan Outside Assistance. ¿Cómo se clasifican ambas conductas?",
+      "respuesta_canal": "Se distinguió entre crear notas durante el match y consultar notas externas: la primera es I&CE y la segunda Outside Assistance.",
+      "veredicto": "corregida_con_wiki",
+      "respuesta_corregida": "Son conductas distintas. Durante un match solo se permite anotar los totales de lore; crear cualquier otro registro de información de juego es un Information and Communication Error y recibe Warning en Competitive. Consultar notas, una hoja de scouting o cualquier registro externo durante el match es Outside Assistance y recibe Match Loss en Competitive. Que la información anotada sea pública no convierte en legal la nota ni su consulta.",
+      "fuentes": [
+        391,
+        392,
+        394,
+        395
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#communication",
+        "#private-information"
+      ],
+      "article": "Notas propias y asistencia externa durante un match.md"
+    },
+    {
+      "id": "PC-14",
+      "titulo": "Scouting antes de sentarse y durante el match",
+      "pregunta": "¿Cuándo empieza el match a efectos de Outside Assistance? ¿Puede un jugador preguntar a su equipo qué juega el rival al ver los emparejamientos, antes de sentarse?",
+      "respuesta_canal": "Se respondió que la consulta al equipo mientras se va a la mesa no es Outside Assistance; consultar una herramienta durante la partida sí lo sería.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "La consulta previa a sentarse y antes de comenzar las acciones de la partida queda fuera del match y no es, por sí sola, Outside Assistance. Una vez los jugadores se han sentado para jugar, consultar una hoja, una aplicación de scouting, un documento o mensajes del equipo es recibir asistencia externa y se trata como Outside Assistance. El hecho de que la pareja de tintas o el historial del rival sean información pública cuando se revela no autoriza a crear ni consultar registros externos durante el match.",
+      "fuentes": [
+        341,
+        342,
+        343,
+        346,
+        348,
+        351
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#communication",
+        "#round-structure"
+      ],
+      "article": "Scouting antes de sentarse y asistencia externa durante el match.md"
+    },
+    {
+      "id": "PC-15",
+      "titulo": "Empates intencionales y acuerdos de grupo",
+      "pregunta": "Cuatro jugadores quieren hablar antes de la ronda para acordar empates intencionales si se emparejan entre sí. ¿Es una manipulación del torneo?",
+      "respuesta_canal": "Se consideró permitido hablar de matemáticas del torneo, pero se advirtió que los acuerdos explícitos para manipular resultados pueden entrar en colusión.",
+      "veredicto": "corregida_con_wiki",
+      "respuesta_corregida": "Hablar de posiciones y de cuándo un empate sería matemáticamente útil no es por sí mismo una infracción. Cada match debe decidirse entre los dos jugadores emparejados: cualquiera puede solicitar un único empate intencional antes de que termine el match, sin recompensa ni presión, y el resultado se registra como 0-0-3. Un acuerdo previo que coordine o presione a varias personas para manipular resultados, o que incluya premios o contraprestaciones, puede ser colusión o un resultado inapropiado. La etiqueta usada —implícita o explícita— no cambia la conducta real.",
+      "fuentes": [
+        396,
+        397,
+        401,
+        404,
+        406,
+        407,
+        409,
+        411
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#round-structure",
+        "#communication"
+      ],
+      "article": "Empates intencionales y acuerdos de grupo.md"
+    },
+    {
+      "id": "PC-16",
+      "titulo": "No se puede deshacer Pete después de jugar Merlin",
+      "pregunta": "Un jugador usa Pete - Ghost of Christmas Future, coloca mal las cartas en el fondo y después juega Merlin para robar del fondo. Al descubrir el error, ¿puede deshacer la habilidad de Pete?",
+      "respuesta_canal": "Se indicó que solo puede revertirse la última acción; además, Merlin ya proporcionó información al robar del fondo.",
+      "veredicto": "correcta",
+      "respuesta_corregida": "No. La habilidad de Pete fue una jugada anterior ya completada. Jugar Merlin fue una acción posterior y además reveló información al robar del fondo, por lo que no puede autorizarse un takeback de Pete. El Lore Guide debe evaluar una corrección de la situación concreta o mantener el estado según la guía de rebobinado; no puede reabrir la elección de Pete para que el jugador ordene de nuevo las cartas después de ver el resultado.",
+      "fuentes": [
+        423,
+        424
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#timing",
+        "#private-information",
+        "#resolution"
+      ],
+      "article": "No deshacer Pete después de jugar Merlin.md"
+    },
+    {
+      "id": "PC-17",
+      "titulo": "Lore de una localización olvidado durante varios turnos",
+      "pregunta": "Un jugador olvida ganar el lore obligatorio de una localización en la Set Step y lo detecta tres o cuatro turnos después. ¿Puede recibir ahora todo el lore o debe rebobinarse?",
+      "respuesta_canal": "Se señaló que el rebobinado ya no es apropiado y que no se puede conceder el lore sin rebobinar hasta el momento correcto.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "No se concede el lore retroactivamente. La acción obligatoria de la Set Step se omitió y, después de varios turnos, un rebobinado cruzaría decisiones e información nuevas; se deja el estado tal como está y se continúa. Un juez no puede añadir el lore en el turno actual como si la Set Step siguiera abierta. La llamada debe hacerse en cuanto se detecte el error para que el Lore Guide valore cualquier acción correctiva prevista para el evento.",
+      "fuentes": [
+        430,
+        431,
+        432
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#lore-gain",
+        "#turn-start",
+        "#timing"
+      ],
+      "article": "Lore de una localización olvidado durante varios turnos.md"
+    },
+    {
+      "id": "PC-18",
+      "titulo": "Robo ilegal de Mushu según el movimiento de la carta",
+      "pregunta": "Se roba una carta con Mushu - Stealthy Dragon cuando el oponente tiene menos cartas en la mano. ¿Es GRE, HIE o CCE?",
+      "respuesta_canal": "La respuesta distinguió CCE si la carta entró en la mano y HIE si solo se vio y se devolvió.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "Depende de dónde terminó la carta. Si se añadió a la mano, hay una carta de más en una zona oculta: Card Count Error y Warning; se investiga y se devuelve aleatoriamente una carta no confirmada de la mano a la parte aleatoria del mazo. Si el jugador solo miró la carta superior y no la incorporó a la mano, es Hidden Information Error y se aplica su remedio. La habilidad de Mushu contiene un may; cuando la condición no se cumple no autoriza ningún robo.",
+      "fuentes": [
+        434,
+        435,
+        436
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#hand",
+        "#private-information",
+        "#draw-multiple"
+      ],
+      "article": "Mushu y robo cuando no se cumple la condición.md"
+    },
+    {
+      "id": "PC-19",
+      "titulo": "El juez no busca una carta ausente en un mazo Hunny",
+      "pregunta": "El oponente sospecha que un mazo Hunny no contiene Christopher Robin aunque la decklist sí lo registra. ¿Debe el Lore Guide buscar esa carta en el mazo durante la partida?",
+      "respuesta_canal": "Se respondió que el Lore Guide no debe mirar el mazo durante la partida solo para confirmar la presencia de Christopher Robin.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "No. El juez no debe registrar una zona privada durante la partida para tranquilizar una sospecha sin evidencia concreta. La decklist es la referencia registrada, pero no sustituye una investigación si existen indicios objetivos. El oponente puede pedir una llamada; el Lore Guide escucha los hechos, evita revelar cartas ocultas y, si procede, realiza un deck check conforme al procedimiento del torneo.",
+      "fuentes": [
+        437,
+        438,
+        439,
+        440,
+        441
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#deck-construction",
+        "#private-information",
+        "#communication"
+      ],
+      "article": "No buscar una carta ausente en un mazo durante la partida.md"
+    },
+    {
+      "id": "PC-20",
+      "titulo": "Llegar veinte minutos tarde a una eliminación directa",
+      "pregunta": "Un jugador llega veinte minutos después del inicio de una ronda de eliminación directa. ¿Cuál es la acción correctiva?",
+      "respuesta_canal": "La guía local establece que diez minutos o más de retraso es Match Loss; en eliminación directa esa pérdida termina la participación.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "A los veinte minutos se supera el umbral de diez minutos: corresponde una Match Loss por tardiness en la guía de corrección. En una ronda de eliminación directa, perder el match elimina al jugador del cuadro. La excepción de llegada sin penalización solo cubre el caso en que la ronda empezó antes de tiempo y el jugador llega antes de que hubiera terminado la ronda anterior.",
+      "fuentes": [
+        444,
+        445,
+        446,
+        447,
+        449,
+        451
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#round-structure",
+        "#timing"
+      ],
+      "article": "Veinte minutos de retraso en eliminación directa.md"
+    },
+    {
+      "id": "PC-21",
+      "titulo": "Trigger de Stitch reconocido en una secuencia fuera de orden",
+      "pregunta": "Angela hace quest con Stitch diciendo «Quest, Trigger», hace quest con otros personajes, anuncia el nuevo total de lore y después dice que roba por el trigger. ¿Debe permitirse el robo?",
+      "respuesta_canal": "Se concluyó que el trigger fue reconocido y la secuencia era Out-of-Order Sequencing; no era un Missed Trigger.",
+      "veredicto": "correcta_concretada",
+      "respuesta_corregida": "Sí. Angela reconoció el trigger de Stitch en el momento correcto y todos los jugadores entendieron la intención de resolverlo. Las quests, el anuncio de lore y el robo se pueden tratar como una secuencia fuera de orden porque las acciones son legales, el orden no cambia las decisiones tomadas y el robo se resuelve como parte de la misma secuencia reconocida. Si no hubiera reconocido el trigger, el efecto opcional se trataría como perdido y se presumiría rechazado. Si después de robar quisiera deshacer quests para cantar una canción, ya habría información nueva y no correspondería ese takeback.",
+      "fuentes": [
+        452,
+        454,
+        459,
+        460,
+        461,
+        462,
+        465,
+        468,
+        469
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#triggered-ability",
+        "#quest",
+        "#lore-gain",
+        "#timing"
+      ],
+      "article": "Stitch y secuencia fuera de orden con el trigger reconocido.md"
+    },
+    {
+      "id": "PC-22",
+      "titulo": "Qué debe hacer un espectador que ve una infracción",
+      "pregunta": "Un espectador observa errores de juego de ambos jugadores, pero solo llama al juez por los que benefician a su amigo. ¿Está obligado a llamar por todos y cómo debe actuar?",
+      "respuesta_canal": "El canal debatió si avisar es un derecho o una obligación; las Tournament Rules indican que el espectador debe pedir una pausa y avisar al Lore Guide, sin explicar el detalle a los jugadores.",
+      "veredicto": "corregida_con_wiki",
+      "respuesta_corregida": "El espectador debe permanecer en silencio y no intervenir en la partida. Si observa una infracción, la conducta prevista es pedir que se pause la partida y avisar al Lore Guide, comunicándole los hechos sin revelar detalles a los jugadores. La regla no convierte al espectador en juez ni le obliga a vigilar todos los errores; si sus avisos son selectivos, el Lore Guide debe investigar de forma independiente y puede aceptar la petición de un jugador de que ese espectador abandone la mesa. El espectador nunca debe imponer una corrección por su cuenta.",
+      "fuentes": [
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "tags": [
+        "#tournament-rules",
+        "#communication",
+        "#round-structure"
+      ],
+      "article": "Espectadores y avisos de infracciones.md"
+    }
+  ],
+  "excluidos": [
+    {
+      "id": "EX-01",
+      "titulo": "Demona preparada tras una Ready Step incorrecta",
+      "indices": [
+        65,
+        66,
+        67
+      ],
+      "motivo": "El hilo plantea un rebobinado a través de varias acciones, pero no contiene un ruling final verificable; se conserva como debate sin cierre."
+    },
+    {
+      "id": "EX-02",
+      "titulo": "Junior Woodchuck Guidebook: carta adicional tomada del mazo",
+      "indices": [
+        89,
+        90,
+        92,
+        93,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        102,
+        103,
+        104,
+        106,
+        109,
+        110,
+        111
+      ],
+      "motivo": "El canal ofrece dos secuencias de remedio razonables y no fija una conclusión única sobre qué carta debe robarse antes de aleatorizar."
+    },
+    {
+      "id": "EX-03",
+      "titulo": "Enlace externo del 23 de junio",
+      "indices": [
+        292,
+        293,
+        294,
+        297,
+        299,
+        305,
+        307,
+        310,
+        311,
+        313
+      ],
+      "motivo": "La pregunta depende del contenido de una publicación externa que no está reproducido en el JSON y no puede validarse solo con el historial local."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 193 | **Última actualización:** 5 de septiembre de 2026
+**Total de casos:** 215 | **Última actualización:** 6 de septiembre de 2026
 
 ---
 
@@ -250,6 +250,35 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 ---
 
+### 11.8. Correcciones de jugadas (22 casos)
+
+Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante una partida.
+
+1. [Game Loss por error de registro aplicada a la partida actual.md](<11.8. Correcciones de jugadas/Game Loss por error de registro aplicada a la partida actual.md>)
+2. [Mazo de 53 cartas descubierto en un Top 8.md](<11.8. Correcciones de jugadas/Mazo de 53 cartas descubierto en un Top 8.md>)
+3. [Takeback tras una última acción sin información nueva.md](<11.8. Correcciones de jugadas/Takeback tras una última acción sin información nueva.md>)
+4. [Takeback de un desafío antes de resolverlo.md](<11.8. Correcciones de jugadas/Takeback de un desafío antes de resolverlo.md>)
+5. [Takeback denegado después de una acción posterior.md](<11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior.md>)
+6. [Ocho cartas después de alterar la mano inicial.md](<11.8. Correcciones de jugadas/Ocho cartas después de alterar la mano inicial.md>)
+7. [Kida resuelta con cartas en zonas equivocadas.md](<11.8. Correcciones de jugadas/Kida resuelta con cartas en zonas equivocadas.md>)
+8. [Friends on the Other Side resuelta por error con Kida.md](<11.8. Correcciones de jugadas/Friends on the Other Side resuelta por error con Kida.md>)
+9. [Carta robada durante un rebobinado.md](<11.8. Correcciones de jugadas/Carta robada durante un rebobinado.md>)
+10. [Revelar el pozo de tinta al oponente.md](<11.8. Correcciones de jugadas/Revelar el pozo de tinta al oponente.md>)
+11. [Preparar o agotar la tinta fuera de la Ready Step.md](<11.8. Correcciones de jugadas/Preparar o agotar la tinta fuera de la Ready Step.md>)
+12. [Investigar la intención en una discrepancia entre mazo y lista.md](<11.8. Correcciones de jugadas/Investigar la intención en una discrepancia entre mazo y lista.md>)
+13. [Notas propias y asistencia externa durante un match.md](<11.8. Correcciones de jugadas/Notas propias y asistencia externa durante un match.md>)
+14. [Scouting antes de sentarse y asistencia externa durante el match.md](<11.8. Correcciones de jugadas/Scouting antes de sentarse y asistencia externa durante el match.md>)
+15. [Empates intencionales y acuerdos de grupo.md](<11.8. Correcciones de jugadas/Empates intencionales y acuerdos de grupo.md>)
+16. [No deshacer Pete después de jugar Merlin.md](<11.8. Correcciones de jugadas/No deshacer Pete después de jugar Merlin.md>)
+17. [Lore de una localización olvidado durante varios turnos.md](<11.8. Correcciones de jugadas/Lore de una localización olvidado durante varios turnos.md>)
+18. [Mushu y robo cuando no se cumple la condición.md](<11.8. Correcciones de jugadas/Mushu y robo cuando no se cumple la condición.md>)
+19. [No buscar una carta ausente en un mazo durante la partida.md](<11.8. Correcciones de jugadas/No buscar una carta ausente en un mazo durante la partida.md>)
+20. [Veinte minutos de retraso en eliminación directa.md](<11.8. Correcciones de jugadas/Veinte minutos de retraso en eliminación directa.md>)
+21. [Stitch y secuencia fuera de orden con el trigger reconocido.md](<11.8. Correcciones de jugadas/Stitch y secuencia fuera de orden con el trigger reconocido.md>)
+22. [Espectadores y avisos de infracciones.md](<11.8. Correcciones de jugadas/Espectadores y avisos de infracciones.md>)
+
+---
+
 ### Casos incorporados desde Discord (validación 72+26)
 
 > 15 casos revisados: 63 duplicados descartados, 20 ampliaciones y 14 artículos nuevos (dos casos de Limited comparten artículo).
@@ -296,14 +325,15 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 33    | 17.1%   |
-| **11.2 Zonas y Movimientos**     | 23    | 11.9%   |
-| **11.3 Costes y Requisitos**     | 20    | 10.4%   |
-| **11.4 Habilidades**             | 34    | 17.6%   |
-| **11.5 Keywords**                | 18    | 9.3%    |
-| **11.6 Interacciones Complejas** | 60    | 31.1%   |
-| **11.7 Dudas por desarrollar**   | 5     | 2.6%    |
-| **TOTAL**                        | **193** | **100%** |
+| **11.0 Timing y Resolución**     | 33    | 15.3%   |
+| **11.2 Zonas y Movimientos**     | 23    | 10.7%   |
+| **11.3 Costes y Requisitos**     | 20    | 9.3%    |
+| **11.4 Habilidades**             | 34    | 15.8%   |
+| **11.5 Keywords**                | 18    | 8.4%    |
+| **11.6 Interacciones Complejas** | 60    | 27.9%   |
+| **11.7 Dudas por desarrollar**   | 5     | 2.3%    |
+| **11.8 Correcciones de jugadas** | 22    | 10.2%   |
+| **TOTAL**                        | **215** | **100%** |
 
 ---
 
