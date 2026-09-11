@@ -22,6 +22,22 @@ En los torneos Competitive y Premier los jugadores deben registrar su mazo; el o
 
 ---
 
+## 🎲 Controles previos y controles aleatorios
+
+Una revisión de cortesía antes de la primera ronda puede ayudar a encontrar errores, pero no sustituye los controles aleatorios durante el evento. Si los jugadores saben que el mazo solo se revisará una vez antes de empezar, el control crea una ventana conocida en la que un cambio posterior podría quedar sin detectar.
+
+La práctica recomendada es anunciar que puede haber controles aleatorios, seleccionar mesas sin sesgo y realizar la revisión, cuando sea posible, después de que los jugadores hayan barajado y antes de que roben la mano inicial. Un control previo debe presentarse como una comprobación adicional, no como una garantía de que el mazo ya no se revisará.
+
+La finalidad es mantener un riesgo de detección razonable para todos los jugadores, no acusar a quienes son seleccionados. Los detalles operativos están desarrollados en [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Deck checks aleatorios y controles previos.md|Deck checks aleatorios y controles previos]].
+
+---
+
+## 🔢 Ejemplo con 16 jugadores
+
+Con 16 jugadores, la tabla general recomienda 4 rondas de suizo y Top 4. El organizador no debe anunciar una revisión universal al principio como sustituto de la estructura oficial de deck checks ni presentar una quinta ronda como consecuencia automática de tener 16 jugadores. La estructura de rondas y el procedimiento de comprobaciones son decisiones distintas y deben anunciarse por separado.
+
+---
+
 ## 🏷️ Tags
 
 #tournament-rules #deck-construction #communication

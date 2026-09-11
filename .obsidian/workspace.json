@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "335a75e7315d981f",
+        "id": "b50a862145db7a46",
         "type": "tabs",
         "children": [
           {
-            "id": "cf1755db56ba451f",
+            "id": "a53e3b5d04f4fe3e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,8 +168,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "744a2cfd2c0e60d8",
+  "active": "a53e3b5d04f4fe3e",
   "lastOpenFiles": [
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Cartas de prueba, falsificaciones y proxies en torneos.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Deck checks aleatorios y controles previos.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/16 jugadores y rondas adicionales en Set Championship.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Violet Parr - Deflect puede elegir un personaje sin daño.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md",
     "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/RESUMEN-TURNO.md",
     "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md",
     "099. Otros juegos de mesa/arkham-horror-tercera-edicion/AYUDAS_JUGADORES/FAQ-OFICIAL-RESUMIDA.md",
@@ -199,13 +206,6 @@
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md",
     "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md",
-    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md",
     "099. Otros juegos de mesa/Terraforming mars/AYUDAS_JUGADORES/ayuda_terraforming_mars.png",
     "099. Otros juegos de mesa/AYUDAS_JUGADORES/ayuda_terraforming_mars.png",
     "Pasted image 20260401202913.png",

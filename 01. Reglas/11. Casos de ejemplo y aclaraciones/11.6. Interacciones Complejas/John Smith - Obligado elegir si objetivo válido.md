@@ -31,9 +31,9 @@ _"If an opponent would choose one of your characters to challenge, they must cho
 "Do your worst" funciona de manera idéntica para **cualquier tipo de elección**, no solo para desafíos. Si surge una oportunidad de elegir cualquier personaje y John Smith es legal, debe elegirse.
 
 **Base normativa:**
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas y restricciones]]
-- [[01. Reglas/1. Principios generales/1.3. Jugadores (Players)#Concepto de "if able" (si es posible)|Concepto de "if able"]]
-- Analogía en Keywords: [[01.1.a Official English Reference – Unmodified/8. Keywords#Bodyguard|Bodyguard: must choose this character if able]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md|6.4. Habilidades estáticas y restricciones]]
+- [[01. Reglas/1. Principios generales/1.3. Jugadores (Players).md#Concepto de "if able" (si es posible)|Concepto de "if able"]]
+- Analogía en Keywords: [[01.1.a Official English Reference – Unmodified/8. Keywords.md#Bodyguard|Bodyguard: must choose this character if able]]
 
 ---
 
@@ -48,6 +48,28 @@ _"If an opponent would choose one of your characters to challenge, they must cho
 
 ---
 
+---
+
+## 🧩 Caso relacionado: dos John Smith frente a Red Alert
+
+[[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Red Alert|Red Alert]] dice:
+
+> *Banish chosen character with 3 {S} or less.*
+
+Si el oponente controla dos copias de [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]], las dos son personajes de Fuerza 3 y, por tanto, **cada una es una opción legal independiente** para Red Alert. La presencia de la restricción `DO YOUR WORST` de una copia no convierte a la otra en ilegal ni deja a Red Alert sin objetivo.
+
+La respuesta práctica es que Red Alert puede elegir una de las dos copias. No se interpreta que una sola elección tenga que satisfacer simultáneamente dos restricciones positivas incompatibles ni que ambas copias formen un único objetivo. Una vez elegido uno de los John Smith, Red Alert se resuelve sobre ese personaje y la otra copia sigue siendo una carta distinta en juego.
+
+Este caso no cambia la regla básica de este artículo: si solo hubiera un John Smith legal, la restricción obligaría a elegirlo. Lo que cambia aquí es que hay **dos opciones legales del mismo tipo**, no que haya cero objetivos.
+
+### Fundamento específico
+
+- [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Red Alert|Red Alert]] comprueba la Fuerza del personaje elegido, no exige que haya un único John Smith.
+- [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] crea una restricción de elección para cada copia por separado.
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md|No tener objetivo legal]]: una carta no se queda sin objetivo mientras exista una elección legal.
+
+---
+
 ## 🏷️ Tags
 
-#static-ability #restriction #must-choose #do-your-worst #choosing #john-smith
+#static-ability #restriction #must-choose #do-your-worst #choosing #john-smith #red-alert
