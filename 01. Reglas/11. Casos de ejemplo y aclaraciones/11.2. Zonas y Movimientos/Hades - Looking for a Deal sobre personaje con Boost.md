@@ -1,41 +1,50 @@
-﻿	## ❓ Duda
+## ❓ Duda
 
-Si juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] y elijo un personaje oponente que tiene cartas boca abajo debajo por Boost, y su controlador decide poner ese personaje en la parte inferior de su mazo en lugar de dejarme robar 2 cartas, ¿se miran esas cartas boca abajo? Y si hay varias cartas debajo, ¿en qué orden van al fondo del mazo?
+Si juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] y elijo un personaje oponente que tiene cartas boca abajo debajo por Boost, su controlador puede ponerlo en la parte inferior de su mazo en lugar de que yo robe 2 cartas. ¿Las cartas boca abajo se miran? ¿En qué orden se ponen en el mazo?
 
 ---
 
 ## ✅ Respuesta
 
-No se miran.
+**No se miran, y el jugador dueño de la pila puede ordenar las cartas boca abajo que acompañan al personaje.** El personaje elegido debe quedar en la posición más baja del mazo, porque Hades dice que se pone esa carta en la parte inferior. Las cartas que estaban debajo van encima de ese personaje; su controlador puede decidir el orden en que quedan.
 
-Toda la pila se mueve junta al fondo del mazo porque el personaje elegido es la carta superior de una pila y las cartas que están debajo lo acompañan a la misma zona. Como esas cartas de Boost estaban boca abajo, siguen siendo información oculta durante el movimiento y nadie puede mirar su frontal.
+Al salir del juego, el personaje y todas las cartas de su pila pasan a la misma zona. Las cartas de Boost que estaban boca abajo continúan ocultas: ningún jugador, ni siquiera su propietario, puede mirar el frontal.
 
-Además, como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] no dice “en cualquier orden”, no existe permiso para separar ni reordenar esa pila al ponerla en el mazo. La forma correcta de tratarlo es como un único bloque que conserva su orden relativo: el personaje elegido sigue siendo la carta superior del bloque y las cartas de Boost permanecen debajo de él en el mismo orden que ya tenían.
+La regla general es que cada jugador toma las decisiones necesarias sobre sus propias cartas, y el jugador cuyo mazo contiene las cartas también las manipula físicamente. Por tanto, el propietario de la pila decide el orden de las cartas ocultas al colocarlas con el personaje en su mazo. No puede cambiar qué carta queda en la posición inferior: Hades fija ahí al personaje elegido.
+
+---
+
+## 🔍 Ejemplo
+
+Si el personaje elegido tiene tres cartas boca abajo debajo, su controlador puede decidir cuál de esas tres queda inmediatamente encima del personaje y ordenar las otras dos como prefiera. El personaje elegido queda debajo de las tres, en el fondo del mazo. Nadie puede identificar las cartas de Boost mientras se hace este movimiento.
+
+Esto es distinto de [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo|Under the Sea y reordenación de pilas al mazo]]: ese efecto permite ordenar todas las cartas afectadas entre sí porque dice expresamente «en cualquier orden».
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost)#8.4.2. Restricción|8.4.2. Restricción]]: ninguna carta puesta boca abajo debajo de otra por Boost puede mirarse en ningún momento.
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila (In a stack)]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona que esa carta.
-- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)#7.2.2. Características|7.2.2. Características]]: los jugadores no pueden mirar ni cambiar el orden de las cartas de los mazos durante la partida.
-- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)#7.2.3. Origen del En cualquier orden|7.2.3. Origen del En cualquier orden]]: la posibilidad de ordenar libremente cartas al añadirlas al mazo existe cuando el propio efecto lo autoriza con “en cualquier orden”.
-
-La parte del orden final se obtiene por inferencia combinada: las cartas se mueven juntas como pila, siguen ocultas si estaban boca abajo y, sin una autorización expresa de “en cualquier orden”, no puede alterarse su orden relativo al entrar en el mazo.
+- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]]: el jugador del personaje elegido puede poner esa carta en la parte inferior de su mazo.
+- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|1.4.3. El jugador decide sobre sus cartas y las manipula físicamente]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo]]: las cartas boca abajo debajo de otra no pueden mirarse, ni siquiera por su propietario.
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila]]: cuando la carta superior abandona el juego, todas las cartas de la pila pasan a la misma zona.
+- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)#7.2.2. Características|7.2.2. El mazo es una zona privada y sus cartas permanecen boca abajo]]
+- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)#7.2.3.1. Abandonar una zona para ir al mazo|7.2.3.1. Cartas de pilas que se añaden al mazo en cualquier orden]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost)#8.4.2. Restricción|8.4.2. Boost no permite mirar la carta puesta debajo]]
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Secuencia
 
-1. **Evento de inicio**: juegas [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] y eliges un personaje oponente con una o más cartas debajo por Boost.
-2. **Elección del oponente**: el controlador de ese personaje decide poner esa carta en la parte inferior de su mazo en lugar de que robes 2 cartas.
-3. **Movimiento de pila**: como el personaje elegido es la carta superior de una pila, todas las cartas que estaban debajo se mueven con él a la misma zona.
-4. **Información oculta**: las cartas boca abajo puestas por Boost no se revelan durante ese movimiento.
-5. **Entrada en el mazo**: al no decir el efecto “en cualquier orden”, la pila entra como un bloque sin separarse ni reordenarse.
-6. **Estado final**: el personaje elegido queda asociado al mismo conjunto de cartas que tenía debajo, ahora en la parte inferior del mazo, con el mismo orden relativo entre ellas.
+1. Al resolverse la habilidad de Hades, su jugador elige un personaje oponente.
+2. El controlador de ese personaje decide si lo pone en la parte inferior de su mazo o permite que el jugador de Hades robe 2 cartas.
+3. Si elige ponerlo en el mazo, el jugador de ese mazo realiza físicamente el movimiento.
+4. Todas las cartas de Boost que estaban debajo acompañan al personaje, porque formaban una pila con él.
+5. El personaje queda en el fondo del mazo. Su controlador ordena encima de él las cartas que estaban boca abajo debajo del personaje.
+6. Ningún jugador mira esas cartas durante el movimiento.
 
 ---
 
 ## 🏷️ Tags
 
-#hades-looking-for-a-deal #boost #stack #under #deck #hidden-information #order #zones
+#hades-looking-for-a-deal #boost #stack #under #deck #facedown #hidden-information #order #zones #cr-2-2
