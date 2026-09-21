@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 222 | **Última actualización:** 11 de septiembre de 2026
+**Total de casos:** 224 | **Última actualización:** 21 de septiembre de 2026
 
 ---
 
@@ -256,7 +256,7 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 ---
 
-### 11.8. Correcciones de jugadas (23 casos)
+### 11.8. Correcciones de jugadas (25 casos)
 
 Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante una partida.
 
@@ -283,6 +283,8 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 21. [Stitch y secuencia fuera de orden con el trigger reconocido.md](<11.8. Correcciones de jugadas/Stitch y secuencia fuera de orden con el trigger reconocido.md>)
 22. [Espectadores y avisos de infracciones.md](<11.8. Correcciones de jugadas/Espectadores y avisos de infracciones.md>)
 23. [Cartas de prueba, falsificaciones y proxies en torneos.md](<11.8. Correcciones de jugadas/Cartas de prueba, falsificaciones y proxies en torneos.md>) **(DISCORD 2026 + FORO 2026)**
+24. [Conceder después de que el match terminó.md](<11.8. Correcciones de jugadas/Conceder después de que el match terminó.md>) **(DISCORD 2026)**
+25. [Takeback después de resolver una habilidad disparada que gana la partida.md](<11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida.md>) **(DISCORD 2026)**
 
 ---
 
@@ -339,19 +341,24 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - [Cartas de prueba, falsificaciones y proxies en torneos](<11.8. Correcciones de jugadas/Cartas de prueba, falsificaciones y proxies en torneos.md>)
 - Ampliados [John Smith - Obligado elegir si objetivo válido](<11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md>), [Retro Evolution Device y mano privada](<11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md>), [Set Championships - decklists y deck checks](<11.6. Interacciones Complejas/Set Championships - decklists y deck checks.md>) y [Guía práctica - Deck Checks antes del inicio del torneo](<../../05. Consejos de jueces/11. Guía práctica - Deck Checks antes del inicio del torneo.md>).
 
+#### Artículos creados a partir de dudas de Discord (19–20/09/2026)
+
+- [Conceder después de que el match terminó](<11.8. Correcciones de jugadas/Conceder después de que el match terminó.md>)
+- [Takeback después de resolver una habilidad disparada que gana la partida](<11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida.md>)
+
 ## 📊 Estadísticas
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 34    | 15.3%   |
-| **11.2 Zonas y Movimientos**     | 23    | 10.7%   |
-| **11.3 Costes y Requisitos**     | 20    | 9.3%    |
-| **11.4 Habilidades**             | 34    | 15.8%   |
-| **11.5 Keywords**                | 19    | 8.6%    |
-| **11.6 Interacciones Complejas** | 64    | 28.8%   |
-| **11.7 Dudas por desarrollar**   | 5     | 2.3%    |
-| **11.8 Correcciones de jugadas** | 23    | 10.4%   |
-| **TOTAL**                        | **222** | **100%** |
+| **11.0 Timing y Resolución**     | 34    | 15.2%   |
+| **11.2 Zonas y Movimientos**     | 23    | 10.3%   |
+| **11.3 Costes y Requisitos**     | 20    | 8.9%    |
+| **11.4 Habilidades**             | 34    | 15.2%   |
+| **11.5 Keywords**                | 19    | 8.5%    |
+| **11.6 Interacciones Complejas** | 64    | 28.6%   |
+| **11.7 Dudas por desarrollar**   | 5     | 2.2%    |
+| **11.8 Correcciones de jugadas** | 25    | 11.2%   |
+| **TOTAL**                        | **224** | **100%** |
 
 ---
 
