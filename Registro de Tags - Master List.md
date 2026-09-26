@@ -2,9 +2,9 @@
 
 **Uso**: Este es el archivo de referencia OBLIGATORIO para todos los tags usados en casos de ejemplo. Antes de usar un tag, **verificar que está en este registro**. Si es nuevo, agregarlo aquí en orden alfabético.
 
-**Última actualización**: 5 de septiembre de 2026
+**Última actualización**: 26 de septiembre de 2026
 
-**Total de tags**: 59
+**Total de tags**: 61
 
 ---
 
@@ -24,6 +24,7 @@
 | `#floating-triggered` | Habilidades disparadas flotantes | Triggers que pueden ser respondidas |
 | `#golden-rule` | Regla de oro (excepciones del texto de carta) | Cuando el texto anula reglas |
 | `#gsc` | Game State Checks (verificaciones de estado) | Momentos cuando se verifica estado del juego |
+| `#keyword-stackable` | Acumulación de palabras clave | Dudas sobre repetir o acumular una keyword |
 | `#lore-gain` | Ganar sabiduría/lore | Dudas sobre cómo ganar lore |
 | `#multiple-names` | Personajes con varios nombres reglamentarios | Comparaciones con personajes unidos por `&` |
 | `#multiple-triggers` | Múltiples habilidades disparadas | Dudas sobre varios triggers simultáneos |
@@ -84,6 +85,7 @@ Los tags de cartas se crean con el nombre exacto en minúscula con guiones:
 
 | Tag | Carta | Ejemplo |
 |-----|-------|---------|
+| `#ancestral-guitar` | Ancestral Guitar | Dudas específicas de esa carta |
 | `#ariel-ethereal-voice` | Ariel - Ethereal Voice | Dudas específicas de esa carta |
 | `#beyond-the-horizon` | Beyond the Horizon | Dudas específicas de esa carta |
 | `#elisa-maza-transformed-gargoyle` | Elisa Maza - Transformed Gargoyle | Dudas específicas de esa carta |
