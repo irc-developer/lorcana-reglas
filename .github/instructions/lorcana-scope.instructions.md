@@ -5,12 +5,13 @@ applyTo:
   - "01. Reglas/**"
   - "01.1.a Official English Reference – Unmodified/**"
   - "02. Listado de Cartas/**"
+  - "Documentacion Oficial/**"
 ---
 
 # Alcance y jerarquía de fuentes de Lorcana
 
-- Para reglas, usar solo `01. Reglas` y `01.1.a Official English Reference – Unmodified`.
-- La autoridad normativa primaria es `01.1.a Official English Reference – Unmodified`.
+- Para reglas base, usar el PDF oficial inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`, con `01. Reglas` como localización castellana.
+- Ese PDF es la autoridad normativa primaria según la copia local identificada. Los Markdown numerados de la referencia inglesa son transcripciones históricas incompletas, no texto consolidado vigente. Esta selección no autoriza carpetas legacy ni convierte todo el contenido de `Documentacion Oficial` en reglas base.
 - `01. Reglas` se usa para localizar, citar y documentar en castellano.
 - Para texto exacto de cartas, nombres y enlaces de cartas, usar solo la sección `02. Listado de Cartas` y el archivo del set correspondiente.
 - No usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica` ni material derivado o legacy para resolver, documentar o verificar.

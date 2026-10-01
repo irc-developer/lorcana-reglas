@@ -15,4 +15,5 @@ El listado de cartas de esta carpeta se ha dividido por sets en archivos indepen
 - [Set 11 - Winterspell](./Set 11 - Winterspell.md)
 - [Set 12 - Wilds Unknown](./Set 12 - Wilds Unknown.md)
 - [Set 13 - Attack of the Vine!](<./Set 13 - Attack of the Vine.md>)
+- [Set 14 - Hyperia City (listado parcial)](<./Set 14 - Hyperia City.md>)
 - [Illumineer's Quest - Palace Heist](./Illumineer's Quest - Palace Heist.md)

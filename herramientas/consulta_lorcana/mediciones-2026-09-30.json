@@ -1,0 +1,181 @@
+{
+  "measured_at_utc": "2026-09-30T09:49:54.265714+00:00",
+  "python": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "machine": "Windows-10-10.0.19045-SP0",
+  "backend": "fts5",
+  "cold_process_retrieval": {
+    "n": 20,
+    "median_ms": 890.651,
+    "p95_ms": 1010.372,
+    "min_ms": 721.386,
+    "max_ms": 1014.09
+  },
+  "cold_cli_including_start_and_json": {
+    "n": 20,
+    "median_ms": 1051.988,
+    "p95_ms": 1171.375,
+    "min_ms": 880.308,
+    "max_ms": 1194.361
+  },
+  "warm_same_process_retrieval": {
+    "n": 60,
+    "median_ms": 851.74,
+    "p95_ms": 957.307,
+    "min_ms": 683.009,
+    "max_ms": 1006.733
+  },
+  "initial_full_hash_validation": {
+    "n": 60,
+    "median_ms": 262.072,
+    "p95_ms": 274.762,
+    "min_ms": 256.894,
+    "max_ms": 287.73
+  },
+  "definition": "Frío = proceso Python nuevo por pregunta, sin purgar caché del SO. Caliente = mismo proceso, índice persistente y conexión nueva por consulta. Ambos incluyen hashing completo inicial/final y relectura de citas; no incluyen razonamiento, redacción ni transporte remoto.",
+  "coverage": {
+    "card": 2763,
+    "case": 200,
+    "cr": 654,
+    "local": 455,
+    "release": 30,
+    "special": 4,
+    "support": 355,
+    "tournament": 55
+  },
+  "sets": [
+    {
+      "path": "02. Listado de Cartas/Illumineer's Quest - Palace Heist.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 29
+    },
+    {
+      "path": "02. Listado de Cartas/Set 1 - The First Chapter.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 10 - Whispers in the Well.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 11 - Winterspell.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 242
+    },
+    {
+      "path": "02. Listado de Cartas/Set 13 - Attack of the Vine.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 245
+    },
+    {
+      "path": "02. Listado de Cartas/Set 14 - Hyperia City.md",
+      "coverage": "parcial_declarado",
+      "cards": 2
+    },
+    {
+      "path": "02. Listado de Cartas/Set 2 - Rise of the Floodborn.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 3 - Into the Inklands.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 4 - Ursula's Return.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 5 - Shimmering Skies.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 6 - Azurite Sea.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 7 - Archazia''s Island.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 8 - Reign of Jafar.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 204
+    },
+    {
+      "path": "02. Listado de Cartas/Set 9 - Fabled.md",
+      "coverage": "completitud_no_acreditada",
+      "cards": 205
+    }
+  ],
+  "pdf_qa": {
+    "pages": 55,
+    "glyphs": {
+      "!": 28,
+      "\"": 22,
+      "#": 28,
+      "$": 91,
+      "%": 18,
+      " ": 1,
+      "&": 2,
+      "'": 1
+    },
+    "glyph_profile": "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f",
+    "glyph_verification": "CR 2.2.0: fuente LorcanaCardGlyphsRegular; inspección visual pp.12 y 26 y partes de carta.",
+    "extractor": "PyMuPDF/font-aware",
+    "rules": 565,
+    "cross_page_rules": [
+      "1.10.1.3",
+      "4.6.9.2",
+      "6.1.3",
+      "6.1.6",
+      "6.1.15",
+      "6.2.6",
+      "6.5.7.3",
+      "6.6.1.2",
+      "8.1.1",
+      "9.3.2"
+    ],
+    "unresolved_references": [
+      "1.8.1.5",
+      "5.1.12",
+      "5.1.6",
+      "5.1.7"
+    ]
+  },
+  "excluded_sources": 39,
+  "source_count": 487,
+  "questions": [
+    "regla_directa",
+    "carta_exacta",
+    "ingles",
+    "sin_tildes",
+    "ambigua",
+    "timing",
+    "reemplazos",
+    "robos_multiples",
+    "movimiento_dano",
+    "torneo",
+    "coconut",
+    "antigua",
+    "ausente",
+    "parcial",
+    "belle_cancion",
+    "wasabi_another",
+    "minnie_olvido",
+    "cantar_coste",
+    "regla_cruzada",
+    "scope_pack_rush"
+  ]
+}

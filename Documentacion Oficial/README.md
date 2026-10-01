@@ -24,3 +24,10 @@ La página oficial de recursos publica dos documentos en inglés, sin número de
 - [Página oficial de recursos](https://www.disneylorcana.com/en-US/resources/): ubicación de publicación y referencia para futuras revisiones.
 
 Este material está separado de las Comprehensive Rules 2.2.0 y de las Tournament Rules vigentes. La adaptación al castellano está en [[Formato Coconut (Beta)]] y [[Cartas Coconut de la beta]].
+
+## Comunidad y actividades (fuentes oficiales externas)
+
+- [Disney Lorcana Community Code](https://files.disneylorcana.com/community-code-en.pdf): expectativas de conducta al jugar, intercambiar cartas o hablar de Lorcana; vigente desde el 10 de mayo de 2023. Resumen en [[10. Comunidad y actividades/Código de la comunidad (Community Code)|Código de la comunidad]].
+- [Evergreen Collection Quest Organizer Instructions](https://files.disneylorcana.com/Evergreen%20Collection%20Quest%20Organizer%20Instructions.pdf): procedimiento general para organizar esta actividad. Explicación en [[10. Comunidad y actividades/Collection Quest|Collection Quest]].
+
+Ambos enlaces apuntan a documentos publicados por Ravensburger. Esta carpeta no contiene copias locales de esos dos PDF.

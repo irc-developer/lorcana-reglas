@@ -1,0 +1,674 @@
+{
+  "date": "2026-09-30",
+  "server_version": "0.2.0",
+  "python": "3.14.3",
+  "sdk": "2.2.0",
+  "protocol": "legacy stdio",
+  "readonly_verified": true,
+  "note": "Proceso nuevo sin vaciar caché del SO. Overhead: roundtrip menos tiempo del motor; incluye adaptación, presentación, serialización, transporte y cliente. 60 lecturas, 20 llamadas completas para comparar textos y 4 para reproducir los casos auditados. Sin modelo ni red; no mide el tiempo del chat.",
+  "startup": {
+    "n": 3,
+    "min_ms": 2028.015,
+    "p50_ms": 2059.921,
+    "p95_ms": 2283.544,
+    "max_ms": 2308.391
+  },
+  "first_call_new_process": {
+    "n": 3,
+    "min_ms": 769.39,
+    "p50_ms": 771.844,
+    "p95_ms": 797.267,
+    "max_ms": 800.092
+  },
+  "roundtrip": {
+    "n": 60,
+    "min_ms": 683.714,
+    "p50_ms": 867.344,
+    "p95_ms": 1049.766,
+    "max_ms": 1565.66
+  },
+  "core": {
+    "n": 60,
+    "min_ms": 676.412,
+    "p50_ms": 858.341,
+    "p95_ms": 1040.993,
+    "max_ms": 1555.337
+  },
+  "overhead": {
+    "n": 60,
+    "min_ms": 5.674,
+    "p50_ms": 8.481,
+    "p95_ms": 11.046,
+    "max_ms": 38.754
+  },
+  "max_envelope_bytes": 168094,
+  "max_text_chars": 81204,
+  "text_reduction_percent": {
+    "min": 14.44,
+    "median": 23.63
+  },
+  "audit_cases": [
+    {
+      "question": "resist previene del daño puesto por acciones que ponen \"put\" en su texto?",
+      "rules_requested": [],
+      "current": true,
+      "full_text_chars": 38029,
+      "read_text_chars": 27098,
+      "reduction_percent": 28.74,
+      "all_evidence_preserved": true
+    },
+    {
+      "question": "el resist previene el daño de acciones que digan \"put counter damage\"?",
+      "rules_requested": [
+        "9.2"
+      ],
+      "current": true,
+      "full_text_chars": 51606,
+      "read_text_chars": 38075,
+      "reduction_percent": 26.22,
+      "all_evidence_preserved": true
+    }
+  ],
+  "samples": [
+    {
+      "id": "regla_directa",
+      "repeat": 0,
+      "roundtrip_ms": 770.748,
+      "core_ms": 764.511,
+      "envelope_bytes": 39920,
+      "text_chars": 19170,
+      "full_text_chars": 29529,
+      "text_reduction_percent": 35.08
+    },
+    {
+      "id": "regla_directa",
+      "repeat": 1,
+      "roundtrip_ms": 769.745,
+      "core_ms": 763.635,
+      "envelope_bytes": 39920,
+      "text_chars": 19170,
+      "full_text_chars": 29529,
+      "text_reduction_percent": 35.08
+    },
+    {
+      "id": "regla_directa",
+      "repeat": 2,
+      "roundtrip_ms": 766.718,
+      "core_ms": 760.389,
+      "envelope_bytes": 39920,
+      "text_chars": 19170,
+      "full_text_chars": 29529,
+      "text_reduction_percent": 35.08
+    },
+    {
+      "id": "carta_exacta",
+      "repeat": 0,
+      "roundtrip_ms": 976.154,
+      "core_ms": 965.847,
+      "envelope_bytes": 168094,
+      "text_chars": 81204,
+      "full_text_chars": 102532,
+      "text_reduction_percent": 20.8
+    },
+    {
+      "id": "carta_exacta",
+      "repeat": 1,
+      "roundtrip_ms": 976.266,
+      "core_ms": 965.342,
+      "envelope_bytes": 168094,
+      "text_chars": 81204,
+      "full_text_chars": 102532,
+      "text_reduction_percent": 20.8
+    },
+    {
+      "id": "carta_exacta",
+      "repeat": 2,
+      "roundtrip_ms": 974.412,
+      "core_ms": 963.409,
+      "envelope_bytes": 168094,
+      "text_chars": 81204,
+      "full_text_chars": 102532,
+      "text_reduction_percent": 20.8
+    },
+    {
+      "id": "ingles",
+      "repeat": 0,
+      "roundtrip_ms": 850.844,
+      "core_ms": 842.643,
+      "envelope_bytes": 110263,
+      "text_chars": 53146,
+      "full_text_chars": 64231,
+      "text_reduction_percent": 17.26
+    },
+    {
+      "id": "ingles",
+      "repeat": 1,
+      "roundtrip_ms": 855.707,
+      "core_ms": 847.264,
+      "envelope_bytes": 110263,
+      "text_chars": 53146,
+      "full_text_chars": 64231,
+      "text_reduction_percent": 17.26
+    },
+    {
+      "id": "ingles",
+      "repeat": 2,
+      "roundtrip_ms": 875.917,
+      "core_ms": 867.407,
+      "envelope_bytes": 110261,
+      "text_chars": 53145,
+      "full_text_chars": 64231,
+      "text_reduction_percent": 17.26
+    },
+    {
+      "id": "sin_tildes",
+      "repeat": 0,
+      "roundtrip_ms": 802.608,
+      "core_ms": 794.296,
+      "envelope_bytes": 94169,
+      "text_chars": 45323,
+      "full_text_chars": 61842,
+      "text_reduction_percent": 26.71
+    },
+    {
+      "id": "sin_tildes",
+      "repeat": 1,
+      "roundtrip_ms": 785.696,
+      "core_ms": 777.222,
+      "envelope_bytes": 94169,
+      "text_chars": 45323,
+      "full_text_chars": 61842,
+      "text_reduction_percent": 26.71
+    },
+    {
+      "id": "sin_tildes",
+      "repeat": 2,
+      "roundtrip_ms": 791.745,
+      "core_ms": 783.8,
+      "envelope_bytes": 94165,
+      "text_chars": 45321,
+      "full_text_chars": 61842,
+      "text_reduction_percent": 26.71
+    },
+    {
+      "id": "ambigua",
+      "repeat": 0,
+      "roundtrip_ms": 701.125,
+      "core_ms": 693.664,
+      "envelope_bytes": 80142,
+      "text_chars": 38758,
+      "full_text_chars": 45299,
+      "text_reduction_percent": 14.44
+    },
+    {
+      "id": "ambigua",
+      "repeat": 1,
+      "roundtrip_ms": 696.577,
+      "core_ms": 689.304,
+      "envelope_bytes": 80142,
+      "text_chars": 38758,
+      "full_text_chars": 45299,
+      "text_reduction_percent": 14.44
+    },
+    {
+      "id": "ambigua",
+      "repeat": 2,
+      "roundtrip_ms": 683.714,
+      "core_ms": 676.412,
+      "envelope_bytes": 80142,
+      "text_chars": 38758,
+      "full_text_chars": 45299,
+      "text_reduction_percent": 14.44
+    },
+    {
+      "id": "timing",
+      "repeat": 0,
+      "roundtrip_ms": 899.771,
+      "core_ms": 887.827,
+      "envelope_bytes": 96235,
+      "text_chars": 46462,
+      "full_text_chars": 61466,
+      "text_reduction_percent": 24.41
+    },
+    {
+      "id": "timing",
+      "repeat": 1,
+      "roundtrip_ms": 936.905,
+      "core_ms": 927.006,
+      "envelope_bytes": 96235,
+      "text_chars": 46462,
+      "full_text_chars": 61466,
+      "text_reduction_percent": 24.41
+    },
+    {
+      "id": "timing",
+      "repeat": 2,
+      "roundtrip_ms": 924.536,
+      "core_ms": 914.83,
+      "envelope_bytes": 96233,
+      "text_chars": 46461,
+      "full_text_chars": 61466,
+      "text_reduction_percent": 24.41
+    },
+    {
+      "id": "reemplazos",
+      "repeat": 0,
+      "roundtrip_ms": 875.539,
+      "core_ms": 863.669,
+      "envelope_bytes": 95194,
+      "text_chars": 45739,
+      "full_text_chars": 62649,
+      "text_reduction_percent": 26.99
+    },
+    {
+      "id": "reemplazos",
+      "repeat": 1,
+      "roundtrip_ms": 888.564,
+      "core_ms": 880.627,
+      "envelope_bytes": 95194,
+      "text_chars": 45739,
+      "full_text_chars": 62649,
+      "text_reduction_percent": 26.99
+    },
+    {
+      "id": "reemplazos",
+      "repeat": 2,
+      "roundtrip_ms": 884.821,
+      "core_ms": 876.368,
+      "envelope_bytes": 95194,
+      "text_chars": 45739,
+      "full_text_chars": 62649,
+      "text_reduction_percent": 26.99
+    },
+    {
+      "id": "robos_multiples",
+      "repeat": 0,
+      "roundtrip_ms": 1159.869,
+      "core_ms": 1152.057,
+      "envelope_bytes": 74293,
+      "text_chars": 35689,
+      "full_text_chars": 46773,
+      "text_reduction_percent": 23.7
+    },
+    {
+      "id": "robos_multiples",
+      "repeat": 1,
+      "roundtrip_ms": 1034.418,
+      "core_ms": 1026.694,
+      "envelope_bytes": 74293,
+      "text_chars": 35689,
+      "full_text_chars": 46773,
+      "text_reduction_percent": 23.7
+    },
+    {
+      "id": "robos_multiples",
+      "repeat": 2,
+      "roundtrip_ms": 1015.252,
+      "core_ms": 1005.637,
+      "envelope_bytes": 74293,
+      "text_chars": 35689,
+      "full_text_chars": 46773,
+      "text_reduction_percent": 23.7
+    },
+    {
+      "id": "movimiento_dano",
+      "repeat": 0,
+      "roundtrip_ms": 1043.971,
+      "core_ms": 1035.148,
+      "envelope_bytes": 75685,
+      "text_chars": 36285,
+      "full_text_chars": 51133,
+      "text_reduction_percent": 29.04
+    },
+    {
+      "id": "movimiento_dano",
+      "repeat": 1,
+      "roundtrip_ms": 1425.529,
+      "core_ms": 1386.775,
+      "envelope_bytes": 75685,
+      "text_chars": 36285,
+      "full_text_chars": 51133,
+      "text_reduction_percent": 29.04
+    },
+    {
+      "id": "movimiento_dano",
+      "repeat": 2,
+      "roundtrip_ms": 1565.66,
+      "core_ms": 1555.337,
+      "envelope_bytes": 75685,
+      "text_chars": 36285,
+      "full_text_chars": 51133,
+      "text_reduction_percent": 29.04
+    },
+    {
+      "id": "torneo",
+      "repeat": 0,
+      "roundtrip_ms": 858.377,
+      "core_ms": 851.481,
+      "envelope_bytes": 57623,
+      "text_chars": 27882,
+      "full_text_chars": 35382,
+      "text_reduction_percent": 21.2
+    },
+    {
+      "id": "torneo",
+      "repeat": 1,
+      "roundtrip_ms": 808.812,
+      "core_ms": 802.255,
+      "envelope_bytes": 57623,
+      "text_chars": 27882,
+      "full_text_chars": 35382,
+      "text_reduction_percent": 21.2
+    },
+    {
+      "id": "torneo",
+      "repeat": 2,
+      "roundtrip_ms": 793.373,
+      "core_ms": 786.874,
+      "envelope_bytes": 57623,
+      "text_chars": 27882,
+      "full_text_chars": 35382,
+      "text_reduction_percent": 21.2
+    },
+    {
+      "id": "coconut",
+      "repeat": 0,
+      "roundtrip_ms": 748.282,
+      "core_ms": 742.35,
+      "envelope_bytes": 46759,
+      "text_chars": 22375,
+      "full_text_chars": 30927,
+      "text_reduction_percent": 27.65
+    },
+    {
+      "id": "coconut",
+      "repeat": 1,
+      "roundtrip_ms": 746.518,
+      "core_ms": 740.844,
+      "envelope_bytes": 46761,
+      "text_chars": 22376,
+      "full_text_chars": 30927,
+      "text_reduction_percent": 27.65
+    },
+    {
+      "id": "coconut",
+      "repeat": 2,
+      "roundtrip_ms": 738.256,
+      "core_ms": 731.797,
+      "envelope_bytes": 46761,
+      "text_chars": 22376,
+      "full_text_chars": 30927,
+      "text_reduction_percent": 27.65
+    },
+    {
+      "id": "antigua",
+      "repeat": 0,
+      "roundtrip_ms": 828.184,
+      "core_ms": 819.226,
+      "envelope_bytes": 116029,
+      "text_chars": 55924,
+      "full_text_chars": 70928,
+      "text_reduction_percent": 21.15
+    },
+    {
+      "id": "antigua",
+      "repeat": 1,
+      "roundtrip_ms": 824.972,
+      "core_ms": 816.467,
+      "envelope_bytes": 116031,
+      "text_chars": 55925,
+      "full_text_chars": 70928,
+      "text_reduction_percent": 21.15
+    },
+    {
+      "id": "antigua",
+      "repeat": 2,
+      "roundtrip_ms": 813.48,
+      "core_ms": 804.754,
+      "envelope_bytes": 116031,
+      "text_chars": 55925,
+      "full_text_chars": 70928,
+      "text_reduction_percent": 21.15
+    },
+    {
+      "id": "ausente",
+      "repeat": 0,
+      "roundtrip_ms": 853.003,
+      "core_ms": 845.404,
+      "envelope_bytes": 75946,
+      "text_chars": 36571,
+      "full_text_chars": 46377,
+      "text_reduction_percent": 21.14
+    },
+    {
+      "id": "ausente",
+      "repeat": 1,
+      "roundtrip_ms": 843.312,
+      "core_ms": 835.58,
+      "envelope_bytes": 75946,
+      "text_chars": 36571,
+      "full_text_chars": 46377,
+      "text_reduction_percent": 21.14
+    },
+    {
+      "id": "ausente",
+      "repeat": 2,
+      "roundtrip_ms": 847.358,
+      "core_ms": 840.227,
+      "envelope_bytes": 75948,
+      "text_chars": 36572,
+      "full_text_chars": 46377,
+      "text_reduction_percent": 21.14
+    },
+    {
+      "id": "parcial",
+      "repeat": 0,
+      "roundtrip_ms": 870.889,
+      "core_ms": 862.071,
+      "envelope_bytes": 106795,
+      "text_chars": 51420,
+      "full_text_chars": 67272,
+      "text_reduction_percent": 23.56
+    },
+    {
+      "id": "parcial",
+      "repeat": 1,
+      "roundtrip_ms": 888.223,
+      "core_ms": 879.853,
+      "envelope_bytes": 106795,
+      "text_chars": 51420,
+      "full_text_chars": 67272,
+      "text_reduction_percent": 23.56
+    },
+    {
+      "id": "parcial",
+      "repeat": 2,
+      "roundtrip_ms": 870.995,
+      "core_ms": 862.837,
+      "envelope_bytes": 106795,
+      "text_chars": 51420,
+      "full_text_chars": 67272,
+      "text_reduction_percent": 23.56
+    },
+    {
+      "id": "belle_cancion",
+      "repeat": 0,
+      "roundtrip_ms": 896.873,
+      "core_ms": 887.569,
+      "envelope_bytes": 89034,
+      "text_chars": 42961,
+      "full_text_chars": 63804,
+      "text_reduction_percent": 32.67
+    },
+    {
+      "id": "belle_cancion",
+      "repeat": 1,
+      "roundtrip_ms": 897.905,
+      "core_ms": 889.232,
+      "envelope_bytes": 89036,
+      "text_chars": 42962,
+      "full_text_chars": 63804,
+      "text_reduction_percent": 32.67
+    },
+    {
+      "id": "belle_cancion",
+      "repeat": 2,
+      "roundtrip_ms": 905.391,
+      "core_ms": 895.693,
+      "envelope_bytes": 89036,
+      "text_chars": 42962,
+      "full_text_chars": 63804,
+      "text_reduction_percent": 32.67
+    },
+    {
+      "id": "wasabi_another",
+      "repeat": 0,
+      "roundtrip_ms": 951.488,
+      "core_ms": 942.365,
+      "envelope_bytes": 108133,
+      "text_chars": 52066,
+      "full_text_chars": 67917,
+      "text_reduction_percent": 23.34
+    },
+    {
+      "id": "wasabi_another",
+      "repeat": 1,
+      "roundtrip_ms": 976.405,
+      "core_ms": 967.649,
+      "envelope_bytes": 108133,
+      "text_chars": 52066,
+      "full_text_chars": 67917,
+      "text_reduction_percent": 23.34
+    },
+    {
+      "id": "wasabi_another",
+      "repeat": 2,
+      "roundtrip_ms": 970.526,
+      "core_ms": 961.8,
+      "envelope_bytes": 108127,
+      "text_chars": 52063,
+      "full_text_chars": 67917,
+      "text_reduction_percent": 23.34
+    },
+    {
+      "id": "minnie_olvido",
+      "repeat": 0,
+      "roundtrip_ms": 858.626,
+      "core_ms": 849.833,
+      "envelope_bytes": 101449,
+      "text_chars": 48910,
+      "full_text_chars": 63565,
+      "text_reduction_percent": 23.06
+    },
+    {
+      "id": "minnie_olvido",
+      "repeat": 1,
+      "roundtrip_ms": 862.297,
+      "core_ms": 853.892,
+      "envelope_bytes": 101447,
+      "text_chars": 48909,
+      "full_text_chars": 63565,
+      "text_reduction_percent": 23.06
+    },
+    {
+      "id": "minnie_olvido",
+      "repeat": 2,
+      "roundtrip_ms": 853.679,
+      "core_ms": 844.769,
+      "envelope_bytes": 101449,
+      "text_chars": 48910,
+      "full_text_chars": 63565,
+      "text_reduction_percent": 23.06
+    },
+    {
+      "id": "cantar_coste",
+      "repeat": 0,
+      "roundtrip_ms": 933.114,
+      "core_ms": 923.962,
+      "envelope_bytes": 92236,
+      "text_chars": 44359,
+      "full_text_chars": 63944,
+      "text_reduction_percent": 30.63
+    },
+    {
+      "id": "cantar_coste",
+      "repeat": 1,
+      "roundtrip_ms": 934.062,
+      "core_ms": 925.4,
+      "envelope_bytes": 92232,
+      "text_chars": 44357,
+      "full_text_chars": 63944,
+      "text_reduction_percent": 30.63
+    },
+    {
+      "id": "cantar_coste",
+      "repeat": 2,
+      "roundtrip_ms": 933.097,
+      "core_ms": 924.609,
+      "envelope_bytes": 92236,
+      "text_chars": 44359,
+      "full_text_chars": 63944,
+      "text_reduction_percent": 30.63
+    },
+    {
+      "id": "regla_cruzada",
+      "repeat": 0,
+      "roundtrip_ms": 886.783,
+      "core_ms": 877.93,
+      "envelope_bytes": 117427,
+      "text_chars": 56513,
+      "full_text_chars": 73019,
+      "text_reduction_percent": 22.61
+    },
+    {
+      "id": "regla_cruzada",
+      "repeat": 1,
+      "roundtrip_ms": 864.061,
+      "core_ms": 855.053,
+      "envelope_bytes": 117429,
+      "text_chars": 56514,
+      "full_text_chars": 73019,
+      "text_reduction_percent": 22.6
+    },
+    {
+      "id": "regla_cruzada",
+      "repeat": 2,
+      "roundtrip_ms": 870.627,
+      "core_ms": 861.629,
+      "envelope_bytes": 117429,
+      "text_chars": 56514,
+      "full_text_chars": 73019,
+      "text_reduction_percent": 22.6
+    },
+    {
+      "id": "scope_pack_rush",
+      "repeat": 0,
+      "roundtrip_ms": 789.532,
+      "core_ms": 782.873,
+      "envelope_bytes": 42234,
+      "text_chars": 20331,
+      "full_text_chars": 29453,
+      "text_reduction_percent": 30.97
+    },
+    {
+      "id": "scope_pack_rush",
+      "repeat": 1,
+      "roundtrip_ms": 792.476,
+      "core_ms": 786.126,
+      "envelope_bytes": 42234,
+      "text_chars": 20331,
+      "full_text_chars": 29453,
+      "text_reduction_percent": 30.97
+    },
+    {
+      "id": "scope_pack_rush",
+      "repeat": 2,
+      "roundtrip_ms": 790.171,
+      "core_ms": 783.925,
+      "envelope_bytes": 42234,
+      "text_chars": 20331,
+      "full_text_chars": 29453,
+      "text_reduction_percent": 30.97
+    }
+  ]
+}

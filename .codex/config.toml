@@ -1,0 +1,18 @@
+# Presupuesto de salida compatible con Codex 0.147.0; aplica a herramientas de este proyecto.
+tool_output_token_limit = 100000
+
+# MCP local de evidencia; rutas de este PC. Generado por registrar_codex.py.
+
+# MCP local de evidencia; rutas de este PC. Generado por registrar_codex.py.
+[mcp_servers.lorcana]
+command = "C:/Users/plata/OneDrive/Documentos/Proyectos/lorcana-reglas/herramientas/mcp_lorcana/.venv/Scripts/python.exe"
+args = ["-B", "-X", "utf8", "C:/Users/plata/OneDrive/Documentos/Proyectos/lorcana-reglas/herramientas/mcp_lorcana/servidor.py", "--root", "C:/Users/plata/OneDrive/Documentos/Proyectos/lorcana-reglas"]
+cwd = "C:/Users/plata/OneDrive/Documentos/Proyectos/lorcana-reglas"
+enabled = true
+startup_timeout_sec = 20
+tool_timeout_sec = 120
+enabled_tools = ["estado_fuentes", "obtener_carta", "obtener_regla", "buscar_evidencia"]
+
+[mcp_servers.lorcana.env]
+PYTHONDONTWRITEBYTECODE = "1"
+PYTHONUTF8 = "1"

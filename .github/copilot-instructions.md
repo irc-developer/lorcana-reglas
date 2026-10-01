@@ -17,5 +17,5 @@
 
 ## Alcance normativo de reglas
 
-- Para reglas base, la autoridad primaria sigue siendo `01.1.a Official English Reference – Unmodified`.
+- Para reglas base, la autoridad primaria es el PDF inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Los Markdown numerados de la referencia inglesa son transcripciones históricas incompletas; no sustituyen ese PDF para citas vigentes.
 - Usa las instrucciones y skills de `.github/instructions/` y `.github/skills/` cuando el trabajo entre en esos flujos.

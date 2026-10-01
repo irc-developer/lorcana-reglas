@@ -15,7 +15,7 @@ Solo se permite omitir las ediciones cuando el usuario pide explícitamente no m
 
 ## Fuentes y guías de apoyo
 
-- Reglas primarias: `01.1.a Official English Reference – Unmodified/`.
+- Reglas primarias: PDF inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Los Markdown ingleses numerados son transcripciones históricas incompletas y no sustituyen el PDF seleccionado.
 - Localización y documentación en castellano: `01. Reglas/`.
 - Texto exacto de cartas: archivo de set correspondiente dentro de `02. Listado de Cartas/`.
 - Artículos: `01. Reglas/11. Casos de ejemplo y aclaraciones/`.

@@ -2,9 +2,9 @@
 
 **Uso**: Este es el archivo de referencia OBLIGATORIO para todos los tags usados en casos de ejemplo. Antes de usar un tag, **verificar que está en este registro**. Si es nuevo, agregarlo aquí en orden alfabético.
 
-**Última actualización**: 26 de septiembre de 2026
+**Última actualización**: 1 de octubre de 2026
 
-**Total de tags**: 61
+**Total de tags**: 67
 
 ---
 
@@ -17,6 +17,7 @@
 | `#activated-ability` | Habilidades activadas (costeadas) | Dudas sobre costes de habilidades |
 | `#alternate-cost` | Costes alternativos | Cartas con múltiples formas de pagar |
 | `#bag-priority` | Prioridad en resolución de bolsa | Dudas sobre orden de triggers en bolsa |
+| `#bodyguard` | Restricción de desafío y entrada agotada de Guardaespaldas | Desafiar Guardaespaldas preparados con un permiso específico |
 | `#challenge` | Acción de desafiar | Dudas sobre combates y desafíos |
 | `#cost-reduction` | Reducciones de coste | Efectos que abaratan costes |
 | `#delayed-triggered` | Habilidades disparadas retardadas | Triggers que se disparan "el próximo turno" |
@@ -24,12 +25,14 @@
 | `#floating-triggered` | Habilidades disparadas flotantes | Triggers que pueden ser respondidas |
 | `#golden-rule` | Regla de oro (excepciones del texto de carta) | Cuando el texto anula reglas |
 | `#gsc` | Game State Checks (verificaciones de estado) | Momentos cuando se verifica estado del juego |
+| `#ink-drop` | Gotas de tinta | Dudas sobre la obtención o uso de gotas de tinta |
 | `#keyword-stackable` | Acumulación de palabras clave | Dudas sobre repetir o acumular una keyword |
 | `#lore-gain` | Ganar sabiduría/lore | Dudas sobre cómo ganar lore |
 | `#multiple-names` | Personajes con varios nombres reglamentarios | Comparaciones con personajes unidos por `&` |
 | `#multiple-triggers` | Múltiples habilidades disparadas | Dudas sobre varios triggers simultáneos |
 | `#quest` | Acción de irse de aventura | Dudas sobre la legalidad o el proceso de quest |
 | `#replacement-effect` | Efectos de reemplazo | Habilidades con "instead" |
+| `#resist` | Reducción de daño por Resist | Interacciones con la palabra clave Resist |
 | `#shift` | Habilidad keyword Shift | Dudas sobre Shift y timing |
 | `#static-ability` | Habilidades estáticas (siempre activas) | Efectos constantes en juego |
 | `#strength-reduction` | Reducciones de Fuerza | Efectos que aplican modificadores negativos de Fuerza |
@@ -67,6 +70,7 @@
 
 | Tag | Descripción | Ejemplo de uso |
 |-----|-------------|-----------------|
+| `#another-other` | Referencias a otra carta | Exclusión de la fuente y de elecciones previas |
 | `#defeat` | Condiciones de derrota | Formas de perder |
 | `#communication` | Comunicación del estado de juego | Información que debe comunicarse |
 | `#foreign-language` | Cartas en idiomas extranjeros | Legalidad práctica de impresiones no inglesas |
@@ -92,11 +96,13 @@ Los tags de cartas se crean con el nombre exacto en minúscula con guiones:
 | `#grandmother-willow` | Grandmother Willow | Dudas específicas de esa carta |
 | `#horned-king` | Horned King | Dudas específicas de esa carta |
 | `#lilo` | Lilo | Dudas específicas de esa carta |
+| `#marie-caught-in-the-act` | Marie - Caught in the Act | Dudas específicas de esa carta |
 | `#next-stop-olympus` | Next Stop Olympus | Dudas específicas de esa carta |
 | `#one-and-only` | One and Only | Dudas específicas de esa carta |
 | `#pudge` | Pudge | Dudas específicas de esa carta |
 | `#strange-things` | Strange Things | Dudas específicas de esa carta |
 | `#this-growing-pressure` | This Growing Pressure | Dudas específicas de esa carta |
+| `#wasabi-called-into-battle` | Wasabi - Called into Battle | Elección de otro personaje con Twin Blades |
 
 ---
 

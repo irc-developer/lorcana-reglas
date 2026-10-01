@@ -1,6 +1,6 @@
 # Guía Completa de Disney Lorcana TCG en Español
 
-*Última actualización 26/09/26*
+*Última actualización 01/10/26*
 
 ¡Hola! Me llamo Iván (Shinobana), apasionado jugador de lorcana y juez en ciernes. Sé bienvenido/a a la **guía definitiva en español sobre Disney Lorcana TCG**, el juego de cartas coleccionables de Disney. Aquí encontrarás **reglas oficiales adaptadas al castellano**, explicaciones detalladas, glosario completo, materiales para árbitros y mucho más.
 
@@ -33,6 +33,11 @@ Esta guía está basada en las **Comprehensive Rules 2.2.0**, vigentes desde el 
 
 ### 🧰 Recursos y Herramientas
 > Material de referencia para torneos, listas de control, hojas de ayuda, y enlaces útiles.
+
+---
+
+### 🤝 Comunidad y actividades
+> Explora el [[10. Comunidad y actividades/Índice|índice de comunidad y actividades]], con artículos sobre [[10. Comunidad y actividades/Collection Quest|Collection Quest]] y el [[10. Comunidad y actividades/Código de la comunidad (Community Code)|Código de la comunidad]], aplicable también a los intercambios de cartas.
 
 ---
 

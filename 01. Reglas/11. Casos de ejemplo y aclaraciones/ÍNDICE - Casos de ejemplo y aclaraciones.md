@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 228 | **Última actualización:** 26 de septiembre de 2026
+**Total de casos:** 235 | **Última actualización:** 1 de octubre de 2026
 
 ---
 
@@ -8,7 +8,7 @@
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
-### 11.0. Timing y Resolución (34 casos)
+### 11.0. Timing y Resolución (36 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -28,24 +28,26 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 14. [Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
 15. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](<11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md>)
 16. [Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md](<11.0. Timing y Resolución/Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md>) **(NUEVO: ATTACK OF THE VINE)**
-17. [Múltiples habilidades a la vez.md](<11.0. Timing y Resolución/Múltiples habilidades a la vez.md>)
-18. [Narrow Escape aplica coste 2 a cada carta elegida.md](<11.0. Timing y Resolución/Narrow Escape aplica coste 2 a cada carta elegida.md>) **(NUEVO: ATTACK OF THE VINE)**
-19. [No hay bolsa entre la parte del jugador activo y la del no activo.md](<11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md>)
-20. [No tener objetivo legal vs elegir un objetivo inválido.md](<11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md>)
-21. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](<11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md>)
-22. [Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md](<11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md>)
-23. [Orden de resolución en habilidades disparadas.md](<11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md>)
-24. [Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md](<11.0. Timing y Resolución/Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md>) **(NUEVO: ATTACK OF THE VINE)**
-25. [Prioridad entre jugador activo y no activo.md](<11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md>)
-26. [Prophetic Vision no aplica la rama de lore si juegas la acción.md](<11.0. Timing y Resolución/Prophetic Vision no aplica la rama de lore si juegas la acción.md>) **(NUEVO: ATTACK OF THE VINE)**
-27. [Qué pasa cuando se juegan dos cartas a la vez.md](<11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md>)
-28. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
-29. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
-30. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
-31. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
-32. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
-33. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
-34. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
+17. [Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>)
+18. [Múltiples habilidades a la vez.md](<11.0. Timing y Resolución/Múltiples habilidades a la vez.md>)
+19. [Narrow Escape aplica coste 2 a cada carta elegida.md](<11.0. Timing y Resolución/Narrow Escape aplica coste 2 a cada carta elegida.md>) **(NUEVO: ATTACK OF THE VINE)**
+20. [No hay bolsa entre la parte del jugador activo y la del no activo.md](<11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md>)
+21. [No tener objetivo legal vs elegir un objetivo inválido.md](<11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md>)
+22. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](<11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md>)
+23. [Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md](<11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md>)
+24. [Orden de resolución en habilidades disparadas.md](<11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md>)
+25. [Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md](<11.0. Timing y Resolución/Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md>) **(NUEVO: ATTACK OF THE VINE)**
+26. [Prioridad entre jugador activo y no activo.md](<11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md>)
+27. [Prophetic Vision no aplica la rama de lore si juegas la acción.md](<11.0. Timing y Resolución/Prophetic Vision no aplica la rama de lore si juegas la acción.md>) **(NUEVO: ATTACK OF THE VINE)**
+28. [Qué pasa cuando se juegan dos cartas a la vez.md](<11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md>)
+29. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
+30. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
+31. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
+32. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
+33. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
+34. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
+35. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
+36. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
 
 ---
 
@@ -80,34 +82,35 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 
 ---
 
-### 11.3. Costes y Requisitos (20 casos)
+### 11.3. Costes y Requisitos (21 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
 1. [Agotar personaje varias veces.md](<11.3. Costes y Requisitos/Agotar personaje varias veces.md>)
-2. [Cantar o jugar gratis cuenta como pagar 0 tinta.md](<11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md>)
-3. [Celia Mae no elige personaje si no paga el coste opcional.md](<11.3. Costes y Requisitos/Celia Mae no elige personaje si no paga el coste opcional.md>) **(NUEVO: ATTACK OF THE VINE)**
-4. [Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md](<11.3. Costes y Requisitos/Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md>) **(NUEVO: ATTACK OF THE VINE)**
-5. [Descartar como requisito para resolver una habilidad.md](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>)
-6. [Escape Plan con acción gratis al questear.md](<11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md>)
-7. [Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md](<11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md>)
-8. [Hacerse daño como requisito.md](<11.3. Costes y Requisitos/Hacerse daño como requisito.md>)
-9. [Incrementar el coste de una carta gratis.md](<11.3. Costes y Requisitos/Incrementar el coste de una carta gratis.md>)
-10. [Jugar carta sin objetivo válido.md](<11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md>)
-11. [Jugar un personaje gratis no permite usar Shift.md](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>)
-12. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
-13. [Pagar costes en la fase de final de turno.md](<11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md>)
-14. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
-15. [Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md](<11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md>)
-16. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
-17. [Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md](<11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md>)
-18. [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) **(NUEVO: ATTACK OF THE VINE)**
-19. [Permisos adicionales para entintar se acumulan.md](<11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md>) **(DISCORD 2026)**
-20. [Entintar boca arriba en torneo.md](<11.3. Costes y Requisitos/Entintar boca arriba en torneo.md>) **(DISCORD 2026)**
+2. [Belle - Exceptional Writer no reduce la canción que canta.md](<11.3. Costes y Requisitos/Belle - Exceptional Writer no reduce la canción que canta.md>)
+3. [Cantar o jugar gratis cuenta como pagar 0 tinta.md](<11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md>)
+4. [Celia Mae no elige personaje si no paga el coste opcional.md](<11.3. Costes y Requisitos/Celia Mae no elige personaje si no paga el coste opcional.md>) **(NUEVO: ATTACK OF THE VINE)**
+5. [Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md](<11.3. Costes y Requisitos/Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md>) **(NUEVO: ATTACK OF THE VINE)**
+6. [Descartar como requisito para resolver una habilidad.md](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>)
+7. [Escape Plan con acción gratis al questear.md](<11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md>)
+8. [Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md](<11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md>)
+9. [Hacerse daño como requisito.md](<11.3. Costes y Requisitos/Hacerse daño como requisito.md>)
+10. [Incrementar el coste de una carta gratis.md](<11.3. Costes y Requisitos/Incrementar el coste de una carta gratis.md>)
+11. [Jugar carta sin objetivo válido.md](<11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md>)
+12. [Jugar un personaje gratis no permite usar Shift.md](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>)
+13. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
+14. [Pagar costes en la fase de final de turno.md](<11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md>)
+15. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
+16. [Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md](<11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md>)
+17. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
+18. [Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md](<11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md>)
+19. [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) **(NUEVO: ATTACK OF THE VINE)**
+20. [Permisos adicionales para entintar se acumulan.md](<11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md>) **(DISCORD 2026)**
+21. [Entintar boca arriba en torneo.md](<11.3. Costes y Requisitos/Entintar boca arriba en torneo.md>) **(DISCORD 2026)**
 
 ---
 
-### 11.4. Habilidades (34 casos)
+### 11.4. Habilidades (35 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -140,11 +143,12 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 27. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
 28. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
 29. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
-30. [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
-31. [Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md](<11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md>) **(NUEVO: ATTACK OF THE VINE)**
-32. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
-33. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)**
-34. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
+30. [Wasabi - Called into Battle y another chosen character.md](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>)
+31. [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
+32. [Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md](<11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md>) **(NUEVO: ATTACK OF THE VINE)**
+33. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
+34. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)**
+35. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
 
 ---
 
@@ -155,7 +159,7 @@ Casos sobre palabras clave específicas de Lorcana.
 1. [Aclaraciones de Fabled.md](<11.5. Keywords/Aclaraciones de Fabled.md>)
 2. [Ancestral Guitar no convierte Singer en Singer X.md](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>)
 3. [Bambi – Ethereal Faun cantando una canción.md](<11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md>)
-4. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>)
+4. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>) — Incluye Shere Khan - Khan Industries CEO y Guardaespaldas preparados.
 5. [Boost olvidado al poner carta debajo en torneo.md](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>)
 6. [Dash Parr & Violet Parr combina los estados con Combo Shift.md](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) **(NUEVO: ATTACK OF THE VINE)**
 7. [Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md](<11.5. Keywords/Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md>)
@@ -176,7 +180,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (65 casos)
+### 11.6. Interacciones Complejas (67 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -245,6 +249,8 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 63. [Prince Charming y Pete - efecto estático frente a duración.md](<11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md>) **(DISCORD 2026)**
 64. [16 jugadores y rondas adicionales en Set Championship.md](<11.6. Interacciones Complejas/16 jugadores y rondas adicionales en Set Championship.md>) **(DISCORD 2026 + FORO 2026)**
 65. [Deck checks aleatorios y controles previos.md](<11.6. Interacciones Complejas/Deck checks aleatorios y controles previos.md>) **(FORO 2026)**
+66. [Marie - Caught in the Act con Resist y Lilo - Bundled Up.md](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
+67. [Mulan - Resourceful Recruit gana 7 lore con Buzz.md](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>)
 
 ---
 
@@ -260,7 +266,7 @@ Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están 
 
 ---
 
-### 11.8. Correcciones de jugadas (25 casos)
+### 11.8. Correcciones de jugadas (26 casos)
 
 Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante una partida.
 
@@ -289,6 +295,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 23. [Cartas de prueba, falsificaciones y proxies en torneos.md](<11.8. Correcciones de jugadas/Cartas de prueba, falsificaciones y proxies en torneos.md>) **(DISCORD 2026 + FORO 2026)**
 24. [Conceder después de que el match terminó.md](<11.8. Correcciones de jugadas/Conceder después de que el match terminó.md>) **(DISCORD 2026)**
 25. [Takeback después de resolver una habilidad disparada que gana la partida.md](<11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida.md>) **(DISCORD 2026)**
+26. [Minnie Mouse - Practical Traveler y lore olvidado.md](<11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado.md>)
 
 ---
 
@@ -356,36 +363,45 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 34    | 14.9%   |
-| **11.2 Zonas y Movimientos**     | 24    | 10.5%   |
-| **11.3 Costes y Requisitos**     | 20    | 8.8%    |
-| **11.4 Habilidades**             | 34    | 14.9%   |
-| **11.5 Keywords**                | 21    | 9.2%    |
-| **11.6 Interacciones Complejas** | 65    | 28.5%   |
-| **11.7 Dudas por desarrollar**   | 5     | 2.2%    |
-| **11.8 Correcciones de jugadas** | 25    | 11.0%   |
-| **TOTAL**                        | **228** | **100%** |
+| **11.0 Timing y Resolución**     | 36    | 15.3%   |
+| **11.2 Zonas y Movimientos**     | 24    | 10.2%   |
+| **11.3 Costes y Requisitos**     | 21    | 8.9%    |
+| **11.4 Habilidades**             | 35    | 14.9%   |
+| **11.5 Keywords**                | 21    | 8.9%    |
+| **11.6 Interacciones Complejas** | 67    | 28.5%   |
+| **11.7 Dudas por desarrollar**   | 5     | 2.1%    |
+| **11.8 Correcciones de jugadas** | 26    | 11.1%   |
+| **TOTAL**                        | **235** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Mulan - Elite Archer y Hercules - Mighty Leader**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>)
+- **Guardaespaldas y Shere Khan – Khan Industries CEO**: [El permiso para desafiar preparados obliga a elegir un Guardaespaldas preparado si es legal](<11.5. Keywords/Bodyguard.md>)
+- **Baloo – Pilote de livraison**: [La misión obligatoria no evita su restricción; haber ganado una gota este turno sí cumple su condición](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
 - **Ancestral Guitar**: [No convierte Singer en Singer X](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>)
 - **Angel**: [Let The Storm Rage On sobre Angel - Experiment 624](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
 - **Elisa Maza**: [Forever Strong y reducciones de Fuerza previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
+- **Look What You've Done**: [8 tintas no permiten repetir la acción por volver al descarte](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>)
+- **Remember Me y The Horned King**: [CAULDRON'S POWER no elude una prohibición de nombre creada por Remember Me](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
 - **Tiana**: [Efecto de Tiana...](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>) | [Tiana y Rapunzel...](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>) | [Cálculo fuerza Tiana...](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
 - **Merida**: [Merida - Steady Aim con Grab Your Sword y Ward](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>) | [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
+- **Marie**: [Marie - Caught in the Act con Resist y Lilo - Bundled Up](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
+- **Mulan y Buzz**: [Mulan - Resourceful Recruit gana 7 lore con Buzz](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>) | [Pocahontas lee el valor de lore de Mulan](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
 - **Rapunzel**: [Rapunzel conserva su protección con Resist 0](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
 - **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
-- **GSC (Game State Check)**: [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
+- **Another / other**: [Wasabi y otro personaje elegido](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) | [Roo y otra copia](<11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md>) | [Three Arrows y la segunda elección opcional](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
+- **GSC (Game State Check)**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
 - **Obligaciones y prohibiciones**: [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) | [Strange Things y This Growing Pressure](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
-- **Efecto estático**: [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) | [Prince Charming y Pete](<11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md>) | [Elisa Maza y reducciones previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
+- **Efecto estático**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) | [Prince Charming y Pete](<11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md>) | [Elisa Maza y reducciones previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
 - **Reemplazo**: [Aplicación múltiples efectos reemplazo (Escudos)](<11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Helga Sinclair - Prepared for Anything...](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>) | [Interacción reemplazo vs habilidades disparadas...](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
-- **Jugar desde el descarte y restricciones por nombre**: [Remember Me permite jugar personajes desde la mano y el descarte](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
+- **Jugar desde el descarte y restricciones por nombre**: [Remember Me permite jugar desde ambas zonas; The Horned King no elude sus prohibiciones](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
+- **Descartar frente a poner una acción en el descarte**: [Look What You've Done no se dispara al terminar de resolverse](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>)
 
 - **Dudas depuradas del foro de Discord**: [Cantar no es usar una habilidad activada](<11.5. Keywords/Cantar no es usar una habilidad activada.md>) | [Torrent solo reduce el siguiente coste de Shift](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>) | [Cartas en idiomas extranjeros en torneos](<11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos.md>) | [Fichas de recordatorio sobre el mazo](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>) | [Retro Evolution Device y mano privada](<11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md>) | [Lyle Tiberius Rourke y Rapunzel & Flynn Rider](<11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md>) | [Set Championship con 65 jugadores o más](<11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md>) | [Carta con error de impresión y comunicación](<11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md>)
 

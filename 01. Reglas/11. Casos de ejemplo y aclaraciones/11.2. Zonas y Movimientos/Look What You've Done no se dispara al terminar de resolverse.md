@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Después de jugar [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Look What You've Done|Look What You've Done]] y ponerla en el descarte al terminar de resolver sus 2 puntos de daño, ¿puedes pagar su coste para volver a jugarla inmediatamente desde allí?
+Durante tu turno tienes 8 cartas de tinta preparadas y juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Look What You've Done|Look What You've Done]], una acción de coste 2. El personaje oponente elegido no tiene Resist ni Ward, y no hay otros efectos que modifiquen el daño o el coste. Después de poner la acción en el descarte al terminar de resolver sus 2 puntos de daño, ¿puedes pagar de nuevo y repetirlo hasta jugar esa misma copia cuatro veces e infligir 8 daños?
 
 ---
 
@@ -8,32 +8,52 @@ Después de jugar [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Look Wh
 
 **No.** Ir al descarte después de resolverse como acción no es lo mismo que ser descartada.
 
-La habilidad de Look What You've Done se dispara únicamente cuando un efecto o coste te hace **descartar esa carta durante tu turno**. Si la juegas, la carta pasa por la zona de juego, resuelve su efecto y después va al descarte como parte del proceso normal de jugar una acción. Ese movimiento no cumple la condición «when you discard this card».
+La opción de jugar Look What You've Done desde el descarte se dispara cuando un efecto o coste te hace **descartar esa carta desde la mano durante tu turno**. Si la juegas, la carta pasa por la zona de juego, resuelve su efecto y después va al descarte como parte del proceso normal de jugar una acción. Ese movimiento no cumple la condición «when you discard this card».
+
+**En el escenario descrito, esa jugada inflige 2 daños y deja 6 tintas preparadas.** Tener tinta para pagar más veces no genera una nueva autorización para jugar la carta desde el descarte. La acción inflige daño; no realiza un desafío.
+
+Si descartas la carta desde la mano durante tu turno, sí puedes jugarla desde el descarte al resolver su disparo, pagando todos los costes. Cuando esa acción termina de resolverse y vuelve al descarte, tampoco vuelve a dispararse por ese movimiento. La carta no concede un permiso permanente para jugarla desde allí.
 
 ---
 
 ## 📘 Fundamento en reglas
 
-- [[5.4. Acciones (Actions)|5.4. Acciones]] establece el movimiento de una acción al descarte una vez resuelta.
-- [[7.6. Pila de descarte (Discard pile)|7.6. Pila de descarte]] define la zona, pero que una carta llegue a ella no convierte todos los movimientos en «descartar».
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]] exige que ocurra el evento concreto indicado.
-- Las *Attack of the Vine Set Release Notes* confirman esta diferencia para la carta.
+- **Texto de la carta:** la ficha del [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Look What You've Done|set 13, carta 200]] confirma el coste 2, los 2 daños y la condición de descartarla durante tu turno, pagando todos los costes para jugarla desde el descarte.
+- **Glosario oficial, «discard», p. 47:** distingue la zona de descarte de la acción de descartar. Solo se descartan cartas desde la mano; también llegan a esa zona las acciones que terminan de resolverse. Véase el [[Comprehensive-Rules_2.2.0-EN.pdf|PDF oficial CR 2.2.0]].
+- **CR 4.3.3.2 y 6.7.1.2, pp. 13 y 36:** una acción entra en la zona de juego, resuelve el efecto que genera y después se coloca en el descarte. Localización: [[4.3. Jugar una carta (Play a Card)|Jugar una carta]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolución de cartas y efectos]].
+- **CR 6.2.1 y 7.7.3.1, pp. 30 y 40:** el disparo requiere que se cumpla su condición. Si ocurre durante otro efecto, se añade a la bolsa y espera a que ese efecto termine. Localización: [[6.2. Habilidades Disparadas (Triggered Abilities)|Habilidades disparadas]] y [[7.7. Bolsa (Bag)|Bolsa]].
+- **CR 1.8.1 y 1.8.3, pp. 6–7:** tras completar la resolución se realizan las comprobaciones del estado del juego antes de continuar con la bolsa. Localización: [[1.8. Chequeo del estado del juego (Game State Check)|Chequeo del estado del juego]].
+- **FAQ oficial de Look What You've Done, p. 29 de las notas del set:** confirma expresamente que no puedes pagar de nuevo para jugarla desde el descarte por haber terminado de infligir daño. La opción se dispara por un descarte durante tu turno. Véase [[Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]].
 
 ---
 
 ## 🔄 Secuencia oficial
 
-1. Juegas Look What You've Done desde la mano.
-2. La acción inflige 2 de daño al personaje elegido.
-3. Al terminar su resolución, la acción se mueve al descarte.
-4. Como no fue descartada, su segunda habilidad no se dispara.
-5. Si otro efecto te hace descartarla desde la mano durante tu turno, entonces sí se dispara y puede permitir jugarla desde el descarte pagando todos los costes.
+### Jugarla desde la mano con 8 tintas
+
+1. Juegas Look What You've Done desde la mano y pagas 2 tintas, agotando dos de las ocho cartas de tinta preparadas.
+2. La acción entra en la zona de juego. Al resolver su efecto, eliges al personaje oponente y le infliges 2 daños.
+3. Al terminar la resolución, la acción se coloca en el descarte. Este movimiento desde la zona de juego no es un descarte desde la mano y no genera su disparo.
+4. Se realiza la comprobación del estado del juego: si el personaje tiene daño igual o superior a su Voluntad, es desterrado. Se repiten las comprobaciones y se resuelven los demás disparos que correspondan.
+5. La carta permanece en el descarte. Las 6 tintas preparadas restantes no permiten volver a jugarla por su propio texto.
+
+### Descartarla durante tu turno
+
+1. Otro efecto o coste te hace descartar Look What You've Done desde la mano durante tu turno. La carta se coloca en tu descarte y su disparo se añade a la bolsa.
+2. Se completa el efecto o acción que causó el descarte y las comprobaciones del estado del juego correspondientes antes de resolver el disparo.
+3. Al resolver ese disparo, puedes jugar esa carta desde tu descarte si sigue allí y puedes pagar todos los costes. Sin modificadores, pagas 2 tintas.
+4. La acción entra en la zona de juego y, una vez resuelto el efecto que permitió jugarla, resuelve su efecto de infligir 2 daños al personaje elegido (CR 6.7.8).
+5. Al terminar, vuelve al descarte. Ese movimiento tampoco es descartar, por lo que no genera otra oportunidad de jugarla. Se realizan las comprobaciones del estado del juego y se continúa con la bolsa.
 
 ---
 
 ## 📝 Fuente y estado
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+La distinción está confirmada por la FAQ oficial; el ejemplo de 8 tintas y las secuencias son su aplicación didáctica a la duda de la captura de Discord del 30/09/2026. La respuesta comunitaria sirve como contexto de la pregunta.
+
+- [Notas oficiales de Attack of the Vine, p. 29](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf#page=29), contrastadas con el texto de la copia local.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), efectivas el 9 de julio de 2026. La [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) seguía enlazando ambos documentos al comprobarla el 30/09/2026. El PDF de CR se abrió y confirmó versión y fecha; no se compararon hashes remotos. La lectura remota de las notas falló por tamaño en el visor y por HTTP 403 en la descarga, por lo que su contenido se verificó en la copia local.
+- Contexto de integración en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

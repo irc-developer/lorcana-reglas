@@ -17,7 +17,7 @@ La clave es distinguir dos tipos de efectos:
 | Modificador continuo de {L} (ej. localización que da +3 {L}, INCREASING WISDOM de Genie) | ✅ Sí | ✅ Sí |
 | Habilidad disparada que hace *ganar lore* (ej. RIGOROUS TRAINING de Mulan: "gain lore equal to her {S}") | ❌ No | ❌ No |
 
-**Mulan – Resourceful Recruit** ({L} base 1): aunque tenga 6 {S} y su RIGOROUS TRAINING la haga ganar mucho lore al questear, eso es un efecto disparado de "gain lore", no un modificador de {L}. Pocahontas solo ganaría **1 lore**.
+**Mulan – Resourceful Recruit** ({L} base 0): aunque tenga 6 {S} y su RIGOROUS TRAINING la haga ganar mucho lore al questear, eso es un efecto disparado de "gain lore", no un modificador de {L}. Pocahontas solo ganaría **0 lore** si ningún otro efecto modifica el valor {L} de Mulan. Si Mulan recibió +1 {L} de Buzz, Pocahontas ganaría **1 lore** al elegirla. Véase [[Mulan - Resourceful Recruit gana 7 lore con Buzz]].
 
 **Genie – Magical Researcher** ({L} base 1+): su habilidad INCREASING WISDOM dice "This character gets +1 {L}" por carta bajo él → sí modifica la característica {L} → Pocahontas cuenta todo el valor actual.
 

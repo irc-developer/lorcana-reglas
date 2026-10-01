@@ -1,10 +1,10 @@
 # Prompts reutilizables
 
-Esta carpeta queda reservada para prompts reutilizables de una sola tarea.
+Esta carpeta contiene prompts reutilizables de una sola tarea.
 
 Estado actual:
 
-- No hay prompts del workspace todavía.
+- [Crear herramientas de consulta rápida de Lorcana](crear-consulta-rapida-lorcana.prompt.md): prompt para construir búsqueda local y una entrada de consulta con fuentes y ejemplos, utilizable desde Codex Remote.
 - Las tareas repetibles y multietapa siguen viviendo como skills en `.github/skills/`.
 
-Si en el futuro se crean prompts, deberán ser breves, de una sola responsabilidad y sin duplicar lógica que ya viva en una skill.
+Los prompts deben ser breves, tener una sola responsabilidad y remitir a las skills existentes cuando corresponda. La lógica repetible y multietapa debe permanecer en su skill responsable.
