@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 235 | **Última actualización:** 1 de octubre de 2026
+**Total de casos:** 235 | **Última actualización:** 3 de octubre de 2026
 
 ---
 
@@ -12,7 +12,7 @@
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
-1. [Boo - Energetic Child destierra antes del daño del desafío.md](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>) **(NUEVO: ATTACK OF THE VINE)**
+1. [Boo - Energetic Child destierra antes del daño del desafío.md](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>) **(NUEVO: ATTACK OF THE VINE)** — Incluye Scrooge McDuck - S.H.U.S.H. Agent: prioridad de bolsa y retorno fallido tras el destierro.
 2. [Cartas en mano y el cálculo de triggers.md](<11.0. Timing y Resolución/Cartas en mano y el cálculo de triggers.md>)
 3. [Cartas en una pila.md](<11.0. Timing y Resolución/Cartas en una pila.md>)
 4. [Cláusula sobre personaje y luego otra sobre el mismo.md](<11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md>)
@@ -59,7 +59,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 2. [Anna - Braving the Storm no funciona en descarte.md](<11.2. Zonas y Movimientos/Anna - Braving the Storm no funciona en descarte.md>)
 3. [Be Prepared con Sid Phillips - Toy Surgeon.md](<11.2. Zonas y Movimientos/Be Prepared con Sid Phillips - Toy Surgeon.md>)
 4. [Be Prepared y devolver personajes a la mano.md](<11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano.md>)
-5. [Carta que me impide el descarte vs carta que me indica descartar.md](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>)
+5. [Carta que me impide el descarte vs carta que me indica descartar.md](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>) — Kronk con Megara y Sign the Scroll: el descarte está impedido y quien juega la acción gana 2 lore por ese oponente.
 6. [Cartas volviendo a tu mano cuando son desterradas.md](<11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md>)
 7. [Desterrar y volver a la mano desde la zona de juego.md](<11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md>)
 8. [Elegir 0 cartas para barajar en el mazo no baraja el mazo.md](<11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md>)
@@ -69,7 +69,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 12. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
 13. [Look What You've Done no se dispara al terminar de resolverse.md](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>) **(NUEVO: ATTACK OF THE VINE)**
 14. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
-15. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
+15. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>) — Incluye ambos permisos activos con The Horned King: se aplican conjuntamente y no puedes elegir uno para evitar la restricción de nombres.
 16. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
 17. [Sulley & Boo permite jugar las cartas que estaban boca abajo.md](<11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md>) **(NUEVO: ATTACK OF THE VINE)**
 18. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
@@ -91,7 +91,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 3. [Cantar o jugar gratis cuenta como pagar 0 tinta.md](<11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md>)
 4. [Celia Mae no elige personaje si no paga el coste opcional.md](<11.3. Costes y Requisitos/Celia Mae no elige personaje si no paga el coste opcional.md>) **(NUEVO: ATTACK OF THE VINE)**
 5. [Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md](<11.3. Costes y Requisitos/Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md>) **(NUEVO: ATTACK OF THE VINE)**
-6. [Descartar como requisito para resolver una habilidad.md](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>)
+6. [Descartar como requisito para resolver una habilidad.md](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>) — Kronk con Angel - Experiment 624 y Maleficent: sin descarte no hay daño ni retorno.
 7. [Escape Plan con acción gratis al questear.md](<11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md>)
 8. [Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md](<11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md>)
 9. [Hacerse daño como requisito.md](<11.3. Costes y Requisitos/Hacerse daño como requisito.md>)
@@ -157,7 +157,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 Casos sobre palabras clave específicas de Lorcana.
 
 1. [Aclaraciones de Fabled.md](<11.5. Keywords/Aclaraciones de Fabled.md>)
-2. [Ancestral Guitar no convierte Singer en Singer X.md](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>)
+2. [Ancestral Guitar no convierte Singer en Singer X.md](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>) — Incluye varios +2, límites de zona y Singer concedido a un rival para Ernesto.
 3. [Bambi – Ethereal Faun cantando una canción.md](<11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md>)
 4. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>) — Incluye Shere Khan - Khan Industries CEO y Guardaespaldas preparados.
 5. [Boost olvidado al poner carta debajo en torneo.md](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>)
@@ -378,14 +378,16 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Boo y Scrooge McDuck – S.H.U.S.H. Agent**: [Kid-Tastrophe! destierra antes de On the Move; Scrooge permanece en el descarte](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>)
 - **Mulan - Elite Archer y Hercules - Mighty Leader**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>)
 - **Guardaespaldas y Shere Khan – Khan Industries CEO**: [El permiso para desafiar preparados obliga a elegir un Guardaespaldas preparado si es legal](<11.5. Keywords/Bodyguard.md>)
 - **Baloo – Pilote de livraison**: [La misión obligatoria no evita su restricción; haber ganado una gota este turno sí cumple su condición](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
-- **Ancestral Guitar**: [No convierte Singer en Singer X](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>)
+- **Ancestral Guitar, Goofy, Héctor y Ernesto**: [Singer no aumenta; los +2 se suman, solo en juego, y permiten el destierro con Ernesto](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>)
 - **Angel**: [Let The Storm Rage On sobre Angel - Experiment 624](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
+- **Kronk, Angel y Sign the Scroll**: [El descarte impedido detiene GOOD AIM](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>) | [Sign the Scroll gana lore por el oponente que no descarta](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>)
 - **Elisa Maza**: [Forever Strong y reducciones de Fuerza previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
 - **Look What You've Done**: [8 tintas no permiten repetir la acción por volver al descarte](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>)
-- **Remember Me y The Horned King**: [CAULDRON'S POWER no elude una prohibición de nombre creada por Remember Me](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
+- **Remember Me y The Horned King**: [Ambos efectos activos se aplican conjuntamente; elegir CAULDRON'S POWER no evita bloquear los nombres](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
 - **Tiana**: [Efecto de Tiana...](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>) | [Tiana y Rapunzel...](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>) | [Cálculo fuerza Tiana...](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
 - **Merida**: [Merida - Steady Aim con Grab Your Sword y Ward](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>) | [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
 - **Marie**: [Marie - Caught in the Act con Resist y Lilo - Bundled Up](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
@@ -395,13 +397,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Cambio de zona con una habilidad pendiente**: [Boo y Scrooge: On the Move sigue en la bolsa, pero no recupera la carta desde el descarte](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>)
 - **Another / other**: [Wasabi y otro personaje elegido](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) | [Roo y otra copia](<11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md>) | [Three Arrows y la segunda elección opcional](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
 - **GSC (Game State Check)**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
 - **Obligaciones y prohibiciones**: [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) | [Strange Things y This Growing Pressure](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
 - **Efecto estático**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) | [Prince Charming y Pete](<11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md>) | [Elisa Maza y reducciones previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
 - **Reemplazo**: [Aplicación múltiples efectos reemplazo (Escudos)](<11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Helga Sinclair - Prepared for Anything...](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>) | [Interacción reemplazo vs habilidades disparadas...](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
-- **Jugar desde el descarte y restricciones por nombre**: [Remember Me permite jugar desde ambas zonas; The Horned King no elude sus prohibiciones](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
+- **Jugar desde el descarte y restricciones por nombre**: [Remember Me permite varios nombres distintos; ambos permisos activos mantienen la restricción](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
 - **Descartar frente a poner una acción en el descarte**: [Look What You've Done no se dispara al terminar de resolverse](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>)
+- **Prevención del descarte y efectos secuenciales**: [Kronk impide completar «descartar para»](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>) | [Elección obligatoria de Megara y descarte opcional de Sign the Scroll](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>)
 
 - **Dudas depuradas del foro de Discord**: [Cantar no es usar una habilidad activada](<11.5. Keywords/Cantar no es usar una habilidad activada.md>) | [Torrent solo reduce el siguiente coste de Shift](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>) | [Cartas en idiomas extranjeros en torneos](<11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos.md>) | [Fichas de recordatorio sobre el mazo](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>) | [Retro Evolution Device y mano privada](<11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md>) | [Lyle Tiberius Rourke y Rapunzel & Flynn Rider](<11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md>) | [Set Championship con 65 jugadores o más](<11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md>) | [Carta con error de impresión y comunicación](<11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md>)
 
