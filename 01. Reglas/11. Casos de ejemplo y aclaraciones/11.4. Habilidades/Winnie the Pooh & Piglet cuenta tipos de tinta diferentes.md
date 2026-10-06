@@ -12,7 +12,7 @@ Winnie the Pooh & Piglet tiene los tipos Amethyst y Sapphire. El otro personaje 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[5.2. Partes de una carta (Parts of a Card)|5.2. Partes de una carta]] regula los símbolos y tipos de tinta, incluidas las cartas con dos tipos.
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas]] aplica continuamente el modificador de Magical Mix.
@@ -30,9 +30,9 @@ Winnie the Pooh & Piglet tiene los tipos Amethyst y Sapphire. El otro personaje 
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

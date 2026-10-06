@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Una carta firmada (incluso sobre el textbox) es legal en torneo?
 
@@ -18,20 +18,9 @@ En torneos Competitive y Premier, las firmas están permitidas si no modifican l
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
-- [[3.10. Accesorios Aprobados (Approved Accessories)|Accesorios aprobados]]
-- ---
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
+- [[3.11 Accesorios Aprobados (Approved Accessories)|Accesorios aprobados]]
 
 ---
 

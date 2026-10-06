@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Si juego un personaje agotable y hay efectos de reemplazo en juego (de otras cartas o de la propia), cuál se aplica primero?
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Efectos de reemplazo extrínseco e intrínseco**
 
@@ -26,24 +26,8 @@
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5 Efectos de reemplazo]]
 - [[01. Reglas/8. Palabras clave (Keywords)/8.9. Prisa (Rush)|8.9 Rush]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.2. Guardaespaldas (Bodyguard)|8.2 Bodyguard]]
+- [[8.3. Guardaespaldas (Bodyguard)|Guardaespaldas]]
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.4 Jugar una carta]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
-
----
-
-## 🏷️ Tags
-
-#replacement-effects #timing #play-card #extrinsic #intrinsic #bodyguard #abilities #rush
 
 ---
 
@@ -52,3 +36,9 @@
 Las modificaciones de cómo una carta entra en juego no son efectos de reemplazo independientes que obliguen a escoger uno. Si un efecto hace que el personaje entre con daño y otro hace que entre agotado, se aplican ambos durante la resolución de la jugada, salvo que el propio texto establezca una incompatibilidad. El personaje puede quedar agotado y con daño mientras sigue secándose.
 
 Fundamento: reglas 4.3.3 y 6.7.9 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].
+
+---
+
+## 🏷️ Tags
+
+#replacement-effects #timing #play-card #extrinsic #intrinsic #bodyguard #abilities #rush

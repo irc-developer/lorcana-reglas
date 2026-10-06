@@ -1,40 +1,26 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Puedo tener una palabra clave (Support) en un personaje más allá de si el personaje que la crea está en juego, a través de una habilidad estática?
 
 ## ✅ Respuesta
 
-Sí, puedes. Esto es debido a que la [[Habilidad estática (static ability)]] de Alicia crea un [[Efecto de reemplazo (replacement effect)]] que añade a cada uno de los personajes en juego, en la mano y en el descarte la [[Palabras clave (keyword ability)]] [[01. Reglas/10. Palabras clave (Keywords)/10.13. Apoyo (Support)]].
+Sí, puedes. Esto es debido a que la [[6.4. Habilidades Estáticas (Static Abilities)|Habilidades estáticas]] de Alicia crea un [[6.5. Efectos de Reemplazo (Replacement Effects)|Efectos de reemplazo]] que añade a cada uno de los personajes en juego, en la mano y en el descarte la [[8.1. Generalidades (General)|Habilidades de palabra clave]] [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)]].
  
 ### Referencias
+
 [PDF oficial de Fabled](https://files.disneylorcana.com/Fabled_SetReleaseNotes_EN.pdf)
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
-- [[Habilidad estÃƒ¡tica (static ability)]]
-- [[Efecto de reemplazo (replacement effect)]]
-- [[Palabras clave (keyword ability)]]
-- [[10. Palabras clave (Keywords)/10.13. Apoyo (Support)]]
-- [[Habilidad estÃƒ¡tica (static ability)]]
-- [[Efecto de reemplazo (replacement effect)]]
-- [[Palabras clave (keyword ability)]]
-- [[10. Palabras clave (Keywords)/10.13. Apoyo (Support)]]
-- ---
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
+- [[6.4. Habilidades Estáticas (Static Abilities)|Habilidades estáticas]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|Efectos de reemplazo]]
+- [[8.1. Generalidades (General)|Habilidades de palabra clave]]
+- [[8. Palabras clave (Keywords)/8.13. Apoyo (Support)]]
 
 ---
 
 ## 🏷️ Tags
 
-#inherited-keywords #static-ability #replacement-effects #support#abilities
+#inherited-keywords #static-ability #replacement-effects #support #abilities

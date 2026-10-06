@@ -12,24 +12,13 @@ La reducción solo modifica el coste de **Shift** del siguiente personaje que ha
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Mrs. Incredible - Created by the Vine|Mrs. Incredible - Created by the Vine]]: Torrent se dispara cada vez que uno de tus personajes Floodborn hace quest y reduce en 1 el siguiente coste de Shift de ese turno.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]]: cada cumplimiento independiente de la condición añade una instancia a la bolsa.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos|6.1.2. Frases y efectos independientes]]: cada instancia se resuelve por separado.
 - [[01. Reglas/1. Principios generales/1.5 Costes (Costs)#1.5.4. Coste vs Modificadores de pago|1.5.4. Coste y modificadores de pago]] y [[01. Reglas/1. Principios generales/1.5 Costes (Costs)#1.5.5.2 Shift|1.5.5.2. Shift]].
 - [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 1.5, 6.1.2 y 6.2.
-
----
-
-## 🔄 Secuencia oficial
-
-1. Un Floodborn hace quest.
-2. Torrent se dispara y entra en la bolsa.
-3. Se resuelve esa instancia: crea una reducción de 1 para el siguiente Shift de este turno.
-4. El proceso se repite por cada Floodborn que haya hecho quest.
-5. Al hacer Shift, todas las reducciones pendientes se aplican al mismo coste de Shift.
-6. La reducción no afecta a un juego normal de personaje.
 
 ---
 

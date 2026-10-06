@@ -22,9 +22,9 @@ Las habilidades como Ward **solo funcionan mientras el personaje está en zona d
 
 [[8.15 Protección (ward)|Ward]] — Define que Ward protege un personaje de ser elegido como objetivo mientras está en juego.
 
-[[7.1. Zona de Juego (Play Zone)|Zona de Juego]] — Especifica que solo los personajes en zona de juego están "en juego" y sujetos a sus habilidades.
+[[7.4. Juego (Play)|Zona de juego]] — Especifica que solo los personajes en zona de juego están "en juego" y sujetos a sus habilidades.
 
-[[7.3. Descarte (Discard)|Descarte]] — Las cartas en descarte están fuera del juego y no pueden ser elegidas por ninguna acción.
+[[7.6. Pila de descarte (Discard pile)|Pila de descarte]] — Las cartas en descarte están fuera del juego y no pueden ser elegidas por ninguna acción.
 
 [[6.4. Habilidades Estáticas (Static Abilities)|Habilidades Estáticas]] — Las habilidades estáticas como Ward solo están activas si la carta está en la zona donde la habilidad aplica.
 
@@ -45,5 +45,8 @@ Las habilidades como Ward **solo funcionan mientras el personaje está en zona d
 
 # 🏷️ Tags
 
-#ward #static-ability #play-zone #discard #scope
+---
 
+## 🏷️ Tags
+
+#ward #static-ability #play-zone #discard #scope

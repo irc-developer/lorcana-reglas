@@ -10,7 +10,7 @@ Sí. El pozo de tinta es una zona privada y el jugador es responsable de no reve
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/5 Información y comunicación/5.4 Información en el Juego (In-Game Information).md|Información privada revelada]]
 - [[03. Reglas de Torneo/5 Información y comunicación/5.5 Pozo de tinta.md|Pozo de tinta separado y boca abajo]]
@@ -18,7 +18,7 @@ Sí. El pozo de tinta es una zona privada y el jugador es responsable de no reve
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. El jugador detiene la partida y llama al Lore Guide.
 2. Se registra qué cartas o qué parte del pozo se expuso.

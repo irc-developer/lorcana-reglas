@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si una carta o habilidad comprueba si has pagado menos de 2 ![[imagenes/ink.svg|20]] para jugar una carta, ¿cantar una canción o jugarla gratis cuenta como haber pagado menos de 2 ![[imagenes/ink.svg|20]]?
+Si una carta o habilidad comprueba si has pagado menos de 2 {I} para jugar una carta, ¿cantar una canción o jugarla gratis cuenta como haber pagado menos de 2 {I}?
 
 ---
 
@@ -21,7 +21,7 @@ Si controlas a [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Jessie - Lively
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.4 El coste no cambia, pero sí la cantidad total pagada]]
 - [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.5 Los costes alternativos se pagan en lugar del coste normal]]
@@ -34,7 +34,7 @@ Si controlas a [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Jessie - Lively
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Evento de inicio: vas a jugar una carta que puede jugarse por un coste alternativo.
 2. Modo de juego: eliges cantarla o jugarla gratis en lugar de pagar su coste normal de tinta.

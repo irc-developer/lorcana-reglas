@@ -12,23 +12,13 @@ Si ya tenías una reducción para la siguiente acción antes de cantar, esa redu
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[1.5 Costes (Costs)|1.5.5.1. Cantar es un coste alternativo]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.2.3 y 4.3.2.4. El coste total se calcula y se paga antes de resolver la acción]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.3.2 y 4.3.4. La acción se resuelve antes de resolver las habilidades disparadas durante su juego]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.6. Una reducción para la siguiente acción también se aplica cuando se paga un coste alternativo]].
 - [[7.7. Bolsa (Bag)|7.7.3.1. Una habilidad disparada espera en la bolsa hasta que termine el efecto en curso]].
-
----
-
-## 🔄 Secuencia oficial
-
-1. Anuncias la canción y eliges cantarla con Belle.
-2. Agotas a Belle para pagar el coste alternativo. Su habilidad se dispara y queda en la bolsa.
-3. Terminas de jugar la canción y resuelves su efecto.
-4. Después se resuelve la habilidad de Belle y se crea la reducción de 2 {I} para la siguiente acción que juegues ese turno.
-5. Esa reducción se aplicará a la siguiente acción, incluso si también la cantas; si no juegas otra acción ese turno, caduca.
 
 ---
 

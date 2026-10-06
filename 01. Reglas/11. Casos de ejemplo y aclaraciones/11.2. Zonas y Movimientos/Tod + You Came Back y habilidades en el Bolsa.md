@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Cómo funciona "You Came Back" con Tod y qué ocurre con las habilidades de personajes que regresan de la bolsa?
 
@@ -10,26 +10,10 @@ Cuando un personaje es devuelto de la bolsa (discard) a juego, se considera que 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
-
----
-
-## 🏷️ Tags
-
-#abilities #bag #comprehensive-rules #ready #timing #tod #triggered-ability
 
 ---
 
@@ -38,3 +22,9 @@ Cuando un personaje es devuelto de la bolsa (discard) a juego, se considera que 
 Rechazar una opción «may» no cuenta como usarla. Por tanto, si Tod es elegido y su controlador decide no prepararlo, esa oportunidad no se consume; las oportunidades se cuentan cuando se usa la habilidad. La cantidad exacta de usos debe comprobarse en el texto vigente de Tod y no extrapolarse sin más desde un ejemplo de «once».
 
 Fundamento: regla 6.1.13 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y el texto vigente de Tod — Knows All the Tricks.
+
+---
+
+## 🏷️ Tags
+
+#abilities #bag #comprehensive-rules #ready #timing #tod #triggered-ability

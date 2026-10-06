@@ -20,7 +20,7 @@ Las dos habilidades se disparan al declararse el desafío y se añaden a la bols
 
 El destierro no elimina la habilidad de Scrooge que ya esperaba en la bolsa: se resuelve después, pero sin devolver la carta. Al pasar de la zona de juego al descarte, Scrooge se convierte en una carta nueva conforme a 7.1.6. On the Move se disparó por ser desafiado en la zona de juego y no establece una excepción que permita recuperar esa nueva carta desde el descarte. La expresión «this card» no concede por sí sola un permiso general para seguir la carta después de cualquier cambio de zona.
 
-El texto relevante, verificado en las fichas de los sets, es:
+Texto relevante:
 
 - **Kid-Tastrophe!:** «Whenever this character challenges another character with 3 {S} or less, banish that character.»
 - **On the Move:** «When this character is challenged, return this card to your hand.»
@@ -31,7 +31,7 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[4.6 Desafío (Challenge)|4.6. Desafío]], **4.6.3–4.6.5**: declaración y daño son pasos separados; los disparos de «challenges» e «is challenged» se resuelven desde la bolsa antes del daño. **4.6.9–4.6.9.2**: si un participante sale del desafío, primero se resuelve la bolsa pendiente y después termina el desafío. CR 2.2.0, pp. 15–16.
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]], **6.2.1–6.2.3**: se dispara cada habilidad cuya condición se cumpla y se añade a la bolsa. CR 2.2.0, p. 30.
@@ -43,7 +43,7 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se declara a Boo como desafiante y se elige el personaje desafiado.
 2. Termina la declaración del desafío.
@@ -62,13 +62,9 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-El ejemplo de Boo contra Piglet procede de las notas oficiales del set, p. 26, también resumidas en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
-
-La interacción con Scrooge es una **aplicación interpretativa de las reglas y del texto de las cartas**, no una FAQ oficial específica. La imagen aportada plantea la duda; no se usa como autoridad normativa.
-
-Fuente primaria: [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], efectiva el 9 de julio de 2026. El **2 de octubre de 2026** se comprobó que la [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) sigue enlazando el [PDF inglés 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), y se contrastaron los pasajes relevantes con la copia local seleccionada. Esa comprobación acredita la versión y los pasajes consultados, no la identidad binaria de ambos archivos.
+[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]], p. 26 (Boo contra Piglet). La interacción con Scrooge aplica las reglas de bolsa y cambio de zona.
 
 ---
 

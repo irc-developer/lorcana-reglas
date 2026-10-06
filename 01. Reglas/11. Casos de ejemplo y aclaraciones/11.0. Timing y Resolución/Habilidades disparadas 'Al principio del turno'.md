@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Durante el inicio de turno se disparan varias habilidades simultáneas.
 
@@ -17,7 +17,7 @@ Sí en el primer caso y no en el segundo.
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2 Fase inicial del turno]]
 - [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1. Preparado (Ready)|3.2.1 Ready step]]
@@ -27,18 +27,6 @@ Sí en el primer caso y no en el segundo.
 
 ---
 
-## 🔄 Secuencia oficial
-
-1. Evento de inicio: comienza la Fase de inicio y se ejecuta Ready step.
-2. Costes y requisitos: no suelen aplicar aquí salvo texto específico.
-3. Elecciones y objetivos: se determinan al resolver cada trigger en bolsa.
-4. Resolución: en Set step se resuelven habilidades en orden legal; cada una verifica sus condiciones en su propio momento de resolución.
-5. Disparos y bolsa: las habilidades disparadas se añaden y resuelven desde bolsa.
-6. GSC: comprobación tras cada resolución.
-
----
-
 ## 🏷️ Tags
 
 #inicio-de-turno #habilidades-disparadas #bolsa #ready-step #set-step
-

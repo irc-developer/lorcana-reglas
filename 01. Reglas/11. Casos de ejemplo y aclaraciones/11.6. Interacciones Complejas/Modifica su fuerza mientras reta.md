@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 - **Caso 1:** En juego y seco tengo [[02. Listado de Cartas/Set 1 - The First Chapter.md#Jafar - Keeper of Secrets|Jafar - Keeper of Secrets]] y una [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Queen Of Hearts - Sensing Weakness|Queen of Hearts - Sensing Weakness]]. ¿Qué fuerza tendrá mi Jafar cuando pasemos al Paso de daño por desafío?
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Timing de habilidades "siempre que sea retado"**
 
@@ -25,17 +25,6 @@ Las habilidades que se disparan "siempre que este personaje sea retado" se resue
 
 ---
 
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
-
----
-
 ## 🏷️ Tags
 
 #challenge-damage-step #hand-size #strength
-

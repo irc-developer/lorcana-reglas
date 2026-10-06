@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 - Tengo en juego una [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] enderezada, seca y con [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)|Temerario (Reckless)]] debido a un efecto del oponente.  
 - Juego a [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Sven - Reindeer Steed|Sven - Reindeer Steed]].
@@ -15,26 +15,15 @@ En términos prácticos: puedes jugar a Sven y resolver sus cláusulas en el ord
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Las cláusulas "may" en secuencias de efectos**
 
 Cuando una habilidad contiene múltiples cláusulas separadas por punto y coma (;), la palabra clave "may" (puede) es una opción dentro de esa cláusula específica. Si una cláusula con "may" no puede completarse (por ejemplo, el personaje ya está enderezado), esa cláusula se descarta pero el resto de cláusulas se resuelven normalmente.
 
 **Fundamento:**
-- [[01. Reglas/1. Principios generales (Concepts)/1.3. Conceptos fundamentales|1.3 Puede (May)]]
+- [[6.1. General (General)|Elecciones y resolución de efectos]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.4 Cláusulas secuenciales]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. Evento de inicio
-2. Costes y requisitos (si aplica)
-3. Elecciones y objetivos
-4. Resolución
-5. Disparos y bolsa
-6. GSC
 
 ---
 

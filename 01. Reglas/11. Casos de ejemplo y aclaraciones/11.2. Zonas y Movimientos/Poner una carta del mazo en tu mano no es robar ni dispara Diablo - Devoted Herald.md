@@ -18,7 +18,7 @@ Solo habría disparo si el efecto incluyera una instrucción separada de "draw a
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|1.12. Robo (Drawing)]]
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#Nani - Stage Manager|Nani - Stage Manager]] usa "put it into your hand", no "draw".
@@ -30,7 +30,7 @@ La regla 1.12.3 es concluyente: si un efecto dice "put a card into your hand", e
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Resuelves la habilidad de Nani, Ariel, Judy Hopps o una carta equivalente.
 2. Miras o revelas cartas de la parte superior de tu mazo según indique el texto.

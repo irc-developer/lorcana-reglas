@@ -12,7 +12,7 @@ Cada Winnie the Pooh ve a la otra copia como un personaje Hunny distinto. Para a
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[5.3. Personajes (Characters)|5.3. Personajes]] regula las clasificaciones.
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas]] comprueba continuamente la condición de Stick Together.
@@ -30,15 +30,9 @@ Cada Winnie the Pooh ve a la otra copia como un personaje Hunny distinto. Para a
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
-
----
-
-## 🏷️ Tags
-
-#static-ability #scope #lore-gain
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 
@@ -47,3 +41,9 @@ Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control p
 Las clasificaciones pertenecen a cada carta física concreta y no se transfieren entre versiones que comparten personaje. Para Winnie the Pooh — Hunny Wizard se aplica la errata o fuente de carta vigente; una aplicación que aún no la muestre no demuestra que la errata no exista.
 
 Fundamento: regla 5.3 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y la errata publicada de la carta.
+
+---
+
+## 🏷️ Tags
+
+#static-ability #scope #lore-gain

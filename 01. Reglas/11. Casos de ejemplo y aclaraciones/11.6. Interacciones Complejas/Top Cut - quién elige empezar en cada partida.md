@@ -10,11 +10,11 @@ En Top Cut Premier, antes de la primera partida se determina aleatoriamente qué
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md|3.3. Estructura de partida]], apartados Premier Play y eliminación directa.
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. En Premier, determina aleatoriamente quién elige primero o roba primero y toma esa decisión antes de mirar la mano inicial.
 2. En cada partida posterior elige quien perdió la partida anterior.

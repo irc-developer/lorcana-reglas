@@ -12,7 +12,7 @@ Por ello, si se pusieron al menos dos cartas en tu descarte durante el turno, DI
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Lyle Tiberius Rourke - Adventurer for Hire|Lyle Tiberius Rourke - Adventurer for Hire]]: DIRTY TRICKS cuenta las cartas que fueron puestas en tu descarte durante el turno.
 - [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Rapunzel & Flynn Rider - Unlikely Pair|Rapunzel & Flynn Rider - Unlikely Pair]]: FRESH START permite jugar desde el descarte una carta de personaje que hayas descartado durante tu turno.
@@ -22,7 +22,7 @@ Por ello, si se pusieron al menos dos cartas en tu descarte durante el turno, DI
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Descartas una carta de personaje durante tu turno.
 2. FRESH START se dispara y entra en la bolsa.

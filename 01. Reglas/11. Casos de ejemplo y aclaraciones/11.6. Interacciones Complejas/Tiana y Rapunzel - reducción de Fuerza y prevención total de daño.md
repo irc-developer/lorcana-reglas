@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Cómo interactúan la reducción de Fuerza previo al daño (Tiana) con la prevención total de daño (Rapunzel)? ¿Son acumulativas o entra en conflicto una con otra?
 
@@ -39,36 +39,22 @@ Ambos pueden aplicarse de forma acumulativa y no entran en conflicto.
 4. **Paso de Daño (4.3.6.13):** se asigna daño igual a la Fuerza modificada del atacante.
 5. **Aplicación de Rapunzel:** al intentar infligir ese daño (ya reducido), **el reemplazo de Rapunzel se aplica** y el personaje protegido **no recibe daño en su lugar**.
 ---
+
 #### Conclusión
 
 - **Tiana** actúa **antes** del paso de daño.
 - **Rapunzel** actúa **durante** el paso de daño, anulando la siguiente instancia de daño que el personaje recibiría.    
 - Si el personaje tiene **Fuerza 0 o menor** como consecuencia de la habilidad de Tiana **no provocará que se consuma la habilidad de Rapunzel**.
 
-#tiana #rapunzel #replacement_effects #challenge #timing #habilidades_estáticas
-
 ---
 
----
-
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
 - [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
-- ---
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
 
 ---
 
 ## 🏷️ Tags
 
-#strength-reduction #replacement-effects #prevention #triggered-abilities #challenge #damage#tiana
+#strength-reduction #replacement-effects #prevention #triggered-abilities #challenge #damage #tiana #rapunzel #replacement_effects #timing #habilidades_estáticas

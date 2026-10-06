@@ -30,7 +30,7 @@ Sí puede corregirse la jugada si lo que ocurrió fue una **acción ilegal** y t
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|4.6 Desafío (Challenge)]]: el desafío tiene pasos definidos y el jugador solo elige su siguiente acción cuando el desafío ya terminó.
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7. Game Actions, Timing, y Illegal Actions]]: si una acción era ilegal, se deshace hasta donde sea razonable; si la acción fue legal, no hay una regla general que permita rebobinarla por arrepentimiento táctico.

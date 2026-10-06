@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Qué aclaraciones prácticas de Set Fabled deben aplicarse como criterio rápido de ruling en mesa?
 
@@ -29,7 +29,7 @@ Resumen operativo de aclaraciones frecuentes:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Definición]]
 - [[6.4. Habilidades Estáticas (Static Abilities)#6.4.1. Definición|6.4.1. Definición]]
@@ -37,16 +37,6 @@ Resumen operativo de aclaraciones frecuentes:
 - [[4.6 Desafío (Challenge)#4.6.6. Paso de daño por desafío (Challenge Damage Step)|4.6.6. Paso de daño por desafío]]
 - [[3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1.1. Enderezar cartas|3.2.1.1. Enderezar cartas]]
 - [[4.3. Jugar una carta (Play a Card)#4.3.2.2. Modo de juego|4.3.2.2. Modo de juego]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: identifica si la carta/efecto se juega con coste normal, alternativo o gratis.
-2. **Objetivos**: verifica objetivos legales y restricciones antes de resolver.
-3. **Resolución**: aplica el texto en orden, haciendo todo lo posible.
-4. **Disparos**: añade a la bolsa los triggers que ocurran y respeta el orden de resolución.
-5. **GSC**: realiza chequeo del estado del juego tras cada resolución relevante.
 
 ---
 

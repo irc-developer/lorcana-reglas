@@ -14,7 +14,7 @@ Esto no es lo mismo que iniciar una acción de turno ilegal para jugar una carta
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]]: exige agotar el objeto, pagar 1 de tinta y desterrar un personaje elegido como coste; después indica jugar un personaje gratis.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities).md|6.3. Habilidades activadas]]: una habilidad activada se usa anunciándola y pagando su coste.
@@ -24,7 +24,7 @@ Esto no es lo mismo que iniciar una acción de turno ilegal para jugar una carta
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Anuncias la habilidad de Retro Evolution Device.
 2. Agotas el objeto, pagas 1 de tinta y destierras el personaje elegido: esos son los costes.

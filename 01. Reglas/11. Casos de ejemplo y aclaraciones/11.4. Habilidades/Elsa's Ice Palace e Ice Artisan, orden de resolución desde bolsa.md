@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si juego simultáneamente [[02. Listado de Cartas/Set 11 - Winterspell.md#Elsa - Ice Artisan|Elsa - Ice Artisan]] y [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Elsa's Ice Palace - Place of Solitude|Elsa's Ice Palace]], ambas habilidades se añaden a la bolsa al mismo tiempo. Mi oponente no tiene personajes agotados en juego.
 
@@ -22,7 +22,7 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - **Elsa's Ice Palace - Place of Solitude** (ETERNAL WINTER): "When you play this location, **choose an exerted character**. While this location is in play, that character can't ready at the start of their turn."
 - **Elsa - Ice Artisan** (ENDLESS WINTER): "When you play this character and whenever you play a location, **you may exert chosen character with 3 {S} or less**."
@@ -33,7 +33,7 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Juego simultáneo**: Se juegan Elsa - Ice Artisan y Elsa's Ice Palace en el mismo turno
 2. **Ambas entran en juego**: Ambas cartas entran en la zona de Juego

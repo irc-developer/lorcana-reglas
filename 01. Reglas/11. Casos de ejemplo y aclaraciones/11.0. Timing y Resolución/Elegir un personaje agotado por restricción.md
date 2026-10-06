@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Puedo enderezar por efecto a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Demona - Betrayer of the Clan|Demona - Betrayer of the Clan]] si su restricción está activa?
 
@@ -11,7 +11,7 @@ Mientras la condición de su texto restrictivo se cumpla, ese efecto actúa como
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.4. Habilidades Estáticas (Static Abilities)#6.4.1. Definición|6.4.1. Habilidades estáticas]]
 - [[6.5. Efectos de Reemplazo (Replacement Effects)#6.5.1. Definición|6.5.1. Efectos de reemplazo]]
@@ -19,13 +19,12 @@ Mientras la condición de su texto restrictivo se cumpla, ese efecto actúa como
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: intentas aplicar un efecto que endereza el personaje.
 2. **Objetivos**: Demona es objetivo legal del efecto, si así lo indica.
 3. **Resolución**: la restricción estática/reemplazo impide que el cambio de estado se complete.
 4. **Disparos**: se añaden a la bolsa solo los triggers realmente generados.
-5. **GSC**: se verifica estado del juego.
 
 ---
 

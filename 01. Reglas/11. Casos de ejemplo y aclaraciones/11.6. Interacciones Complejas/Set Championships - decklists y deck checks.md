@@ -10,11 +10,11 @@ En los torneos Competitive y Premier los jugadores deben registrar su mazo; el o
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.8 Registro de Mazos (Deck Registration).md|Registro de mazos]] y [[03. Reglas de Torneo/3. Operaciones en los torneos/3.9 Revisión de Mazos (Deck Checks).md|Revisión de mazos]]. En Competitive y Premier se registra el mazo; en Premier se espera revisar al menos el 10 %.
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Comprueba el nivel del evento y el kit aplicable.
 2. Entrega la decklist en el formato y momento indicados.

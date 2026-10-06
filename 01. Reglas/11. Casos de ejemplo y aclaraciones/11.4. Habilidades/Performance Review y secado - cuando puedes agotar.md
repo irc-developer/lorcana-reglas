@@ -19,8 +19,6 @@ Sí. Si usas ![[imagenes/exert.svg|20]] como parte de un coste, el personaje deb
 
 Ese ![[imagenes/exert.svg|20]] funciona como **coste adicional** para jugar la acción.
 
-## Fundamento de reglas
-
 ### 1) Qué prohíbe el secado
 Según CR 1.7.5, un personaje que se está secando no puede:
 - Hacer misión (quest)
@@ -43,14 +41,15 @@ Por tanto, un personaje secándose no puede pagarlo.
 - Si no tienes un personaje que pueda pagar legalmente ese coste, no puedes completar legalmente el pago de la carta.
 - Tras pagar el coste correctamente, robas cartas igual a su valor de lore.
 
-## Referencias
+## 📘 Referencias
 
-- [1.7. Game Actions, Timing, y Illegal Actions.md](01.%20Reglas/1.%20Principios%20generales/1.7.%20Game%20Actions,%20Timing,%20y%20Illegal%20Actions.md) (CR 1.7.5)
-- [4.4. Usar una habilidad activada (Use an Activated Ability).md](01.%20Reglas/4.%20Acciones%20de%20turno%20(Turn%20Actions)/4.4.%20Usar%20una%20habilidad%20activada%20(Use%20an%20Activated%20Ability).md) (CR 4.4.2)
-- [4.3. Jugar una carta (Play a Card).md](01.%20Reglas/4.%20Acciones%20de%20turno%20(Turn%20Actions)/4.3.%20Jugar%20una%20carta%20(Play%20a%20Card).md) (CR 4.3.2.4)
-- [5.1. Estados de las cartas (Card States).md](01.%20Reglas/5.%20Cartas%20y%20tipos%20de%20carta%20(Cards%20and%20Card%20types)/5.1.%20Estados%20de%20las%20cartas%20(Card%20States).md) (CR 5.1.1.11, 5.1.1.12)
-- [Set 10 - Whispers in the Well.md](02.%20Listado%20de%20Cartas/Set%2010%20-%20Whispers%20in%20the%20Well.md) (texto de Performance Review)
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.5]]: restricciones de un personaje secándose.
+- [[4.3. Jugar una carta (Play a Card)|4.3.2.4]]: pagar los costes adicionales de la carta.
+- [[5.1. Estados de las cartas (Card States)|5.1.1.11–5.1.1.12]]: agotar para pagar un coste según el estado del personaje.
+- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Performance Review|Performance Review]]: texto completo.
 
-## Tags
+---
+
+## 🏷️ Tags
 
 #performance-review #drying #exert-cost #additional-cost #action-card #ready-character #rules-clarification

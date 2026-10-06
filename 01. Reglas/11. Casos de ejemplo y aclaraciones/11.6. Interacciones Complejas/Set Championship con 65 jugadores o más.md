@@ -14,7 +14,7 @@ El Top Cut sí es obligatorio en torneos Competitive y Premier Play según 3.2.
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.2 Mínimo de Rondas (Round Minimums)|3.2. Mínimo de rondas]]: exige al menos 3 rondas y aconseja 7 rondas y Top 8 para 65–128 jugadores.
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]]: advierte que eventos como Set Championships pueden tener requisitos adicionales.
@@ -22,7 +22,7 @@ El Top Cut sí es obligatorio en torneos Competitive y Premier Play según 3.2.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se cuenta la asistencia de la primera ronda.
 2. Con 65–128 jugadores, se consulta la recomendación de 3.2: 7 rondas de suizo y Top 8.
@@ -31,14 +31,14 @@ El Top Cut sí es obligatorio en torneos Competitive y Premier Play según 3.2.
 
 ---
 
-## 🏷️ Tags
-
-#round-structure #tournament-rules #gameplay
-
----
-
 ### 18 jugadores: tabla oficial de rondas y Top Cut
 
 Con 18 jugadores, la tabla de Set Championship asigna **5 rondas suizas y Top 8**. El cálculo de qué jugadores quedarían fuera de un Top 4 puede servir para explicar las consecuencias matemáticas, pero no autoriza sustituir la tabla por cuatro rondas y Top 4. Cualquier estructura distinta requiere autorización y debe anunciarse antes del evento.
 
 Fundamento: sección 3.1–3.2 de [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules 6.11]].
+
+---
+
+## 🏷️ Tags
+
+#round-structure #tournament-rules #gameplay

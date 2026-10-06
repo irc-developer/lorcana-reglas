@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si un personaje del oponente es desterrado y luego vuelve a su mano por otro efecto, ¿cuenta igualmente como “desterrado” para habilidades que miran ese evento?
 
@@ -11,7 +11,7 @@ El evento de destierro ocurrió en el momento en que la carta abandonó la zona 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Cartas abandonando la zona de Juego]]
 - [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Interacción|6.2.3. Interacción de disparos]]
@@ -19,20 +19,13 @@ El evento de destierro ocurrió en el momento en que la carta abandonó la zona 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Evento de inicio**: se activa el efecto que destierra al personaje.
 2. **Costes y requisitos (si aplica)**: sin costes adicionales en este caso.
 3. **Elecciones y objetivos**: se aplican las elecciones/objetivos del efecto si procede.
 4. **Resolución**: ocurre el destierro y, si el texto lo indica, puede haber movimiento posterior a mano.
 5. **Disparos y bolsa**: los triggers por “ser desterrado” se añaden a la bolsa.
-6. **GSC**: se verifica estado del juego tras cada resolución.
-
----
-
-## 🏷️ Tags
-
-#banish #hand #triggered-abilities
 
 ---
 
@@ -41,3 +34,9 @@ El evento de destierro ocurrió en el momento en que la carta abandonó la zona 
 Con John Smith — Snow Tracker se comprueba el evento de desafío con el texto exacto de esa carta. Si el desafío se declaró y el evento ocurrió antes de que el personaje abandone el juego, el movimiento posterior no borra el evento ya ocurrido. No se debe trasladar esta conclusión a John Smith — Undaunted Protector, cuyo texto es distinto.
 
 Fundamento: reglas 4.6.4–4.6.6 y 7.4.3 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].
+
+---
+
+## 🏷️ Tags
+
+#banish #hand #triggered-abilities

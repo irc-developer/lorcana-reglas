@@ -15,7 +15,7 @@ Combo Shift puede utilizar un personaje con cualquiera de los dos nombres o dos 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales vigentes de Shift y pilas.
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] define seco, secándose, preparado y agotado.
@@ -23,19 +23,9 @@ Combo Shift puede utilizar un personaje con cualquiera de los dos nombres o dos 
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Se decide usar Combo Shift sobre uno o dos personajes legales.
-2. Si se usan dos, se comprueban los estados de ambos.
-3. La nueva carta entra secándose si al menos uno se estaba secando.
-4. La nueva carta entra agotada si al menos uno estaba agotado.
-5. Las cartas inferiores se ordenan libremente bajo la carta superior.
-
----
-
-## 📝 Fuente y estado
-
-Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y reglas generales confirmadas por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
+Aclaración de carta: [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]] y reglas generales confirmadas por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

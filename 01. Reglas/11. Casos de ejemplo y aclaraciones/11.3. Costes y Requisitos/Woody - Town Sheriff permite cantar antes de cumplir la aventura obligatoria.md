@@ -12,7 +12,7 @@ La obligación significa que el jugador rival no puede terminar su turno sin env
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[4.1. General|4.1. Acciones de turno]] regula qué acciones puede tomar el jugador activo y cuándo puede finalizar su turno.
 - [[4.5 Irse de aventura (Quest)|4.5. Irse de aventura]] exige que el personaje esté preparado y pueda irse de aventura.
@@ -30,9 +30,9 @@ La obligación significa que el jugador rival no puede terminar su turno sin env
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

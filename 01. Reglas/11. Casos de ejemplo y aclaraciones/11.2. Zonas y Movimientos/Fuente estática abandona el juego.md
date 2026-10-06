@@ -12,7 +12,7 @@ Por tanto, Retro Evolution Device no puede utilizar la habilidad estática de Th
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#The Horned King - Merciless Master|The Horned King - Merciless Master]]: CAULDRON'S POWER permite jugar personajes desde tu descarte mientras The Horned King está agotado.
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]]: desterrar el personaje elegido es parte del coste de TURN INTO DINOSAUR.
@@ -22,7 +22,7 @@ Por tanto, Retro Evolution Device no puede utilizar la habilidad estática de Th
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Anuncias Retro Evolution Device y eliges a The Horned King como personaje que desterrar.
 2. Agotas el objeto, pagas 1 de tinta y destierras a The Horned King.

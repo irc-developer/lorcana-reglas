@@ -10,7 +10,7 @@ El espectador debe permanecer en silencio y no intervenir en la partida. Si obse
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/2. Roles en los torneos/2.6 Espectador (Spectator).md|Deberes del espectador]]
 - [[03. Reglas de Torneo/2. Roles en los torneos/2.3 Jueces (Judges).md|Imparcialidad del Lore Guide]]
@@ -18,7 +18,7 @@ El espectador debe permanecer en silencio y no intervenir en la partida. Si obse
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. El espectador pide que se pause la partida sin explicar el error a los jugadores.
 2. Comunica los hechos al Lore Guide.

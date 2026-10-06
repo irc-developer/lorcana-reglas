@@ -26,7 +26,7 @@ La consecuencia práctica es esta:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.7. Último valor conocido|6.7.7. Último valor conocido]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego|6.4.2.3. Fin inmediato del efecto al salir del juego]]
@@ -36,7 +36,7 @@ La consecuencia práctica es esta:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Primer destierro previo**: Headless Horseman destierra a un personaje rival durante tu turno y su trigger se resuelve. Ralph pasa de 3 {S} a 4 {S} este turno.
 2. **Challenge**: Ralph desafía a otro personaje rival y ambos reciben daño letal.

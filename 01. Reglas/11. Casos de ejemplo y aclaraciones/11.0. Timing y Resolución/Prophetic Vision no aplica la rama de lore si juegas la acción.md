@@ -12,7 +12,7 @@ Esa rama se aplica si la carta revelada no es una acción o si es una acción y 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.1. General (General)|6.1. Reglas generales de efectos]] regula efectos opcionales y condicionales.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de efectos]] exige seguir la estructura y el orden del texto.
@@ -21,18 +21,9 @@ Esa rama se aplica si la carta revelada no es una acción o si es una acción y 
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Barajas el mazo y revelas la carta superior.
-2. Si es una acción, decides si jugarla gratis.
-3. Si la juegas, termina esta bifurcación sin pérdida ni ganancia de lore.
-4. Si no la juegas, se aplica la rama alternativa: la carta va al fondo, cada oponente pierde 1 lore y tú ganas 1 lore.
-
----
-
-## 📝 Fuente y estado
-
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

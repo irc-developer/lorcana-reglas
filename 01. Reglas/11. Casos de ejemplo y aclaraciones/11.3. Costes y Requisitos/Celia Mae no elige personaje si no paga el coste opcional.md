@@ -10,7 +10,7 @@ Si juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Celia Mae - Fri
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[1.5 Costes (Costs)|1.5. Costes]] exige que un coste se pague por completo.
 - [[6.1. General (General)|6.1. Reglas generales de efectos]] establece que rechazar un efecto opcional hace que esa parte se resuelva sin efecto.
@@ -18,7 +18,7 @@ Si juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Celia Mae - Fri
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Celia Mae entra en juego y Please Hold se dispara.
 2. Al resolverse, decides si pagar 1 tinta.
@@ -27,9 +27,9 @@ Si juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Celia Mae - Fri
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y principio general confirmado por CR 2.2, 6.1.4.1. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
+Aclaración de carta: [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]] y principio general confirmado por CR 2.2, 6.1.4.1. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

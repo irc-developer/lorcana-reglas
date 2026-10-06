@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Shere Khan - Fearsome Tiger|Shere Khan - Fearsome Tiger]] al questear, la habilidad indica primero una acción y luego otra con “then”.
 
@@ -20,7 +20,7 @@ La redacción que sí convertiría la segunda parte en dependiente de la primera
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2 Resolver en orden y hacer tanto como sea posible]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|6.1.5 Efectos secuenciales y cuándo se corta la secuencia]]
@@ -28,18 +28,6 @@ La redacción que sí convertiría la segunda parte en dependiente de la primera
 
 ---
 
-## 🔄 Secuencia oficial
-
-1. Evento de inicio: se dispara la habilidad.
-2. Costes y requisitos: se comprueba si hay requisitos explícitos en la primera cláusula.
-3. Elecciones y objetivos: se seleccionan objetivos legales para cada parte.
-4. Resolución: se intenta la primera cláusula y después la siguiente en orden; solo se bloquea si el propio texto condiciona la continuación.
-5. Disparos y bolsa: triggers derivados se gestionan en bolsa al terminar la resolución actual.
-6. GSC: comprobación de estado tras la resolución.
-
----
-
 ## 🏷️ Tags
 
 #a #clause #resolucion #then-to-b #timing
-

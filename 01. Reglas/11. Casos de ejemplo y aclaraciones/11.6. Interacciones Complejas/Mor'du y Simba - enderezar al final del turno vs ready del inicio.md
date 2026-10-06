@@ -26,7 +26,7 @@ En otras palabras: esta interacción depende del jugador al que apunta cada "you
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)#1.4.3.1. Uso del You|1.4.3.1. "You" y "your" se refieren al jugador que jugó la carta o generó el efecto]]
 - [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1. Preparado (Ready)|3.2.1. El enderezado normal ocurre en Ready, al inicio del turno]]
@@ -46,7 +46,7 @@ Por eso, técnicamente, aquí la idea útil no es "Mor'du reemplaza el evento de
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Termina tu turno con [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|Simba - Pride Protector]] exerted.
 2. En la fase final del turno, se dispara [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|UNDERSTAND THE BALANCE]].

@@ -10,9 +10,7 @@
 
 El +2 es un modificador separado para cantar canciones. No cambia la keyword ni el coste de tinta del personaje, pero sí se combina con el número de Singer al comprobar qué canciones puede cantar. Por ejemplo, un personaje con Singer 4 sigue teniendo Singer 4; mientras dure el +2, cuenta como coste 6 para cantar canciones. Si un personaje de coste 3 recibe el efecto sin tener otro valor Singer, cuenta como coste 5 para cantar durante ese turno.
 
-Así que la forma precisa de expresarlo es: **gana Singer y, por separado, cuenta con +2 de coste para cantar este turno**. No se convierte en Singer 6, aunque el umbral efectivo para cantar sea 6.
-
-**Los modificadores +2 sí se suman.** Cada resolución aporta su propio +2 durante ese turno, aunque no pueda conceder Singer otra vez. Los ejemplos de la transcripción son correctos:
+**Los modificadores +2 sí se suman.** Cada resolución aporta su propio +2 durante ese turno, aunque no pueda conceder Singer otra vez. Por ejemplo:
 
 - [[02. Listado de Cartas/Set 14 - Hyperia City.md#Goofy - Dancing Superstar|Goofy - Dancing Superstar]], con Singer 6, cuenta como coste **8** tras una guitarra y puede cantar él solo [[02. Listado de Cartas/Set 9 - Fabled.md#Circle of Life|Circle of Life]]. Sigue teniendo Singer 6 y coste de tinta 5.
 - [[02. Listado de Cartas/Set 14 - Hyperia City.md#Héctor Rivera - Street Musician|Héctor Rivera - Street Musician]], con Singer 2, cuenta como coste **6 = 2 + 2 + 2** tras resolver dos guitarras sobre él y puede cantar él solo [[02. Listado de Cartas/Set 14 - Hyperia City.md#Remember Me|Remember Me]]. Sigue teniendo Singer 2 y coste de tinta 1.
@@ -27,7 +25,11 @@ Por ello, no puede conceder Singer a una carta del descarte para recuperarla con
 
 ---
 
-## 📘 Fundamento en reglas
+La concesión de Singer y los +2 terminan al final del turno. Si el personaje abandona el juego antes, pierde esos efectos al cambiar de zona.
+
+---
+
+## 📘 Referencias
 
 - [[8.1. Generalidades (General)|8.1.2. Palabras clave no acumulables]]: obtener Singer de nuevo no crea otra instancia acumulable.
 - [[8.11. Cantante (Singer)|8.11.2–8.11.3. Coste para cantar y Singer]]: el coste de tinta no cambia y el +N se combina con el valor Singer.
@@ -37,23 +39,9 @@ Por ello, no puede conceder Singer a una carta del descarte para recuperarla con
 - [[6.1. General (General)|6.1.3–6.1.3.1. Elecciones y limitadores; 6.1.13.4. Este turno]]: la elección se hace al resolver, con los requisitos del texto y su duración.
 - [[8.15 Protección (ward)|8.15.1. Ward impide que el oponente elija la carta]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.4–4.3.4.1. Disparos al jugar una carta]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5. GSC tras resolver los efectos]].
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]]: páginas 13, 23, 26, 29, 34–35, 37–38 y 41–44. La página oficial de recursos seguía enlazando esta versión al comprobarla el 03/10/2026.
-
-**Texto de las cartas:** verificado en las fichas de [[02. Listado de Cartas/Set 14 - Hyperia City|Hyperia City]] y [[02. Listado de Cartas/Set 9 - Fabled|Fabled]]. Hyperia City es un listado parcial declarado, pero todas las fichas utilizadas están disponibles. La transcripción facilitada se usa como pregunta y ejemplo, no como FAQ oficial. Las interacciones con Powerline, Never Too Far Apart y Ernesto se deducen de sus textos y de las reglas citadas.
+- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]]: páginas 13, 23, 26, 29, 34–35, 37–38 y 41–44.
 
 Al jugar Ancestral Guitar, *MUSICAL LEGACY* se añade a la bolsa y roba una carta cuando se resuelve. Es una habilidad distinta de *FROM THE HEART*.
-
----
-
-## 🔄 Secuencia oficial
-
-1. Con la guitarra preparada en juego, activas *FROM THE HEART*: la agotas y pagas 1 de tinta.
-2. Durante la resolución eliges un personaje legal en juego, propio o rival.
-3. Gana Singer si no lo tenía y cuenta con +2 de coste para cantar este turno. Una concesión previa de Singer no impide aplicar el +2.
-4. Termina la resolución, se realiza el GSC y se resuelven los disparos pendientes, si existen.
-5. Si activas otra guitarra, repites esos pasos. Sobre Héctor con Singer 2, ambos modificadores suman +4 y cuenta como coste 6 para cantar.
-6. Puedes cantar con el personaje preparado y seco, usando el valor Singer más los modificadores. Como alternativa, tras dar Singer a un rival, puedes jugar a Ernesto: su disparo entra en la bolsa y el rival se elige al resolver ese disparo, después del GSC correspondiente a jugar a Ernesto.
-7. La concesión de Singer y los +2 terminan al final del turno. Si el personaje abandona el juego antes, pierde esos efectos al cambiar de zona.
 
 ---
 

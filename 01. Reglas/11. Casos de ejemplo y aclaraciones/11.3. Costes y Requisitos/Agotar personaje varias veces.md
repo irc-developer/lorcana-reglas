@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Controlo [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Mufasa - Betrayed Leader|Mufasa - Betrayed Leader]] y [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Tinker Bell - Insistent Fairy|Tinker Bell - Insistent Fairy]]. Durante el turno oponente, Mufasa deja un personaje de fuerza 5+ en juego ya agotado.
 
@@ -20,23 +20,12 @@ No en los tres casos.
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)#4.4.3.4. Pagar el coste|4.4.3.4 Pagar el coste completo]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|6.1.5 Efectos secuenciales]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Interacción|6.2.3 Disparo y entrada en bolsa]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3. Reglas|7.7.3 Resolución en bolsa tras completar el proceso]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. Evento de inicio: entra en juego o se dispara la habilidad correspondiente.
-2. Costes y requisitos: para resolver [A], el personaje debe poder agotarse legalmente.
-3. Elecciones y objetivos: se elige un personaje válido y ready.
-4. Resolución: si [A] no puede completarse, [B] no continúa; si se completa, [B] afecta al mismo personaje referenciado.
-5. Disparos y bolsa: los triggers se añaden y resuelven en bolsa según orden.
-6. GSC: se comprueba estado de juego tras cada resolución.
 
 ---
 

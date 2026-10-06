@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Controlo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kronk - Laid Back|Kronk - Laid Back]] y una carta con un efecto de «descartar para»:
 
@@ -21,7 +21,7 @@ Coconut permite construir con hasta tres tipos de tinta y aplica las reglas norm
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[1.2. Regla de oro (Golden Rules)|1.2.2. Impedir tiene prioridad sobre permitir]].
 - [[6.1. General (General)|6.1.5 y 6.1.5.1. Si la parte inicial no se completa, la secuencia no continúa]].
@@ -29,11 +29,11 @@ Coconut permite construir con hasta tres tipos de tinta y aplica las reglas norm
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4 y 6.7.5. Bolsa pendiente y comprobación después de resolver]].
 - [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
 
-**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 3, 26, 32 y 37; [[Documentacion Oficial/FormatCoconut_Rules.pdf|Rules for [Format Coconut] Beta]], p. 1. La [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) enlaza ambos documentos a 03/10/2026. El fallo para estas parejas es una aplicación de las reglas generales al texto verificado en las fichas de set, no una FAQ específica de la combinación.
+**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 3, 26, 32 y 37; [[Documentacion Oficial/FormatCoconut_Rules.pdf|Rules for [Format Coconut] Beta]], p. 1.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Inicio:** durante tu turno consideras usar GOOD AIM; con Maleficent, su aventura añade la habilidad disparada a la bolsa.
 2. **Requisito:** la parte [A] exige elegir y descartar una carta como parte del efecto. Kronk permanece en tu zona de juego.

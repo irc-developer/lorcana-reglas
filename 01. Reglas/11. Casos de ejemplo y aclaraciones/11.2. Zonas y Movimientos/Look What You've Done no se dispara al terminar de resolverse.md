@@ -16,7 +16,7 @@ Si descartas la carta desde la mano durante tu turno, sí puedes jugarla desde e
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - **Texto de la carta:** la ficha del [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Look What You've Done|set 13, carta 200]] confirma el coste 2, los 2 daños y la condición de descartarla durante tu turno, pagando todos los costes para jugarla desde el descarte.
 - **Glosario oficial, «discard», p. 47:** distingue la zona de descarte de la acción de descartar. Solo se descartan cartas desde la mano; también llegan a esa zona las acciones que terminan de resolverse. Véase el [[Comprehensive-Rules_2.2.0-EN.pdf|PDF oficial CR 2.2.0]].
@@ -27,7 +27,7 @@ Si descartas la carta desde la mano durante tu turno, sí puedes jugarla desde e
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 ### Jugarla desde la mano con 8 tintas
 
@@ -47,13 +47,9 @@ Si descartas la carta desde la mano durante tu turno, sí puedes jugarla desde e
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-La distinción está confirmada por la FAQ oficial; el ejemplo de 8 tintas y las secuencias son su aplicación didáctica a la duda de la captura de Discord del 30/09/2026. La respuesta comunitaria sirve como contexto de la pregunta.
-
-- [Notas oficiales de Attack of the Vine, p. 29](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf#page=29), contrastadas con el texto de la copia local.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), efectivas el 9 de julio de 2026. La [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) seguía enlazando ambos documentos al comprobarla el 30/09/2026. El PDF de CR se abrió y confirmó versión y fecha; no se compararon hashes remotos. La lectura remota de las notas falló por tamaño en el visor y por HTTP 403 en la descarga, por lo que su contenido se verificó en la copia local.
-- Contexto de integración en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y [notas oficiales de Attack of the Vine, p. 29](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf#page=29).
 
 ---
 

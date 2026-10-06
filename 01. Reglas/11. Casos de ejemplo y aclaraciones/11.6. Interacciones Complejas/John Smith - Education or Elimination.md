@@ -24,7 +24,7 @@ Si John Smith sí está dañado, entonces es una opción legal para esa segunda 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#Education or Elimination|Education or Elimination]]: la primera opción dice «chosen character of yours»; la segunda, «chosen damaged character».
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]]: «Opponents must choose this character for actions and abilities if able.»
@@ -34,16 +34,6 @@ Si John Smith sí está dañado, entonces es una opción legal para esa segunda 
 - [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward).md|CR 8.15 — Ward impide que un oponente elija esa carta, pero no elimina otras restricciones de objetivo]].
 
 Fuente de texto de carta: [galería oficial de Disney Lorcana](https://cards.disneylorcana.com/en-US/?cardId=2560).
-
----
-
-## 🔄 Secuencia oficial
-
-1. El jugador elige una de las dos opciones de *Education or Elimination*.
-2. Se comprueban los requisitos del objetivo de esa opción.
-3. Con la primera opción, solo son legales los personajes del jugador activo; John Smith queda fuera.
-4. Con la segunda opción, son legales los personajes dañados de cualquier jugador; un John Smith sin daño queda fuera.
-5. Si John Smith está dañado y es legal para la segunda opción, **Do Your Worst** obliga a elegirlo si es posible.
 
 ---
 

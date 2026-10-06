@@ -12,7 +12,7 @@ Cada Roo ve a la otra copia como otro personaje Hunny, por lo que ambas pueden g
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[5.3. Personajes (Characters)|5.3. Personajes]] regula clasificaciones como Hunny.
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas]] aplica Elusive Expertise continuamente mientras se cumpla su condición.
@@ -21,18 +21,9 @@ Cada Roo ve a la otra copia como otro personaje Hunny, por lo que ambas pueden g
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Hay dos Roo en la zona de juego.
-2. Para la habilidad del primer Roo, el segundo es otro personaje Hunny.
-3. Para la habilidad del segundo, el primero es otro personaje Hunny.
-4. Ambos ganan Evasive mientras siga cumpliéndose la condición.
-
----
-
-## 📝 Fuente y estado
-
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

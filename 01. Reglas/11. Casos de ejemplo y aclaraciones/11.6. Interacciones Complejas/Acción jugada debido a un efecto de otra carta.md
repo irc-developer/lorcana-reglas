@@ -1,17 +1,13 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Interacciones cuando una acción se juega por efecto de otra carta:
 
-### Caso A
 Con [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Alan-a-Dale - Rockin' Rooster|Alan-a-Dale - Rockin' Rooster]] + [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Prince Naveen - Ukulele Player|Prince Naveen - Ukulele Player]], si se juega [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#We Know The Way|We Know The Way]] por efecto, ¿puede seleccionarse a sí misma para generar un bucle infinito?
 
-### Caso B
 Con [[02. Listado de Cartas/Set 9 - Fabled.md#Max Goof - Chart Topper|Max Goof - Chart Topper]], al jugar [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#You're Welcome|You're Welcome]] desde un efecto, ¿se aplica primero "fondo del mazo" y luego "barajar"?
 
-### Caso C
 Si [[02. Listado de Cartas/Set 9 - Fabled.md#Powerline - World's Greatest Rock Star|Powerline - World's Greatest Rock Star]] permite jugar [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Fantastical and Magical|Fantastical and Magical]], ¿puede usarse su coste alternativo de Sing Together al jugarla de este modo?
 
-### Caso D
 Si [[02. Listado de Cartas/Set 11 - Winterspell.md#Kristoff's Lute|Kristoff's Lute]] revela una canción en la parte superior del mazo, ¿puede jugarse cantándola en vez de pagar su coste de tinta?
 
 ---
@@ -32,7 +28,7 @@ Al jugar una carta por efecto, sigues el procedimiento normal de "jugar una cart
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8. Jugando cartas como resultado de un efecto|6.7.8. Jugando cartas como resultado de un efecto]]
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8.1. Orden de resolución de las acciones|6.7.8.1. Orden de resolución de las acciones]]
@@ -46,7 +42,7 @@ Al jugar una carta por efecto, sigues el procedimiento normal de "jugar una cart
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Permiso y modo de juego**: la acción se juega desde la mano, por instrucción de otra carta o "como si estuviera en tu mano", siguiendo el procedimiento normal y eligiendo un modo de juego legal, incluido un coste alternativo cuando aplique.
 2. **Objetivos**: se eligen objetivos conforme al texto de la acción en el momento que corresponda.

@@ -16,7 +16,7 @@ La clave aquí no es el nombre de la carta, sino el momento en que el juego exig
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.3.2. Acciones|4.3.3.2. Las acciones se juegan y luego resuelven su efecto inmediatamente]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.3. Elecciones durante la resolución|1.7.3. Las elecciones se hacen durante la resolución]]
@@ -26,7 +26,7 @@ La clave aquí no es el nombre de la carta, sino el momento en que el juego exig
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Anuncias y pagas World's Greatest Criminal Mind.
 2. La acción entra en juego y su efecto empieza a resolverse.

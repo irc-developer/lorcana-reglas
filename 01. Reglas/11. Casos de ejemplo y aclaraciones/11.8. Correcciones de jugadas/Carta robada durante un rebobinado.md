@@ -10,14 +10,14 @@ El rebobinado debe deshacer también el robo de Nick. Como la carta que robó ya
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.1 Orden en el rebobinado.md|Orden del rebobinado]]
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.2 Rebobinando situaciones que impliquen zonas privadas.md|Zonas privadas]]
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se deshacen las acciones desde la más reciente.
 2. Se identifica el robo de Nick.

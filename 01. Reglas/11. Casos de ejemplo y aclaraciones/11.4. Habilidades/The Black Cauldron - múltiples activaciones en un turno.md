@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]], ¿puedo poner varias cartas de personaje desde mi descarte debajo del Caldero en el mismo turno pagando 1 {I} cada vez, o su primera habilidad solo permite poner 1 personaje por turno?
 
@@ -14,7 +14,7 @@ Eso sí: cada activación pone **solo 1 character card** desde tu descarte debaj
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)#6.3.1. Definición|6.3.1. Definición]]: una habilidad activada puede usarse pagando su coste para generar su efecto.
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)#4.4.3.4. Pagar el coste|4.4.3.4. Pagar el coste]]: para usar la habilidad debes pagar completamente el coste, incluido el exert del item y el coste de tinta.
@@ -22,7 +22,7 @@ Eso sí: cada activación pone **solo 1 character card** desde tu descarte debaj
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Evento de inicio**: durante tu Fase Principal, decides usar **THE CAULDRON CALLS** de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]].
 2. **Costes y requisitos**: compruebas que el item está ready y pagas **exert + 1 {I}**.

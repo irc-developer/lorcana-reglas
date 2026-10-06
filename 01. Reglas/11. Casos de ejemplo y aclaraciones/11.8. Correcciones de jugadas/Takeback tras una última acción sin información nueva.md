@@ -10,7 +10,7 @@ El jugador no puede deshacerlo por su cuenta ni depende del consentimiento del o
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7 Takebacks.md|Takebacks]]
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Elegibilidad y límites]]
@@ -18,7 +18,7 @@ El jugador no puede deshacerlo por su cuenta ni depende del consentimiento del o
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. El jugador detiene la partida y llama al Lore Guide.
 2. El juez confirma cuál fue la última jugada y qué información se obtuvo.

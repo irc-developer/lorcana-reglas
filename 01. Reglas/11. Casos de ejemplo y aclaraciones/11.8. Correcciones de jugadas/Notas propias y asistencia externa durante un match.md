@@ -10,7 +10,7 @@ Son conductas distintas. Durante un match solo se permite anotar los totales de 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/5 Información y comunicación/5.2 Notas y Seguimiento de Información (Notes and Information Tracking).md|Notas y seguimiento]]
 - [[04. Guia de correccion de jugadas/03. Errores de torneo/3.6 Error de comunicación e información (Information and communication error).md|Information and Communication Error]]
@@ -18,7 +18,7 @@ Son conductas distintas. Durante un match solo se permite anotar los totales de 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se pregunta qué se escribió y cuándo.
 2. Crear notas de juego fuera del lore se clasifica como Information and Communication Error y recibe Warning.

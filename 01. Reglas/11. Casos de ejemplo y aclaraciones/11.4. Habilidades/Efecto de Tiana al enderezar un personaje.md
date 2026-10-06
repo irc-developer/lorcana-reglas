@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 **Caso 1:**
 - El oponente tiene [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Tiana - Restaurant Owner|Tiana - Restaurant Owner]] en juego y agotada, además de otros personajes agotados.  
@@ -16,7 +16,7 @@ El efecto de reemplazo sobre la fuerza del personaje **dura todo el turno**, ind
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Efecto de reemplazo de duración**
 
@@ -25,17 +25,6 @@ El efecto de daño reducido (−3 de fuerza) de [[02. Listado de Cartas/Set 6 - 
 **Fundamento:**
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5 Efectos de Reemplazo]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Duración del disparador]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. Evento de inicio
-2. Costes y requisitos (si aplica)
-3. Elecciones y objetivos
-4. Resolución
-5. Disparos y bolsa
-6. GSC
 
 ---
 

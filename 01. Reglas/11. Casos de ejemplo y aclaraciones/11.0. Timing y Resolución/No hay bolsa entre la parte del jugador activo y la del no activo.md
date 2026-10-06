@@ -23,7 +23,7 @@ Así que, en el ejemplo, tu personaje entra primero y cualquier trigger que gene
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. El efecto se resuelve por completo y en el orden escrito]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Los triggers creados durante una resolución esperan]]
@@ -33,7 +33,7 @@ Así que, en el ejemplo, tu personaje entra primero y cualquier trigger que gene
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. El efecto empieza a resolverse.
 2. El texto llega a una instrucción del tipo "cada jugador puede...".

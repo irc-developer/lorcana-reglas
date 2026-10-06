@@ -82,4 +82,3 @@ Cada Cinderella es un desencadenador separado que cumple independientemente su c
 ## 🏷️ Tags
 
 #triggered-abilities #multiple-instances #princess-mechanic #ink-gain #conditional-effects #independent-verification
-

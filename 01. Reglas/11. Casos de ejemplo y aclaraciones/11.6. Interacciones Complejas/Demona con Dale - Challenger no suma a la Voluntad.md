@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si controlo a [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]], cuya habilidad hace que mis personajes hagan daño en los desafíos con su **Voluntad** en vez de con su **Fuerza**, y desafío con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Demona - Betrayer of the Clan|Demona - Betrayer of the Clan]], ¿su **Challenger** añade ese bono al daño que hará?
 
@@ -19,7 +19,7 @@ En otras palabras:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante|Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante]]
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador|Cálculo de fuerza con Tiana y Desafiador]]
@@ -37,7 +37,7 @@ Como el bono de Challenger nunca dice que aumente la Voluntad ni que añada dañ
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Declaras a Demona como personaje desafiante.
 2. En cuanto el desafío ocurre, empiezan a aplicarse los efectos de “while challenging”, así que **Challenger** le da +N **{S}**.

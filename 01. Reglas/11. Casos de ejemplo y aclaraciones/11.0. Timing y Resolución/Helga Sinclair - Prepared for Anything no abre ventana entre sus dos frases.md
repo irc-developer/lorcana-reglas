@@ -17,7 +17,7 @@ También puede ocurrir si otro efecto que ya estaba legalmente en la bolsa se re
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.1. General|4.1.2. Cada acción de turno debe completarse totalmente antes de empezar la siguiente]]
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest)|4.5.2. Tras hacer quest, las habilidades disparadas pasan a resolverse]]
@@ -29,7 +29,7 @@ También puede ocurrir si otro efecto que ya estaba legalmente en la bolsa se re
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Haces quest con Helga y ganas su lore.
 2. Su habilidad disparada entra en la bolsa.

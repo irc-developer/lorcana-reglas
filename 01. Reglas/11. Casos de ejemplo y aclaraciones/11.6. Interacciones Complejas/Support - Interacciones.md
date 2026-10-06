@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 - **Caso 1:** ¿Si Alice heredaría Support a Minnie mediante una habilidad estática, y Minnie hace quest, entrando tanto Support como su efecto de banish, en qué orden se resuelven los triggers en la bolsa?
 - **Caso 2:** Si [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Eilonwy - Princess of Llyr|Eilonwy - Princess of Llyr]] hace quest y da su Support a una Mulan 2/3 que ya tiene Support, ¿cuánto dará luego Mulan cuando haga quest a otro personaje: 2 o 4?
@@ -12,7 +12,7 @@
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Support no se acumula como palabra clave, pero sí usa la fuerza actual**
 
@@ -27,7 +27,7 @@ Que Alice otorgue Support tampoco reescribe otras habilidades de quest del perso
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Quest de Eilonwy, Minnie o Zipper**: el personaje se agota para questear.
 2. **Disparos**: si tiene Support u otras habilidades de quest, esos triggers entran en la bolsa.

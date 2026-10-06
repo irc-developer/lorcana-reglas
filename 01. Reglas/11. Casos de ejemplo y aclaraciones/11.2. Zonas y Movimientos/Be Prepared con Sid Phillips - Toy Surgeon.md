@@ -15,7 +15,7 @@ Sid no genera lore por su propio destierro, porque la condición pide que sea de
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Interacción|6.2.3. Cuando se cumple la condición, la habilidad se añade a la bolsa]]
@@ -23,7 +23,7 @@ Sid no genera lore por su propio destierro, porque la condición pide que sea de
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Inicio**: juegas o cantas [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] durante tu turno.
 2. **Resolución de la acción**: la canción destierra a todos los personajes.

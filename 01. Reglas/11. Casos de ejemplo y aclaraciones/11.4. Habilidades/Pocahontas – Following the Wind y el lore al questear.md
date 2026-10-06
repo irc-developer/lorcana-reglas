@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Cuando la habilidad **WHAT IS MY PATH?** de [[02. Listado de Cartas/Set 11 - Winterspell.md#Pocahontas - Following the Wind|Pocahontas – Following the Wind]] se dispara al questear, ¿qué valor de lore toma del personaje elegido? ¿El impreso en la carta o el valor actual incluyendo bonificaciones contextuales (localización, efectos continuos...)?
 
@@ -25,7 +25,7 @@ La clave es distinguir dos tipos de efectos:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)#5.3.6.4. Valor de Lore (Lore Value)|5.3.6.4. Valor de Lore]] — {L} es una característica del personaje usada cuando un efecto la referencia.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)#6.6.1.|6.6.1.]] — Los modificadores de característica (como +X {L}) se aplican de forma continua e inmediata.
@@ -35,7 +35,7 @@ La clave es distinguir dos tipos de efectos:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Pocahontas questea → se exerta.
 2. Se dispara WHAT IS MY PATH? y se añade a la bolsa.

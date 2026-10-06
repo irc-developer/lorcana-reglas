@@ -10,7 +10,7 @@ Es un Card Count Error, Warning en Competitive. El resultado conocido es una car
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md|Conteo incorrecto en mano y pozo de tinta]]
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.3 Criterios para el rebobinado.md|Criterios de rebobinado]]
@@ -18,7 +18,7 @@ Es un Card Count Error, Warning en Competitive. El resultado conocido es una car
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se congela la partida y se investiga qué cartas de la mano son conocidas.
 2. Se devuelve aleatoriamente una carta no confirmada de la mano a la parte aleatoria del mazo.

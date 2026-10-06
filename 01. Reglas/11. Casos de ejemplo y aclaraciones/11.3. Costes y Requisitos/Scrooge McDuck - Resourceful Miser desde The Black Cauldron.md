@@ -25,7 +25,7 @@ Por tanto, el ruling práctico es este:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]]: "This turn, you may play characters from under this item."
 - [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Scrooge McDuck - Resourceful Miser|Scrooge McDuck - Resourceful Miser]]: "You may exert 4 items of yours to play this character for free."
@@ -37,7 +37,7 @@ Por tanto, el ruling práctico es este:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Activas **RISE AND JOIN ME!** de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]], lo agotas y pagas 1 {I}.
 2. Ese efecto crea un permiso para el resto del turno: puedes jugar personajes desde debajo de ese objeto.

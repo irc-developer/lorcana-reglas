@@ -59,7 +59,7 @@ La secuencia es equivalente con ACT OF KINDNESS: el reemplazo impide que el pers
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]]: pone 1 contador de daño sobre cada personaje rival.
 - [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Merida - Formidable Archer|Merida - Formidable Archer]]: STEADY AIM exige que una acción inflija daño.

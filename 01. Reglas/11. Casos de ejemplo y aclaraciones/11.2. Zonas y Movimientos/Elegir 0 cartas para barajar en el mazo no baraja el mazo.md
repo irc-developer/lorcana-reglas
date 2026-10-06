@@ -46,7 +46,7 @@ Así que sí: **Babyhead** y **Jessie** ven jugar gratis como **pagar 0**. Pero 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. El efecto empieza a resolverse.
 2. Si el texto dice **"choose up to N"**, el jugador puede elegir entre **0** y **N** cartas legales.
@@ -77,7 +77,7 @@ Aquí, aunque elijas **0**, la segunda instrucción sigue existiendo como mandat
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. "Up to" incluye 0]]: confirma que elegir **0** es legal cuando el efecto dice **"hasta N"**.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Hacer todo lo posible en el orden escrito]]: el efecto se resuelve en orden y se hace todo lo posible, pero no añade instrucciones que el texto no contiene.

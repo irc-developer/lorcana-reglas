@@ -14,7 +14,7 @@ Tener dos o más copias no cambia esta conclusión.
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[1.10. Materiales (Materials)|1.10. Materiales]] contiene los requisitos generales de construcción de mazo.
 - La excepción solo alcanza al conjunto definido por «other Hunny characters».
@@ -31,9 +31,9 @@ Tener dos o más copias no cambia esta conclusión.
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-La regla general está confirmada por CR 2.2, 1.10.1.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
+Regla general: CR 2.2, 1.10.1.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

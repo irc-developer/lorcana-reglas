@@ -10,11 +10,11 @@ Una descalificación se aplica al evento en el que se dicta y no crea por sí so
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/7. Conducta del Jugador/7.1. Conducta Prohibida (Prohibited Conduct).md|7.1. Conducta prohibida]] y las condiciones de elegibilidad comunicadas por la organización.
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Lee la sanción y el evento al que se refiere.
 2. Comprueba si el organizador comunicó una exclusión adicional.

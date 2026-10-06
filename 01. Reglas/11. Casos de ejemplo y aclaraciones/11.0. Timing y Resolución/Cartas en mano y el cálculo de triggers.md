@@ -14,7 +14,7 @@ Si Goliath está controlado por el oponente, primero se resuelven las habilidade
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] y [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Goliath - Clan Leader|Goliath - Clan Leader]].
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.4. Estructura Condicional 1, si Condicional 2, efecto|6.2.4. Condición secundaria]]: la condición se comprueba al resolver, no al dispararse.
@@ -23,7 +23,7 @@ Si Goliath está controlado por el oponente, primero se resuelven las habilidade
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Termina tu turno y se disparan Clarabelle y las demás habilidades aplicables.
 2. Las habilidades entran en la bolsa, aunque las manos estén empatadas.

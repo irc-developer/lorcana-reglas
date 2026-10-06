@@ -10,7 +10,7 @@ Hablar de posiciones y de cuándo un empate sería matemáticamente útil no es 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions).md|Empate intencional]]
 - [[03. Reglas de Torneo/7. Conducta del Jugador/7.1. Conducta Prohibida (Prohibited Conduct).md|Colusión]]
@@ -18,7 +18,7 @@ Hablar de posiciones y de cuándo un empate sería matemáticamente útil no es 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Antes de la ronda se puede hablar de la clasificación y de las matemáticas.
 2. En el match real, los dos jugadores deciden si solicitan el empate.

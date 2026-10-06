@@ -29,7 +29,7 @@ Si la fuente intentara infligir 2 daños, Resist +1 los reduciría a 1. Hydra s�
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Hydra - Deadly Serpent|Hydra - Deadly Serpent]]: WATCH THE TEETH se dispara cuando se inflige daño a Hydra.
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.2. Equivalencias|1.9.2. «Is dealt damage» significa que el personaje recibe daño]]

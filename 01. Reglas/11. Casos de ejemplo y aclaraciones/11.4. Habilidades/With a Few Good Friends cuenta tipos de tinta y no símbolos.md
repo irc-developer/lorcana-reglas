@@ -14,7 +14,7 @@ Además, si el resultado es X, «draw a card for each» produce X robos individu
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[5.2. Partes de una carta (Parts of a Card)|5.2. Partes de una carta]] define los tipos de tinta y las cartas con dos tipos.
 - [[1.12 Robo (Drawing)|1.12. Robo]] trata cada carta robada como un evento de robo individual.
@@ -23,18 +23,9 @@ Además, si el resultado es X, «draw a card for each» produce X robos individu
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Identifica todos los tipos de tinta de tus personajes en juego.
-2. Elimina las repeticiones y cuenta los tipos únicos.
-3. El jugador elegido roba esa cantidad de cartas.
-4. Cada carta se roba como un evento separado.
-
----
-
-## 📝 Fuente y estado
-
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

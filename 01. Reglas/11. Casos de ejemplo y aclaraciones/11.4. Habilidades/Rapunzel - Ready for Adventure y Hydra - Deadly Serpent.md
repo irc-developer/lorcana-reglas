@@ -18,7 +18,7 @@ Lo que determina qué daño evita Rapunzel es cuál es la siguiente instancia de
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - **ACT OF KINDNESS:** “The next time they would be dealt damage they take no damage instead.”
 - **WATCH THE TEETH:** “Whenever this character is dealt damage, deal that much damage to chosen opposing character.”

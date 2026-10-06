@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”— y revelas [[02. Listado de Cartas/Set 12 - Wilds Unknown#Firefly Swarm|Firefly Swarm]], ¿puedes usar su segundo modo para desterrar cualquier personaje gracias a las cartas que Robin mandará al descarte al final del efecto?
 
@@ -29,7 +29,7 @@ Por tanto:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.2 Los efectos deben resolverse completamente antes de pasar al siguiente]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen en el momento de resolver]]
@@ -44,7 +44,7 @@ Por tanto:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Robin Hood completa su quest y su habilidad disparada entra en resolución.
 2. Miras las 4 primeras cartas de tu mazo.

@@ -14,7 +14,7 @@ Si lo ocurrido fue un error de reglas durante la resolución, hay que llamar al 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7 Takebacks|Tournament Rules 3.7 — los takebacks son una excepción que requiere autorización]].
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks|Tournament Rules 3.7.1 — los efectos y habilidades disparadas que se resuelven cuentan como información adicional]].

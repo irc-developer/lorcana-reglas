@@ -20,7 +20,7 @@ Según [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, a
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|1.2.2 Impedir por encima de permitir]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen al resolver]]
@@ -32,7 +32,7 @@ Según [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, a
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Durante tu turno, una carta es puesta en tu pozo de tinta y se dispara la habilidad de [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Oswald - The Lucky Rabbit|Oswald - The Lucky Rabbit]].
 2. Al resolverse esa habilidad, revelas la carta superior de tu mazo.

@@ -10,41 +10,17 @@
 
 ## ✅ Respuesta
 
+**Variante pendiente:** el caso de Luisa como único personaje contiene explicaciones contradictorias y requiere revisión normativa; no debe usarse como un fallo confirmado.
+
 **I Can Take It** es una única habilidad activada con **dos instrucciones secuenciales** dentro de la misma resolución.
 
 Primero eliges un personaje tuyo y mueves **0 o 1** daño desde ese personaje a Luisa. Después, **solo en ese momento**, compruebas si Luisa tiene **3 o más** daños. Si la condición es verdadera, eliges un personaje rival y mueves **todo** el daño de Luisa a ese personaje.
 
 El **GSC** no ocurre entre ambas instrucciones, sino **después** de que toda la habilidad termina de resolverse. Por eso, si Luisa llega a daño letal en la primera instrucción pero luego mueve todo ese daño fuera de sí en la segunda, **sobrevive**.
 
-**Sí puede usarse aunque no tengas otro personaje en mesa.** La activación de una habilidad activada comprueba **coste y momento de uso**, no la existencia previa de objetivos legales. En ese caso, al resolverse, la primera instrucción no puede realizarse porque Luisa no puede ser su propio origen; después se sigue resolviendo el resto del texto tanto como sea posible.
-
 Además, el daño movido al personaje rival **sí cuenta como daño recibido**, pero **no** como daño infligido a efectos de **Resist**, así que Resist no lo reduce.
 
 El punto clave con **Ward** es este: **Ward no impide activar la habilidad**. Lo único que impide es **elegir** esa carta cuando la segunda instrucción llega a resolverse. Por tanto, puedes anunciar y pagar **I Can Take It** aunque el único personaje rival tenga Ward; simplemente, si Luisa llega a la segunda instrucción y sigue sin existir un personaje rival legal que puedas elegir, esa parte no hará nada.
-
----
-
-## 🔄 Funcionamiento exacto
-
-1. **Activación de la habilidad**: es una habilidad activada con coste de **1 tinta**. Como no incluye ![[imagenes/exert.svg|20]] en el coste, Luisa puede usarla incluso el turno en que entra en juego.
-2. **Primera instrucción**: al resolver, eliges un personaje tuyo. Ese personaje **no tiene que estar dañado**, porque la instrucción dice **up to 1 damage** y “hasta 1” incluye **0**. **Luisa no puede elegirse a sí misma como origen** de ese daño, porque mover daño exige quitarlo de un personaje y ponerlo en **otro** personaje distinto.
-3. **Movimiento inicial**: mueves **0 o 1** daño desde ese personaje a Luisa. Si el personaje elegido tiene daño, puedes mover 1 o decidir mover 0. Si no tiene daño, simplemente mueves 0.
-4. **Comprobación de la condición**: después de esa primera instrucción miras cuántos daños tiene Luisa **en ese momento exacto**.
-5. **Segunda instrucción**: si Luisa tiene **3 o más** daños, eliges entonces un personaje rival y mueves **todo** el daño de Luisa a ese personaje. No se mueve una parte; se mueve **todo**. **Ward solo importa aquí**, porque es aquí donde la habilidad te pide elegir un personaje rival.
-6. **Final de la resolución**: cuando ambas instrucciones han terminado, las habilidades disparadas generadas durante el proceso esperan en la bolsa y luego se realiza el **GSC**.
-
-### Cuándo puedes usar la habilidad frente a Ward
-
-Puedes activar **I Can Take It** si puedes anunciarla y pagar su coste. El procedimiento de usar una habilidad activada no exige elegir al personaje rival por adelantado.
-
-Eso significa:
-
-- si el único personaje rival tiene **Ward**, **sí puedes activar** la habilidad igualmente
-- si al llegar a la segunda instrucción sigue siendo el único personaje rival legalmente disponible, **no podrás elegirlo**
-- como no existe otra elección legal en ese punto, **la segunda instrucción se resuelve sin efecto**
-- el resultado final es que Luisa **conserva su daño**
-
-No se deshace la activación porque la ilegalidad no estaba en **usar** la habilidad, sino en que **al resolver la segunda elección no existe objetivo legal disponible**.
 
 ---
 
@@ -54,12 +30,8 @@ No se deshace la activación porque la ilegalidad no estaba en **usar** la habil
 |---|---|---|
 | Luisa tiene **0 o 1** daños y mueves **1** hacia ella | Luisa se queda en **1 o 2** daños y **no** hay segunda parte | La condición de **3 o más** no se cumple |
 | Luisa tiene **2** daños y mueves **1** hacia ella | Luisa llega a **3**, luego mueve **los 3** a un personaje rival | La condición se comprueba después de la primera instrucción |
-| Luisa tiene **3** daños y eliges mover **0** | Luisa sigue con **3** y luego mueve **los 3** a un personaje rival | “Up to 1” permite mover **0** y `Then` no exige haber movido 1 |
 | Luisa tiene **3** daños de **4** de Willpower y mueves **1** | Luisa pasa a **4**, luego mueve **los 4** fuera de sí y **sobrevive** | El GSC ocurre solo al final de toda la resolución |
 | El personaje elegido tiene **0** daños | La primera instrucción mueve **0**; sigue siendo una resolución legal | No hace falta que el origen esté dañado |
-| El personaje elegido tiene **más de 1** daño | En la primera instrucción solo puedes mover **1** | El texto limita a **up to 1 damage** |
-| Luisa es tu **único personaje** en juego | **Sí puedes usar la habilidad**, pero Luisa **no puede ser el origen** de la primera instrucción | La activación solo exige pagar el coste; mover daño exige un origen y un destino distintos |
-| Luisa es tu **único personaje**, pero ya tiene **3 o más** daños | Si hay personaje rival legal, la segunda instrucción **sí puede resolverse** | `Then` ordena la secuencia, pero no exige que la primera parte haya tenido éxito |
 | Luisa ya tenía **3 o más** daños antes de activar la habilidad | Aunque la primera instrucción mueva **0**, la segunda puede ocurrir igualmente | La condición mira el estado real de Luisa al llegar a esa parte |
 | Hay varios personajes rivales y **uno tiene Ward** | El personaje con Ward **no puede ser elegido**; si hay otro rival legal sin Ward, debes elegir entre esos personajes legales | Ward impide que el oponente elija esa carta al resolver un efecto |
 | El **único** personaje rival disponible tiene **Ward** | **Sí puedes activar la habilidad**, pero la segunda instrucción no puede realizarse y Luisa conserva su daño | Ward no impide activar; impide elegir ese personaje cuando llega la segunda instrucción |
@@ -83,7 +55,7 @@ No se deshace la activación porque la ilegalidad no estaba en **usar** la habil
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades Activadas]]: la subregla 6.3.1.1 indica que una habilidad activada en un personaje que no tenga el símbolo de exert como parte del coste puede usarse el mismo turno en que ese personaje entra en juego; por tanto, esta restricción no impide usar I Can Take It el turno en que Luisa entra en juego.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades Activadas]]: la subregla 6.3.2 fija el momento general en el que puede usarse una habilidad activada.
@@ -109,11 +81,3 @@ No se deshace la activación porque la ilegalidad no estaba en **usar** la habil
 ## 🏷️ Tags
 
 #gsc #activated-ability #move-damage #take-damage #resist #sequential-effect #then-if #resolution #timing #luisa-madrigal
-
----
-
-### Luisa con tres daños y sin otro personaje
-
-La regla de Luisa — I Can Take It permite mover su propio daño tanto como sea posible cuando no existe otro personaje legal. La conclusión reglamentaria se mantiene aunque el relato de la retransmisión y la decisión arbitral concreta no estén verificados; esos hechos deben separarse y no citarse como precedente sin vídeo o acta.
-
-Fundamento: artículo de Luisa — I Can Take It y reglas 1.9.2.4 y 6.7.2 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].

@@ -10,15 +10,9 @@ No hay contradicción. Las Comprehensive Rules describen la acción normal de po
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.2 Entintar una carta (Ink a Card).md|4.2. Entintar una carta]] y [[03. Reglas de Torneo/5 Información y comunicación/5.5 Pozo de tinta.md|5.5. Pozo de tinta en torneo]].
-
-## 🔄 Secuencia oficial
-
-1. Entinta la carta y déjala boca arriba durante tu turno.
-2. Usa esa visibilidad para verificar el estado del tintero.
-3. Al final del turno, gírala boca abajo según el procedimiento del torneo.
 
 ---
 

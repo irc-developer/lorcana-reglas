@@ -18,7 +18,7 @@ Si no era tu última carta en mano, Angel no gana ese Resist +2 y recibirá el d
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md|6.4.1 y 6.4.2.3. Las habilidades estáticas de cartas en juego se aplican continuamente mientras la fuente siga en juego]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md|6.1.15 y 6.1.16. Los efectos dependientes de una condición se comprueban con el estado actual del juego]]
@@ -29,7 +29,7 @@ Si no era tu última carta en mano, Angel no gana ese Resist +2 y recibirá el d
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Juegas o cantas [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Let The Storm Rage On|Let The Storm Rage On]] desde tu mano.
 2. Al jugarla, esa carta deja tu mano y pasa a resolverse como acción.

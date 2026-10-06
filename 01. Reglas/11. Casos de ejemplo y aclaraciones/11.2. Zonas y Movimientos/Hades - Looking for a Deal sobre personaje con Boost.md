@@ -22,7 +22,7 @@ Esto es distinto de [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]]: el jugador del personaje elegido puede poner esa carta en la parte inferior de su mazo.
 - [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|1.4.3. El jugador decide sobre sus cartas y las manipula físicamente]]

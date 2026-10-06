@@ -12,7 +12,7 @@ Welcome Return permite entonces devolver a la mano un personaje propio de coste 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[4.5 Irse de aventura (Quest)|4.5. Irse de aventura]] sitúa la ganancia de lore dentro del proceso de la acción de turno.
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]] regula el disparo de las habilidades con `Whenever`.
@@ -21,19 +21,9 @@ Welcome Return permite entonces devolver a la mano un personaje propio de coste 
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Se declara la aventura con Pocahontas & Meeko y se agota el personaje.
-2. Se gana su cantidad actual de lore.
-3. Welcome Return se añade a la bolsa.
-4. Al resolverse, puede devolverse a la mano un personaje propio de coste 1.
-5. Si se devolvió, puede jugarse gratis un personaje de coste 1.
-
----
-
-## 📝 Fuente y estado
-
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

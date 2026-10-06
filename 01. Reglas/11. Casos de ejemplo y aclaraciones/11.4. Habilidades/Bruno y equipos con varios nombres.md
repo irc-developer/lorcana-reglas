@@ -10,15 +10,9 @@ Al nombrar una carta con Bruno se usa un nombre de carta, tal como aparece impre
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card).md|5.2. Partes de una carta]], apartados de nombre y múltiples nombres, junto al texto de [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Hamish, Hubert & Harris - Making Mischief|Hamish, Hubert & Harris]].
-
-## 🔄 Secuencia oficial
-
-1. Lee el nombre completo de la carta que se va a nombrar.
-2. Trata el equipo como un único personaje para objetivos y conteos.
-3. Comprueba la versión vigente de la carta si existe una duda de redacción.
 
 ---
 

@@ -10,15 +10,9 @@ No hay dos robos de Diablo en la secuencia descrita. Una carta vuelve a la mano 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play).md|7.4. Juego]] y [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md|6.7. Resolución de cartas y efectos]], junto con el texto de [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Will O' The Wisp - Forest Spirit|Will O' The Wisp]] y [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo]].
-
-## 🔄 Secuencia oficial
-
-1. Separa el retorno a la mano del efecto de [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Will O' The Wisp - Forest Spirit|Will O' The Wisp]].
-2. Comprueba el único robo generado por [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo]].
-3. Compara el número de cartas final con esas dos operaciones, sin contar la carta devuelta como un segundo robo.
 
 ---
 

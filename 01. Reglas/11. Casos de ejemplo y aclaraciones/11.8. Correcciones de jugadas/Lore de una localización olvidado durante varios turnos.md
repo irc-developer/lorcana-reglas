@@ -10,7 +10,7 @@ No se concede el lore retroactivamente. La acción obligatoria de la Set Step se
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase).md|Lore de localizaciones en la fase inicial]]
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.3 Criterios para el rebobinado.md|No rebobinar cuando cambia decisiones]]
@@ -18,7 +18,7 @@ No se concede el lore retroactivamente. La acción obligatoria de la Set Step se
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se comprueba que la Set Step y varios turnos ya terminaron.
 2. Se determina que un rebobinado afectaría decisiones e información.

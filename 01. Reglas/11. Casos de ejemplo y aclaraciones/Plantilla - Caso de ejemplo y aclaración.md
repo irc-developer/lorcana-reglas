@@ -1,38 +1,32 @@
 ## ❓ Duda
 
-Describe aquí la situación exacta de juego, incluyendo cartas implicadas, estado de mesa y acción que genera la duda.
+Describe la situación de juego y la pregunta. Incluye cartas y condiciones que puedan cambiar la respuesta; omite el origen del hilo o captura.
 
-Al mencionar cartas, vincúlalas siempre al archivo de set correspondiente con formato Obsidian: `[[02. Listado de Cartas/Set X - Nombre del set.md#Nombre Exacto de Carta|Texto visible]]`.
+Al mencionar cartas, vincúlalas al archivo de set correspondiente: `[[02. Listado de Cartas/Set X - Nombre del set.md#Nombre Exacto de Carta|Texto visible]]`.
 
 ---
 
 ## ✅ Respuesta
 
-Sí/No (o fallo provisional si hay conflicto de fuentes), acompañado de una explicación breve y concreta del porqué.
+Da el resultado y explica el motivo en lenguaje claro. Conserva las limitaciones que el lector necesite conocer, como un fallo provisional o una decisión reservada al Lore Guide.
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
-- [[Ruta de regla#Epígrafe exacto|Epígrafe 1]]
-- [[Ruta de regla#Epígrafe exacto|Epígrafe 2]]
-- [[Ruta de regla#Epígrafe exacto|Epígrafe 3 (si aplica)]]
+- [[Ruta de regla|Regla pertinente]]: relación breve con la respuesta.
+- [[Documentacion Oficial/Documento utilizado.pdf|Fuente oficial utilizada]], con los epígrafes o páginas necesarios.
 
-Si no hay epígrafe directo, justificar por inferencia con combinación de reglas y citar todos los epígrafes usados con este mismo formato.
+Cita las reglas que sostienen la conclusión y las excepciones pertinentes. No repitas el relato de comprobación, fechas de búsqueda ni avisos del índice o del MCP. Explica las inferencias sin atribuirlas a una FAQ oficial.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve (opcional)
 
-1. Evento de inicio
-2. Costes y requisitos (si aplica)
-3. Elecciones y objetivos
-4. Resolución
-5. Disparos y bolsa
-6. GSC
+Incluye un ejemplo o los pasos decisivos si ayudan a entender la duda. Elimina esta sección si repite la respuesta. Explica costes, bolsa y GSC solo cuando intervengan en el resultado; no rellenes pasos genéricos.
 
 ---
 
 ## 🏷️ Tags
 
-Define tags dinámicos según el contexto del caso (cartas, mecánica, timing, zonas, tipo de interacción, etc.).
+Usa tags de las cartas y mecánicas centrales del caso, contrastados con el registro maestro.

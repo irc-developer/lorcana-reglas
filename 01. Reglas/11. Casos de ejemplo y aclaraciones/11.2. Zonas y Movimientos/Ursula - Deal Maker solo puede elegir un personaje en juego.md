@@ -14,7 +14,7 @@ Además, como la habilidad no dice "another chosen character", [[02. Listado de 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Ursula - Deal Maker|Ursula - Deal Maker]]: su habilidad dice "put chosen character of yours into your inkwell facedown and exerted".
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|5.3. Personajes (Characters)]]: una carta de personaje en la zona de juego es un personaje; en cualquier otra zona es una carta de personaje.
@@ -24,7 +24,7 @@ La clave del ruling está en el sustantivo usado por la carta: pide elegir un ch
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Final del turno**: si [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Ursula - Deal Maker|Ursula - Deal Maker]] está agotada, BY THE WAY se dispara.
 2. **Elección al resolver**: la habilidad exige elegir un objeto legal que cumpla "chosen character of yours".

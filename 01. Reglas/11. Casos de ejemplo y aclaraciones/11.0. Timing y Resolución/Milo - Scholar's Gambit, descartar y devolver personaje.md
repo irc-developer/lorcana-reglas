@@ -20,7 +20,7 @@ Esto no debe confundirse con una redacción hipotética como «puedes elegir un 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Milo Thatch - Getting His Hands Dirty|Milo Thatch - Getting His Hands Dirty]]: `choose and discard a card to return chosen character` vincula el descarte con el efecto de devolver.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|Efectos secuenciales]]: una parte que sirve para realizar otra no se convierte en una acción independiente por el mero hecho de estar separada por palabras.
@@ -30,7 +30,7 @@ Esto no debe confundirse con una redacción hipotética como «puedes elegir un 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se dispara SCHOLAR'S GAMBIT al jugar a Milo.
 2. Decides si intentas resolver la habilidad completa.

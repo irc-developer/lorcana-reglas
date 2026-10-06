@@ -22,7 +22,7 @@ Así que la respuesta corta es:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)#4.7.3.1. Elegir personaje y localización|4.7.3.1. Para mover eliges uno de tus personajes y una de tus localizaciones]]
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)#4.7.3.2. Pagar costes|4.7.3.2. Después pagas el move cost]]
@@ -34,7 +34,7 @@ Así que la respuesta corta es:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Juegas una localización y esta entra en juego.
 2. La localización ya cuenta como una de tus localizaciones en juego.

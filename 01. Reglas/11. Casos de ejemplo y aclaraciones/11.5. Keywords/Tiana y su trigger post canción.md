@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si controlo [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Tiana - Natural Talent|Tiana - Natural Talent]] y canto [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]], ¿puedo aplicar el modificador de fuerza de Tiana durante la resolución de la canción para afectar a [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Mr. Smee - Bumbling Mate|Mr. Smee - Bumbling Mate]] en ese mismo efecto?
 
@@ -11,7 +11,7 @@ Si una habilidad disparada ocurre durante la resolución de una acción, se aña
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Habilidades disparadas durante la resolución]]
@@ -19,7 +19,7 @@ Si una habilidad disparada ocurre durante la resolución de una acción, se aña
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: cantas [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]] pagando su forma de juego correspondiente.
 2. **Objetivos**: se fijan los objetivos requeridos por el texto de la canción.

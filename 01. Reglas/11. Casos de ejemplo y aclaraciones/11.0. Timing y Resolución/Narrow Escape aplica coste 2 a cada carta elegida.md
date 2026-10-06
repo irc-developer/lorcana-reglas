@@ -12,7 +12,7 @@ Se pueden elegir hasta dos cartas y cada una debe tener coste 2 o menos. Por eje
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.1. General (General)|6.1. Reglas generales de efectos]] regula las elecciones exigidas por el texto de un efecto.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de efectos]] exige realizar las elecciones conforme a todos los calificadores impresos.
@@ -21,18 +21,9 @@ Se pueden elegir hasta dos cartas y cada una debe tener coste 2 o menos. Por eje
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Se resuelve Narrow Escape.
-2. Se decide cuántas cartas elegir, entre cero y dos.
-3. Para cada carta se comprueba de forma independiente que sea personaje, objeto o localización y que tenga coste 2 o menos.
-4. Las cartas elegidas se devuelven a las manos de sus respectivos jugadores.
-
----
-
-## 📝 Fuente y estado
-
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

@@ -10,11 +10,11 @@ No existe un permiso universal de sideboard entre partidas o rondas de Limited e
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/6. Formatos de torneos - Limitado/6.1 Descripción general de Limitado (Limited Overview).md|6.1. Descripción general de Limited]], [[03. Reglas de Torneo/6. Formatos de torneos - Limitado/6.2 Sellado (Sealed).md|6.2. Sellado]] y [[03. Reglas de Torneo/6. Formatos de torneos - Limitado/6.4 Draft.md|6.4. Draft]].
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Consulta las instrucciones de construcción antes de abrir o registrar el pool.
 2. Pregunta qué cambios se permiten entre partidas y entre rondas.

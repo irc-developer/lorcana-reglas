@@ -14,7 +14,7 @@ La misma distinción explica FOCUSED ENERGY de Merida: si eliges usarla, Merida 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 1 - The First Chapter.md#Stitch - Rock Star|Stitch - Rock Star]]: Adoring Fans permite agotar el personaje que acabas de jugar.
 - [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Merida - Wisp Conjurer|Merida - Wisp Conjurer]]: BECKON se dispara cuando otro personaje propio entra en juego agotado y FOCUSED ENERGY permite que Merida entre agotada.
@@ -25,7 +25,7 @@ La misma distinción explica FOCUSED ENERGY de Merida: si eliges usarla, Merida 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 ### Stitch y Adoring Fans
 

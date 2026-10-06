@@ -1,4 +1,4 @@
-﻿# ❓ Duda
+# ❓ Duda
 
 Si tengo [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Ariel - Ethereal Voice|Ariel - Ethereal Voice]] con boost (teniendo una carta bajo ella) en mesa y canto [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Beyond the Horizon|Beyond the Horizon]], ¿robo 3 cartas o 4 cartas (3+1)?
 
@@ -43,5 +43,8 @@ Beyond the Horizon hace que descartes tu mano y robes 3 cartas. Además, COMMAND
 
 # 🏷️ Tags
 
-#song #draw-multiple #boost #triggered-ability #ariel-ethereal-voice #beyond-the-horizon
+---
 
+## 🏷️ Tags
+
+#song #draw-multiple #boost #triggered-ability #ariel-ethereal-voice #beyond-the-horizon

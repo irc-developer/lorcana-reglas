@@ -10,7 +10,7 @@ No. La habilidad de Pete fue una jugada anterior ya completada. Jugar Merlin fue
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Jugada más reciente]]
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.3 Criterios para el rebobinado.md|Información y decisiones posteriores]]
@@ -18,7 +18,7 @@ No. La habilidad de Pete fue una jugada anterior ya completada. Jugar Merlin fue
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se resuelve la habilidad de Pete.
 2. Se juega Merlin y se roba del fondo, obteniendo información.

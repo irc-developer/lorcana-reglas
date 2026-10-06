@@ -20,7 +20,7 @@ Si resuelves Fergus primero, todavía no puedes jugar esta Sleepy Hollow desde e
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - **Texto de las cartas:** JUST THE SPOT permite jugar una localización de tu mano o descarte de coste 4 o menos gratis cuando Fergus se agota durante tu turno. HEAD FOR THE BRIDGE! permite desterrar esa localización para ganar 2 lore y otorgar Evasive al personaje que fue de aventura allí. Las fichas completas están enlazadas en la duda.
 - [[4.5 Irse de aventura (Quest)|4.5.1.3–4.5.2. Agotar, ganar lore y resolver disparos]]: primero se agota el personaje y se gana el lore de la aventura; después pueden resolverse las habilidades pendientes. JUST THE SPOT se genera al agotar a Fergus y HEAD FOR THE BRIDGE! por la aventura, sin una resolución de bolsa entre ambos eventos.
@@ -31,13 +31,11 @@ Si resuelves Fergus primero, todavía no puedes jugar esta Sleepy Hollow desde e
 - [[5.6. Localizaciones (Locations)|5.6.6. La localización abandona el juego]]: sus personajes permanecen en juego y dejan de estar en una localización.
 - [[7.1. General|7.1.6. Cambio de zona]]: al abandonar la zona de juego, Sleepy Hollow pasa a ser una carta nueva. Su retorno no recupera la asociación previa con Fergus.
 
-**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], efectiva el 9 de julio de 2026: reglas 4.1.5 (p. 12), 4.5.1–4.5.3 (p. 14), 5.6.6 (p. 25), 6.1.3–6.1.5.1 (pp. 25–26), 6.2.1 (p. 30), 6.7.8 (p. 37), 7.1.6 (p. 38) y 7.7.4.2–7.7.4.3 (p. 40). Las comprobaciones y el final de partida se rigen por 1.8.1–1.8.3 (pp. 6–7).
-
-**Verificación externa:** el 6 de octubre de 2026, la [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) sigue enlazando las [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf). Este caso es una interpretación de las cartas y reglas verificadas, no una FAQ oficial sobre esta pareja de cartas. La captura aportada plantea la duda y no constituye una fuente normativa.
+**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 4.1.5 (p. 12), 4.5.1–4.5.3 (p. 14), 5.6.6 (p. 25), 6.1.3–6.1.5.1 (pp. 25–26), 6.2.1 (p. 30), 6.7.8 (p. 37), 7.1.6 (p. 38) y 7.7.4.2–7.7.4.3 (p. 40). Las comprobaciones y el final de partida se rigen por 1.8.1–1.8.3 (pp. 6–7).
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Declaras la aventura de Fergus y compruebas su legalidad. Fergus está preparado, seco y en Sleepy Hollow.
 2. Agotas a Fergus. JUST THE SPOT se dispara durante tu turno y se añade a la bolsa.
@@ -46,14 +44,6 @@ Si resuelves Fergus primero, todavía no puedes jugar esta Sleepy Hollow desde e
 5. Se completa la comprobación del estado del juego. Si has alcanzado 20 lore, ganas la partida y no continúas con la habilidad pendiente.
 6. Si la partida continúa, resuelves JUST THE SPOT y eliges jugar gratis Sleepy Hollow desde tu descarte. Entra en la zona de juego sin que Fergus se mueva a ella.
 7. Se comprueba el estado del juego y se resuelven los demás disparos que pudiera haber. Estas dos cartas por sí solas no generan otra aventura ni otro agotamiento de Fergus: la interacción termina.
-
----
-
-## 🧪 Ejemplo
-
-Empiezas con 10 lore, Fergus preparado y seco en Sleepy Hollow, sin otras cartas que intervengan. Su aventura te deja en 12. Desterrar Sleepy Hollow con su habilidad te deja en 14 y da Evasive a Fergus. Después la juegas gratis con JUST THE SPOT. Terminas con **14 lore, Fergus agotado fuera de la localización y Sleepy Hollow en juego**, sin nuevos disparos de estas habilidades.
-
-Para volver a obtener el beneficio de Sleepy Hollow necesitarías que un personaje estuviera en ella y realizara una nueva aventura legal. Estas dos cartas no proporcionan por sí mismas el movimiento ni el enderezamiento necesarios para que Fergus repita la secuencia.
 
 ---
 

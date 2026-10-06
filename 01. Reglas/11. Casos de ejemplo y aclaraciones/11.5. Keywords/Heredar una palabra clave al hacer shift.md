@@ -12,7 +12,7 @@ Al hacer Shift, Ariel - Sonic Warrior no hereda el texto impreso de Ariel - Adve
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Ariel - Adventurous Collector|Ariel - Adventurous Collector]] tiene Evasive e Inspiring Voice.
 - [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Ariel - Sonic Warrior|Ariel - Sonic Warrior]] se juega mediante Shift sobre un personaje llamado Ariel.
@@ -23,7 +23,7 @@ Al hacer Shift, Ariel - Sonic Warrior no hereda el texto impreso de Ariel - Adve
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Juegas la canción y eliges a Ariel como personaje para Inspiring Voice.
 2. Ariel ya tiene Evasive, así que la concesión no añade una instancia acumulable.
@@ -33,14 +33,14 @@ Al hacer Shift, Ariel - Sonic Warrior no hereda el texto impreso de Ariel - Adve
 
 ---
 
-## 🏷️ Tags
-
-#shift #evasive #triggered-ability #scope
-
----
-
 ### Bronx: preparado no significa seco
 
 Al hacer Shift, hay que distinguir dos estados independientes: **preparado/agotado** y **seco/secándose**. Bronx puede estar preparado y seguir secándose si acaba de entrar en juego; prepararlo no elimina la restricción de secado. El personaje superior hereda el estado correspondiente según las reglas de Shift, pero no convierte una carta recién jugada en una carta seca.
 
 Fundamento: regla 1.7.5 y regla 8.10.4 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].
+
+---
+
+## 🏷️ Tags
+
+#shift #evasive #triggered-ability #scope

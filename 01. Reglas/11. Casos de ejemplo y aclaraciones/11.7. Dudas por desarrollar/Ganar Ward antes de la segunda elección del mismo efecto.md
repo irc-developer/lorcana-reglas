@@ -22,7 +22,7 @@ La consecuencia práctica es:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Los efectos secuenciales siguen formando una única resolución y se hacen en orden]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Las elecciones se hacen cuando se llega a ellas]]
@@ -32,7 +32,7 @@ La consecuencia práctica es:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Empieza a resolverse el efecto.
 2. Se aplica la primera instrucción, que hace que un personaje rival gane Ward.

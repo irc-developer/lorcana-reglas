@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Juego [[02. Listado de Cartas/Set 1 - The First Chapter.md#Elsa - Spirit of Winter|Elsa - Spirit of Winter]] (que dice: "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn").
 
@@ -16,11 +16,11 @@ Un personaje agotado puede ser seleccionado legalmente. Cuando Elsa intenta agot
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Estados de carta y redundancia**
 
-[[01. Reglas/1. Principios generales (Concepts)/1.2. Regla de oro (Golden Rules)|Regla de Oro (1.2.3)]]: Si un efecto indica que hagas algo, debes hacer todo lo que puedas, aunque no puedas completar el efecto entero. Esto se conoce como *doing as much as you can*.
+[[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Regla de Oro (1.2.3)]]: Si un efecto indica que hagas algo, debes hacer todo lo que puedas, aunque no puedas completar el efecto entero. Esto se conoce como *doing as much as you can*.
 
 Aplicación a Elsa:
 - **Selección**: No hay limitación que impida elegir un personaje agotado en el texto de Elsa.
@@ -28,25 +28,24 @@ Aplicación a Elsa:
 - **Estado actual y nuevo**: Si una carta está agotada y se intenta aplicar "agotar", no cambia de estado porque YA está en ese estado.
 - **Efecto adicional**: La parte "They can't ready at the start of their next turn" se aplica incluso al personaje agotado.
 
-**Texto verificado de carta:**
+**Texto relevante de carta:**
 
 [[02. Listado de Cartas/Set 1 - The First Chapter.md#Elsa - Spirit of Winter|Elsa - Spirit of Winter]]: *"When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."*
 
 **Referencias normativas:**
 
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]]
-- [[01. Reglas/1. Principios generales (Concepts)/1.3. Conceptos fundamentales|1.3 Regla de oro y efectos redundantes]]
+- [[6.1. General (General)|Elecciones y resolución de efectos]]
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: Juegas [[02. Listado de Cartas/Set 1 - The First Chapter.md#Elsa - Spirit of Winter|Elsa - Spirit of Winter]] pagando su coste.
 2. **Objetivos**: Eliges hasta 2 personajes cualesquiera (pueden estar agotados o listos).
 3. **Evaluación**: Para cada personaje elegido, evalúas si es legal intentar agotarlo (siempre es legal intentar).
 4. **Resolución**: Aplicas "agotar" a cada personaje elegido. Si el personaje ya está agotado, no cambia de estado (ya está agotado). Si está listo, cambia a agotado.
 5. **Disparos y restricciones adicionales**: Se aplica "They can't ready at the start of their next turn" a todos los personajes elegidos, incluso a los que ya estaban agotados.
-6. **GSC**: Se verifica estado del juego.
 
 ---
 

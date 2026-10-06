@@ -21,7 +21,7 @@ Así que la traducción española "de tu mano o del descarte" debe interpretarse
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#L2436|Fergus - Outpost Builder]] usa dos wordings relevantes:
   - "play a location from your hand or discard with cost 4 or less for free"

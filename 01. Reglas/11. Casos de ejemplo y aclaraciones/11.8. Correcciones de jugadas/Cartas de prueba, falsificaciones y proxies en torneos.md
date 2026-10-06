@@ -46,7 +46,7 @@ La penalización final depende de los hechos, del momento en que se descubre el 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[20. Reglas CR 1.X/2. Antes de comenzar/2. Antes de comenzar.md#Construcción legal del mazo|Construcción legal del mazo]]: las cartas de prueba, proxies y sustitutos no oficiales no están permitidos en eventos sancionados.
 - [[04. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md|Error de mazo-registro menor]].

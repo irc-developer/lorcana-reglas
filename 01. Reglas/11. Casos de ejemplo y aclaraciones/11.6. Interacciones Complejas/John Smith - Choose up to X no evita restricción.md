@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Puedo evitar la restricción de "Do your worst" de [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] jugando un efecto que dice "elige hasta X personajes" (choose up to X characters) e ignorando a John Smith?
 
@@ -24,7 +24,7 @@ La restricción "Do your worst" es **incondicional en el contexto de elección v
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Diferencia: "Choose X" vs "Choose up to X"**
 
@@ -51,17 +51,6 @@ Del mismo modo, "Do your worst" impone una **restricción positiva** (must choos
 **Base normativa:**
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto|6.1.3. Elecciones: "up to N"]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#Restricciones de elección|6.4. Restricciones estáticas de elección]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Efecto activado**: Se juega un efecto que dice "elige hasta 3 personajes".
-2. **Opciones legales**: Los personajes en juego son: John Smith, Otro A, Otro B. Todos son objetivos válidos.
-3. **Restricción evaluada**: "Do your worst" crea una restricción **positiva** (must choose John Smith if able). Lo opuesto a Ward (can't choose).
-4. **Elección obligatoria**: El jugador DEBE incluir a John Smith. Luego puede elegir 0-2 personajes adicionales (máximo 3 total).
-5. **Resolución**: El efecto se resuelve con John Smith **incluido obligatoriamente**.
-6. **GSC**: Se verifica estado del juego.
 
 ---
 

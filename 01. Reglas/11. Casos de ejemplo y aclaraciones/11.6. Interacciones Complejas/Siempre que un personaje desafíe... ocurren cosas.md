@@ -24,7 +24,7 @@ La consecuencia práctica es importante: si el daño movido deja al personaje de
 
 Si Mother Gothel mueve daño al personaje desafiado y eso hace que alcance o supere su Willpower, ese personaje es desterrado en el game state check inmediatamente posterior a la resolución de la habilidad. Como uno de los personajes ya no está en el challenge, se aplica la regla de salida del challenge y no se llega al daño normal del desafío.
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|4.6 Desafío]]: la subregla 4.6.4.5 indica que el challenge ocurre y que los efectos "while challenging" empiezan a aplicar en ese momento.
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|4.6 Desafío]]: la subregla 4.6.5 establece que las habilidades que dicen "challenges" o "is challenged" se añaden a la bolsa y se resuelven antes del Challenge Damage step.
@@ -38,7 +38,8 @@ Si Mother Gothel mueve daño al personaje desafiado y eso hace que alcance o sup
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Mover daño no es retirar daño]]
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa|Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa]]
 
+---
+
 ## 🏷️ Tags
 
 #mother-gothel #challenge #challenging #being-challenged #triggered-ability #bag #move-damage #timing #gsc
-

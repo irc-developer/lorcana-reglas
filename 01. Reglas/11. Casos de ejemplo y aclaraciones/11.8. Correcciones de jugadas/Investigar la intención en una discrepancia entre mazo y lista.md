@@ -10,7 +10,7 @@ El juez debe investigar la intención; no se ofrece al jugador la opción de esc
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.8 Registro de Mazos (Deck Registration).md|La lista como referencia de intención]]
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.9 Revisión de Mazos (Deck Checks).md|Objetivo del deck check]]
@@ -18,7 +18,7 @@ El juez debe investigar la intención; no se ofrece al jugador la opción de esc
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se aparta el mazo y la lista y se entrevista al jugador por separado de la presión de la mesa.
 2. Se comprueba qué versión pretendía jugar y qué pruebas lo respaldan.

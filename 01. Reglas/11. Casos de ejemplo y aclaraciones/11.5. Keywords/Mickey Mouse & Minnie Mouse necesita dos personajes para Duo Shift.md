@@ -18,7 +18,7 @@ Al utilizar dos personajes:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales de Shift.
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] define los estados combinados por la nueva variante.
@@ -26,19 +26,9 @@ Al utilizar dos personajes:
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Se comprueba que existen dos personajes distintos.
-2. Uno debe satisfacer el nombre Mickey Mouse y el otro Minnie Mouse.
-3. Se paga el coste de Duo Shift.
-4. La carta dual se coloca arriba y las otras dos debajo en cualquier orden.
-5. Se aplican los estados más restrictivos: secándose y agotado si aparecen en cualquiera de las dos cartas.
-
----
-
-## 📝 Fuente y estado
-
-Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y Duo Shift confirmado por CR 2.2, 8.10.8.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
+Aclaración de carta: [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]] y Duo Shift confirmado por CR 2.2, 8.10.8.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

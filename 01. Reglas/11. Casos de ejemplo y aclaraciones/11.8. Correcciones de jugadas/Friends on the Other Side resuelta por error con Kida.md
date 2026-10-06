@@ -10,7 +10,7 @@ La corrección es un Card Count Error, Warning en Competitive: la resolución in
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md|Corrección de cartas de más y de menos]]
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Información adicional impide reabrir la línea]]
@@ -18,7 +18,7 @@ La corrección es un Card Count Error, Warning en Competitive: la resolución in
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se investiga que la canción se cantó y que los robos posteriores ocurrieron.
 2. Se registra un CCE y una Warning.

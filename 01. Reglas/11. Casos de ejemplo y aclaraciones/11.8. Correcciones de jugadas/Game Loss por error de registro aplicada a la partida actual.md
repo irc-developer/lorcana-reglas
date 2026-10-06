@@ -10,7 +10,7 @@ No. Un único error de mazo produce una única acción correctiva. La Game Loss 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.8 Registro de Mazos (Deck Registration).md|Registro de mazos]]: la lista y el mazo se comprueban como parte del torneo.
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.1 Acciones correctivas/Pérdida de partida (Game Loss).md|Game Loss]]: la acción correctiva se aplica a una partida, no reescribe partidas terminadas.
@@ -18,7 +18,7 @@ No. Un único error de mazo produce una única acción correctiva. La Game Loss 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se confirma la discrepancia y la clasificación.
 2. Se registra una única Game Loss para la partida en curso o la siguiente.

@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Cuando una carta tiene dos cláusulas hablando del mismo personaje ("elige un personaje" + "ese personaje no se endereza"), hacen referencia al mismo objetivo?
 
@@ -8,30 +8,16 @@ Sí, **siempre** que haya una cláusula que haga referencia a un personaje e, in
 Esto es aplicable también a:
 - [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Elsa - Ice Maker|Elsa - Ice Maker]]
 - [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Magic Broom - Dancing Duster|Magic Broom - Dancing Duster]]
-#clause #choosen-character #exert
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
 - [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
-- ---
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
 
 ---
 
 ## 🏷️ Tags
 
-#clause #target-reference #exert #resolution#clause
+#clause #target-reference #exert #resolution #choosen-character

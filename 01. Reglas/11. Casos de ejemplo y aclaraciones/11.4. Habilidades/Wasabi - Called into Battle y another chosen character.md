@@ -14,7 +14,7 @@
 
 La regla pertinente es **CR 6.1.6**, no CR 1.6.1. Esta última define los tipos de habilidades y su fuente.
 
-En esta interacción, el resultado coincide con la segunda lectura de la captura: se conservan ambas exclusiones. La primera lectura permitiría elegir a la fuente al existir un personaje previo, algo que la definición y su ejemplo no autorizan. No hay que sustituir literalmente `or` por `and` en el documento oficial: hay que identificar de qué carta procede el efecto y a qué personaje se refiere `another` en el contexto de la habilidad completa.
+Hay que identificar de qué carta procede el efecto y a qué personaje se refiere `another` en el contexto de la habilidad completa.
 
 El personaje adicional puede ser **tuyo o de un oponente**, y puede estar preparado o agotado. Debe ser elegible al resolverse la habilidad; por ejemplo, no puedes elegir a un personaje rival con Ward. Otra copia de Wasabi es una carta distinta y puede ser elegida si cumple los requisitos.
 
@@ -22,7 +22,7 @@ El personaje adicional puede ser **tuyo o de un oponente**, y puede estar prepar
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.1. General (General)|CR 6.1.2 y 6.1.6. Contexto completo y significado de «otro»]]: `another/other` distingue la carta de la fuente o de una selección anterior. CR 6.1.2 exige considerar el contexto y la estructura completos de la habilidad. El ejemplo oficial de CR 6.1.6 explica que Mulan - Imperial Soldier no se incluye entre sus propios «otros personajes».
 - [[6.1. General (General)|CR 6.1.3, 6.1.3.1 y 6.1.4. Elecciones, limitadores y efectos opcionales]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3. Legalidad de las elecciones]]: el personaje se elige al resolver, respetando los limitadores. Una elección previa no elimina la exclusión de la fuente.
@@ -35,11 +35,11 @@ El personaje adicional puede ser **tuyo o de un oponente**, y puede estar prepar
 
 El primer `another character` identifica al personaje que recibe el daño del desafío y lo distingue de Wasabi. El segundo, `another chosen character`, pide un personaje adicional respecto de ese personaje ya identificado, conservando la exclusión de Wasabi como fuente.
 
-**La elección del defensor se hizo durante el desafío, no mediante una primera instrucción de Twin Blades.** Por eso no basta con afirmar que CR 6.1.6 lo excluye literalmente por haber sido «elegido por la habilidad». Esta parte del fallo es una **inferencia de CR 6.1.2 y 6.1.6 junto con el texto completo de la carta**. No se presenta como una FAQ oficial específica de Wasabi ni como una regla general que prohíba volver a elegir cualquier personaje mencionado en cualquier habilidad.
+**La elección del defensor se hizo durante el desafío, no mediante una primera instrucción de Twin Blades.** Por eso no basta con afirmar que CR 6.1.6 lo excluye literalmente por haber sido «elegido por la habilidad». Esta exclusión se explica con CR 6.1.2 y 6.1.6 junto con el texto completo de Twin Blades; no implica una prohibición general de volver a elegir cualquier personaje mencionado en una habilidad.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Durante tu turno, Wasabi participa en un desafío y hace daño a otro personaje. Twin Blades se dispara y se añade a la bolsa.
 2. Se completa el daño simultáneo del desafío y se realiza el chequeo del estado del juego. Los personajes con daño igual o superior a su Voluntad son desterrados.
@@ -52,13 +52,11 @@ Este daño adicional procede de una **habilidad**, no de un nuevo desafío. Por 
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Texto de Wasabi verificado contra la imagen inglesa aportada por el usuario el 30/09/2026 e incorporado al listado parcial de Hyperia City. La captura de Discord contiene la pregunta y dos propuestas de interpretación; **no contiene una respuesta oficial**.
+[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.1.2 y 6.1.6, pp. 25–27.
 
-Fundamento normativo: [Comprehensive Rules 2.2.0, vigentes desde el 9 de julio de 2026](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), especialmente pp. 25–27 (CR 6.1.2 y 6.1.6), disponibles en la [página oficial de recursos](https://www.disneylorcana.com/en-GB/resources/). Se contrastó también el PDF conservado en `Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf`.
-
-**Estado:** interpretación técnica fundamentada en las reglas generales y el texto aportado. No se ha localizado una aclaración oficial específica de Twin Blades que resuelva expresamente esta duda. Una aclaración oficial posterior prevalecerá sobre esta interpretación.
+**Alcance:** interpretación del texto de Twin Blades y las reglas generales; no se ha localizado una aclaración oficial específica que resuelva esta duda.
 
 ---
 

@@ -16,7 +16,7 @@ Si **Hercules sobrevive y sigue agotado** cuando se resuelve TRIPLE SHOT, EVER V
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Mulan - Elite Archer|Mulan - Elite Archer]]: TRIPLE SHOT hace, a hasta dos otros personajes elegidos, la misma cantidad de daño que Mulan hizo al personaje del desafío durante su turno. Su ficha incluye también Shift 5 y STRAIGHT SHOOTER. La [[02. Listado de Cartas/Set 9 - Fabled.md#Mulan - Elite Archer|reimpresión de Fabled]] conserva esas habilidades y los valores 2 {S}/6 {W}.
 - [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hercules - Mighty Leader|Hercules - Mighty Leader]]: EVER VIGILANT permite hacerle daño si está siendo desafiado. EVER VALIANT protege a sus otros Héroes mientras Hercules está agotado, salvo que ellos estén siendo desafiados. Sus valores son 5 {S}/3 {W}.
@@ -31,7 +31,7 @@ Relacionado: [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movi
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se declara el desafío legal de Mulan contra Hercules agotado y se resuelven los disparos de la declaración que correspondan.
 2. En el paso de daño, ambos personajes se hacen daño simultáneamente. EVER VIGILANT no impide el daño a Hercules, porque él está siendo desafiado.
@@ -49,11 +49,9 @@ Mulan desafía a Hercules: le hace **2 daños** y recibe **5**. Hercules acumula
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-La captura aportada muestra una pregunta comunitaria publicada el 30 de septiembre de 2026. Se utiliza para reconstruir la duda, no como autoridad normativa. El resultado es una interpretación de las cartas verificadas en los archivos de set y de las Comprehensive Rules 2.2.0; no se atribuye a una FAQ oficial específica de esta interacción.
-
-El 1 de octubre de 2026 se comprobó que la [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) enlazaba las [Comprehensive Rules 2.2.0, efectivas el 9 de julio de 2026](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf). Las [notas oficiales de Whispers in the Well, pp. 15–16](https://files.disneylorcana.com/Whispers-in-the-Well_ReleaseNotes_English.pdf) aclaran además que EVER VIGILANT permite hacer daño a Hercules cuando él es el personaje desafiado; no resuelven expresamente este caso con Mulan.
+[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]]. Las [notas oficiales de Whispers in the Well, pp. 15–16](https://files.disneylorcana.com/Whispers-in-the-Well_ReleaseNotes_English.pdf) aclaran el daño de EVER VIGILANT sobre Hercules; esta interacción con Mulan se explica con las reglas citadas.
 
 ---
 

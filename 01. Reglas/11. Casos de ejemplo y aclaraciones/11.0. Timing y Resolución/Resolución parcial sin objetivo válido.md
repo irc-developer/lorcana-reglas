@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 - Juego [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Last-Ditch Effort|Last-ditch Effort]].
 - Mi oponente sólo tiene un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Protección]].
@@ -13,27 +13,10 @@ Sí. La primera no puede resolverse al no tener un objetivo válido, por lo que 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Protección]]
 - [[01. Reglas/8. Palabras clave (Keywords)/8.5. Desafiador (Challenger)|Desafiador + 2]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. Evento de inicio
-2. Costes y requisitos (si aplica)
-3. Elecciones y objetivos
-4. Resolución
-5. Disparos y bolsa
-6. GSC
-
----
-
-## 🏷️ Tags
-
-#challenger #clause #interaction #ward
 
 ---
 
@@ -42,3 +25,9 @@ Sí. La primera no puede resolverse al no tener un objetivo válido, por lo que 
 Scream Canister puede activarse y pagarse aunque no exista un objetivo legal para su efecto. El coste se paga al iniciar la acción; al resolver, se hace todo lo posible y se omite la elección que no tiene objetivo. Pagar el coste no convierte una elección sin objetivo en una elección válida.
 
 Fundamento: reglas 1.2.3, 4.3.2 y 6.7.2 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].
+
+---
+
+## 🏷️ Tags
+
+#challenger #clause #interaction #ward

@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Cuando [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Horned King - Wicked Ruler|The Horned King - Wicked Ruler]] tiene su efecto ARISE! activo (*"Whenever one of your other characters is banished in a challenge, you may return that card to your hand, then choose and discard a card"*), ¿toca el descarte el personaje que es banished antes de que el Horned King lo devuelva a tu mano?
 
@@ -12,7 +12,7 @@ El efecto del Horned King comienza con "**Whenever**" (no con "**instead**"), lo
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Interacción]]: Cuando se cumple la condición de disparo, la habilidad se añade a la bolsa y se resuelve después del evento.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1. Definición de Efectos de Reemplazo]]: Los efectos de reemplazo contienen "instead" e interceptan el evento ANTES. No es el caso del Horned King.
@@ -24,7 +24,7 @@ El efecto del Horned King comienza con "**Whenever**" (no con "**instead**"), lo
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Evento de inicio**: Personaje del lado activo es banished en un desafío
 2. **Costes y requisitos**: (no aplica)
@@ -43,4 +43,3 @@ El efecto del Horned King comienza con "**Whenever**" (no con "**instead**"), lo
 ## 🏷️ Tags
 
 #horned-king #banish #triggered-abilities #replacement-effects #resolution-order #hand #discard #timing
-

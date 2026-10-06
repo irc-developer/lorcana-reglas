@@ -24,7 +24,7 @@ La interacción completa con los dos escudos está desarrollada en [[01. Reglas/
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.2.1. Deal y 1.9.2.2. Put son operaciones distintas]]
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.5. Daño reducido a 0|1.9.5. La fuente sigue considerándose que inflige daño]]

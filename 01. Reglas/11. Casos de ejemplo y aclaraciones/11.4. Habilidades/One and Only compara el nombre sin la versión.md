@@ -17,16 +17,6 @@ Por tanto, si se elige un personaje llamado `A`, se destierran los demás `A` y 
 
 ---
 
-## 🃏 Texto verificado de la carta
-
-> **One and Only**
->
-> `Choose a character. Banish all other characters with the same name as that character.`
-
-La acción no exige que el personaje sea propio o rival. La primera frase elige un personaje; la segunda destierra a todos los demás personajes que tengan el mismo nombre que el elegido.
-
----
-
 ## 📘 Regla central de nombres en CR 2.2.0
 
 ### Nombre y versión
@@ -61,26 +51,19 @@ La regla **5.2.6.3** añade una excepción expresa: [[02. Listado de Cartas/Set 
 
 ---
 
-## 🔎 Todos los casos de comparación
+## 🔎 Comparación de nombres
 
-En la tabla siguiente, `A`, `B` y `C` representan nombres exactos completos, no palabras sueltas.
+`A`, `B` y `C` representan nombres completos, no palabras sueltas.
 
-| Personaje elegido | Otro personaje en juego | ¿Se destierra? | Motivo |
-|---|---|---:|---|
-| `A` | otra versión de `A` | Sí | La versión se ignora |
-| `A` | otra copia de `A` | Sí | Comparte el nombre `A` |
-| `A` | `A & B` | Sí | El personaje múltiple también se llama `A` |
-| `A` | `A & C` | Sí | Comparten el nombre `A` |
-| `A` | `B` | No | No comparten ningún nombre |
-| `A` | `A Something` | No | La coincidencia no es exacta |
-| `A & B` | `A` | Sí | Comparten el nombre `A` |
-| `A & B` | `B` | Sí | Comparten el nombre `B` |
-| `A & B` | otro `A & B` | Sí | Comparten el nombre impreso y los individuales |
-| `A & B` | `A & C` | Sí | Comparten el nombre `A` |
-| `A & B` | `B & C` | Sí | Comparten el nombre `B` |
-| `A & B` | `C` o `C & D` | No | No comparten ningún nombre |
+| Elegido | Otro personaje | Resultado |
+|---|---|---|
+| `A` | Otra copia o versión de `A` | Se destierra. |
+| `A` | `A & B` o `A & C` | Se destierra: también tiene el nombre `A`. |
+| `A` | `B` o `A Something` | Permanece: no hay coincidencia exacta. |
+| `A & B` | `A`, `B`, `A & B`, `A & C` o `B & C` | Se destierra: comparte al menos un nombre. |
+| `A & B` | `C` o `C & D` | Permanece: no comparte ningún nombre. |
 
-La forma práctica de decidirlo es comparar los conjuntos de nombres de ambos personajes. Si tienen al menos un nombre exacto en común y no se trata del personaje elegido, One and Only intenta desterrarlo.
+El personaje elegido siempre queda excluido del destierro de One and Only.
 
 ---
 
@@ -102,16 +85,7 @@ Resultado:
 - `Flotsam & Jetsam` es desterrado porque también se llama `Flotsam`;
 - `Jetsam` permanece porque no se llama `Flotsam`.
 
-### Elegir un personaje con varios nombres
-
-Si se elige `Flotsam & Jetsam`, el personaje elegido permanece y se destierran:
-
-- los demás `Flotsam`;
-- los demás `Jetsam`;
-- los demás `Flotsam & Jetsam`;
-- cualquier otro personaje de nombre múltiple que comparta `Flotsam` o `Jetsam`.
-
-No se elige cuál de sus tres nombres se utiliza: One and Only compara todos los nombres que tiene el personaje elegido.
+No se elige un nombre de un personaje múltiple: se comparan todos sus nombres.
 
 ---
 
@@ -168,20 +142,7 @@ Los personajes son desterrados por el efecto de la acción, no por el personaje 
 
 ---
 
-## 🔄 Secuencia oficial
-
-1. Se juega One and Only y se paga su coste.
-2. Al resolver la primera frase, se elige un personaje legal.
-3. Se determina cada nombre reglamentario de ese personaje conforme a **5.2.6–5.2.6.3**, sin incluir la versión.
-4. Se identifican todos los demás personajes en juego que compartan al menos uno de esos nombres exactos.
-5. One and Only intenta desterrar a todos esos personajes; se aplican los efectos de reemplazo que correspondan.
-6. Las habilidades disparadas durante la resolución se añaden a la bolsa y esperan.
-7. One and Only termina de resolverse y se coloca en el descarte.
-8. Se realiza la comprobación del estado del juego y después se resuelven las habilidades pendientes de la bolsa según las reglas aplicables.
-
----
-
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[5.2. Partes de una carta (Parts of a Card)|5.2.6. Nombre]]: compara la línea de nombre completa e ignora la versión.
 - [[5.2. Partes de una carta (Parts of a Card)|5.2.6.1–5.2.6.3. Múltiples nombres]]: los personajes con `&` tienen los dos nombres individuales y el nombre impreso; `Chip 'n' Dale` es la excepción tratada como `&`.
@@ -196,18 +157,6 @@ Los personajes son desterrados por el efecto de la acción, no por el personaje 
 
 ---
 
-## 🚫 Errores comunes
-
-- Comparar la versión situada después del guion.
-- Dividir un nombre de varias palabras como si fueran varios nombres.
-- Pensar que un personaje `A & B` solo se llama `A & B`.
-- Elegir uno de los nombres de un personaje múltiple en vez de aplicar todos sus nombres.
-- Creer que Ward protege a los personajes que no fueron elegidos.
-- Consultar los nombres de las cartas situadas debajo de una pila.
-- Desterrar al personaje elegido como parte del efecto de One and Only.
-
----
-
 ## 🔗 Véase también
 
 - [[No tener objetivo legal vs elegir un objetivo inválido]]
@@ -217,11 +166,9 @@ Los personajes son desterrados por el efecto de la acción, no por el personaje 
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Caso resuelto exclusivamente con las [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], efectivas desde el 9 de julio de 2026, y las [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Attack of the Vine! Set Release Notes]].
-
-El ejemplo de las dos versiones de `Winnie the Pooh` es un *ruling* expreso de las notas del set. La aplicación a personajes con varios nombres se obtiene de la definición normativa de **5.2.6.1–5.2.6.3** y de la aclaración oficial de que un personaje con dos nombres cuenta con tres nombres.
+[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]]. Las notas aclaran el ejemplo de Winnie the Pooh; las reglas 5.2.6.1–5.2.6.3 explican los personajes con varios nombres.
 
 ---
 

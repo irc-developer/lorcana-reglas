@@ -14,7 +14,7 @@ Si el match aún no tiene resultado —por ejemplo, sigue en curso una partida d
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure)|Tournament Rules 3.3 — en Bo3, gana el match quien gana dos partidas]].
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions)|Tournament Rules 3.6 — solo se puede conceder una partida o match incompleto]].

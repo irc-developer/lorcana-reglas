@@ -42,7 +42,7 @@ Si, en cambio, no puedes aplicar legalmente la segunda parte, Luisa se quedará 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|1.8. Chequeo del estado del juego]]: el **GSC** se realiza después de que se resuelvan todos los efectos de una acción o habilidad, no entre frases de una misma habilidad.
 - [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|1.8.5. Las condiciones solo se cumplen cuando ocurre el GSC]]: si una condición de daño letal se cumple durante la resolución pero deja de cumplirse antes del **GSC**, el personaje no es desterrado.

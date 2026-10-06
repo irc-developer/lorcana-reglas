@@ -10,7 +10,7 @@ Sí. El estado de preparado o agotado debe representar las acciones realmente re
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/5 Información y comunicación/5.5 Pozo de tinta.md|Estado del pozo de tinta]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions.md|Acciones ilegales y deshacer]]
@@ -18,7 +18,7 @@ Sí. El estado de preparado o agotado debe representar las acciones realmente re
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. El Lore Guide detiene la secuencia si la detecta.
 2. Confirma el estado correcto anterior.

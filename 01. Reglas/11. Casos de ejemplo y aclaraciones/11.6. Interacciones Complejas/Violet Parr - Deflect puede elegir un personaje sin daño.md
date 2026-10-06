@@ -18,7 +18,7 @@ La respuesta sería distinta si el texto exigiera **`chosen damaged character`**
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Violet Parr - Learning New Powers|Violet Parr - Learning New Powers]]: distingue entre `chosen character` y una condición expresa de daño.
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]]: `DO YOUR WORST` obliga a los oponentes a elegirlo para acciones y habilidades si es posible, pero no añade una condición de daño.
@@ -29,7 +29,7 @@ La respuesta sería distinta si el texto exigiera **`chosen damaged character`**
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Al jugar Violet, su habilidad se dispara.
 2. Al resolverla, se elige un personaje y un personaje oponente; cada uno debe cumplir sus restricciones de objetivo.

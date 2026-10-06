@@ -45,8 +45,6 @@ La propia actualización oficial distingue entre cambios de reglas y cambios edi
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3.1. Requisitos y limitadores|6.1.3.1]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.3. Legalidad de elecciones y selecciones|6.7.3]]
 
-## Nota editorial adicional
-
-El índice de aclaraciones arrastraba una inconsistencia previa entre el total declarado y la suma real de casos. Al añadir esta página se ha dejado el recuento cuadrado con el contenido actual del repositorio.
+## 🏷️ Tags
 
 #cr-2-1 #erratas #ocr #txt #editorial #integracion #timing #resolucion

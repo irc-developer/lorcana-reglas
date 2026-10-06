@@ -22,7 +22,7 @@ En resumen:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.6. Jugador activo vs jugador no-activo|6.7.6. Si varios jugadores actúan, lo hacen en orden de turno dentro de la misma resolución]]
 - [[01. Reglas/9. Multijugador (Multiplayer)/9.2. Reglas adicionales de multijugador (Multiplayer Rules)#9.2.2. Resolver acciones de varios jugadores|9.2.2. En multijugador se procede hacia la izquierda, un jugador cada vez]]
@@ -31,7 +31,7 @@ En resumen:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Empieza a resolverse una habilidad o acción que dice que cada oponente haga algo.
 2. Como más de un jugador debe actuar durante ese mismo efecto, se aplica el orden de turno multijugador.

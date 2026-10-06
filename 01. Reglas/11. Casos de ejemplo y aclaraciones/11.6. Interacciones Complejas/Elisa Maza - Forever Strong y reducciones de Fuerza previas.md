@@ -21,7 +21,7 @@ Esto también importa al combinar bonificaciones. Un personaje con 4 {S} impreso
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md#6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego|6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego]]: una habilidad estática continua generada por una carta afecta a todas las cartas que pueda afectar mientras su fuente permanezca en juego; si la fuente sale de la zona de juego, su efecto termina inmediatamente.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md#6.6.1.1. Aparición y duración|6.6.1.1. Aparición y duración]]: los modificadores se aplican continuamente durante su duración y cualquier cambio en una característica sucede de inmediato, sin usar la bolsa.
@@ -30,7 +30,7 @@ Esto también importa al combinar bonificaciones. Un personaje con 4 {S} impreso
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Un efecto aplica una reducción de Fuerza al personaje durante un periodo determinado.
 2. Elisa Maza entra en la zona de juego.

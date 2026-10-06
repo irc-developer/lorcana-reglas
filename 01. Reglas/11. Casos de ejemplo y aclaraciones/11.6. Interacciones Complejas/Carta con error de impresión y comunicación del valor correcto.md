@@ -12,7 +12,7 @@ Una impresión extranjera o con una errata no es automáticamente una carta marc
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 1 - The First Chapter.md#Stitch - Carefree Surfer|Stitch - Carefree Surfer]]: la carta de la primera edición tiene 2 de lore.
 - [[01. Reglas/1. Principios generales/1.1. General#1.1.4. Idiomas|1.1.4. Idiomas]]: la versión inglesa es la referencia oficial para cartas, reglas y decisiones.
@@ -23,7 +23,7 @@ Una impresión extranjera o con una errata no es automáticamente una carta marc
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Antes de la partida, identifica la carta y comprueba su texto y valores oficiales.
 2. Informa al oponente de que la impresión muestra un valor erróneo y de que se usará el valor oficial.

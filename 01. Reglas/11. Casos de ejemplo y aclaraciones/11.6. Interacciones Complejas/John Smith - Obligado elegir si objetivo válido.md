@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Estoy obligado a elegir a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] si es un objetivo válido para un efecto que permite elegir cualquier personaje?
 
@@ -17,7 +17,7 @@ La restricción se aplica porque:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Restricciones de elección estáticas**
 
@@ -37,16 +37,13 @@ _"If an opponent would choose one of your characters to challenge, they must cho
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Efecto que requiere elección**: Se activa un efecto que dice "elige un personaje" (sin restricciones de propiedad explícitas).
 2. **Opciones legales**: Se evalúan todos los personajes disponibles en juego. John Smith es una opción legal.
 3. **Restricción evaluada**: "Do your worst" evalúa si John Smith puede ser elegido. Es legal → **Debe be incluido en la selección**.
 4. **Objeción**: El oponente no puede elegir otro personaje si intenta evitar a John Smith (salvo que John Smith no sea legal por otra razón).
 5. **Resolución**: El efecto se resuelve con John Smith como parte de la selección obligatoria.
-6. **GSC**: Se verifica el estado del juego tras la resolución completa.
-
----
 
 ---
 

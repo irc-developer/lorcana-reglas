@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si uso [[02. Listado de Cartas/Set 11 - Winterspell.md#Lonely Grave|Lonely Grave]] y pago su habilidad desterrando a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Olaf - Helping Hand|Olaf - Helping Hand]], ¿puedo poner primero la carta superior del mazo debajo de un [[02. Listado de Cartas/Set 11 - Winterspell.md#Scrooge McDuck - Ghostly Ebenezer|Scrooge]] con Boost y, después, resolver la habilidad de Olaf para devolver ese mismo Scrooge a la mano con esa carta adicional debajo?
 
@@ -14,7 +14,7 @@ Si Scrooge tiene cartas debajo cuando vuelve a la mano, todas esas cartas van co
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)#4.4.3.4. Pagar el coste|4.4.3.4. Pagar el coste]]: para usar una habilidad activada, primero pagas completamente su coste.
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]: si una habilidad disparada ocurre mientras otro efecto se está resolviendo, entra en la bolsa pero espera hasta que el efecto actual termine por completo.
@@ -23,7 +23,7 @@ Si Scrooge tiene cartas debajo cuando vuelve a la mano, todas esas cartas van co
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: activas [[02. Listado de Cartas/Set 11 - Winterspell.md#Lonely Grave|Lonely Grave]], lo exertas y destierras a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Olaf - Helping Hand|Olaf - Helping Hand]] como parte del coste.
 2. **Disparo generado**: Olaf sale del juego y su habilidad **SECOND CHANCE** entra en la bolsa.

@@ -17,7 +17,7 @@ Respecto a Combo Shift:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] regula las pilas, las cartas bajo otra carta y los cambios de estado al cambiar de zona.
 - [[7.6. Pila de descarte (Discard pile)|7.6. Pila de descarte]] determina que las cartas del descarte son visibles.
@@ -26,19 +26,9 @@ Respecto a Combo Shift:
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Sulley & Boo y todas las cartas bajo él son desterradas.
-2. Todas llegan al descarte y quedan boca arriba.
-3. The Power of Friendship se añade a la bolsa.
-4. Al resolverse, comprueba las cartas que estuvieron debajo e identifica cuáles son personajes.
-5. El jugador puede jugar gratis esos personajes desde el descarte.
-
----
-
-## 📝 Fuente y estado
-
-Ruling de carta recogido en las *Attack of the Vine Set Release Notes* y reglas generales confirmadas por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
+Aclaración de carta: [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]] y reglas generales confirmadas por CR 2.2. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

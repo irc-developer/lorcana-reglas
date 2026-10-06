@@ -20,20 +20,10 @@ La carta no deja de ser del otro color por cumplir uno de ellos: sigue siendo de
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card)#5.2.5. Tipo de tinta (Ink Type)|5.2.5. Tipo de tinta]]: el tipo de tinta de la carta puede ser referenciado por reglas de cartas.
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card)#5.2.5.1. Múltiples colores de tinta|5.2.5.1. Múltiples colores de tinta]]: las cartas con dos tipos muestran dos símbolos y **cuentan como ambos tipos**.
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Evento de inicio**: un efecto busca, restringe o afecta cartas de un color concreto.
-2. **Comprobación de características**: miras el tipo de tinta de la carta afectada.
-3. **Carta multicolor**: si la carta tiene dos símbolos de tinta, cuenta como ambos colores a la vez.
-4. **Aplicación del efecto**: si uno de esos colores coincide con el color pedido por el efecto, la carta cumple la condición.
-5. **Resultado final**: la carta queda afectada por ese efecto, aunque además siga siendo del otro color.
 
 ---
 

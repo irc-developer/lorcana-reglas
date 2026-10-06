@@ -10,7 +10,7 @@ La consulta previa a sentarse y antes de comenzar las acciones de la partida que
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/5 Información y comunicación/5.2 Notas y Seguimiento de Información (Notes and Information Tracking).md|Notas y asistencia externa]]
 - [[04. Guia de correccion de jugadas/03. Errores de torneo/3.8 Asistencia externa (outside assistance).md|Outside Assistance]]
@@ -18,7 +18,7 @@ La consulta previa a sentarse y antes de comenzar las acciones de la partida que
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se publican los emparejamientos.
 2. Antes de sentarse y comenzar la partida, una consulta logística al equipo no es OA por sí sola.

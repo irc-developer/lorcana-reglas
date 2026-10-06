@@ -34,7 +34,7 @@ Así que:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.3.2 Las acciones se resuelven y luego van al descarte]]
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.4.1 Las habilidades "When you play this character" se añaden a la bolsa al entrar en juego]]
@@ -44,7 +44,7 @@ Así que:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Inicio**: Circle of Life se está resolviendo.
 2. **Juego durante la resolución**: el efecto te hace jugar a The Leviathan.

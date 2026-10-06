@@ -10,7 +10,7 @@ Sí. Angela reconoció el trigger de Stitch en el momento correcto y todos los j
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing).md|Out-of-Order Sequencing]]
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md|Missed Trigger]]
@@ -18,7 +18,7 @@ Sí. Angela reconoció el trigger de Stitch en el momento correcto y todos los j
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Angela hace quest y anuncia el trigger.
 2. Completa las demás quests y anuncia el lore.

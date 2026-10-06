@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Es el turno del Jugador 1.
 
@@ -22,7 +22,7 @@ Por tanto, un orden como **B1, C3, C1, B2, C2, F1** es legal si todas esas carta
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona.
 - [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)#7.2.3. Origen del En cualquier orden|7.2.3. Origen del En cualquier orden]]: al poner cartas en la parte superior o inferior del mazo “en cualquier orden”, el jugador puede ordenar y mezclar libremente las pilas individuales antes de colocarlas.
@@ -38,7 +38,7 @@ En el caso de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Flynn Rid
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]] identifica a todos los personajes oponentes con 2 {S} o menos.
 2. Si [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Flynn Rider - Spectral Scoundrel|Flynn Rider - Spectral Scoundrel]] cumple esa condición, al abandonar la zona de juego se lleva con él las cartas que tiene debajo porque forman una pila.

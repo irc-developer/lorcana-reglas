@@ -20,7 +20,7 @@ Pero esos disparos esperan en la **bolsa** hasta que [[02. Listado de Cartas/Set
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 12 - Wilds Unknown#Merida - Formidable Archer|Merida - Formidable Archer]]: "Whenever one of your actions deals damage to an opposing character, deal 2 damage to that character."
 - [[02. Listado de Cartas/Set 1 - The First Chapter#Grab Your Sword|Grab Your Sword]]: "Deal 2 damage to each opposing character."
@@ -33,7 +33,7 @@ Pero esos disparos esperan en la **bolsa** hasta que [[02. Listado de Cartas/Set
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Resuelves [[02. Listado de Cartas/Set 1 - The First Chapter#Grab Your Sword|Grab Your Sword]].
 2. Su efecto hace 2 daños simultáneamente a **cada personaje rival**, incluidos los que tengan **Ward**, porque no hay elección.

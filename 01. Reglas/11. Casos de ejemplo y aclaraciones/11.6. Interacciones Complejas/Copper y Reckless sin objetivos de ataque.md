@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Controlo [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Donald Duck - Ruby Champion|Donald Duck - Ruby Champion]] (que da +1 lore a otros personajes de Ruby con 7+ fuerza). También tengo [[02. Listado de Cartas/Set 11 - Winterspell.md#Copper - On the Scent|Copper - On the Scent]] en juego.
 
@@ -18,7 +18,7 @@ Las habilidades de Donald Duck no pueden anular esta prohibición. El "if able" 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: "Can't" vs "Must if able"**
 
@@ -27,26 +27,25 @@ Las habilidades de Donald Duck no pueden anular esta prohibición. El "if able" 
 
 Estas son restricciones independientes. Una no cancelа la otra. Copper tiene AMBAS restricciones simultáneamente.
 
-**Texto verificado de cartas:**
+**Texto relevante de cartas:**
 
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#Copper - On the Scent|Copper - On the Scent]]: Reckless = *"This character can't quest and must challenge each turn if able."*
 - [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Donald Duck - Ruby Champion|Donald Duck - Ruby Champion]]: POWERFUL REWARD = *"Your other Ruby characters with 7 {s} or more get +1 [lore]."*
 
 El +1 lore de Donald Duck no es una habilidad que permite hacer quest; es un modificador de lore que se gana automáticamente si la condición se cumple. Como Copper no puede hacer quest, Donald Duck no le otorga ningún beneficio en esta situación.
 
-- [[01. Reglas/1. Principios generales (Concepts)/1.3. Conceptos fundamentales|1.3 Acciones prohibidas vs acciones condicionales]]
+- [[1.2. Regla de oro (Golden Rules)|Prohibiciones y permisos]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas: restricciones]]
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: Es el turno de Copper (Rush le permite desafiar este turno, Reckless lo requiere).
 2. **Objetivos**: Copper debe buscar un objetivo para desafiar (Reckless: "must challenge each turn if able").
 3. **Evaluación**: No hay personajes en el lado del oponente para desafiar. Por lo tanto, "if able" no se cumple, y la restricción de "must challenge" no aplica.
 4. **Resolución**: Copper consideraría otra acción, pero Reckless prohíbe "can't quest" — esta es una prohibición absoluta que aplica siempre. Por lo tanto, Copper no tiene acciones legales disponibles.
 5. **Disparos**: Donald Duck no genera disparos adicionales; su habilidad no aplica porque Copper no está realizando ninguna acción.
-6. **GSC**: Se verifica estado del juego.
 
 ---
 

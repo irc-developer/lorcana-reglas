@@ -10,11 +10,11 @@ Las fundas deben tener el reverso completamente opaco y no reflectante, ser unif
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.11 Accesorios Aprobados (Approved Accessories).md|3.11. Accesorios aprobados]], apartado Fundas.
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Revisa todas las fundas con la misma orientación y bajo la iluminación del torneo.
 2. Sustituye las que sean translúcidas, reflectantes, dañadas o distinguibles.

@@ -37,7 +37,7 @@ La palabra importante es **this character**. En el descarte, Anna - Braving the 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)#5.3.1. Definición|5.3.1. Definición]]: una carta de personaje en la zona de juego es un personaje; en cualquier otra zona es una **character card**.
 - [[01. Reglas/7. Zonas (Zones)/7.1. General#7.1.5. Cartas en juego o no según la zona|7.1.5. Cartas en juego o no según la zona]]: solo las cartas en la zona de juego se consideran en juego. Las cartas en el mazo, descarte, mano e inkwell no están en juego.
@@ -47,7 +47,7 @@ La palabra importante es **this character**. En el descarte, Anna - Braving the 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Anna - Soothing Sister hace quest.
 2. Ganas su lore normal por questear: **1 lore**.

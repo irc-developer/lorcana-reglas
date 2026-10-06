@@ -12,7 +12,7 @@ Primero puedes devolver desde tu descarte a tu mano una carta de personaje de co
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.1. General (General)|6.1. Reglas generales de efectos]] exige resolver los efectos en el orden escrito.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de efectos]] regula la ejecución completa y ordenada de las instrucciones.
@@ -21,18 +21,9 @@ Primero puedes devolver desde tu descarte a tu mano una carta de personaje de co
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Woody entra en juego y Hang On! se dispara.
-2. Al resolverse, se comprueba que hay otro Toy en juego y se eligen ambas opciones.
-3. Primero puede recuperarse del descarte una carta de personaje de coste 2 o menos.
-4. Después puede jugarse gratis un personaje de coste 2 o menos.
-
----
-
-## 📝 Fuente y estado
-
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

@@ -21,7 +21,7 @@ Lo que **no** cambia es el alcance de una instrucción. Si un efecto solo te dic
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: la propia regla de Move ya desarrolla el quitar del origen y poner en el destino**
 
@@ -44,7 +44,7 @@ Esto confirma que el daño movido no se trata como daño infligido, pero sigue s
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Un efecto indica **mover** una cantidad de daño desde un origen válido a un destino válido.
 2. Al resolverse, esa cantidad de contadores de daño se **quita** del origen.

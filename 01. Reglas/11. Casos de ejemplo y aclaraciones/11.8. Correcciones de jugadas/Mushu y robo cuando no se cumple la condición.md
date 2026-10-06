@@ -10,7 +10,7 @@ Depende de dónde terminó la carta. Si se añadió a la mano, hay una carta de 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Mushu - Stealthy Dragon|Mushu - Stealthy Dragon]]: el robo solo es posible si un oponente tiene más cartas en su mano.
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.2 Error de información oculta (Hidden Information Error).md|Hidden Information Error]]
@@ -18,7 +18,7 @@ Depende de dónde terminó la carta. Si se añadió a la mano, hay una carta de 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se confirma si la carta tocó la mano.
 2. Si entró en la mano, se investiga y se corrige como CCE.

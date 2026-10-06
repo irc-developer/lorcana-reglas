@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Cuando una carta dice que “al ser desterrada” vuelve a tu mano (por ejemplo, [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#HeiHei - Persistent Presence|HeiHei - Persistent Presence]] o [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Gale - Wind Spirit|Gale - Wind Spirit]]), ¿pasa primero por el descarte o vuelve directamente?  
 Y si esa carta estaba debajo de otra en una pila (por Boost), ¿se considera desterrada para disparar esa habilidad?
@@ -14,7 +14,7 @@ Si la carta estaba debajo de otra en una pila, no se considera en juego como car
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Cartas abandonando la zona de Juego]]
 - [[7.6. Pila de descarte (Discard pile)#7.6.1. Definición|7.6.1. Definición de descarte]]
@@ -23,14 +23,13 @@ Si la carta estaba debajo de otra en una pila, no se considera en juego como car
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Evento de inicio**: ocurre el evento que destierra al personaje.
 2. **Costes y requisitos (si aplica)**: no hay pago de coste adicional en este caso.
 3. **Elecciones y objetivos**: no aplica objetivo adicional para el propio evento de destierro.
 4. **Resolución**: la carta abandona zona de juego y entra en descarte; si su texto tiene trigger de retorno, queda preparado para bolsa.
 5. **Disparos y bolsa**: la habilidad de retorno entra en la bolsa y, al resolverse, mueve la carta del descarte a la mano.
-6. **GSC**: se verifica estado del juego tras cada resolución.
 
 ---
 

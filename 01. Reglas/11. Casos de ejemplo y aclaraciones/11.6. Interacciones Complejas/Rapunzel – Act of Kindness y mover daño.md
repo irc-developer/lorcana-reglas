@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Cómo funciona "Act of Kindness" de Rapunzel para mover daño entre personajes?
 
@@ -10,7 +10,7 @@ Cuando una habilidad permite mover daño, ese daño se redistribuye entre person
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: Movimiento de daño**
 
@@ -21,16 +21,6 @@ Cuando un efecto permite "mover" daño entre personajes, el daño se retira de s
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.3 Remove/Removed]]
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.4 Move]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
 
 ---
 

@@ -12,7 +12,7 @@ La conclusión sobre el idioma se obtiene combinando las reglas de idiomas y leg
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.1. General#1.1.4. Idiomas|1.1.4. Idiomas]]: la versión inglesa es la autoridad para cartas, reglas, aclaraciones y decisiones.
 - [[03. Reglas de Torneo/1. Definiciones sobre toneos/1.6 Legalidad de Sets (Set Legality)|1.6. Legalidad de sets]]: si una carta es legal, puede usarse cualquier impresión de esa carta.
@@ -22,7 +22,7 @@ La conclusión sobre el idioma se obtiene combinando las reglas de idiomas y leg
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Antes del torneo, comprueba que la carta pertenece a un set y formato legales.
 2. Usa fundas iguales y opacas si el grosor o el acabado de la impresión podría revelar su identidad.

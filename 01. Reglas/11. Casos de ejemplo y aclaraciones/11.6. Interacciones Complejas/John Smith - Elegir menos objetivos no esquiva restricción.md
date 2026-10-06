@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Puedo elegir menos objetivos para esquivar la restricción de "Do your worst" de [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]]? Por ejemplo, si un efecto dice "elige 2 personajes" pero hay 3 personajes en juego (incluyendo John Smith), ¿puedo elegir solo 1?
 
@@ -18,7 +18,7 @@ Ejemplo: "Elige 2 personajes para agotar"
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Diferencia: Requisitos de elección vs Restricciones de elección**
 
@@ -48,7 +48,7 @@ Del mismo modo, con "Do your worst" y "elige 2 personajes":
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Efecto activado**: Se juega un efecto que dice "elige 2 personajes para agotar".
 2. **Cantidad requerida**: El efecto requiere **exactamente 2 objetivos**. Esta es una parte inmutable de la resolución.

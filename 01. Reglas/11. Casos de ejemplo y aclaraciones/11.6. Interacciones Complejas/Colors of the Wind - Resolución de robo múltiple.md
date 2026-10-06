@@ -137,4 +137,3 @@ No hay diferencia en cómo se cuentan los disparos.
 ## 🏷️ Tags
 
 #multiple-draws #event-resolution #triggered-abilities #timing #draw-mechanics #single-event #colors-of-the-wind
-

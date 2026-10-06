@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Tengo [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Cursed Merfolk - Ursula's Handiwork|Cursed Merfolk]] en juego (habilidad: *"Whenever this character is challenged, each opponent chooses and discards a card."*). Mi oponente desafía a Cursed Merfolk y recibe daño suficiente para ser desterrado (banished). También controlo [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Emerald Chromicon|Emerald Chromicon]] con habilidad *"During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand."*
 
@@ -49,15 +49,15 @@ En el caso hipotético de que ambas habilidades **se disparasen al mismo tiempo*
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Cuándo se añaden los disparos a la bolsa|6.2.3. Cuándo se cocinan los disparos]] – Los disparos se cocinan cuando su condición se cumple de forma secuencial.
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4. Orden de resolución de la bolsa|7.7.4. Orden de resolución]] – En la bolsa, los disparos se resuelven en orden de prioridad de jugadores por cada disparo generado.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Desafíos (Challenges)#4.4.1. Resolución del desafío|4.4.1. Resolución del desafío]] – Un desafío se resuelve: se compara fuerza/voluntad, se aplica daño, se desterran si corresponde.
+- [[4.6 Desafío (Challenge)|Declaración y resolución del desafío]] – Un desafío se resuelve: se compara fuerza/voluntad, se aplica daño, se desterran si corresponde.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Evento inicial**: Oponente inicia un desafío contra Cursed Merfolk.
 2. **Costes y requisitos**: No aplica ninguno para el desafío.
@@ -72,6 +72,8 @@ En el caso hipotético de que ambas habilidades **se disparasen al mismo tiempo*
    - **Disparo 2**: "Whenever one of your characters is banished" de Emerald Chromicon se añade a la bolsa.
    - Se resuelve: opcionalmente se devuelve un personaje a mano.
 6. **GSC**: Se verifica el estado del juego. Total de disparos restantes en bolsa = 0.
+
+---
 
 ## 🏷️ Tags
 

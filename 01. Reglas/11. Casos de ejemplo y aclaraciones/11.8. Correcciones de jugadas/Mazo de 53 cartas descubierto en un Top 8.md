@@ -10,7 +10,7 @@ No hay una Match Loss automática por el mero descubrimiento. En un Set Champion
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/1. Definiciones sobre toneos/1.3. Formatos de Torneo.md|Mínimo de 60 cartas en Construido]]
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.8 Registro de Mazos (Deck Registration).md|Registro obligatorio]]
@@ -18,7 +18,7 @@ No hay una Match Loss automática por el mero descubrimiento. En un Set Champion
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. El Lore Guide cuenta el mazo y confirma que faltan siete cartas.
 2. Se registra DRE Major y Game Loss.

@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Tengo en juego a [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Chief Bogo - Commanding Officer|Chief Bogo - Commanding Officer]] y, además, dos personajes con Bodyguard.  
 Mi oponente juega [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]], por lo que se destierran todos los personajes.  
@@ -15,7 +15,7 @@ Cuando varias cartas abandonan la zona de juego a la vez, las habilidades dispar
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Cartas abandonando la zona de Juego]]
 - [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Definición]]
@@ -23,7 +23,7 @@ Cuando varias cartas abandonan la zona de juego a la vez, las habilidades dispar
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: el oponente juega [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] pagando su coste.
 2. **Objetivos**: no hay objetivos; la carta afecta al estado global de personajes en zona de juego.

@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si controlo [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]] y he puesto [[02. Listado de Cartas/Set 1 - The First Chapter.md#Hades - Infernal Schemer|Hades - Infernal Schemer]] debajo con su habilidad, y durante el turno del oponente este juega [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Hide Away|Hide Away]] eligiendo mi [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]], ¿[[02. Listado de Cartas/Set 1 - The First Chapter.md#Hades - Infernal Schemer|Hades - Infernal Schemer]] va también al inkwell o vuelve al descarte?
 
@@ -14,7 +14,7 @@ En consecuencia, ese efecto te dará **2 cartas en el inkwell**: el propio [[02.
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo (Under)]]: una carta debajo de otra no se considera en juego como carta independiente.
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila (In a stack)]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona que esa carta.
@@ -23,7 +23,7 @@ En consecuencia, ese efecto te dará **2 cartas en el inkwell**: el propio [[02.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Evento de inicio**: el oponente juega [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Hide Away|Hide Away]] y elige [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Black Cauldron|The Black Cauldron]].
 2. **Costes y requisitos**: la acción se juega legalmente y fija como objetivo al item.

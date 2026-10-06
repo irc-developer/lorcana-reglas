@@ -66,7 +66,7 @@ Si, en cambio, eliges resolver primero **Healing Home**, puedes quitar hasta **2
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7. Bolsa (Bag)]]: la subregla **7.7.3.1** indica que si varias habilidades disparadas ocurren al mismo tiempo, se añaden a la bolsa simultáneamente.
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7. Bolsa (Bag)]]: las subreglas **7.7.4.2** y **7.7.4.3** indican que el jugador activo elige una de sus habilidades disparadas en la bolsa y la resuelve por completo antes de elegir la siguiente.

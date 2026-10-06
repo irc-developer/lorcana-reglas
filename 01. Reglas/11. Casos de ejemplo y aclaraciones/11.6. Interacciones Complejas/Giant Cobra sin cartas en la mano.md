@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si juego [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] sin cartas en la mano y controlo [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]] en zona de juego, ¿puedo resolver primero la habilidad de la escoba para robar y luego descartar con la habilidad de la cobra?
 
@@ -11,7 +11,7 @@ Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáne
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]
 - [[7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2. El jugador activo escoge]]
@@ -19,7 +19,7 @@ Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáne
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: juegas [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Giant Cobra - Ghostly Serpent|Giant Cobra - Ghostly Serpent]] desde la mano pagando su coste.
 2. **Objetivos**: no hay objetivo obligatorio al añadirse las habilidades a la bolsa.

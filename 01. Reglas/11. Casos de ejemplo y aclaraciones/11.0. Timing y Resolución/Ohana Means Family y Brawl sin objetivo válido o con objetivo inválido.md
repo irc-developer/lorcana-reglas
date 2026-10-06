@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Puedo jugar [[02. Listado de Cartas/Set 11 - Winterspell.md#Ohana Means Family|Ohana Means Family]] sin objetivo en mesa? ¿Y [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Brawl|Brawl]]? ¿Qué ocurre si sí hay una carta en mesa pero no es un objetivo legal, o si elijo un objetivo inválido?
 
@@ -16,7 +16,7 @@ Sí, con matices.
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.3.2. Acciones|4.3.3.2. Acciones]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.3. Elecciones durante la resolución|1.7.3. Elecciones durante la resolución]]
@@ -25,7 +25,7 @@ Sí, con matices.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Evento de inicio**: juegas una acción.
 2. **Costes y requisitos**: anuncias la carta y pagas su coste.

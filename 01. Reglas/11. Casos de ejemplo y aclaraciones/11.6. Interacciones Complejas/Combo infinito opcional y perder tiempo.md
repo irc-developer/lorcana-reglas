@@ -20,7 +20,7 @@ En torneo, si un jugador usa ese proceso para tardar más de lo razonable en tom
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#infinite-loops|6.1.10. Si todos entienden el bucle, el jugador declara cuántas repeticiones hace y el juego avanza hasta ese punto]]
 - [[20. Reglas CR 1.X/7. Habilidades (abilities)/7.1 General#7.1.7. Bucle (loop)|7.1.7. Un bucle infinito se maneja declarando cuántas veces se repite]]

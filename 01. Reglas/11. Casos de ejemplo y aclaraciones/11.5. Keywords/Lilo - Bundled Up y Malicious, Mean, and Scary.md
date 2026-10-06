@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Con [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]], ¿se le puede poner contador de daño con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]] la primera vez que se aplica?
 
@@ -13,7 +13,7 @@ Si [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bund
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[1.9. Daño (Damage)#1.9.1.5. Take|1.9.1.5. Take]]
 - [[1.9. Daño (Damage)#1.9.1.2. Put|1.9.1.2. Put]]
@@ -23,7 +23,7 @@ Si no hay epígrafe directo para esta pareja concreta de cartas, se aplica infer
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: el oponente juega/canta [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]].
 2. **Objetivos**: no elige objetivo único; afecta a **each opposing character** (incluye a [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]]).

@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Demona - Scourge of the Wyvern Clan|Demona - Scourge of the Wyvern Clan]] y mi oponente controla un [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] agotado, ¿los robos de Demona hacen que se dispare Diablo?
 
@@ -20,7 +20,7 @@ Tampoco se forma un bucle. Cuando luego el controlador de Diablo robe por su pro
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. El texto se resuelve en el orden en que está escrito]]
 - [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|1.12. Robo]]
@@ -40,7 +40,7 @@ El mismo criterio aclara el segundo caso: un Diablo que controlas tú no mira lo
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Juegas o resuelves el efecto que pone en marcha a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Demona - Scourge of the Wyvern Clan|Demona - Scourge of the Wyvern Clan]].
 2. Empieza a resolverse su habilidad: primero se agotan todos los personajes rivales, incluido [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Diablo - Devoted Herald|Diablo - Devoted Herald]] si estaba en mesa.

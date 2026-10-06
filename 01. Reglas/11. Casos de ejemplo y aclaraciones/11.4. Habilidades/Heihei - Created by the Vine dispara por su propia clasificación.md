@@ -10,7 +10,7 @@ Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Heihei - Created by th
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[5.3. Personajes (Characters)|5.3. Personajes]] regula las clasificaciones impresas de los personajes.
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]] comprueba literalmente la condición «whenever one of your Floodborn characters quests».
@@ -19,7 +19,7 @@ Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Heihei - Created by th
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Heihei se va de aventura.
 2. Se gana su lore.
@@ -28,9 +28,9 @@ Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Heihei - Created by th
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

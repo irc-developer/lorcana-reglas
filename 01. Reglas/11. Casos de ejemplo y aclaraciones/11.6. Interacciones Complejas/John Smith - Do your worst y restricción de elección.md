@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Tengo en juego [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] con su habilidad "Do your worst" activa (los oponentes deben elegir este personaje para acciones y habilidades si es posible).
 
@@ -22,7 +22,7 @@ Por lo tanto, cuando el oponente juega Hypnotic Strength:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Definición: "If able" en restricciones de elección**
 
@@ -37,25 +37,19 @@ Una acción que dice simplemente "Chosen character" o "a character" SIN especifi
 A diferencia de [[Elsa – Spirit of Winter elegir personaje agotado|Elsa eligiendo personajes agotados]], donde la restricción de elección no impide seleccionar un personaje en un estado particular, la restricción "if able" de John Smith se refiere a si el **objetivo es legalmente seleccionable**, no a su estado de juego.
 
 **Fundamento:**
-- [[01. Reglas/1. Principios generales (Concepts)/1.3. Conceptos fundamentales|1.3 Conceptos de elección (Choosing)]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.1. Jugar una acción (Play an Action)|4.1 Jugar una acción]]
+- [[6.1. General (General)|Elecciones y resolución de efectos]]
+- [[4.3. Jugar una carta (Play a Card)|Jugar una carta]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas y restricciones]]
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: El oponente declara que juega Hypnotic Strength y paga su coste (2 tinta). Roba una carta.
 2. **Objetivos**: El oponente necesita elegir un personaje. Las opciones legales incluyen: (a) John Smith, (b) personajes del oponente en juego.
 3. **Restricción evaluada**: "Do your worst" evalúa si John Smith es una opción legal. Conclusión: **Sí, es legal**. Por lo tanto, el oponente **está obligado a elegir a John Smith**.
 4. **Resolución**: Hypnotic Strength resuelve con John Smith como objetivo. John Smith gana Challenger +2 este turno.
 5. **Disparos y GSC**: Se añaden triggers generados a la bolsa; se verifica estado del juego.
-
----
-
-## 🏷️ Tags
-
-#static-ability #restriction #must-choose #scope-of-selection #action-card #hypnotic-strength
 
 ---
 
@@ -66,3 +60,9 @@ A diferencia de [[Elsa – Spirit of Winter elegir personaje agotado|Elsa eligie
 - [[John Smith - Elegir menos objetivos no esquiva restricción|¿Puedo elegir menos objetivos para evitarlo?]]
 - [[John Smith - Elegir mismo personaje múltiples veces|¿Puedo elegir el mismo personaje múltiples veces?]]
 - [[Elsa – Spirit of Winter elegir personaje agotado|Comparación: elección con restricciones de estado de carta]]
+
+---
+
+## 🏷️ Tags
+
+#static-ability #restriction #must-choose #scope-of-selection #action-card #hypnotic-strength

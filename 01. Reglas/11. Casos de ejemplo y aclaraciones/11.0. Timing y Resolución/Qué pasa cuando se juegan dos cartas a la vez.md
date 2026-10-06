@@ -1,60 +1,26 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Cuando una habilidad permite a ambos jugadores jugar una carta simultáneamente, en qué orden se resuelven sus efectos?
 
 ## ✅ Respuesta
 
-Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efecto se resuelve en orden de turno como se define en [[1.6.2 Efectos simultáneos para todos los jugadores]]. En este caso específico, ambos jugadores seleccionan una carta de su mano para jugar y el jugador activo es el primero en ponerla en la zona de juego, añadiendo a la bolsa las habilidades disparadas. A continuación, lleva a cabo lo mismo el oponente y se procede a resolver la [[7.4.3. Bolsa]] con normalidad.
-#simultaneou-effect #bag #action-resolution
-### Referencias
-[Rulebook Quiz](https://discord.com/channels/1239209810654793730/1282749023643762688/1401659810348531872)
+Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efecto se resuelve en orden de turno como se define en [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Efectos simultáneos]]. En este caso específico, ambos jugadores seleccionan una carta de su mano para jugar y el jugador activo es el primero en ponerla en la zona de juego, añadiendo a la bolsa las habilidades disparadas. A continuación, lleva a cabo lo mismo el oponente y se procede a resolver la [[7.7. Bolsa (Bag)|Bolsa]] con normalidad.
 
-### Duda 2
-- Juego [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#The Return of Hercules|The Return of Hercules]].
-- Yo voy a poner en juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Hans - Noble Scoundrel|Hans - Noble Scoundrel]].
-- Mi oponente va a poner en juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Anna - Magical Mission|Anna - Magical Mission]].
+### Variante con Hans y Anna
 
-La habilidad de Hans iría a la bolsa y cuando se resuelva ganaría el lore correspondiente ¿No?
+- Juegas [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#The Return of Hercules|The Return of Hercules]].
+- Pones en juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Hans - Noble Scoundrel|Hans – Noble Scoundrel]].
+- Tu oponente pone en juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Anna - Magical Mission|Anna – Magical Mission]].
 
-### Respuesta
-No. El Diablo está en los detalles. En un primer momento tenemos que tener claro cómo funcionan los  [[1.6.2 Efectos simultáneos para todos los jugadores]] con lo que Hans entraría primero en mesa, siendo su habilidad:
+**Pendiente de revisión normativa:** hay que comprobar cuándo se evalúa la condición de Princess o Queen de ROYAL SCHEMES. No uses esta variante para decidir si Hans gana lore hasta cerrar esa revisión.
 
-*ROYAL SCHEMES When you play this character, if a Princess or Queen character is in play, gain 1 lore.*
+## 📘 Referencias
 
-Esta habilidad disparada es de tipo [[7.4.4 Condición de activación C1 si C2 entonces E]] y en su apartado 7.4.4.1 indica que si la segunda condición es falsa su habilidad disparada **no se añade a la bolsa** con lo que nunca llegará a resolverse.
-
----
-
-## 📘 Fundamento en reglas
-
-- [[1.6.2 Efectos simultÃƒ¡neos para todos los jugadores]]
-- [[7.4.3. Bolsa]]
-- [[7.4.4 CondiciÃƒ³n de activaciÃƒ³n C1 si C2 entonces E]]
-- [[1.6.2 Efectos simultÃƒ¡neos para todos los jugadores]]
-- [[7.4.3. Bolsa]]
-- [[7.4.4 CondiciÃƒ³n de activaciÃƒ³n C1 si C2 entonces E]]
-- ---
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: determinar el coste de la acción o habilidad que inicia la jugada.
-2. **Objetivos**: fijar objetivos legales según el texto.
-3. **Resolución**: resolver el texto en orden.
-4. **Disparos**: añadir a la bolsa los triggers generados y resolver por prioridad.
-5. **GSC**: realizar chequeo del estado del juego tras cada resolución.
-
+- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Efectos simultáneos]]
+- [[7.7. Bolsa (Bag)|Bolsa]]
+- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Habilidades disparadas con condición secundaria]]
 ---
 
 ## 🏷️ Tags
 
-#simultaneous-effects #resolution-order #bag #active-player#simultaneou-effect
-
----
-
-### Touch the Sky no usa «chosen»
-
-El texto impreso de Touch the Sky dice «move a character of yours» y no contiene una elección «chosen». Por eso no satisface una condición de Tod que requiera que el personaje sea elegido para una acción o habilidad de objeto. La variante hipotética que permitiría mover personajes rivales no forma parte de la carta y no produce una regla aplicable sobre Ward.
-
-Fundamento: reglas 5.2.6 y 6.7 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], junto al texto vigente de Touch the Sky.
+#timing #multiple-triggers #bag-priority

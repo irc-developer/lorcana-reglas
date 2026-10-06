@@ -16,7 +16,7 @@ Este orden es el mismo para el daño procedente de acciones, habilidades y desaf
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.4. Cálculo del daño|1.9.4. Cálculo del daño]]
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.5. Daño reducido a 0|1.9.5. Fuente y receptor]]
@@ -43,14 +43,14 @@ Este orden es el mismo para el daño procedente de acciones, habilidades y desaf
 
 ---
 
-## 🏷️ Tags
-
-#replacement-effects #resist #damage #priority #damage-modifier #cr-2-2
-
----
-
 ### Resist, daño infligido y daño recibido
 
 Resist modifica el daño que recibe el objetivo. Si reduce la cantidad a cero, el efecto de origen sigue siendo un efecto que **inflige daño**, aunque el personaje no reciba daño. La cantidad que una habilidad de Mulan copie o utilice depende de su texto exacto y no debe inferirse del debate; hay que separar siempre daño indicado por el efecto, daño infligido y daño recibido.
 
 Fundamento: reglas 1.9.3–1.9.5 y 8.8 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].
+
+---
+
+## 🏷️ Tags
+
+#replacement-effects #resist #damage #priority #damage-modifier #cr-2-2

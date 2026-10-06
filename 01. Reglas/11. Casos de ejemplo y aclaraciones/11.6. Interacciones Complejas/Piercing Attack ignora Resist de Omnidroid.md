@@ -12,7 +12,7 @@ El daño base de Piercing Attack es 2. Resist +2 normalmente lo reduciría a 0, 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[1.9. Daño (Damage)|1.9. Daño]] regula daño infligido y contadores de daño.
 - [[8.8. Resistir (Resist)|8.8. Resist]] define la reducción de daño.
@@ -21,19 +21,9 @@ El daño base de Piercing Attack es 2. Resist +2 normalmente lo reduciría a 0, 
 
 ---
 
-## 🔄 Secuencia oficial
+## 📚 Fuente oficial
 
-1. Se identifica el daño base: 2.
-2. Se identifican los modificadores potenciales, incluido Resist +2.
-3. Piercing Attack impide aplicar Resist a este daño.
-4. El daño final es 2.
-5. Se colocan 2 contadores de daño sobre Omnidroid.
-
----
-
-## 📝 Fuente y estado
-
-Ruling oficial recogido en [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
 
 ---
 

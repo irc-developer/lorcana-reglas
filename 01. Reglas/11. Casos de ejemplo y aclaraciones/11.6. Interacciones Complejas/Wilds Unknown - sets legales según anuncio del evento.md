@@ -10,11 +10,11 @@ No puede decidirse entre «9–12» y «todo Core» usando solo una tabla actual
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/1. Definiciones sobre toneos/1.6 Legalidad de Sets (Set Legality).md|1.6. Legalidad de sets]], incluida la rotación de Core, y el anuncio o kit específico del campeonato.
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Identifica la fecha y el nivel del campeonato.
 2. Lee el anuncio o kit específico y compáralo con la tabla de Core vigente entonces.

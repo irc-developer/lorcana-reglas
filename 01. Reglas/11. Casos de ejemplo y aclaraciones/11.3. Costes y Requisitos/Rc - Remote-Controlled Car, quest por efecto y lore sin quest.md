@@ -52,7 +52,7 @@ Questear y ganar lore no son exactamente la misma cosa. El quest normal incluye 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)#8.7.2. No puede lorear|8.7.2. Reckless significa que el personaje no puede hacer quest]]
 - [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)#8.7.3. Restricción de paso de turno|8.7.3. Reckless no te deja acabar el turno si el personaje está ready y puede desafiar]]
@@ -70,7 +70,7 @@ Questear y ganar lore no son exactamente la misma cosa. El quest normal incluye 
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Caso A, con Reckless:** Rc no puede hacer quest.
 2. **Restricción de fin de turno:** mientras Rc esté ready, hay que comprobar si "puede desafiar" a un personaje o localización oponente.

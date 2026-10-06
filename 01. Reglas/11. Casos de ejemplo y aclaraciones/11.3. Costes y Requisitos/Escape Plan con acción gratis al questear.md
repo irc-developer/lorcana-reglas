@@ -22,7 +22,7 @@ Por tanto:
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|1.2.2 Si un efecto impide algo, prevalece sobre lo que permite]]
 - [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.2 Los efectos deben resolverse completamente antes de pasar al siguiente]]
@@ -37,7 +37,7 @@ Por tanto:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Evento de inicio: el personaje completa su quest y su habilidad disparada se añade a la bolsa.
 2. Resolución del efecto: al resolverse, eliges si vas a jugar una acción gratuita entre las cartas que el efecto permita.

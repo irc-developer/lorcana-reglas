@@ -10,7 +10,7 @@ No. El juez no debe registrar una zona privada durante la partida para tranquili
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.8 Registro de Mazos (Deck Registration).md|La lista como referencia]]
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.9 Revisión de Mazos (Deck Checks).md|Deck check]]
@@ -18,7 +18,7 @@ No. El juez no debe registrar una zona privada durante la partida para tranquili
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se pausa la partida si el oponente tiene una preocupación concreta.
 2. El Lore Guide escucha los hechos sin mirar el mazo para satisfacer una sospecha.

@@ -20,7 +20,7 @@ Esto es distinto de [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Micke
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Aladdin & Genie - Mischievous Pals|Aladdin & Genie - Mischievous Pals]]: su Shift especifica un solo personaje llamado Aladdin **o** Genie.
 - [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md#8.10.1. Definición|Shift]]: la carta se juega usando el coste alternativo y se coloca encima de un personaje que cumpla el nombre requerido.
@@ -29,7 +29,7 @@ Esto es distinto de [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Micke
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Anuncias que juegas Aladdin & Genie usando Shift.
 2. Compruebas que controlas un personaje llamado Aladdin o Genie.

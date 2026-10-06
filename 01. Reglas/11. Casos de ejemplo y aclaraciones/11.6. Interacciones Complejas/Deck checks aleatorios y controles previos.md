@@ -38,7 +38,7 @@ No conviene confiscar mazos silenciosamente ni prometer que todos serán revisad
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.9 Revisión de Mazos (Deck Checks).md|3.9. Revisión de mazos]]: los checks pueden realizarse en distintos momentos y, en Premier, existe una expectativa mínima del 10 %.
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championships - decklists y deck checks.md|Set Championships: decklists y deck checks]].

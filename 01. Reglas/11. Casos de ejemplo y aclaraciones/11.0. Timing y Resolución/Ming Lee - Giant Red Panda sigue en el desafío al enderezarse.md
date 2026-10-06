@@ -12,7 +12,7 @@ Los estados preparado y agotado importan para poder declarar legalmente el desaf
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[4.6 Desafío (Challenge)|4.6. Desafío]] establece la declaración y la posterior resolución de disparos antes del daño.
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] distingue entre preparado y agotado sin convertir el cambio de estado en un movimiento de zona.
@@ -20,7 +20,7 @@ Los estados preparado y agotado importan para poder declarar legalmente el desaf
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Ming Lee está preparada y se declara como desafiante.
 2. Como parte de la declaración, Ming Lee se agota.
@@ -30,9 +30,9 @@ Los estados preparado y agotado importan para poder declarar legalmente el desaf
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Regla general confirmada por CR 2.2, 4.6.4.4, y aplicación de carta recogida en las *Attack of the Vine Set Release Notes*. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
+Regla general: CR 2.2, 4.6.4.4, y aplicación de carta recogida en las *Attack of the Vine Set Release Notes*. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
 
 ---
 

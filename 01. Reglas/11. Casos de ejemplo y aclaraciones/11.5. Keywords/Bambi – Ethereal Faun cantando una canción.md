@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si uso [[02. Listado de Cartas/Set 11 - Winterspell.md#Bambi - Ethereal Fawn|Bambi - Ethereal Fawn]] para cantar una canción, ¿puedo resolver primero su habilidad disparada y después la canción?
 
@@ -11,15 +11,15 @@ La canción se resuelve primero. La habilidad disparada de [[02. Listado de Cart
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales (Concepts)/1.5 Costes (Costs)|1.5.5.1. Cantar]]
-- [[01. Reglas/1. Principios generales (Concepts)/1.7. Game Actions, Timing, y Illegal Actions|1.7.2. Resolución completa]]
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.5.1. Cantar]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.2. Resolución completa]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: declaras que cantas la canción con [[02. Listado de Cartas/Set 11 - Winterspell.md#Bambi - Ethereal Fawn|Bambi - Ethereal Fawn]] y pagas el coste correspondiente (agotar al personaje).
 2. **Objetivos**: eliges los objetivos de la canción si su texto los requiere.

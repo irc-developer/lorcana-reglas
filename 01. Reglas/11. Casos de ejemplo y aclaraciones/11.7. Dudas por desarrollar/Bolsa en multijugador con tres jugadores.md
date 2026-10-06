@@ -23,7 +23,7 @@ En una mesa de tres jugadores, por tanto, no hay una resolución alterna tipo A-
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Los triggers simultáneos se añaden a la bolsa simultáneamente]]
 - [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2. El jugador activo empieza resolviendo una de las suyas]]
@@ -34,7 +34,7 @@ En una mesa de tres jugadores, por tanto, no hay una resolución alterna tipo A-
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Ocurre un evento que dispara habilidades de los tres jugadores al mismo tiempo.
 2. Todas esas habilidades se añaden a la bolsa simultáneamente.

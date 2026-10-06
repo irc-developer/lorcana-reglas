@@ -16,7 +16,7 @@ La clave es que **no estás obligado a dañar a uno de tus personajes solo porqu
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Frases independientes y resolución en orden]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Las elecciones se hacen al resolver]]
@@ -33,7 +33,7 @@ La combinación relevante es esta:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Juegas Three Arrows y el efecto empieza a resolverse.
 2. Eliges un personaje legal para la primera frase y le haces 2 de daño.

@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si controlo a [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]], cuya habilidad dice "During challenges, your characters deal damage with their Willpower instead of their Strength", y uno de mis personajes ya tiene daño marcado, ¿ese daño reduce la cantidad de daño que hará en el desafío?
 
@@ -20,7 +20,7 @@ Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de u
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.1. Definición|1.9.1. Definición]]
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.1. Calcular daño|4.6.6.1. Calcular daño]]
@@ -37,7 +37,7 @@ La combinación de estas reglas lleva a esta conclusión:
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se declara el desafío normalmente.
 2. Al llegar a [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.1. Calcular daño|4.6.6.1]], tus personajes usan su Willpower actual en lugar de su Strength por la habilidad estática de Dale.

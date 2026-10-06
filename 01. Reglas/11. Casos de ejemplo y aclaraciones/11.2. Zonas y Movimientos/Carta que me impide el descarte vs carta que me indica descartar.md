@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Controlo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kronk - Laid Back|Kronk - Laid Back]], cuya habilidad I'M LOVIN' THIS impide que un efecto me haga descartar una o más cartas. Tengo cartas en la mano y Kronk sigue en mi zona de juego durante la resolución.
 
@@ -20,7 +20,7 @@ Coconut permite hasta tres tipos de tinta y utiliza las reglas normales de multi
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[1.2. Regla de oro (Golden Rules)|1.2.2. Impedir tiene prioridad sobre permitir]].
 - [[6.1. General (General)|6.1.2 y 6.1.4. Las frases se resuelven en orden; «may» solo hace opcional su propio efecto]].
@@ -29,11 +29,11 @@ Coconut permite hasta tres tipos de tinta y utiliza las reglas normales de multi
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2, 6.7.4, 6.7.5 y 6.7.6. Resolución de acciones, bolsa, GSC y orden entre jugadores]].
 - [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
 
-**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 3, 25–26, 32 y 36–37; [[Documentacion Oficial/FormatCoconut_Rules.pdf|Rules for [Format Coconut] Beta]], p. 1. Ambos documentos siguen enlazados desde la [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) consultada el 03/10/2026. El fallo aplica las reglas generales y el texto de las fichas locales; no atribuye esta combinación a una FAQ oficial.
+**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 3, 25–26, 32 y 36–37; [[Documentacion Oficial/FormatCoconut_Rules.pdf|Rules for [Format Coconut] Beta]], p. 1.
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 ### Megara
 

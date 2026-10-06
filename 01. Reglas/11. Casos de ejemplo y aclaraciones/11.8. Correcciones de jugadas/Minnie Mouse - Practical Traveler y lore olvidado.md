@@ -27,7 +27,7 @@ En la situación planteada, donde **el rival controla a Minnie**, quien consulta
 
 Si el controlador de Minnie detecta el olvido **antes de terminar su propio turno**, se aplica el remedio correspondiente **sin emitir la acción correctiva** por *Missed Trigger*.
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [Ficha oficial de Minnie Mouse - Practical Traveler](https://cards.disneylorcana.com/en-US/?cardId=2874): texto de Discerning Eye; véase también [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Minnie Mouse - Practical Traveler|Minnie Mouse - Practical Traveler]].
 - [Comprehensive Rules 2.2.0, 4.5.1–4.5.3](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): la quest concede primero su lore normal; después se resuelven las habilidades disparadas.
@@ -40,6 +40,8 @@ Si el controlador de Minnie detecta el olvido **antes de terminar su propio turn
 3. Determinar cuándo se detectó el olvido: antes de terminar el turno propio, dentro del ciclo siguiente o más de un ciclo después.
 4. Si aún procede el remedio, ofrecer **al oponente del controlador de Minnie** la elección de añadir el disparo a la bolsa; si lo añade, resolverlo ahora.
 5. Explicar la acción correctiva que corresponda, distinguiendo **Caution** de **Warning**.
+
+---
 
 ## 🏷️ Tags
 

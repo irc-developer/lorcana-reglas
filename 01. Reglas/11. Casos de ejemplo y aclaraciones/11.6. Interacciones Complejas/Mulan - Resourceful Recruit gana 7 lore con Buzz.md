@@ -12,7 +12,7 @@ Mulan tiene **0 {L} impreso**. Sin el +1 {L} de Buzz, esta misma combinación da
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#Mulan - Resourceful Recruit|Mulan - Resourceful Recruit]]: 1 {S}, 0 {L}; RIGOROUS TRAINING hace ganar lore igual a su {S}, hasta un máximo de 6 lore.
 - [[02. Listado de Cartas/Set 11 - Winterspell.md#Force of a Great Typhoon|Force of a Great Typhoon]]: el personaje elegido obtiene +5 {S} este turno.
@@ -25,7 +25,7 @@ Mulan tiene **0 {L} impreso**. Sin el +1 {L} de Buzz, esta misma combinación da
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Juegas Force of a Great Typhoon. La habilidad de Buzz se dispara al jugar la acción y queda en la bolsa.
 2. La acción se resuelve: Mulan recibe +5 {S} y queda con 6 {S} este turno. Después, la acción va al descarte.

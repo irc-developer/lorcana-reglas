@@ -14,7 +14,7 @@ Si cualquier personaje rival sí recibe al menos 1 daño en ese turno —por eje
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage).md|1.9.3–1.9.5, recibir daño y daño reducido a cero]]: recibir daño implica que se coloque daño; si un modificador lo reduce a 0, la fuente puede seguir contando como que inflige, pero el objetivo no recibe daño.
 - [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist).md|8.8.1–8.8.2, Resist]]: reduce el daño; si el resultado es 0, el personaje no lo recibe.
@@ -22,11 +22,9 @@ Si cualquier personaje rival sí recibe al menos 1 daño en ese turno —por eje
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities).md|6.2.4, condición secundaria]] y [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest).md|4.5.2, aventura]]: la habilidad de Marie se dispara al irse de aventura; comprueba «if an opposing character took damage this turn» al resolverse.
 - [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 1.9.3–1.9.5, 4.5.2, 6.2.4, 6.5 y 8.8.
 
-
-
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Fire the Cannons! elige al personaje rival e intenta infligirle 2 daños.
 2. Si tiene Resist +2, se aplican los modificadores: 2 − 2 = 0. No se coloca ningún contador; no ha recibido daño.

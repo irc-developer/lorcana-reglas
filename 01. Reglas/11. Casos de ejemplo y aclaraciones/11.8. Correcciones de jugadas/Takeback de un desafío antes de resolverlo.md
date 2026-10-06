@@ -10,7 +10,7 @@ El Lore Guide puede permitir el takeback si la solicitud es inmediata y el desaf
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.3 Ejemplos de takebacks permitidos.md|Desafío declarado y retirado antes de resolver]]
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Criterios de takeback]]
@@ -18,7 +18,7 @@ El Lore Guide puede permitir el takeback si la solicitud es inmediata y el desaf
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se declara el desafío.
 2. Antes de resolverlo, el jugador llama al Lore Guide.

@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿Puedo elegir a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] varias veces en una elección múltiple? Por ejemplo, si un efecto dice "elige hasta 3 personajes", ¿puedo elegir a John Smith 3 veces?
 
@@ -16,7 +16,7 @@ Si el efecto tiene dos (o más) estructuras de elección **completamente separad
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 **Regla 6.1.3 - Elecciones Múltiples (Multiple Choices):**
 
@@ -60,7 +60,7 @@ Si un efecto dice: _"Chosen personaje gana Exert. Chosen personaje diferente pie
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Efecto activado**: Se juega un efecto con elección múltiple (ej: "elige hasta 3 personajes").
 2. **Estructura analizada**: ¿Una o varias instancias de "choose/chosen"?
@@ -69,7 +69,6 @@ Si un efecto dice: _"Chosen personaje gana Exert. Chosen personaje diferente pie
 3. **Elecciones registradas**: Si es una instancia única, se marca John Smith UNA VEZ máximo. Luego se eligen otros personajes.
 4. **Evaluación**: La restricción "Do your worst" obliga a incluir a John Smith, pero el límite de "una vez" se respeta.
 5. **Resolución**: Exactamente 1 instancia de John Smith afectado + otros 0-2 personajes.
-6. **GSC**: Se verifica estado del juego.
 
 **Caso: Intento ilegal**
 - Intenta elegir a John Smith 3 veces en "elige hasta 3"

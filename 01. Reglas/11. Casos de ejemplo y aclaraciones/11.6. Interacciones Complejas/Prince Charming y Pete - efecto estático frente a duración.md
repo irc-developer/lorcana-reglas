@@ -24,7 +24,7 @@ La diferencia no es que uno sea “más fuerte”, sino **cuándo se crea el efe
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Prince Charming - Protector of the Realm|Prince Charming - Protector of the Realm]]: restricción estática que funciona mientras la fuente está en juego.
 - [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Pete - Games Referee|Pete - Games Referee]]: habilidad disparada que crea una prohibición hasta un momento concreto.
@@ -34,7 +34,7 @@ La diferencia no es que uno sea “más fuerte”, sino **cuándo se crea el efe
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 ### Prince Charming
 

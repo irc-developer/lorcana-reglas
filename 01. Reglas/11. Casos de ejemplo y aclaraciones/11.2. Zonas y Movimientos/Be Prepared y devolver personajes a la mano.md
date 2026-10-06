@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 Si el oponente juega [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] y yo controlo [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Emerald Chromicon|Emerald Chromicon]], ¿puedo devolver a la mano alguno de mis personajes desterrados por ese efecto?
 
@@ -11,7 +11,7 @@ Los personajes se destierran durante la resolución de [[02. Listado de Cartas/S
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Habilidades disparadas durante la resolución]]
@@ -20,7 +20,7 @@ Los personajes se destierran durante la resolución de [[02. Listado de Cartas/S
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. **Coste**: el oponente juega [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]].
 2. **Objetivos**: la acción afecta globalmente a personajes (sin objetivo único elegido).

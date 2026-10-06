@@ -1,4 +1,4 @@
-﻿## ❓ Duda
+## ❓ Duda
 
 ¿[[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Madame Medusa - Deceiving Partner|Madame Medusa - Deceiving Partner]] puede infligir daño aunque no exista un objetivo válido para devolver a la mano en esa misma resolución?
 
@@ -11,21 +11,11 @@ La habilidad se resuelve por orden escrito y, en efectos secuenciales, la parte 
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Resolución en orden y tanto como sea posible]]
 - [[6.1. General (General)#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|6.1.5. Efectos secuenciales]]
-- [[6.1. General (General)#6.1.5.1. En estructuras [A] to [B] o [A]. If you do, [B]|6.1.5.1. Estructuras [A] to [B]]] 
-
----
-
-## 🔄 Secuencia oficial
-
-1. **Coste**: activas o resuelves el efecto correspondiente.
-2. **Objetivos**: se comprueba si hay objetivo legal para la parte que lo requiere.
-3. **Resolución**: la habilidad se ejecuta en orden escrito, aplicando cada parte tanto como sea posible según la estructura secuencial.
-4. **Disparos**: cualquier trigger generado entra en la bolsa y espera su turno.
-5. **GSC**: se verifica estado del juego tras la resolución.
+- [[6.1. General (General)#6.1.5.1. En estructuras [A] to [B] o [A]. If you do, [B]|6.1.5.1. Estructuras [A] to [B]]]
 
 ---
 

@@ -16,7 +16,7 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 
 ---
 
-## 📘 Fundamento en reglas
+## 📘 Referencias
 
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.4.4. Agotar|4.6.4.4 Agotar]]: el personaje desafiante se agota durante la declaración; ahí se cumple la condición de *Come See!*.
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.4.5. Efectos|4.6.4.5 Efectos]] y [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.5. Habilidades disparadas|4.6.5 Habilidades disparadas]]: ocurre el desafío y las habilidades que dicen «is challenged» se añaden y resuelven desde la bolsa junto con los demás disparos de la declaración, antes del paso de daño.
@@ -26,7 +26,7 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 
 ---
 
-## 🔄 Secuencia oficial
+## 🔄 Cómo se resuelve
 
 1. Se declara a Bambi como desafiante y se elige a Dr. Bushroot, que está agotado, como personaje desafiado.
 2. En 4.6.4.4 se agota a Bambi. *Come See!* se dispara y entra en la bolsa; todavía no se resuelve.
@@ -37,9 +37,9 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 
 ---
 
-## 📝 Fuente y estado
+## 📚 Fuente oficial
 
-Caso planteado en una conversación compartida el 27 de septiembre de 2026. La conversación describe la duda; la conclusión se deduce de las *Comprehensive Rules* 2.2.0, no de la autoridad de esa respuesta informal.
+[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas citadas arriba.
 
 ---
 
