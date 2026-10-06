@@ -1,6 +1,6 @@
 # MCP local de Lorcana
 
-Servidor `lorcana` 0.2.0 actualizado el 30/09/2026. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia; el asistente interpreta y aplica el workflow editorial. No requiere clave de API ni llama a un modelo o a Internet.
+Servidor `lorcana` 0.2.1 actualizado el 06/10/2026. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia; el asistente interpreta y aplica el workflow editorial. No requiere clave de API ni llama a un modelo o a Internet.
 
 ## Uso en Codex
 
@@ -16,7 +16,9 @@ consulta: Si un efecto me hace robar tres cartas, ¿son tres robos?
 
 El asistente debe invocar `buscar_evidencia` con `modo="consulta"`, citar CR 1.12.2 p.9 según la copia local CR 2.2.0, incluir un ejemplo y conservar los archivos. Para comprobar ambigüedad: `consulta: ¿Qué hace Belle?`; debe ofrecer versiones y pedir precisión. Para comprobar una limitación: `consulta: Minnie Mouse - Practical Traveler y lore olvidado`; debe distinguir partida y corrección de torneo y señalar la ausencia del original local PCG.
 
-`documenta:` y una pregunta ordinaria sin señal seleccionan `modo="documenta"` y conservan el workflow de `.github/`, con artículo canónico e índices. Las herramientas no ejecutan esa transacción. `actualiza:` usa la CLI de mantenimiento; no existe herramienta MCP de escritura.
+`documenta:` y una pregunta ordinaria sin señal seleccionan `modo="documenta"` y conservan el workflow de `.github/`, con artículo canónico, índices, validación, commit y `push` de los cambios al repositorio remoto antes de responder. El usuario ha autorizado la publicación como parte de documentar cada duda. Las herramientas no ejecutan esa transacción ni llaman a Git: lo hace el asistente siguiendo [lorcana-ruling-workflow](../../.github/skills/lorcana-ruling-workflow/SKILL.md). No se crean commits vacíos cuando el artículo y los índices ya eran correctos. Un fallo de commit o `push` debe declararse con el trabajo pendiente. `consulta:` mantiene solo lectura; `actualiza:` usa la CLI de mantenimiento; no existe herramienta MCP de escritura.
+
+La versión 0.2.1 comunica esta obligación en las instrucciones de inicialización, la descripción de `buscar_evidencia` y el esquema de `editorial_required`. Reinicia el servidor `lorcana` después de actualizar para que los clientes reciban esas instrucciones; no requiere reinstalar dependencias ni modificar la configuración.
 
 Si el MCP no está disponible, AGENTS.md y la skill dirigen a la CLI con el mismo prefijo. Durante `consulta:` no se instalan dependencias, modifican configuraciones ni ejecutan pruebas para reparar la conexión.
 

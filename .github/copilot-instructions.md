@@ -4,7 +4,9 @@
 
 - Una tarea que resuelve una duda de reglas de Lorcana no termina con una respuesta de chat: debe completar el flujo de `.github/skills/lorcana-ruling-workflow/SKILL.md`.
 - Antes de la respuesta final, verifica las fuentes oficiales, resuelve el ruling, crea o actualiza el artículo canónico, revisa su calidad, sincroniza los índices afectados y, si el artículo cambió materialmente, la fecha visible de `Empecemos.md`, y valida el conjunto.
+- Cada duda documentada con cambios debe terminar con un commit de su transacción editorial y un `push` al repositorio remoto. El usuario ha autorizado este paso como parte del workflow; no requiere pedir confirmación de nuevo, salvo que cambie esa instrucción. Sigue los límites y excepciones de la skill del workflow.
 - La respuesta final debe incluir el ruling y la ruta del artículo creado, modificado o verificado como canónico.
+- Si se publicaron cambios, incluye también el enlace o hash del commit; si el commit o el `push` falló, indica el bloqueo verificado y lo que queda pendiente.
 - Solo se omite la documentación si el usuario pide explícitamente no modificar el repositorio o si se ha comprobado un bloqueo técnico real; en ese caso, indica la excepción y el trabajo que quedó pendiente.
 - La incertidumbre, la falta de selección automática de otra skill o una ruta incómoda no son bloqueos técnicos.
 

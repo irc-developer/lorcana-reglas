@@ -1,6 +1,6 @@
 ---
 name: lorcana-ruling-workflow
-description: "Flujo transaccional obligatorio para resolver una duda de reglas de Disney Lorcana, documentarla en el artículo canónico, sincronizar índices y portada, validar el conjunto y solo entonces responder."
+description: "Flujo obligatorio para resolver y documentar una duda de Disney Lorcana, sincronizar índices y portada, validar, crear el commit y subirlo al repositorio remoto antes de responder."
 argument-hint: "Describe la duda o interacción de Lorcana que debe resolverse y documentarse."
 user-invocable: true
 ---
@@ -9,7 +9,9 @@ user-invocable: true
 
 ## Contrato
 
-Un ruling, su artículo, los índices afectados y la fecha visible de `Empecemos.md` forman una sola transacción editorial. La tarea no está terminada si solo existe una respuesta de chat.
+Un ruling, su artículo, los índices afectados, la fecha visible de `Empecemos.md` y la publicación de sus cambios mediante commit y `push` forman una sola transacción editorial. La tarea no está terminada si solo existe una respuesta de chat o si los cambios documentados siguen únicamente en local.
+
+El usuario ha autorizado crear y subir ese commit cada vez que se documente una duda con cambios, tanto con `documenta:` como con una pregunta ordinaria que active este workflow. No solicites otra confirmación para ese paso; una instrucción posterior del usuario de no subir cambios prevalece. `consulta:` sigue siendo solo lectura y no crea commits ni hace `push`.
 
 Solo se permite omitir las ediciones cuando el usuario pide explícitamente no modificar el repositorio o cuando una comprobación demuestra que editar es técnicamente imposible. La incertidumbre normativa, la falta de activación automática de otra instrucción o una ubicación incómoda no son bloqueos.
 
@@ -37,7 +39,8 @@ Aplica directamente, cuando corresponda, las guías reutilizables de [alcance](.
 9. **Actualizar todos los índices afectados.** Para cada índice manual, añade, corrige o elimina el enlace exacto; conserva el orden; renumera; actualiza contadores de subsección, total, estadísticas, búsquedas temáticas y fecha del índice cuando existan. Compara las entradas con los archivos reales.
 10. **Actualizar `Empecemos.md`.** Si el artículo se creó o cambió materialmente, sustituye la fecha visible por la fecha real del entorno usando el formato existente `*Última actualización dd/mm/aa*`. Si ya coincide, no hagas un cambio artificial. No cambies la fecha en tareas sin modificación material de un artículo de ruling.
 11. **Validar la transacción completa.** Inspecciona el diff y comprueba: artículo frente al ruling; plantilla/frontmatter; tags y registro maestro; destinos de enlaces; fuentes citadas; presencia única en índices; contadores; fecha del índice; fecha de `Empecemos.md`; Markdown/YAML; y ausencia de cambios ajenos. Ejecuta los validadores existentes si los hay.
-12. **Preparar la respuesta final.** Solo después de editar y validar, responde con el ruling breve, su secuencia o fundamento necesario y la ruta de cada artículo creado, actualizado o verificado como canónico.
+12. **Crear el commit y subirlo al remoto.** Tras validar, revisa el estado de Git y el remoto configurado de la rama. Incluye solo los archivos y cambios de esta transacción editorial; conserva cambios previos ajenos y no los añadas al commit. Crea un commit con un mensaje descriptivo de la duda y haz `push` a la rama remota correspondiente del repositorio. Comprueba que el remoto contiene el commit. No uses `push --force` ni publiques commits previos ajenos sin autorización. Si la rama no tiene un destino remoto inequívoco, la autenticación falla o hay un rechazo/conflicto, conserva el trabajo local, registra el error concreto y declara la publicación pendiente; no afirmes que se completó.
+13. **Preparar la respuesta final.** Solo después de editar, validar y publicar, responde con el ruling breve, su secuencia o fundamento necesario, la ruta de cada artículo creado o actualizado y el enlace o hash del commit subido. Para un artículo verificado sin cambios, devuelve su ruta sin fabricar un commit vacío. Si existe un bloqueo verificado, indica exactamente qué paso quedó pendiente.
 
 ## Excepciones
 
@@ -47,8 +50,8 @@ Resuelve con las mejores fuentes disponibles, no modifiques archivos e indica br
 
 ### Bloqueo técnico verificado
 
-Intenta y registra una comprobación concreta del impedimento. Aun así ofrece el mejor ruling sustentado posible e identifica exactamente el bloqueo y qué artículo, índice o fecha no pudo actualizarse. No afirmes que la transacción se completó.
+Intenta y registra una comprobación concreta del impedimento. Aun así ofrece el mejor ruling sustentado posible e identifica exactamente el bloqueo y qué artículo, índice, fecha, commit o `push` no pudo completarse. Si el commit existe y el `push` falla, conserva e informa su hash para reanudar la publicación. No afirmes que la transacción se completó.
 
 ## Criterio de cierre
 
-No cierres mientras artículo, índices y fecha estén desincronizados. Si el artículo existente ya era completo y correcto y no requiere cambio material, no lo edites artificialmente: devuelve su ruta y deja constancia interna de que se verificaron duplicado, índice y fecha.
+No cierres mientras artículo, índices y fecha estén desincronizados o los cambios de esta transacción sigan sin commit y `push`, salvo instrucción posterior del usuario o bloqueo técnico verificado. Si el artículo existente ya era completo y correcto y la transacción no requiere ningún cambio, no lo edites artificialmente ni crees un commit vacío: devuelve su ruta y deja constancia interna de que se verificaron duplicado, índice y fecha.
