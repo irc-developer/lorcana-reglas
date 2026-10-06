@@ -1,6 +1,6 @@
 # MCP local de Lorcana
 
-Servidor `lorcana` 0.2.1 actualizado el 06/10/2026. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia; el asistente interpreta y aplica el workflow editorial. No requiere clave de API ni llama a un modelo o a Internet.
+Servidor `lorcana` 0.2.2 actualizado el 06/10/2026. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia; el asistente interpreta y aplica el workflow editorial. No requiere clave de API ni llama a un modelo o a Internet.
 
 ## Uso en Codex
 
@@ -18,7 +18,9 @@ El asistente debe invocar `buscar_evidencia` con `modo="consulta"`, citar CR 1.1
 
 `documenta:` y una pregunta ordinaria sin señal seleccionan `modo="documenta"` y conservan el workflow de `.github/`, con artículo canónico, índices, validación, commit y `push` de los cambios al repositorio remoto antes de responder. El usuario ha autorizado la publicación como parte de documentar cada duda. Las herramientas no ejecutan esa transacción ni llaman a Git: lo hace el asistente siguiendo [lorcana-ruling-workflow](../../.github/skills/lorcana-ruling-workflow/SKILL.md). No se crean commits vacíos cuando el artículo y los índices ya eran correctos. Un fallo de commit o `push` debe declararse con el trabajo pendiente. `consulta:` mantiene solo lectura; `actualiza:` usa la CLI de mantenimiento; no existe herramienta MCP de escritura.
 
-La versión 0.2.1 comunica esta obligación en las instrucciones de inicialización, la descripción de `buscar_evidencia` y el esquema de `editorial_required`. Reinicia el servidor `lorcana` después de actualizar para que los clientes reciban esas instrucciones; no requiere reinstalar dependencias ni modificar la configuración.
+Después del `push`, el asistente debe publicar en Obsidian Publish solo los archivos documentados en esa duda y contenidos en el commit. La [herramienta de publicación selectiva](../publicar_obsidian/README.md) exige rutas explícitas, comprueba su contenido frente al commit y publica una por una. No publica configuraciones, fuentes consultadas, herramientas ni otros pendientes de la bóveda. El usuario ha autorizado esta publicación limitada. Un fallo debe declararse con la selección y las rutas pendientes.
+
+La versión 0.2.2 comunica estas obligaciones en las instrucciones de inicialización, la descripción de `buscar_evidencia` y el esquema de `editorial_required`. Reinicia el servidor `lorcana` después de actualizar para que los clientes reciban esas instrucciones; no requiere reinstalar dependencias ni modificar la configuración del MCP.
 
 Si el MCP no está disponible, AGENTS.md y la skill dirigen a la CLI con el mismo prefijo. Durante `consulta:` no se instalan dependencias, modifican configuraciones ni ejecutan pruebas para reparar la conexión.
 

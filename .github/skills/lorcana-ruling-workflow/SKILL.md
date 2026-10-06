@@ -1,6 +1,6 @@
 ---
 name: lorcana-ruling-workflow
-description: "Flujo obligatorio para resolver y documentar una duda de Disney Lorcana, sincronizar índices y portada, validar, crear el commit y subirlo al repositorio remoto antes de responder."
+description: "Resuelve y documenta una duda de Disney Lorcana, valida artículos e índices, sube el commit y publica solo los archivos de esa duda en Obsidian Publish antes de responder."
 argument-hint: "Describe la duda o interacción de Lorcana que debe resolverse y documentarse."
 user-invocable: true
 ---
@@ -9,9 +9,9 @@ user-invocable: true
 
 ## Contrato
 
-Un ruling, su artículo, los índices afectados, la fecha visible de `Empecemos.md` y la publicación de sus cambios mediante commit y `push` forman una sola transacción editorial. La tarea no está terminada si solo existe una respuesta de chat o si los cambios documentados siguen únicamente en local.
+Un ruling, su artículo, los índices afectados, la fecha visible de `Empecemos.md`, el commit y `push` y la publicación de esos archivos en Obsidian Publish forman una sola transacción editorial. La tarea no está terminada si solo existe una respuesta de chat, si los cambios documentados siguen únicamente en local o si falta su publicación en el sitio.
 
-El usuario ha autorizado crear y subir ese commit cada vez que se documente una duda con cambios, tanto con `documenta:` como con una pregunta ordinaria que active este workflow. No solicites otra confirmación para ese paso; una instrucción posterior del usuario de no subir cambios prevalece. `consulta:` sigue siendo solo lectura y no crea commits ni hace `push`.
+El usuario ha autorizado crear y subir ese commit y publicar en Obsidian cada duda documentada con cambios, tanto con `documenta:` como con una pregunta ordinaria que active este workflow. La publicación solo puede subir o actualizar los archivos documentados en esa transacción; no otros pendientes de la bóveda. No solicites otra confirmación para esos pasos; una instrucción posterior del usuario de no subir o publicar cambios prevalece. `consulta:` sigue siendo solo lectura: no crea commits, hace `push` ni publica.
 
 Solo se permite omitir las ediciones cuando el usuario pide explícitamente no modificar el repositorio o cuando una comprobación demuestra que editar es técnicamente imposible. La incertidumbre normativa, la falta de activación automática de otra instrucción o una ubicación incómoda no son bloqueos.
 
@@ -28,7 +28,7 @@ Aplica directamente, cuando corresponda, las guías reutilizables de [alcance](.
 
 ## Flujo obligatorio y ordenado
 
-1. **Determinar la pregunta exacta.** Reconstruye cartas, versiones, estado de mesa, elecciones y secuencia. Si un dato crítico admite resultados distintos, pide solo la aclaración mínima antes de continuar.
+1. **Determinar la pregunta exacta y el estado inicial.** Reconstruye cartas, versiones, estado de mesa, elecciones y secuencia. Registra el estado de Git antes de editar y conserva una lista explícita de los archivos de esta duda. Si un dato crítico admite resultados distintos, pide solo la aclaración mínima antes de continuar.
 2. **Identificar y priorizar fuentes oficiales.** Busca primero la referencia inglesa oficial sin modificar y después la localización castellana equivalente. Los casos existentes sirven para localizar o comparar, nunca para prevalecer sobre la regla primaria.
 3. **Verificar el texto de cartas cuando sea relevante.** Confirma nombre, versión y texto completo en el archivo de set de `02. Listado de Cartas/`. No uses carpetas legacy ni inventes texto ausente.
 4. **Producir el ruling técnico.** Determina veredicto, fundamento, orden de eventos, disparos, bolsa y GSC aplicables. Conserva las referencias exactas que sostienen cada conclusión.
@@ -40,7 +40,8 @@ Aplica directamente, cuando corresponda, las guías reutilizables de [alcance](.
 10. **Actualizar `Empecemos.md`.** Si el artículo se creó o cambió materialmente, sustituye la fecha visible por la fecha real del entorno usando el formato existente `*Última actualización dd/mm/aa*`. Si ya coincide, no hagas un cambio artificial. No cambies la fecha en tareas sin modificación material de un artículo de ruling.
 11. **Validar la transacción completa.** Inspecciona el diff y comprueba: artículo frente al ruling; plantilla/frontmatter; tags y registro maestro; destinos de enlaces; fuentes citadas; presencia única en índices; contadores; fecha del índice; fecha de `Empecemos.md`; Markdown/YAML; y ausencia de cambios ajenos. Ejecuta los validadores existentes si los hay.
 12. **Crear el commit y subirlo al remoto.** Tras validar, revisa el estado de Git y el remoto configurado de la rama. Incluye solo los archivos y cambios de esta transacción editorial; conserva cambios previos ajenos y no los añadas al commit. Crea un commit con un mensaje descriptivo de la duda y haz `push` a la rama remota correspondiente del repositorio. Comprueba que el remoto contiene el commit. No uses `push --force` ni publiques commits previos ajenos sin autorización. Si la rama no tiene un destino remoto inequívoco, la autenticación falla o hay un rechazo/conflicto, conserva el trabajo local, registra el error concreto y declara la publicación pendiente; no afirmes que se completó.
-13. **Preparar la respuesta final.** Solo después de editar, validar y publicar, responde con el ruling breve, su secuencia o fundamento necesario, la ruta de cada artículo creado o actualizado y el enlace o hash del commit subido. Para un artículo verificado sin cambios, devuelve su ruta sin fabricar un commit vacío. Si existe un bloqueo verificado, indica exactamente qué paso quedó pendiente.
+13. **Publicar solo esta duda en Obsidian Publish.** Usa la [herramienta de publicación selectiva](../../../herramientas/publicar_obsidian/README.md) con el hash del commit subido y un `--archivo` por ruta de la lista de esta transacción. Incluye solo los artículos y los índices, portada o registro de tags que realmente cambiaron para esta duda y que formen parte de ese commit. No publiques configuraciones, herramientas, fuentes consultadas ni otros pendientes; tampoco amplíes la selección por enlaces o por el estado global de Publish. Si un archivo comparte cambios previos ajenos, aísla el contenido de la duda antes de publicarlo; subir el archivo completo también expondría esos cambios. Primero prepara y revisa el plan y usa `--comprobar`; después ejecuta `--aplicar`. La herramienta comprueba el commit, los contenidos y la bóveda y llama a `publish:add path=...` por cada ruta. Nunca uses `publish:add changed`, publicación global, borrados ni sincronización masiva. Comprueba que las rutas seleccionadas no siguen pendientes y abre el enlace público de cada artículo para verificar el contenido. Si falla, conserva el commit y el informe parcial e indica las rutas publicadas y las pendientes; no lo presentes como publicación completa.
+14. **Preparar la respuesta final.** Solo después de editar, validar, subir el commit y publicar la selección, responde con el ruling breve, su secuencia o fundamento necesario, la ruta de cada artículo creado o actualizado, el enlace o hash del commit subido y el enlace público de los artículos. Para un artículo verificado sin cambios, devuelve su ruta sin fabricar un commit vacío ni publicar pendientes antiguos. Si existe un bloqueo verificado, indica exactamente qué paso quedó pendiente.
 
 ## Excepciones
 
@@ -50,8 +51,8 @@ Resuelve con las mejores fuentes disponibles, no modifiques archivos e indica br
 
 ### Bloqueo técnico verificado
 
-Intenta y registra una comprobación concreta del impedimento. Aun así ofrece el mejor ruling sustentado posible e identifica exactamente el bloqueo y qué artículo, índice, fecha, commit o `push` no pudo completarse. Si el commit existe y el `push` falla, conserva e informa su hash para reanudar la publicación. No afirmes que la transacción se completó.
+Intenta y registra una comprobación concreta del impedimento. Aun así ofrece el mejor ruling sustentado posible e identifica exactamente el bloqueo y qué artículo, índice, fecha, commit, `push` o publicación en Obsidian no pudo completarse. Si el commit existe, conserva e informa su hash para reanudar los pasos pendientes; si Publish falló parcialmente, conserva también la selección y el informe de rutas. No afirmes que la transacción se completó.
 
 ## Criterio de cierre
 
-No cierres mientras artículo, índices y fecha estén desincronizados o los cambios de esta transacción sigan sin commit y `push`, salvo instrucción posterior del usuario o bloqueo técnico verificado. Si el artículo existente ya era completo y correcto y la transacción no requiere ningún cambio, no lo edites artificialmente ni crees un commit vacío: devuelve su ruta y deja constancia interna de que se verificaron duplicado, índice y fecha.
+No cierres mientras artículo, índices y fecha estén desincronizados o los cambios de esta transacción sigan sin commit, `push` y publicación selectiva en Obsidian, salvo instrucción posterior del usuario o bloqueo técnico verificado. Si el artículo existente ya era completo y correcto y la transacción no requiere ningún cambio, no lo edites artificialmente, crees un commit vacío ni publiques otros pendientes: devuelve su ruta y deja constancia interna de que se verificaron duplicado, índice y fecha.

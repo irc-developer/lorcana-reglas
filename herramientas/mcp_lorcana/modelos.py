@@ -71,7 +71,7 @@ class EstadoResultado(Resultado):
 class EvidenciaResultado(Resultado):
     mode: Literal["consulta", "documenta", "auxiliar"]
     editorial_required: bool | None = Field(
-        description="true exige el workflow editorial completo, incluido commit y push de los cambios validados. null en herramientas auxiliares: conservar el modo de la conversación.")
+        description="true exige el workflow editorial, commit, push y publicación selectiva en Obsidian de los archivos de esa duda. null en herramientas auxiliares: conservar el modo de la conversación.")
     question: str
     scope: str
     card_resolution: list[dict[str, Any]]
