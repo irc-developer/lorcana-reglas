@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 236 | **Última actualización:** 6 de octubre de 2026
+**Total de casos:** 237 | **Última actualización:** 6 de octubre de 2026
 
 ---
 
@@ -8,7 +8,7 @@
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
-### 11.0. Timing y Resolución (37 casos)
+### 11.0. Timing y Resolución (38 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 
@@ -44,11 +44,12 @@ Casos sobre el orden de resolución, timing de efectos y secuencia oficial.
 30. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
 31. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
 32. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
-33. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
-34. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
-35. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
-36. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
-37. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
+33. [Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
+34. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
+35. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
+36. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
+37. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
+38. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
 
 ---
 
@@ -364,21 +365,22 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución**     | 37    | 15.7%   |
-| **11.2 Zonas y Movimientos**     | 24    | 10.2%   |
+| **11.0 Timing y Resolución**     | 38    | 16.0%   |
+| **11.2 Zonas y Movimientos**     | 24    | 10.1%   |
 | **11.3 Costes y Requisitos**     | 21    | 8.9%    |
 | **11.4 Habilidades**             | 35    | 14.8%   |
 | **11.5 Keywords**                | 21    | 8.9%    |
-| **11.6 Interacciones Complejas** | 67    | 28.4%   |
+| **11.6 Interacciones Complejas** | 67    | 28.3%   |
 | **11.7 Dudas por desarrollar**   | 5     | 2.1%    |
 | **11.8 Correcciones de jugadas** | 26    | 11.0%   |
-| **TOTAL**                        | **236** | **100%** |
+| **TOTAL**                        | **237** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Tod y The Horseman Strikes!**: [Rechazar el destierro no elige a Tod; aceptarlo lo destierra antes de preparar](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Maleficent & Diablo - Evil Incarnate**: [FOOLS! repone el mazo tras un robo fallido](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
 - **Fergus y Sleepy Hollow**: [Desterrar y recuperar el puente da 4 lore en total; Fergus queda agotado y fuera de la localización](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
 - **Boo y Scrooge McDuck – S.H.U.S.H. Agent**: [Kid-Tastrophe! destierra antes de On the Move; Scrooge permanece en el descarte](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>)
@@ -400,6 +402,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Elección dentro de un efecto opcional**: [Rechazar «may» omite la elección y no dispara a Tod](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Mazo vacío y derrota al terminar el turno**: [Un robo fallido no impide salvarse con FOOLS!; importa conservar cartas al final](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
 - **Un disparo requiere un nuevo evento**: [Recuperar Sleepy Hollow no repite la aventura ni el agotamiento de Fergus](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
 - **Cambio de zona con una habilidad pendiente**: [Boo y Scrooge: On the Move sigue en la bolsa, pero no recupera la carta desde el descarte](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>)
