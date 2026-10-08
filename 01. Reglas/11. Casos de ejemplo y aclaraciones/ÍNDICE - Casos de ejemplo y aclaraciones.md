@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 236 | **Última actualización:** 6 de octubre de 2026
+**Total de casos:** 237 | **Última actualización:** 8 de octubre de 2026
 
 ---
 
@@ -51,7 +51,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 37. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
 
 ---
-### 11.2. Zonas y Movimientos (24 casos)
+### 11.2. Zonas y Movimientos (25 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -66,19 +66,20 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 9. [Escoger robar la carta superior o no.md](<11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md>)
 10. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
 11. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
-12. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
-13. [Look What You've Done no se dispara al terminar de resolverse.md](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>) **(NUEVO: ATTACK OF THE VINE)**
-14. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
-15. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>) — Incluye ambos permisos activos con The Horned King: se aplican conjuntamente y no puedes elegir uno para evitar la restricción de nombres.
-16. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
-17. [Sulley & Boo permite jugar las cartas que estaban boca abajo.md](<11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md>) **(NUEVO: ATTACK OF THE VINE)**
-18. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
-19. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
-20. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
-21. [Ursula - Deal Maker solo puede elegir un personaje en juego.md](<11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md>)
-22. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
-23. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
-24. [Diablo y el robo aparente tras un desafío.md](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>) **(DISCORD 2026)**
+12. [Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
+13. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
+14. [Look What You've Done no se dispara al terminar de resolverse.md](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>) **(NUEVO: ATTACK OF THE VINE)**
+15. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
+16. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>) — Incluye ambos permisos activos con The Horned King: se aplican conjuntamente y no puedes elegir uno para evitar la restricción de nombres.
+17. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
+18. [Sulley & Boo permite jugar las cartas que estaban boca abajo.md](<11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md>) **(NUEVO: ATTACK OF THE VINE)**
+19. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
+20. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
+21. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
+22. [Ursula - Deal Maker solo puede elegir un personaje en juego.md](<11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md>)
+23. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
+24. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
+25. [Diablo y el robo aparente tras un desafío.md](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>) **(DISCORD 2026)**
 
 ---
 ### 11.3. Costes y Requisitos (21 casos)
@@ -356,21 +357,22 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 37 | 15.7% |
-| **11.2 Zonas y Movimientos** | 24 | 10.2% |
+| **11.0 Timing y Resolución** | 37 | 15.6% |
+| **11.2 Zonas y Movimientos** | 25 | 10.5% |
 | **11.3 Costes y Requisitos** | 21 | 8.9% |
 | **11.4 Habilidades** | 35 | 14.8% |
 | **11.5 Keywords** | 21 | 8.9% |
-| **11.6 Interacciones Complejas** | 67 | 28.4% |
+| **11.6 Interacciones Complejas** | 67 | 28.3% |
 | **11.7 Dudas por desarrollar** | 5 | 2.1% |
 | **11.8 Correcciones de jugadas** | 26 | 11.0% |
-| **TOTAL** | **236** | **100%** |
+| **TOTAL** | **237** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Héctor Rivera y The Torn Corner**: [BIG HIT sí dispara MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Tod y The Horseman Strikes!**: [Rechazar el destierro no elige a Tod; aceptarlo lo destierra antes de preparar](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Maleficent & Diablo - Evil Incarnate**: [FOOLS! repone el mazo tras un robo fallido](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
 - **Fergus y Sleepy Hollow**: [Desterrar y recuperar el puente da 4 lore en total; Fergus queda agotado y fuera de la localización](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
@@ -393,6 +395,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Del mazo al descarte y condición secundaria**: [Mirar cartas con Héctor no cambia su zona; The Torn Corner puede jugarse gratis con la foto en juego](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Elección dentro de un efecto opcional**: [Rechazar «may» omite la elección y no dispara a Tod](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Mazo vacío y derrota al terminar el turno**: [Un robo fallido no impide salvarse con FOOLS!; importa conservar cartas al final](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
 - **Un disparo requiere un nuevo evento**: [Recuperar Sleepy Hollow no repite la aventura ni el agotamiento de Fergus](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)

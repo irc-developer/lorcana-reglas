@@ -2,9 +2,9 @@
 
 **Uso**: Este es el archivo de referencia OBLIGATORIO para todos los tags usados en casos de ejemplo. Antes de usar un tag, **verificar que está en este registro**. Si es nuevo, agregarlo aquí en orden alfabético.
 
-**Última actualización**: 1 de octubre de 2026
+**Última actualización**: 8 de octubre de 2026
 
-**Total de tags**: 67
+**Total de tags**: 70
 
 ---
 
@@ -94,13 +94,16 @@ Los tags de cartas se crean con el nombre exacto en minúscula con guiones:
 | `#beyond-the-horizon` | Beyond the Horizon | Dudas específicas de esa carta |
 | `#elisa-maza-transformed-gargoyle` | Elisa Maza - Transformed Gargoyle | Dudas específicas de esa carta |
 | `#grandmother-willow` | Grandmother Willow | Dudas específicas de esa carta |
+| `#hector-rivera-worldwide-sensation` | Héctor Rivera - Worldwide Sensation | BIG HIT y movimientos del mazo al descarte |
 | `#horned-king` | Horned King | Dudas específicas de esa carta |
 | `#lilo` | Lilo | Dudas específicas de esa carta |
 | `#marie-caught-in-the-act` | Marie - Caught in the Act | Dudas específicas de esa carta |
 | `#next-stop-olympus` | Next Stop Olympus | Dudas específicas de esa carta |
 | `#one-and-only` | One and Only | Dudas específicas de esa carta |
 | `#pudge` | Pudge | Dudas específicas de esa carta |
+| `#rivera-family-photo` | Rivera Family Photo | Condición en juego de MEND THE PHOTO |
 | `#strange-things` | Strange Things | Dudas específicas de esa carta |
+| `#the-torn-corner` | The Torn Corner | MEND THE PHOTO desde el descarte |
 | `#this-growing-pressure` | This Growing Pressure | Dudas específicas de esa carta |
 | `#wasabi-called-into-battle` | Wasabi - Called into Battle | Elección de otro personaje con Twin Blades |
 
