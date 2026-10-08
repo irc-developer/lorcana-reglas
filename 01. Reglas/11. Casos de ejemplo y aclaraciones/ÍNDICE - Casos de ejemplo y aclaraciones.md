@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 237 | **Última actualización:** 8 de octubre de 2026
+**Total de casos:** 238 | **Última actualización:** 8 de octubre de 2026
 
 ---
 
@@ -8,7 +8,7 @@
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
-### 11.0. Timing y Resolución (37 casos)
+### 11.0. Timing y Resolución (38 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia de resolución.
 
@@ -22,33 +22,34 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 8. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
 9. [Elegir un personaje agotado por restricción.md](<11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md>)
 10. [Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
-11. [Habilidades disparadas 'Al final del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md>)
-12. [Habilidades disparadas 'Al principio del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al principio del turno'.md>)
-13. [Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>)
-14. [Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
-15. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](<11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md>)
-16. [Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md](<11.0. Timing y Resolución/Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md>) **(NUEVO: ATTACK OF THE VINE)**
-17. [Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>)
-18. [Múltiples habilidades a la vez.md](<11.0. Timing y Resolución/Múltiples habilidades a la vez.md>)
-19. [Narrow Escape aplica coste 2 a cada carta elegida.md](<11.0. Timing y Resolución/Narrow Escape aplica coste 2 a cada carta elegida.md>) **(NUEVO: ATTACK OF THE VINE)**
-20. [No hay bolsa entre la parte del jugador activo y la del no activo.md](<11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md>)
-21. [No tener objetivo legal vs elegir un objetivo inválido.md](<11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md>)
-22. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](<11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md>)
-23. [Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md](<11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md>)
-24. [Orden de resolución en habilidades disparadas.md](<11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md>)
-25. [Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md](<11.0. Timing y Resolución/Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md>) **(NUEVO: ATTACK OF THE VINE)**
-26. [Prioridad entre jugador activo y no activo.md](<11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md>)
-27. [Prophetic Vision no aplica la rama de lore si juegas la acción.md](<11.0. Timing y Resolución/Prophetic Vision no aplica la rama de lore si juegas la acción.md>) **(NUEVO: ATTACK OF THE VINE)**
-28. [Qué pasa cuando se juegan dos cartas a la vez.md](<11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md>)
-29. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
-30. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
-31. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
-32. [Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
-33. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
-34. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
-35. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
-36. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
-37. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
+11. [Get to Safety! roba al recuperar Sleepy Hollow.md](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
+12. [Habilidades disparadas 'Al final del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md>)
+13. [Habilidades disparadas 'Al principio del turno'.md](<11.0. Timing y Resolución/Habilidades disparadas 'Al principio del turno'.md>)
+14. [Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>)
+15. [Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
+16. [Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md](<11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md>)
+17. [Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md](<11.0. Timing y Resolución/Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md>) **(NUEVO: ATTACK OF THE VINE)**
+18. [Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>)
+19. [Múltiples habilidades a la vez.md](<11.0. Timing y Resolución/Múltiples habilidades a la vez.md>)
+20. [Narrow Escape aplica coste 2 a cada carta elegida.md](<11.0. Timing y Resolución/Narrow Escape aplica coste 2 a cada carta elegida.md>) **(NUEVO: ATTACK OF THE VINE)**
+21. [No hay bolsa entre la parte del jugador activo y la del no activo.md](<11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md>)
+22. [No tener objetivo legal vs elegir un objetivo inválido.md](<11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md>)
+23. [Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md](<11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md>)
+24. [Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md](<11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md>)
+25. [Orden de resolución en habilidades disparadas.md](<11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md>)
+26. [Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md](<11.0. Timing y Resolución/Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md>) **(NUEVO: ATTACK OF THE VINE)**
+27. [Prioridad entre jugador activo y no activo.md](<11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md>)
+28. [Prophetic Vision no aplica la rama de lore si juegas la acción.md](<11.0. Timing y Resolución/Prophetic Vision no aplica la rama de lore si juegas la acción.md>) **(NUEVO: ATTACK OF THE VINE)**
+29. [Qué pasa cuando se juegan dos cartas a la vez.md](<11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md>)
+30. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
+31. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
+32. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
+33. [Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
+34. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
+35. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
+36. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
+37. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
+38. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
 
 ---
 ### 11.2. Zonas y Movimientos (25 casos)
@@ -357,21 +358,22 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 37 | 15.6% |
+| **11.0 Timing y Resolución** | 38 | 16.0% |
 | **11.2 Zonas y Movimientos** | 25 | 10.5% |
-| **11.3 Costes y Requisitos** | 21 | 8.9% |
-| **11.4 Habilidades** | 35 | 14.8% |
-| **11.5 Keywords** | 21 | 8.9% |
-| **11.6 Interacciones Complejas** | 67 | 28.3% |
+| **11.3 Costes y Requisitos** | 21 | 8.8% |
+| **11.4 Habilidades** | 35 | 14.7% |
+| **11.5 Keywords** | 21 | 8.8% |
+| **11.6 Interacciones Complejas** | 67 | 28.2% |
 | **11.7 Dudas por desarrollar** | 5 | 2.1% |
-| **11.8 Correcciones de jugadas** | 26 | 11.0% |
-| **TOTAL** | **237** | **100%** |
+| **11.8 Correcciones de jugadas** | 26 | 10.9% |
+| **TOTAL** | **238** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Get to Safety! y Sleepy Hollow**: [Recuperar el puente desde el descarte sí permite robar; ejemplo oficial de CR 6.7.8](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
 - **Héctor Rivera y The Torn Corner**: [BIG HIT sí dispara MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Tod y The Horseman Strikes!**: [Rechazar el destierro no elige a Tod; aceptarlo lo destierra antes de preparar](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Maleficent & Diablo - Evil Incarnate**: [FOOLS! repone el mazo tras un robo fallido](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
@@ -395,6 +397,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Jugar una localización durante una resolución**: [Sleepy Hollow entra antes de comprobar el robo de Get to Safety!; los disparos esperan](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
 - **Del mazo al descarte y condición secundaria**: [Mirar cartas con Héctor no cambia su zona; The Torn Corner puede jugarse gratis con la foto en juego](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Elección dentro de un efecto opcional**: [Rechazar «may» omite la elección y no dispara a Tod](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Mazo vacío y derrota al terminar el turno**: [Un robo fallido no impide salvarse con FOOLS!; importa conservar cartas al final](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
