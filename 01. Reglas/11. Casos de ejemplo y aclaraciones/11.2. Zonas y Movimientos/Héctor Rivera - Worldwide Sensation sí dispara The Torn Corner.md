@@ -1,6 +1,8 @@
 ## ❓ Duda
 
-Al resolver **BIG HIT** de [[02. Listado de Cartas/Set 14 - Hyperia City.md#Héctor Rivera - Worldwide Sensation|Héctor Rivera - Worldwide Sensation]], encuentro [[02. Listado de Cartas/Set 14 - Hyperia City.md#The Torn Corner|The Torn Corner]] entre las tres cartas superiores del mazo y la pongo en el descarte. ¿Se dispara **MEND THE PHOTO** aunque haya mirado las cartas antes? ¿Cuándo necesito tener [[02. Listado de Cartas/Set 14 - Hyperia City.md#Rivera Family Photo|Rivera Family Photo]] en juego?
+Al resolver **BIG HIT** de [Héctor Rivera - Worldwide Sensation](https://cards.lorcast.io/card/digital/large/crd_e0931f5fb3664ed59dc5c600e2e27845.avif?1790886751), encuentro [The Torn Corner](https://cards.lorcast.io/card/digital/large/crd_0b048cf918de403395b66aee622617bf.avif?1790886810) entre las tres cartas superiores del mazo y la pongo en el descarte. ¿Se dispara **MEND THE PHOTO** aunque haya mirado las cartas antes? ¿Cuándo necesito tener [Rivera Family Photo](https://cards.lorcast.io/card/digital/large/crd_d773386dd25d4f089461183e48acf069.avif?1790886807) en juego?
+
+Los enlaces de las cartas abren sus imágenes para consultar el texto.
 
 ---
 
@@ -20,11 +22,11 @@ No necesitas diez cartas en el descarte para jugar The Torn Corner de esta maner
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 14 - Hyperia City.md|Fichas del set Hyperia City]]: BIG HIT pone las cartas restantes en el descarte; MEND THE PHOTO exige que esta carta llegue desde el mazo y comprueba Rivera Family Photo en juego.
+- **Cartas de Hyperia City**, enlazadas arriba: BIG HIT pone las cartas restantes en el descarte; MEND THE PHOTO exige que esta carta llegue desde el mazo y comprueba Rivera Family Photo en juego.
 - [[6.1. General (General)|Reglas generales de habilidades]], CR 6.1.11.1, 6.1.12 y 6.1.14: una carta referenciada debe seguir en la zona indicada; algunas habilidades funcionan fuera de la zona de juego; revelar muestra una carta.
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|Habilidades disparadas]], CR 6.2.1, 6.2.3 y 6.2.4: el evento genera el disparo y la condición secundaria se comprueba al resolver.
 - [[7.7. Bolsa (Bag)|Bolsa]], CR 7.7.3.1: los disparos generados durante un efecto esperan a que ese efecto termine.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 28–30 y 40; [PDF oficial](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+- [Comprehensive Rules 2.2.0 — PDF oficial](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=28), pp. 28–30 y 40.
 
 ---
 
