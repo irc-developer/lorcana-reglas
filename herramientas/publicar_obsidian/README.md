@@ -2,7 +2,7 @@
 
 El usuario ha autorizado publicar cada duda documentada, con la restricción de subir o actualizar **solo sus archivos**. Esta herramienta ejecuta la CLI oficial con `publish:add path=...`, una ruta por llamada. No publica toda la bóveda, no usa `changed`, no elimina contenido y no amplía la selección siguiendo enlaces.
 
-La selección es explícita: artículo(s), índices, portada y registro de tags que hayan cambiado en la transacción actual. Se admiten Markdown de la sección 11, `Empecemos.md` y `Registro de Tags - Master List.md`. Los archivos de configuración, herramientas, fuentes y notas ajenas quedan fuera. Si una duda necesita otros recursos, hay que ampliar el alcance expresamente antes de publicarlos.
+La selección es explícita: artículo(s), índices, portada y registro de tags que hayan cambiado en la transacción actual. Se admiten Markdown de la sección 11, `Empecemos.md`, `Registro de Tags - Master List.md` y la entrada breve `02. Listado de Cartas/Cartas de Lorcana.md`. Las fichas completas de sets siguen fuera del alcance. Los archivos de configuración, herramientas, fuentes y notas ajenas quedan fuera. Si una duda necesita otros recursos, hay que ampliar el alcance expresamente antes de publicarlos.
 
 Cada ruta debe haber sido añadida o modificada en el commit indicado y su contenido local debe coincidir con ese commit. Para subir, además, el commit debe ser `HEAD` y estar contenido en la rama remota de seguimiento; refresca ese seguimiento después del `push`. El workflow editorial debe haber excluido cambios previos ajenos, incluidos los que compartan un índice con la duda actual.
 
@@ -23,6 +23,10 @@ El informe JSON contiene el hash del commit, las rutas y hashes SHA-256. La comp
 Requiere Git, Python estándar y la [CLI oficial de Obsidian](https://obsidian.md/help/cli) habilitada, con instalador 1.12.7 o posterior y una sesión Publish válida. Obsidian debe estar abierto. La herramienta identifica la bóveda por su ID en el registro local de Obsidian y comprueba su ruta real para evitar confundir bóvedas con el mismo nombre. En Windows utiliza `obsidian` en PATH o `LOCALAPPDATA/Programs/obsidian/Obsidian.com`.
 
 El 6 de octubre de 2026 se actualizó este PC al instalador 1.14.4, se habilitó la CLI y se comprobó el acceso al sitio `https://publish.obsidian.md/reglas-lorcana` (`www.reglas-lorcana.es`). Esa preparación no publica las notas o herramientas que estén pendientes en la bóveda.
+
+## Retirada expresa del catálogo de cartas
+
+La migración a Lorcast autorizada el 08/10/2026 utiliza `retirar_catalogo.py` como operación específica, separada del workflow de dudas. Recibe un hash subido, el informe de publicación completa de artículos/portada/entrada breve y un `--archivo` por ficha. Verifica exclusiones, enlaces restantes, selección y conservación del corpus local antes de llamar a `publish:remove path=...`. Sin `--aplicar` prepara el informe; con él despublica solo las fichas explícitas y comprueba la lista pública tras cada operación. Nunca borra archivos locales ni retira «Cartas de Lorcana». No usar esta operación en una duda ordinaria sin una autorización expresa para retirar el catálogo.
 
 ## Pruebas
 

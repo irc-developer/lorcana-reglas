@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Woody - Town Sheriff|Woody – Town Sheriff]] hace que un personaje rival no pueda desafiar y deba irse de aventura si puede, ¿ese personaje todavía puede cantar una canción o pagar un coste de agotamiento?
+Si [Woody – Town Sheriff](https://cards.lorcast.io/card/digital/large/crd_d36d4186954f47a99733811e692d8fea.avif?1783188300) hace que un personaje rival no pueda desafiar y deba irse de aventura si puede, ¿ese personaje todavía puede cantar una canción o pagar un coste de agotamiento?
 
 ---
 

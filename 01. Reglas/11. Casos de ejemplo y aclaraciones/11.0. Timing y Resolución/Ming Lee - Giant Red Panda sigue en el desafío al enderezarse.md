@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Ming Lee - Giant Red Panda|Ming Lee – Giant Red Panda]] se endereza durante un desafío al resolverse **Path of Destruction**, ¿deja de ser el personaje desafiante?
+Si [Ming Lee – Giant Red Panda](https://cards.lorcast.io/card/digital/large/crd_8f82636c01e44a3ba84432bb823e0199.avif?1783189057) se endereza durante un desafío al resolverse **Path of Destruction**, ¿deja de ser el personaje desafiante?
 
 ---
 

@@ -34,6 +34,8 @@ Esta guía está basada en las **Comprehensive Rules 2.2.0**, vigentes desde el 
 ### 🧰 Recursos y Herramientas
 > Material de referencia para torneos, listas de control, hojas de ayuda, y enlaces útiles.
 
+> **Cartas e imágenes:** los enlaces a cartas de esta guía utilizan imágenes obtenidas mediante la API de [Lorcast](https://lorcast.com). Gracias a Lorcast por facilitar su consulta. [Documentación de la API](https://lorcast.com/docs/api).
+
 ---
 
 ### 🤝 Comunidad y actividades
@@ -67,7 +69,7 @@ Este proyecto es de la comunidad y para la comunidad. Si detectas errores, tiene
 - 🌐 [Comunidad Discord oficial](https://discord.gg/disneylorcana)
 - 💬 [Comunidad Discord Lorcana Rulebook Hub](https://discord.gg/hRg9KtFE)
 - 🤝 [Github con la documentación oficial](https://github.com/hexastix/disney-lorcana-tcg-resources?tab=readme-ov-file)
-- 🛠️ [Lorecast API](https://lorcast.com/docs/api)
+- 🛠️ [Lorcast API](https://lorcast.com/docs/api)
 - 🏆 [Clasificación por zonas (ELO)](http://www.eloquest.ink)
 - 🏆📋 [Top Cut - Aplicación para gestionar eventos y mazos hecha por la comunidad (Capri)](https://topcut.report)
 

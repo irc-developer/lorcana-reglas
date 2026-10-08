@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Durante mi turno, [[02. Listado de Cartas/Set 11 - Winterspell.md#Bambi - Ethereal Fawn|Bambi – Ethereal Fawn]] desafía a [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Dr. Bushroot - Evil Botanist|Dr. Bushroot – Evil Botanist]] del oponente.
+Durante mi turno, [Bambi – Ethereal Fawn](https://cards.lorcast.io/card/digital/large/crd_33a165a8153e4ba587d52961bca86f79.avif?1770259306) desafía a [Dr. Bushroot – Evil Botanist](https://cards.lorcast.io/card/digital/large/crd_d156ffc335d648a88f4ee299595188e3.avif?1783188846) del oponente.
 
 Bambi tiene *Come See!*: durante tu turno, siempre que se agota, revela tantas cartas de la parte superior del mazo como cartas haya debajo de él; añade a tu mano las cartas de personaje reveladas y coloca el resto en el fondo del mazo. Dr. Bushroot tiene *Fair Is Fair*: siempre que es desafiado, un oponente elegido elige y descarta una carta.
 

@@ -2,7 +2,7 @@
 
 Describe la situación de juego y la pregunta. Incluye cartas y condiciones que puedan cambiar la respuesta; omite el origen del hilo o captura.
 
-Al mencionar cartas, vincúlalas al archivo de set correspondiente: `[[02. Listado de Cartas/Set X - Nombre del set.md#Nombre Exacto de Carta|Texto visible]]`.
+Al mencionar cartas, enlaza su imagen de Lorcast: `[Nombre - Versión](URL_verificada_de_la_imagen)`. Verifica antes la ficha completa en el archivo local del set y obtén el destino de la API de Lorcast o del mapa verificado, siguiendo la guía de enlaces. Conserva el texto visible y distingue versiones cuando sea necesario.
 
 ---
 

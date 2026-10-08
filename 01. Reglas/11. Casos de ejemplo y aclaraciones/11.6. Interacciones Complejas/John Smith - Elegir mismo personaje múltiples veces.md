@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Puedo elegir a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] varias veces en una elección múltiple? Por ejemplo, si un efecto dice "elige hasta 3 personajes", ¿puedo elegir a John Smith 3 veces?
+¿Puedo elegir a [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) varias veces en una elección múltiple? Por ejemplo, si un efecto dice "elige hasta 3 personajes", ¿puedo elegir a John Smith 3 veces?
 
 ---
 

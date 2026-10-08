@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-[[02. Listado de Cartas/Set 3 - Into the Inklands.md#Ariel - Adventurous Collector|Ariel - Adventurous Collector]] ya tiene Evasive impreso. Si una canción le concede Evasive y después se hace Shift sobre ella con [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Ariel - Sonic Warrior|Ariel - Sonic Warrior]], ¿la Ariel nueva conserva Evasive?
+[Ariel - Adventurous Collector](https://cards.lorcast.io/card/digital/large/crd_341f45661be2402b86ec54dd9e402bd3.avif?1709690747) ya tiene Evasive impreso. Si una canción le concede Evasive y después se hace Shift sobre ella con [Ariel - Sonic Warrior](https://cards.lorcast.io/card/digital/large/crd_fd34f98e6230426fb411e1fd8528a7dc.avif?1716052430), ¿la Ariel nueva conserva Evasive?
 
 ---
 
@@ -14,8 +14,8 @@ Al hacer Shift, Ariel - Sonic Warrior no hereda el texto impreso de Ariel - Adve
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Ariel - Adventurous Collector|Ariel - Adventurous Collector]] tiene Evasive e Inspiring Voice.
-- [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Ariel - Sonic Warrior|Ariel - Sonic Warrior]] se juega mediante Shift sobre un personaje llamado Ariel.
+- [Ariel - Adventurous Collector](https://cards.lorcast.io/card/digital/large/crd_341f45661be2402b86ec54dd9e402bd3.avif?1709690747) tiene Evasive e Inspiring Voice.
+- [Ariel - Sonic Warrior](https://cards.lorcast.io/card/digital/large/crd_fd34f98e6230426fb411e1fd8528a7dc.avif?1716052430) se juega mediante Shift sobre un personaje llamado Ariel.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.6. Si un efecto usa another u other|6.1.6. Another y other]]: “another” excluiría a la fuente, pero no aparece en este texto.
 - [[01. Reglas/8. Palabras clave (Keywords)/8.1. Generalidades (General).md|8.1. Palabras clave]]: las palabras clave sin modificador numérico no se acumulan.
 - [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md|8.10. Shift]]: el personaje nuevo no hereda automáticamente el texto impreso del personaje inferior.

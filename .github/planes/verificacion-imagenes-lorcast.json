@@ -1,0 +1,1933 @@
+{
+  "fecha": "2026-10-08",
+  "imagenes": [
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_00dc125290b34527b59cec4901ec94f9.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_01c4835a62df4960bb973aeff81f2bb2.avif?1740589372",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_02bc7b97b6044592b68b86b9afadd113.avif?1761752078",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_02f6ca615a304f47848ac36590cb7b94.avif?1715694252",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_044b499eebfa487ea9fb1a43e8d5fcdb.avif?1770259389",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_049739e69c034e898c3c48abd37544cc.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_04d93f974e354add83a5c60fbcc342d1.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_0b048cf918de403395b66aee622617bf.avif?1790886810",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_0b928f0cd5d2473482e07a609205c26b.avif?1777688111",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_0df4378c1d3d40409014b2502a9926b1.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_0e2c9423df7b4642914deccabf922ff5.avif?1783190724",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_0fb558452ff949e1ad997108b6f0ad06.avif?1770259794",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_10a145c920e14c17b01173d348247d95.avif?1740589348",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_10bcf02ebeea4a3c8aac36e976120e99.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_11164a4fe7894e46882f5490ebd875cc.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1337332b5317428c95c1129cf645924f.avif?1783190674",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_137c6f751cfa4c56a1fb8443e611b0f4.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_13df9fbee1d6457f8d4ca866073d28d3.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_13f630d1cccb4913b54f560aa5df832e.avif?1783189577",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_15bf57ae3c7f4a5cafb9dcb0d8e08182.avif?1790278506",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1792f6aa4efe42ce93bd680da01f7016.avif?1783188235",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_19c39ba1fb674390bbb747f8cdcaa9c3.avif?1761752209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_19d100267c654ec9af67ccb264c3bcbe.avif?1783190707",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_19e9e680d0d044d6a5fa0d39b5ab3206.avif?1740589756",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1a2311c3639d464d9eb638a08d535276.avif?1777687789",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1c44a2b730a54018a567031f38363a17.avif?1755540364",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1d11c04c567842fd981951674665889a.avif?1783188675",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1e46755f07de4f88a0039a236fdc86e5.avif?1783189913",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1e4e5fcae0fd4a5d92c33919e298257c.avif?1783188800",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1ee71443799d40dfb924b0c0f041ea5d.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_1f7b39db813d495ea2aebf5c8e7ddcbe.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_20232422b3314d02b054a923d610d81d.avif?1770259288",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_20da43997f8642f6b33d1fa04865209d.avif?1777687342",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_22030877f3b6497d841ffef288b491ab.avif?1755541070",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_222374c54b4848939d442c144758404e.avif?1761752265",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_23f005944c784e158b9709de1c587d1e.avif?1770259608",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_2486b7e81831490bb896dcc168a5f31b.avif?1790870346",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_25aa34175eeb4f30bbb9199f46040395.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_26dc8e8705a240689f8af906cb3c600a.avif?1770259228",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_297bfc741b2c4c01b430258d55aef604.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_2b2dd9a7d04d4a4c9c9f9b256d560671.avif?1790278669",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_2d0021113d084cee92cd6b33f104c1b4.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_2eb85540f12446e38d0eef16937315eb.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777688057",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_2f6ba76c24224b52ad93ee5abc882b80.avif?1755541044",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_30df26498319433588a4ee13b1397ea1.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_31e94039c2494d31b8966443911b0fb2.avif?1761764547",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_332a65ff58c44154824ef79683a29116.avif?1777687653",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_33a165a8153e4ba587d52961bca86f79.avif?1770259306",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_341f45661be2402b86ec54dd9e402bd3.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_34b9804b3a084d46b134459658dc8bad.avif?1756518050",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_35f7836ceed84e21ba7cfdde813d73bc.avif?1761752117",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_3825929341ca42099c98d099ed40d2ac.avif?1770259509",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_38b31e4f9b2043259a5d8909cb58b8d3.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_3a25fa761fb34e3d96aacc65d82eb2af.avif?1761752360",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_3a299da6bf864690a188f07aeb55ffdf.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_3a5f83e2f53f4bf0b0d621014cd8f6cf.avif?1755540821",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_3b6a0713a14849bd9a660f147308111d.avif?1777687918",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_3d71ecca4c6c4ec8ba289a785f237535.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_3d891c7945f04b6d9095dda6a9a81a4f.avif?1770259612",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_4209198480ed495d9d5ed7608ece035f.avif?1770259667",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_43c967fc98154d6f86b8ac05b8953c10.avif?1761752005",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_44fe3bead4bf40f79163468a4fd647e5.avif?1755540935",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_4572c32844ee48398f43a1c7aa86826d.avif?1761752364",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_466a0c6459a341b2a24c46147c255a4a.avif?1783190988",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_46aa903866b2477f8601a1cb5a8f56b9.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_47696b283a634a63be19e785284804a6.avif?1761752063",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_485779f8b4954059b78e81f46882d744.avif?1740589717",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_491b1cb4aadf4bf999230048abf2cf0b.avif?1770260077",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_495426e5c16b4039977439b3c7a9b9e2.avif?1761751958",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_4c3204fa9fa14ff9a13a41cadc4259aa.avif?1747507393",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_4d61ccc401a942719bfcafde3a132578.avif?1777687337",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_4f93311edfdb4958a45cc7d70490891f.avif?1747508886",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_5123478aad6349f1a3f4500b31bc7d5e.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_520397ac5c7a4811b50c9adea4f2f1c9.avif?1755540594",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_535bf9178837443f894f45d8c71045a0.avif?1755540368",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_553961389abc4bd4b49cc302ee271ba8.avif?1761752072",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_582e975ec5b64cb7be3e406585a05a6d.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_58e889f440504f44b3283ed76f3f54a4.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_59f3338b5aa642849d3646909844a459.avif?1783189928",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_5f1407a8b5fc45a2954e49b95832de67.avif?1755540856",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_5fe66ed6c5c842ac9e0ea2eba5ca3a4f.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_61b7042adadb4518b842173c39ffe07b.avif?1783188693",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_65f55cf2eedd49668ac8946ebd4d2105.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_66a5c1d3ac3e4e2c894c5a8604c10cc2.avif?1777687217",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_693273eeac4846a39a3539fc6ded617d.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_69429f224b234571a1257b20258d97a4.avif?1783188722",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_69c74f5a7fcb431290622e2321e786fe.avif?1770259636",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_6c18714222c749b8b16800630a5d26cf.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_703029977ead4c46bf7f4991b6fd1736.avif?1740589419",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_70ae5f21fa1347b49ee910683e34d90e.avif?1761751909",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_73a3b09749fa4a318ee0432abc9da30a.avif?1783189839",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_74fab45eaa32470b9ca3c830ab920f93.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_760a3c258ef143de8f8e85176c0bfd1d.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_78e5de38150f48c5b9813c08cc534dfb.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_7e4aa6ffcba9401b916220a6f79c355c.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_82226e6a95b54a879f3428c272b34108.avif?1777687461",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_85de0815b3344000a8f380b6ceefc07e.avif?1777687801",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_87d57ff7547647d0a7e44061cb55efd8.avif?1783188745",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_88b54a70ed1c4bbc96dc741952224222.avif?1790278609",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_8d6d9d233b644d8d88baf2a34751328b.avif?1770259703",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_8f82636c01e44a3ba84432bb823e0199.avif?1783189057",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9008a5fe3cdb46d9861b2b4477b81280.avif?1777687500",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9072eca9a2d74193b9beb9527d6fec2d.avif?1761763767",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_907f9d8972fd47b6903590bd53f1e662.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9444cd2552124a658a0c276513934a4f.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_95ecf1d59f004e4399a2c61e280dfd13.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_977a785a450a4621b0dcff4404592877.avif?1761764552",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_979b5517872f41dd902e486a8d50435f.avif?1783188492",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_982da8b7486a480fac3fd751a353a4eb.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_98339be4f48249779fb2ae2de3e9b757.avif?1761773967",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9b50f321f3a44275b82b5e49b6766c7c.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9c14d6ee5bfd49538ccf3d3323baac68.avif?1783188713",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9d508f285a934e1fbdd5182fc46734b9.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9d869b2d59da48ad81923dc474ab2bfc.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9da69a8f49044384b91e145fdb0a4846.avif?1783858426",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9dfb87c4e43b49619e138291a5c9dbea.avif?1747508868",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_9f0c12874b204c0f99d48aa7ddb68c51.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a2c18604455b4a4c8d4868ad36370d3d.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a35ce7543f7e4af49eb325083776e061.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a3822d68287f451baa20438d5a31e307.avif?1770259256",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a3eb0593f33d4ff78e6fd4dccc9257a2.avif?1740589812",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a6116dcba33643b9a31897960a2267f1.avif?1761752185",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a639524bb8704134a25060ad9d7799b4.avif?1761752097",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a7c6d3aa2de6462f8d205d70a8fcc54f.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a9118586fa7c492bbe23ad34b60dcc57.avif?1761763656",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a94b5e02de4a43bdba60303fffe3d20f.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_a9888f3a8e1845588922ff69068e6f78.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_aa53ad0917d3427e91f3571662645e6a.avif?1783188735",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_aaae8eab8f604635883282a61d3376ff.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_aab461b250e4450ba96ddc1baff4bdea.avif?1755540962",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ab0dd349cb8546d38ae9a4bfc0afdb7a.avif?1783188842",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ad9b6e3372a140178662bc5ffd0db287.avif?1777687526",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ae35ed50c6954dab9925888b61a657f2.avif?1747508819",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ae857d482ec44b298970ad55a6431753.avif?1777687533",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_aef0af5d54a84b1dadfd6351fbec3a01.avif?1777687249",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_af531020efc14cb38f4ffeb159eb8eff.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_b0c8c37c12834fa1b2b7d831b172ff0c.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_b1aa36e48c8e4041b07e30efb7837fa3.avif?1770259344",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_b2fee16bc7bb46119501e583d0e97980.avif?1747509212",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_b653851369d8432198a23d09e7642dbd.avif?1747509532",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_b760305650e54e7b84dcbeb7c014b0f5.avif?1777687781",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_b774661e34864407ad0f264bb2332333.avif?1783189090",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_b8569f3f5fd643c4adacaa5ee82c5e9e.avif?1783188259",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ba9b62b0777c4dc8a6db9c3bac944da8.avif?1783189101",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_bb689737789640e98f540464691035a6.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_bbcaea8f137843f088aef681b113a953.avif?1790886774",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_bdf35f1859df44e19594261c5bcede11.avif?1770260086",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_be06b6df39cd46c2a192ae1be15fb42c.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_be89cf4d06b54426801f296b3cbf751d.avif?1770259425",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_be92bba983424f2f9546f237e65ce357.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_be9dcbe9a9fa41a1986ff7c26818f092.avif?1747509240",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_bf44f442286c4b5fa783412ae85c3b58.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_bf617c80f0c9417a8434ffa4428e7911.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c01f3a4124be48dbb77aaa45281e74ba.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c0337343682c4e9e9bac90b90fb4f24a.avif?1777688023",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c0742f7731e04b749870bceb5c6b133b.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c165a1025f82402fa3834ed4c9da14ba.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c16e96de6fd24d58969aa7429dcbbdcc.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c189dd421b024c29b83e86aea8bbc347.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c25b03f0800041229325ec211c5e132c.avif?1747507389",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c32945ecfd3d44859d3af3841977a737.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c608166f5ffb4bb195af64fb501902cb.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c6aa9e3981f6416d9cdd69d6fa76651c.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c6b34ebb083f4f60a61fc54be715197a.avif?1783189921",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c75dbaef208b40e99c804cce84f6d116.avif?1783190716",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c7f70b64da8740e0a6cc47d0862b88e3.avif?1740589850",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c8bafccee86e44229bddbe6438d98d99.avif?1783188896",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c9365d1b256c4d0fa0600686f72b6f3b.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_c9705013eab04705818153d8e3419f5b.avif?1783190969",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_cafa13413b754a96b2ac5df738bd0b89.avif?1747506729",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_cc4685ee359648a9b100d7a20c00ee5f.avif?1770259895",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ce1ec049b9994d6fae071a0f74886cb3.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_cf31223643444ceab69c0a9fddd46f22.avif?1777687668",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_cfd767c1ed88437486b41bb5670ccc1c.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d156ffc335d648a88f4ee299595188e3.avif?1783188846",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d36d4186954f47a99733811e692d8fea.avif?1783188300",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d3dd900e88304c778c319c8facd2c8f2.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d4514592d27b40cca5821f510aea2db2.avif?1761752189",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d46b1371e56d486786fb471a1c043d3a.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d515c85e0daa4cfd8c3a84154d328cd4.avif?1777688081",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d635730df878416c8cb022ce851a4edc.avif?1790278594",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d694639a68614bcc8d3a482c1f5c5da1.avif?1761763903",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d716dab053a54d448c9544db720aa77c.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d773386dd25d4f089461183e48acf069.avif?1790886807",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_d82108b67c434df495ba7ce11b811e79.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_dae10098369548f3bf33437859828c25.avif?1790194847",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_daf2fde77da94e85898ad1cbd36059e6.avif?1761764707",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_db9e9bd72a5c4aca98bc66a4a9b15499.avif?1783190856",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_dbd4475720c8479481050b2ba6ef3c5a.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_dbff3559ccd647889b1fb934994a2d02.avif?1770259776",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_dce73ba526114978b851ac2f673a02bc.avif?1783189818",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e0931f5fb3664ed59dc5c600e2e27845.avif?1790886751",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e1412fbad88c459a989f3738fb678789.avif?1747506692",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e24a3ebbac57485091abad86f0e5064f.avif?1761752331",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e372495979314c78b3613e2b19c30366.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e374a2bd0f3c42bb87ab9f365f9b91fe.avif?1790278617",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e47c85d105e64ec3a91cba6dde1658ad.avif?1790870225",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e50f2393108947e785165163324df9e2.avif?1761763709",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e597aba9dc5748e49621c84f4da6f30a.avif?1783189041",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e83395def01e4f76b670fd014c79d440.avif?1740589325",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e9a024091f294cfab0aebe2882414fdc.avif?1777687910",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e9a1997821d647d5b13378a801921bf6.avif?1770259752",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e9dd2025da3b4ef7adf3f2b9cd67f421.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_e9f12c944cfb48bb98fc1a02e87bb6db.avif?1761752194",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_eb6216aa3f6b4cccaf6216809f915658.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ec332a15608840ad942e800aa7b17294.avif?1723917209",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ec94f5c4a31b40c99f5b421ac7dd3acf.avif?1770259798",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ee4bc5f80eb74a19b749e0b31be7d920.avif?1761763643",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ef7ea6ffd33a4557961b74ea45e095d4.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f04fa097a7234ecb95ea7eeea70c9c39.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f17c60d077554d25b50fd934061b2e32.avif?1730901319",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f3f30e7e137c4336a2551abfa4b4eeaf.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f405327bb31a4ca0880e91e09bf5893a.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f476fbdebdae4dbcb2e5f3ed3818f845.avif?1790886786",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f5ec9aa34cb2438fb19806535e9ffcc5.avif?1770259680",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f607033b63f544219ebcff94bd3c6e81.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f6df91ec4b8144ec99568e5979a90225.avif?1740589573",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f7b4682264424b64b6876e1d1146fb94.avif?1790886923",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f86297c4c6f940cc8135cd806d96105a.avif?1770260073",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f9025821a35c4cea9fd04182f7db5896.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f9097c53f99d488aa8685b73ea5a9373.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_f97b251adbeb4697b06c2cdaa80bc6e5.avif?1777687351",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_fa85ca0440e441a19d44e1621e40f1d1.avif?1740589113",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_fafe3c3da4484cf6b0485a5f5a1c557a.avif?1761764872",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_fcdb51245c0a468896166eb745d1cf55.avif?1709690747",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_fd34f98e6230426fb411e1fd8528a7dc.avif?1716052430",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_fd8a29d02aba433bbd71f62e65fec165.avif?1783190689",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ff15d454e2f84f89a64bf17216e0b5f4.avif?1770259330",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cards.lorcast.io/card/digital/large/crd_ffac3ba82292480ba3fa2114f0c7a3f8.avif?1783189179",
+      "status": 200,
+      "tipo": "image/avif",
+      "valido": true,
+      "metodo": "GET",
+      "head_previo": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

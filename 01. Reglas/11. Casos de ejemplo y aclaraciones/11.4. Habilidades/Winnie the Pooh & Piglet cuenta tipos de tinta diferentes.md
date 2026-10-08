@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Winnie the Pooh & Piglet - Hunny Mages|Winnie the Pooh & Piglet – Hunny Mages]] está en juego junto con otro personaje Amethyst, ¿cuánto lore aporta **Magical Mix**?
+Si [Winnie the Pooh & Piglet – Hunny Mages](https://cards.lorcast.io/card/digital/large/crd_0e2c9423df7b4642914deccabf922ff5.avif?1783190724) está en juego junto con otro personaje Amethyst, ¿cuánto lore aporta **Magical Mix**?
 
 ---
 

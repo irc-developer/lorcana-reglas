@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Durante tu turno tienes 8 cartas de tinta preparadas y juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Look What You've Done|Look What You've Done]], una acción de coste 2. El personaje oponente elegido no tiene Resist ni Ward, y no hay otros efectos que modifiquen el daño o el coste. Después de poner la acción en el descarte al terminar de resolver sus 2 puntos de daño, ¿puedes pagar de nuevo y repetirlo hasta jugar esa misma copia cuatro veces e infligir 8 daños?
+Durante tu turno tienes 8 cartas de tinta preparadas y juegas [Look What You've Done](https://cards.lorcast.io/card/digital/large/crd_73a3b09749fa4a318ee0432abc9da30a.avif?1783189839), una acción de coste 2. El personaje oponente elegido no tiene Resist ni Ward, y no hay otros efectos que modifiquen el daño o el coste. Después de poner la acción en el descarte al terminar de resolver sus 2 puntos de daño, ¿puedes pagar de nuevo y repetirlo hasta jugar esa misma copia cuatro veces e infligir 8 daños?
 
 ---
 
@@ -18,7 +18,7 @@ Si descartas la carta desde la mano durante tu turno, sí puedes jugarla desde e
 
 ## 📘 Referencias
 
-- **Texto de la carta:** la ficha del [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Look What You've Done|set 13, carta 200]] confirma el coste 2, los 2 daños y la condición de descartarla durante tu turno, pagando todos los costes para jugarla desde el descarte.
+- **Texto de la carta:** la ficha del [set 13, carta 200](https://cards.lorcast.io/card/digital/large/crd_73a3b09749fa4a318ee0432abc9da30a.avif?1783189839) confirma el coste 2, los 2 daños y la condición de descartarla durante tu turno, pagando todos los costes para jugarla desde el descarte.
 - **Glosario oficial, «discard», p. 47:** distingue la zona de descarte de la acción de descartar. Solo se descartan cartas desde la mano; también llegan a esa zona las acciones que terminan de resolverse. Véase el [[Comprehensive-Rules_2.2.0-EN.pdf|PDF oficial CR 2.2.0]].
 - **CR 4.3.3.2 y 6.7.1.2, pp. 13 y 36:** una acción entra en la zona de juego, resuelve el efecto que genera y después se coloca en el descarte. Localización: [[4.3. Jugar una carta (Play a Card)|Jugar una carta]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolución de cartas y efectos]].
 - **CR 6.2.1 y 7.7.3.1, pp. 30 y 40:** el disparo requiere que se cumpla su condición. Si ocurre durante otro efecto, se añade a la bolsa y espera a que ese efecto termine. Localización: [[6.2. Habilidades Disparadas (Triggered Abilities)|Habilidades disparadas]] y [[7.7. Bolsa (Bag)|Bolsa]].

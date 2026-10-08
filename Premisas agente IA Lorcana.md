@@ -28,7 +28,7 @@ No debe volver a convertirse en un bloque monolítico de reglas operativas.
 - Escritura y ubicación de casos: [.github/instructions/lorcana-case-writing.instructions.md](.github/instructions/lorcana-case-writing.instructions.md)
 - Deduplificación de casos: [.github/instructions/lorcana-case-dedup.instructions.md](.github/instructions/lorcana-case-dedup.instructions.md)
 - Tags de casos: [.github/instructions/lorcana-case-tags.instructions.md](.github/instructions/lorcana-case-tags.instructions.md)
-- Enlaces Obsidian y citas internas: [.github/instructions/lorcana-obsidian-links.instructions.md](.github/instructions/lorcana-obsidian-links.instructions.md)
+- Enlaces a imágenes de cartas de Lorcast, reglas y artículos: [.github/instructions/lorcana-obsidian-links.instructions.md](.github/instructions/lorcana-obsidian-links.instructions.md)
 - Higiene de archivos Markdown: [.github/instructions/lorcana-file-hygiene.instructions.md](.github/instructions/lorcana-file-hygiene.instructions.md)
 
 ### Skills activas del workspace

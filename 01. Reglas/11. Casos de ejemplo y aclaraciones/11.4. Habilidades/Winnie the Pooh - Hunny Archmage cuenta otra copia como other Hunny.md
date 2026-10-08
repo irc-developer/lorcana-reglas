@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si tienes dos copias de [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Winnie the Pooh - Hunny Archmage|Winnie the Pooh – Hunny Archmage]] en juego, ¿cuentan la una para la otra al comprobar **Stick Together**?
+Si tienes dos copias de [Winnie the Pooh – Hunny Archmage](https://cards.lorcast.io/card/digital/large/crd_c6b34ebb083f4f60a61fc54be715197a.avif?1783189921) en juego, ¿cuentan la una para la otra al comprobar **Stick Together**?
 
 ---
 

@@ -104,6 +104,16 @@ class PublicacionTests(unittest.TestCase):
             with self.subTest(archivos=archivos), self.assertRaises(p.PublicacionError):
                 p.preparar(self.root, "HEAD", archivos)
 
+    def test_entrada_breve_de_cartas_permitida_y_fichas_excluidas(self):
+        entrada = "02. Listado de Cartas/Cartas de Lorcana.md"
+        ficha = "02. Listado de Cartas/Set 1 - The First Chapter.md"
+        self.escribir(entrada, "# Cartas\nConsulta Lorcast.\n")
+        self.escribir(ficha, "# Corpus privado de cartas\n")
+        self.commit()
+        self.assertEqual(p.preparar(self.root, "HEAD", [entrada])["archivos"], [entrada])
+        with self.assertRaises(p.PublicacionError):
+            p.preparar(self.root, "HEAD", [ficha])
+
     def test_rechaza_cambios_posteriores_antes_de_publicar_cualquier_archivo(self):
         plan = p.preparar(self.root, "HEAD", [self.caso, self.indice])
         self.escribir(self.indice, "Cambio posterior ajeno.\n")

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Tengo [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Cursed Merfolk - Ursula's Handiwork|Cursed Merfolk]] en juego (habilidad: *"Whenever this character is challenged, each opponent chooses and discards a card."*). Mi oponente desafía a Cursed Merfolk y recibe daño suficiente para ser desterrado (banished). También controlo [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Emerald Chromicon|Emerald Chromicon]] con habilidad *"During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand."*
+Tengo [Cursed Merfolk](https://cards.lorcast.io/card/digital/large/crd_25aa34175eeb4f30bbb9199f46040395.avif?1709690747) en juego (habilidad: *"Whenever this character is challenged, each opponent chooses and discards a card."*). Mi oponente desafía a Cursed Merfolk y recibe daño suficiente para ser desterrado (banished). También controlo [Emerald Chromicon](https://cards.lorcast.io/card/digital/large/crd_693273eeac4846a39a3539fc6ded617d.avif?1723917209) con habilidad *"During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand."*
 
 **¿En qué orden se resuelven los triggers: primero descarte o primero retorno a mano?**
 

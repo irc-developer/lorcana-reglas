@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Puede [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Posey - Vampire Potato|Posey – Vampire Potato]] usar Potato Shift sobre [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Morph - Little Imitator|Morph – Little Imitator]], aunque Morph no sea un objeto llamado Potato?
+¿Puede [Posey – Vampire Potato](https://cards.lorcast.io/card/digital/large/crd_ab0dd349cb8546d38ae9a4bfc0afdb7a.avif?1783188842) usar Potato Shift sobre [Morph – Little Imitator](https://cards.lorcast.io/card/digital/large/crd_1d11c04c567842fd981951674665889a.avif?1783188675), aunque Morph no sea un objeto llamado Potato?
 
 ---
 

@@ -48,7 +48,7 @@ La respuesta al usuario es el cierre de la transacción, no una fase anterior a 
 
 - La autoridad primaria para reglas es `01.1.a Official English Reference – Unmodified/`.
 - La localización y documentación en castellano vive en `01. Reglas/`.
-- Los nombres y textos exactos de cartas se verifican en el archivo del set dentro de `02. Listado de Cartas/`.
+- Los nombres y textos exactos de cartas se verifican en el archivo del set dentro de `02. Listado de Cartas/`, conservado como corpus local fuera de Publish. Los lectores consultan imágenes de Lorcast mediante enlaces verificados según la instrucción de enlaces; el MCP conserva su evidencia local.
 - Las carpetas legacy o auxiliares no son autoridad normativa.
 - Las preguntas al usuario se limitan a datos críticos que cambien el resultado.
 - La documentación solo se omite por petición explícita de no editar o por un bloqueo técnico comprobado.

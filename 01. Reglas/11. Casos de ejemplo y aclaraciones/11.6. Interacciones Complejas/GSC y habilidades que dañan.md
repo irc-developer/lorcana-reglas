@@ -9,13 +9,13 @@ Sí, el efecto de Madame Medusa está bien aplicado. Aquí lo importante es cuan
 ---
 ## Duda 2
 
-Tengo en juego [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Vanellope von Schweetz - Sugar Rush Champ|Vanellope von Schweetz - Sugar Rush Champ]] ya seca a la que le queda un punto de vida. La tengo en la ubicación [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Sugar Rush Speedway - Starting Line|Sugar Rush Speedway - Starting Line]] y la agoto y le hago un punto de daño para moverla gratis a mi otra ubicación [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Sugar Rush Speedway - Finish Line|Sugar Rush Speedway - Finish Line]] ¿Llega a entrar en la ubicación o muere al recibir el daño?
-Sí, se mueve a la otra ubicación, se dispara la habilidad de la segunda ubicación y se acaba de resolver la habilidad al entrar en la segunda ubicación. En este punto, una vez se ha resuelto toda la habilidad de [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Sugar Rush Speedway - Starting Line|Sugar Rush Speedway - Starting Line]] (Pagar Coste -> Mover personaje a la ubicación -> Personaje movido) se hace la [[1.8. Chequeo del estado del juego (Game State Check)|Comprobación del estado del juego]], comprobando que el personaje ya ha alcanzado su voluntad en daños con lo que es desterrada.
+Tengo en juego [Vanellope von Schweetz - Sugar Rush Champ](https://cards.lorcast.io/card/digital/large/crd_d3dd900e88304c778c319c8facd2c8f2.avif?1723917209) ya seca a la que le queda un punto de vida. La tengo en la ubicación [Sugar Rush Speedway - Starting Line](https://cards.lorcast.io/card/digital/large/crd_38b31e4f9b2043259a5d8909cb58b8d3.avif?1723917209) y la agoto y le hago un punto de daño para moverla gratis a mi otra ubicación [Sugar Rush Speedway - Finish Line](https://cards.lorcast.io/card/digital/large/crd_c9365d1b256c4d0fa0600686f72b6f3b.avif?1730901319) ¿Llega a entrar en la ubicación o muere al recibir el daño?
+Sí, se mueve a la otra ubicación, se dispara la habilidad de la segunda ubicación y se acaba de resolver la habilidad al entrar en la segunda ubicación. En este punto, una vez se ha resuelto toda la habilidad de [Sugar Rush Speedway - Starting Line](https://cards.lorcast.io/card/digital/large/crd_38b31e4f9b2043259a5d8909cb58b8d3.avif?1723917209) (Pagar Coste -> Mover personaje a la ubicación -> Personaje movido) se hace la [[1.8. Chequeo del estado del juego (Game State Check)|Comprobación del estado del juego]], comprobando que el personaje ya ha alcanzado su voluntad en daños con lo que es desterrada.
 
 ## Duda 3
 
-- En mesa tengo [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Magic Broom - Illuminary Keeper|Magic Broom - Illuminary Keeper]].
-- Juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Hades - Ruthless Tyrant|Hades - Ruthless Tyrant]].
+- En mesa tengo [Magic Broom - Illuminary Keeper](https://cards.lorcast.io/card/digital/large/crd_65f55cf2eedd49668ac8946ebd4d2105.avif?1716052430).
+- Juego [Hades - Ruthless Tyrant](https://cards.lorcast.io/card/digital/large/crd_4c3204fa9fa14ff9a13a41cadc4259aa.avif?1747507393).
 
 ¿Puedo hacerle dos daños a mi Magic Broom para robar dos cartas y después sacrificarla para robar una antes 
 No, no podrías. No podrás llevar a cabo las dos habilidades en ninguna combinación porque una vez hayas resuelto cualquiera de ellas se hace la [[1.8. Chequeo del estado del juego (Game State Check)|Comprobación del estado del juego]] con lo que la combinatoria sería:

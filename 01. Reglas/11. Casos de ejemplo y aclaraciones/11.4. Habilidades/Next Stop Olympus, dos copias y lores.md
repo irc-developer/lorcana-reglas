@@ -1,6 +1,6 @@
 # ❓ Duda
 
-Si uso dos copias de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Next Stop, Olympus|Next Stop Olympus]] en el mismo personaje durante mi turno, ¿ganaría 1 lore o 2 lore cuando ese personaje desafíe?
+Si uso dos copias de [Next Stop Olympus](https://cards.lorcast.io/card/digital/large/crd_9072eca9a2d74193b9beb9527d6fec2d.avif?1761763767) en el mismo personaje durante mi turno, ¿ganaría 1 lore o 2 lore cuando ese personaje desafíe?
 
 # ✅ Respuesta
 

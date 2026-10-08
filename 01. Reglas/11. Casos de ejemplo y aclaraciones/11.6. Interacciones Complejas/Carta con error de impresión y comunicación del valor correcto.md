@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si una impresión de [[02. Listado de Cartas/Set 1 - The First Chapter.md#Stitch - Carefree Surfer|Stitch - Carefree Surfer]] muestra un valor de lore incorrecto —por ejemplo, 1 en lugar de 2—, ¿hay que avisar al oponente? ¿Puede llamar a un juez si el jugador hace quest usando el valor correcto?
+Si una impresión de [Stitch - Carefree Surfer](https://cards.lorcast.io/card/digital/large/crd_78e5de38150f48c5b9813c08cc534dfb.avif?1709690747) muestra un valor de lore incorrecto —por ejemplo, 1 en lugar de 2—, ¿hay que avisar al oponente? ¿Puede llamar a un juez si el jugador hace quest usando el valor correcto?
 
 ---
 
@@ -14,7 +14,7 @@ Una impresión extranjera o con una errata no es automáticamente una carta marc
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 1 - The First Chapter.md#Stitch - Carefree Surfer|Stitch - Carefree Surfer]]: la carta de la primera edición tiene 2 de lore.
+- [Stitch - Carefree Surfer](https://cards.lorcast.io/card/digital/large/crd_78e5de38150f48c5b9813c08cc534dfb.avif?1709690747): la carta de la primera edición tiene 2 de lore.
 - [[01. Reglas/1. Principios generales/1.1. General#1.1.4. Idiomas|1.1.4. Idiomas]]: la versión inglesa es la referencia oficial para cartas, reglas y decisiones.
 - [[03. Reglas de Torneo/5 Información y comunicación/5.4 Información en el Juego (In-Game Information)|5.4. Información en el juego]]: los jugadores deben comunicar correctamente el estado de la partida.
 - [[03. Reglas de Torneo/5 Información y comunicación/5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones de cartas]]: las referencias a cartas deben permitir identificarlas correctamente.

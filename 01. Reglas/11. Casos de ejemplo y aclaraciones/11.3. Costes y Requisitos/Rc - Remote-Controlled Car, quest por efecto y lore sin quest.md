@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-[[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Rc - Remote-Controlled Car|Rc - Remote-Controlled Car]] tiene **LOW BATTERIES**: "This character can't quest or challenge unless you pay 1 {I}. (You pay this cost each time.)"
+[Rc - Remote-Controlled Car](https://cards.lorcast.io/card/digital/large/crd_82226e6a95b54a879f3428c272b34108.avif?1777687461) tiene **LOW BATTERIES**: "This character can't quest or challenge unless you pay 1 {I}. (You pay this cost each time.)"
 
 Si una interacción externa afecta a Rc, ¿cuándo hay que pagar ese 1 {I}?
 
@@ -34,7 +34,7 @@ Dicho de forma más llana:
 - Como Reckless tampoco le deja questear, Rc puede quedarse ese turno sin hacer ninguna de las dos cosas.
 - Si en algún momento sí decides desafiar con Rc, entonces pagas 1 {I}. Y ese pago se repite cada vez.
 
-Un paralelismo útil es este: una restricción como la de [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] puede obligarte a elegirlo **cuando ya estás eligiendo qué personaje afecta algo**. Lo que no hace, por sí sola, es obligarte antes a escoger una rama distinta de juego solo para llegar a esa elección.
+Un paralelismo útil es este: una restricción como la de [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) puede obligarte a elegirlo **cuando ya estás eligiendo qué personaje afecta algo**. Lo que no hace, por sí sola, es obligarte antes a escoger una rama distinta de juego solo para llegar a esa elección.
 
 ### Caso B — Un efecto le hace hacer quest
 

@@ -1,9 +1,9 @@
 ## ❓ Duda
 
-Controlo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kronk - Laid Back|Kronk - Laid Back]], cuya habilidad I'M LOVIN' THIS impide que un efecto me haga descartar una o más cartas. Tengo cartas en la mano y Kronk sigue en mi zona de juego durante la resolución.
+Controlo [Kronk - Laid Back](https://cards.lorcast.io/card/digital/large/crd_10a145c920e14c17b01173d348247d95.avif?1740589348), cuya habilidad I'M LOVIN' THIS impide que un efecto me haga descartar una o más cartas. Tengo cartas en la mano y Kronk sigue en mi zona de juego durante la resolución.
 
-1. Juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Megara - Captivating Cynic|Megara - Captivating Cynic]]: su habilidad SHADY DEAL exige elegir y descartar una carta o desterrar a Megara. ¿Puedo elegir el descarte?
-2. En una partida Coconut, un oponente juega [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Sign the Scroll|Sign the Scroll]]: cada oponente puede elegir y descartar una carta y quien juega la acción gana 2 lore por cada oponente que no lo haga. ¿Puedo descartar voluntariamente para evitar que gane lore por mí?
+1. Juego [Megara - Captivating Cynic](https://cards.lorcast.io/card/digital/large/crd_bb689737789640e98f540464691035a6.avif?1716052430): su habilidad SHADY DEAL exige elegir y descartar una carta o desterrar a Megara. ¿Puedo elegir el descarte?
+2. En una partida Coconut, un oponente juega [Sign the Scroll](https://cards.lorcast.io/card/digital/large/crd_9f0c12874b204c0f99d48aa7ddb68c51.avif?1716052430): cada oponente puede elegir y descartar una carta y quien juega la acción gana 2 lore por cada oponente que no lo haga. ¿Puedo descartar voluntariamente para evitar que gane lore por mí?
 
 ---
 

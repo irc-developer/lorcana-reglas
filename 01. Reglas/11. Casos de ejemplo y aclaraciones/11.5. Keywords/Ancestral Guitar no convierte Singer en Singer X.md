@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-[[02. Listado de Cartas/Set 14 - Hyperia City.md#Ancestral Guitar|Ancestral Guitar]] tiene *FROM THE HEART*: «{E}, 1 {I} — Chosen character gains Singer and counts as having +2 cost to sing songs this turn.» ¿Concede Singer X o aumenta un Singer N existente? ¿Se suman dos guitarras? ¿Puede elegir personajes rivales o cartas del mazo y del descarte para habilitar efectos que buscan Singer?
+[Ancestral Guitar](https://cards.lorcast.io/card/digital/large/crd_2486b7e81831490bb896dcc168a5f31b.avif?1790870346) tiene *FROM THE HEART*: «{E}, 1 {I} — Chosen character gains Singer and counts as having +2 cost to sing songs this turn.» ¿Concede Singer X o aumenta un Singer N existente? ¿Se suman dos guitarras? ¿Puede elegir personajes rivales o cartas del mazo y del descarte para habilitar efectos que buscan Singer?
 
 ---
 
@@ -12,16 +12,16 @@ El +2 es un modificador separado para cantar canciones. No cambia la keyword ni 
 
 **Los modificadores +2 sí se suman.** Cada resolución aporta su propio +2 durante ese turno, aunque no pueda conceder Singer otra vez. Por ejemplo:
 
-- [[02. Listado de Cartas/Set 14 - Hyperia City.md#Goofy - Dancing Superstar|Goofy - Dancing Superstar]], con Singer 6, cuenta como coste **8** tras una guitarra y puede cantar él solo [[02. Listado de Cartas/Set 9 - Fabled.md#Circle of Life|Circle of Life]]. Sigue teniendo Singer 6 y coste de tinta 5.
-- [[02. Listado de Cartas/Set 14 - Hyperia City.md#Héctor Rivera - Street Musician|Héctor Rivera - Street Musician]], con Singer 2, cuenta como coste **6 = 2 + 2 + 2** tras resolver dos guitarras sobre él y puede cantar él solo [[02. Listado de Cartas/Set 14 - Hyperia City.md#Remember Me|Remember Me]]. Sigue teniendo Singer 2 y coste de tinta 1.
+- [Goofy - Dancing Superstar](https://cards.lorcast.io/card/digital/large/crd_d635730df878416c8cb022ce851a4edc.avif?1790278594), con Singer 6, cuenta como coste **8** tras una guitarra y puede cantar él solo [Circle of Life](https://cards.lorcast.io/card/digital/large/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363). Sigue teniendo Singer 6 y coste de tinta 5.
+- [Héctor Rivera - Street Musician](https://cards.lorcast.io/card/digital/large/crd_bbcaea8f137843f088aef681b113a953.avif?1790886774), con Singer 2, cuenta como coste **6 = 2 + 2 + 2** tras resolver dos guitarras sobre él y puede cantar él solo [Remember Me](https://cards.lorcast.io/card/digital/large/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527). Sigue teniendo Singer 2 y coste de tinta 1.
 
 Para cantar, los personajes deben estar preparados y secos; la guitarra no los prepara ni elimina el estado de secándose. Sing Together permite usar un solo personaje si alcanza el valor requerido. Cada guitarra exige agotar ese objeto y pagar 1 de tinta.
 
 **Solo puede elegir personajes en juego, incluidos los de un oponente**, porque no dice «of yours». Debe respetarse Ward y cualquier otra restricción de elección. No puede elegir cartas de personaje en el mazo, la mano, el descarte ni el pozo de tinta.
 
-Por ello, no puede conceder Singer a una carta del descarte para recuperarla con [[02. Listado de Cartas/Set 14 - Hyperia City.md#Powerline - Megastar|Powerline - Megastar]], ni a una carta del mazo para encontrarla con [[02. Listado de Cartas/Set 14 - Hyperia City.md#Never Too Far Apart|Never Too Far Apart]]. Si un personaje recibió Singer de la guitarra y después abandona el juego, pierde los efectos obtenidos al cambiar de zona; esa concesión tampoco lo habilita en el descarte.
+Por ello, no puede conceder Singer a una carta del descarte para recuperarla con [Powerline - Megastar](https://cards.lorcast.io/card/digital/large/crd_15bf57ae3c7f4a5cafb9dcb0d8e08182.avif?1790278506), ni a una carta del mazo para encontrarla con [Never Too Far Apart](https://cards.lorcast.io/card/digital/large/crd_e47c85d105e64ec3a91cba6dde1658ad.avif?1790870225). Si un personaje recibió Singer de la guitarra y después abandona el juego, pierde los efectos obtenidos al cambiar de zona; esa concesión tampoco lo habilita en el descarte.
 
-**Sí funciona con [[02. Listado de Cartas/Set 14 - Hyperia City.md#Ernesto de la Cruz - Ruthless Musician|Ernesto de la Cruz - Ruthless Musician]]:** primero concedes Singer a un personaje rival legal; después juegas a Ernesto y, al resolver *WHATEVER IT TAKES*, puedes elegirlo y desterrarlo si sigue en juego, tiene Singer y la elección continúa siendo legal. Singer concedido es una habilidad real, aunque no esté impresa y no tenga un número añadido.
+**Sí funciona con [Ernesto de la Cruz - Ruthless Musician](https://cards.lorcast.io/card/digital/large/crd_88b54a70ed1c4bbc96dc741952224222.avif?1790278609):** primero concedes Singer a un personaje rival legal; después juegas a Ernesto y, al resolver *WHATEVER IT TAKES*, puedes elegirlo y desterrarlo si sigue en juego, tiene Singer y la elección continúa siendo legal. Singer concedido es una habilidad real, aunque no esté impresa y no tenga un número añadido.
 
 ---
 

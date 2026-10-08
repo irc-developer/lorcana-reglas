@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-El oponente sospecha que un mazo Hunny no contiene [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Christopher Robin - Hunny Sage|Christopher Robin - Hunny Sage]] aunque la decklist sí lo registra. ¿Debe el Lore Guide buscar esa carta en el mazo durante la partida?
+El oponente sospecha que un mazo Hunny no contiene [Christopher Robin - Hunny Sage](https://cards.lorcast.io/card/digital/large/crd_61b7042adadb4518b842173c39ffe07b.avif?1783188693) aunque la decklist sí lo registra. ¿Debe el Lore Guide buscar esa carta en el mazo durante la partida?
 
 ---
 

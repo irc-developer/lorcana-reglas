@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si controlo [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage Cursed Prince|Mor’du - Savage Cursed Prince]] y [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|Simba - Pride Protector]], ¿puede Simba enderezar a mis otros personajes al final del turno aunque Mor’du diga que mis personajes que no se llamen Mor’du no pueden enderezarse al inicio de mi turno?
+Si controlo [Mor’du - Savage Cursed Prince](https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384) y [Simba - Pride Protector](https://cards.lorcast.io/card/digital/large/crd_a94b5e02de4a43bdba60303fffe3d20f.avif?1730901319), ¿puede Simba enderezar a mis otros personajes al final del turno aunque Mor’du diga que mis personajes que no se llamen Mor’du no pueden enderezarse al inicio de mi turno?
 
 ¿Cambia algo si yo soy propietario de ambas cartas o solo de una de ellas?
 
@@ -8,12 +8,12 @@ Si controlo [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage 
 
 ## ✅ Respuesta
 
-Sí. [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|Simba - Pride Protector]] puede enderezar al final del turno a los otros personajes del jugador al que pertenezca ese efecto, aunque [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage Cursed Prince|Mor’du - Savage Cursed Prince]] impida que los personajes que no se llamen Mor’du se enderecen **al inicio de su turno**.
+Sí. [Simba - Pride Protector](https://cards.lorcast.io/card/digital/large/crd_a94b5e02de4a43bdba60303fffe3d20f.avif?1730901319) puede enderezar al final del turno a los otros personajes del jugador al que pertenezca ese efecto, aunque [Mor’du - Savage Cursed Prince](https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384) impida que los personajes que no se llamen Mor’du se enderecen **al inicio de su turno**.
 
-La clave es que ambas cartas miran ventanas temporales distintas, y además [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage Cursed Prince|Mor’du]] no está formulado aquí como un efecto de reemplazo de la sección 6.5, sino como una **restricción estática** sobre qué puede ocurrir en un momento muy concreto del turno:
+La clave es que ambas cartas miran ventanas temporales distintas, y además [Mor’du](https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384) no está formulado aquí como un efecto de reemplazo de la sección 6.5, sino como una **restricción estática** sobre qué puede ocurrir en un momento muy concreto del turno:
 
-- [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage Cursed Prince|Rooted by Fear]] solo bloquea el enderezado que ocurre durante el paso Ready al comienzo del turno.
-- [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|Understand the Balance]] crea una habilidad disparada que se resuelve al final del turno y endereza entonces a tus otros personajes.
+- [Rooted by Fear](https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384) solo bloquea el enderezado que ocurre durante el paso Ready al comienzo del turno.
+- [Understand the Balance](https://cards.lorcast.io/card/digital/large/crd_a94b5e02de4a43bdba60303fffe3d20f.avif?1730901319) crea una habilidad disparada que se resuelve al final del turno y endereza entonces a tus otros personajes.
 
 Por tanto, Mor'du no "cambia enderezar por no enderezar" en cualquier contexto. Lo que hace es decir que, **en el ready del inicio de tu turno**, esos personajes no pueden enderezarse. Eso no alcanza al enderezado producido más tarde por otra habilidad en otra ventana del turno. Si Simba está exerted al final de tu turno y resuelve su habilidad, tus otros personajes se enderezan con normalidad en ese momento.
 
@@ -48,25 +48,25 @@ Por eso, técnicamente, aquí la idea útil no es "Mor'du reemplaza el evento de
 
 ## 🔄 Cómo se resuelve
 
-1. Termina tu turno con [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|Simba - Pride Protector]] exerted.
-2. En la fase final del turno, se dispara [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|UNDERSTAND THE BALANCE]].
+1. Termina tu turno con [Simba - Pride Protector](https://cards.lorcast.io/card/digital/large/crd_a94b5e02de4a43bdba60303fffe3d20f.avif?1730901319) exerted.
+2. En la fase final del turno, se dispara [UNDERSTAND THE BALANCE](https://cards.lorcast.io/card/digital/large/crd_a94b5e02de4a43bdba60303fffe3d20f.avif?1730901319).
 3. Si decides resolverla, Simba endereza a tus otros personajes.
 4. Ese enderezado ocurre al final del turno, no en el paso Ready.
-5. Más tarde, cuando empiece tu siguiente turno, [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage Cursed Prince|ROOTED BY FEAR]] impedirá que tus personajes que no se llamen Mor’du se enderecen por el ready normal si aún siguieran exerted.
+5. Más tarde, cuando empiece tu siguiente turno, [ROOTED BY FEAR](https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384) impedirá que tus personajes que no se llamen Mor’du se enderecen por el ready normal si aún siguieran exerted.
 6. Si ya habían sido enderezados por Simba al final del turno anterior, Mor'du no deshace nada: simplemente no tiene nada más que impedir sobre esos personajes.
 
 ---
 
 ## 🧪 Ejemplo rápido
 
-- Controlas a [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage Cursed Prince|Mor’du - Savage Cursed Prince]], a [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Simba - Pride Protector|Simba - Pride Protector]] y a otros dos personajes exerted.
+- Controlas a [Mor’du - Savage Cursed Prince](https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384), a [Simba - Pride Protector](https://cards.lorcast.io/card/digital/large/crd_a94b5e02de4a43bdba60303fffe3d20f.avif?1730901319) y a otros dos personajes exerted.
 - Acabas tu turno con Simba también exerted.
 
 Resultado:
 
 1. Se dispara Simba al final del turno.
 2. Simba puede enderezar a Mor'du y a tus otros personajes.
-3. En tu siguiente paso Ready, [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Mor’du - Savage Cursed Prince|Mor’du]] solo impediría enderezar a los que siguieran exerted en ese momento.
+3. En tu siguiente paso Ready, [Mor’du](https://cards.lorcast.io/card/digital/large/crd_05dcb2ebcf1340c4a16fab77145a1fec.avif?1777687384) solo impediría enderezar a los que siguieran exerted en ese momento.
 4. Los que Simba ya enderezó siguen ready con normalidad.
 
 ---

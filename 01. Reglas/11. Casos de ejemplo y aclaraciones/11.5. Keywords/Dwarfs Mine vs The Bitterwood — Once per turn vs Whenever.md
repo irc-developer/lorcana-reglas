@@ -1,7 +1,7 @@
 ## ❓ Duda
 
-¿La habilidad de [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Seven Dwarfs' Mine - Secure Fortress|Seven Dwarfs' Mine - Secure Fortress]] puede dispararse varias veces en el mismo turno si cada vez muevo un personaje distinto?  
-¿Cómo se compara con textos tipo “whenever” como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Bitterwood - Underground Forest|The Bitterwood - Underground Forest]]?
+¿La habilidad de [Seven Dwarfs' Mine - Secure Fortress](https://cards.lorcast.io/card/digital/large/crd_30df26498319433588a4ee13b1397ea1.avif?1723917209) puede dispararse varias veces en el mismo turno si cada vez muevo un personaje distinto?  
+¿Cómo se compara con textos tipo “whenever” como [The Bitterwood - Underground Forest](https://cards.lorcast.io/card/digital/large/crd_d694639a68614bcc8d3a482c1f5c5da1.avif?1761763903)?
 
 ---
 

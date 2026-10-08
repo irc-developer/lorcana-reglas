@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Merida - Formidable Archer|Merida - Formidable Archer]] tiene STEADY AIM y una de tus acciones intenta infligir 1 daño a un personaje rival con Resist +1, ¿se dispara la habilidad aunque el personaje reciba 0?
+Si [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117) tiene STEADY AIM y una de tus acciones intenta infligir 1 daño a un personaje rival con Resist +1, ¿se dispara la habilidad aunque el personaje reciba 0?
 
 ---
 
@@ -18,7 +18,7 @@ Con Resist +1:
 - Si la acción intenta infligir 2 daños, el personaje recibe 1 y STEADY AIM se dispara. Sus 2 daños se reducen después a 1. El total recibido es **2**.
 - Si un escudo de Lilo o Rapunzel reemplaza el daño recibido de la acción, la acción sigue contando como que ha infligido daño y STEADY AIM también se dispara.
 
-No toda acción que coloca daño lo **inflige**. Si una acción **pone** contadores directamente, como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]], ese daño es *put damage*, no *deal damage*. STEADY AIM no se dispara en ese caso.
+No toda acción que coloca daño lo **inflige**. Si una acción **pone** contadores directamente, como [Malicious, Mean, and Scary](https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397), ese daño es *put damage*, no *deal damage*. STEADY AIM no se dispara en ese caso.
 
 La interacción completa con los dos escudos está desarrollada en [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño|Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño]].
 

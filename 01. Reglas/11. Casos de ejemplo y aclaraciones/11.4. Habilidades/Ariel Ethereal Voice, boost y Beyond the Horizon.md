@@ -1,6 +1,6 @@
 # ❓ Duda
 
-Si tengo [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Ariel - Ethereal Voice|Ariel - Ethereal Voice]] con boost (teniendo una carta bajo ella) en mesa y canto [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Beyond the Horizon|Beyond the Horizon]], ¿robo 3 cartas o 4 cartas (3+1)?
+Si tengo [Ariel - Ethereal Voice](https://cards.lorcast.io/card/digital/large/crd_43c967fc98154d6f86b8ac05b8953c10.avif?1761752005) con boost (teniendo una carta bajo ella) en mesa y canto [Beyond the Horizon](https://cards.lorcast.io/card/digital/large/crd_b653851369d8432198a23d09e7642dbd.avif?1747509532), ¿robo 3 cartas o 4 cartas (3+1)?
 
 # ✅ Respuesta
 

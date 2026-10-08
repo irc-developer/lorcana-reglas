@@ -1,5 +1,10 @@
 """Incorpora en la wiki los casos de Discord ya validados.
 
+Generador histórico del lote 2026-09-05, conservado como registro. Su plantilla
+y enlaces internos de cartas están superados por el workflow editorial actual;
+no debe reejecutarse para crear artículos públicos sin adaptar y verificar sus
+fuentes, redacción y enlaces de Lorcast.
+
 El script conserva los informes de validación originales y genera una capa de
 incorporación idempotente: los casos ya cubiertos se registran como duplicados,
 los relacionados añaden una adenda al artículo existente y los restantes crean

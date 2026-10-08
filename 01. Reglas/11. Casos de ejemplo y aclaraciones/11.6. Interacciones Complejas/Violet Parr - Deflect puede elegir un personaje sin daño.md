@@ -1,10 +1,10 @@
 ## ❓ Duda
 
-[[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Violet Parr - Learning New Powers|Violet Parr - Learning New Powers]] tiene:
+[Violet Parr - Learning New Powers](https://cards.lorcast.io/card/digital/large/crd_20da43997f8642f6b33d1fa04865209d.avif?1777687342) tiene:
 
 > *DEFLECT — When you play this character, you may move 1 damage from chosen character to chosen opposing character.*
 
-Si el oponente controla a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] sin daño, ¿puede Violet elegirlo como origen? ¿Cambiaría la respuesta si el texto dijera expresamente «chosen damaged character»?
+Si el oponente controla a [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) sin daño, ¿puede Violet elegirlo como origen? ¿Cambiaría la respuesta si el texto dijera expresamente «chosen damaged character»?
 
 ---
 
@@ -20,8 +20,8 @@ La respuesta sería distinta si el texto exigiera **`chosen damaged character`**
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Violet Parr - Learning New Powers|Violet Parr - Learning New Powers]]: distingue entre `chosen character` y una condición expresa de daño.
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]]: `DO YOUR WORST` obliga a los oponentes a elegirlo para acciones y habilidades si es posible, pero no añade una condición de daño.
+- [Violet Parr - Learning New Powers](https://cards.lorcast.io/card/digital/large/crd_20da43997f8642f6b33d1fa04865209d.avif?1777687342): distingue entre `chosen character` y una condición expresa de daño.
+- [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064): `DO YOUR WORST` obliga a los oponentes a elegirlo para acciones y habilidades si es posible, pero no añade una condición de daño.
 - [[20. Reglas CR 1.X/5. Cartas (cards)/5.1. Condiciones (Conditions).md#5.1.3. Dañada (Damaged)|Dañada]] y [[20. Reglas CR 1.X/5. Cartas (cards)/5.1. Condiciones (Conditions).md#5.1.4. Sin daño (Undamaged)|Sin daño]].
 - [[20. Reglas CR 1.X/9. Contadores de daño (Damage counters)/9. Contadores de daño (damage counters).md#9.3. Mover Contadores de Daño (Moving Damage Counters)|Mover contadores de daño]].
 - [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules).md#1.2.3. Hacer todo lo que se pueda|Hacer todo lo que se pueda]].

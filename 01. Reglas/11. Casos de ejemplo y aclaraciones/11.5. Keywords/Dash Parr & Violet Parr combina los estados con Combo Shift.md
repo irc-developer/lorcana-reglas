@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Dash Parr & Violet Parr - Super Siblings|Dash Parr & Violet Parr – Super Siblings]] usa Combo Shift sobre un Dash Parr seco y una Violet Parr que se está secando, ¿qué estado tiene la carta superior?
+Si [Dash Parr & Violet Parr – Super Siblings](https://cards.lorcast.io/card/digital/large/crd_466a0c6459a341b2a24c46147c255a4a.avif?1783190988) usa Combo Shift sobre un Dash Parr seco y una Violet Parr que se está secando, ¿qué estado tiene la carta superior?
 
 ¿Y si uno de los personajes está preparado y el otro agotado?
 

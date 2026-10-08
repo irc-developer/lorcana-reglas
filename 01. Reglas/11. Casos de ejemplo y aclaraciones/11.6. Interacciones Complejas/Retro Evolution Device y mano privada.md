@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Tras activar [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]], pagar 1 de tinta y desterrar el personaje elegido, ¿se puede resolver la habilidad aunque no haya un personaje legal que jugar con su efecto? ¿Se deshace el coste si el personaje que se iba a jugar está en una mano privada?
+Tras activar [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649), pagar 1 de tinta y desterrar el personaje elegido, ¿se puede resolver la habilidad aunque no haya un personaje legal que jugar con su efecto? ¿Se deshace el coste si el personaje que se iba a jugar está en una mano privada?
 
 ---
 
@@ -16,7 +16,7 @@ Esto no es lo mismo que iniciar una acción de turno ilegal para jugar una carta
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]]: exige agotar el objeto, pagar 1 de tinta y desterrar un personaje elegido como coste; después indica jugar un personaje gratis.
+- [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649): exige agotar el objeto, pagar 1 de tinta y desterrar un personaje elegido como coste; después indica jugar un personaje gratis.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities).md|6.3. Habilidades activadas]]: una habilidad activada se usa anunciándola y pagando su coste.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md|6.7.2.3. Seguir las instrucciones del texto]]: un efecto se resuelve tanto como sea posible.
 - [[01. Reglas/7. Zonas (Zones)/7.1. General.md|7.1. Zonas]] y [[01. Reglas/7. Zonas (Zones)/7.3. Mano (Hand).md|7.3. Mano]]: la mano es privada y no se puede inspeccionar por el oponente.
@@ -38,7 +38,7 @@ Esto no es lo mismo que iniciar una acción de turno ilegal para jugar una carta
 
 ## 🧮 «Hasta 2 más» no incluye costes inferiores
 
-La instrucción de [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]] dice jugar un personaje con coste **hasta 2 más** que el personaje desterrado.
+La instrucción de [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649) dice jugar un personaje con coste **hasta 2 más** que el personaje desterrado.
 
 Si el personaje desterrado tenía coste 5, los costes válidos son **5, 6 o 7**. Un personaje de coste 4 no es legal para esa instrucción: es un coste inferior, no un coste «hasta 2 más».
 
@@ -48,7 +48,7 @@ La comparación se hace con el coste que indica la carta que se está intentando
 
 ## 🔁 RED, efectos de reemplazo y Shift
 
-Cuando un efecto como [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]] dice jugar un personaje **gratis**, esa instrucción proporciona el coste alternativo que se usa para esa jugada. No permite escoger además el coste alternativo de **Shift**.
+Cuando un efecto como [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649) dice jugar un personaje **gratis**, esa instrucción proporciona el coste alternativo que se usa para esa jugada. No permite escoger además el coste alternativo de **Shift**.
 
 Por tanto:
 

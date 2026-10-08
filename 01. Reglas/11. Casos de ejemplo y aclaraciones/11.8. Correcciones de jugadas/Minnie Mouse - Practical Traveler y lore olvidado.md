@@ -29,7 +29,7 @@ Si el controlador de Minnie detecta el olvido **antes de terminar su propio turn
 
 ## 📘 Referencias
 
-- [Ficha oficial de Minnie Mouse - Practical Traveler](https://cards.disneylorcana.com/en-US/?cardId=2874): texto de Discerning Eye; véase también [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Minnie Mouse - Practical Traveler|Minnie Mouse - Practical Traveler]].
+- [Ficha oficial de Minnie Mouse - Practical Traveler](https://cards.disneylorcana.com/en-US/?cardId=2874): texto de Discerning Eye; véase también [Minnie Mouse - Practical Traveler](https://cards.lorcast.io/card/digital/large/crd_b760305650e54e7b84dcbeb7c014b0f5.avif?1777687781).
 - [Comprehensive Rules 2.2.0, 4.5.1–4.5.3](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): la quest concede primero su lore normal; después se resuelven las habilidades disparadas.
 - [Play Correction Guidelines, 2.1 *Missed Trigger*](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): definición, responsabilidad compartida, Caution, elección del oponente, límite de un ciclo de turnos y excepción del Warning competitivo. Adaptación local: [[04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md|Efecto disparado perdido]].
 

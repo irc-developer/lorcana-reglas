@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Por qué [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Prince Charming - Protector of the Realm|Prince Charming - Protector of the Realm]] deja de limitar los desafíos cuando abandona el juego, mientras que [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Pete - Games Referee|Pete - Games Referee]] sigue impidiendo jugar acciones aunque Pete abandone el juego?
+¿Por qué [Prince Charming - Protector of the Realm](https://cards.lorcast.io/card/digital/large/crd_fafe3c3da4484cf6b0485a5f5a1c557a.avif?1761764872) deja de limitar los desafíos cuando abandona el juego, mientras que [Pete - Games Referee](https://cards.lorcast.io/card/digital/large/crd_d82108b67c434df495ba7ce11b811e79.avif?1723917209) sigue impidiendo jugar acciones aunque Pete abandone el juego?
 
 ---
 
@@ -26,8 +26,8 @@ La diferencia no es que uno sea “más fuerte”, sino **cuándo se crea el efe
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Prince Charming - Protector of the Realm|Prince Charming - Protector of the Realm]]: restricción estática que funciona mientras la fuente está en juego.
-- [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Pete - Games Referee|Pete - Games Referee]]: habilidad disparada que crea una prohibición hasta un momento concreto.
+- [Prince Charming - Protector of the Realm](https://cards.lorcast.io/card/digital/large/crd_fafe3c3da4484cf6b0485a5f5a1c557a.avif?1761764872): restricción estática que funciona mientras la fuente está en juego.
+- [Pete - Games Referee](https://cards.lorcast.io/card/digital/large/crd_d82108b67c434df495ba7ce11b811e79.avif?1723917209): habilidad disparada que crea una prohibición hasta un momento concreto.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md|Habilidades estáticas]]: una habilidad estática de una carta en juego deja de aplicarse cuando su fuente abandona esa zona, salvo que el texto indique otra cosa.
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md|Fuente estática abandona el juego]].
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects).md|Efectos que crean modificaciones temporales]].

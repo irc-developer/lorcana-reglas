@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Al activar [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kida - Creative Thinker|Kida - Creative Thinker]], el jugador pone una carta en su mano y la otra en el fondo del mazo en vez de poner una en el pozo de tinta y la otra encima. ¿Qué error y remedio corresponden?
+Al activar [Kida - Creative Thinker](https://cards.lorcast.io/card/digital/large/crd_19e9e680d0d044d6a5fa0d39b5ab3206.avif?1740589756), el jugador pone una carta en su mano y la otra en el fondo del mazo en vez de poner una en el pozo de tinta y la otra encima. ¿Qué error y remedio corresponden?
 
 ---
 
@@ -14,7 +14,7 @@ Es un Card Count Error, Warning en Competitive. El resultado conocido es una car
 
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md|Conteo incorrecto en mano y pozo de tinta]]
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.3 Criterios para el rebobinado.md|Criterios de rebobinado]]
-- [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kida - Creative Thinker|Kida - Creative Thinker]]: la habilidad determina las dos zonas de destino.
+- [Kida - Creative Thinker](https://cards.lorcast.io/card/digital/large/crd_19e9e680d0d044d6a5fa0d39b5ab3206.avif?1740589756): la habilidad determina las dos zonas de destino.
 
 ---
 

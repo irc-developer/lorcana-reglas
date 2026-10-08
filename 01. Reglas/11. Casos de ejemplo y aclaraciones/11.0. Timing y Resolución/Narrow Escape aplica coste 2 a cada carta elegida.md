@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Cuando [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Narrow Escape|Narrow Escape]] permite devolver hasta 2 personajes, objetos o localizaciones «with cost 2 or less each», ¿el coste total de las dos cartas debe ser 2 o menos?
+Cuando [Narrow Escape](https://cards.lorcast.io/card/digital/large/crd_aa53ad0917d3427e91f3571662645e6a.avif?1783188735) permite devolver hasta 2 personajes, objetos o localizaciones «with cost 2 or less each», ¿el coste total de las dos cartas debe ser 2 o menos?
 
 ---
 

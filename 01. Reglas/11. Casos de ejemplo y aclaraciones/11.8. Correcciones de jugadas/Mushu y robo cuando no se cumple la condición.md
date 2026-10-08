@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Se roba una carta con [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Mushu - Stealthy Dragon|Mushu - Stealthy Dragon]] cuando el oponente tiene menos cartas en la mano. ¿Es GRE, HIE o CCE?
+Se roba una carta con [Mushu - Stealthy Dragon](https://cards.lorcast.io/card/digital/large/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871) cuando el oponente tiene menos cartas en la mano. ¿Es GRE, HIE o CCE?
 
 ---
 
@@ -12,7 +12,7 @@ Depende de dónde terminó la carta. Si se añadió a la mano, hay una carta de 
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Mushu - Stealthy Dragon|Mushu - Stealthy Dragon]]: el robo solo es posible si un oponente tiene más cartas en su mano.
+- [Mushu - Stealthy Dragon](https://cards.lorcast.io/card/digital/large/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871): el robo solo es posible si un oponente tiene más cartas en su mano.
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.2 Error de información oculta (Hidden Information Error).md|Hidden Information Error]]
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md|Card Count Error]]
 

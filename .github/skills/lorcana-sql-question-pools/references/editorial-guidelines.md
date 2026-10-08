@@ -118,3 +118,5 @@ Por tanto:
 - `VersionesReglamento.Codigo` es `2.1.0` salvo instrucción distinta.
 - El literal de `TipoVinculo` está confirmado.
 - Todas las cláusulas `WHERE NOT EXISTS` usan la misma clave de deduplicación que la plantilla.
+
+Para el lector, enlaza las imágenes de cartas de Lorcast con URL verificada de su API o del mapa `.github/planes/mapa-cartas-lorcast.json`, siguiendo `.github/instructions/lorcana-obsidian-links.instructions.md`. La verificación completa sigue usando las fichas locales de set, conservadas fuera del catálogo público. No generes wikilinks públicos a esas fichas; `consulta:` no escribe el mapa ni cachés.

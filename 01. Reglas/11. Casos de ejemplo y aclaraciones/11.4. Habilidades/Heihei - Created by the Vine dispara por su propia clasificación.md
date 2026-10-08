@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Heihei - Created by the Vine|Heihei – Created by the Vine]] se va de aventura, ¿se dispara su propia habilidad **Botanical Remedy** por ser Floodborn?
+Si [Heihei – Created by the Vine](https://cards.lorcast.io/card/digital/large/crd_1e46755f07de4f88a0039a236fdc86e5.avif?1783189913) se va de aventura, ¿se dispara su propia habilidad **Botanical Remedy** por ser Floodborn?
 
 ---
 

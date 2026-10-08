@@ -35,7 +35,7 @@ Aunque el ataque fuera a hacer **1** daño o **5** daños, el resultado es el mi
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de Reemplazo]]: si varias instancias del mismo efecto de reemplazo pueden aplicarse al mismo evento, el jugador afectado elige **una** y las demás **dejan de existir**.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5.8. Mismo efecto de reemplazo]]: incluye un ejemplo oficial precisamente con **Rapunzel - Ready for Adventure**.
-- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]]: **Act of Kindness** crea un efecto temporal de “la próxima vez que fuera a recibir daño, en su lugar no recibe daño”.
+- [Rapunzel - Ready for Adventure](https://cards.lorcast.io/card/digital/large/crd_70ae5f21fa1347b49ee910683e34d90e.avif?1761751909): **Act of Kindness** crea un efecto temporal de “la próxima vez que fuera a recibir daño, en su lugar no recibe daño”.
 
 ---
 

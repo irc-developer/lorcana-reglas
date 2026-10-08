@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-El jugador activo juega [[02. Listado de Cartas/Set 11 - Winterspell.md#Education or Elimination|Education or Elimination]] mientras el oponente controla a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]]. Elige la primera opción, que dice: «Draw a card. Chosen character of yours gets +1 {L} and gains Evasive until the start of your next turn».
+El jugador activo juega [Education or Elimination](https://cards.lorcast.io/card/digital/large/crd_69c74f5a7fcb431290622e2321e786fe.avif?1770259636) mientras el oponente controla a [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064). Elige la primera opción, que dice: «Draw a card. Chosen character of yours gets +1 {L} and gains Evasive until the start of your next turn».
 
 ¿Debe elegir a John Smith por su habilidad **Do Your Worst**, o puede elegir uno de sus propios personajes?
 
@@ -26,8 +26,8 @@ Si John Smith sí está dañado, entonces es una opción legal para esa segunda 
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Education or Elimination|Education or Elimination]]: la primera opción dice «chosen character of yours»; la segunda, «chosen damaged character».
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]]: «Opponents must choose this character for actions and abilities if able.»
+- [Education or Elimination](https://cards.lorcast.io/card/digital/large/crd_69c74f5a7fcb431290622e2321e786fe.avif?1770259636): la primera opción dice «chosen character of yours»; la segunda, «chosen damaged character».
+- [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064): «Opponents must choose this character for actions and abilities if able.»
 - [[01. Reglas/1. Principios generales/1.4 Cartas (Cards).md#1.4.3.1. Uso del You|CR 1.4.3.1 — “your” se refiere al jugador que jugó la carta o generó el efecto]].
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md#6.7.3. Legalidad de elecciones y selecciones|CR 6.7.3 — la elección debe cumplir todos los requisitos y limitadores]].
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage).md|CR 1.9 — «damaged» requiere que el personaje tenga daño]].

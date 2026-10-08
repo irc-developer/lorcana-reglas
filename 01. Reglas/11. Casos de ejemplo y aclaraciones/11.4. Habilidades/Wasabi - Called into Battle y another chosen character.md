@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-[[02. Listado de Cartas/Set 14 - Hyperia City.md#Wasabi - Called into Battle|Wasabi - Called into Battle]] tiene la habilidad **Twin Blades**:
+[Wasabi - Called into Battle](https://cards.lorcast.io/card/digital/large/crd_e374a2bd0f3c42bb87ab9f365f9b91fe.avif?1790278617) tiene la habilidad **Twin Blades**:
 
 > During your turn, whenever this character deals damage to another character in a challenge, deal damage equal to this character’s {S} to another chosen character.
 

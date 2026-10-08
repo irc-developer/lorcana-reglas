@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Tengo [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Basil - Disguised Detective|Basil - Disguised Detective]] y juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Cinderella - Dream Come True|Cinderella - Dream Come True]].  
+Tengo [Basil - Disguised Detective](https://cards.lorcast.io/card/digital/large/crd_1ee71443799d40dfb924b0c0f041ea5d.avif?1730901319) y juego [Cinderella - Dream Come True](https://cards.lorcast.io/card/digital/large/crd_31e94039c2494d31b8966443911b0fb2.avif?1761764547).  
 Al llegar a la fase final del turno y dispararse el efecto correspondiente, ¿puedo pagar costes en ese momento y usar la tinta recién añadida por Cenicienta para hacerlo?
 
 ---

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si controlo a [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]], cuya habilidad dice "During challenges, your characters deal damage with their Willpower instead of their Strength", y uno de mis personajes ya tiene daño marcado, ¿ese daño reduce la cantidad de daño que hará en el desafío?
+Si controlo a [Dale - Ready for His Shot](https://cards.lorcast.io/card/digital/large/crd_66a5c1d3ac3e4e2c894c5a8604c10cc2.avif?1777687217), cuya habilidad dice "During challenges, your characters deal damage with their Willpower instead of their Strength", y uno de mis personajes ya tiene daño marcado, ¿ese daño reduce la cantidad de daño que hará en el desafío?
 
 Ejemplo: si mi personaje tiene 4 {W} y ya tiene 2 de daño, ¿hará 2 o 4 de daño durante el challenge?
 
@@ -12,11 +12,11 @@ No. El daño recibido no reduce ni la Fuerza ni la Willpower del personaje. Con 
 
 El daño marcado solo se cuenta contra la Willpower para comprobar si el personaje es desterrado cuando se haga el game state check.
 
-Esta misma lógica también aclara una duda relacionada: [[02. Listado de Cartas/Set 12 - Wilds Unknown#Dale - Ready for His Shot|Dale - Ready for His Shot]] no hace que tus personajes "tengan Fuerza igual a su Voluntad" ni cambia su característica de {S}. Solo cambia qué valor usan para hacer daño durante desafíos.
+Esta misma lógica también aclara una duda relacionada: [Dale - Ready for His Shot](https://cards.lorcast.io/card/digital/large/crd_66a5c1d3ac3e4e2c894c5a8604c10cc2.avif?1777687217) no hace que tus personajes "tengan Fuerza igual a su Voluntad" ni cambia su característica de {S}. Solo cambia qué valor usan para hacer daño durante desafíos.
 
-Ejemplo directo: [[02. Listado de Cartas/Set 11 - Winterspell.md#Mulan - Resourceful Recruit|Mulan - Resourceful Recruit]] tiene 1 {S} y 4 {W}. Si controlas a Dale, cuando Mulan haga quest su habilidad **RIGOROUS TRAINING** seguirá mirando su {S} real, no su {W}, así que te hará ganar 1 lore, no 4, salvo que otro efecto sí aumente realmente su Fuerza.
+Ejemplo directo: [Mulan - Resourceful Recruit](https://cards.lorcast.io/card/digital/large/crd_3825929341ca42099c98d099ed40d2ac.avif?1770259509) tiene 1 {S} y 4 {W}. Si controlas a Dale, cuando Mulan haga quest su habilidad **RIGOROUS TRAINING** seguirá mirando su {S} real, no su {W}, así que te hará ganar 1 lore, no 4, salvo que otro efecto sí aumente realmente su Fuerza.
 
-Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de un personaje, como [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]], [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Sisu - Empowered Sibling|Sisu - Empowered Sibling]] o [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Headless Horseman - Terror of Sleepy Hollow|The Headless Horseman - Terror of Sleepy Hollow]]. Si un personaje tiene 1 {S} y 4 {W}, con Dale seguirá siendo un personaje de 1 {S} para esos efectos, aunque en un desafío haría 4 de daño.
+Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de un personaje, como [Under the Sea](https://cards.lorcast.io/card/digital/large/crd_dbd4475720c8479481050b2ba6ef3c5a.avif?1716052430), [Sisu - Empowered Sibling](https://cards.lorcast.io/card/digital/large/crd_1f7b39db813d495ea2aebf5c8e7ddcbe.avif?1716052430) o [The Headless Horseman - Terror of Sleepy Hollow](https://cards.lorcast.io/card/digital/large/crd_e50f2393108947e785165163324df9e2.avif?1761763709). Si un personaje tiene 1 {S} y 4 {W}, con Dale seguirá siendo un personaje de 1 {S} para esos efectos, aunque en un desafío haría 4 de daño.
 
 ---
 
@@ -45,7 +45,7 @@ La combinación de estas reglas lleva a esta conclusión:
 4. En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.2. Se hace el daño|4.6.6.2]], ambos personajes hacen daño simultáneamente.
 5. En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.3. GSC|4.6.6.3]] se comprueba si el daño total acumulado es igual o superior a la Willpower del personaje.
 6. Si lo es, se destierra según [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)#1.8.1.4. Daño sobre personajes o localizaciones|1.8.1.4]].
-7. Si después otro efecto como [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Under the Sea|Under the Sea]] o [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Sisu - Empowered Sibling|Sisu - Empowered Sibling]] mira la Fuerza de ese personaje, seguirá viendo su {S} real, no la {W} usada por Dale durante el desafío.
+7. Si después otro efecto como [Under the Sea](https://cards.lorcast.io/card/digital/large/crd_dbd4475720c8479481050b2ba6ef3c5a.avif?1716052430) o [Sisu - Empowered Sibling](https://cards.lorcast.io/card/digital/large/crd_1f7b39db813d495ea2aebf5c8e7ddcbe.avif?1716052430) mira la Fuerza de ese personaje, seguirá viendo su {S} real, no la {W} usada por Dale durante el desafío.
 
 ---
 

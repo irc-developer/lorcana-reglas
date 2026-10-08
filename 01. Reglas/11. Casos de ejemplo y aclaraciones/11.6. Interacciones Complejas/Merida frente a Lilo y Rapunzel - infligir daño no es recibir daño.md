@@ -1,8 +1,8 @@
 ## ❓ Duda
 
-Si una acción intenta infligir daño a un personaje protegido por [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]] o por [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]], ese personaje no recibe el daño.
+Si una acción intenta infligir daño a un personaje protegido por [Lilo - Bundled Up](https://cards.lorcast.io/card/digital/large/crd_f86297c4c6f940cc8135cd806d96105a.avif?1770260073) o por [Rapunzel - Ready for Adventure](https://cards.lorcast.io/card/digital/large/crd_70ae5f21fa1347b49ee910683e34d90e.avif?1761751909), ese personaje no recibe el daño.
 
-¿Se dispara aun así **STEADY AIM** de [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Merida - Formidable Archer|Merida - Formidable Archer]]? ¿Y qué ocurre si la acción, en vez de infligir daño, pone contadores como [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]]?
+¿Se dispara aun así **STEADY AIM** de [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117)? ¿Y qué ocurre si la acción, en vez de infligir daño, pone contadores como [Malicious, Mean, and Scary](https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397)?
 
 ---
 
@@ -61,8 +61,8 @@ La secuencia es equivalente con ACT OF KINDNESS: el reemplazo impide que el pers
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Malicious, Mean, and Scary|Malicious, Mean, and Scary]]: pone 1 contador de daño sobre cada personaje rival.
-- [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Merida - Formidable Archer|Merida - Formidable Archer]]: STEADY AIM exige que una acción inflija daño.
+- [Malicious, Mean, and Scary](https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397): pone 1 contador de daño sobre cada personaje rival.
+- [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117): STEADY AIM exige que una acción inflija daño.
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9. Daño]]: distingue infligir, poner, mover y recibir daño.
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.5. Daño reducido a 0|1.9.5. Daño reducido a 0]]: una fuente puede seguir considerándose que ha infligido daño aunque el receptor no reciba ninguno.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]: un reemplazo puede modificar el evento que recibe el personaje.

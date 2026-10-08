@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 1 - The First Chapter.md#Stitch - Rock Star|Stitch - Rock Star]] permite agotar un personaje recién jugado mediante ADORING FANS, ¿ese personaje cuenta como que entró en juego agotado para BECKON de [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Merida - Wisp Conjurer|Merida - Wisp Conjurer]]? ¿Y qué ocurre al hacer Shift sobre un personaje ya agotado?
+Si [Stitch - Rock Star](https://cards.lorcast.io/card/digital/large/crd_c32945ecfd3d44859d3af3841977a737.avif?1709690747) permite agotar un personaje recién jugado mediante ADORING FANS, ¿ese personaje cuenta como que entró en juego agotado para BECKON de [Merida - Wisp Conjurer](https://cards.lorcast.io/card/digital/large/crd_19d100267c654ec9af67ccb264c3bcbe.avif?1783190707)? ¿Y qué ocurre al hacer Shift sobre un personaje ya agotado?
 
 ---
 
@@ -16,8 +16,8 @@ La misma distinción explica FOCUSED ENERGY de Merida: si eliges usarla, Merida 
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 1 - The First Chapter.md#Stitch - Rock Star|Stitch - Rock Star]]: Adoring Fans permite agotar el personaje que acabas de jugar.
-- [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Merida - Wisp Conjurer|Merida - Wisp Conjurer]]: BECKON se dispara cuando otro personaje propio entra en juego agotado y FOCUSED ENERGY permite que Merida entre agotada.
+- [Stitch - Rock Star](https://cards.lorcast.io/card/digital/large/crd_c32945ecfd3d44859d3af3841977a737.avif?1709690747): Adoring Fans permite agotar el personaje que acabas de jugar.
+- [Merida - Wisp Conjurer](https://cards.lorcast.io/card/digital/large/crd_19d100267c654ec9af67ccb264c3bcbe.avif?1783190707): BECKON se dispara cuando otro personaje propio entra en juego agotado y FOCUSED ENERGY permite que Merida entre agotada.
 - [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md|8.10. Shift]]: al hacer Shift sobre una carta agotada, el personaje resultante entra agotado.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.9. Cómo entran las cartas en juego|6.7.9. Cómo entran las cartas en juego]]: los efectos que modifican la entrada se aplican mientras la carta entra.
 - [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Attack of the Vine Set Release Notes]], aclaración oficial de Merida - Wisp Conjurer: la elección de entrar agotada se realiza al ponerla en juego.

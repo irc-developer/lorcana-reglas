@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si el rival tiene personajes con Guardaespaldas (Bodyguard), ¿debo desafiarlos? ¿Qué cambia al poder desafiar preparados con [[02. Listado de Cartas/Set 14 - Hyperia City.md#Shere Khan - Khan Industries CEO|Shere Khan - Khan Industries CEO]], al ganar Bodyguard antes de entrar o al tener una prohibición de ser desafiado?
+Si el rival tiene personajes con Guardaespaldas (Bodyguard), ¿debo desafiarlos? ¿Qué cambia al poder desafiar preparados con [Shere Khan - Khan Industries CEO](https://cards.lorcast.io/card/digital/large/crd_dae10098369548f3bf33437859828c25.avif?1790194847), al ganar Bodyguard antes de entrar o al tener una prohibición de ser desafiado?
 
 ---
 
@@ -26,7 +26,7 @@ Esto no se aplica a un efecto resuelto que solo concedió Bodyguard a las cartas
 
 **No obliga a elegir una opción ilegal.** Si un efecto le impide ser desafiado, se comprueba si hay otro Guardaespaldas legal; si no lo hay, se puede elegir otro personaje legal.
 
-Por ejemplo, [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Diablo - Stone Servant|Diablo - Stone Servant]] agotado impide desafiar a tus Villains mediante **VILLAINOUS BOND**. Un Guardaespaldas afectado por esa prohibición no bloquea por sí solo los desafíos a otros personajes legales.
+Por ejemplo, [Diablo - Stone Servant](https://cards.lorcast.io/card/digital/large/crd_3b6a0713a14849bd9a660f147308111d.avif?1777687918) agotado impide desafiar a tus Villains mediante **VILLAINOUS BOND**. Un Guardaespaldas afectado por esa prohibición no bloquea por sí solo los desafíos a otros personajes legales.
 
 ---
 

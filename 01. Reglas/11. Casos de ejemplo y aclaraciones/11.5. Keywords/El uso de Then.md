@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Con [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Shere Khan - Fearsome Tiger|Shere Khan - Fearsome Tiger]] al questear, la habilidad indica primero una acción y luego otra con “then”.
+Con [Shere Khan - Fearsome Tiger](https://cards.lorcast.io/card/digital/large/crd_3a25fa761fb34e3d96aacc65d82eb2af.avif?1761752360) al questear, la habilidad indica primero una acción y luego otra con “then”.
 
 Si la primera parte no puede realizarse por falta de objetivo legal, ¿la segunda parte puede resolverse igualmente?
 
@@ -14,7 +14,7 @@ En Lorcana, “then” ordena la secuencia de resolución, pero no crea por sí 
 
 Por tanto, si la primera cláusula falla por imposibilidad legal y la segunda sigue siendo legal e independiente, la segunda se resuelve.
 
-Esto también cubre casos en los que la primera parte es opcional o permite hacer 0, como [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Casa Madrigal - Casita|Casa Madrigal - Casita]]. Si un personaje tuyo hace quest allí, puedes no quitar daño de ese personaje, o quitar 0 si no tiene daño, y aun así quitar hasta 2 de daño de la localización. El “then” solo marca que primero va la parte del personaje y después la de la localización; no exige haber retirado daño del personaje para poder hacer la segunda parte.
+Esto también cubre casos en los que la primera parte es opcional o permite hacer 0, como [Casa Madrigal - Casita](https://cards.lorcast.io/card/digital/large/crd_3d71ecca4c6c4ec8ba289a785f237535.avif?1716052430). Si un personaje tuyo hace quest allí, puedes no quitar daño de ese personaje, o quitar 0 si no tiene daño, y aun así quitar hasta 2 de daño de la localización. El “then” solo marca que primero va la parte del personaje y después la de la localización; no exige haber retirado daño del personaje para poder hacer la segunda parte.
 
 La redacción que sí convertiría la segunda parte en dependiente de la primera sería una condición expresa como “if you do”.
 

@@ -18,7 +18,7 @@ applyTo:
 ## Escribir para quien está aprendiendo
 
 - Abre con el resultado y explica el motivo en lenguaje claro. Cada párrafo debe aportar una condición necesaria, una consecuencia distinta, una explicación o una referencia consultable.
-- Verifica cartas y reglas completas durante el trabajo; en el artículo cita solo el texto relevante y enlaza la ficha y la fuente oficial. Conserva los epígrafes o páginas necesarios sin repetirlos en varios bloques.
+- Verifica cartas y reglas completas durante el trabajo; en el artículo cita solo el texto relevante y enlaza la imagen exacta de Lorcast y la fuente oficial. Las fichas de set se conservan localmente para evidencia; no son destinos públicos. Conserva los epígrafes o páginas necesarios sin repetirlos en varios bloques.
 - El artículo no es un registro de investigación: excluye fechas de búsqueda, comprobaciones de enlaces, hashes, estado del índice o del MCP, errores de recuperación, autorizaciones y la historia de las capturas que originaron la pregunta. Las incidencias de trabajo se comunican en la conversación o en un registro interno cuando corresponda.
 - Evita repetir la misma conclusión en respuesta, tabla, secuencia y errores frecuentes. Conserva ejemplos o variantes que cambien el resultado o resuelvan una confusión distinta. Los costes, disparos y GSC se explican cuando son decisivos, no como cierre genérico.
 - No añadas descargos repetidos de «inferencia editorial», «ejemplo didáctico» o «no es una FAQ oficial». Explica la aplicación de las reglas sin atribuirla a una aclaración oficial que no existe. Conserva una nota breve si hay incertidumbre material, conflicto de fuentes, traducción de trabajo o un ámbito limitado que el lector deba conocer.

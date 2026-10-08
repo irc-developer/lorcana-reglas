@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Un jugador usa [[02. Listado de Cartas/Set 11 - Winterspell.md#Pete - Ghost of Christmas Future|Pete - Ghost of Christmas Future]], coloca mal las cartas en el fondo y después juega [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Merlin - Envisioning the Future|Merlin - Envisioning the Future]]. Al descubrir el error, ¿puede deshacer la habilidad de Pete?
+Un jugador usa [Pete - Ghost of Christmas Future](https://cards.lorcast.io/card/digital/large/crd_cc4685ee359648a9b100d7a20c00ee5f.avif?1770259895), coloca mal las cartas en el fondo y después juega [Merlin - Envisioning the Future](https://cards.lorcast.io/card/digital/large/crd_ffac3ba82292480ba3fa2114f0c7a3f8.avif?1783189179). Al descubrir el error, ¿puede deshacer la habilidad de Pete?
 
 ---
 
@@ -14,7 +14,7 @@ No. La habilidad de Pete fue una jugada anterior ya completada. Jugar Merlin fue
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Jugada más reciente]]
 - [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.3 Criterios para el rebobinado.md|Información y decisiones posteriores]]
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Pete - Ghost of Christmas Future|Pete - Ghost of Christmas Future]] y [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Merlin - Envisioning the Future|Merlin - Envisioning the Future]]
+- [Pete - Ghost of Christmas Future](https://cards.lorcast.io/card/digital/large/crd_cc4685ee359648a9b100d7a20c00ee5f.avif?1770259895) y [Merlin - Envisioning the Future](https://cards.lorcast.io/card/digital/large/crd_ffac3ba82292480ba3fa2114f0c7a3f8.avif?1783189179)
 
 ---
 

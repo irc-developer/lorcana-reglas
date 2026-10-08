@@ -208,3 +208,5 @@ Si el usuario además pide contexto editorial, preceder el SQL con un resumen br
 - [Guía editorial](./references/editorial-guidelines.md)
 - [Arquitectura de workflow](./references/workflow-architecture.md)
 - [Plantilla SQL](./references/sql-output-template.md)
+
+Para el lector, enlaza las imágenes de cartas de Lorcast con URL verificada de su API o del mapa `.github/planes/mapa-cartas-lorcast.json`, siguiendo `.github/instructions/lorcana-obsidian-links.instructions.md`. La verificación completa sigue usando las fichas locales de set, conservadas fuera del catálogo público. No generes wikilinks públicos a esas fichas; `consulta:` no escribe el mapa ni cachés.

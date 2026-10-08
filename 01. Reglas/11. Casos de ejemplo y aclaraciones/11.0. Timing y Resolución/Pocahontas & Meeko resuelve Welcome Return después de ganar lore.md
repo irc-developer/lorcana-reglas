@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Cuando [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Pocahontas & Meeko - Adventurous Friends|Pocahontas & Meeko – Adventurous Friends]] se va de aventura, ¿se resuelve **Welcome Return** antes o después de ganar el lore de la aventura?
+Cuando [Pocahontas & Meeko – Adventurous Friends](https://cards.lorcast.io/card/digital/large/crd_1337332b5317428c95c1129cf645924f.avif?1783190674) se va de aventura, ¿se resuelve **Welcome Return** antes o después de ganar el lore de la aventura?
 
 ---
 

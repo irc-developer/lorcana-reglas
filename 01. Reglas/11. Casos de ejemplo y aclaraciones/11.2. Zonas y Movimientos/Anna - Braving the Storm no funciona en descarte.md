@@ -2,7 +2,7 @@
 
 ## ❓ Duda
 
-Si controlo [[02. Listado de Cartas/Set 11 - Winterspell.md#Anna - Soothing Sister|Anna - Soothing Sister]] y tengo [[02. Listado de Cartas/Set 9 - Fabled.md#Anna - Braving the Storm|Anna - Braving the Storm]] en mi descarte, ¿cuánto lore puedo ganar cuando Anna - Soothing Sister hace quest?
+Si controlo [Anna - Soothing Sister](https://cards.lorcast.io/card/digital/large/crd_be89cf4d06b54426801f296b3cbf751d.avif?1770259425) y tengo [Anna - Braving the Storm](https://cards.lorcast.io/card/digital/large/crd_22030877f3b6497d841ffef288b491ab.avif?1755541070) en mi descarte, ¿cuánto lore puedo ganar cuando Anna - Soothing Sister hace quest?
 
 La duda aparece porque Anna - Braving the Storm tiene **1 {L}** impreso, pero su habilidad **I WAS BORN READY** dice que, si tienes otro Hero character en juego, obtiene **+1 {L}**. ¿Ese +1 cuenta aunque la carta esté en el descarte?
 

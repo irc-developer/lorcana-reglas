@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Activo **Boost** de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Cheshire Cat - Inexplicable|Cheshire Cat - Inexplicable]], pago la tinta y olvido poner la carta superior del mazo boca abajo debajo del gato. Lo detecto en el turno rival, sin haber robado. ¿Se pone ahora o se deja así?
+Activo **Boost** de [Cheshire Cat - Inexplicable](https://cards.lorcast.io/card/digital/large/crd_19c39ba1fb674390bbb747f8cdcaa9c3.avif?1761752209), pago la tinta y olvido poner la carta superior del mazo boca abajo debajo del gato. Lo detecto en el turno rival, sin haber robado. ¿Se pone ahora o se deja así?
 
 ---
 

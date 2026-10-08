@@ -2,5 +2,21 @@
   "siteId": "85cdf99f8580924ea7625118b7a615a6",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": []
+  "excluded": [
+    "02. Listado de Cartas/Illumineer's Quest - Palace Heist.md",
+    "02. Listado de Cartas/Set 1 - The First Chapter.md",
+    "02. Listado de Cartas/Set 10 - Whispers in the Well.md",
+    "02. Listado de Cartas/Set 11 - Winterspell.md",
+    "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+    "02. Listado de Cartas/Set 13 - Attack of the Vine.md",
+    "02. Listado de Cartas/Set 14 - Hyperia City.md",
+    "02. Listado de Cartas/Set 2 - Rise of the Floodborn.md",
+    "02. Listado de Cartas/Set 3 - Into the Inklands.md",
+    "02. Listado de Cartas/Set 4 - Ursula's Return.md",
+    "02. Listado de Cartas/Set 5 - Shimmering Skies.md",
+    "02. Listado de Cartas/Set 6 - Azurite Sea.md",
+    "02. Listado de Cartas/Set 7 - Archazia''s Island.md",
+    "02. Listado de Cartas/Set 8 - Reign of Jafar.md",
+    "02. Listado de Cartas/Set 9 - Fabled.md"
+  ]
 }

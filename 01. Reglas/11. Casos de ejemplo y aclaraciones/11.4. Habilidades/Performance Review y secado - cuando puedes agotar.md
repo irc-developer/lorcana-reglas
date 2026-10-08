@@ -46,7 +46,7 @@ Por tanto, un personaje secándose no puede pagarlo.
 - [[1.7. Game Actions, Timing, y Illegal Actions|1.7.5]]: restricciones de un personaje secándose.
 - [[4.3. Jugar una carta (Play a Card)|4.3.2.4]]: pagar los costes adicionales de la carta.
 - [[5.1. Estados de las cartas (Card States)|5.1.1.11–5.1.1.12]]: agotar para pagar un coste según el estado del personaje.
-- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Performance Review|Performance Review]]: texto completo.
+- [Performance Review](https://cards.lorcast.io/card/digital/large/crd_222374c54b4848939d442c144758404e.avif?1761752265): texto completo.
 
 ---
 

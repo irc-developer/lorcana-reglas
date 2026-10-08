@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Después de cantar [[02. Listado de Cartas/Set 14 - Hyperia City.md#Remember Me|Remember Me]], ¿puedo seguir jugando personajes desde la mano? Si también tengo a [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#The Horned King - Merciless Master|The Horned King - Merciless Master]] agotado, ¿puedo usar **CAULDRON'S POWER** para evitar la restricción de nombres de la canción?
+Después de cantar [Remember Me](https://cards.lorcast.io/card/digital/large/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527), ¿puedo seguir jugando personajes desde la mano? Si también tengo a [The Horned King - Merciless Master](https://cards.lorcast.io/card/digital/large/crd_979b5517872f41dd902e486a8d50435f.avif?1783188492) agotado, ¿puedo usar **CAULDRON'S POWER** para evitar la restricción de nombres de la canción?
 
 ---
 

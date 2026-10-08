@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Tienes 2× [[02. Listado de Cartas/Set 11 - Winterspell.md#Grandmother Willow - Ancient Advisor|Grandmother Willow]] en juego (−2 total) + cantas [[02. Listado de Cartas/Set 11 - Winterspell.md#Akood et Emuti|Akood et Emuti]] (−2). Total: −4. 
+Tienes 2× [Grandmother Willow](https://cards.lorcast.io/card/digital/large/crd_a3822d68287f451baa20438d5a31e307.avif?1770259256) en juego (−2 total) + cantas [Akood et Emuti](https://cards.lorcast.io/card/digital/large/crd_ff15d454e2f84f89a64bf17216e0b5f4.avif?1770259330) (−2). Total: −4. 
 
 Juegas un personaje coste 1 → pagas 0. ¿Las −3 "sobrantes" quedan para el próximo personaje?
 

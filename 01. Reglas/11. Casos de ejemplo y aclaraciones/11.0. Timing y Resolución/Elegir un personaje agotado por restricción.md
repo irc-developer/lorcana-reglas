@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Puedo enderezar por efecto a [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Demona - Betrayer of the Clan|Demona - Betrayer of the Clan]] si su restricción está activa?
+¿Puedo enderezar por efecto a [Demona - Betrayer of the Clan](https://cards.lorcast.io/card/digital/large/crd_35f7836ceed84e21ba7cfdde813d73bc.avif?1761752117) si su restricción está activa?
 
 ---
 

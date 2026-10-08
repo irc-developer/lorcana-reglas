@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Puede [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Mickey Mouse & Minnie Mouse - Adventuring Duo|Mickey Mouse & Minnie Mouse – Adventuring Duo]] usar Duo Shift sobre un único personaje llamado Mickey Mouse & Minnie Mouse?
+¿Puede [Mickey Mouse & Minnie Mouse – Adventuring Duo](https://cards.lorcast.io/card/digital/large/crd_9da69a8f49044384b91e145fdb0a4846.avif?1783858426) usar Duo Shift sobre un único personaje llamado Mickey Mouse & Minnie Mouse?
 
 ¿Qué ocurre si los dos personajes usados tienen estados distintos?
 

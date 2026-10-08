@@ -90,3 +90,6 @@ Resolver de forma corta y verificable dos pasos:
 - https://lorcana-api.com/docs/sets/fetching-sets
 - https://lorcana-api.com/docs/cards/parameters/search-parameter
 - https://lorcana-api.com/docs/cards/parameters/displayonly-parameter
+## Presentación pública de las cartas
+
+Las importaciones de set mantienen el corpus local de verificación en `02. Listado de Cartas/`; las fichas extensas están excluidas de Publish. No añadir enlaces públicos a sus epígrafes ni volver a convertir «Cartas de Lorcana» en una lista de sets. Para artículos de reglas, verificar la correspondencia exacta en Lorcast y usar la URL de `image_uris.digital.large` o el mapa verificado según la instrucción de enlaces. La fuente de importación del texto local conserva su procedencia; Lorcast facilita el destino de lectura y no sustituye la autoridad normativa.

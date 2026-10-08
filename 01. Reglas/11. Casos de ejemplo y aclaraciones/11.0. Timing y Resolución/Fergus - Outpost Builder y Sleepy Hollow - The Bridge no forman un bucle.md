@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Durante mi turno controlo a [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Fergus - Outpost Builder|Fergus - Outpost Builder]], preparado, seco y en [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Sleepy Hollow - The Bridge|Sleepy Hollow - The Bridge]]. Fergus va de aventura y quedan pendientes **JUST THE SPOT** y **HEAD FOR THE BRIDGE!**.
+Durante mi turno controlo a [Fergus - Outpost Builder](https://cards.lorcast.io/card/digital/large/crd_e9a024091f294cfab0aebe2882414fdc.avif?1777687910), preparado, seco y en [Sleepy Hollow - The Bridge](https://cards.lorcast.io/card/digital/large/crd_98339be4f48249779fb2ae2de3e9b757.avif?1761773967). Fergus va de aventura y quedan pendientes **JUST THE SPOT** y **HEAD FOR THE BRIDGE!**.
 
 ¿Puedo resolver primero Sleepy Hollow, desterrarla para ganar 2 lore y dar Evasive a Fergus, y después jugar esa misma carta gratis desde mi descarte con Fergus? ¿Se repite la interacción indefinidamente?
 

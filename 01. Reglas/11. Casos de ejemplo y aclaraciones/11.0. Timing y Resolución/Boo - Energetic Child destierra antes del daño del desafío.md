@@ -1,8 +1,8 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Boo - Energetic Child|Boo – Energetic Child]] desafía a un personaje con 3 {S} o menos, como [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Piglet - Hunny Mage Apprentice|Piglet – Hunny Mage Apprentice]], ¿cómo puede **Kid-Tastrophe!** desterrarlo sin que se inflija daño en el desafío?
+Si [Boo – Energetic Child](https://cards.lorcast.io/card/digital/large/crd_e597aba9dc5748e49621c84f4da6f30a.avif?1783189041) desafía a un personaje con 3 {S} o menos, como [Piglet – Hunny Mage Apprentice](https://cards.lorcast.io/card/digital/large/crd_13f630d1cccb4913b54f560aa5df832e.avif?1783189577), ¿cómo puede **Kid-Tastrophe!** desterrarlo sin que se inflija daño en el desafío?
 
-En particular, el jugador activo controla a Boo preparada y declara un desafío legal contra [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Scrooge McDuck - S.H.U.S.H. Agent|Scrooge McDuck – S.H.U.S.H. Agent]] del oponente, agotado y con su Fuerza impresa de 0, sin otros efectos que alteren la resolución. ¿Scrooge queda desterrado o vuelve a la mano por **On the Move**?
+En particular, el jugador activo controla a Boo preparada y declara un desafío legal contra [Scrooge McDuck – S.H.U.S.H. Agent](https://cards.lorcast.io/card/digital/large/crd_4572c32844ee48398f43a1c7aa86826d.avif?1761752364) del oponente, agotado y con su Fuerza impresa de 0, sin otros efectos que alteren la resolución. ¿Scrooge queda desterrado o vuelve a la mano por **On the Move**?
 
 ---
 

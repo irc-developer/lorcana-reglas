@@ -1,3 +1,9 @@
+"""Generador histórico del lote 2026-09-06, conservado como registro.
+
+Sus referencias de cartas y plantilla están superadas. No reejecutar para
+crear artículos públicos sin adaptar y verificar el workflow actual y los
+enlaces de Lorcast de herramientas/enlaces_cartas.
+"""
 from __future__ import annotations
 
 import hashlib

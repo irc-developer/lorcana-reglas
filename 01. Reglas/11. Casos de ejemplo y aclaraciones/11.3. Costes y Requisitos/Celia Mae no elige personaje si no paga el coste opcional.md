@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Celia Mae - Friendly Receptionist|Celia Mae – Friendly Receptionist]] y no tienes tinta preparada para pagar **Please Hold**, ¿debes elegir de todos modos un personaje que no podrá irse de aventura ni desafiar?
+Si juegas [Celia Mae – Friendly Receptionist](https://cards.lorcast.io/card/digital/large/crd_b8569f3f5fd643c4adacaa5ee82c5e9e.avif?1783188259) y no tienes tinta preparada para pagar **Please Hold**, ¿debes elegir de todos modos un personaje que no podrá irse de aventura ni desafiar?
 
 ---
 

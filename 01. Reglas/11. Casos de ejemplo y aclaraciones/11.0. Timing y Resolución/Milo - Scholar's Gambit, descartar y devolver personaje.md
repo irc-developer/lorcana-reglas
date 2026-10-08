@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-La habilidad **SCHOLAR'S GAMBIT** de [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Milo Thatch - Getting His Hands Dirty|Milo Thatch - Getting His Hands Dirty]] dice:
+La habilidad **SCHOLAR'S GAMBIT** de [Milo Thatch - Getting His Hands Dirty](https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777688057) dice:
 
 > *When you play this character, you may choose and discard a card to return chosen character to their player's hand.*
 
@@ -22,7 +22,7 @@ Esto no debe confundirse con una redacción hipotética como «puedes elegir un 
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Milo Thatch - Getting His Hands Dirty|Milo Thatch - Getting His Hands Dirty]]: `choose and discard a card to return chosen character` vincula el descarte con el efecto de devolver.
+- [Milo Thatch - Getting His Hands Dirty](https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777688057): `choose and discard a card to return chosen character` vincula el descarte con el efecto de devolver.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|Efectos secuenciales]]: una parte que sirve para realizar otra no se convierte en una acción independiente por el mero hecho de estar separada por palabras.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md#6.7.2.3. Tercer paso - seguir las instrucciones del texto|Hacer todo lo posible en el orden escrito]].
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md|Descartar como requisito para resolver una habilidad]].

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si juego o canto [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Let The Storm Rage On|Let The Storm Rage On]] como mi última carta en mano y elijo como objetivo a [[02. Listado de Cartas/Set 11 - Winterspell.md#Angel - Experiment 624|Angel - Experiment 624]], cuya habilidad UNTOUCHABLE dice “While you have no cards in your hand, this character gains Resist +2”, ¿Angel gana ese Resist +2 a tiempo para reducir el daño del propio Let?
+Si juego o canto [Let The Storm Rage On](https://cards.lorcast.io/card/digital/large/crd_ce1ec049b9994d6fae071a0f74886cb3.avif?1709690747) como mi última carta en mano y elijo como objetivo a [Angel - Experiment 624](https://cards.lorcast.io/card/digital/large/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055), cuya habilidad UNTOUCHABLE dice “While you have no cards in your hand, this character gains Resist +2”, ¿Angel gana ese Resist +2 a tiempo para reducir el daño del propio Let?
 
 ---
 
@@ -8,9 +8,9 @@ Si juego o canto [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Let Th
 
 Sí.
 
-Si [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Let The Storm Rage On|Let The Storm Rage On]] era tu última carta en mano, al jugarla tu mano queda vacía mientras la acción se está resolviendo. Como UNTOUCHABLE genera un efecto dependiente de una condición desde una carta que ya está en juego, [[02. Listado de Cartas/Set 11 - Winterspell.md#Angel - Experiment 624|Angel - Experiment 624]] gana Resist +2 en ese mismo momento.
+Si [Let The Storm Rage On](https://cards.lorcast.io/card/digital/large/crd_ce1ec049b9994d6fae071a0f74886cb3.avif?1709690747) era tu última carta en mano, al jugarla tu mano queda vacía mientras la acción se está resolviendo. Como UNTOUCHABLE genera un efecto dependiente de una condición desde una carta que ya está en juego, [Angel - Experiment 624](https://cards.lorcast.io/card/digital/large/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055) gana Resist +2 en ese mismo momento.
 
-[[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Let The Storm Rage On|Let The Storm Rage On]] se resuelve en orden: primero “Deal 2 damage to chosen character” y después “Draw a card”. Cuando se calcula ese primer daño, Angel ya tiene Resist +2, así que esos 2 daños se reducen a 0. Solo después robas la carta; en ese momento Angel deja de cumplir la condición y pierde ese Resist +2.
+[Let The Storm Rage On](https://cards.lorcast.io/card/digital/large/crd_ce1ec049b9994d6fae071a0f74886cb3.avif?1709690747) se resuelve en orden: primero “Deal 2 damage to chosen character” y después “Draw a card”. Cuando se calcula ese primer daño, Angel ya tiene Resist +2, así que esos 2 daños se reducen a 0. Solo después robas la carta; en ese momento Angel deja de cumplir la condición y pierde ese Resist +2.
 
 Da igual si la acción se pagó con tinta o se cantó: en ambos casos la carta deja tu mano al jugarse y el efecto se resuelve con el estado actual de la partida.
 
@@ -31,9 +31,9 @@ Si no era tu última carta en mano, Angel no gana ese Resist +2 y recibirá el d
 
 ## 🔄 Cómo se resuelve
 
-1. Juegas o cantas [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Let The Storm Rage On|Let The Storm Rage On]] desde tu mano.
+1. Juegas o cantas [Let The Storm Rage On](https://cards.lorcast.io/card/digital/large/crd_ce1ec049b9994d6fae071a0f74886cb3.avif?1709690747) desde tu mano.
 2. Al jugarla, esa carta deja tu mano y pasa a resolverse como acción.
-3. Si era tu última carta en mano, [[02. Listado de Cartas/Set 11 - Winterspell.md#Angel - Experiment 624|Angel - Experiment 624]] pasa a cumplir UNTOUCHABLE porque genera un efecto dependiente de una condición desde una carta ya en juego.
+3. Si era tu última carta en mano, [Angel - Experiment 624](https://cards.lorcast.io/card/digital/large/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055) pasa a cumplir UNTOUCHABLE porque genera un efecto dependiente de una condición desde una carta ya en juego.
 4. Se resuelve la primera frase de Let: infligir 2 de daño al personaje elegido.
 5. En el cálculo de ese daño se aplican los modificadores correspondientes, incluido Resist +2 de Angel.
 6. El daño final queda en 0, así que no se considera que Angel haya recibido daño infligido.

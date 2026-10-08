@@ -17,7 +17,7 @@ La distinción importante es esta:
 
 ### Aplicación a Jessie
 
-Si controlas a [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Jessie - Lively Cowgirl|Jessie - Lively Cowgirl]] y juegas un personaje mediante [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]] o mediante otro efecto que diga que lo juegas gratis, la carta se juega gratis y se han pagado 0 de tinta. Por ello se cumple YODEL-AY-HEE-HOO, que mira si se pagaron 2 de tinta o menos.
+Si controlas a [Jessie - Lively Cowgirl](https://cards.lorcast.io/card/digital/large/crd_c0337343682c4e9e9bac90b90fb4f24a.avif?1777688023) y juegas un personaje mediante [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649) o mediante otro efecto que diga que lo juegas gratis, la carta se juega gratis y se han pagado 0 de tinta. Por ello se cumple YODEL-AY-HEE-HOO, que mira si se pagaron 2 de tinta o menos.
 
 ---
 

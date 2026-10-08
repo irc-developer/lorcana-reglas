@@ -13,7 +13,8 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[2]
 CASOS = "01. Reglas/11. Casos de ejemplo y aclaraciones/"
-RAIZ_EDITORIAL = {"Empecemos.md", "Registro de Tags - Master List.md"}
+RAIZ_EDITORIAL = {"Empecemos.md", "Registro de Tags - Master List.md",
+                  "02. Listado de Cartas/Cartas de Lorcana.md"}
 
 
 class PublicacionError(RuntimeError):

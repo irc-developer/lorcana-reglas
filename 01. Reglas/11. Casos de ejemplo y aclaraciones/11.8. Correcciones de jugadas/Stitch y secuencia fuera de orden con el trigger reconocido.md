@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Angela hace quest con [[02. Listado de Cartas/Set 11 - Winterspell.md#Stitch - Carefree Snowboarder|Stitch - Carefree Snowboarder]], dice «Quest, Trigger», hace quest con otros personajes, anuncia el nuevo total de lore y después dice que roba por el trigger. ¿Debe permitirse el robo?
+Angela hace quest con [Stitch - Carefree Snowboarder](https://cards.lorcast.io/card/digital/large/crd_26dc8e8705a240689f8af906cb3c600a.avif?1770259228), dice «Quest, Trigger», hace quest con otros personajes, anuncia el nuevo total de lore y después dice que roba por el trigger. ¿Debe permitirse el robo?
 
 ---
 
@@ -14,7 +14,7 @@ Sí. Angela reconoció el trigger de Stitch en el momento correcto y todos los j
 
 - [[03. Reglas de Torneo/3. Operaciones en los torneos/3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing).md|Out-of-Order Sequencing]]
 - [[04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md|Missed Trigger]]
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Stitch - Carefree Snowboarder|Stitch - Carefree Snowboarder]]
+- [Stitch - Carefree Snowboarder](https://cards.lorcast.io/card/digital/large/crd_26dc8e8705a240689f8af906cb3c600a.avif?1770259228)
 
 ---
 

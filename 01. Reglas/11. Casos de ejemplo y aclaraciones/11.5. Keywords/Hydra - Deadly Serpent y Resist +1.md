@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Hydra - Deadly Serpent|Hydra - Deadly Serpent]] tiene Resist +1 y una fuente intenta infligirle 1 daño, ¿se dispara WATCH THE TEETH y Hydra inflige 1 daño a un personaje oponente elegido?
+Si [Hydra - Deadly Serpent](https://cards.lorcast.io/card/digital/large/crd_f9025821a35c4cea9fd04182f7db5896.avif?1709690747) tiene Resist +1 y una fuente intenta infligirle 1 daño, ¿se dispara WATCH THE TEETH y Hydra inflige 1 daño a un personaje oponente elegido?
 
 ---
 
@@ -31,7 +31,7 @@ Si la fuente intentara infligir 2 daños, Resist +1 los reduciría a 1. Hydra s�
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Hydra - Deadly Serpent|Hydra - Deadly Serpent]]: WATCH THE TEETH se dispara cuando se inflige daño a Hydra.
+- [Hydra - Deadly Serpent](https://cards.lorcast.io/card/digital/large/crd_f9025821a35c4cea9fd04182f7db5896.avif?1709690747): WATCH THE TEETH se dispara cuando se inflige daño a Hydra.
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.2. Equivalencias|1.9.2. «Is dealt damage» significa que el personaje recibe daño]]
 - [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.5. Daño reducido a 0|1.9.5. La fuente puede infligir daño aunque el personaje no lo reciba]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Una habilidad disparada solo se añade a la bolsa cuando se cumple su condición]]

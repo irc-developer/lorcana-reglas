@@ -1,8 +1,8 @@
 ## ❓ Duda
 
 - **Caso 1:** ¿Si Alice heredaría Support a Minnie mediante una habilidad estática, y Minnie hace quest, entrando tanto Support como su efecto de banish, en qué orden se resuelven los triggers en la bolsa?
-- **Caso 2:** Si [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Eilonwy - Princess of Llyr|Eilonwy - Princess of Llyr]] hace quest y da su Support a una Mulan 2/3 que ya tiene Support, ¿cuánto dará luego Mulan cuando haga quest a otro personaje: 2 o 4?
-- **Caso 3:** Si controlo [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Alice - Growing Girl|Alice - Growing Girl]] y [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Zipper - Big Helper|Zipper - Big Helper]], y Zipper hace quest, ¿da su Fuerza, su Voluntad o ambas?
+- **Caso 2:** Si [Eilonwy - Princess of Llyr](https://cards.lorcast.io/card/digital/large/crd_495426e5c16b4039977439b3c7a9b9e2.avif?1761751958) hace quest y da su Support a una Mulan 2/3 que ya tiene Support, ¿cuánto dará luego Mulan cuando haga quest a otro personaje: 2 o 4?
+- **Caso 3:** Si controlo [Alice - Growing Girl](https://cards.lorcast.io/card/digital/large/crd_297bfc741b2c4c01b430258d55aef604.avif?1709690747) y [Zipper - Big Helper](https://cards.lorcast.io/card/digital/large/crd_d515c85e0daa4cfd8c3a84154d328cd4.avif?1777688081), y Zipper hace quest, ¿da su Fuerza, su Voluntad o ambas?
 
 ## ✅ Respuesta
 

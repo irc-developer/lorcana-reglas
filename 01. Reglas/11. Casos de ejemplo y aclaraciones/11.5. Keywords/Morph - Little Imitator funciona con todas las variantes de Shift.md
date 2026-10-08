@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Permite [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Morph - Little Imitator|Morph – Little Imitator]] que cualquier variante de Shift se juegue sobre él?
+¿Permite [Morph – Little Imitator](https://cards.lorcast.io/card/digital/large/crd_1d11c04c567842fd981951674665889a.avif?1783188675) que cualquier variante de Shift se juegue sobre él?
 
 ¿Puede Morph satisfacer por sí solo los dos personajes exigidos por Duo Shift?
 

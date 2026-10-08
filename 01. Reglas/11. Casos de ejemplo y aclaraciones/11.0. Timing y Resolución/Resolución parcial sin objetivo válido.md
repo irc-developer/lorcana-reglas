@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-- Juego [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Last-Ditch Effort|Last-ditch Effort]].
+- Juego [Last-ditch Effort](https://cards.lorcast.io/card/digital/large/crd_13df9fbee1d6457f8d4ca866073d28d3.avif?1709690747).
 - Mi oponente sólo tiene un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Protección]].
 
 ¿Puedo darle a uno de mis personajes el [[01. Reglas/8. Palabras clave (Keywords)/8.5. Desafiador (Challenger)|Desafiador + 2]] a pesar de no tener objetivo válido para la primera parte?

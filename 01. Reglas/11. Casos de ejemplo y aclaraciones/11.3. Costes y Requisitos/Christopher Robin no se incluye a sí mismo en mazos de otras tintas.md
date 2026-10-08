@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Permite [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Christopher Robin - Hunny Sage|Christopher Robin – Hunny Sage]] incluir una o varias copias de sí mismo en cualquier mazo mediante **Gather the Party**?
+¿Permite [Christopher Robin – Hunny Sage](https://cards.lorcast.io/card/digital/large/crd_61b7042adadb4518b842173c39ffe07b.avif?1783188693) incluir una o varias copias de sí mismo en cualquier mazo mediante **Gather the Party**?
 
 ---
 

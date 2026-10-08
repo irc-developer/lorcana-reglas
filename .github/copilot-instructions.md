@@ -13,8 +13,9 @@
 
 ## Fuente de verdad de cartas
 
-- Para nombres, texto exacto y enlaces de cartas, usa solo la sección `02. Listado de Cartas` y el archivo del set correspondiente.
-- `02. Listado de Cartas/Cartas de Lorcana.md` actúa como índice de entrada; no asumas que el texto exacto vive solo ahí si ya está repartido por sets.
+- Para nombres y texto exacto de cartas, usa la sección `02. Listado de Cartas` y el archivo del set correspondiente. Las fichas completas se conservan como corpus local de verificación, fuera del catálogo público.
+- En artículos públicos, enlaza la imagen de Lorcast mediante Markdown: `[Nombre - Versión](URL_verificada)`. Obtén la URL de `image_uris.digital.large` de la API o del mapa verificado `.github/planes/mapa-cartas-lorcast.json`; no construyas rutas ni uses wikilinks al set. Aplica `.github/instructions/lorcana-obsidian-links.instructions.md`.
+- `02. Listado de Cartas/Cartas de Lorcana.md` orienta al lector hacia Lorcast; para recuperar evidencia local, abre el archivo del set correspondiente.
 - No uses `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica` ni material derivado o legacy como autoridad para texto de cartas.
 - Si una carta o su set no pueden verificarse dentro de `02. Listado de Cartas`, detente y pide precisión antes de cerrar la respuesta.
 

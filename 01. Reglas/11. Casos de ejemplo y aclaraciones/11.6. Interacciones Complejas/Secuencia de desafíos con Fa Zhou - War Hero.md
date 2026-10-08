@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Controlo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Fa Zhou - War Hero|Fa Zhou - War Hero]].  
+Controlo [Fa Zhou - War Hero](https://cards.lorcast.io/card/digital/large/crd_c7f70b64da8740e0a6cc47d0862b88e3.avif?1740589850).  
 Si primero desafío a una localización y después a un personaje agotado, ¿cumplo la secuencia para obtener el lore adicional de su habilidad?
 
 ---

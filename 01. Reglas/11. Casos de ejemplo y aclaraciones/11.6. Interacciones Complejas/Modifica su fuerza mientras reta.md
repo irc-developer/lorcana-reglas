@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-- **Caso 1:** En juego y seco tengo [[02. Listado de Cartas/Set 1 - The First Chapter.md#Jafar - Keeper of Secrets|Jafar - Keeper of Secrets]] y una [[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Queen Of Hearts - Sensing Weakness|Queen of Hearts - Sensing Weakness]]. ¿Qué fuerza tendrá mi Jafar cuando pasemos al Paso de daño por desafío?
+- **Caso 1:** En juego y seco tengo [Jafar - Keeper of Secrets](https://cards.lorcast.io/card/digital/large/crd_10bcf02ebeea4a3c8aac36e976120e99.avif?1709690747) y una [Queen of Hearts - Sensing Weakness](https://cards.lorcast.io/card/digital/large/crd_137c6f751cfa4c56a1fb8443e611b0f4.avif?1709690747). ¿Qué fuerza tendrá mi Jafar cuando pasemos al Paso de daño por desafío?
 
 - **Caso 2:** El número de cartas + 1 debido a que se robará antes de dicho paso de daños.
 

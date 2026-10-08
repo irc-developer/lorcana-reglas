@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Jugar un personaje mediante Shift dispara LATEST ENTRY de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Webby's Diary|Webby's Diary]]?
+¿Jugar un personaje mediante Shift dispara LATEST ENTRY de [Webby's Diary](https://cards.lorcast.io/card/digital/large/crd_553961389abc4bd4b49cc302ee271ba8.avif?1761752072)?
 
 ## ✅ Respuesta
 
@@ -17,7 +17,7 @@ Cuando se dispara LATEST ENTRY, puedes pagar 1 tinta para robar una carta.
 
 - [[8.10. Cambio (Shift)|Shift, 8.10.1]]: colocar el personaje encima.
 - [[8.4. Impulso (boost)|Boost]]: poner una carta debajo del personaje.
-- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Webby's Diary|Webby's Diary]]: texto completo de LATEST ENTRY.
+- [Webby's Diary](https://cards.lorcast.io/card/digital/large/crd_553961389abc4bd4b49cc302ee271ba8.avif?1761752072): texto completo de LATEST ENTRY.
 
 ---
 

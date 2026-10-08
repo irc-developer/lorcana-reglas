@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Durante mi turno tengo a [[02. Listado de Cartas/Set 11 - Winterspell.md#Tod - Knows All the Tricks|Tod - Knows All the Tricks]] agotado, con **IMPRESSIVE LEAPS** disponible. Juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Horseman Strikes!|The Horseman Strikes!]]. ¿Puedo elegirlo, prepararlo por su habilidad y decidir no desterrarlo porque la acción dice «you may»?
+Durante mi turno tengo a [Tod - Knows All the Tricks](https://cards.lorcast.io/card/digital/large/crd_3d891c7945f04b6d9095dda6a9a81a4f.avif?1770259612) agotado, con **IMPRESSIVE LEAPS** disponible. Juego [The Horseman Strikes!](https://cards.lorcast.io/card/digital/large/crd_47696b283a634a63be19e785284804a6.avif?1761752063). ¿Puedo elegirlo, prepararlo por su habilidad y decidir no desterrarlo porque la acción dice «you may»?
 
 ---
 

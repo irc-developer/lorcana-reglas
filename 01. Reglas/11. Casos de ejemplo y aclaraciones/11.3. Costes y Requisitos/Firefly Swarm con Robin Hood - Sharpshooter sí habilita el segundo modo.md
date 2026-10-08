@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”— y revelas [[02. Listado de Cartas/Set 12 - Wilds Unknown#Firefly Swarm|Firefly Swarm]], ¿puedes usar su segundo modo para desterrar cualquier personaje gracias a las cartas que Robin mandará al descarte al final del efecto?
+Si [Robin Hood - Sharpshooter](https://cards.lorcast.io/card/digital/large/crd_04d93f974e354add83a5c60fbcc342d1.avif?1723917209) usa **My Greatest Performance** —“Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.”— y revelas [Firefly Swarm](https://cards.lorcast.io/card/digital/large/crd_cf31223643444ceab69c0a9fddd46f22.avif?1777687668), ¿puedes usar su segundo modo para desterrar cualquier personaje gracias a las cartas que Robin mandará al descarte al final del efecto?
 
 ---
 
@@ -10,11 +10,11 @@ Si [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter
 
 La clave es distinguir entre **jugar** la acción y **resolver su efecto**.
 
-[[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Robin Hood - Sharpshooter|Robin Hood - Sharpshooter]] te permite **jugar** una acción gratis durante la resolución de su habilidad. Pero, cuando la carta jugada de ese modo es una **acción**, su efecto no se resuelve en mitad de la frase de Robin. La regla [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1]] aclara que el efecto de esa acción se resuelve **después** de que la carta o habilidad que te dijo jugarla haya terminado de resolverse.
+[Robin Hood - Sharpshooter](https://cards.lorcast.io/card/digital/large/crd_04d93f974e354add83a5c60fbcc342d1.avif?1723917209) te permite **jugar** una acción gratis durante la resolución de su habilidad. Pero, cuando la carta jugada de ese modo es una **acción**, su efecto no se resuelve en mitad de la frase de Robin. La regla [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1]] aclara que el efecto de esa acción se resuelve **después** de que la carta o habilidad que te dijo jugarla haya terminado de resolverse.
 
 Eso significa que la secuencia correcta es:
 
-1. Juegas [[02. Listado de Cartas/Set 12 - Wilds Unknown#Firefly Swarm|Firefly Swarm]] gratis por la habilidad de Robin.
+1. Juegas [Firefly Swarm](https://cards.lorcast.io/card/digital/large/crd_cf31223643444ceab69c0a9fddd46f22.avif?1777687668) gratis por la habilidad de Robin.
 2. La habilidad de Robin sigue resolviéndose.
 3. Pones en tu descarte el resto de cartas miradas.
 4. Solo entonces se resuelve el efecto de Firefly Swarm.
@@ -48,7 +48,7 @@ Por tanto:
 
 1. Robin Hood completa su quest y su habilidad disparada entra en resolución.
 2. Miras las 4 primeras cartas de tu mazo.
-3. Revelas [[02. Listado de Cartas/Set 12 - Wilds Unknown#Firefly Swarm|Firefly Swarm]] y la juegas gratis durante esa misma resolución.
+3. Revelas [Firefly Swarm](https://cards.lorcast.io/card/digital/large/crd_cf31223643444ceab69c0a9fddd46f22.avif?1777687668) y la juegas gratis durante esa misma resolución.
 4. La habilidad de Robin Hood todavía no ha terminado, así que continúas con su siguiente instrucción.
 5. Pones en tu descarte el resto de cartas miradas.
 6. La habilidad de Robin Hood termina de resolverse.
@@ -67,7 +67,7 @@ La distinción importante aquí es:
 
 Por eso tu objeción es buena: **sí, el modo se elige en tiempo de resolución**, pero en este caso se elige en la resolución de **Firefly Swarm**, no en mitad de la frase de Robin Hood. Para cuando llega ese momento, Robin ya ha terminado y sus otras cartas ya están en el descarte.
 
-Eso hace que este caso sea distinto de [[02. Listado de Cartas/Set 12 - Wilds Unknown#Escape Plan|Escape Plan]]: allí el problema es una **restricción para jugar la carta**, y esa restricción debe cumplirse en el momento de jugarla. En Firefly, en cambio, la carta sí puede jugarse y la condición relevante afecta a qué modo puedes elegir cuando su efecto por fin se resuelve.
+Eso hace que este caso sea distinto de [Escape Plan](https://cards.lorcast.io/card/digital/large/crd_85de0815b3344000a8f380b6ceefc07e.avif?1777687801): allí el problema es una **restricción para jugar la carta**, y esa restricción debe cumplirse en el momento de jugarla. En Firefly, en cambio, la carta sí puede jugarse y la condición relevante afecta a qué modo puedes elegir cuando su efecto por fin se resuelve.
 
 ---
 

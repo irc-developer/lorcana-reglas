@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-En mi turno juego [[02. Listado de Cartas/Set 1 - The First Chapter.md#Fire The Cannons!|Fire the Cannons!]] sobre un personaje rival con Resist +2. Después voy de aventura con [[02. Listado de Cartas/Set 14 - Hyperia City.md#Marie - Caught in the Act|Marie - Caught in the Act]]. Si ningún otro personaje rival ha recibido daño este turno, ¿obtengo una gota de tinta? ¿Cambiaría la respuesta si el objetivo fuera [[02. Listado de Cartas/Set 11 - Winterspell.md#Lilo - Bundled Up|Lilo - Bundled Up]] y EXTRA LAYERS impidiera que recibiese daño?
+En mi turno juego [Fire the Cannons!](https://cards.lorcast.io/card/digital/large/crd_eb6216aa3f6b4cccaf6216809f915658.avif?1709690747) sobre un personaje rival con Resist +2. Después voy de aventura con [Marie - Caught in the Act](https://cards.lorcast.io/card/digital/large/crd_2b2dd9a7d04d4a4c9c9f9b256d560671.avif?1790278669). Si ningún otro personaje rival ha recibido daño este turno, ¿obtengo una gota de tinta? ¿Cambiaría la respuesta si el objetivo fuera [Lilo - Bundled Up](https://cards.lorcast.io/card/digital/large/crd_f86297c4c6f940cc8135cd806d96105a.avif?1770260073) y EXTRA LAYERS impidiera que recibiese daño?
 
 ---
 

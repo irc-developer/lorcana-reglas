@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Cómo se determina cuántas cartas roba [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#With a Few Good Friends|With a Few Good Friends]] cuando cuenta los tipos de tinta diferentes de tus personajes en juego?
+¿Cómo se determina cuántas cartas roba [With a Few Good Friends](https://cards.lorcast.io/card/digital/large/crd_9c14d6ee5bfd49538ccf3d3323baac68.avif?1783188713) cuando cuenta los tipos de tinta diferentes de tus personajes en juego?
 
 ---
 

@@ -2,9 +2,9 @@
 
 ¿Si juego un personaje agotable y hay efectos de reemplazo en juego (de otras cartas o de la propia), cuál se aplica primero?
 
-**Ejemplo 1:** Juego [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Maui - Half-Shark|Maui - Half-Shark]] (con evasión) cuando [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Peter Pan - Shadow Finder|Peter Pan - Shadow Finder]] está en juego dándole Rush a evasivos. ¿Entra con Rush?
+**Ejemplo 1:** Juego [Maui - Half-Shark](https://cards.lorcast.io/card/digital/large/crd_5123478aad6349f1a3f4500b31bc7d5e.avif?1730901319) (con evasión) cuando [Peter Pan - Shadow Finder](https://cards.lorcast.io/card/digital/large/crd_2d0021113d084cee92cd6b33f104c1b4.avif?1716052430) está en juego dándole Rush a evasivos. ¿Entra con Rush?
 
-**Ejemplo 2:** Juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Prince Eric - Ursula's Groom|Prince Eric]] con [[02. Listado de Cartas/Set 4 - Ursula's Return.md#Ursula - Eric's Bride|Ursula]] en juego, ambos se conocen. ¿Entra agotado?
+**Ejemplo 2:** Juego [Prince Eric](https://cards.lorcast.io/card/digital/large/crd_58e889f440504f44b3283ed76f3f54a4.avif?1716052430) con [Ursula](https://cards.lorcast.io/card/digital/large/crd_982da8b7486a480fac3fd751a353a4eb.avif?1716052430) en juego, ambos se conocen. ¿Entra agotado?
 
 ## ✅ Respuesta
 

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Sulley & Boo - Scare Buddies|Sulley & Boo – Scare Buddies]] es desterrado con cartas boca arriba y boca abajo debajo, ¿**The Power of Friendship** permite jugar gratis los personajes que estaban boca abajo?
+Si [Sulley & Boo – Scare Buddies](https://cards.lorcast.io/card/digital/large/crd_fd8a29d02aba433bbd71f62e65fec165.avif?1783190689) es desterrado con cartas boca arriba y boca abajo debajo, ¿**The Power of Friendship** permite jugar gratis los personajes que estaban boca abajo?
 
 ¿Qué estado tiene Sulley & Boo si Combo Shift se usa sobre dos personajes con estados diferentes?
 

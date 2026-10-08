@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si juego [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]] y elijo un personaje oponente que tiene cartas boca abajo debajo por Boost, su controlador puede ponerlo en la parte inferior de su mazo en lugar de que yo robe 2 cartas. ¿Las cartas boca abajo se miran? ¿En qué orden se ponen en el mazo?
+Si juego [Hades - Looking for a Deal](https://cards.lorcast.io/card/digital/large/crd_d4514592d27b40cca5821f510aea2db2.avif?1761752189) y elijo un personaje oponente que tiene cartas boca abajo debajo por Boost, su controlador puede ponerlo en la parte inferior de su mazo en lugar de que yo robe 2 cartas. ¿Las cartas boca abajo se miran? ¿En qué orden se ponen en el mazo?
 
 ---
 
@@ -24,7 +24,7 @@ Esto es distinto de [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Hades - Looking for a Deal|Hades - Looking for a Deal]]: el jugador del personaje elegido puede poner esa carta en la parte inferior de su mazo.
+- [Hades - Looking for a Deal](https://cards.lorcast.io/card/digital/large/crd_d4514592d27b40cca5821f510aea2db2.avif?1761752189): el jugador del personaje elegido puede poner esa carta en la parte inferior de su mazo.
 - [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|1.4.3. El jugador decide sobre sus cartas y las manipula físicamente]]
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo]]: las cartas boca abajo debajo de otra no pueden mirarse, ni siquiera por su propietario.
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila]]: cuando la carta superior abandona el juego, todas las cartas de la pila pasan a la misma zona.

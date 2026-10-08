@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Puede la protección de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]] evitar el daño de WATCH THE TEETH de [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Hydra - Deadly Serpent|Hydra - Deadly Serpent]]? ¿Está ACT OF KINDNESS limitado al daño de los desafíos?
+¿Puede la protección de [Rapunzel - Ready for Adventure](https://cards.lorcast.io/card/digital/large/crd_70ae5f21fa1347b49ee910683e34d90e.avif?1761751909) evitar el daño de WATCH THE TEETH de [Hydra - Deadly Serpent](https://cards.lorcast.io/card/digital/large/crd_f9025821a35c4cea9fd04182f7db5896.avif?1709690747)? ¿Está ACT OF KINDNESS limitado al daño de los desafíos?
 
 ---
 

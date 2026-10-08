@@ -8,7 +8,7 @@
 
 **No.** Una habilidad disparada al final del turno se añade a la bolsa una vez cuando se cumple su condición de disparo. Si además tiene una condición secundaria, esa condición se comprueba al resolverla.
 
-Por ejemplo, [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Clarabelle - Light on Her Hooves|Clarabelle - Light on Her Hooves]] entra en la bolsa al final del turno aunque tenga el mismo número de cartas que el oponente. Si al resolverla sigue empatada, no roba. Si otra habilidad cambia después el tamaño de las manos, Clarabelle no vuelve a entrar en la bolsa.
+Por ejemplo, [Clarabelle - Light on Her Hooves](https://cards.lorcast.io/card/digital/large/crd_7e4aa6ffcba9401b916220a6f79c355c.avif?1723917209) entra en la bolsa al final del turno aunque tenga el mismo número de cartas que el oponente. Si al resolverla sigue empatada, no roba. Si otra habilidad cambia después el tamaño de las manos, Clarabelle no vuelve a entrar en la bolsa.
 
 Esto no impide que otras habilidades distintas se disparen por los eventos que ocurran durante la resolución; simplemente no crea una segunda instancia de la misma condición de final de turno.
 

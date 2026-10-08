@@ -13,10 +13,10 @@ Depende a quien le preguntes. Como programador actualmente pienso que la equival
 `}`
 
 Aunque no hay reglas que soporten esto. Tampoco hay aclaración oficial. Todo esto es aplicable también para cartas como:
-[[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Mufasa - Betrayed Leader|Mufasa - Betrayed Leader]]
-[[02. Listado de Cartas/Set 2 - Rise of the Floodborn.md#Mulan - Reflecting|Mulan - Reflecting]]
-[[02. Listado de Cartas/Set 3 - Into the Inklands.md#Pongo - Determined Father|Pongo - Determined Father]]
-[[02. Listado de Cartas/Set 6 - Azurite Sea.md#Oswald - The Lucky Rabbit|Oswald - The Lucky Rabbit]]
+[Mufasa - Betrayed Leader](https://cards.lorcast.io/card/digital/large/crd_00dc125290b34527b59cec4901ec94f9.avif?1709690747)
+[Mulan - Reflecting](https://cards.lorcast.io/card/digital/large/crd_f04fa097a7234ecb95ea7eeea70c9c39.avif?1709690747)
+[Pongo - Determined Father](https://cards.lorcast.io/card/digital/large/crd_fcdb51245c0a468896166eb745d1cf55.avif?1709690747)
+[Oswald - The Lucky Rabbit](https://cards.lorcast.io/card/digital/large/crd_5fe66ed6c5c842ac9e0ea2eba5ca3a4f.avif?1730901319)
 
 ---
 

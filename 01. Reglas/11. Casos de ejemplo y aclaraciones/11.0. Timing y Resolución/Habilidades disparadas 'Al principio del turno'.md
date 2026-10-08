@@ -3,8 +3,8 @@
 Durante el inicio de turno se disparan varias habilidades simultáneas.
 
 Casos típicos:
-- Con [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Bolt - Superdog|Bolt - Superdog]] y [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Lilo - Escape Artist|Lilo - Escape Artist]], ¿puedo ordenar los triggers para que primero entre Lilo y luego resolver el de Bolt?
-- Con [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Vanellope Von Schweetz - Gutsy Go-Getter|Vanellope Von Schweetz - Gutsy Go-Getter]] y [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Transport Pod|Transport Pod]], ¿puedo forzar un orden de resolución que cumpla una condición que no era válida al dispararse?
+- Con [Bolt - Superdog](https://cards.lorcast.io/card/digital/large/crd_fa85ca0440e441a19d44e1621e40f1d1.avif?1740589113) y [Lilo - Escape Artist](https://cards.lorcast.io/card/digital/large/crd_f17c60d077554d25b50fd934061b2e32.avif?1730901319), ¿puedo ordenar los triggers para que primero entre Lilo y luego resolver el de Bolt?
+- Con [Vanellope Von Schweetz - Gutsy Go-Getter](https://cards.lorcast.io/card/digital/large/crd_cfd767c1ed88437486b41bb5670ccc1c.avif?1730901319) y [Transport Pod](https://cards.lorcast.io/card/digital/large/crd_9d508f285a934e1fbdd5182fc46734b9.avif?1730901319), ¿puedo forzar un orden de resolución que cumpla una condición que no era válida al dispararse?
 
 ---
 

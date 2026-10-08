@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Piercing Attack|Piercing Attack]] elige a [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Omnidroid - Ultimate Iteration|Omnidroid – Ultimate Iteration]], que tiene Resist +2, ¿cuánto daño recibe Omnidroid?
+Si [Piercing Attack](https://cards.lorcast.io/card/digital/large/crd_c8bafccee86e44229bddbe6438d98d99.avif?1783188896) elige a [Omnidroid – Ultimate Iteration](https://cards.lorcast.io/card/digital/large/crd_dce73ba526114978b851ac2f673a02bc.avif?1783189818), que tiene Resist +2, ¿cuánto daño recibe Omnidroid?
 
 ---
 

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Estoy obligado a elegir a [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] si es un objetivo válido para un efecto que permite elegir cualquier personaje?
+¿Estoy obligado a elegir a [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) si es un objetivo válido para un efecto que permite elegir cualquier personaje?
 
 ---
 
@@ -49,11 +49,11 @@ _"If an opponent would choose one of your characters to challenge, they must cho
 
 ## 🧩 Caso relacionado: dos John Smith frente a Red Alert
 
-[[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Red Alert|Red Alert]] dice:
+[Red Alert](https://cards.lorcast.io/card/digital/large/crd_b774661e34864407ad0f264bb2332333.avif?1783189090) dice:
 
 > *Banish chosen character with 3 {S} or less.*
 
-Si el oponente controla dos copias de [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]], las dos son personajes de Fuerza 3 y, por tanto, **cada una es una opción legal independiente** para Red Alert. La presencia de la restricción `DO YOUR WORST` de una copia no convierte a la otra en ilegal ni deja a Red Alert sin objetivo.
+Si el oponente controla dos copias de [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064), las dos son personajes de Fuerza 3 y, por tanto, **cada una es una opción legal independiente** para Red Alert. La presencia de la restricción `DO YOUR WORST` de una copia no convierte a la otra en ilegal ni deja a Red Alert sin objetivo.
 
 La respuesta práctica es que Red Alert puede elegir una de las dos copias. No se interpreta que una sola elección tenga que satisfacer simultáneamente dos restricciones positivas incompatibles ni que ambas copias formen un único objetivo. Una vez elegido uno de los John Smith, Red Alert se resuelve sobre ese personaje y la otra copia sigue siendo una carta distinta en juego.
 
@@ -61,8 +61,8 @@ Este caso no cambia la regla básica de este artículo: si solo hubiera un John 
 
 ### Fundamento específico
 
-- [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Red Alert|Red Alert]] comprueba la Fuerza del personaje elegido, no exige que haya un único John Smith.
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] crea una restricción de elección para cada copia por separado.
+- [Red Alert](https://cards.lorcast.io/card/digital/large/crd_b774661e34864407ad0f264bb2332333.avif?1783189090) comprueba la Fuerza del personaje elegido, no exige que haya un único John Smith.
+- [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) crea una restricción de elección para cada copia por separado.
 - [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md|No tener objetivo legal]]: una carta no se queda sin objetivo mientras exista una elección legal.
 
 ---

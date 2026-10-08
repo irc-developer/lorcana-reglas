@@ -1,9 +1,9 @@
 ## ❓ Duda
 
-Controlo [[02. Listado de Cartas/Set 7 - Archazia''s Island.md#Kronk - Laid Back|Kronk - Laid Back]] y una carta con un efecto de «descartar para»:
+Controlo [Kronk - Laid Back](https://cards.lorcast.io/card/digital/large/crd_10a145c920e14c17b01173d348247d95.avif?1740589348) y una carta con un efecto de «descartar para»:
 
-- [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Maleficent - Vexed Partygoer|Maleficent - Vexed Partygoer]], cuya habilidad al irse de aventura permite descartar una carta para devolver a la mano una carta elegida de coste 3 o menos de los tipos indicados.
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Angel - Experiment 624|Angel - Experiment 624]], cuya habilidad GOOD AIM permite, una vez durante mi turno, elegir y descartar una carta para infligir 2 daños a un personaje elegido. Kronk y Angel están en mi zona de juego en una partida Coconut, con cartas en mi mano y un personaje elegible para el daño.
+- [Maleficent - Vexed Partygoer](https://cards.lorcast.io/card/digital/large/crd_ec332a15608840ad942e800aa7b17294.avif?1723917209), cuya habilidad al irse de aventura permite descartar una carta para devolver a la mano una carta elegida de coste 3 o menos de los tipos indicados.
+- [Angel - Experiment 624](https://cards.lorcast.io/card/digital/large/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055), cuya habilidad GOOD AIM permite, una vez durante mi turno, elegir y descartar una carta para infligir 2 daños a un personaje elegido. Kronk y Angel están en mi zona de juego en una partida Coconut, con cartas en mi mano y un personaje elegible para el daño.
 
 ¿Puedo evitar ese descarte mediante Kronk y obtener igualmente el retorno de Maleficent o los 2 daños de Angel?
 

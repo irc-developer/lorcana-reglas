@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Prophetic Vision|Prophetic Vision]] revela una acción y esa acción se juega gratis, ¿cada oponente pierde 1 lore y tú ganas 1 lore?
+Si [Prophetic Vision](https://cards.lorcast.io/card/digital/large/crd_ba9b62b0777c4dc8a6db9c3bac944da8.avif?1783189101) revela una acción y esa acción se juega gratis, ¿cada oponente pierde 1 lore y tú ganas 1 lore?
 
 ---
 

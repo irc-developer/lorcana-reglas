@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#The Horned King - Merciless Master|The Horned King - Merciless Master]] es el personaje elegido y desterrado como coste de [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]], ¿sigue aplicándose CAULDRON'S POWER para permitir jugar un personaje desde el descarte?
+Si [The Horned King - Merciless Master](https://cards.lorcast.io/card/digital/large/crd_979b5517872f41dd902e486a8d50435f.avif?1783188492) es el personaje elegido y desterrado como coste de [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649), ¿sigue aplicándose CAULDRON'S POWER para permitir jugar un personaje desde el descarte?
 
 ---
 
@@ -14,8 +14,8 @@ Por tanto, Retro Evolution Device no puede utilizar la habilidad estática de Th
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#The Horned King - Merciless Master|The Horned King - Merciless Master]]: CAULDRON'S POWER permite jugar personajes desde tu descarte mientras The Horned King está agotado.
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Retro Evolution Device|Retro Evolution Device]]: desterrar el personaje elegido es parte del coste de TURN INTO DINOSAUR.
+- [The Horned King - Merciless Master](https://cards.lorcast.io/card/digital/large/crd_979b5517872f41dd902e486a8d50435f.avif?1783188492): CAULDRON'S POWER permite jugar personajes desde tu descarte mientras The Horned King está agotado.
+- [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649): desterrar el personaje elegido es parte del coste de TURN INTO DINOSAUR.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md#6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego|6.4.2.3. Habilidades estáticas generadas por cartas en juego]]: el efecto termina cuando su fuente abandona la zona de juego.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades activadas]]: primero se paga el coste y después se resuelve el efecto.
 - [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.3.3, 6.4.2.3 y 7.1.6.

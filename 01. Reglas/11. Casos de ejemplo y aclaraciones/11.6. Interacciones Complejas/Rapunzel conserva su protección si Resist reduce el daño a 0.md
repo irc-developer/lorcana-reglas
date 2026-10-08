@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Pierde un personaje la protección de [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Rapunzel - Ready for Adventure|Rapunzel - Ready for Adventure]] si Resist reduce a 0 el daño que fuera a recibir?
+¿Pierde un personaje la protección de [Rapunzel - Ready for Adventure](https://cards.lorcast.io/card/digital/large/crd_70ae5f21fa1347b49ee910683e34d90e.avif?1761751909) si Resist reduce a 0 el daño que fuera a recibir?
 
 ---
 

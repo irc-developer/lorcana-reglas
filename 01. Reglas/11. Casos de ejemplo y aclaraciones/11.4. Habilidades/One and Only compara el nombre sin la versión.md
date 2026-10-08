@@ -1,12 +1,12 @@
 ## ❓ Duda
 
-¿Cómo se resuelve [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#One and Only|One and Only]] al elegir un personaje con un solo nombre, un personaje con distintas versiones o un personaje con varios nombres, como `Flotsam & Jetsam`?
+¿Cómo se resuelve [One and Only](https://cards.lorcast.io/card/digital/large/crd_69429f224b234571a1257b20258d97a4.avif?1783188722) al elegir un personaje con un solo nombre, un personaje con distintas versiones o un personaje con varios nombres, como `Flotsam & Jetsam`?
 
 ---
 
 ## ✅ Respuesta
 
-[[02. Listado de Cartas/Set 13 - Attack of the Vine.md#One and Only|One and Only]] conserva al personaje elegido y destierra a todos los demás personajes que compartan con él al menos un nombre exacto.
+[One and Only](https://cards.lorcast.io/card/digital/large/crd_69429f224b234571a1257b20258d97a4.avif?1783188722) conserva al personaje elegido y destierra a todos los demás personajes que compartan con él al menos un nombre exacto.
 
 - La **versión** situada después del guion no se compara.
 - Un nombre formado por varias palabras, como `Mickey Mouse`, sigue siendo un único nombre.
@@ -41,13 +41,13 @@ Por ejemplo, elegir `Buzz Lightyear` no hace coincidir un hipotético personaje 
 
 Las reglas **5.2.6.1–5.2.6.2** determinan que un personaje con `&` tiene dos nombres individuales además de su nombre impreso, aunque continúa siendo un solo personaje.
 
-[[02. Listado de Cartas/Set 4 - Ursula's Return.md#Flotsam & Jetsam - Entangling Eels|Flotsam & Jetsam – Entangling Eels]] cuenta simultáneamente como:
+[Flotsam & Jetsam – Entangling Eels](https://cards.lorcast.io/card/digital/large/crd_2eb85540f12446e38d0eef16937315eb.avif?1716052430) cuenta simultáneamente como:
 
 - `Flotsam`;
 - `Jetsam`;
 - `Flotsam & Jetsam`.
 
-La regla **5.2.6.3** añade una excepción expresa: [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Chip 'n' Dale - Recovery Rangers|Chip 'n' Dale – Recovery Rangers]] se trata como si su nombre contuviera `&`. Por ello cuenta como `Chip`, `Dale` y `Chip 'n' Dale`.
+La regla **5.2.6.3** añade una excepción expresa: [Chip 'n' Dale – Recovery Rangers](https://cards.lorcast.io/card/digital/large/crd_b0c8c37c12834fa1b2b7d831b172ff0c.avif?1730901319) se trata como si su nombre contuviera `&`. Por ello cuenta como `Chip`, `Dale` y `Chip 'n' Dale`.
 
 ---
 

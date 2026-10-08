@@ -1,8 +1,8 @@
 ## ❓ Duda
 
-Tengo en juego [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]] con su habilidad "Do your worst" activa (los oponentes deben elegir este personaje para acciones y habilidades si es posible).
+Tengo en juego [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) con su habilidad "Do your worst" activa (los oponentes deben elegir este personaje para acciones y habilidades si es posible).
 
-El oponente juega [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Hypnotic Strength|Hypnotic Strength]] (acción que dice: "Roba una carta. Un personaje elegido gana Challenger +2 este turno").
+El oponente juega [Hypnotic Strength](https://cards.lorcast.io/card/digital/large/crd_9444cd2552124a658a0c276513934a4f.avif?1723917209) (acción que dice: "Roba una carta. Un personaje elegido gana Challenger +2 este turno").
 
 ¿La habilidad de John Smith fuerza al oponente a aplicar Hypnotic Strength a John Smith?
 

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Mi oponente tiene dos personajes en zona de juego y yo juego [[02. Listado de Cartas/Set 4 - Ursula's Return.md#The Mob Song|The Mob Song]].  
+Mi oponente tiene dos personajes en zona de juego y yo juego [The Mob Song](https://cards.lorcast.io/card/digital/large/crd_bf617c80f0c9417a8434ffa4428e7911.avif?1716052430).  
 Si la carta permite elegir múltiples objetivos, ¿puedo elegir dos veces el mismo personaje para concentrar el efecto?
 
 ---

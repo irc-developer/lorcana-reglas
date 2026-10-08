@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Controlo [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Donald Duck - Ruby Champion|Donald Duck - Ruby Champion]] (que da +1 lore a otros personajes de Ruby con 7+ fuerza). También tengo [[02. Listado de Cartas/Set 11 - Winterspell.md#Copper - On the Scent|Copper - On the Scent]] en juego.
+Controlo [Donald Duck - Ruby Champion](https://cards.lorcast.io/card/digital/large/crd_a9118586fa7c492bbe23ad34b60dcc57.avif?1761763656) (que da +1 lore a otros personajes de Ruby con 7+ fuerza). También tengo [Copper - On the Scent](https://cards.lorcast.io/card/digital/large/crd_f5ec9aa34cb2438fb19806535e9ffcc5.avif?1770259680) en juego.
 
 Copper tiene Reckless: "This character can't quest and must challenge each turn if able."
 
@@ -29,8 +29,8 @@ Estas son restricciones independientes. Una no cancelа la otra. Copper tiene AM
 
 **Texto relevante de cartas:**
 
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Copper - On the Scent|Copper - On the Scent]]: Reckless = *"This character can't quest and must challenge each turn if able."*
-- [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#Donald Duck - Ruby Champion|Donald Duck - Ruby Champion]]: POWERFUL REWARD = *"Your other Ruby characters with 7 {s} or more get +1 [lore]."*
+- [Copper - On the Scent](https://cards.lorcast.io/card/digital/large/crd_f5ec9aa34cb2438fb19806535e9ffcc5.avif?1770259680): Reckless = *"This character can't quest and must challenge each turn if able."*
+- [Donald Duck - Ruby Champion](https://cards.lorcast.io/card/digital/large/crd_a9118586fa7c492bbe23ad34b60dcc57.avif?1761763656): POWERFUL REWARD = *"Your other Ruby characters with 7 {s} or more get +1 [lore]."*
 
 El +1 lore de Donald Duck no es una habilidad que permite hacer quest; es un modificador de lore que se gana automáticamente si la condición se cumple. Como Copper no puede hacer quest, Donald Duck no le otorga ningún beneficio en esta situación.
 

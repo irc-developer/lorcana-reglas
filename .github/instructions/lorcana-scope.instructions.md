@@ -13,7 +13,7 @@ applyTo:
 - Para reglas base, usar el PDF oficial inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`, con `01. Reglas` como localización castellana.
 - Ese PDF es la autoridad normativa primaria según la copia local identificada. Los Markdown numerados de la referencia inglesa son transcripciones históricas incompletas, no texto consolidado vigente. Esta selección no autoriza carpetas legacy ni convierte todo el contenido de `Documentacion Oficial` en reglas base.
 - `01. Reglas` se usa para localizar, citar y documentar en castellano.
-- Para texto exacto de cartas, nombres y enlaces de cartas, usar solo la sección `02. Listado de Cartas` y el archivo del set correspondiente.
+- Para texto exacto y nombres de cartas, usar la sección `02. Listado de Cartas` y el archivo del set correspondiente, conservados como corpus local. Para los enlaces de lectura de cartas, usar imágenes verificadas de Lorcast según `lorcana-obsidian-links.instructions.md`; ese destino comunitario no sustituye la verificación ni la autoridad normativa.
 - No usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica` ni material derivado o legacy para resolver, documentar o verificar.
 - Si una regla o una carta no puede sostenerse con esas fuentes, detenerse y pedir al usuario el dato exacto o una ampliación explícita del alcance.
 - Ante discrepancia entre inglés y castellano, resolver según la referencia oficial inglesa y citar en castellano cuando exista localización equivalente.

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Cuando [[02. Listado de Cartas/Set 10 - Whispers in the Well.md#The Horned King - Wicked Ruler|The Horned King - Wicked Ruler]] tiene su efecto ARISE! activo (*"Whenever one of your other characters is banished in a challenge, you may return that card to your hand, then choose and discard a card"*), ¿toca el descarte el personaje que es banished antes de que el Horned King lo devuelva a tu mano?
+Cuando [The Horned King - Wicked Ruler](https://cards.lorcast.io/card/digital/large/crd_a639524bb8704134a25060ad9d7799b4.avif?1761752097) tiene su efecto ARISE! activo (*"Whenever one of your other characters is banished in a challenge, you may return that card to your hand, then choose and discard a card"*), ¿toca el descarte el personaje que es banished antes de que el Horned King lo devuelva a tu mano?
 
 ---
 

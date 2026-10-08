@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si tienes dos copias de [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Roo - Hunny Rogue|Roo – Hunny Rogue]] en juego, ¿cada una concede a la otra el requisito de **Elusive Expertise** para ganar Evasive?
+Si tienes dos copias de [Roo – Hunny Rogue](https://cards.lorcast.io/card/digital/large/crd_1e4e5fcae0fd4a5d92c33919e298257c.avif?1783188800) en juego, ¿cada una concede a la otra el requisito de **Elusive Expertise** para ganar Evasive?
 
 ---
 

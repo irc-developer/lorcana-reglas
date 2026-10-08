@@ -2,7 +2,7 @@
 
 **Caso 1:**
 - Tengo un personaje agotado.
-- Declaro desafío a un personaje agotado con mi [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#The Coachman - Greedy Deceiver|The Coachman - Greedy Deceiver]] a un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.6. Evasivo (Evasive)|evasivo]], ya que mi personaje gana evasivo cuando hay dos o más personajes agotados.
+- Declaro desafío a un personaje agotado con mi [The Coachman - Greedy Deceiver](https://cards.lorcast.io/card/digital/large/crd_be9dcbe9a9fa41a1986ff7c26818f092.avif?1747509240) a un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.6. Evasivo (Evasive)|evasivo]], ya que mi personaje gana evasivo cuando hay dos o más personajes agotados.
 
 ¿Es correcta la jugada?
 

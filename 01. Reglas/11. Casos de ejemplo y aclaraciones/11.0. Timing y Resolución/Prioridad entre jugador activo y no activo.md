@@ -1,7 +1,7 @@
 ## ❓ Duda
 
 No tengo cartas en mano.  
-Mi [[02. Listado de Cartas/Set 6 - Azurite Sea.md#Maui - Half-Shark|Maui - Half-Shark]] desafía a [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Cursed Merfolk - Ursula's Handiwork|Cursed Merfolk - Ursula's Handiwork]], y por el desafío recupero una acción del descarte a la mano.  
+Mi [Maui - Half-Shark](https://cards.lorcast.io/card/digital/large/crd_5123478aad6349f1a3f4500b31bc7d5e.avif?1730901319) desafía a [Cursed Merfolk - Ursula's Handiwork](https://cards.lorcast.io/card/digital/large/crd_25aa34175eeb4f30bbb9199f46040395.avif?1709690747), y por el desafío recupero una acción del descarte a la mano.  
 ¿Estoy obligado a descartarla después por la habilidad de Cursed Merfolk?
 
 ---

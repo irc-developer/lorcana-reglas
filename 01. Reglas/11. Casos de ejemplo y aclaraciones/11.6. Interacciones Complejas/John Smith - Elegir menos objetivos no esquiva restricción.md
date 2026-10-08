@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-¿Puedo elegir menos objetivos para esquivar la restricción de "Do your worst" de [[02. Listado de Cartas/Set 11 - Winterspell.md#John Smith - Undaunted Protector|John Smith - Undaunted Protector]]? Por ejemplo, si un efecto dice "elige 2 personajes" pero hay 3 personajes en juego (incluyendo John Smith), ¿puedo elegir solo 1?
+¿Puedo elegir menos objetivos para esquivar la restricción de "Do your worst" de [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064)? Por ejemplo, si un efecto dice "elige 2 personajes" pero hay 3 personajes en juego (incluyendo John Smith), ¿puedo elegir solo 1?
 
 ---
 

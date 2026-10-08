@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Un personaje tiene su Fuerza reducida por un efecto cuya duración se extiende hasta el próximo turno. Después, su jugador juega a [[02. Listado de Cartas/Set 11 - Winterspell.md#Elisa Maza - Transformed Gargoyle|Elisa Maza - Transformed Gargoyle]]. ¿*Forever Strong* elimina la reducción que ya estaba activa o solo impide las reducciones aplicadas a partir de ese momento?
+Un personaje tiene su Fuerza reducida por un efecto cuya duración se extiende hasta el próximo turno. Después, su jugador juega a [Elisa Maza - Transformed Gargoyle](https://cards.lorcast.io/card/digital/large/crd_8d6d9d233b644d8d88baf2a34751328b.avif?1770259703). ¿*Forever Strong* elimina la reducción que ya estaba activa o solo impide las reducciones aplicadas a partir de ese momento?
 
 ---
 

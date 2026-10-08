@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si juego simultáneamente [[02. Listado de Cartas/Set 11 - Winterspell.md#Elsa - Ice Artisan|Elsa - Ice Artisan]] y [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Elsa's Ice Palace - Place of Solitude|Elsa's Ice Palace]], ambas habilidades se añaden a la bolsa al mismo tiempo. Mi oponente no tiene personajes agotados en juego.
+Si juego simultáneamente [Elsa - Ice Artisan](https://cards.lorcast.io/card/digital/large/crd_e9a1997821d647d5b13378a801921bf6.avif?1770259752) y [Elsa's Ice Palace](https://cards.lorcast.io/card/digital/large/crd_aaae8eab8f604635883282a61d3376ff.avif?1723917209), ambas habilidades se añaden a la bolsa al mismo tiempo. Mi oponente no tiene personajes agotados en juego.
 
 ¿Puedo elegir el orden de resolución tal que:
 1. Primero resuelvo **ENDLESS WINTER** (Elsa - Ice Artisan) para agotar un personaje contrario con 3 Fuerza o menos

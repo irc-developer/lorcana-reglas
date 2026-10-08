@@ -1,0 +1,911 @@
+{
+  "estado": "aplicado",
+  "enlaces": 505,
+  "archivos": 149,
+  "cambios": [
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md",
+      "enlaces": 2,
+      "antes_sha256": "ba650b575df637dd9519db1a05d751910b4b10a2e62ec193d4af50c8628f3625",
+      "despues_sha256": "b079dbd63867cc8d17e4f066e8b536e7a3735d96b100ac902485d36b900bf57d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md",
+      "enlaces": 3,
+      "antes_sha256": "4a0c38d3682a7e59c6d3af6fb25ed0d38166ad1282f782b8c5d7047702eb5282",
+      "despues_sha256": "0f788cb2ceec84d5575b6983237cc83bd84891fc1ebff84f6a6d95a08f56c1a9"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en mano y el cálculo de triggers.md",
+      "enlaces": 4,
+      "antes_sha256": "c563ca16eb7aaf17ef8552127c7c995d3fad62d7b620da68dc1ace2e494a7d00",
+      "despues_sha256": "b183734bbe19a49efeb5a4a02985676ab67c6324badd5c4104b58590049a9d9f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md",
+      "enlaces": 2,
+      "antes_sha256": "1484364da62fc5b39b23cc25af0b89d9eaddc9a72ed70214b7fb9bc6ae5c0fd2",
+      "despues_sha256": "3b57a9bd635cf3a439a66ef8ad07d386b0f7caba9c7175e39ce3d32d3796d74f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cumplir parte de una habilidad.md",
+      "enlaces": 1,
+      "antes_sha256": "967b4636307823ebf83abeaadb329c685b37d7efca3626d0530e99886b160346",
+      "despues_sha256": "7bfd9d3e3de534e0542021f8eae2856e82797d6793400a9eeffcb61be893c440"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Derrota, timing mazo vacío.md",
+      "enlaces": 3,
+      "antes_sha256": "add33eb2bb781a27b06aed401bdd2de5d4708ba9afb58188436b54b45e0dfbe1",
+      "despues_sha256": "3c15544650a29ebcc3b2c73aacbcabaa81621b7802b473b84d00b262adb5b0a6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md",
+      "enlaces": 5,
+      "antes_sha256": "3650d46ff4b1923576bea513bc27e2b9a147e56351911ee56db73a8d267ca815",
+      "despues_sha256": "5273935bfb127b08719b4b6366073ed96379780ff943ac70850ada63b87e287c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir múltiples objetivos.md",
+      "enlaces": 1,
+      "antes_sha256": "cfe628d555cde59874965b944b99e502076466a6aa435313cb4508ffda33d44b",
+      "despues_sha256": "c7391f12d8b8ce9a9147f34bb84f2a0811f38a125f8ce1a98d9788d61fc8fde3"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md",
+      "enlaces": 1,
+      "antes_sha256": "2958796ac3b11d7c578d066ebc931659904ef3ea06dc715788443585b4c546a2",
+      "despues_sha256": "16b9de2a348c13003c4c483c5071c42a2bb08200d9dfa432c227c9e127624dcd"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md",
+      "enlaces": 2,
+      "antes_sha256": "7a743a4f90e73fd15cde257d73c35f7b1155a320e5f05fd5166eaeb767ecec51",
+      "despues_sha256": "a64d9ad18efd650083b8c6e841be8f654f9c70fe776947b1a3bc64d38561ee4d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md",
+      "enlaces": 1,
+      "antes_sha256": "c5cfbd10bd7bd108483e2813409b2dd430bbb16e1462a63c2589b0d04d5474c4",
+      "despues_sha256": "dff5a4a4910bd0747ae88a5e41012eaec408e6c4e583264fb5d5b6801c9264ec"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al principio del turno'.md",
+      "enlaces": 4,
+      "antes_sha256": "5187128f0db6c4e38662d89440669bac81c344541b70802b2e8b09ae2cf8f2f1",
+      "despues_sha256": "26319800aac66314700a2c24be51ef99fbc782b38eda2c7861afde86cb6399c6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md",
+      "enlaces": 1,
+      "antes_sha256": "7cfd5d5801e02d94e027f2b86c6f32b026a4d90540785be43377f056e4c84fcb",
+      "despues_sha256": "f5e76b9aaef904171e58d37a017dc94ce09f70ad0cc3873fc9a725f23c478cbd"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md",
+      "enlaces": 6,
+      "antes_sha256": "e39700b6612ad20dc1786443586270376fea5f8cefe3151b3fdb5c10c2d75126",
+      "despues_sha256": "5c9f57110f573b63556bd58b5eb927d142478c27be49fdedac40259ac789a667"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md",
+      "enlaces": 2,
+      "antes_sha256": "6231b3d73bd76146cb4935896eb54c13c38b29e2cf41233b4449cd6d6915c9ea",
+      "despues_sha256": "f010a8b25b32cd512bdbce602cec12e2747458ec4e200b164557827ee9640d08"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md",
+      "enlaces": 1,
+      "antes_sha256": "5745c8b66874657f0fb96153202873a85487fc2ba01465e92a4ab48f0e59b3d3",
+      "despues_sha256": "f95aaf8bd70a1624cae15cc7b131d21b295a59df996c73a934c4fd36596499e2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md",
+      "enlaces": 5,
+      "antes_sha256": "6869a84fbb9ab0a72353762a94a72ac4c80b94b2ee94ef05f76af69038513172",
+      "despues_sha256": "67da80781ca0ed8855ac8dbcdac3bd39fce47a98cd0b467c5d560ed58eabae9c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Narrow Escape aplica coste 2 a cada carta elegida.md",
+      "enlaces": 1,
+      "antes_sha256": "91a00ac860493256033b594c8410baf78b43a45d13e2a35b387dc38e550c040e",
+      "despues_sha256": "ac9ddf2a695578e5cf87343ab96676e6d258c3c8e5780052d144978b78640510"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md",
+      "enlaces": 10,
+      "antes_sha256": "697f24b29e6d5333a2fcb3adc350b285ce1eedb03fe0432e70f78d0fc4186021",
+      "despues_sha256": "a3ead3448a1d4c39ed6a42f047ae27731b8130560ab9c9caee9d6bcc9fe84cb0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md",
+      "enlaces": 2,
+      "antes_sha256": "df1904e6cfb61cb7b951feab311a554bf3ece15b776fa0ec274a236e7febf57c",
+      "despues_sha256": "c6f70873e0580e151a9e00f8d368b827995bdaeb83d864cccf08e39ec545151d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md",
+      "enlaces": 2,
+      "antes_sha256": "fb2f988db8564942c2475280dce15704abb14d4dcbd6b504e45b133600e887dc",
+      "despues_sha256": "aba63926b1087a2f11f160da7149a05391cfabf4cb7e086914d1c426dcb202f7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md",
+      "enlaces": 1,
+      "antes_sha256": "d1ef23712f664496b353f37c0be15159926a3b0e9239ec8b7a71de7f8a17a23b",
+      "despues_sha256": "ff96938ed8d8d5b1fbeccdd9f3d2c81c27a1c635027883b1dcf66386b1a91e95"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md",
+      "enlaces": 2,
+      "antes_sha256": "219804c4ec0b495662e459f74913790a17a6fa344f99df0953ed07ca7649b032",
+      "despues_sha256": "ee8e14f6faff68bfb1d2da8c34da7ae81d47e30982a8176be3bd5988dc089c38"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prophetic Vision no aplica la rama de lore si juegas la acción.md",
+      "enlaces": 1,
+      "antes_sha256": "e17d415fa460798e8d08376e1aefdc4a09ad312bb78f754120415f7f0566a4d6",
+      "despues_sha256": "869dd8eb18a8a334277a25b9c4f549de468304016b9e7200a45873dda82a3666"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md",
+      "enlaces": 3,
+      "antes_sha256": "4fa4c46158c5dadd150af4c87107889765f3c50e4a994e0115b5ca9945578e59",
+      "despues_sha256": "b656760fc9f1846fc36fa4b82d7f98eee4374ac64f8b68faf54adbdb5e115c88"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md",
+      "enlaces": 1,
+      "antes_sha256": "734e730cc262b12c2394443c74a870dacb34414ed5c3073e362b6d2284cf91fa",
+      "despues_sha256": "78eca209215a2f8929c29ca66c46d1df32a6cbaa684f384a7639622dbfa8ebac"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md",
+      "enlaces": 2,
+      "antes_sha256": "912ebaaee1974bed3414130e4cd964f39642595b56a9bd87ec283b1120dba477",
+      "despues_sha256": "e72881fdd984477ff0093ae5217b8d6e72b74fea920585a54675c5b5266a99ee"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md",
+      "enlaces": 1,
+      "antes_sha256": "5965253b2194f5dec006df0b1a15b97aed9366ee2244fdf50184a1f175bf7b2c",
+      "despues_sha256": "dc7ab3bcd302224dce40e65336bfe7c50e3f7ef3ff2c6e1c69972c6a05841e45"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Acciones en el descarte.md",
+      "enlaces": 3,
+      "antes_sha256": "8b138a0a40a099257affa3e70079c2382007ae1c6d07978604d805d5827d5f59",
+      "despues_sha256": "ccc11d54fe6d06dd9ce98183f23f4b6c2e0a78e89930e6b8e06ba4eceda9a9b9"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Anna - Braving the Storm no funciona en descarte.md",
+      "enlaces": 2,
+      "antes_sha256": "b0f5ef12e6d31a5b29300809dd5f83f87eff457396d2e1ba9d705b4960fcac52",
+      "despues_sha256": "8a76c834039e6395b7b3c07532df51aa0df68fd865fb827cd4bb464ad868425c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared con Sid Phillips - Toy Surgeon.md",
+      "enlaces": 8,
+      "antes_sha256": "15cf2cfab11a0bc0ef99333497439b7ffe1eded23d52184f6fcdf27d132dc1f8",
+      "despues_sha256": "fed30d2add0b8f065b89bccc4d3b2414ac4755feec6ae52f1b6edb949b85db83"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano.md",
+      "enlaces": 6,
+      "antes_sha256": "a014c6001291d6fc2aff79abd6b5ee92944c8d3b4d179c8407679afa10154dc4",
+      "despues_sha256": "255d3cdcff1aba182e0cd5d6bb9f302392bff64ed1ea1ea670502211ae271832"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md",
+      "enlaces": 3,
+      "antes_sha256": "beb0e5be38cd1555f874fb8e43c42d91c4e245282fbe5af0a5441525f10cad28",
+      "despues_sha256": "330c50360a7b518e20f7fd98a9cbf91e119b4bc84ee2cd78f48d4c47fe29eacf"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md",
+      "enlaces": 2,
+      "antes_sha256": "b0f6613998ae84fbce30f048766f0849d3aadbab6229ea6b65fd8fceedf42f54",
+      "despues_sha256": "72f1f549d36b1b24aebef6f6a1d13ca208f5f0e11546905a13c3062a84850739"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md",
+      "enlaces": 5,
+      "antes_sha256": "d05d764dd2fe9d53cecb2f37098c1b428f38c381e7de70bbde19338095795ab4",
+      "despues_sha256": "27109e93e00a13ce7857b2f1c6f3b0dd94547eafff6ca125142320d528712102"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md",
+      "enlaces": 4,
+      "antes_sha256": "4d0e1726776b37cc2153cc344f556d5749b9cac2f54fa3d2cfd1f935905eb1da",
+      "despues_sha256": "1fa697707272a5e3bb02f20349e5f2f6cf3ddfda272522ac36b2db8a34b3e686"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md",
+      "enlaces": 4,
+      "antes_sha256": "92a3bfdc41b1e3f1c84b0ffd88f2621ae266f444be823fd3e2d41169a65ff50b",
+      "despues_sha256": "38782e7b275e2e5e88cf70107b084723ce47905dc0f6a6158b7940ff8125116a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md",
+      "enlaces": 2,
+      "antes_sha256": "c4fae56d5a09e4674de6c7d33ec97f1aecf93a6c9e30f0d96f0e4b1613f3d63c",
+      "despues_sha256": "d1c59e89702da7c5a035fac0ce1559484828927de7ed5eee666a5c070f7672b4"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md",
+      "enlaces": 15,
+      "antes_sha256": "dd026d8db7d5d3b6f23f74c228410fc106aa7bc69844db09f2d44bfd786f1f3c",
+      "despues_sha256": "a97b83a3f6a05071e2931a196b04f776f3e2fe777c24632dbf6c7d35ba9ae53b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md",
+      "enlaces": 2,
+      "antes_sha256": "94dd8211458ec8c800aee340cc4d1ef8965a392ba49ec68d1f69b23d0e3f2917",
+      "despues_sha256": "f331a932349f420bfb236b6c45f0a8788281ffa758bc6febe092716d4cb423b0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md",
+      "enlaces": 11,
+      "antes_sha256": "862aa169cab490bd8627e3a85247e68caf2b01a9655cb1c2389895204bf62044",
+      "despues_sha256": "802dd56c5cfd5fa2a7bdf70a8e13e734c9bfe212f7e573f6f8de53ef73943b71"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md",
+      "enlaces": 2,
+      "antes_sha256": "d0b838c1ecc7f706ee35e82a6d74fa93eb277558e6d4d5752de92767c4817a35",
+      "despues_sha256": "5c975be2587f43e35b2a6cc192bfd12d3c8676fc7092f36e4f1ff3fbd5d7013c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md",
+      "enlaces": 1,
+      "antes_sha256": "3ab03dbaaef35204089708b181bc6541e12ab240cd741ddbb948b43f7c6adeec",
+      "despues_sha256": "77bf86b0cfc418acf2c61056c2456c67f43b99a8735751581b6c8bff028c651c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md",
+      "enlaces": 1,
+      "antes_sha256": "9c255a8008dd204a465e7fe69c967d0f238daf25a26ac0c979b5c7d72e76e436",
+      "despues_sha256": "3a2ca702350a74280c565ad6a64a2e2ac57159866d76cb67394ea0ade680665c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md",
+      "enlaces": 10,
+      "antes_sha256": "37ca529f5a92c93b7446845fec282b8066ea31843bc96c498e9bfbbf4e909bda",
+      "despues_sha256": "2786434f9b9d03139616c39f689af97df1f2bbb7d39eee3d7a8c30376b0c887d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md",
+      "enlaces": 4,
+      "antes_sha256": "3200fa4beb266bc54e5d987291fd24b004666b5d1018b8a6c5b74b67078e768e",
+      "despues_sha256": "2f92250eda145e87ba2867ba7f9e3be17b0be245a3187a9a5f68e247d65c3458"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Vanish e interacciones.md",
+      "enlaces": 4,
+      "antes_sha256": "b28e5aaab3ac7ae311c6ec22ebc04cdb8a8de4e7af266332f1f0e646b213faa6",
+      "despues_sha256": "d86e980207019a6a31e42bd960145b7611d335b136e65cb2f981b2252a4cc3f2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Agotar personaje varias veces.md",
+      "enlaces": 2,
+      "antes_sha256": "b2f95c763791328903dff43a5cb80030a7dc13fc89b7c2a1766bf7a6d7d5cdff",
+      "despues_sha256": "0a2da2487d11d39df3b0c5251e15b3a723079970ebccf9d0a15e9f01982383a3"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md",
+      "enlaces": 2,
+      "antes_sha256": "b01e17b29e16defd639c47cc6c612385b721039c6c7fd8af67dc2dd760cbca6b",
+      "despues_sha256": "340e41aaf448be8d5ca1cbedc80afa063f603d5c11b88e1c0c48aeb9cbf2edec"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Celia Mae no elige personaje si no paga el coste opcional.md",
+      "enlaces": 1,
+      "antes_sha256": "17b42063e57e422056241233489db0a82ec5a3a74d042616c25c65ce5d60f5a1",
+      "despues_sha256": "43f322ce30c4db19768e133e39e1a6c6788170bd62b6416aeceeed0d2ccbdfa2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md",
+      "enlaces": 1,
+      "antes_sha256": "27def492810845731f012c218a70cf3bcb4045bd516382e6ea8ac2b9ace0a366",
+      "despues_sha256": "2e4c907a619a47a96fe3231933d36c3e81e1a8ff55468ceb6d54db523b0d2dc3"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md",
+      "enlaces": 3,
+      "antes_sha256": "dcb232fb3227a0cccda75e3f50b059495d28cb8f3281ea9bdba1d6ceb9ca0a6e",
+      "despues_sha256": "3957c3bd0b4581e5cf7fd54344a58c23a55fdd9ab2c2cc7645c4412469999ced"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md",
+      "enlaces": 4,
+      "antes_sha256": "3cdfc2420ff5c6d3efac0f44164101f104702a024310bbd274dba14a249ba792",
+      "despues_sha256": "d06b2deb13767b7227e454f2d9e7987d2fe726747e2ab614fb59060b10901131"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md",
+      "enlaces": 6,
+      "antes_sha256": "63ed7e669d1abeea967314143172fbfb3c78f42375b3241c5c90e1fcf94a6d00",
+      "despues_sha256": "e4ec82b9e677652e6cb330cce0e1af2d0653b1086d3046c942833f7da05c86f0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md",
+      "enlaces": 2,
+      "antes_sha256": "baf59b4505b194e51a2da9871a11224bcbf62f6dc4d40942b0fc9f2282cf5610",
+      "despues_sha256": "747515816f0c08bf2162ea6d5d767e0783e2b7adf77cca3150abeb0020fc1c49"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md",
+      "enlaces": 3,
+      "antes_sha256": "93a64fd5d4898a5e7a2d91244255e51f0d1cc752b9c79c96d3fe839392ad834d",
+      "despues_sha256": "61fe1b27445e8e65d0e51b2941634e0a7a8aaf9d459be126c1fe01cb52c9fc99"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md",
+      "enlaces": 2,
+      "antes_sha256": "b26fa5b2231bda14b267f63859b633ace94a0d9dfb86777e41bbef22badee6e9",
+      "despues_sha256": "2506346fde3892100a9a3d35d463111c133b87561c8ad6423d55e2224d3fba8c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md",
+      "enlaces": 2,
+      "antes_sha256": "6f34f7f3718e9addf88df000ce23fee5eda10e2fd64362117cca97cdc922c83f",
+      "despues_sha256": "54484c4982347151d1d3dd1921db4457624f76e4da28869223ebedc437180eaa"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md",
+      "enlaces": 12,
+      "antes_sha256": "59a4b3c3b1b7fa737f83e8623b6aeb726e7e67a50660eefb7c177bb21b40e128",
+      "despues_sha256": "0740ca70a375553fec7f4299acf9710237b5b2276a9b5ad21ec9fff6ed7f8171"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md",
+      "enlaces": 1,
+      "antes_sha256": "dd157069abfcad34b48339398403605c17076e5207ab31591d759c7df037484c",
+      "despues_sha256": "8158a8c8206622b3c7700429775ec037e78f0cbac68409297bbcc883631fe750"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Ariel Ethereal Voice, boost y Beyond the Horizon.md",
+      "enlaces": 2,
+      "antes_sha256": "fab57c5606b88dd5749ace710c0e2d08907a7adbb83152706fef2894317dce77",
+      "despues_sha256": "a656711cfd707888eb17a0fdad832e45cf23ed36418ba266a696bd1e31419365"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Bruno y equipos con varios nombres.md",
+      "enlaces": 3,
+      "antes_sha256": "ff46f54e42d4bdfb0d30fdfe49d03f23fdee8b72e4647cd31ab3db1c1ec71df7",
+      "despues_sha256": "fa2c16893c1f6d192bf439162913949dfeb6412788b6e765700da667598052a1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Cartas que al abandonar el juego hacen cosas.md",
+      "enlaces": 4,
+      "antes_sha256": "9b06b3be979322149db3a738c6ab7afdb2e65d66a05933aa33d5ccb1155f1dae",
+      "despues_sha256": "fdd32a58c6ba6ed47bb736f06ea433ca5191030c80ae8d9aa63f89fb77bb0c94"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md",
+      "enlaces": 3,
+      "antes_sha256": "8ff889b1ddfc9a583a9db4e2b46caeaac2f15fa9339cf13afe0f6b2afb8571c1",
+      "despues_sha256": "94676db835dced434746157e6bbf00959e9f2ffb1d16d1e546b70ac57d4712a5"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Elsa's Ice Palace e Ice Artisan, orden de resolución desde bolsa.md",
+      "enlaces": 2,
+      "antes_sha256": "0c3851ac2d44587e5c2274af15e564a5bf0e839c9ce7d4872a30a475f7b94aa0",
+      "despues_sha256": "5c08b6c4ae216c269f3e12ba664f75cd8f63464e776836c94a5ee763edf3d95b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Enderezar un personaje.md",
+      "enlaces": 2,
+      "antes_sha256": "a9a20861288c4dd523d23830d0c90ca6eacba4619ffa49c98af2ec71c0c32ab2",
+      "despues_sha256": "503519dce534b6545f1c203d3063f82b6c0690a774c4b7177b833f371956e6c6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Ganar palabra clave cuando 'acción de turno'.md",
+      "enlaces": 1,
+      "antes_sha256": "09237b2eb939925c76f62f3705d514e13f7a851af66cba65dda3c9230d2d1df9",
+      "despues_sha256": "3c7219415778d2939573c0798cd7110bc9944e2af0c34bc0bb96a302a56c2a88"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md",
+      "enlaces": 4,
+      "antes_sha256": "23fb3a6e836410aa4d72fe20c5804523c65a7309c225bd0f0a2eed74d58a89fc",
+      "despues_sha256": "a8a6c97790eab58b2621ceefc0bcc70f35bea7cb525ee7ac06af4fd300858b03"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades que contienen 'they'.md",
+      "enlaces": 1,
+      "antes_sha256": "78c5387df74adc9953ddc7c96a76961af8fed6d0f245e970b4391ab2af0f3c8f",
+      "despues_sha256": "fb9cb74d86a5c6031c96d5bd0b4d76117dd2675ba565ddb936a132a36891065a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Heihei - Created by the Vine dispara por su propia clasificación.md",
+      "enlaces": 1,
+      "antes_sha256": "d88d2175d34f9b9cea1750e12fe328a105d2243369a02c25ebf8fa569b95b930",
+      "despues_sha256": "01d9a6c967308a24bf87547ed71ba5fa8c34cf289272c22a14cd198ed287485a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md",
+      "enlaces": 7,
+      "antes_sha256": "13da54a1238ef4abb348cc7fe5a2e8e28ac2eafe1bf9c2175fb73cbd75c135f3",
+      "despues_sha256": "0a2d409a62081123d124fe38935f47cac0ae079086d9bef9252ae068cbccdebe"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md",
+      "enlaces": 14,
+      "antes_sha256": "b1604720252850f9613c939efc1567be074bb88b2361a739f34211350679d22f",
+      "despues_sha256": "5a2203c6424ad0c2ffdb3bb17eb888c603d5ed61ba71d8fb1c3fb5c8c9332fcb"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist.md",
+      "enlaces": 2,
+      "antes_sha256": "67172f4fd002481250c0c8ac0dd7586c19c7ca06f30acf904c18b0e683bd9c86",
+      "despues_sha256": "02f6f8925612aa87bd1b0366b5ea2bfbe69a79490cbc8c9b3f65891cac7a1bf0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Wisp Conjurer entra ya agotada.md",
+      "enlaces": 4,
+      "antes_sha256": "e927e0bfc3bc93bcca6e22a7eaa0a33471efb8524cd916d96048bcd6845f6c4e",
+      "despues_sha256": "d8fe125969cadedfece6508faced046ca140d5c021d5b1b34deb18b6a9f834f5"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Next Stop Olympus, dos copias y lores.md",
+      "enlaces": 1,
+      "antes_sha256": "1a1abcf04339827af5cba7d0ffcb68024e9985721e142f05d475fce5c918fbdb",
+      "despues_sha256": "2d4206226ed5d0bdc688ab8c37ecc8cf851b7007cc6407e0908336593deaaa3c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/No poder ganar lore por efecto estático.md",
+      "enlaces": 2,
+      "antes_sha256": "d3d27ff16acdd1a8256f1f40e744accd6f2ff91c93422b7fb47a03d893258309",
+      "despues_sha256": "914b037711ddd858b623355f84787d04d42214b92123e2b29b8cbae4e50981a0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md",
+      "enlaces": 4,
+      "antes_sha256": "a3ec6123f339d1e238b68ede02b10576721e41247b6bae2b613a876905d64038",
+      "despues_sha256": "b95577a0f5a99cf9e221f4fe255d58c953a26d4c674d9683a18fdb999baad9fa"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md",
+      "enlaces": 1,
+      "antes_sha256": "9c342e8410fcc492e02baf7e7f1ef1d9932edd5b71f85113888af17456ea435d",
+      "despues_sha256": "ea4529d220558b46cb8d119e4b016c2956e100651f9648c83087e3285875d215"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md",
+      "enlaces": 2,
+      "antes_sha256": "7d18692c3007a1e2e73932e20790cb58bb2547598e1d44d36c5b683799f377e7",
+      "despues_sha256": "89416eb366d1d8a7332d1d6910f3f2142acac53277520e81c2fb622fad982f78"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md",
+      "enlaces": 2,
+      "antes_sha256": "955b7d35f5240ac0e4a8ad9b5fa4d298f1a84d5f1d26872b1c543ba249fb984d",
+      "despues_sha256": "d8b02e3b372b63c4106b2041a5cb7ce3210604e75d277cb48f39615b65b8ce99"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md",
+      "enlaces": 1,
+      "antes_sha256": "1738ebc3e185218becb7ea37baa261832f3c18e798fd1b1e696328e4714c8eec",
+      "despues_sha256": "3fb861193ee3e509578f4b297e68904ba176a67c00c0800b2c781f54c271d43c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md",
+      "enlaces": 1,
+      "antes_sha256": "04fceac317ae9acf490cd64e441e04a966b5c84315d277a37ec24e5add39e067",
+      "despues_sha256": "21825d11c7d1f7006c52db05c7bc0b2f11076845c8250f2549c9dac6fe7b5c43"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md",
+      "enlaces": 2,
+      "antes_sha256": "9fa91891a15346eb2a1963bbe460c41294acaf61e33a2cab9a7e8e05e67dd148",
+      "despues_sha256": "a3ac204ddc5dd56807960368461e52a590a006cec446079c4bdfe25b1ef54999"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md",
+      "enlaces": 2,
+      "antes_sha256": "00e4c792ee8d0567c7c9eb93116b95e6560d992574478c3b6bce000a14f3f27a",
+      "despues_sha256": "fa02a842e59568b3a218cffc3ead519201ce652c9177751a922a10e34f5109a4"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md",
+      "enlaces": 2,
+      "antes_sha256": "0d16a4f200923639e30b36f7b55c78f7320ab6d0d7a52e6a6f10008fbb3eba05",
+      "despues_sha256": "96ee4f4069caa170bd27559100d17ac8444d68d3473f378f64b5f180adf367a6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md",
+      "enlaces": 1,
+      "antes_sha256": "9f1fbac45f1a108c9e497fee698b5bbcb8698de0c68bfdf1037ec69a1022ef61",
+      "despues_sha256": "a0063325b41467b5e09935ec141de7293ab667aba3b71268ebf78fd0f248b08f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md",
+      "enlaces": 1,
+      "antes_sha256": "ba5eefcd7d8a982428186dcd6780ea953321f5aa68d9b580e46a577ee6902cd1",
+      "despues_sha256": "3a3b51b8b3e47268cad19c4937ae625b8ccb3783fc3320b1c8784d14dd86ed64"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md",
+      "enlaces": 1,
+      "antes_sha256": "0931daf9aaced3b2e22e45e475313e94c15463dfe766c26e4eb578c8235095ba",
+      "despues_sha256": "0012eaafaa83c81c90af095df2e7f776b6e22ee0b82cc272d65076595d596ce4"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md",
+      "enlaces": 1,
+      "antes_sha256": "d453e957fd8adc02cafda218dec15d24385354f8003464d222103b9e6e01e9b4",
+      "despues_sha256": "e24d08b3a2285ce6b040deb1db4d6b20576474d3a4fbf2726045a3d59ffc767a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Aclaraciones de Fabled.md",
+      "enlaces": 22,
+      "antes_sha256": "02124f9c5254c7ab8f61cbcd4c599068b438da335fce0a2a0aee2bb9f06e4fd3",
+      "despues_sha256": "4f7c4b0e3653b8baa70a987cf74c5afdbca252393ae92a8ed18d9836e04baf58"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md",
+      "enlaces": 5,
+      "antes_sha256": "d72712ee6f5d7b9b1942d9ad976dc96cc7b4a55a71645a718e3ef27d9860111b",
+      "despues_sha256": "fdee6359cb2496aa00e5819e5a5d7d019aa8398a4e2213131c19dfb325699e52"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md",
+      "enlaces": 8,
+      "antes_sha256": "022fa4f21960c14707ffbd4b9fcc2c6bf508daefc9b62aba0bb694b6f1609d05",
+      "despues_sha256": "3b53fdd5727ab8bcecb85fd1e031a26300cba1678c9d7625e1220dfd1154c726"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md",
+      "enlaces": 3,
+      "antes_sha256": "c13e6a41a372f5c8b19604847d5e23dc275de99a3ce881f07046586e52912fdd",
+      "despues_sha256": "1ed5a348b18c078aca0020a9144102ccfedd82a4de86b6c701878ff749373af2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md",
+      "enlaces": 2,
+      "antes_sha256": "70f4c4679816352d219664823f686078ed777d6a38e4ca2bc535931f47221892",
+      "despues_sha256": "9aa407504da8d75a93463e810b69b60106b97f29cfd191b0204d886409ca7bfe"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md",
+      "enlaces": 1,
+      "antes_sha256": "2ddb5cb7ae8c6506af8a00f9edf3fa2ae238b8228288f5e3d617c075188202a6",
+      "despues_sha256": "ed1b744f976bebdb404f8748cafec1d4e70ca0828209a6fda4e22914415b9a8b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md",
+      "enlaces": 1,
+      "antes_sha256": "c0edaa5889fd2f24683c6f2c3a0cefb575d5a7c44986259a650862ce9f3466ef",
+      "despues_sha256": "2c747a3c24dd9dbaeda5071b78c38e0bc32d0fa166bc4989439953afe57bda90"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md",
+      "enlaces": 2,
+      "antes_sha256": "195effb4f41f65f7dc88c558bfabb29954157e6d99430f3ca2a8b26ce45dfd88",
+      "despues_sha256": "3549d85f673547d91b00cbad6129cd476700d9b8e9debff812aba5792efdc890"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/El uso de Then.md",
+      "enlaces": 2,
+      "antes_sha256": "83cb22851b4fef899d8584f59a596d88370910b5dadc70626480b98590865980",
+      "despues_sha256": "e3d9c90db7b9e9276ec6cfbdaed1a0191f5bb22ef53a7654fd88d7c072f117d9"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift.md",
+      "enlaces": 4,
+      "antes_sha256": "92d0e34054bd58a089a0b6c4c2115f75e93bcc87f23f121859a7b2cff795d044",
+      "despues_sha256": "053a064d3b66a226809ebd17fa0e660cf0abf98a0ce02b8be96ebd01eeedc09f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Hydra - Deadly Serpent y Resist +1.md",
+      "enlaces": 2,
+      "antes_sha256": "1f765980794574de4c770b821cd1af4dbea3b99814b6125dcd1f6f7764ef3c78",
+      "despues_sha256": "3185e52ee24235bec45eaa4f720dfbadd623270dcad8ded1f744d95742e708a2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary.md",
+      "enlaces": 7,
+      "antes_sha256": "949583972ec6630b4588be825be3fd6e3dc53bc5eb7bca1bfa36abc16f2104f4",
+      "despues_sha256": "b2d03bf880e53e7a6b283831696a902519bd9d4d2e5ee6778200880807a20ab7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md",
+      "enlaces": 1,
+      "antes_sha256": "17cdcdf59ab136b25aa0b5f810070d79fa1e6d2abbf79a07deea2e3e6031267b",
+      "despues_sha256": "1d4d22c418bdf945dd95f80e7ff03b46b2113cbf9bd5a104a064f398448949b6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md",
+      "enlaces": 1,
+      "antes_sha256": "554e84cb9ed7afdb0cae50ef9b7da72046d407dca77ae334184aa038e3bac759",
+      "despues_sha256": "94e0c7f0eafc2fc34d92388bd51dedefd7eda5d3c3af0aa3c0c02d7dfa59ce69"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Tiana y su trigger post canción.md",
+      "enlaces": 7,
+      "antes_sha256": "240654806bb199c41c5f2cc8452d7d76391afa97f288109a2d7a946c35a01bb3",
+      "despues_sha256": "df6a64ed30c31c0cb97b5a537e738008edd336a792b7f20e750dfc91eb67af59"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md",
+      "enlaces": 3,
+      "antes_sha256": "8cddf39548ce4477c99530ed0c9cda7ca74c5548f2a60573bc20d5656b3c2387",
+      "despues_sha256": "9df5e5c5fa9211e6f6896b258858bf1a00076c7ccac78067c6f5501d631efe1a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta.md",
+      "enlaces": 10,
+      "antes_sha256": "e6c374699c607b01cb824902a3f31488e830b1ebc2d35a248c7e5680022ef108",
+      "despues_sha256": "ce6b445547d677b9c790d55ee96940bb9cbe1d2d6e93e944dbe03ff05f658409"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md",
+      "enlaces": 2,
+      "antes_sha256": "1ac40d91a443cde1fe9720aec25af68ad5e9c58ee843ce4b350426049e5ef113",
+      "despues_sha256": "c1ba5f381faac846a7f0db8aaf8948f765fc55873c4686560acadd6faa6b9dbf"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Copper y Reckless sin objetivos de ataque.md",
+      "enlaces": 4,
+      "antes_sha256": "1af3eb0d31f06af48c5d43d45faf14d7014a2843d74fc67c410b9cbe45145d71",
+      "despues_sha256": "7d5fb26533f80fcf5958b14f56a8f089ef76613b8e405389cc02799b0c3686cf"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md",
+      "enlaces": 1,
+      "antes_sha256": "993b3975e5e295beb7efb1a55b1e066c5946769bbe6567f9f41d6a605abce80d",
+      "despues_sha256": "c4f9d174962306626dc3a8376e79b9203a7ce0fb2b6dd2b69b98911803fce1c2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md",
+      "enlaces": 8,
+      "antes_sha256": "685afd74285ea3370a4bdda9cc76cb9fa1ec171f40fa5921f29ed560f46b13e5",
+      "despues_sha256": "052ea70a48c5097f3425a14cb548ec0129521a6471a6ac7fe72fc016dc0daaac"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md",
+      "enlaces": 2,
+      "antes_sha256": "ea2bb4121eb1f44de38821eac4882a6494d025798d955d811c814a522a2378ce",
+      "despues_sha256": "03ddced05c13ce963ffd986c5c23d47bbe1eae59be4395e56e4a7c90281180ae"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald.md",
+      "enlaces": 6,
+      "antes_sha256": "ca0dedf299914266b0d6b7bf6e282e40e7f485faf2c71241e5395f3aa4281266",
+      "despues_sha256": "74db117a53271f25502d1d7d4f022ba2080d4794987fcf22bb50837012405b27"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md",
+      "enlaces": 1,
+      "antes_sha256": "f96f33c4b22ba696de3508de651f9294c87ce416f27e1b17ba4f73f1f510f054",
+      "despues_sha256": "298baa14355397f2c52f334a511075dde4efa4602cd9768e5c071b664cdab359"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md",
+      "enlaces": 3,
+      "antes_sha256": "b8e15fe1b2314bc21b0621d2f15aba419637688bbbc6d2973991bd349669d52b",
+      "despues_sha256": "b47001188fe401e238f7ca723daf5dd803d606168d46110fe0ff44b3e63e20f5"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fergus - Outpost Builder, Hold Fast y alcance del descarte.md",
+      "enlaces": 3,
+      "antes_sha256": "b9d8593487644eb2fc66b9e05ac27bc6e5282562448bf14c3a37c1c8a2a4d71a",
+      "despues_sha256": "ea453fdf1795ae8c31053a9e7bca525755e2fdda9be2df6a0fa87785fe360cda"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y el final de partida.md",
+      "enlaces": 6,
+      "antes_sha256": "1417cf0e56e7a769020414f9b5c9bc7291a310f2fa1ea3b337c9e178907c31fe",
+      "despues_sha256": "710a9eacc6c81567dd5a448b0ece641e11c11e610865d3df3c37c0131c66bf22"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y habilidades que dañan.md",
+      "enlaces": 6,
+      "antes_sha256": "793eccc63b1fb32986b47873012f065cc428dbc32203b60766d1232c9606a503",
+      "despues_sha256": "9e81ba758503d9b6e34a13077dbfd0973b6451ab370134369c1a8c47cb5948f7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md",
+      "enlaces": 5,
+      "antes_sha256": "0923e1699694f12516f7349fc694584c028fc08efe65015d606a841265d5ed5c",
+      "despues_sha256": "ba9cca1fa8a9d98be3609fce0b31ed8a623d19c7fcb1df9e42855ceb4c9839cd"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md",
+      "enlaces": 1,
+      "antes_sha256": "ecb6cee3123be18ee7c75456e9c6d6dca717de01cef8442ccacc80b55ae4d2f8",
+      "despues_sha256": "c9f00723f4203d70f23ba568fc6fa3668aacc0b2e49bef697a99af2fc03b69a7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md",
+      "enlaces": 1,
+      "antes_sha256": "9b79cd40be6326f1a81d11c432d5b08a787cbfa92b56ed0838b35758feb3c666",
+      "despues_sha256": "936b677202df9fcd7662bc06b2560ad0af6e90203bfbcd3da9e2a323f349f1b1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md",
+      "enlaces": 2,
+      "antes_sha256": "9a1c6314d715cd1c0a7861d5cea371d33ddd4353c647f6b831e42604643cf7a1",
+      "despues_sha256": "a99cdda9579018885131b870b655eb7f18cebe2cbd258119606ef56e91c5f4db"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Education or Elimination.md",
+      "enlaces": 4,
+      "antes_sha256": "5f0adba14a8e960b4b47005a69d060bd63760ee931763ec05fcc83e9a4ff2806",
+      "despues_sha256": "9c39136ea99d3ee9812b6ab9ea01ae17c193fd279935bd357aac7c043a97b2ad"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md",
+      "enlaces": 1,
+      "antes_sha256": "9e677c9e72d41e9b76318ce3876210a3c38bd4ddf348efb34a8ab67b7c16c3db",
+      "despues_sha256": "7719878f0622e155167f0cc2da1241898324403e209dc2c11fc00caf0bcfa0b7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md",
+      "enlaces": 1,
+      "antes_sha256": "b2ed4cf9ad2c2418e341163049e75585d20f7e6a1c4b7f96d169aa9880fc47df",
+      "despues_sha256": "ada9edcd2798cc8877bc18c03332c81ee40ce676da4ed48497df9970103c968f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md",
+      "enlaces": 5,
+      "antes_sha256": "b966157fe45cefe535228481b0bf1764fd08a1c8519e4bb5d6db5ba1ea347e73",
+      "despues_sha256": "88891bcf8e8ef19a64c3a293247f60723484380694b6e8e723c24fe5e50bdaef"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md",
+      "enlaces": 6,
+      "antes_sha256": "3557e27f787e0550449bd77c017dca7faeea5ddf43636a1bc8ce3054a529867d",
+      "despues_sha256": "32f91b61f4ac91d9b458a85d9169927913e29ab2f8bee1ff61fd088aa1118691"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md",
+      "enlaces": 3,
+      "antes_sha256": "93404cdb5acb0e5e56a1cda32bd4f40d71faff06bacca40d8c8d1e7dd2bc1979",
+      "despues_sha256": "5e0b86f0a069a445b5850ad4b729de5e98047d67a04295f69f180c5b902a409b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md",
+      "enlaces": 6,
+      "antes_sha256": "fbf410e5280f719b466a525443564f51c602d7761c0e4ad6dbc3a2257b0419eb",
+      "despues_sha256": "8299931f2c7190923ded8772ea317c525a931b263e4baa85c024351c4f3c2ccd"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md",
+      "enlaces": 2,
+      "antes_sha256": "bd51894adbd06dc45e92d903259be3e373223f9a2a1217e838e542a627dd466d",
+      "despues_sha256": "757fa63ed312a0a2de57257bb99022c9dce516b28ebbf94853137cea74f45d4e"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md",
+      "enlaces": 13,
+      "antes_sha256": "09544559340966868d10d2050fb14664b6ab25021e3a1179cf9ae5f933de62fc",
+      "despues_sha256": "3e1d0f0e657743c62c79370f0a4e6f713ddea9dfe03ca6578f17286e4f7de7f6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md",
+      "enlaces": 6,
+      "antes_sha256": "17943229682a48804796742fd9eb1375fb7ab972c079331f07919a86fe2175e0",
+      "despues_sha256": "11b124d6090d659d031b518b72d81cc05112d6383adbfee3348feacc5f82e0b0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md",
+      "enlaces": 10,
+      "antes_sha256": "57d2c955f85c0180e409fd92933e3b331499dd97578042aa218f42a6d31d3593",
+      "despues_sha256": "e01b8c6152699ca3d8d0ae496c854a81d3496870c762a3e5ce67fb716119a672"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md",
+      "enlaces": 2,
+      "antes_sha256": "852696383bb2f2c8b23989b64c3731fb689e3de6efbf7c0c3e41577aa10ffa26",
+      "despues_sha256": "87fc7f9da5d8f80a882dca1a87382725ed2437e01d1a7afd2611ef78961059d4"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md",
+      "enlaces": 2,
+      "antes_sha256": "a4d7d37c25c952561d9da910a2ddd7964bac7ceffa73d98ff99ca4f77b37d0f0",
+      "despues_sha256": "6713cfaed114943358b3a993ad1ab254de307df644bb7090267c47a7e73536df"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md",
+      "enlaces": 4,
+      "antes_sha256": "3bef25a08d989bdb4462476d4bde25896fadc3c797b7d51e0b03809663b9c44a",
+      "despues_sha256": "b5e4ec387752a23aaeee03f4fec65218f8554474b0f73797ffd968d1c8536ba4"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md",
+      "enlaces": 1,
+      "antes_sha256": "8f8aa25c99e7013e4a8d7594a8948f161f9c2d5ebb0f2de0937da6cea1d9a5fd",
+      "despues_sha256": "353ecce1b0ef7369e031f9b197aebb156a2bd739df97281b44e8b5ccaa0c175c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md",
+      "enlaces": 4,
+      "antes_sha256": "45065c45bb52aa9866958bb82c1fcf0bdf204034b09d6277c016ff5bc24f3c23",
+      "despues_sha256": "8b2e17c11e78471ff9d2152cbef7415a05dff27e10ce0a1d124459e5554e294d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md",
+      "enlaces": 1,
+      "antes_sha256": "29617f21dbeec5cd2a3d737484a9cd06323f093cbb602ed622d09ea4ac03e70a",
+      "despues_sha256": "e3a2f306054f0b448bb8a72731b509e716e972002abbf0da7fde783805cc16c4"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md",
+      "enlaces": 4,
+      "antes_sha256": "875f6cd8888e2ca72714e91fd646a65bc801153543abcb1af20bc3367e607196",
+      "despues_sha256": "bed053b8470cec7b25954bcc07f14d8d478a6c574e1b10456a31079642f3b28f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Support - Interacciones.md",
+      "enlaces": 3,
+      "antes_sha256": "62a422cab88212cd374d565bfd9fc45e73e690a72a9f6ff09d09b09587fa692c",
+      "despues_sha256": "bf7775a4f48af16df09141c027e327a597ed92a03f078e684af854675b3f90f0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Violet Parr - Deflect puede elegir un personaje sin daño.md",
+      "enlaces": 4,
+      "antes_sha256": "9c6db1e2f998085346d3dac49aeb8bdd35c05d1406bc5d2f11b5d710cb0e94ba",
+      "despues_sha256": "5f5d4b76a6adfabe58528a47e9130b877e499a1af3f0d328a6420808bfa333a9"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Friends on the Other Side resuelta por error con Kida.md",
+      "enlaces": 3,
+      "antes_sha256": "0c96fd8afa34d73b6c248a9b36a45d8f976f7f41ed0ad01df7f8670c07a0c950",
+      "despues_sha256": "788ab9216d613240200ead6f400dd5e7808ac0763cdc89aab6e2f7b08c824de1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Kida resuelta con cartas en zonas equivocadas.md",
+      "enlaces": 2,
+      "antes_sha256": "d640ef6dcf47cb51237fe55df99b668f0dbbcafa5ab30e6f8b6906d70bc252a3",
+      "despues_sha256": "519ef77d8c759560463448d183631cf2f24b7772b37cd9616d42e1ac58f9a1bc"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado.md",
+      "enlaces": 1,
+      "antes_sha256": "1393927ca3625cfa5147ebe2827f6b931752268164c2ab8dcd246f3d5f0fbe9b",
+      "despues_sha256": "eb7448d98b0df2ba7db67400837208858a47b1f3d256abe1fdb0fac65b9bdee2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Mushu y robo cuando no se cumple la condición.md",
+      "enlaces": 2,
+      "antes_sha256": "2790178010ffd461767d7bd2debb70b46a3a748537d3d6ee1d96c5d2bb0b3797",
+      "despues_sha256": "c9154669271490db31048b075b7d3dcd818428b65e435d6b1d64e06530cdb6ef"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/No buscar una carta ausente en un mazo durante la partida.md",
+      "enlaces": 1,
+      "antes_sha256": "3197369e81e1ad67485abb9282bbc6cfa34fafba26cae85ca637904293b5865e",
+      "despues_sha256": "63eda71cb4c12850dee0cf47a5316b0706047063bc3d1307e0c27532e79f2311"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/No deshacer Pete después de jugar Merlin.md",
+      "enlaces": 4,
+      "antes_sha256": "d1744a88d38c78e27853ec20c8ab605a0c8c3a2073c03cb31dc3112784135daf",
+      "despues_sha256": "5befbf1b6a765d3a8799aae6d2a8466788f1cb4c878c8b547a5f21954e660bd8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Stitch y secuencia fuera de orden con el trigger reconocido.md",
+      "enlaces": 2,
+      "antes_sha256": "3e05c8868a7cd58dd40be323fa8968756b39725ac12c12cd792abd2e6a6b69d3",
+      "despues_sha256": "1be0d77de2bf8951342b44a69fdbe2483db15e0c52587e7acd6e26c9b48f41f7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback de un desafío antes de resolverlo.md",
+      "enlaces": 2,
+      "antes_sha256": "487bd98b94a58fd88640d1f6597d6249ca2194f5ab3c7d7cf9b149561904d10e",
+      "despues_sha256": "e9ae3dce914660a9ba936a0abf5bc3bdcd09c0ff380dc061fbb1cda3c2700cdb"
+    }
+  ],
+  "validacion": {
+    "articulos_comparados_con_HEAD": 149,
+    "enlaces_restantes": 0,
+    "idempotencia": true,
+    "excepciones_editoriales": [
+      "Magic Broom corrige atribución a The Queen en Fergus",
+      "Baloo se rotula en inglés al enlazar su imagen inglesa"
+    ],
+    "pruebas": 16
+  }
+}

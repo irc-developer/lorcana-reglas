@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Juego [[02. Listado de Cartas/Set 1 - The First Chapter.md#Elsa - Spirit of Winter|Elsa - Spirit of Winter]] (que dice: "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn").
+Juego [Elsa - Spirit of Winter](https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747) (que dice: "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn").
 
 ¿Puedo elegir un personaje que ya está agotado? ¿La restricción de elección impide seleccionarlo o simplemente hace que el efecto no tenga impacto?
 
@@ -30,7 +30,7 @@ Aplicación a Elsa:
 
 **Texto relevante de carta:**
 
-[[02. Listado de Cartas/Set 1 - The First Chapter.md#Elsa - Spirit of Winter|Elsa - Spirit of Winter]]: *"When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."*
+[Elsa - Spirit of Winter](https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747): *"When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."*
 
 **Referencias normativas:**
 
@@ -41,7 +41,7 @@ Aplicación a Elsa:
 
 ## 🔄 Cómo se resuelve
 
-1. **Coste**: Juegas [[02. Listado de Cartas/Set 1 - The First Chapter.md#Elsa - Spirit of Winter|Elsa - Spirit of Winter]] pagando su coste.
+1. **Coste**: Juegas [Elsa - Spirit of Winter](https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747) pagando su coste.
 2. **Objetivos**: Eliges hasta 2 personajes cualesquiera (pueden estar agotados o listos).
 3. **Evaluación**: Para cada personaje elegido, evalúas si es legal intentar agotarlo (siempre es legal intentar).
 4. **Resolución**: Aplicas "agotar" a cada personaje elegido. Si el personaje ya está agotado, no cambia de estado (ya está agotado). Si está listo, cambia a agotado.

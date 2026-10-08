@@ -1,15 +1,15 @@
 ## ❓ Duda
 
-Si juego [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] durante mi turno y controlo [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Sid Phillips - Toy Surgeon|Sid Phillips - Toy Surgeon]], teniendo además varios personajes Toy en mesa, ¿gano 2 lore por cada Toy desterrado aunque [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] también destierre a Sid?
+Si juego [Be Prepared](https://cards.lorcast.io/card/digital/large/crd_a7c6d3aa2de6462f8d205d70a8fcc54f.avif?1709690747) durante mi turno y controlo [Sid Phillips - Toy Surgeon](https://cards.lorcast.io/card/digital/large/crd_332a65ff58c44154824ef79683a29116.avif?1777687653), teniendo además varios personajes Toy en mesa, ¿gano 2 lore por cada Toy desterrado aunque [Be Prepared](https://cards.lorcast.io/card/digital/large/crd_a7c6d3aa2de6462f8d205d70a8fcc54f.avif?1709690747) también destierre a Sid?
 
 ---
 
 ## ✅ Respuesta
 
 **Sí.**  
-Si uno o más personajes Toy son desterrados al mismo tiempo que [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Sid Phillips - Toy Surgeon|Sid Phillips - Toy Surgeon]], la habilidad **DOUBLE PRIZES!** se dispara una vez por cada Toy desterrado en ese mismo evento.
+Si uno o más personajes Toy son desterrados al mismo tiempo que [Sid Phillips - Toy Surgeon](https://cards.lorcast.io/card/digital/large/crd_332a65ff58c44154824ef79683a29116.avif?1777687653), la habilidad **DOUBLE PRIZES!** se dispara una vez por cada Toy desterrado en ese mismo evento.
 
-La clave es que, cuando varias cartas abandonan la zona de juego simultáneamente, las habilidades disparadas “ven” a las otras cartas que salen junto con su fuente. Por eso Sid sí ve a los Toys que [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] destierra a la vez que a él. Esos disparos entran en la bolsa durante la resolución de la canción, pero no se resuelven hasta que la canción termina de resolverse por completo.
+La clave es que, cuando varias cartas abandonan la zona de juego simultáneamente, las habilidades disparadas “ven” a las otras cartas que salen junto con su fuente. Por eso Sid sí ve a los Toys que [Be Prepared](https://cards.lorcast.io/card/digital/large/crd_a7c6d3aa2de6462f8d205d70a8fcc54f.avif?1709690747) destierra a la vez que a él. Esos disparos entran en la bolsa durante la resolución de la canción, pero no se resuelven hasta que la canción termina de resolverse por completo.
 
 Sid no genera lore por su propio destierro, porque la condición pide que sea desterrado **un personaje Toy**, y Sid no es Toy. Solo cuentan los personajes Toy desterrados en ese mismo evento.
 
@@ -25,11 +25,11 @@ Sid no genera lore por su propio destierro, porque la condición pide que sea de
 
 ## 🔄 Cómo se resuelve
 
-1. **Inicio**: juegas o cantas [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] durante tu turno.
+1. **Inicio**: juegas o cantas [Be Prepared](https://cards.lorcast.io/card/digital/large/crd_a7c6d3aa2de6462f8d205d70a8fcc54f.avif?1709690747) durante tu turno.
 2. **Resolución de la acción**: la canción destierra a todos los personajes.
-3. **Salida simultánea de juego**: [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Sid Phillips - Toy Surgeon|Sid Phillips - Toy Surgeon]] y los demás personajes abandonan la zona de juego a la vez.
+3. **Salida simultánea de juego**: [Sid Phillips - Toy Surgeon](https://cards.lorcast.io/card/digital/large/crd_332a65ff58c44154824ef79683a29116.avif?1777687653) y los demás personajes abandonan la zona de juego a la vez.
 4. **Disparos**: por cada personaje Toy desterrado en ese evento, Sid genera un disparo de **DOUBLE PRIZES!** porque ve a esos Toys salir junto a él.
-5. **Bolsa**: esos disparos se añaden a la bolsa durante la resolución de la canción, pero esperan a que [[02. Listado de Cartas/Set 1 - The First Chapter.md#Be Prepared|Be Prepared]] termine por completo.
+5. **Bolsa**: esos disparos se añaden a la bolsa durante la resolución de la canción, pero esperan a que [Be Prepared](https://cards.lorcast.io/card/digital/large/crd_a7c6d3aa2de6462f8d205d70a8fcc54f.avif?1709690747) termine por completo.
 6. **Resolución posterior**: después se resuelve cada disparo de Sid y ganas 2 lore por cada Toy desterrado.
 
 ---

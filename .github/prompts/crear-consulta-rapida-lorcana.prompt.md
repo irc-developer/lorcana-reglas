@@ -86,3 +86,5 @@ Codex Remote permite trabajar con los archivos y herramientas del host conectado
 La ubicación propuesta para la skill local del repositorio es `.agents/skills/`: [documentación oficial de creación de skills de OpenAI](https://learn.chatgpt.com/docs/build-skills).
 
 El contenido se ha ajustado a la estructura local revisada el 30/09/2026. Este archivo entrega el prompt de construcción; las herramientas descritas se implementarán al ejecutarlo.
+
+Para el lector, enlaza las imágenes de cartas de Lorcast con URL verificada de su API o del mapa `.github/planes/mapa-cartas-lorcast.json`, siguiendo `.github/instructions/lorcana-obsidian-links.instructions.md`. La verificación completa sigue usando las fichas locales de set, conservadas fuera del catálogo público. No generes wikilinks públicos a esas fichas; `consulta:` no escribe el mapa ni cachés.

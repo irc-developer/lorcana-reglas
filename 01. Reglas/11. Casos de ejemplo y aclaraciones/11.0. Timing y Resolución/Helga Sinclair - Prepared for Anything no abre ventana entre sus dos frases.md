@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Con [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Helga Sinclair - Prepared for Anything|Helga Sinclair - Prepared for Anything]], si hago quest y su habilidad está separada por un punto, ¿puedo hacer primero 1 de daño, jugar después cartas hasta cumplir que 2 o más cartas hayan ido a mi descarte este turno y entonces hacer 2 de daño por la segunda frase?
+Con [Helga Sinclair - Prepared for Anything](https://cards.lorcast.io/card/digital/large/crd_ad9b6e3372a140178662bc5ffd0db287.avif?1777687526), si hago quest y su habilidad está separada por un punto, ¿puedo hacer primero 1 de daño, jugar después cartas hasta cumplir que 2 o más cartas hayan ido a mi descarte este turno y entonces hacer 2 de daño por la segunda frase?
 
 ---
 

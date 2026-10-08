@@ -10,13 +10,13 @@ Recuerda la [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules
 ---
 ### Duda
 
-- Juego [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#You're Welcome|You're Welcome]] sobre un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] ¿Se baraja o no?
+- Juego [You're Welcome](https://cards.lorcast.io/card/digital/large/crd_c16e96de6fd24d58969aa7429dcbbdcc.avif?1723917209) sobre un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] ¿Se baraja o no?
 ### Respuesta
 
-Se baraja. La habilidad Vanish se dispara al ser elegido como objetivo y no se resuelve hasta que termina de resolverse [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#You're Welcome|You're Welcome]], así que, cuando vaya a resolverse, ese personaje ya no estará en juego y no se desterrará nada.
+Se baraja. La habilidad Vanish se dispara al ser elegido como objetivo y no se resuelve hasta que termina de resolverse [You're Welcome](https://cards.lorcast.io/card/digital/large/crd_c16e96de6fd24d58969aa7429dcbbdcc.avif?1723917209), así que, cuando vaya a resolverse, ese personaje ya no estará en juego y no se desterrará nada.
 
 ---
-- Juego [[02. Listado de Cartas/Set 3 - Into the Inklands.md#Bestow A Gift|Bestow a Gift]] seleccionando un personaje con Vanish.
+- Juego [Bestow a Gift](https://cards.lorcast.io/card/digital/large/crd_f3f30e7e137c4336a2551abfa4b4eeaf.avif?1709690747) seleccionando un personaje con Vanish.
 - No tengo daños para mover.
 ¿Se dispararía el vanish?
 Sí, se dispararía porque el personaje ya ha sido elegido como objetivo. La carta exige elegir personajes y después intentar mover el contador; si no hay daño que mover, esa parte falla, pero el objetivo ya quedó fijado.
@@ -27,7 +27,7 @@ Sí, se dispararía porque el personaje ya ha sido elegido como objetivo. La car
 - [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|8.14. Desvanecer (Vanish)]]
 
 ---
-- Juego [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Into the Unknown|Into the Unknown]] eligiendo a un personaje agotado con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] como objetivo.
+- Juego [Into the Unknown](https://cards.lorcast.io/card/digital/large/crd_4f93311edfdb4958a45cc7d70490891f.avif?1747508886) eligiendo a un personaje agotado con [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Vanish]] como objetivo.
 ¿Va a tinta o muere?
 Va a tinta. El trigger de Vanish se dispara al ser elegido como objetivo de la acción, pero se resuelve **después** de que el efecto de Into the Unknown haya terminado. Para cuando Vanish intenta resolverse, ese personaje ya ha pasado al inkwell (otra zona) y el trigger se resuelve sin efecto (lost trigger).
 El efecto de Into the Unknown gana: el personaje entra en el inkwell boca abajo y agotado.

@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si juegas [[02. Listado de Cartas/Set 13 - Attack of the Vine.md#Woody - Helping a Friend|Woody – Helping a Friend]] mientras tienes otro personaje Toy en juego, ¿puedes elegir en qué orden resolver las dos opciones de **Hang On!**?
+Si juegas [Woody – Helping a Friend](https://cards.lorcast.io/card/digital/large/crd_1792f6aa4efe42ce93bd680da01f7016.avif?1783188235) mientras tienes otro personaje Toy en juego, ¿puedes elegir en qué orden resolver las dos opciones de **Hang On!**?
 
 ---
 

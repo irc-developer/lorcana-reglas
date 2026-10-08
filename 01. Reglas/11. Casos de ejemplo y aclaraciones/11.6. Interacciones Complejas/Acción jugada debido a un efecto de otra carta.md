@@ -2,20 +2,20 @@
 
 Interacciones cuando una acción se juega por efecto de otra carta:
 
-Con [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Alan-a-Dale - Rockin' Rooster|Alan-a-Dale - Rockin' Rooster]] + [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#Prince Naveen - Ukulele Player|Prince Naveen - Ukulele Player]], si se juega [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#We Know The Way|We Know The Way]] por efecto, ¿puede seleccionarse a sí misma para generar un bucle infinito?
+Con [Alan-a-Dale - Rockin' Rooster](https://cards.lorcast.io/card/digital/large/crd_d46b1371e56d486786fb471a1c043d3a.avif?1723917209) + [Prince Naveen - Ukulele Player](https://cards.lorcast.io/card/digital/large/crd_e9dd2025da3b4ef7adf3f2b9cd67f421.avif?1723917209), si se juega [We Know The Way](https://cards.lorcast.io/card/digital/large/crd_74fab45eaa32470b9ca3c830ab920f93.avif?1723917209) por efecto, ¿puede seleccionarse a sí misma para generar un bucle infinito?
 
-Con [[02. Listado de Cartas/Set 9 - Fabled.md#Max Goof - Chart Topper|Max Goof - Chart Topper]], al jugar [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#You're Welcome|You're Welcome]] desde un efecto, ¿se aplica primero "fondo del mazo" y luego "barajar"?
+Con [Max Goof - Chart Topper](https://cards.lorcast.io/card/digital/large/crd_520397ac5c7a4811b50c9adea4f2f1c9.avif?1755540594), al jugar [You're Welcome](https://cards.lorcast.io/card/digital/large/crd_c16e96de6fd24d58969aa7429dcbbdcc.avif?1723917209) desde un efecto, ¿se aplica primero "fondo del mazo" y luego "barajar"?
 
-Si [[02. Listado de Cartas/Set 9 - Fabled.md#Powerline - World's Greatest Rock Star|Powerline - World's Greatest Rock Star]] permite jugar [[02. Listado de Cartas/Set 8 - Reign of Jafar.md#Fantastical and Magical|Fantastical and Magical]], ¿puede usarse su coste alternativo de Sing Together al jugarla de este modo?
+Si [Powerline - World's Greatest Rock Star](https://cards.lorcast.io/card/digital/large/crd_3a5f83e2f53f4bf0b0d621014cd8f6cf.avif?1755540821) permite jugar [Fantastical and Magical](https://cards.lorcast.io/card/digital/large/crd_9dfb87c4e43b49619e138291a5c9dbea.avif?1747508868), ¿puede usarse su coste alternativo de Sing Together al jugarla de este modo?
 
-Si [[02. Listado de Cartas/Set 11 - Winterspell.md#Kristoff's Lute|Kristoff's Lute]] revela una canción en la parte superior del mazo, ¿puede jugarse cantándola en vez de pagar su coste de tinta?
+Si [Kristoff's Lute](https://cards.lorcast.io/card/digital/large/crd_ec94f5c4a31b40c99f5b421ac7dd3acf.avif?1770259798) revela una canción en la parte superior del mazo, ¿puede jugarse cantándola en vez de pagar su coste de tinta?
 
 ---
 
 ## ✅ Respuesta
 
 ### Caso A — **No**
-Con reglas actuales, [[02. Listado de Cartas/Set 5 - Shimmering Skies.md#We Know The Way|We Know The Way]] jugada por efecto no puede seleccionarse a sí misma durante esa resolución. No hay bucle infinito válido por esa vía.
+Con reglas actuales, [We Know The Way](https://cards.lorcast.io/card/digital/large/crd_74fab45eaa32470b9ca3c830ab920f93.avif?1723917209) jugada por efecto no puede seleccionarse a sí misma durante esa resolución. No hay bucle infinito válido por esa vía.
 
 ### Caso B — **Sí**
 Se respeta el orden escrito del efecto: primero la parte de poner en el fondo del mazo y después la de barajar.
@@ -24,7 +24,7 @@ Se respeta el orden escrito del efecto: primero la parte de poner en el fondo de
 Al jugar una carta por efecto, sigues el procedimiento normal de "jugar una carta", incluyendo elección de modo de juego y coste alternativo cuando sea legal. Si cumples Sing Together, puedes usarlo.
 
 ### Caso D — **Sí**
-[[02. Listado de Cartas/Set 11 - Winterspell.md#Kristoff's Lute|Kristoff's Lute]] dice: "Reveal the top card of your deck. You may play it as if it were in your hand. Otherwise, put it in your discard." Si la carta revelada es una canción, la juegas siguiendo el procedimiento normal de jugar una carta, y en ese proceso puedes elegir un coste alternativo legal. Cantar una canción es un coste alternativo, así que puedes cantarla si cumples sus requisitos normales. Si no puedes pagar ningún coste legal para jugarla, no puedes jugarla y va al descarte por la instrucción de la propia habilidad.
+[Kristoff's Lute](https://cards.lorcast.io/card/digital/large/crd_ec94f5c4a31b40c99f5b421ac7dd3acf.avif?1770259798) dice: "Reveal the top card of your deck. You may play it as if it were in your hand. Otherwise, put it in your discard." Si la carta revelada es una canción, la juegas siguiendo el procedimiento normal de jugar una carta, y en ese proceso puedes elegir un coste alternativo legal. Cantar una canción es un coste alternativo, así que puedes cantarla si cumples sus requisitos normales. Si no puedes pagar ningún coste legal para jugarla, no puedes jugarla y va al descarte por la instrucción de la propia habilidad.
 
 ---
 

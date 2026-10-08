@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Controlo a [[02. Listado de Cartas/Set 11 - Winterspell.md#Mulan - Resourceful Recruit|Mulan - Resourceful Recruit]] y a [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Buzz Lightyear - Jungle Ranger|Buzz Lightyear - Jungle Ranger]]. Juego [[02. Listado de Cartas/Set 11 - Winterspell.md#Force of a Great Typhoon|Force of a Great Typhoon]] y elijo a Mulan para sus +5 {S}. Al resolverse ADVANCED TRAINING de Buzz, también elijo a Mulan para que obtenga +1 {L} este turno. Mulan pasa de 1 a 6 {S} y de 0 a 1 {L}. Si ahora hace quest, ¿gano 7 lore o el máximo de 6 de RIGOROUS TRAINING limita todo lo que produce la quest?
+Controlo a [Mulan - Resourceful Recruit](https://cards.lorcast.io/card/digital/large/crd_3825929341ca42099c98d099ed40d2ac.avif?1770259509) y a [Buzz Lightyear - Jungle Ranger](https://cards.lorcast.io/card/digital/large/crd_0b928f0cd5d2473482e07a609205c26b.avif?1777688111). Juego [Force of a Great Typhoon](https://cards.lorcast.io/card/digital/large/crd_dbff3559ccd647889b1fb934994a2d02.avif?1770259776) y elijo a Mulan para sus +5 {S}. Al resolverse ADVANCED TRAINING de Buzz, también elijo a Mulan para que obtenga +1 {L} este turno. Mulan pasa de 1 a 6 {S} y de 0 a 1 {L}. Si ahora hace quest, ¿gano 7 lore o el máximo de 6 de RIGOROUS TRAINING limita todo lo que produce la quest?
 
 ---
 
@@ -14,9 +14,9 @@ Mulan tiene **0 {L} impreso**. Sin el +1 {L} de Buzz, esta misma combinación da
 
 ## 📘 Referencias
 
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Mulan - Resourceful Recruit|Mulan - Resourceful Recruit]]: 1 {S}, 0 {L}; RIGOROUS TRAINING hace ganar lore igual a su {S}, hasta un máximo de 6 lore.
-- [[02. Listado de Cartas/Set 11 - Winterspell.md#Force of a Great Typhoon|Force of a Great Typhoon]]: el personaje elegido obtiene +5 {S} este turno.
-- [[02. Listado de Cartas/Set 12 - Wilds Unknown.md#Buzz Lightyear - Jungle Ranger|Buzz Lightyear - Jungle Ranger]]: ADVANCED TRAINING se dispara al jugar una acción y da +1 {L} este turno al personaje elegido.
+- [Mulan - Resourceful Recruit](https://cards.lorcast.io/card/digital/large/crd_3825929341ca42099c98d099ed40d2ac.avif?1770259509): 1 {S}, 0 {L}; RIGOROUS TRAINING hace ganar lore igual a su {S}, hasta un máximo de 6 lore.
+- [Force of a Great Typhoon](https://cards.lorcast.io/card/digital/large/crd_dbff3559ccd647889b1fb934994a2d02.avif?1770259776): el personaje elegido obtiene +5 {S} este turno.
+- [Buzz Lightyear - Jungle Ranger](https://cards.lorcast.io/card/digital/large/crd_0b928f0cd5d2473482e07a609205c26b.avif?1777688111): ADVANCED TRAINING se dispara al jugar una acción y da +1 {L} este turno al personaje elegido.
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card).md|4.3.3.2 y 4.3.4.]]: la acción termina de resolverse antes de que puedan resolverse las habilidades disparadas al jugarla.
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md|6.6.1.1.]]: los modificadores cambian las características durante su duración.
 - [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest).md|4.5.1.4 y 4.5.2.]]: primero se gana lore igual al valor {L} del personaje que hace quest; después pueden resolverse las habilidades disparadas al questear.
