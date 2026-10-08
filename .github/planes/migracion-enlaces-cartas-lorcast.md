@@ -1,6 +1,6 @@
 # Plan de migración de enlaces de cartas a Lorcast
 
-Fecha: 08/10/2026. Estado: ejecución local validada; publicación selectiva y retirada pública en curso.
+Fecha: 08/10/2026. Estado: migración completada, subida y publicada; catálogo público reducido y corpus local conservado.
 
 ## Objetivo y criterio editorial
 
@@ -94,4 +94,12 @@ Dos correcciones editoriales acompañan los destinos: el contraste «from any di
 
 Se comprobó Publish: hay 15 páginas del catálogo (entrada y 14 fichas extensas; el set 14 todavía no estaba publicado), y ninguna de las 16 páginas legacy del inventario está publicada. Los cambios previos de Empates intencionales, el índice de casos y el workspace de Obsidian quedan fuera de la selección. La consulta auxiliar MCP de Fergus sigue recuperando su ficha completa con coincidencia exacta y cita verificada, mediante lectura actual en memoria porque el índice ya estaba desactualizado.
 
-La publicación y la retirada se registrarán a continuación al comprobar sus resultados públicos.
+### Resultado público verificado
+
+El commit de implementación `41480b15bb734faf82306d263edb608019cfbdb3` está en GitHub. Se publicaron selectivamente **152 páginas**: 149 artículos, portada, entrada breve y la plantilla, que también estaba publicada. Se comparó el contenido de las 152 respuestas públicas con los archivos locales y coinciden. Las 240 imágenes distintas que realmente enlazan los artículos migrados y el artículo de Héctor están dentro de las 241 imágenes comprobadas por HTTP. Se revisaron visualmente la atribución, los enlaces de personaje (Elsa), acción (All Is Found), localización (Sleepy Hollow) y reimpresión (Mulan en Fabled, #126/204 EN 9), y la legibilidad del artículo y la imagen de carta en tamaño móvil.
+
+Se retiraron las **14 fichas extensas** que estaban publicadas; el set 14 ya estaba ausente. Publish conserva únicamente «Cartas de Lorcana» en esa carpeta pública. La lectura remota de cada ficha retirada devuelve «Not Found» (el servicio entrega ese mensaje con HTTP 200); sus 15 archivos locales conservan exactamente sus hashes anteriores. Las exclusiones evitan volver a publicarlos accidentalmente.
+
+No quedan pendientes de esta selección. Las instrucciones, herramientas y registros de validación se suben al repositorio y no se publican en la bóveda. Los cambios previos en Empates intencionales, el índice y el workspace no se han incluido ni publicado. No se ha actualizado el índice de búsqueda del MCP: su recuperación actual en memoria fue comprobada.
+
+Registros de cierre: [resultado](resultado-migracion-lorcast.json), [selección pública](seleccion-publicacion-lorcast.json), [verificación de las páginas](verificacion-publicacion-lorcast.json), [retirada y hashes locales](retirada-catalogo-lorcast.json), [mapa de correspondencias](mapa-cartas-lorcast.json) y [manifiesto de sustituciones](manifiesto-migracion-cartas.json).

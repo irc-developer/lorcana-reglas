@@ -1,0 +1,157 @@
+{
+  "estado": "retirado",
+  "commit_migracion": "41480b15bb734faf82306d263edb608019cfbdb3",
+  "fichas": {
+    "02. Listado de Cartas/Illumineer's Quest - Palace Heist.md": {
+      "sha256_local": "abdaf8962f254b1ad095603746518f8ec8527987445a81b251770ceda8b0fe48",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 1 - The First Chapter.md": {
+      "sha256_local": "0728ed4a78f329a57940e33d1a3d6d1e69c4e4f96840c645b90f159923d5c5bd",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 10 - Whispers in the Well.md": {
+      "sha256_local": "099af146d0fb2f4821f68bef990fc5a99fb800bc9b1175ebc379575b03c39346",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 11 - Winterspell.md": {
+      "sha256_local": "98b05cfcdd83e1667ebab7b3b3786433148a7501727d88790c5d700345567632",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 12 - Wilds Unknown.md": {
+      "sha256_local": "5feb3997b6ee24843efbd110beb0d501fb6d6c172183f6dc95739ffdd7dceb7a",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 13 - Attack of the Vine.md": {
+      "sha256_local": "c032410a7e7e908985ea0769521f316dfcb9fc290441394e84a7e344e0cc27e1",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 14 - Hyperia City.md": {
+      "sha256_local": "47f16a21c80c018319388744babd56adfc540cf8c70ea7bead11bae4ddffc323",
+      "publicada": false
+    },
+    "02. Listado de Cartas/Set 2 - Rise of the Floodborn.md": {
+      "sha256_local": "d0e00e24544bc218c7adb0a08f0a055054c2b443fe829218f74736af86b85aca",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 3 - Into the Inklands.md": {
+      "sha256_local": "6cc64fea92f34d5b7f5968aa465ddee96073b5157943f04fd6de00faa32248c7",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 4 - Ursula's Return.md": {
+      "sha256_local": "d969d327175f08c7d5dc20b75141ddd20f5df3e01e9b5322db6f6d63f44b0f37",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 5 - Shimmering Skies.md": {
+      "sha256_local": "317d1fe2c29b9b422d108c6a69eb7179d6427df652e7300230245b67a256e2ba",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 6 - Azurite Sea.md": {
+      "sha256_local": "70cbbfd202f66b3d55908baa804fdc2fb39ca5f6d0d7a62ae9b75783595f0098",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 7 - Archazia''s Island.md": {
+      "sha256_local": "382adc9ff733df4d16850cec8361d30c88020b6770fe9284a2e572e8a4ae4de5",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 8 - Reign of Jafar.md": {
+      "sha256_local": "74a1040212f1eb9988beb48236cc6160e9df557a029a571e905248b5c8d90540",
+      "publicada": true
+    },
+    "02. Listado de Cartas/Set 9 - Fabled.md": {
+      "sha256_local": "4d6fc9b1bd16827910c0bf491012c5ba733e828ea05be50ec787b8674cc37b05",
+      "publicada": true
+    }
+  },
+  "retiradas": [
+    "02. Listado de Cartas/Illumineer's Quest - Palace Heist.md",
+    "02. Listado de Cartas/Set 1 - The First Chapter.md",
+    "02. Listado de Cartas/Set 10 - Whispers in the Well.md",
+    "02. Listado de Cartas/Set 11 - Winterspell.md",
+    "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+    "02. Listado de Cartas/Set 13 - Attack of the Vine.md",
+    "02. Listado de Cartas/Set 2 - Rise of the Floodborn.md",
+    "02. Listado de Cartas/Set 3 - Into the Inklands.md",
+    "02. Listado de Cartas/Set 4 - Ursula's Return.md",
+    "02. Listado de Cartas/Set 5 - Shimmering Skies.md",
+    "02. Listado de Cartas/Set 6 - Azurite Sea.md",
+    "02. Listado de Cartas/Set 7 - Archazia''s Island.md",
+    "02. Listado de Cartas/Set 8 - Reign of Jafar.md",
+    "02. Listado de Cartas/Set 9 - Fabled.md"
+  ],
+  "ya_ausentes": [
+    "02. Listado de Cartas/Set 14 - Hyperia City.md"
+  ],
+  "verificacion_remota": {
+    "02. Listado de Cartas/Illumineer's Quest - Palace Heist.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 1 - The First Chapter.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 10 - Whispers in the Well.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 11 - Winterspell.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 12 - Wilds Unknown.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 13 - Attack of the Vine.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 2 - Rise of the Floodborn.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 3 - Into the Inklands.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 4 - Ursula's Return.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 5 - Shimmering Skies.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 6 - Azurite Sea.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 7 - Archazia''s Island.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 8 - Reign of Jafar.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    },
+    "02. Listado de Cartas/Set 9 - Fabled.md": {
+      "http": 200,
+      "respuesta": "Not Found",
+      "contenido_retirado": true
+    }
+  }
+}

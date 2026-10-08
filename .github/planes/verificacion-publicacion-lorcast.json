@@ -1,0 +1,920 @@
+{
+  "fecha": "2026-10-08",
+  "commit": "41480b15bb734faf82306d263edb608019cfbdb3",
+  "verificados": 152,
+  "correctos": 152,
+  "paginas": [
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "45314c3504a27a49d86b994259f18f3f680c0579369e67d430558e8e7297fea0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "135e755399fd2a1891a5d645c6c3f8b29ea1ecbeed7bbcb0626ce1b2966ae9b9"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en mano y el cálculo de triggers.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4f7642a6d8623011d104a0d2176120b34a6a2f9f59c204823352243b48369398"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4d54186bfda4af4fdc02289e89b2eed05348bf386f6730906a69502659119cff"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cumplir parte de una habilidad.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "97f13a8ecf215d158281bfe6af482dc85e5960f120755cc476ac4dc6df08ec05"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Derrota, timing mazo vacío.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "71696cb87699368eaae851799ec6070cdb32ae7478656dac517c873fc3fa6e08"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d4677acc2cde119dba93372d9b7f02c3249b0ef327ced0f6f81b9fc29663b5e9"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir múltiples objetivos.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "6e663f888e46eb606a4edfed882b46b3df6b91b5e334d71dca42c40c2e755e44"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "15ac2eac85548df6c76ac7c2ef608b73c0af76b8704575956dea5a07a53314f7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "2ac9046bbb0d5509646bbe87e3331a060957460cfedf4a3eac45847db445dd6d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "fda2ee979a3508daa30c5a86fbcd4bbef18407cd18cb8dc33f92a51377ba7834"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al principio del turno'.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e6c914974b86bf3089487f91b3fff99bbcd309716a2be6ff2f3f84212d316d14"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d9f3a831f6d55b1ee2e6c4aa104fc4f61f4cbe4209e1856d0acd14f8fd0e1225"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "fed2be21d5adec5567ef2f2ddee5475e25e5ccb2a4e94617674b2d8acae873f8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d830ba09e27e70acd38c193d9f15d0e97b370cbec7df1f967e20cf8ba6776f3f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ming Lee - Giant Red Panda sigue en el desafío al enderezarse.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "8e3f38b2681332094a68033a7af28bf18cce53cac72c2f665398d7ea66a2bb99"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "5be0b97aa84f1aca4b0ea1c7cba595c8695c708b9b82b8c0685cbddea52806ef"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Narrow Escape aplica coste 2 a cada carta elegida.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "ac6e0c9c847e0645397db1369eee65d8f8fb80a4dfcc38d0be8b63103733877f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "36a01cf4ac06e2f673c62a49ea062a1321f8db805aeca303a826340979c5547f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d530f35e5f22600f9efba1766a2c4c2314037fab295b43282dc460864063ddfe"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "10b26e88d972cf7d1225260cb5c0b4bfe39c175ab8d6326330290f7fb3d64edb"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Pocahontas & Meeko resuelve Welcome Return después de ganar lore.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "2d4f68f3ff84a13e292a9b213f356514f66cb515d7a3cb88d935dc368565ea5a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "27243e8ee3535a779f32545ddfbf83d4e16e1f06e99b6740c59a1e5affa4533d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prophetic Vision no aplica la rama de lore si juegas la acción.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "91d71fe5bedf1f42832012de33b2cf4ca50f285359818bda079bd522b56d93c7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "6105bbe73b67cafa24ed61107e747041c08f472519473d7728b2df8ec39f0bfc"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "06d066398d9d9610fe476b7c341d1900fa05fc74c5f9fa4df3d9d80d0f0f8b91"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e24aacb8393f3d42693c4fe33500f20a27ad5d72fe0d883cc07194f01fde109c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "a17e89fd99e273701dd7e9aaca71247fa166743c2e8348e1ccddf9280d13d283"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Acciones en el descarte.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "db2362b82e92549dc6bd16ed1a748357f2850df360f9b2db714cd41953808607"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Anna - Braving the Storm no funciona en descarte.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "b10a067b5ba1e438f0145a6f081d17902c233b5d0fb94cf4d5f4fe74648396bd"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared con Sid Phillips - Toy Surgeon.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "95b91865f889e701d061ab30cbac222a368d743281adf3d38e67a7e526db7c60"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "f572e77694db5c0e433a2c613b69e2916f9c01366b00a83a6c59643318f9dd7c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "b6f3145a6999a310f694b4b05beff1c7fb95ce7fa5b4b415d873c5c251ea2023"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "b251825cb15ce75819b16856e8257e0f1c99485dfacaa9c8d707d2ff29930763"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "335bc8b5c7ff167ad8d4f2b29571d9a1f99939a94612bd46f41e9b7e3025d799"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e5a07af119cfe02c90eb4feae3e86179f77eecc01402b9f57c5683df5700e6a2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "198cb623cdf6163650ca34b150e9ddc37e659954054afc1e14cff19e8ae19c5f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "57430ef42677337ad4e3b7f6aeaf6d04d49a8dd169a148dc6ad73ba6da463778"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "1f7c47dc53c33c64dfd505d59981b32237c66947f9f6a17d75054bb22e58003e"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "0d4dc6cb1b310921b33fa442e1b034ffff8c2da36e4a8e1f8f9c4aac567aaab7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "a25d6bcff748a704c2a20432549147f8e6ee753cc1f9a677615da2205a8e34a1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "bd6581dfdf9c08eda0b61cc5eb090e2045877777b3a125be2744074efaf164e3"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "475da549db4dd3b8b74dcaa6e3d3fdf8c3568abacff71172e0de98ad3310c855"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e43b70eb735e7cb19d30798b9083863cfe29074ffa2392799b2770c0dd4f5365"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "5911f8311c7c18799314e1080417657c76610e3dcabee4e9f684611a1ee72f1b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "2256ce1bf81197dc457ef267ed5c75cbc037517b4bb7d75128a08a146565a26b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Vanish e interacciones.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "b0a3f1b3033a9da484ccc629da48f1bf25a201f4d33ce118af98c98418c103a1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Agotar personaje varias veces.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "f12e9de41f582da2cb5293e172b33c31ad22905c17cd21cad904fd4d489a19ed"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "7c1e53c2c12e66c0f833e6778033b0854865ac40a3f9aea88317f74ea266e395"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Celia Mae no elige personaje si no paga el coste opcional.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "dde8defca4dae4720943d366b78c5efe97a98a1f563b5a5ec02f92e8ce75c190"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "b0953b4b0c2a4e20f7c742b212e44340aed4ba652d5ffc0dec2cfef3d90c4183"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "29befb20f9b4e4690ea6c77150ade9ed8b34db4b9b91c1f07332e5b9ca49256c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "5b178e67d24819c9b67f947e408256bb7b6891bd46cdc2b62b9668130bce4e2e"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "f4d4467af69ce80685f7bae96891e0a7ceb62c9f8f171bbb6baf86e839e5b8b6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "7c7504415a42e39b69021d33e59e96241fdce29d1e4746102a16dc9f0a89878a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "78b677151f1f6485e2aa8cd665c8b44fa079039bc56e0c222996d85f96fde03a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d37109269a7313e9ba5c637296c95c7ab996c0d994f496fa7aa771241c95d61a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "555e21c0e654aef143749de88fbf02df5b4820db48c2814ec86de067f396600f"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "2a73f7c425a6320d3cb22a9ae8baabca3f22e6f14ceea0fff9475d26f25b1bd7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e1b8354b453ce5e8a0c25f3cfea8091b6fd61f4a68d5a412929544f13a71668a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Ariel Ethereal Voice, boost y Beyond the Horizon.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "101e0e9dbff7984117d27c6cbfbba7975a5b0090d043da17f5908e550c3d845b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Bruno y equipos con varios nombres.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "3129580db476d4d13bbc0843a9e87bd3974548cda8bf3c8692bfae7de20d77ff"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Cartas que al abandonar el juego hacen cosas.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "374902d70f78227c1d173786e9cd148a51087918a55de01f15e7c237b9339339"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "8bed3f3a8392370a590f6ff2d06ae46b6476cb72b88f4f79e517cb3883285848"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Elsa's Ice Palace e Ice Artisan, orden de resolución desde bolsa.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d2d4d6d571fb82ba2c703b6aeacc7172aec1fd167eeb767e0314db8554dc0102"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Enderezar un personaje.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "3d081740640d669cd6ed0cfe89beb9b22b69c8d1da69cf8f049dd5cbf75d1ff8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Ganar palabra clave cuando 'acción de turno'.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d055a5c248edc42cbfabf36f7cf82e1a0aa13c45d324f1d5c4355edf0961149e"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "15c39bab26f2766fd90b23fe7012c89f9f71d4138a45b45a99a31943ea879db2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades que contienen 'they'.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "785c8537a64699e186302af76a9a8435d1eabc2d1d6dc3ccb3d0c7d0e90c77c8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Heihei - Created by the Vine dispara por su propia clasificación.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "afb1b532830d388537d2dc6b54655100997dfc86b8db6d8c4507e4fc9bbd9cbc"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "f194047919e349179ab0166e80afbbf82e24a007a39087c0f081410588c023c1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "bf28819d0e18283fda1a826742bf3df1e26443c49b65df3bef8239ac039d6c4d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4e6559b23575cac7cf9e7730b8baae813f9d1f4ff3648678334afe3ae939c07e"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Wisp Conjurer entra ya agotada.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "1e151bcde97f5c8d9463f450efb3a796f90c30a3ee85bb878dd54628d6d69288"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Next Stop Olympus, dos copias y lores.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "b0cdeab8525af1a94c1f3677bd39596652e12cfda06037e7bc6992e6dc0b7898"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/No poder ganar lore por efecto estático.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "711811e3810fb0497a976279aceb5c1c364368a74615b72afe9666579ad0a901"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "73c6f61f2847cb2c34814de51d36b95c38573c218a50d975729bf619412d92c8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "926a7b290534751b4995d5068d71d1cfaa89353e1ade0962ed11b13a769bfe8a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "765924cc5cdc220f8750640a6f158c60f366581eb466d79af768c044440ed97a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e9d5edca23ff03e4556e3fe167bf8c98420719d0ba85bfe1ca772e12ac6865c1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "ae3a56bcd69ea72fed3c4d782fdcc65c4b1eb51040472f9927144e01a09f70a1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "274093f68b0e8d72edcbbd36757179db2b374e8fe33d66e4c82c30baae069e35"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "21f6a80b2ce602a3fb61948346c2d1cd55dd84faeccabf17bd4efdda7494a6cf"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "f92819aa73591c25e8ff9be4d37f2325520933b0bc445a6cfd930e38287029d8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "544e2db9af46ac59d234357356dee18edc6d1aa4a6b8632aa4c67825a9de9e70"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d2d9e2d35a71c5988cad8d7ea87675e6eea2f0d44e51e0b32f0a2380816434eb"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "06d3e252c06ecc2367a4b376df2f24e7bffa23d96aa20ba04e4aebc460a4e5b1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e25e864da5f157ec784d973b48f5241cc832367e0a0108fac1ee7470e6f0d31e"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "150675ee8f420771d2adde1dceb0f08cb42a574e3d62979116382f24c704e0d5"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Aclaraciones de Fabled.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "5f792b70eaa479d392ae2abd6041a91c2c103eacebb99d9c48992a85c91d5481"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4a1d4dc91fb6c147610748b072146539bf8124e5a4def19e1fa02d4cc6b0d856"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "8a81e5787533c02d0991edf2151d5d5ba331f86a9ee89621d00fe8407843af21"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "a92cdb13b1942d10c415b5e37cafc43bf7547fbddae3a13c3417a53f80df8bd2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "cd9237a4e3ed6be6e725f4297a8d01f31cbb412ebb4f1da18e43d545b436b625"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "7f870f160402f49a1331566521f2ce905d3a6d6c8dbae4e67f1e31187d147ad5"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "c513fc62897135597132dc3cd34c40fa5fe3ff40032264a127d4318303757c80"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4a29b70c3c7bfa0b4027d6eba7bee9a588e19d00455e86e8d9c490f67d9cc772"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/El uso de Then.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "856dc0f5bc4cee2906249fa9e758b4f8c63b075510b520b4bdb7b7e756edfb2c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "74d537291fae0197aae60da9a3594a4e377e86107e239bc7970c109f507760da"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Hydra - Deadly Serpent y Resist +1.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "5c6f4d8d6c6d5655ed151ae83830aff607300477b05b3c75ba30a096514e4c31"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "67392298c30671f99fdd038a38f9919b070019dfed5343433ebab56ac35ebbee"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "3c949350fcffce837701272bf62b627049751f0022815d97448a5f9c98a04066"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "f2f4118962e07b9bfd22e538ca440bce80ffd985473b377c1a6ee31e7cf9600e"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Tiana y su trigger post canción.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "7eebefd1801f0fea8dcd7d13c965b86de2621c6a82c1b890df1ea3b7c052e0e7"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "690c11ef075dc8b77565eb9b0461f56098943eb2fbc2420b7c7413ebeb5366b8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "835d97780a8e31d1da2e3c4eacdcece210c112f0ec829a8547aee414a7c34da1"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "36b1353f6067f48a2a8e89a66cbf41eb25501573bf0ea71e390667a3444b26ae"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Copper y Reckless sin objetivos de ataque.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "6e41878d5256fdeebdd5d5a59af133ff77492c8c30f86eae2cf614e8af2611bc"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "894cf6de458eed9c06e80ef786b0586b1e9861b2272a1d248d79b5cca932041c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "096a543ba6c2438ed738b4fbef1d46c955ca252454d9ec0c4844434cf18256ad"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "b47ff63b6c15e97901f1664ea990f0b89f6bab45a2c03c324044325857d14480"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "917ab00e1d945978b9f224dfe53e69295d5bfa610da941d0270fee2918117fd4"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "079c163afade10c76470ca72aece10cf2a74e2b5b14220395da7adf119492a97"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "6b3d69ad5b7bbe3e07615f99062e6052070a7d446c91e1dfd530e41f7fc3dd67"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fergus - Outpost Builder, Hold Fast y alcance del descarte.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "3064daef23a0018bb779c22ce1e8b56c2e81ef2fef18b969be855af2dc49d8cb"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y el final de partida.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "af3edeb397203d40d4aca7780ffec535a3e828fdb40d9a095480c3d5202b6419"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y habilidades que dañan.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "cbc131599afd9512e03d9633668c2ce10a95a9e1c1383d0f60a00bb19aff144b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "01902dca25d094deb05665d2e286546cbd63ae9e3905e79b0c0059ac51896a3d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "617732001a90a8427313d20c02c944d794b0e21461561200416a5a4459b065a3"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "df469d776321275644041a75b20a8dc680247aadaa066c137f50d1fb1911e2bd"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "2bd818540f8f90b70e29f21011938eb860b9426636c8b0ed7b0eb4d50868df43"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Education or Elimination.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "144c75f7cc5e59054189cea2f383caf15c6cd5d77064c99669cdb0707461d2bb"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "a5b6ca34094d3e1027811429a9e9b0be74bd44fd829784ae88cb54b17427c5c6"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "3b760772a3360b89cdec63285f93b2d6deeaa7a883ac197d7336e964e485f6f0"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "7e5a095044393e82001899b670db384e45afe7b19846453098efc54d0b23285a"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d698a40c3b27000a8995afb64ab461ed3fd38c9e4cfbc7eb0bc6f0949b280c05"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "035a1162f30d4fd5a7ace1b9df4d373587da3674f42708a677ba015c287a411b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "9d94059635f7b4d83d243ec10b613e28351e8ce37bb98cd47c9dcffe1024dad5"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4dce369d26c47756928b9e3d1aef327d4b12f2d08aba45afb1724de6cb39435b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "51fafaac404d24b2441adcb4902f510b63cc70a0af0b6921c36eab9034132e92"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "1766efdaa4bf780de44907ba0f699a1bcefaa93574c6109f1fe6abf0a90b4342"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "65bff7ff2218dc68ae8586ac83113639da3f8e0124690bcdbb42740fa3783940"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "2d79bcdb94f47ba788ad9ac910a621288117b31b233841611ed6a897557c3001"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4d6bbd31f9d7d1204e71f8301f91edfa07125150f2f75a6962b7d3a3c1b1467b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "7f587ef4ef37c525fdf87ed7eff54fd5340b2449bce9564b67ebb769282a1cb2"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "99a62e9048dfee4876e9588bc0dda455377fb0810a0dbeb2d74417da7802c60b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "d0f6bbdd0360c734f1e68ba6d4326df340fc6c1a0baeb7e3abc00ca61c4db0a9"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "111a2fc3711682ccb5fdd5f8f8a22c093a0a967427cb0367d6265ec3a4fbd759"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "95d7775b5c451e26f7baad3c0cbddaf350f8f2d42a92f4d397bf47787d7b3a06"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Support - Interacciones.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "eb4a7c2750703f7096481463bb4c81f55fe496b57f299902836d2a88dad82502"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Violet Parr - Deflect puede elegir un personaje sin daño.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "69f008e395aea0bcbf15f0893c33333e8e27cb6603220185c8505c183ce9236d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Friends on the Other Side resuelta por error con Kida.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "ec474ea273eb60ffa38408e499bbec2b83fb59777fd9595f55783c2ed38b6943"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Kida resuelta con cartas en zonas equivocadas.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "bb1dec7963ac47c5b316953a1260baf509e0a604a265598eb868e9aa9b2355d8"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "a6047b11350d1b24bad2b1e46ce78efd4127d0a73e337cc5fcbb19531a23c10d"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Mushu y robo cuando no se cumple la condición.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "fa399588cc1091532de6b1956eb02bf2ae0fbad5d39ec34b551073d4640d7619"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/No buscar una carta ausente en un mazo durante la partida.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "e7c97525c53e10f62fcab05fd13290d856a577c6706d66b35c1c61ad8e5a228b"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/No deshacer Pete después de jugar Merlin.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "54c895493a348d1f78c090d67cc46dacae1bbfcbc015819d780bd4dc50a9a803"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Stitch y secuencia fuera de orden con el trigger reconocido.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "a10e154cc263d140b770725faa2981206100ffc7fe32cfdcedd269737883910c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback de un desafío antes de resolverlo.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "c93dc963ef9271634b787cd8c0087186326e1c2811227283932006c1ef8748e6"
+    },
+    {
+      "archivo": "Empecemos.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "ddc40b5fe56eb40d374b7628376e87716953299cb578b6d0798e47758a086c22"
+    },
+    {
+      "archivo": "02. Listado de Cartas/Cartas de Lorcana.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "2da7fa41b72aca2f36a7b0a0e0bc2adae0df56ba476f6228c2ad04a20916212c"
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/Plantilla - Caso de ejemplo y aclaración.md",
+      "http": 200,
+      "contenido_coincide": true,
+      "sha256_remoto": "4fa6b2ad1fdfaeab29405242bef9062b44b7d321c4bad68b9973eb1c4e1b1f3b"
+    }
+  ]
+}

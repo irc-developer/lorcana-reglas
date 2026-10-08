@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-10-08",
+  "commit_migracion": "41480b15bb734faf82306d263edb608019cfbdb3",
+  "estado": "completo",
+  "enlaces_migrados": 505,
+  "articulos_migrados": 149,
+  "paginas_publicadas": 152,
+  "imagenes_enlazadas_verificadas": 240,
+  "imagenes_http_comprobadas": 241,
+  "fichas_publicas_retiradas": 14,
+  "fichas_locales_conservadas": 15,
+  "catalogo_publico": [
+    "02. Listado de Cartas/Cartas de Lorcana.md"
+  ],
+  "pendientes_propios": 0,
+  "pruebas": 16,
+  "seleccion": "seleccion-publicacion-lorcast.json",
+  "verificacion_publica": "verificacion-publicacion-lorcast.json",
+  "retirada": "retirada-catalogo-lorcast.json",
+  "revision_visual": {
+    "portada_atribucion": true,
+    "personaje": "Elsa - Ice Maker",
+    "accion": "All Is Found",
+    "localizacion": "Sleepy Hollow - The Bridge",
+    "reimpresion": "Mulan - Elite Archer, Fabled #126/204 EN 9",
+    "articulo_e_imagen_movil": true
+  }
+}
