@@ -24,9 +24,8 @@ Así que la respuesta corta es:
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)#4.7.3.1. Elegir personaje y localización|4.7.3.1. Para mover eliges uno de tus personajes y una de tus localizaciones]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)#4.7.3.2. Pagar costes|4.7.3.2. Después pagas el move cost]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)#4.7.3.3. El personaje se mueve|4.7.3.3. Cuando el coste se paga, el personaje se mueve]]
+- [[4.7 Mover un personaje (Move a character)|4.7.3.1. Elegir personaje y localización; 4.7.3.2–4.7.3.4. Elegir, calcular y pagar el coste; 4.7.4. Completar el movimiento]]. El mismo procedimiento aparece en CR 2.2 y CR 2.3; el pago de 2.3 añade gotas de tinta desde el 16 de octubre de 2026.
+
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.11. Secándose (Drying)|5.1.1.11. Secarse es un estado de personajes, no de localizaciones]]
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.2.3.  Estados en la zona de juego - Localización|5.1.2.3. Las localizaciones entran en juego sin estado de ready, exerted ni drying]]
 - [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.6. Localizaciones (Locations)#5.6.4. Entran secas|5.6.4. Una localización puede usarse el mismo turno en que se juega]]

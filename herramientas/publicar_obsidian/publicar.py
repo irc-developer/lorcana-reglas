@@ -35,14 +35,18 @@ def git(root, *args):
     return ejecutar(["git", "-c", f"safe.directory={root.as_posix()}", *args], root)
 
 
-def ruta_editorial(root, nombre):
+def ruta_editorial(root, nombre, perfil="dudas"):
     nombre = nombre.replace("\\", "/")
     parts = nombre.split("/")
     if any(c in nombre for c in "\r\n\t\0:") or any(p in ("", ".", "..") for p in parts):
         raise PublicacionError(f"Ruta no válida: {nombre!r}")
     rel = PurePosixPath(nombre)
-    if rel.is_absolute() or not (nombre in RAIZ_EDITORIAL or
-                                 nombre.startswith(CASOS) and rel.suffix == ".md"):
+    permitida = nombre in RAIZ_EDITORIAL or nombre.startswith(CASOS) and rel.suffix == ".md"
+    if perfil == "reglas":
+        permitida = permitida or nombre.startswith("01. Reglas/") and rel.suffix == ".md" and not rel.name.startswith("Plantilla")
+    elif perfil != "dudas":
+        raise PublicacionError("Perfil de publicación desconocido: " + perfil)
+    if rel.is_absolute() or not permitida:
         raise PublicacionError(f"Fuera de la documentación de dudas: {nombre}")
     path = root / nombre
     if not path.resolve().is_relative_to(root) or not path.is_file():
@@ -60,7 +64,7 @@ def comprobar_archivo(root, sha, nombre):
     return hashlib.sha256((root / nombre).read_bytes()).hexdigest()
 
 
-def preparar(root, commit, archivos):
+def preparar(root, commit, archivos, perfil="dudas"):
     root = Path(root).resolve()
     if not re.fullmatch(r"HEAD|[0-9a-fA-F]{7,64}", commit):
         raise PublicacionError("Usa HEAD o el hash del commit de esta duda.")
@@ -72,14 +76,14 @@ def preparar(root, commit, archivos):
         raise PublicacionError("Indica al menos un --archivo; nunca se selecciona toda la bóveda.")
     elegidos = []
     for archivo in archivos:
-        nombre = ruta_editorial(root, archivo)
+        nombre = ruta_editorial(root, archivo, perfil)
         if nombre in elegidos:
             raise PublicacionError(f"Ruta repetida: {nombre}")
         if estados.get(nombre) not in ("A", "M"):
             raise PublicacionError(f"La ruta no fue añadida o modificada en este commit: {nombre}")
         elegidos.append(nombre)
     hashes = {nombre: comprobar_archivo(root, sha, nombre) for nombre in elegidos}
-    return {"estado": "plan", "commit": sha, "archivos": elegidos, "sha256": hashes}
+    return {"estado": "plan", "commit": sha, "perfil": perfil, "archivos": elegidos, "sha256": hashes}
 
 
 def encontrar_cli():
@@ -191,6 +195,7 @@ def main():
     parser.add_argument("--root", type=Path, default=ROOT)
     parser.add_argument("--commit", required=True)
     parser.add_argument("--archivo", action="append", required=True)
+    parser.add_argument("--perfil", choices=("dudas", "reglas"), default="dudas")
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument("--comprobar", action="store_true", help="Leer el sitio y los pendientes sin subir archivos.")
     mode.add_argument("--aplicar", action="store_true", help="Publicar solo las rutas explícitas del commit actual ya subido.")
@@ -198,7 +203,7 @@ def main():
     try:
         if args.aplicar and args.commit == "HEAD":
             raise PublicacionError("Para publicar usa el hash concreto del plan revisado, no HEAD.")
-        result = preparar(args.root, args.commit, args.archivo)
+        result = preparar(args.root, args.commit, args.archivo, args.perfil)
         if args.comprobar or args.aplicar:
             result = publicar(args.root, result, args.aplicar)
         code = 0

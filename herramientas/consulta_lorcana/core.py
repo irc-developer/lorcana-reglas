@@ -18,7 +18,7 @@ import time
 import unicodedata
 import uuid
 from urllib.parse import unquote
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
@@ -66,6 +66,10 @@ def mode_of(question, explicit=False):
     return (m.group(1).lower(), m.group(2)) if m else ("consulta" if explicit else "documenta", question)
 
 
+def fecha_local():
+    return date.today()
+
+
 def pick_primary(root):
     """Los dos punteros activos deben acordar PDF y versión; no se elige por nombre/mtime."""
     pointer = read_text(root / CONTROL[1])
@@ -82,6 +86,21 @@ def pick_primary(root):
     versions = re.findall(r"\b\d+\.\d+\.\d+\b", active)
     if path.name not in active or not versions or versions[0] not in pointer:
         raise ValueError("Los dos documentos de fuente actual discrepan. Corrígelos antes de indexar.")
+    transition = load_json(HERE / "fuentes.json").get("primary_transition", {})
+    if rel in (transition.get("previous_path"), transition.get("published_path")):
+        # Los punteros mantienen primero el original previo para clientes ya abiertos.
+        # La selección fechada se valida contra ambos documentos y los dos originales.
+        for key in ("previous", "published"):
+            candidate = transition[key + "_path"]
+            original = (root / candidate).resolve()
+            if original.parent != (root / "Documentacion Oficial").resolve() or not original.is_file():
+                raise ValueError("Falta el original de la transición: " + candidate)
+            if digest(original.read_bytes()) != transition[key + "_sha256"]:
+                raise ValueError("El original de la transición ha cambiado: " + candidate)
+            if original.name not in pointer or original.name not in readme or transition[key + "_version"] not in pointer or transition[key + "_version"] not in readme:
+                raise ValueError("Los dos selectores deben documentar ambas versiones de la transición.")
+        key = "previous" if fecha_local() < date.fromisoformat(transition["effective_on"]) else "published"
+        return transition[key + "_path"], transition[key + "_version"]
     return rel, versions[0]
 
 
@@ -108,6 +127,11 @@ def inventory(root):
             rel = path.relative_to(root).as_posix()
             data = path.read_bytes()
             text = data.decode("utf-8-sig")
+            future = re.search(r"<!-- CR-ACTIVA-DESDE: (\d{4}-\d{2}-\d{2}) -->", text)
+            if future and fecha_local() < date.fromisoformat(future.group(1)):
+                excluded.append({"path": rel, "reason": "adaptación publicada con vigencia futura: " + future.group(1)})
+                add(path, scope, "adaptacion_futura", "excluded", data)
+                continue
             # Se excluye todo archivo que declare procedencia Discord, incluso un caso activo.
             if re.search(r"discord", text, re.I) or path.as_posix() in discord_paths:
                 excluded.append({"path": rel, "reason": "procedencia Discord en texto o índice"})
@@ -307,25 +331,36 @@ def pdf_sections(pages, title):
 
 
 def glossary_chunks(pages):
-    output, current, active = [], None, False
+    output, current, active, inline_format = [], None, False, None
     for page in pages[2:]:
         for raw, text in zip(page["raw"].splitlines(), page["text"].splitlines()):
             if text.upper() == "GLOSSARY":
                 active = True
                 continue
-            if active and re.match(r"^(UPDATE SUMMARY|PREVIOUS UPDATE)", text):
+            if active and re.match(r"^(UPDATE SUMMARY|PREVIOUS UPDATE)", text, re.I):
                 if current:
                     output.append(current)
                 return output
             if not active:
                 continue
+            if inline_format is None:
+                inline_format = bool(re.match(r"^[A-Za-z][A-Za-z ,/()'’\-]+?:\s", text))
             # Entradas cortas del glosario, separadas de sus párrafos por el PDF original.
-            heading = len(text) < 75 and re.fullmatch(r"[a-z][a-z ,/()'’\-]+", text) and not text.endswith((".", ":"))
+            inline = re.match(r"^([A-Za-z][A-Za-z ,/()'’\-]+?)(?:\s+\{[A-Z]+\})?:\s+(.+)$", text)
+            heading = not inline_format and len(text) < 75 and re.fullmatch(r"[A-Za-z][A-Za-z ,/()'’\-]+(?:\s+\{[A-Z]+\})?", text) and not text.endswith((".", ":"))
+            if inline and inline_format:
+                if current:
+                    output.append(current)
+                term = inline.group(1)
+                current = chunk_base("Glosario CR · " + term, text, raw,
+                                     glossary_term=term, pages=[page["page"], page["page"]])
+                continue
             if heading:
                 if current:
                     output.append(current)
-                current = chunk_base("Glosario CR · " + text, text, raw,
-                                     glossary_term=text, pages=[page["page"], page["page"]])
+                term = re.sub(r"\s+\{[A-Z]+\}$", "", text)
+                current = chunk_base("Glosario CR · " + term, text, raw,
+                                     glossary_term=term, pages=[page["page"], page["page"]])
             elif current:
                 current["text"] += "\n" + text
                 current["raw_text"] += "\n" + raw

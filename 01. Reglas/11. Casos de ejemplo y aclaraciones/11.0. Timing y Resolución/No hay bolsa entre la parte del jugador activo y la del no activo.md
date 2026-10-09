@@ -12,7 +12,9 @@ Yo soy el jugador activo. Si juego primero un personaje que al entrar dispara un
 
 No hay una bolsa intermedia ni una decisión simultánea oculta.
 
-Si varios jugadores tienen que actuar como parte del mismo efecto, siguen dentro de una única resolución. Primero el jugador activo realiza su parte del efecto y después lo hace el resto de jugadores en orden de turno.
+Si varios jugadores tienen que actuar como parte de la misma instrucción, siguen dentro de una única resolución. Primero actúa el jugador activo y después lo hace el resto en orden de turno.
+
+Desde el **16 de octubre de 2026**, CR 2.3 desarrolla el caso de un efecto con varias partes en 6.7.6.1: todos completan la primera parte antes de pasar a la segunda, y se repite ese orden en cada parte. El jugador activo no realiza todas las partes antes de que actúe el siguiente. En el ejemplo de una única instrucción de jugar, el resultado se mantiene.
 
 Eso implica dos consecuencias prácticas:
 
@@ -24,6 +26,8 @@ Así que, en el ejemplo, tu personaje entra primero y cualquier trigger que gene
 ---
 
 ## 📘 Referencias
+
+- [CR 2.3.0, 6.7.6.1, p. 37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37): orden por partes, aplicable desde el 16 de octubre de 2026.
 
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. El efecto se resuelve por completo y en el orden escrito]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Los triggers creados durante una resolución esperan]]
@@ -37,7 +41,7 @@ Así que, en el ejemplo, tu personaje entra primero y cualquier trigger que gene
 
 1. El efecto empieza a resolverse.
 2. El texto llega a una instrucción del tipo "cada jugador puede...".
-3. Como ambos jugadores deben actuar dentro de la misma resolución, el jugador activo realiza primero toda su parte del efecto.
+3. Como ambos jugadores deben actuar dentro de la misma resolución, el jugador activo realiza primero su parte de esa instrucción.
 4. Si al hacerlo juega una carta o provoca habilidades disparadas, esas habilidades se añaden a la bolsa, pero todavía no se resuelven.
 5. Con esa nueva información pública ya presente, el jugador no activo realiza su parte del mismo efecto.
 6. Solo cuando todos los jugadores han terminado su parte se considera resuelto por completo el efecto actual.
@@ -47,4 +51,4 @@ Así que, en el ejemplo, tu personaje entra primero y cualquier trigger que gene
 
 ## 🏷️ Tags
 
-#timing #resolution-order #bag #active-player #non-active-player #public-information #triggered-abilities
+#timing #scope #triggered-ability #bag-priority

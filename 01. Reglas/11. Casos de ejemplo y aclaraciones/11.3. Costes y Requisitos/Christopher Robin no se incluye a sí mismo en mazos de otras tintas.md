@@ -33,7 +33,7 @@ Tener dos o más copias no cambia esta conclusión.
 
 ## 📚 Fuente oficial
 
-Regla general: CR 2.2, 1.10.1.3. Véase [[CR 2.2 - comparación final con Attack of the Vine]].
+Regla general: CR 2.2, 1.10.1.3. Véase [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
 ---
 

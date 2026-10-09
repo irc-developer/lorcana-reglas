@@ -23,7 +23,7 @@ El daño base de Piercing Attack es 2. Resist +2 normalmente lo reduciría a 0, 
 
 ## 📚 Fuente oficial
 
-Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
 ---
 

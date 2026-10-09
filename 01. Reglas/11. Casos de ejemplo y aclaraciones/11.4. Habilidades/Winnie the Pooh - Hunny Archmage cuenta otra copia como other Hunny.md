@@ -32,7 +32,7 @@ Cada Winnie the Pooh ve a la otra copia como un personaje Hunny distinto. Para a
 
 ## 📚 Fuente oficial
 
-Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
 ---
 

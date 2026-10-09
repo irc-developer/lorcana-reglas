@@ -98,6 +98,18 @@ class PublicacionTests(unittest.TestCase):
         self.assertEqual(self.estado, initial)
         self.assertFalse(any(args[0] == "publish:add" for args in self.llamadas))
 
+    def test_perfil_reglas_requiere_seleccion_explicita_y_excluye_fuentes(self):
+        regla = "01. Reglas/1. Principios generales/Contadores.md"
+        self.escribir(regla, "# Contadores\n")
+        self.escribir("Documentacion Oficial/README.md", "# Fuente privada\n")
+        self.commit()
+        with self.assertRaises(p.PublicacionError):
+            p.preparar(self.root, "HEAD", [regla])
+        self.assertEqual(p.preparar(self.root, "HEAD", [regla], "reglas")["archivos"], [regla])
+        for nombre in ("Documentacion Oficial/README.md", "herramientas/ejemplo.md", "../Empecemos.md"):
+            with self.subTest(nombre=nombre), self.assertRaises(p.PublicacionError):
+                p.preparar(self.root, "HEAD", [nombre], "reglas")
+
     def test_rechaza_rutas_ajenas_sin_commit_y_recorridos(self):
         for archivos in ([], [self.otro], ["herramientas/ejemplo.md"], ["../Empecemos.md"],
                          ["/Empecemos.md"], [self.caso, self.caso]):

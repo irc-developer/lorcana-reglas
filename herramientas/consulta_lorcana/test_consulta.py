@@ -39,14 +39,14 @@ class CorpusTests(unittest.TestCase):
 
     def test_20_verified_questions(self):
         self.assertTrue(x.freshness(x.ROOT, DB)["current"], "Ejecuta actualizar antes de las pruebas")
-        for case in x.load_json(x.HERE / "evaluacion.json"):
+        for case in x.load_json(x.HERE / ("evaluacion-2.3.json" if x.pick_primary(x.ROOT)[1] == "2.3.0" else "evaluacion.json")):
             with self.subTest(id=case["id"]):
                 r = x.query(x.ROOT, DB, case["question"], card_names=[case["card"]] if case.get("card") else [])
                 primary = {p["rule"]: p for p in r["primary_rules"] if p["rule"]}
                 for rid in case.get("rules", []):
                     self.assertIn(rid, primary)
-                    self.assertEqual(primary[rid]["version"], "2.2.0")
-                    self.assertEqual(primary[rid]["path"], "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf")
+                    self.assertEqual(primary[rid]["version"], x.pick_primary(x.ROOT)[1])
+                    self.assertEqual(primary[rid]["path"], x.pick_primary(x.ROOT)[0])
                 for rid, text in case.get("decisive", {}).items():
                     self.assertIn(text, primary[rid]["text"])
                 for rid, pages in case.get("pages", {}).items():
@@ -86,9 +86,9 @@ class CorpusTests(unittest.TestCase):
 
     def test_symbols_and_order_against_pdf(self):
         import fitz
-        with fitz.open(x.ROOT / "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf") as doc:
+        with fitz.open(x.ROOT / x.pick_primary(x.ROOT)[0]) as doc:
             # Oráculo independiente: los identificadores que aparecen al inicio de línea del PDF.
-            body = "\n".join(p.get_text(sort=True) for p in list(doc)[2:45])
+            body = "\n".join(p.get_text(sort=True) for p in list(doc)[2:46])
             expected = set(__import__("re").findall(r"(?m)^\s*(\d+(?:\.\d+){2,})\.\s", body))
         with closing(x.ro_connection(DB)) as c:
             actual = {r[0] for r in c.execute("select rule from chunks where kind='cr' and rule is not null")}
@@ -130,6 +130,7 @@ class MaintenanceTests(unittest.TestCase):
         cls.root = Path(cls.temp.name).resolve()
         assert cls.root.is_relative_to(base.resolve())
         for rel in x.CONTROL + ["Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf",
+                                "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
                                 "02. Listado de Cartas/Set 14 - Hyperia City.md",
                                 "01. Reglas/1. Principios generales/1.12 Robo (Drawing).md"]:
             target = cls.root / rel

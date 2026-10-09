@@ -1,3 +1,6 @@
+> [!NOTE] Archivo histórico
+> Se conserva como registro histórico de CR 2.2. No es la adaptación publicada actual. Véase [[Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2|la actualización a 2.3]], efectiva desde el 16 de octubre de 2026.
+
 # CR 2.2: matriz de diferencias respecto a CR 2.1
 
 Esta matriz compara el texto completo de las Comprehensive Rules 2.1.0 (49 páginas; 30 de abril de 2026) y 2.2.0 (55 páginas; 9 de julio de 2026). Las páginas indicadas corresponden a los PDF oficiales.

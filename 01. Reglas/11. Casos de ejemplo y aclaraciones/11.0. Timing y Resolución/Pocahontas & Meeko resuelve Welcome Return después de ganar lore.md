@@ -23,7 +23,7 @@ Welcome Return permite entonces devolver a la mano un personaje propio de coste 
 
 ## 📚 Fuente oficial
 
-Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
 ---
 

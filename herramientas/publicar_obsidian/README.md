@@ -24,6 +24,12 @@ Requiere Git, Python estándar y la [CLI oficial de Obsidian](https://obsidian.m
 
 El 6 de octubre de 2026 se actualizó este PC al instalador 1.14.4, se habilitó la CLI y se comprobó el acceso al sitio `https://publish.obsidian.md/reglas-lorcana` (`www.reglas-lorcana.es`). Esa preparación no publica las notas o herramientas que estén pendientes en la bóveda.
 
+## Migración expresa de las reglas CR 2.3
+
+`publicar.py --perfil reglas` admite los Markdown editoriales de `01. Reglas/`, además de las rutas auxiliares ya permitidas. Exige un `--archivo` por ruta modificada del commit; nunca selecciona una carpeta completa. El perfil predeterminado `dudas` conserva su alcance. PDF, fuentes internas, herramientas y fichas largas siguen excluidos.
+
+La retirada autorizada de las seis notas históricas 2.2 usa `retirar_reglas.py --commit HASH --archivo RUTA --informe-publicacion INFORME_JSON --informe RESULTADO_JSON`. Sin `--aplicar` comprueba el reemplazo ya publicado, el commit subido, la bóveda, hashes y enlaces; con él retira exclusivamente la lista explícita. Conserva los archivos locales y registra éxitos y fallos parciales. La entrada 2.3 y la portada deben estar publicadas primero. La lista permitida está cerrada a las seis páginas inventariadas de esta migración; no afecta al PDF 2.2 ni a secciones cuyo número sea 2.2.
+
 ## Retirada expresa del catálogo de cartas
 
 La migración a Lorcast autorizada el 08/10/2026 utiliza `retirar_catalogo.py` como operación específica, separada del workflow de dudas. Recibe un hash subido, el informe de publicación completa de artículos/portada/entrada breve y un `--archivo` por ficha. Verifica exclusiones, enlaces restantes, selección y conservación del corpus local antes de llamar a `publish:remove path=...`. Sin `--aplicar` prepara el informe; con él despublica solo las fichas explícitas y comprueba la lista pública tras cada operación. Nunca borra archivos locales ni retira «Cartas de Lorcana». No usar esta operación en una duda ordinaria sin una autorización expresa para retirar el catálogo.

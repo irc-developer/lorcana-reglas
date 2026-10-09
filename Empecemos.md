@@ -1,12 +1,14 @@
 # Guía Completa de Disney Lorcana TCG en Español
 
-*Última actualización 08/10/26*
+*Última actualización 09/10/26*
 
 ¡Hola! Me llamo Iván (Shinobana), apasionado jugador de lorcana y juez en ciernes. Sé bienvenido/a a la **guía definitiva en español sobre Disney Lorcana TCG**, el juego de cartas coleccionables de Disney. Aquí encontrarás **reglas oficiales adaptadas al castellano**, explicaciones detalladas, glosario completo, materiales para árbitros y mucho más.
 
 Este sitio está diseñado para ayudar a **jugadores/as, juezas/es y organizadores/as** de torneos de Lorcana a comprender todas las mecánicas del juego, en especial aquellas que no siempre están claras en la documentación oficial en inglés.
 
-Esta guía está basada en las **Comprehensive Rules 2.2.0**, vigentes desde el 9 de julio de 2026. El PDF oficial inglés es la fuente normativa; esta documentación en español es una adaptación explicativa.
+Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octubre y aplicables desde el **16 de octubre de 2026**. Hasta el 15 de octubre se aplica el original 2.2.0. El PDF inglés correspondiente a la fecha es la fuente normativa; esta documentación en español es una adaptación explicativa.
+
+> **Actualización 2.3:** [[Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2|qué cambia respecto a 2.2]], [[1.13. Contadores (Counters)|contadores y gotas de tinta]] y [[8.16. Aventurero (Adventurous)|Adventurous]].
 
 > ***Hago esto porque ojalá hubiera tenido yo algo así cuando empecé en Lorcana.***
 

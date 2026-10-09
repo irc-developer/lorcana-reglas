@@ -23,7 +23,7 @@ Se pueden elegir hasta dos cartas y cada una debe tener coste 2 o menos. Por eje
 
 ## 📚 Fuente oficial
 
-Aclaración oficial: [[Attack of the Vine - cambios anunciados y control para CR 2.2]].
+Aclaración oficial: [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
 ---
 

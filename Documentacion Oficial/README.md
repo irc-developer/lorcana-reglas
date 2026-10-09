@@ -1,10 +1,24 @@
 # Documentación oficial de Disney Lorcana
 
-## Versión actual de las Comprehensive Rules
+## Original previo y transición fechada
 
-- **Versión:** 2.2.0.
-- **Fecha de entrada en vigor:** 9 de julio de 2026.
-- **Fuente normativa:** [[Comprehensive-Rules_2.2.0-EN.pdf]].
+- **Versión previa:** 2.2.0, efectiva el 9 de julio de 2026.
+- **Original previo:** [[Comprehensive-Rules_2.2.0-EN.pdf]].
+- **Aplicación:** hasta el 15 de octubre de 2026; se conserva después como histórico.
+
+## Última versión publicada de las Comprehensive Rules
+
+- **Versión publicada:** 2.3.0.
+- **Fecha de entrada en vigor:** 16 de octubre de 2026.
+- **Original:** [[CRUpdate_EN_Oct-2026.pdf]].
+- **Páginas:** 56.
+- **Fuente:** [Recursos oficiales](https://www.disneylorcana.com/en-US/resources/), publicación del 8 de octubre de 2026.
+
+## Referencia normativa según la fecha
+
+Hasta el 15 de octubre de 2026 se aplica **2.2.0**, efectiva el 9 de julio de 2026: `Comprehensive-Rules_2.2.0-EN.pdf`. Desde el 16 de octubre se aplica **2.3.0**, `CRUpdate_EN_Oct-2026.pdf`. La búsqueda local utiliza esa misma transición y no acredita la versión futura antes de su entrada en vigor.
+
+La adaptación castellana ya presenta 2.3 con su fecha de vigencia. Resumen: [[Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2]].
 
 ## Versiones anteriores conservadas
 
@@ -13,7 +27,7 @@
 
 ## Material de Attack of the Vine
 
-`Attack-of-the-Vine-Set-Release-Notes_EN.pdf` contiene notas y *rulings* oficiales del set. Para cambios generales de reglas, prevalece el texto de las Comprehensive Rules 2.2.0.
+`Attack-of-the-Vine-Set-Release-Notes_EN.pdf` contiene notas y *rulings* oficiales del set. Para reglas generales prevalece el PDF de Comprehensive Rules aplicable según la fecha. Las notas del set siguen sirviendo para sus rulings específicos.
 
 ## [Format Coconut] — beta multijugador
 
@@ -23,7 +37,7 @@ La página oficial de recursos publica dos documentos en inglés, sin número de
 - [[FormatCoconut_BetaCoconutCards.pdf]]: lista inicial de 18 cartas [Coconut] y sus habilidades.
 - [Página oficial de recursos](https://www.disneylorcana.com/en-US/resources/): ubicación de publicación y referencia para futuras revisiones.
 
-Este material está separado de las Comprehensive Rules 2.2.0 y de las Tournament Rules vigentes. La adaptación al castellano está en [[Formato Coconut (Beta)]] y [[Cartas Coconut de la beta]].
+Este material está separado de las Comprehensive Rules y de las Tournament Rules vigentes. La adaptación al castellano está en [[Formato Coconut (Beta)]] y [[Cartas Coconut de la beta]].
 
 ## Comunidad y actividades (fuentes oficiales externas)
 

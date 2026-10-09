@@ -1,3 +1,29 @@
+<!-- CR-ACTIVA-DESDE: 2026-10-16 -->
+
+> [!IMPORTANT] CR 2.3.0
+> Esta adaptación corresponde a las reglas que entran en vigor el **16 de octubre de 2026**. Hasta esa fecha se aplica [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+
+## Términos incorporados o precisados en CR 2.3
+
+**action, turn (acción de turno)**
+Una opción disponible al jugador activo durante su fase principal: entintar una carta, jugar una carta, usar una habilidad activada, irse de aventura, desafiar o mover un personaje. No es lo mismo que una carta de acción ni que una acción del juego. Véase [[4.1. General|4.1]].
+
+**counter (contador)**
+Objeto físico del juego que representa daño o una gota de tinta. Los contadores existen fuera de la partida hasta que se generan. Véase [[1.13. Contadores (Counters)|1.13]].
+
+**ink drop (gota de tinta)**
+Contador generado en el pozo de tinta. Se retira para pagar 1 {I} hacia un coste; no es una carta y no cuenta como tinta.
+
+**passing the bag (pasar la bolsa)**
+Proceso que determina en qué orden resuelven sus habilidades disparadas los jugadores con efectos en la bolsa. La referencia corregida es [[7.7. Bolsa (Bag)|7.7.4.4]].
+
+**Set step (paso de preparación)**
+Segundo paso de la fase inicial: los personajes en juego dejan de estar secándose; el jugador activo gana la Leyenda de sus localizaciones; se añaden los disparos del inicio del turno y se resuelven los disparos, incluidos los generados en Ready. Véase [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.2]].
+
+En el original 2.3, «turn action» deja de tener una entrada duplicada: su definición está en «action, turn».
+
+## Glosario
+
 **ability (habilidad)**  
 Reglas especiales que explican qué puede hacer una carta y que difieren de las reglas generales del juego.
 
@@ -58,7 +84,7 @@ Girar una carta para usarla.
 **ink (tinta)**  
 Recurso del juego / acción de entintar una carta.
 
-**inkwell (tintero)**  
+**inkwell (pozo de tinta)**
 Zona privada donde se colocan las cartas de tinta.
 
 **keyword ability (habilidad de palabra clave)**  
@@ -92,10 +118,14 @@ Un efecto que sustituye a otro efecto.
 Habilidad que está activa continuamente.
 
 **triggered ability (habilidad disparada)**  
-Habilidad que se añade a la bolsa cuando se cumple una condición.
+Habilidad que genera un efecto que se añade a la bolsa al cumplirse una condición. Puede empezar con «When», «Whenever», «The first time», «The second time», «The next time», «At the start of» o «At the end of».
 
 **turn (turno)**  
 Unidad de tiempo con tres fases.
 
 **zone (zona)**  
 Espacio físico o no físico usado para el juego.
+
+## Fuente
+
+[Comprehensive Rules 2.3.0, pp. 46–53](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=46).

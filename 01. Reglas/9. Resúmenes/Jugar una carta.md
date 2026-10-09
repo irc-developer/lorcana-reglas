@@ -1,50 +1,24 @@
-Es importante destacar que si alguna parte del proceso de jugar una carta no se puede realizar, la acción es **ilegal** y el juego vuelve al momento justo antes de que la carta fuera anunciada. Los pasos son:
+<!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-1. **Anunciar la Carta**: El jugador activo **anuncia la carta** que tiene la intención de jugar y la revela de su mano.
+> [!IMPORTANT] CR 2.3.0
+> Esta adaptación corresponde a las reglas que entran en vigor el **16 de octubre de 2026**. Hasta esa fecha se aplica [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
-2. **Anunciar el Tipo de Coste**: El jugador anuncia cómo tiene la intención de jugar la carta, ya sea por su **coste de tinta** o por un **coste alternativo** (como la habilidad Shift, Singer, habilidad propia, etc). Si múltiples costes alternativos pueden aplicarse, el jugador puede elegir uno e ignorar los demás.
+# Jugar una carta
 
-3. **Determinar el Coste Total**: Se calcula el coste total necesario para jugar la carta. Esto incluye el coste de tinta o el coste alternativo, más cualquier **modificador de coste** (costes adicionales, aumentos de coste o reducciones de coste). Los costes adicionales se aplican primero, luego los aumentos de coste, y finalmente las reducciones de coste. . 
-	- Una carta se puede jugar "**gratis**" si se ignoran todos los costes de tinta, pero otros pasos y costes no de tinta aún se aplican (PAG-CR 206)
+1. **Anunciar y revelar** la carta desde su zona actual.
+2. **Elegir el coste** de tinta o un coste alternativo. «Gratis» se elige inmediatamente y permite pasar al paso 5 sin pagar costes de jugar esa carta.
+3. **Calcular el total** con los modificadores de pago aplicables.
+4. **Pagar por completo**: agotar cartas de tinta, retirar gotas de tinta o combinar ambas opciones para la parte de {I}; pagar los otros costes según el texto.
+5. **La carta se considera jugada.** Aplicar primero los efectos de entrada de la propia carta y después los de otras fuentes, antes de ponerla en juego.
+6. **Completar la entrada y resolución.** Personajes, objetos y localizaciones entran en la zona de juego. Las acciones también entran allí, resuelven su efecto y después van al descarte. Una acción jugada durante otro efecto puede esperar para resolver conforme a 6.7.8.
+7. **Resolver los disparos** que esperan en la bolsa cuando termine la resolución correspondiente.
 
-4. **Pagar el Coste Total**: El jugador **paga el coste total**. Si el coste incluye tinta, el jugador debe **agotar** un número de cartas de tinta **preparadas** igual al coste de tinta.
-	- Si se incluyen otros costes, el jugador los paga según lo indicado por el texto de la carta.
-	- Los costes se pueden pagar en cualquier orden, pero deben pagarse por completo.
+Si la carta cambia de zona durante el proceso de jugarla, se sigue jugando desde la nueva zona. Eso no permite iniciar arbitrariamente una jugada desde una zona que no tenga un permiso aplicable.
 
-5. **La Carta es "Jugada"**: Una vez que se paga el coste total de la carta, esta se considera "jugada".
-	- Si la carta es un **personaje, objeto o ubicación**, la carta **entra en la zona de juego**. Los personajes se juegan en posición preparada, pero no pueden hacer nada (como questear, desafiar o usar habilidades que requieren prepararse) en el mismo turno en que son jugados, ya que su tinta aún está "secándose". Sin embargo, los objetos y ubicaciones se pueden usar de inmediato.
-	
-	- Si es un **personaje que se juega usando su habilidad Shift**, debe colocarse encima de la carta indicada en el paso anterior.
+Un personaje que se está secando no puede irse de aventura, desafiar ni agotarse; puede ser afectado por efectos y usar habilidades cuyo coste no requiera agotarse, si cumple sus requisitos. Un personaje jugado mediante Shift puede heredar un estado seco.
 
-	- Si la carta es una **acción** (incluidas las canciones), su efecto se **resuelve inmediatamente** y luego la carta se **descarta** a la pila de descarte del jugador. Las acciones nunca entran en la zona de juego.
+## Referencias
 
-6. **Habilidades Disparadas**: Si un efecto se dispara como resultado de cualquiera de los pasos para jugar una carta, ese efecto espera a resolverse hasta que la carta y su efecto hayan sido completamente jugados y resueltos. Durante la resolución de una carta de acción, esta **no se considera aún en la pila de descarte**.
-
-
-# Pasos de un desafío
-
-## 1. Anunciar la Carta: 
-El jugador activo **anuncia la carta** que tiene la intención de jugar y la revela de su mano.
-
-## 2. Anunciar el Tipo de Coste.
-El jugador anuncia cómo tiene la intención de jugar la carta, ya sea por su **coste de tinta** o por un **coste alternativo** (como la habilidad Shift, Singer, habilidad propia, etc). Si múltiples costes alternativos pueden aplicarse, el jugador puede elegir uno e ignorar los demás.
-
-## 3.Determinar el Coste Total. 
-Se calcula el coste total necesario para jugar la carta. Esto incluye el coste de tinta o el coste alternativo, más cualquier **modificador de coste** (costes adicionales, aumentos de coste o reducciones de coste). Los costes adicionales se aplican primero, luego los aumentos de coste, y finalmente las reducciones de coste. . 
-	- Una carta se puede jugar "**gratis**" si se ignoran todos los costes de tinta, pero otros pasos y costes no de tinta aún se aplican (PAG-CR 206)
-
-## 4. Pagar el Coste Total.
-El jugador **paga el coste total**. Si el coste incluye tinta, el jugador debe **agotar** un número de cartas de tinta **preparadas** igual al coste de tinta.
-	- Si se incluyen otros costes, el jugador los paga según lo indicado por el texto de la carta.
-	- Los costes se pueden pagar en cualquier orden, pero deben pagarse por completo.
-
-## 5. La Carta es "Jugada".
-Una vez que se paga el coste total de la carta, esta se considera "jugada". Esto hace que habilidades que se disparan "Cuando se juegue un/a X" vayan a la bolsa.
-### 5.1. Resolución según tipo de carta.
-
-#### 5.1.1 Carta de **PERSONAJE, OBJETO O LOCALIZACIÓN**.
-La carta **entra en la zona de juego**. Los personajes se juegan en posición preparada, pero no pueden hacer nada (como questear, desafiar o usar habilidades que requieren prepararse) en el mismo turno en que son jugados, ya que su tinta aún está "secándose". Sin embargo, los objetos y ubicaciones se pueden usar de inmediato.
-
- Si el **personaje que se juega usando su habilidad Shift**, debe colocarse encima de la carta indicada en el paso anterior.
-#### 5.1.2 Cartas de ACCIÓN. 
-Si la carta es una **acción** (incluidas las canciones), su efecto se **resuelve inmediata y completamente** y luego la carta se **descarta** a la pila de descarte del jugador. Las acciones nunca entran en la zona de juego.
+- [[4.3. Jugar una carta (Play a Card)|4.3. Proceso completo]].
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1 y 6.7.8–6.7.9]].
+- [Comprehensive Rules 2.3.0, pp. 13–14 y 35–38](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13).

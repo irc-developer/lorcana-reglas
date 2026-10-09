@@ -1,22 +1,71 @@
 {
   "pdfs": [
-    {"pattern": "Tournament*.pdf", "scope": "torneo", "authority": "politica_oficial", "kind": "tournament"},
-    {"pattern": "*Play*Correction*.pdf", "scope": "correcciones", "authority": "politica_oficial", "kind": "correction"},
-    {"pattern": "*Release-Notes*.pdf", "scope": "estandar", "authority": "notas_oficiales", "kind": "release"},
-    {"pattern": "FormatCoconut*.pdf", "scope": "coconut", "authority": "formato_oficial_beta", "kind": "special"}
+    {
+      "pattern": "Tournament*.pdf",
+      "scope": "torneo",
+      "authority": "politica_oficial",
+      "kind": "tournament"
+    },
+    {
+      "pattern": "*Play*Correction*.pdf",
+      "scope": "correcciones",
+      "authority": "politica_oficial",
+      "kind": "correction"
+    },
+    {
+      "pattern": "*Release-Notes*.pdf",
+      "scope": "estandar",
+      "authority": "notas_oficiales",
+      "kind": "release"
+    },
+    {
+      "pattern": "FormatCoconut*.pdf",
+      "scope": "coconut",
+      "authority": "formato_oficial_beta",
+      "kind": "special"
+    }
   ],
   "glyph_maps": {
     "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f": {
-      "symbols": {"!":"{E}", "\"":"{I}", "#":"{W}", "$":"{S}", "%":"{L}", "&":"{M}", "'":"{INKWELL}"},
-      "verified": "CR 2.2.0: fuente LorcanaCardGlyphsRegular; inspección visual pp.12 y 26 y partes de carta."
+      "symbols": {
+        "!": "{E}",
+        "\"": "{I}",
+        "#": "{W}",
+        "$": "{S}",
+        "%": "{L}",
+        "&": "{INKWELL}",
+        "'": "{M}"
+      },
+      "verified": "CR 2.2.0: inspección visual pp.12, 21, 26, 49 y 50; revisado el 09/10/2026: & representa el símbolo entintable y el apostrofo el coste de movimiento. Se corrige el perfil anterior."
     },
     "cb3d662ed614ed1d90364df10b19bd798dc2b0b362c4b653d2a76d044ba46a40": {
-      "symbols": {"!":"{L}", "\"":"{E}", "#":"{I}", "$":"{S}"},
+      "symbols": {
+        "!": "{L}",
+        "\"": "{E}",
+        "#": "{I}",
+        "$": "{S}"
+      },
       "verified": "Beta Coconut Cards: inspección visual p.1 (Ariel/Pocahontas lore, Dumbo agotamiento, Pooh tinta); $ es Fuerza."
     },
     "59fd2f0aa083cbaaa61f07f7c75a6c5556bf5a89fd77d998959a365785fd9618": {
-      "symbols": {"!":"{E}", "\"":"{L}", "#":"{S}"},
+      "symbols": {
+        "!": "{E}",
+        "\"": "{L}",
+        "#": "{S}"
+      },
       "verified": "Attack of the Vine Release Notes: inspección visual pp.12 (agotamiento), 20 (lore), 26 (Fuerza)."
+    },
+    "8b7a458169978a13b688493d4b24d713bdc8baee32ce5e774b0515079a0b91fe": {
+      "symbols": {
+        "!": "{E}",
+        "\"": "{I}",
+        "#": "{W}",
+        "$": "{S}",
+        "%": "{L}",
+        "&": "{INKWELL}",
+        "'": "{M}"
+      },
+      "verified": "CR 2.3.0: inspección visual pp.9, 13, 37, 42 y 50; tinta, agotamiento, Fuerza, Voluntad, Leyenda, símbolo entintable y movimiento."
     }
   },
   "verified_urls": {
@@ -25,8 +74,21 @@
       "verified_on": "2026-09-30",
       "note": "Abierto desde la página oficial de recursos: 55 páginas, Version 2.2.0, Effective July 9, 2026."
     },
-    "FormatCoconut_Rules.pdf": {"url":"https://files.disneylorcana.com/FormatCoconut_Rules.pdf", "verified_on":"2026-09-30", "note":"Abierto desde recursos oficiales: beta, sin fecha o versión declarada."},
-    "FormatCoconut_BetaCoconutCards.pdf": {"url":"https://files.disneylorcana.com/FormatCoconut_BetaCoconutCards.pdf", "verified_on":"2026-09-30", "note":"Abierto desde recursos oficiales: 3 páginas, sin fecha o versión declarada."}
+    "FormatCoconut_Rules.pdf": {
+      "url": "https://files.disneylorcana.com/FormatCoconut_Rules.pdf",
+      "verified_on": "2026-09-30",
+      "note": "Abierto desde recursos oficiales: beta, sin fecha o versión declarada."
+    },
+    "FormatCoconut_BetaCoconutCards.pdf": {
+      "url": "https://files.disneylorcana.com/FormatCoconut_BetaCoconutCards.pdf",
+      "verified_on": "2026-09-30",
+      "note": "Abierto desde recursos oficiales: 3 páginas, sin fecha o versión declarada."
+    },
+    "CRUpdate_EN_Oct-2026.pdf": {
+      "url": "https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf",
+      "verified_on": "2026-10-09",
+      "note": "Enlazado desde recursos oficiales: 56 páginas, Version 2.3.0, Effective October 16, 2026."
+    }
   },
   "local_observations": {
     "04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md": "Discrepancia comprobada el 30/09/2026 contra PCG 5/21/2024 §2.1 pp.5–6: la solución local simplifica incorrectamente el plazo y omite la elección del oponente. No aplicar su remedio como política oficial."
@@ -43,5 +105,14 @@
       "effective_date": "5/21/2024",
       "note": "Original abierto y contrastado pp. 5–6 en mantenimiento. No hay copia local; no se indexa una paráfrasis como política oficial."
     }
+  },
+  "primary_transition": {
+    "published_path": "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
+    "published_version": "2.3.0",
+    "effective_on": "2026-10-16",
+    "previous_path": "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf",
+    "previous_version": "2.2.0",
+    "previous_sha256": "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f",
+    "published_sha256": "8b7a458169978a13b688493d4b24d713bdc8baee32ce5e774b0515079a0b91fe"
   }
 }

@@ -158,7 +158,7 @@
     },
     "pages": {
       "6.1.6": [
-        26,
+        27,
         27
       ]
     },
@@ -199,11 +199,11 @@
     },
     "pages": {
       "6.1.6": [
-        26,
+        27,
         27
       ]
     },
-    "expected": "El ejemplo de Mulan no se pierde al cruzar página."
+    "expected": "CR 2.3 conserva regla y ejemplo de Mulan juntos en p.27."
   },
   {
     "id": "scope_pack_rush",

@@ -1,3 +1,6 @@
+> [!NOTE] Archivo histórico
+> Se conserva como registro histórico de CR 2.2. No es la adaptación publicada actual. Véase [[Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2|la actualización a 2.3]], efectiva desde el 16 de octubre de 2026.
+
 # Reglas completas de Disney Lorcana 2.2: todos los cambios respecto a la versión 2.1
 
 ## Introducción

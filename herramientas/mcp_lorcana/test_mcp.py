@@ -54,6 +54,30 @@ def estable(data):
 
 
 class ProtocoloTests(unittest.IsolatedAsyncioTestCase):
+    async def test_cr23_fecha_futura_sin_escrituras(self):
+        script = f"""import sys
+sys.dont_write_bytecode=True
+sys.path.insert(0,{str(HERE)!r})
+from adaptador import core
+from datetime import date
+core.fecha_local=lambda: date(2026,10,16)
+from servidor import main
+main()
+"""
+        before = snapshot(REPO)
+        async with cliente(script=script) as client:
+            state = (await client.call_tool("estado_fuentes", {})).structured_content
+            self.assertEqual(state["selection"]["version"], "2.3.0")
+            for rid in ("1.13", "6.1.4.2", "6.7.6.1", "8.1.2", "8.16"):
+                result = await client.call_tool("obtener_regla", {"numero": rid})
+                self.assertFalse(result.is_error)
+                data = expandir_fuentes(result.structured_content)
+                self.assertTrue(data["primary_rules"])
+                self.assertTrue(all(p["version"] == "2.3.0" for p in data["primary_rules"]))
+            result = await client.call_tool("obtener_regla", {"numero": "7.1.6.1"})
+            self.assertEqual(result.structured_content["missing_rule_numbers"], ["7.1.6.1"])
+        self.assertEqual(before, snapshot(REPO))
+
     async def test_descubrimiento_y_20_oraculos_sin_escrituras(self):
         before = snapshot(REPO)
         async with cliente() as client:
@@ -71,7 +95,7 @@ class ProtocoloTests(unittest.IsolatedAsyncioTestCase):
             self.assertIn("modo", tools["buscar_evidencia"].input_schema["required"])
             state = await client.call_tool("estado_fuentes", {})
             self.assertTrue(state.structured_content["freshness"]["current"])
-            for case in core.load_json(core.HERE / "evaluacion.json"):
+            for case in core.load_json(core.HERE / ("evaluacion-2.3.json" if core.pick_primary(core.ROOT)[1] == "2.3.0" else "evaluacion.json")):
                 with self.subTest(id=case["id"]):
                     args = {"pregunta": case["question"], "modo": "consulta"}
                     if case.get("card"):
@@ -85,8 +109,8 @@ class ProtocoloTests(unittest.IsolatedAsyncioTestCase):
                     primary = {p["rule"]: p for p in expanded["primary_rules"] if p["rule"]}
                     for rid in case.get("rules", []):
                         self.assertIn(rid, primary)
-                        self.assertEqual(primary[rid]["version"], "2.2.0")
-                        self.assertEqual(primary[rid]["path"], "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf")
+                        self.assertEqual(primary[rid]["version"], core.pick_primary(core.ROOT)[1])
+                        self.assertEqual(primary[rid]["path"], core.pick_primary(core.ROOT)[0])
                     for rid, text in case.get("decisive", {}).items():
                         self.assertIn(text, primary[rid]["text"])
                     for rid, pages in case.get("pages", {}).items():
@@ -224,6 +248,7 @@ class FixturesTests(unittest.IsolatedAsyncioTestCase):
         self.root = Path(self.temp.name).resolve()
         assert self.root.is_relative_to((HERE / ".cache").resolve())
         for rel in core.CONTROL + ["Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf",
+                                "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
                                    "02. Listado de Cartas/Set 14 - Hyperia City.md",
                                    "01. Reglas/1. Principios generales/1.12 Robo (Drawing).md"]:
             dest = self.root / rel
