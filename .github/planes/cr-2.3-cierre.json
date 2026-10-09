@@ -1,0 +1,68 @@
+{
+  "estado": "completo",
+  "commit_editorial": "40c9733af56b6b4e09a6973f9bd9d3342b75559c",
+  "publicaciones_verificadas": 44,
+  "retiradas_verificadas": [
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Attack of the Vine - cambios anunciados y control para CR 2.2.md",
+      "contenido_http": 200,
+      "nota_no_encontrada": true,
+      "local_conservado": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/CR 2.2 - comparación final con Attack of the Vine.md",
+      "contenido_http": 200,
+      "nota_no_encontrada": true,
+      "local_conservado": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/CR 2.2 - matriz de diferencias respecto a CR 2.1.md",
+      "contenido_http": 200,
+      "nota_no_encontrada": true,
+      "local_conservado": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/CR 2.2 - resumen de implementación.md",
+      "contenido_http": 200,
+      "nota_no_encontrada": true,
+      "local_conservado": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/CR 2.2 - revisión editorial del PDF oficial.md",
+      "contenido_http": 200,
+      "nota_no_encontrada": true,
+      "local_conservado": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Reglas completas de Disney Lorcana 2.2 - cambios respecto a 2.1.md",
+      "contenido_http": 200,
+      "nota_no_encontrada": true,
+      "local_conservado": true
+    }
+  ],
+  "publicadas_antes": 551,
+  "publicadas_despues": 548,
+  "altas": [
+    "01. Reglas/1. Principios generales/1.13. Contadores (Counters).md",
+    "01. Reglas/8. Palabras clave (Keywords)/8.16. Aventurero (Adventurous).md",
+    "01. Reglas/9. Resúmenes/Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2.md"
+  ],
+  "retiradas": [
+    "01. Reglas/9. Resúmenes/Attack of the Vine - cambios anunciados y control para CR 2.2.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - comparación final con Attack of the Vine.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - matriz de diferencias respecto a CR 2.1.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - resumen de implementación.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - revisión editorial del PDF oficial.md",
+    "01. Reglas/9. Resúmenes/Reglas completas de Disney Lorcana 2.2 - cambios respecto a 2.1.md"
+  ],
+  "pendientes_ajenos_sin_cambios": true,
+  "previos_preservados": {
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md": true,
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md": true,
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Empates intencionales y acuerdos de grupo.md": true,
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/ÍNDICE - Casos de ejemplo y aclaraciones.md": true,
+    "Registro de Tags - Master List.md": true
+  },
+  "portada_combinada_restaurada": true,
+  "inventario_publico_coincide": true
+}

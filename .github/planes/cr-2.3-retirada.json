@@ -1,0 +1,39 @@
+{
+  "estado": "retirado",
+  "commit": "40c9733af56b6b4e09a6973f9bd9d3342b75559c",
+  "paginas": {
+    "01. Reglas/9. Resúmenes/Attack of the Vine - cambios anunciados y control para CR 2.2.md": {
+      "sha256_local": "3a6510ec579466cd5e77542d7623bf90c9c44050a399bcb89e8005d1bf5a240c",
+      "publicada": true
+    },
+    "01. Reglas/9. Resúmenes/CR 2.2 - comparación final con Attack of the Vine.md": {
+      "sha256_local": "38b893a83a1e9361679415e594f4f012954822a59aa4b991177ac9525846bfdd",
+      "publicada": true
+    },
+    "01. Reglas/9. Resúmenes/CR 2.2 - matriz de diferencias respecto a CR 2.1.md": {
+      "sha256_local": "7c58af7cd812853befec838db69a47c627ab8bb27575726e06828813fc76ee0a",
+      "publicada": true
+    },
+    "01. Reglas/9. Resúmenes/CR 2.2 - resumen de implementación.md": {
+      "sha256_local": "5ff27a98ef8b155b52537619fde8928d1f8b44b295073760fe694fca988b28c0",
+      "publicada": true
+    },
+    "01. Reglas/9. Resúmenes/CR 2.2 - revisión editorial del PDF oficial.md": {
+      "sha256_local": "71b35a9a775ac0f6f86661981883d91f8a40b7c943a28bd39263b2541b96f0c5",
+      "publicada": true
+    },
+    "01. Reglas/9. Resúmenes/Reglas completas de Disney Lorcana 2.2 - cambios respecto a 2.1.md": {
+      "sha256_local": "ee8430f279430b3d824e4e7720571fa959d398554af0daf24a30fa8ba527ca27",
+      "publicada": true
+    }
+  },
+  "retiradas": [
+    "01. Reglas/9. Resúmenes/Attack of the Vine - cambios anunciados y control para CR 2.2.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - comparación final con Attack of the Vine.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - matriz de diferencias respecto a CR 2.1.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - resumen de implementación.md",
+    "01. Reglas/9. Resúmenes/CR 2.2 - revisión editorial del PDF oficial.md",
+    "01. Reglas/9. Resúmenes/Reglas completas de Disney Lorcana 2.2 - cambios respecto a 2.1.md"
+  ],
+  "ya_ausentes": []
+}

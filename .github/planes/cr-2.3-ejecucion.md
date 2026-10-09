@@ -1,6 +1,6 @@
 # Ejecución de la migración CR 2.2 → 2.3
 
-**Fecha:** 9 de octubre de 2026. **Estado:** revisión y adaptación completas; publicación y retirada pendientes de ejecución y comprobación.
+**Fecha:** 9 de octubre de 2026. **Estado:** migración completada, subida y publicada; retirada pública verificada.
 
 Iván autorizó publicar al terminar la revisión, sin esperar al 16 de octubre. La wiki presenta la adaptación 2.3 con su fecha efectiva; el motor actualizado mantiene la fuente 2.2 hasta el 15 y selecciona 2.3 desde el 16. Se conserva el PDF previo y el historial local.
 
@@ -53,4 +53,8 @@ La lista exacta está en `cr-2.3-manifiesto.json`. Se publican solo sus rutas y 
 
 Se conservan los cambios previos de Iván. `Empecemos.md` comparte cambios ajenos: para commit y Publish se utiliza el contenido de HEAD más los cambios propios y después se repone el contenido combinado. El registro de tags, índice, Bodyguard, Strange Things y empates previos permanecen fuera del commit.
 
-Los hashes de commit, informes de publicación/retirada y comprobaciones públicas se incorporan al cierre tras verificarlos.
+Commit editorial: `40c9733af56b6b4e09a6973f9bd9d3342b75559c`, confirmado en `origin/main`. Publicación selectiva: 44/44 rutas subidas, cero pendientes de la selección antes de reponer la portada combinada. Se abrió el enlace público de cada página y se contrastó su texto completo, normalizando únicamente UTF-8/BOM y finales de línea. La entrada general se verificó también en el navegador desde el enlace de la portada; carga su nota de forma dinámica aunque el HTML inicial no la precarga.
+
+Retirada: 6/6 rutas ausentes de `publish:list` y del inventario público. El acceso a cada nota devuelve el texto «Not Found / File … does not exist.» (Publish lo sirve con HTTP 200, no con 404). Los seis archivos locales mantienen sus hashes. Inventario: 551 → 548, exclusivamente tres altas y seis retiradas. El contenido combinado de la portada quedó restaurado y los hashes de los demás cambios previos, así como sus estados pendientes, se conservaron.
+
+Informes guardados: `cr-2.3-publicacion.json`, `cr-2.3-verificacion-publica.json`, `cr-2.3-retirada.json` y `cr-2.3-cierre.json`. Se registran en un segundo commit interno después de completar Publish, sin volver a publicar archivos ni incorporar pendientes ajenos. No hay pasos pendientes de la migración pública. La recarga de clientes MCP abiertos corresponde al reinicio indicado arriba; sus procesos no fueron interrumpidos.

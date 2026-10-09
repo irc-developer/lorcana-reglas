@@ -1,7 +1,7 @@
 # Plan de actualización de la wiki: CR 2.2 → CR 2.3
 
 **Preparado:** 9 de octubre de 2026.
-**Estado:** adaptación ejecutada y validada; commit, publicación y retirada en curso.
+**Estado:** migración completada y publicada el 09/10/2026; vigencia normativa desde el 16/10/2026.
 **Decisión posterior de Iván:** «En cuanto la tengamos completada la publicaremos». La publicación y retirada se ejecutan ahora con avisos de vigencia; la aplicación normativa cambia el 16/10/2026.
 **Objetivo:** adaptar la wiki a CR 2.3.0, retirar CR 2.2 de la referencia activa y de la publicación seleccionada, y crear una entrada que explique los cambios generales entre ambas versiones.
 
@@ -234,8 +234,14 @@ Si una publicación falla parcialmente, detener las retiradas dependientes y con
 - [x] Antes del 16/10 no se presenta 2.3 como vigente. Después de activar, ambos selectores y portada coinciden.
 - [x] Referencias activas a 2.2 revisadas, históricos identificados y enlaces hacia páginas retiradas reparados.
 - [x] MCP/búsqueda recuperan 2.3, excluyen históricos y conservan la lectura sin escrituras; pruebas relevantes de consulta/MCP y publicación selectiva pasan.
-- [ ] Diff revisado y `git diff --check` correcto; commits solo de la migración; push confirmado sin forzar ni incorporar commits ajenos.
-- [ ] Altas/actualizaciones públicas verificadas y retiradas exactas comprobadas; pendientes ajenos intactos.
-- [ ] Informe final con commit(s), rutas, enlaces de la nueva entrada y pendientes reales, si los hubiera.
+- [x] Diff revisado y `git diff --check` correcto; commits solo de la migración; push confirmado sin forzar ni incorporar commits ajenos.
+- [x] Altas/actualizaciones públicas verificadas y retiradas exactas comprobadas; pendientes ajenos intactos.
+- [x] Informe final con commit(s), rutas, enlaces de la nueva entrada y pendientes reales, si los hubiera.
 
 **Ejecución:** véase `cr-2.3-ejecucion.md` y los manifiestos explícitos. Los informes de Publish y retirada se guardarán tras sus operaciones; no se adelanta su confirmación.
+
+## Resultado de ejecución
+
+Commit editorial subido: `40c9733af56b6b4e09a6973f9bd9d3342b75559c`. Las 44 páginas seleccionadas están publicadas y su contenido completo se contrastó con el sitio. Se retiraron las seis notas históricas 2.2; los archivos y el PDF previo siguen conservados. El inventario público pasa de 551 a 548 páginas (tres altas y seis retiradas). Los pendientes ajenos permanecen intactos.
+
+Informes: `cr-2.3-publicacion.json`, `cr-2.3-verificacion-publica.json`, `cr-2.3-retirada.json` y `cr-2.3-cierre.json`. La transición automática se validó en procesos nuevos; los clientes MCP ya abiertos deben reiniciarse para cargar el motor actualizado.
