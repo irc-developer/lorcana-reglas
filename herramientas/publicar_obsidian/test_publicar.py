@@ -13,6 +13,12 @@ import publicar as p
 
 
 class PublicacionTests(unittest.TestCase):
+    def test_enlace_publico_con_final_que_parece_extension(self):
+        base='https://publish.obsidian.md/wiki'
+        self.assertEqual(p.enlace_publico(base,'Reglas 2.3 - cambios respecto a 2.2.md'),base+'/Reglas%202.3%20-%20cambios%20respecto%20a%202.2.md')
+        self.assertEqual(p.enlace_publico(base,'Caso normal.md'),base+'/Caso%20normal')
+        self.assertEqual(p.enlace_publico(base,'09. Recursos/bolsa.svg'),base+'/09.%20Recursos/bolsa.svg')
+
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory(prefix="lorcana-publish-")
         self.root = Path(self.tmp.name).resolve()

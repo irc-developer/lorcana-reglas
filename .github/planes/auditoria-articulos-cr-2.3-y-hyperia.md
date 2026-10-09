@@ -1,6 +1,6 @@
 # Plan de revisión de artículos: CR 2.3 y Hyperia City
 
-**Preparado:** 09/10/2026. **Estado:** revisión individual y edición ejecutadas; commit y publicación en curso. Recarga de la conexión MCP persistente pendiente.
+**Preparado:** 09/10/2026. **Estado:** revisión individual y edición ejecutadas; commit subido y publicación verificada. Recarga de la conexión MCP persistente pendiente.
 
 **Petición de Iván:** ampliar la revisión que anteriormente se limitó a los artículos relacionados con cambios detectados y decidir qué aclaraciones de Hyperia City necesitan documentación. Este plan complementa la migración ya publicada; no sustituye su informe ni declara realizada una revisión normativa integral de toda la wiki.
 
@@ -116,3 +116,5 @@ El cierre final entregará un inventario sin pendientes no explicados, altas y a
 Se completó la lectura individual de los 495 documentos y las decisiones sobre 34 temas de Hyperia; se crearon las ocho entradas previstas. El inventario conserva hashes iniciales y finales, y el registro de lectura documenta el contraste. También se corrigieron dependencias adicionales detectadas en la lectura, enlaces públicos, diagramas y políticas desde sus originales. Los 15 documentos históricos y los cambios previos protegidos se conservan.
 
 El MCP incorpora las notas y erratas fechadas; los procesos nuevos se prueban con CR 2.2 antes del 16/10 y CR 2.3 desde esa fecha. La conexión persistente abierta conserva el código anterior: su recarga no se ha realizado, porque no hay una herramienta de reconexión disponible y no se terminan procesos de otros chats. Véase el informe de cierre para resultados de Git y publicación.
+
+Publicación completada: **317 rutas**, sin pendientes de esta selección, en el commit `fcea89c3fd026f7970e53fe63d12e37e99492bd6`. Las 303 notas se compararon con el texto del commit y los 14 recursos byte a byte. Los pendientes ajenos no se publicaron.

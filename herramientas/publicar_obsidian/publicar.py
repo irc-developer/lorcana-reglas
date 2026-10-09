@@ -133,6 +133,15 @@ def pendientes(texto):
     return result
 
 
+def enlace_publico(base, nombre):
+    ruta = nombre[:-3] if nombre.endswith('.md') else nombre
+    # Publish puede interpretar el último punto como una extensión. La ruta
+    # explícita .md permite precargar notas como el resumen terminado en «2.2».
+    if nombre.endswith('.md') and re.search(r'\.[^\s./]+$', PurePosixPath(ruta).name):
+        ruta = nombre
+    return base + '/' + quote(ruta, safe='/')
+
+
 def publicar(root, plan, aplicar=False, command=None):
     root = Path(root).resolve()
     command = command or encontrar_cli()
@@ -185,7 +194,7 @@ def publicar(root, plan, aplicar=False, command=None):
         for nombre in elegidos:
             if comprobar_archivo(root, plan["commit"], nombre) != plan["sha256"][nombre]:
                 raise PublicacionError(f"El archivo cambió antes de verificar el resultado: {nombre}")
-        informe.update(estado="publicado", enlaces={p: base + "/" + quote(p[:-3] if p.endswith(".md") else p, safe="/") for p in elegidos})
+        informe.update(estado="publicado", enlaces={p: enlace_publico(base, p) for p in elegidos})
         return informe
     except (PublicacionError, OSError, ValueError, subprocess.TimeoutExpired) as exc:
         informe.update(estado="error", error=str(exc))

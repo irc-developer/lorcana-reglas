@@ -1,6 +1,6 @@
 # Revisión de la wiki: CR 2.3 e Hyperia City
 
-**Fecha:** 09/10/2026. **Estado:** edición y validación completadas; commit y publicación selectiva en curso. La recarga de la conexión MCP persistente queda pendiente.
+**Fecha:** 09/10/2026. **Estado:** edición, validación, commit, push y publicación selectiva completados. La recarga de la conexión MCP persistente queda pendiente.
 
 Se revisaron individualmente los **495 documentos** del inventario, incluidos **239 casos** y **15 documentos históricos**. Se actualizaron **294 documentos del inventario**; esta cifra incluye ajustes de referencias y enlaces y no representa 294 errores de reglas. Se conservaron los históricos como antecedentes y se cerraron las decisiones sobre los **34 temas de Hyperia City**.
 
@@ -34,14 +34,18 @@ Se conserva el original inglés CR 2.3, su comparación con 2.2 y el HTML de las
 - Motor de consulta: **16 pruebas superadas**.
 - Hyperia y erratas: **6 pruebas superadas**, incluida la invalidación del índice al cruzar la fecha de aplicación.
 - MCP por stdio: **11 pruebas superadas**, incluida la selección futura de CR 2.3 y la conservación de evidencia completa en ambos formatos.
-- Publicación selectiva: **12 pruebas superadas**. Las **4 pruebas de la transición CR 2.3** se habían superado también durante esta ejecución.
+- Publicación selectiva: **13 pruebas superadas**. Las **4 pruebas de la transición CR 2.3** se habían superado también durante esta ejecución.
 
 El corpus y el índice están actualizados. Los procesos MCP nuevos cargan esta implementación. La conexión ya abierta fue comprobada y conserva el código anterior, por lo que no puede acreditarse que tenga incorporadas las nuevas notas y erratas. No hay una herramienta disponible para recargarla y no se terminan procesos de otros chats. Esta comprobación queda explícitamente pendiente.
 
 ## Conservación del trabajo previo
 
-Se aislaron las versiones de esta auditoría de Bodyguard, Strange Things, el índice y el registro de tags antes de commit y Publish; después se restaurará el contenido combinado. Empates intencionales y Peter Pan’s Shadow/Pegasus se conservan con sus hashes iniciales. La configuración de la interfaz de Obsidian no se incluye en el commit ni en Publish.
+Se aislaron las versiones de esta auditoría de Bodyguard, Strange Things, el índice y el registro de tags antes de commit y Publish; después se restauró el contenido combinado con comprobación de hashes. Empates intencionales y Peter Pan’s Shadow/Pegasus se conservan con sus hashes iniciales. La configuración de la interfaz de Obsidian no se incluye en el commit ni en Publish.
 
 ## Git y publicación
 
-Pendiente de registrar el hash subido, el informe de publicación de las 317 rutas explícitas y la comparación de su contenido público con el commit. La edición local, por sí sola, no constituye publicación terminada.
+El commit [fcea89c](https://github.com/irc-developer/lorcana-reglas/commit/fcea89c3fd026f7970e53fe63d12e37e99492bd6) está subido a `origin/main`. La API oficial de GitHub comprobó que la cuenta configurada es propietaria y administradora del remoto. La publicación selectiva terminó con **279 archivos subidos, 38 ya actualizados y cero pendientes de la selección**. Se preservaron los demás pendientes de la bóveda.
+
+El contenido público de las **303 notas** coincide con el commit, normalizando solo BOM y finales de línea. Los **14 recursos** coinciden byte a byte. Los informes [de publicación](auditoria-cr-2.3-publicacion.json) y [de verificación pública](auditoria-cr-2.3-verificacion-publica.json) incluyen las rutas, enlaces y hashes.
+
+El índice del MCP se reconstruyó después de restaurar los cuatro archivos compartidos. Se verificaron las ocho cartas y sus casos desde un proceso nuevo, con CR 2.3 en la fecha futura. El único paso pendiente es recargar la conexión MCP que ya estaba abierta; no quedan notas de esta auditoría pendientes de publicación.

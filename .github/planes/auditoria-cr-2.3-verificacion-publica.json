@@ -1,0 +1,2543 @@
+{
+  "estado": "verificado",
+  "commit": "fcea89c3fd026f7970e53fe63d12e37e99492bd6",
+  "normalizacion": "Markdown UTF-8 sin BOM y finales de línea equivalentes; recursos comparados byte a byte",
+  "archivos": [
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Belle%20-%20Apprentice%20Inventor%20puede%20jugarse%20al%20desterrar%20The%20Black%20Cauldron",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1f12d17d3d9c13d43d62f43888311a90059b07e288aead59c9157bb4724a4383",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Jukebox%20requiere%20otra%20canci%C3%B3n%20con%20el%20mismo%20nombre%20en%20el%20descarte",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8e1f95b158fd7889d90a6cc5c00377c11280cd0f9b37fc6cba73f5ac30aca4e1",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Minnie%20Mouse%20-%20Urban%20Visionary%20y%20las%20dos%20decisiones%20opcionales",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "2bf6e250c1221b2b876fa44c963566988526c3ba6413eed61520eece91ec9904",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Baymax - Amped Up, retirar gotas y pagar tinta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Baymax%20-%20Amped%20Up%2C%20retirar%20gotas%20y%20pagar%20tinta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "755b0057a9620e6e6dc7d2a0f73f9376be810fec6d23bce6f933d4adb9d9e2db",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Madam%20Mim%20-%20Resourceful%20Trickster%20y%20las%20gotas%20usadas%20antes%20de%20entrar",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3d84a89e0790a4a5f010040553bd56fd3c4f93acc05b2a06413101dd2a059c12",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Thomas%20O%27Malley%20-%20Savvy%20Vagabond%2C%20revelaciones%20y%20costes%20empatados",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f780c58d014413e6f0e6d495816f5b450349d047b7d4f4b7494112ee51887c7b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Flippant Taunt mantiene su efecto cuando su jugador abandona la partida.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.7.%20Dudas%20por%20desarrollar/Flippant%20Taunt%20mantiene%20su%20efecto%20cuando%20su%20jugador%20abandona%20la%20partida",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "275c10205b5e493d187dd461d5715476c4e020862e06ab257af27eedb01bfea5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Clawhauser%20-%20Safety%20Officer%20no%20ignora%20su%20condici%C3%B3n%20al%20jugarse%20gratis",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5779346a99f3b020010332eb272b4289a42ce64d41ab859bccb0f8c9ffa3afa0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Declarar un desafío.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Res%C3%BAmenes/Declarar%20un%20desaf%C3%ADo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "bfe47bd91876e51f407815e3813059f69613412b3978b9c05268a651b2881e9f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Next Stop Olympus, dos copias y lores.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Next%20Stop%20Olympus%2C%20dos%20copias%20y%20lores",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "47b1984410e7d80409a97ff1364589dbbc0fa558da96cbb991528f580690398b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cumplir parte de una habilidad.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Cumplir%20parte%20de%20una%20habilidad",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a6d57ed8e0ddd4ae5538a3220bf168fd6a791ae1ff5e4a6b489db16f494f67e5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Milo%20-%20Scholar%27s%20Gambit%2C%20descartar%20y%20devolver%20personaje",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f1c7dd716c86109fb6437dcc278d967aa01b8819198f1a14ced088f82cfc06ad",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Copper y Reckless sin objetivos de ataque.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Copper%20y%20Reckless%20sin%20objetivos%20de%20ataque",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7ee19a8e2a0734b4a24c238b08778062a2b2ab4a52884d088fbae409b38b587c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Colors of the Wind - Resolución de robo múltiple.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Colors%20of%20the%20Wind%20-%20Resoluci%C3%B3n%20de%20robo%20m%C3%BAltiple",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4d3072fe855e57881392c7afdd57b34afb19b1c37d013905af60e1940c2a7522",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Dwarfs%20Mine%20vs%20The%20Bitterwood%20%E2%80%94%20Once%20per%20turn%20vs%20Whenever",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "d72d57adce7415b2a96f929a1da899c502f22096e32adaf8848475fe6b8c7b3e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Belle - Exceptional Writer no reduce la canción que canta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Belle%20-%20Exceptional%20Writer%20no%20reduce%20la%20canci%C3%B3n%20que%20canta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1f5280c75145695819087885b46101a3e69de38c00da9c013fbe5a389857a1a7",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Reducciones%20de%20coste%20apiladas%20-%20Akood%20et%20Emuti%20y%20Grandmother%20Willow",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0e3fb5899a5eaf8b3fd7967dbab440ea8a542c462e1355fb0324b5fbe4fcdae1",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Acciones en el descarte.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Acciones%20en%20el%20descarte",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "808b3468834cad633c3247ea81f6e510ee94fc2a6d984d5e91309ba4a072633b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Bruno y equipos con varios nombres.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Bruno%20y%20equipos%20con%20varios%20nombres",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0a023e52603eae0f4d01c1b69d5ae0f8d166bf9a11a49a0d1561b3a7a2376543",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Wasabi%20-%20Called%20into%20Battle%20y%20another%20chosen%20character",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "70dae3d9d34cbea8ddd0a98308805aaf57960947f251aeaf1ce4085a07a70394",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/One and Only compara el nombre sin la versión.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/One%20and%20Only%20compara%20el%20nombre%20sin%20la%20versi%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5a8c762316b9613359658baf09ebf13becb062056d259610910e27cd344f24ae",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/El uso de Then.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/El%20uso%20de%20Then",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "992960b04f24e552a2acc77a1ef183b285942c228875ea0db62c2ea226916be8",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Descartar%20como%20requisito%20para%20resolver%20una%20habilidad",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fd2f237bee34a4cc7b24cb1c7614bca571021d585de6a18608367d8431ad1d5e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "00. Introducción/Guía de Etiquetas para Búsqueda.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/00.%20Introducci%C3%B3n/Gu%C3%ADa%20de%20Etiquetas%20para%20B%C3%BAsqueda",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b8d35952e21a166072ea2a73ca0aa6ba344364ddd9b88fda8dd45f4ab6c81b69",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "00. Introducción/Etiquetas para Disney Lorcana.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/00.%20Introducci%C3%B3n/Etiquetas%20para%20Disney%20Lorcana",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8cacdc4e8825d6542f2472d155c5188de24c9ed8863870072ee0033beda44335",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/tiposdehabilidades.svg",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/tiposdehabilidades.svg",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3d418df0b01c83f9b2cc3965f8229156002b6d8028d95cdd53fb637b21418a0e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/tiposdehabilidades.png",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/tiposdehabilidades.png",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ac130d15997673f7b058763d0c1547ea1f0cd6422e2c981034275b3827969854",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/resolucionHabilidades.svg",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/resolucionHabilidades.svg",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4fad1846a5d6056af5a7e70dce3a59cce94c2904893aea3483b19f876c16d471",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/resolucionHabilidades.png",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/resolucionHabilidades.png",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8e9fe63872fb8a0af7db01803b2712ebe4a19c809afe431dd71440f094fcc832",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/Esquema-Jugar-Carta.svg",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/Esquema-Jugar-Carta.svg",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7e0f9aabf8642881575655f904741251f40f73a24480c4d90d1780b395582d2c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/Esquema-Jugar-Carta.png",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/Esquema-Jugar-Carta.png",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c022604f46ca81b4b2fc397e5605748c53563591fe441150df85eb55d93b017c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Remember%20Me%20permite%20jugar%20personajes%20desde%20la%20mano%20y%20el%20descarte",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "16f17c8ec95ec31fb07a28d28e8895bb52f3ae13059ee39ac6b94dc507a6f72e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Woody%20-%20Town%20Sheriff%20permite%20cantar%20antes%20de%20cumplir%20la%20aventura%20obligatoria",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "003f098e99197134572c683d23d0d9b5bf2519ec33fc8b8c5680453ba94b31a7",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Ancestral%20Guitar%20no%20convierte%20Singer%20en%20Singer%20X",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e87e015e5bf84ed5147d81e55a323fd476d551386a09dca55c6d2d4698ffd2cd",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Bodyguard",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b1a6e3a95c6a54a997b6113a5522c67ac9b8b4676a11ccf9f8135e050292fe88",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Strange%20Things%20y%20This%20Growing%20Pressure%20-%20prohibici%C3%B3n%20frente%20a%20obligaci%C3%B3n%20condicional",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "91987c1b7927b1cb07a2edca478359572dbe4f628f06d317bded27a10b87db14",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Support - Interacciones.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Support%20-%20Interacciones",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6382479c5435ee8bbdc218522f05179751745b3d3d486a4b644745d947a79ecc",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Cada oponente en multijugador y orden de resolución.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.7.%20Dudas%20por%20desarrollar/Cada%20oponente%20en%20multijugador%20y%20orden%20de%20resoluci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fe3e4b6b44ebf817f99835045f676b48497f612531b9ffd730a70fab590c139b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/1. Principios generales/1.5 Costes (Costs).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/1.%20Principios%20generales/1.5%20Costes%20%28Costs%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3cb23ee8cd82faaeec409ed3c70635b73b44ef3b13dc79f7461732fc45a3392a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/1.%20Principios%20generales/1.7.%20Game%20Actions%2C%20Timing%2C%20y%20Illegal%20Actions",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "d6c3a927c8276c4dab31c0584fd2f178f837760505d438072aaa8ad1f116be05",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/10. Artículos/La ventaja estructural en Disney Lorcana.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/10.%20Art%C3%ADculos/La%20ventaja%20estructural%20en%20Disney%20Lorcana",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3265c318d2af8e93e1604714b2bc02cec810a183cdd4c5a91c80b182eb469088",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/10. Artículos/Deck Check - discrepancia entre decklist y mazo físico.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/10.%20Art%C3%ADculos/Deck%20Check%20-%20discrepancia%20entre%20decklist%20y%20mazo%20f%C3%ADsico",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a53bb583128e865e63dcf41a94f741d33be4b402a20dc3b009c50f9646db34a0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/4.%20Acciones%20de%20turno%20%28Turn%20Actions%29/4.3.%20Jugar%20una%20carta%20%28Play%20a%20Card%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "34a76d59836c90985751cf963c266795e8f386d9ba24e9c3e2418b119b71f99e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/4.%20Acciones%20de%20turno%20%28Turn%20Actions%29/4.6%20Desaf%C3%ADo%20%28Challenge%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "2f40124774ea0028d90d1cc8bf8cf2f59fa30b8b40499dc0580375a3b13cfff7",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.4. Acciones (Actions).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/5.%20Cartas%20y%20tipos%20de%20carta%20%28Cards%20and%20Card%20types%29/5.4.%20Acciones%20%28Actions%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "56413528e19a4067d9f749773ad003c1bac540c396109e6643866c4ae38a2102",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/5.%20Cartas%20y%20tipos%20de%20carta%20%28Cards%20and%20Card%20types%29/5.2.%20Partes%20de%20una%20carta%20%28Parts%20of%20a%20Card%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c1f83e3c026b34af617d459da0d5b7eb8eaf04abb3f721a7b84d227fc9747e6f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/6.%20Habilidades%2C%20efectos%20y%20resoluci%C3%B3n%20%28abilities%2C%20effects%2C%20and%20resolving%29/6.1.%20General%20%28General%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f9cbd8fbc66f4066ae924b49e3d619144e54da1c97e236fadda99d11d31591ab",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/6.%20Habilidades%2C%20efectos%20y%20resoluci%C3%B3n%20%28abilities%2C%20effects%2C%20and%20resolving%29/6.2.%20Habilidades%20Disparadas%20%28Triggered%20Abilities%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8a4ad6b5af4578a6ab03f799a3c98694bf67494270355a17a424f938046bc13f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/6.%20Habilidades%2C%20efectos%20y%20resoluci%C3%B3n%20%28abilities%2C%20effects%2C%20and%20resolving%29/6.4.%20Habilidades%20Est%C3%A1ticas%20%28Static%20Abilities%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f2e90a2efba12ca64dcdb068b13fd7ff02b6c45f8e4fd4cec7bbcdc3df73ab81",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/10. Artículos/Reversión de jugadas (takebacks).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/10.%20Art%C3%ADculos/Reversi%C3%B3n%20de%20jugadas%20%28takebacks%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c26f9e009f8fc6cba8829d8836f9fb68d59d9cc1a2c24fc474d415fe9d1a34cf",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/6.%20Habilidades%2C%20efectos%20y%20resoluci%C3%B3n%20%28abilities%2C%20effects%2C%20and%20resolving%29/6.5.%20Efectos%20de%20Reemplazo%20%28Replacement%20Effects%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "223f0a79d62899a602744393ade076440e6be43e4b1078dba4bc9703d929415e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/6.%20Habilidades%2C%20efectos%20y%20resoluci%C3%B3n%20%28abilities%2C%20effects%2C%20and%20resolving%29/6.7.%20Resoluci%C3%B3n%20de%20Cartas%20y%20Efectos%20%28Resolving%20Cards%20and%20Effects%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7421c5a3f7ac436c86bef9942bd906d3fcf58997ddb153ff31fa6ca7d538410d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/7. Zonas (Zones)/7.4. Juego (Play).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/7.%20Zonas%20%28Zones%29/7.4.%20Juego%20%28Play%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "45c0fb02a9b1567f74a617b49c6207ee7ee5841c05040cb1cf8f8bdb96811213",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Jugar una carta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Res%C3%BAmenes/Jugar%20una%20carta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fb26e5d548081bb282bde367374bc5691c46fb5795a15a144b2b4a4b39426463",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/8. Palabras clave (Keywords)/8.9. Prisa (Rush).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/8.%20Palabras%20clave%20%28Keywords%29/8.9.%20Prisa%20%28Rush%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "2f624425c699939edc7d14589aea3fbaa86160d797a09981b87b8a76ac4f06c9",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Recordatorio – Set Championship (Core Constructed).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Res%C3%BAmenes/Recordatorio%20%E2%80%93%20Set%20Championship%20%28Core%20Constructed%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4633c6072236ec484eb153833cef66a836eb9440a00225d88755653663483141",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Checklist de Mesa – Set Championship (Core Constructed).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Res%C3%BAmenes/Checklist%20de%20Mesa%20%E2%80%93%20Set%20Championship%20%28Core%20Constructed%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c77ec34071bf3a0129b62ec1297c2208bec2ca86b47bc8ad8150d6dabe282257",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/Índice.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/%C3%8Dndice",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "586dee5db97ddd41990744d2591527d10c28b9a86744d102cb9a93bac807098a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/1. Definiciones sobre toneos/1. Introduccion.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/1.%20Definiciones%20sobre%20toneos/1.%20Introduccion",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "54dcc6a44c5c8c9bc74eeee869cd7098fd82bea6c05ab38725e259240be19f88",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/5. Formatos de torneos - Construido/5.0 Formatos de torneos - Construido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/5.%20Formatos%20de%20torneos%20-%20Construido/5.0%20Formatos%20de%20torneos%20-%20Construido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "029ffc81fdcf89ad505d530968af98100fab00b6472eaf0aee733e6a53f3ee6d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/5. Formatos de torneos - Construido/5.1 Visión General de Construido (Constructed Overview).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/5.%20Formatos%20de%20torneos%20-%20Construido/5.1%20Visi%C3%B3n%20General%20de%20Construido%20%28Constructed%20Overview%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e42dcdce0b24e0a2deb35b723fed84ec0bdf7bff00507f28e3747d9e9668789a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/6. Formatos de torneos - Limitado/6. Formatos de torneos - Limitado.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/6.%20Formatos%20de%20torneos%20-%20Limitado/6.%20Formatos%20de%20torneos%20-%20Limitado",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8bbd370cd187f652a91464ea86dd7288096ca09b5d4b43f3a0a13b2110fca90a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/1. Definiciones sobre toneos/1.6 Legalidad de Sets (Set Legality).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/1.%20Definiciones%20sobre%20toneos/1.6%20Legalidad%20de%20Sets%20%28Set%20Legality%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "145744914a0d616e30f00d69454433d50bff5eca59d36f91ce05cbfd6885e732",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/4. Transmisión (Broadcast)/4.2. Consentimiento de Imagen del Jugador.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/4.%20Transmisi%C3%B3n%20%28Broadcast%29/4.2.%20Consentimiento%20de%20Imagen%20del%20Jugador",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "eb4c5f6aaee8cdb89c93006be433daf03ea216bcb0257df10fcab1ba71f482f8",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/3. Operaciones en los torneos/3.7 Takebacks.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/3.%20Operaciones%20en%20los%20torneos/3.7%20Takebacks",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "518c013b3e0d6614d53afbeb8af609703b8298f2e1237219dae6f7b6d80311f5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.2 Rebobinando situaciones que impliquen zonas privadas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/01.%20Introduccion/1.2%20Rebobinar%20una%20partida/1.2.2%20Rebobinando%20situaciones%20que%20impliquen%20zonas%20privadas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "233fe3b74255776240b3efc7755d87381db5c206146e2e61f5326eb7beb19c90",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/02.%20Errores%20de%20reglas/2.1%20Efecto%20disparado%20perdido%20%28Missed%20Trigger%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ac180534d98325b4031efa244e9981cc14a4ac39d8dcd5e3b72e596abce32fef",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/02. Errores de reglas/2.2 Error de información oculta (Hidden Information Error).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/02.%20Errores%20de%20reglas/2.2%20Error%20de%20informaci%C3%B3n%20oculta%20%28Hidden%20Information%20Error%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "30d37e7ade43799ef1087b195e1a211bc3e82c93df1ee084a0157015f076cb16",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/02.%20Errores%20de%20reglas/2.3%20Error%20en%20el%20conteo%20de%20cartas%20%28Card%20Count%20Error%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fd4082cd3b7746e47c2b69fad31a4ede757add5942f22ae679c1674f798bfec8",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/03.%20Errores%20de%20torneo/3.3%20Error%20de%20mazo-registro%20menor%20%28Deck-Registration%20Error%20-%20minor%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1f79f2283301e82422991f2d86f8db14a3019a297eaaf4f657c70a9502595af2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/03. Errores de torneo/3.4 Error de mazo-registro mayor (Deck-Registration Error major).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/03.%20Errores%20de%20torneo/3.4%20Error%20de%20mazo-registro%20mayor%20%28Deck-Registration%20Error%20major%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "101098036070ef82e31eaf8772a1e204695df5ca1b1345e3580f60453007cf2a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/03. Errores de torneo/3.5 Error en el formato Limited (Limited Error).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/03.%20Errores%20de%20torneo/3.5%20Error%20en%20el%20formato%20Limited%20%28Limited%20Error%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c360e3261aec4af5a1b56959c8edbc502f4a91da73dda965e94498f574574002",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/05. Consejos generales/Evaluar si rebobinar cambia decisiones significativas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/05.%20Consejos%20generales/Evaluar%20si%20rebobinar%20cambia%20decisiones%20significativas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "43bdfc83046f1cf87cb5797dc659e79bad5e475042f416855e95c1e76a55bd07",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/05. Consejos generales/Juego descuidado - responsabilidad del jugador.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/05.%20Consejos%20generales/Juego%20descuidado%20-%20responsabilidad%20del%20jugador",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "39ef279968a383756278bca724f0b735bd61b466347517abdc3480d952dc0e82",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "05. Consejos de jueces/10. Errores de Registro - Guía rápida para jueces.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/05.%20Consejos%20de%20jueces/10.%20Errores%20de%20Registro%20-%20Gu%C3%ADa%20r%C3%A1pida%20para%20jueces",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ffd424c146834a57ec840a61d6669083f93f040cb39a53739f7b56e6ba504b3b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "05. Consejos de jueces/11. Guía práctica - Deck Checks antes del inicio del torneo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/05.%20Consejos%20de%20jueces/11.%20Gu%C3%ADa%20pr%C3%A1ctica%20-%20Deck%20Checks%20antes%20del%20inicio%20del%20torneo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "dea18fc5f86907e25ecbc4227540f1a80582894b67c7716d16d1294b7eedbbd7",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "05. Consejos de jueces/7. Formatos de Torneo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/05.%20Consejos%20de%20jueces/7.%20Formatos%20de%20Torneo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "50dd7c4be970dd888e174822efe178a9b38568a4e84972eccc62a3e93ea6da16",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "05. Consejos de jueces/1. Introducción.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/05.%20Consejos%20de%20jueces/1.%20Introducci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4f123297541baffedea2f298788d428353cc9010199a95d5e17f8ea2212d9706",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/05. Consejos generales/Manipulación social y presión en torneos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/05.%20Consejos%20generales/Manipulaci%C3%B3n%20social%20y%20presi%C3%B3n%20en%20torneos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b6a05b2c094fcd76525d79fe384632dc2f05fbf35bf105a105bbba343d0bdc1f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Elegir%20un%20personaje%20agotado%20por%20restricci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "cd8debc50d723788585fd04f06d6631e7733960cc33999cde79bc3445d5e14e1",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al principio del turno'.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Habilidades%20disparadas%20%27Al%20principio%20del%20turno%27",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "05af03ca7dc92b2102202b3d3ed3facf69b620a0a59b502dee985201a7dee372",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Enderezar un personaje.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Enderezar%20un%20personaje",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f33f8503883d5cf4be344392f0563fa88874529542a074ba87cf28a9288571d4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Qué pasa cuando se juegan dos cartas a la vez.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Qu%C3%A9%20pasa%20cuando%20se%20juegan%20dos%20cartas%20a%20la%20vez",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e28d7975c9b951bbe1482acd6874a6a03ba1dbb5bb447731ad688a3d14f6ff42",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Interacci%C3%B3n%20entre%20efectos%20de%20reemplazo%20y%20habilidades%20disparadas%20con%20requisitos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e2aba6352c7218d587809c4e5b4be1858dac2702a70cefad3f6fcbd9f230cf37",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Restricciones%20a%20enderezar%20impuestas%20por%20habilidades%20disparadas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1ddcbbabf81f1004d1ca402b2dc3406e443b45745cb74d784c09a34c1b9d4b05",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Resoluci%C3%B3n%20parcial%20sin%20objetivo%20v%C3%A1lido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "99b166ab6a8b231e68fad656ff68662f2edcca7fe149d1162acc929d65e3233e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución de habilidades entre Cursed Merfolk y Emerald Chromicon.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Orden%20de%20resoluci%C3%B3n%20de%20habilidades%20entre%20Cursed%20Merfolk%20y%20Emerald%20Chromicon",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f0d371d2ba43846e1f10860a2f6223e575efc380f30f43b78b963f70b21b586c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Escoger%20robar%20la%20carta%20superior%20o%20no",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "52d8bd9f40e2427684b7748c6dcd092530cf0e8fd02385337aa5ab2ef5364a58",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Ward%2C%20funcionamiento%20en%20descarte",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "48146126f91a7395bbcf7e06ae06155e552cd92beb77df40aa0dccae8ad2c4af",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Tod%20%2B%20You%20Came%20Back%20y%20habilidades%20en%20el%20Bolsa",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c05aa18784edaaecbc60a68e3a4c4e0a10a8ad90168941efac18708eed6b7b35",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/The%20Queen%20-%20Conceited%20Ruler%20y%20descarte%20sin%20retorno",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "06c2d08b36fcfe087e47b44946b7dc6cbd7fb8751f3da8ccda4064067f6b99df",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Agotar personaje varias veces.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Agotar%20personaje%20varias%20veces",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "25abc4b11440958a4dbae79ab5c9d4b014f89553ee9948d9b34fb6ea98ef69fc",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/H%C3%A9ctor%20Rivera%20-%20Worldwide%20Sensation%20s%C3%AD%20dispara%20The%20Torn%20Corner",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "edccd98b29d5608cfaf00abea33fdc52057d5acc490b2f34fe93b10b82132c72",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Hacerse daño como requisito.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Hacerse%20da%C3%B1o%20como%20requisito",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0b00634359aabfae35a605cfd150788b330393217802012b8750eb3b81a728da",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Incrementar el coste de una carta gratis.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Incrementar%20el%20coste%20de%20una%20carta%20gratis",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "bf79af02e241e6a861b19456fc79e04c1a78dcf07abbd2844bfc23bd564de9cf",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Cantar%20o%20jugar%20gratis%20cuenta%20como%20pagar%200%20tinta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6903b5f7bf8950c0ab89ba5034688faeeda7e1161a352f5e9b49d4c175be20e2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Jugar%20un%20personaje%20gratis%20no%20permite%20usar%20Shift",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f8272d75a8fc0d580fcb51fa957c6f0dd709394fd33f0f3e73bc8d1001fcf260",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Jugar%20una%20carta%20con%20shift%20reduciendo%20su%20coste%20%28incluso%20gratis%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5154552648853b987696ca2e989f204e3b972b18b1326c8ea91edfa6fef09934",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Efecto%20de%20Tiana%20al%20enderezar%20un%20personaje",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "014d605ca59a8efd7b333b030396b2950d60bcd4ee0646f95a22a97e9d24f0db",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Elsa's Ice Palace e Ice Artisan, orden de resolución desde bolsa.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Elsa%27s%20Ice%20Palace%20e%20Ice%20Artisan%2C%20orden%20de%20resoluci%C3%B3n%20desde%20bolsa",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e3382ed503c2f9044b18a0c2e2c21a8ac04edbabe66699da961f9712c68f91c7",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Ariel Ethereal Voice, boost y Beyond the Horizon.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Ariel%20Ethereal%20Voice%2C%20boost%20y%20Beyond%20the%20Horizon",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0610aa0c34b4e26c63e83c1acf2e2965a83326c5591e16bcd98befe72f9c2bdf",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Ganar palabra clave cuando 'acción de turno'.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Ganar%20palabra%20clave%20cuando%20%27acci%C3%B3n%20de%20turno%27",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1c862e597a3034d5f5661f619d9fa4b047fdc829c85c3625fe2462049f1ace25",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas globales y zonas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Habilidades%20est%C3%A1ticas%20globales%20y%20zonas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c754e7e1d556ca6089ccc8ff89f30858d37cde8fabb3e5832fb46ef545ae4f1d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Tener una habilidad por otro personaje.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Tener%20una%20habilidad%20por%20otro%20personaje",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "84f32a792fe17b028db03295affd4c01002118f310863ea0d78e3689a71c9714",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Habilidades%20est%C3%A1ticas%20presentes%20en%20juego%20y%20sus%20interacciones",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "03cca23d9136a5b8afa3c24ac0902a892a0ccc4504dac2104b68902765655d62",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/No poder ganar lore por efecto estático.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/No%20poder%20ganar%20lore%20por%20efecto%20est%C3%A1tico",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4dd73f27f1e31784d1c319b719f57df8ced05ab20ca86ca42e08f7d3433b1e15",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Source%20of%20the%20Vine%20y%20responsabilidad%20de%20anunciar",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "75051ce902fa9bf54481f36e90bb7a91e0d214cc1a9334f3076c2f378e36cc03",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Boost%20olvidado%20al%20poner%20carta%20debajo%20en%20torneo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "caa47e4ef1c2729a9a6beee6ff88bb50e8ba1e96d313dc3e9f0e892000bd4ebf",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Heredar%20una%20palabra%20clave%20al%20hacer%20shift",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "9bbbfd9f04b5e4f2e2b829a933b3f869aa112e404a0db5b1e5513d9f138fc5ee",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse – Bob Cratchit y cartas under.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Mickey%20Mouse%20%E2%80%93%20Bob%20Cratchit%20y%20cartas%20under",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ccf3469c0ac83728cc35c6db1eb379420e4bb917f6e9847fbf6dda735e43cec5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Aclaraciones de Fabled.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Aclaraciones%20de%20Fabled",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "423c60bd38cb7afa2e564a335625ef72c8c61f3b545649d492678d87ccec8ade",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/We Know The Way no puede seleccionarse a sí misma.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/We%20Know%20The%20Way%20no%20puede%20seleccionarse%20a%20s%C3%AD%20misma",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "140f7c85fd08a172981193ca0d59403467f38d203256b34be1ed25686d51008a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Acci%C3%B3n%20jugada%20debido%20a%20un%20efecto%20de%20otra%20carta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "700d88d7abed0f970c431ba71381f60e09ff7eb7e4b37bd556223846af6704f2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cinderella - Dream Come True y múltiples princesas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Cinderella%20-%20Dream%20Come%20True%20y%20m%C3%BAltiples%20princesas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f4675addff1f16df2777dea640c2bf3b7d13988479d1ba20569211fde3ea2ea2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Torrent%20solo%20reduce%20el%20siguiente%20coste%20de%20Shift",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "922b01ca0dbcf271239ba2d6c6ff4e0c78b6647df4000e23cbc352756c1bb544",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Combo infinito opcional y perder tiempo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Combo%20infinito%20opcional%20y%20perder%20tiempo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "2e12a0b976e2f0411464d35bf12a534363e9f7b74c1f6d499e9b7e8cc4dcaac2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Elegir mismo personaje múltiples veces.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Elegir%20mismo%20personaje%20m%C3%BAltiples%20veces",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "d393d5c3b1b9fcab1c770d0dc98834839e5efbc5a03db47c9aac595c99632362",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Choose%20up%20to%20X%20no%20evita%20restricci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ed1e6f61e760d42cb787fcee9570652d0d4afc5f89ee9c3b2d9c694f40b980ba",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Elegir menos objetivos no esquiva restricción.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Elegir%20menos%20objetivos%20no%20esquiva%20restricci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "12607f53daa5d1b33fb4950bcd427d42f02cd2f714547d9713ec2ba1eefab1cc",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/GSC y habilidades que dañan.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/GSC%20y%20habilidades%20que%20da%C3%B1an",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "84aefc44cd6e74010b4fe6db68cf500fffeabd12ac2b970ca2dfac358197feb4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Elsa%20%E2%80%93%20Spirit%20of%20Winter%20elegir%20personaje%20agotado",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c598ffd01b033812c8fc007db3560afd519951d9b81125728007d1244c5827a2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Fichas%20de%20recordatorio%20sobre%20el%20mazo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "29fd9312878459d86aee5f12228abe65d04836cf464de0ae43e026d4ae515ea4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Lady%20-%20Miss%20Park%20Avenue%20shift",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7f7e13f24457a1046fc6895cf1abcf3a24d21b5e4aae03a5740e77dffdd1e834",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Luisa%20Madrigal%20-%20I%20Can%20Take%20It%2C%20condici%C3%B3n%20Then-if%20y%20GSC",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1ce2746be3d7ec6e542306b20193d88dd954a39d6f45c498347de4693e42a8bf",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Marie%20-%20Caught%20in%20the%20Act%20con%20Resist%20y%20Lilo%20-%20Bundled%20Up",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0e7e4c06ec7701d14ed140ad3331462620da2ae1939d76e5b12f2402c09d71db",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Modifica%20su%20fuerza%20mientras%20reta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "56824ccd707a2ec95288b34abbfcca0ae2b6e1cfa5ebeb25cdb80736396a3a28",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Obligado elegir si objetivo válido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Obligado%20elegir%20si%20objetivo%20v%C3%A1lido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "144d08ced80c0467a743947119ea68041e50de23924c7de39e17956210569b5a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Posey%20-%20Vampire%20Potato%20puede%20usar%20Potato%20Shift%20sobre%20Morph",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "28fee710c1a4118997deb7ea4e8ac9fac852b2fba9ef9b8a5e3e87efa06e1eaf",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Morph%20-%20Little%20Imitator%20funciona%20con%20todas%20las%20variantes%20de%20Shift",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7df7d4b18c1a84c5913d56226fb78efe12fbdb2e9edd1dd0fe77e2c955872c84",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Prince%20Charming%20y%20Pete%20-%20efecto%20est%C3%A1tico%20frente%20a%20duraci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6d069a884d3ddc8ecc63c54119eba29200a16a95af12b8aa0f5d04a395ff554f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Pudge%20%2B%20Lilo%20%2B%20Grandmother%20Willow%20%28%2B%20Shift%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4b33ef2356cc8766c95b4822a659e789ba2a498e44a0c85086453f7db6a71690",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Rapunzel%20%E2%80%93%20Act%20of%20Kindness%20y%20mover%20da%C3%B1o",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4d3e2fe6e26a5f82c9658555100c8c9419a10b395198352c2533cd612f3e8915",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Tiana%20y%20Rapunzel%20-%20reducci%C3%B3n%20de%20Fuerza%20y%20prevenci%C3%B3n%20total%20de%20da%C3%B1o",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "36fb7da9d6698f0911aafcaed75ad58bd4315439760715345356c0a13015002e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Top Cut - quién elige empezar en cada partida.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Top%20Cut%20-%20qui%C3%A9n%20elige%20empezar%20en%20cada%20partida",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "68551eeb04c68f1fadba0cbb74ff8b3768814c59be866d4ab5156bb16c50445a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad de cartas firmadas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Legalidad%20de%20cartas%20firmadas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a6ed1204dccabe41166f3b62e5d9f7091745ac29fb7dd999f8521751999482ce",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Cartas de prueba, falsificaciones y proxies en torneos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Cartas%20de%20prueba%2C%20falsificaciones%20y%20proxies%20en%20torneos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "00a477db25c5258f7fc73f0130e4fdee221a7e99b9073d88a4cf2dabbb8c0f99",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Violet Parr - Deflect puede elegir un personaje sin daño.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Violet%20Parr%20-%20Deflect%20puede%20elegir%20un%20personaje%20sin%20da%C3%B1o",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "74a637e20a83a2a9500ee0a3cc8804ada53ec4e3bbe2f00e0c96fb98ac87c099",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Mushu y robo cuando no se cumple la condición.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Mushu%20y%20robo%20cuando%20no%20se%20cumple%20la%20condici%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8829bca2aa9c0c351034f6d1c2abe0e8cef26006fa418155e42aa25aff4ec4b8",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/ÍNDICE - Casos de ejemplo y aclaraciones.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/%C3%8DNDICE%20-%20Casos%20de%20ejemplo%20y%20aclaraciones",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8cf68a7a24f609fc723156dfbadfbb93033c8340d84b2682ee496bd432629e74",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "Registro de Tags - Master List.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/Registro%20de%20Tags%20-%20Master%20List",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "16d3a4de1eaaefd428dfd5cf2ad153420983a17aa6472527e65bbcfc497ed05d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/Esquema-Desafio.svg",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/Esquema-Desafio.svg",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8c95afaba23761df2b83fbec595ddadf9c5b40c6fa620dee4ec513fe187e958a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/Esquema-Desafio.png",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/Esquema-Desafio.png",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e0bc2a4a762e8ae3d986ba29334caca922f3afa232b57b6bbc0f5331cc2a3b63",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/esquema-bolsa.svg",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/esquema-bolsa.svg",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "2c830c3b783d678ab7e0d3282478a178db2a32b0a65f7242601ead0d675e02ca",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/esquema-bolsa.png",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/esquema-bolsa.png",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "9c3e3d291e904dbb81c04df43cf9cb94b7be03930448f27651a0659f303db221",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/turno.svg",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/turno.svg",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "aa799af2edba80473fec91e80e37c383a158633c5813dd1a0847a9d6a5c1c5bc",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "imagenes/recursos/turno.png",
+      "url": "https://publish.obsidian.md/reglas-lorcana/imagenes/recursos/turno.png",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "2c37937832bd46e921eede7764a8871e5e66ccb587327120d549b30bd94222cd",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "09. Recursos/definiciones.svg",
+      "url": "https://publish.obsidian.md/reglas-lorcana/09.%20Recursos/definiciones.svg",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "37850e1748cf7095a663343b0c2cca87da664627d8bb586601dd8aef596a0375",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "imagenes/recursos/definiciones.png",
+      "url": "https://publish.obsidian.md/reglas-lorcana/imagenes/recursos/definiciones.png",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fa5aaaee8fb3401dd9fecbaa40283e55e1b8e81265cc6ecd365c16ef00d5571e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/1. Principios generales/1.11 Leyenda (Lore).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/1.%20Principios%20generales/1.11%20Leyenda%20%28Lore%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "82d4427133c36d2f8d7a12fa5ffd5d0a94848e690aaf7c3c70024dc526bf1632",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/1.%20Principios%20generales/1.8.%20Chequeo%20del%20estado%20del%20juego%20%28Game%20State%20Check%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8d44d4bf2a9c9b9027d8bd4da5a264f4e589c5c69f96d02c212dc390b8c701ae",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Bambi%20-%20Ethereal%20Fawn%20y%20Dr.%20Bushroot%20-%20Evil%20Botanist%20en%20un%20desaf%C3%ADo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f3b820e24abb9377292ff7f990adec55c1bd6cc3cdbc95d85b969a88fecfd24d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Boo%20-%20Energetic%20Child%20destierra%20antes%20del%20da%C3%B1o%20del%20desaf%C3%ADo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "44dc71fa24e504e250cdd0de0e8731944ae368b30f1302fc8d0931964ddc2913",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en mano y el cálculo de triggers.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Cartas%20en%20mano%20y%20el%20c%C3%A1lculo%20de%20triggers",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "949dc78a040da52b498b7253d322a66e6862de7e2735a108f9fda065972a2569",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Cartas%20en%20una%20pila",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "9005348f641a17a53ca519aad0dc04fc79125e6e566999c39eb37628f183c029",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Cl%C3%A1usula%20sobre%20personaje%20y%20luego%20otra%20sobre%20el%20mismo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fa8caec8c20a145ba6214e0a83e6f68ff0219d5ab468a2bd22e60f7416824256",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Derrota, timing mazo vacío.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Derrota%2C%20timing%20mazo%20vac%C3%ADo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0d4c0d42f2cf52e17dcd86a9e9633be18d467bd1efb6090d62c73b7804fed066",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Disparar%20habilidades%20mientras%20se%20resuelve%20una%20carta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7bd48f3a28fa91b068c59b02631566567ba01e01908e432c82e374169c47d751",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir múltiples objetivos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Elegir%20m%C3%BAltiples%20objetivos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c7dfa7379dd87794dc00ca8724c3817f9a51284a6f5c9a8e0277248259e10b21",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Fergus%20-%20Outpost%20Builder%20y%20Sleepy%20Hollow%20-%20The%20Bridge%20no%20forman%20un%20bucle",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "819b5f510c6472cdaf8303f01dcd3d28cd19705db50596ebd1ef2f57b2ad834c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Get%20to%20Safety%21%20roba%20al%20recuperar%20Sleepy%20Hollow",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a8ded07ddfdd1b9d9983ce4fa17435eeaa421041b1084595d82e25cc72a2326e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Habilidades%20disparadas%20%27Al%20final%20del%20turno%27",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "24aa4760aa88bca08d9c95598983e7805b8e2607c53eb43912c1a985297d766d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Helga%20Sinclair%20-%20Prepared%20for%20Anything%20no%20abre%20ventana%20entre%20sus%20dos%20frases",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7ff5bcdf18f9e197f68f484dbda3add0cc34496b4e689d105ed97f699e6236d5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Lonely Grave, Olaf - Helping Hand y Scrooge con cartas debajo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Lonely%20Grave%2C%20Olaf%20-%20Helping%20Hand%20y%20Scrooge%20con%20cartas%20debajo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6f2207bde817e0ec25f0486059c5c5f36ddea764ea3d40feb0465ddc530f477e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Mulan%20-%20Elite%20Archer%20y%20Hercules%20-%20Mighty%20Leader%20tras%20el%20da%C3%B1o%20del%20desaf%C3%ADo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "622ffe9e5a9ed492f7c0347b1d5274d1a45fa29719e2bf6c054e5807da5f1dd0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Múltiples habilidades a la vez.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/M%C3%BAltiples%20habilidades%20a%20la%20vez",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "86268327b9b9a9c568cd063a47b0ed862186329bfa0b2174f8c437d848039f55",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No hay bolsa entre la parte del jugador activo y la del no activo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/No%20hay%20bolsa%20entre%20la%20parte%20del%20jugador%20activo%20y%20la%20del%20no%20activo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b7a516f11c17046efd630d362f6d76e2581405b252812710e40dde1d96393363",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/No%20tener%20objetivo%20legal%20vs%20elegir%20un%20objetivo%20inv%C3%A1lido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6a6ef0e6eab04c7d65561c5465bd153e71f971ff228acbd92cc519568867a78b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Ohana%20Means%20Family%20y%20Brawl%20sin%20objetivo%20v%C3%A1lido%20o%20con%20objetivo%20inv%C3%A1lido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c71292bba7acd10db2f51364ce653bb2fd21e1b42adb6b9f1d21cc4e9e741ba0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Orden%20de%20resoluci%C3%B3n%20en%20habilidades%20disparadas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "825874a3c5058ecfffea2cc691cc9a1ca98038568edefa896471818b87a86e99",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Prioridad%20entre%20jugador%20activo%20y%20no%20activo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3ede664763827140baa2748686155192d3817a793c3272de8915f801883985e8",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/The%20Leviathan%20con%20Circle%20of%20Life%20y%20conteo%20del%20descarte",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0954ff254c7541405f9a24a2ec1f3f3da3de22d516394dc6c2eefe7148ff0824",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Tod%20y%20The%20Horseman%20Strikes%21%20-%20rechazar%20el%20destierro%20no%20elige%20personaje",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f1984aa8aa7ea76899d7bcbb641063607265400c4f9fa3e7c0a97079c96cb38f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/Volver%20atr%C3%A1s%20una%20jugada%20legal%20por%20cambio%20de%20plan",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "9ef88a5102411d79fe9acb149e7709c933344a4ac20a32108a9148748e145f3d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.0.%20Timing%20y%20Resoluci%C3%B3n/World%27s%20Greatest%20Criminal%20Mind%20sin%20objetivo%20v%C3%A1lido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "842f73c1ca7f886513b0f31ad197ab10ee57b3403406ef14675d273928f40ff5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Anna - Braving the Storm no funciona en descarte.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Anna%20-%20Braving%20the%20Storm%20no%20funciona%20en%20descarte",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "d8b78532fa5f0a543608adfa6ab0819f4e06068c08d7538302742f204502088d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared con Sid Phillips - Toy Surgeon.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Be%20Prepared%20con%20Sid%20Phillips%20-%20Toy%20Surgeon",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "567bb6e05cd0e3f8223ccbfa460a03b5852e081db9f2f50e621389d12d21cd63",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Be%20Prepared%20y%20devolver%20personajes%20a%20la%20mano",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fba81b8ae9ee377267a727ccb8c92d8f0de93cf541e36d7a17f44a9a7e6db5fd",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Carta%20que%20me%20impide%20el%20descarte%20vs%20carta%20que%20me%20indica%20descartar",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "11764b0d2a4ef2d14549a87c83e8b92a285c25f3793f0b7f7b53d6e55640163f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Cartas%20volviendo%20a%20tu%20mano%20cuando%20son%20desterradas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7d9e28c347226d43f2e8e42228e7972653fe083cc9ec8b9a8f7c921180701b7d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Desterrar%20y%20volver%20a%20la%20mano%20desde%20la%20zona%20de%20juego",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "73ae423bc98961f6a243b60eb9444e0f0604fe24b0ea7f9c35d0d681b5b80b99",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Diablo%20y%20el%20robo%20aparente%20tras%20un%20desaf%C3%ADo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7fdda4abc9424ca290cb97fbb0e508fb29ecc0b8635da857fc5be353ada55362",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Elegir%200%20cartas%20para%20barajar%20en%20el%20mazo%20no%20baraja%20el%20mazo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4b5f3229037bd076a1e0fcd361443f611411b7e52a2fea732e2eb9edee4cd08c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Fuente%20est%C3%A1tica%20abandona%20el%20juego",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "21358c8edc3fec828ea4e1603902a4f91e28e60a4c1de5bdda1ca2ec581d4511",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Hades%20-%20Looking%20for%20a%20Deal%20sobre%20personaje%20con%20Boost",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b746fcc27ebf6a74a4cfd89f9416d0c9025023e7bd4364e6eb64ecfd9e27428e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Hide%20Away%20sobre%20The%20Black%20Cauldron%20con%20Hades%20debajo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f964d5ee6676271c48afda0f0599d267f09307bcada854a838b912d7b54cad81",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Look%20What%20You%27ve%20Done%20no%20se%20dispara%20al%20terminar%20de%20resolverse",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3dccc96182ef8360caa9bd0162b651f1f2dd9283c088a6b48b6a03a85733961b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Poner%20una%20carta%20del%20mazo%20en%20tu%20mano%20no%20es%20robar%20ni%20dispara%20Diablo%20-%20Devoted%20Herald",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "94b6c82e441a98c2a8230ba4a0193f3ef1f9695b5064816914b84f7f33047d43",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Sulley%20%26%20Boo%20permite%20jugar%20las%20cartas%20que%20estaban%20boca%20abajo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a1f83e067c924276e5fd26b99c16c4ac636b35d52949ec3e248a4f8373bdc084",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Under%20the%20Sea%20y%20reordenaci%C3%B3n%20de%20pilas%20al%20mazo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5e1c15733e7f0145f86b96fe3e2ec28d02e297ab93342ce07ff216e5e9dd0ee4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Ursula%20-%20Deal%20Maker%20solo%20puede%20elegir%20un%20personaje%20en%20juego",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f458cffe3fedbfc7dc05f9966626dc39694c1fab52fc37b9cc1d591e5e9275f3",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Vanish e interacciones.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.2.%20Zonas%20y%20Movimientos/Vanish%20e%20interacciones",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5d48f8d588e694ebe735aa01959a4d2ce63936ba5931abe895dc0beff9b41145",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Celia Mae no elige personaje si no paga el coste opcional.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Celia%20Mae%20no%20elige%20personaje%20si%20no%20paga%20el%20coste%20opcional",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b9c46767386fb3747a358f3245766f9bfd8a0d5ddbb91cb4848d50b2606e0b3e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Entintar boca arriba en torneo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Entintar%20boca%20arriba%20en%20torneo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "18c9baee183654635900bf1ea06cf72887824247da65d5cf25ac46fd2420a967",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Escape Plan con acción gratis al questear.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Escape%20Plan%20con%20acci%C3%B3n%20gratis%20al%20questear",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1c36929826c682ca559616cd075cdb6809b1abb859285e077d7456263d716f4b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Firefly%20Swarm%20con%20Robin%20Hood%20-%20Sharpshooter%20s%C3%AD%20habilita%20el%20segundo%20modo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1864ea068843ffba132eec1c9eb955a620bce3f97cb67cff19c4a59f6b95436c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar carta sin objetivo válido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Jugar%20carta%20sin%20objetivo%20v%C3%A1lido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "404e9c5b406356785c4eb77c0ff27f0a073a1c04ed3ecde4ea9a43114f078584",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Pagar%20costes%20en%20la%20fase%20de%20final%20de%20turno",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e98f904804c581f0596636ae5057b44025f7a7e4172bff315da6e1005c65bc02",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Pagar un coste y resistir.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Pagar%20un%20coste%20y%20resistir",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "d0bffe0e8598e677544e21f4099b3e60ec3541ec030180d07a48136e418aff6e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Permisos%20adicionales%20para%20entintar%20se%20acumulan",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "051f1a8d92481a32138471b65486d817df767de4a694b85a6c2e7db3b6ca2e1a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Rc%20-%20Remote-Controlled%20Car%2C%20quest%20por%20efecto%20y%20lore%20sin%20quest",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1d13c4d6ca2772f2221a716c32c21254742c8fb583aee94e07327b482b4f05d3",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.3.%20Costes%20y%20Requisitos/Scrooge%20McDuck%20-%20Resourceful%20Miser%20desde%20The%20Black%20Cauldron",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "00a543fddb438104f3647efe9acb1ef166682bd831b15f74c759e5406629ac7b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Aplicaci%C3%B3n%20de%20m%C3%BAltiples%20efectos%20de%20reemplazo%20%28Escudos%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0553ce50ddd8d99db655320c6b08532687fa0e65f57ea53fb972355a983f59cb",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Cartas que al abandonar el juego hacen cosas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Cartas%20que%20al%20abandonar%20el%20juego%20hacen%20cosas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "9ee6a2a9bd8f83e02d95a16c555af0e12963fc27eb65e7fc49266f7a5c713b07",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Escudos%20%28replacement%29%20vs%20Resist",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "93aa054315c11e17ff5c06186ed971ee2bfdcde10cfba599538cd34406e1a216",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades que contienen 'they'.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Habilidades%20que%20contienen%20%27they%27",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4270f6355809024be77e7dfa081e536d6de6529abaaa4c791d03881bb688a7be",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades y sus efectos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Habilidades%20y%20sus%20efectos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "952d9d50b03f95cdfbd4d86d1f37778e8935a51cc55b7ee65d27bb75ed4c475f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Let%20The%20Storm%20Rage%20On%20sobre%20Angel%20-%20Experiment%20624",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "77bf558787356e224aa5fddf1209d4bedaacc935e378e15d01dedb3146fd2449",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Merida%20-%20Steady%20Aim%20con%20Grab%20Your%20Sword%20y%20Ward",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a3451d5c6cad09cc523716e0a5eae80978b5614e144cc7ce50448b549455b390",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Merida%20-%20Steady%20Aim%20y%20Resist",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "cad475270c4cabb782281f64bfefc082e9d5df7101d163a436f7101c36c15cf0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Wisp Conjurer entra ya agotada.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Merida%20-%20Wisp%20Conjurer%20entra%20ya%20agotada",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "bdc6b07893caca083ec1cb9802d1f065f33cc8ea063f113305b8a41e9cacabb0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Pocahontas%20%E2%80%93%20Following%20the%20Wind%20y%20el%20lore%20al%20questear",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "022e77dec714e94d3a555e16105daff28b879e4b190f3b3d7d1c8285ef602c33",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Rapunzel%20-%20Ready%20for%20Adventure%20y%20Hydra%20-%20Deadly%20Serpent",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "dd8c91408e0528c84612996faadda3701a365d5d3a5f6a7ec8c09c1d6b27ffa7",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Rapunzel%20-%20dos%20escudos%20de%20Act%20of%20Kindness%20se%20consumen%20a%20la%20vez",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "363741e78f53b379f80561fce33d65511c581523263c4ffde74f710cda465e45",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/The%20Black%20Cauldron%20-%20m%C3%BAltiples%20activaciones%20en%20un%20turno",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6558f29295db31994d05c89cf95faa9a655954a45830262b0625305f72b793f2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Uso%20de%20pronombres%20neutros%20en%20textos%20de%20cartas%20%28they%2C%20their%2C%20them%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b606468ae32802217b493b3200aa516dee6fcab3d397af588a83ada71b00fcca",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.4.%20Habilidades/Winnie%20the%20Pooh%20-%20Hunny%20Archmage%20cuenta%20otra%20copia%20como%20other%20Hunny",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c73cd82110a36377244f8f31ed3363e6bc976c73d4c539498f5cebeabe434401",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Aladdin%20%26%20Genie%20-%20Shift%20sobre%20un%20solo%20personaje",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6e5bdf54c6d2dbada7b6c917ebb54a2d2422cb4fba989e76105ce29d71db229d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Bambi%20%E2%80%93%20Ethereal%20Faun%20cantando%20una%20canci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "eae905fcd67acbd3c1e49476bceca65d7614032b5893fbdd7095036e7a26bdd2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Cantar no es usar una habilidad activada.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Cantar%20no%20es%20usar%20una%20habilidad%20activada",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "d920b58e1887605cac0571debbbb4324a05ca7d9056ba19cbd25f55dff8ae122",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Dash%20Parr%20%26%20Violet%20Parr%20combina%20los%20estados%20con%20Combo%20Shift",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "32f9bf8c0d2ddc4af92f06466b9dea7a7824fa05675a75484ef0451e4658f99a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Fairy Godmother – Magical x2.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Fairy%20Godmother%20%E2%80%93%20Magical%20x2",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "aadc14c69c79f2c5549a5e218c4881820cbefbf481e1acb04efdf4e990e7d899",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Hydra - Deadly Serpent y Resist +1.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Hydra%20-%20Deadly%20Serpent%20y%20Resist%20%2B1",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "0e8d46ad675ac937069be300aefeefe03f8e5ab8e965ebf186542f39c520935a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Lilo%20-%20Bundled%20Up%20y%20Malicious%2C%20Mean%2C%20and%20Scary",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f9f61f1f868e918e112b01adddc736c139cc41c162a0f3c08aca7737c96f6f60",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Mickey%20Mouse%20%26%20Minnie%20Mouse%20necesita%20dos%20personajes%20para%20Duo%20Shift",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "19b2b1835bde1c0ece50b4a4d09e51f7df1875ffda57f865bded3c53d047ed1e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Temporary Shift funciona aunque quede en medio de la pila.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Temporary%20Shift%20funciona%20aunque%20quede%20en%20medio%20de%20la%20pila",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ac35c239a2cf0527b121e62b4afdade9204b938e6c7132f54b808734f4fcad59",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Tiana y su trigger post canción.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.5.%20Keywords/Tiana%20y%20su%20trigger%20post%20canci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5528558aa83b561a9d89fce80b5c79dd012791a652145f4151f2f5121888e237",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/16 jugadores y rondas adicionales en Set Championship.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/16%20jugadores%20y%20rondas%20adicionales%20en%20Set%20Championship",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3a344e4ced3321746f729991600540e0b41749074ae501a036eb3d3e3923aecc",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Carta%20con%20error%20de%20impresi%C3%B3n%20y%20comunicaci%C3%B3n%20del%20valor%20correcto",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ef2760d292080952ec9e70da313ba4b1612e050f1d848731fe73a356b7771217",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Carta multicolor cumple efectos de uno de sus colores.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Carta%20multicolor%20cumple%20efectos%20de%20uno%20de%20sus%20colores",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6f2ab5f0d3ed9e95fa6d75cc45eff71f51d27ebb53eee14104753d988804e207",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Cartas%20en%20idiomas%20extranjeros%20en%20torneos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e44f8c30e77e5e20ffb3512b9fb2bbb979aeb2b9badf9ec474c4cfd82558cca1",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/C%C3%A1lculo%20de%20fuerza%20con%20Tiana%20y%20Desafiador",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "89feb2d35d5cb908cf7b56e83ca3bc838ac285ab2cb800f945f0b5e753c4b6f6",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Dale%20-%20Spike%20Suit%20usa%20la%20Voluntad%20completa%2C%20no%20la%20Voluntad%20restante",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "afc3de83aa53c6f5a3dfdce3290370ab984246df8781edb5b8cbdb5893fe0a79",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Deck checks aleatorios y controles previos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Deck%20checks%20aleatorios%20y%20controles%20previos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e7f15328ef48b3c3cc749e956d1acc350f9443bc9a1417b2cf0cfeaff5354a49",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Demona%20con%20Dale%20-%20Challenger%20no%20suma%20a%20la%20Voluntad",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ca3056405e058f214a867c6eb7b7f65b071e180fad8798208bb0e99b32fe6dae",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Demona%20con%20Diablo%20-%20Devoted%20Herald",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3ccdc318730036d3193bfa61302e84345df80e459e4cf1c27a6a35b96b9829d6",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Descalificación y eventos paralelos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Descalificaci%C3%B3n%20y%20eventos%20paralelos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "534f631e55d3842e8b3955779d1d69da28470acf00b07a602c1463c0331f2741",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Elisa%20Maza%20-%20Forever%20Strong%20y%20reducciones%20de%20Fuerza%20previas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "eb0825d219447615350856e5fafed9bfb02d05769f1d781d3a81be221f1a483d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fergus - Outpost Builder, Hold Fast y alcance del descarte.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Fergus%20-%20Outpost%20Builder%2C%20Hold%20Fast%20y%20alcance%20del%20descarte",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "d94ffd46765c54e14345a2a1a6d16221f184a7e2bac08cff57c5b833510499dd",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Fundas opacas y legalidad en torneo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Fundas%20opacas%20y%20legalidad%20en%20torneo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "72a766287d1a140dc793c6b3f2d3c006b0d3fa15f25d4d68ce0aeb726ebd6051",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Giant Cobra sin cartas en la mano.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Giant%20Cobra%20sin%20cartas%20en%20la%20mano",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "022062e6d70e3e28fb6be617c880367ffadc2ab3c3a2a07e63741c8fb6ea0590",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Guías comunitarias de GooglyGlimmers.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Gu%C3%ADas%20comunitarias%20de%20GooglyGlimmers",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "cbd5996c45a26dae872891b88d708070a36a8615105fa2071dd363deacbfa880",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Headless%20Horseman%20y%20Wreck-It%20Ralph%20-%20%C3%BAltimo%20valor%20conocido%20y%20bolsa",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8aca67970483b66574dce8ddb605937cc36529f32af7952ab54eea46d51dab5e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Horned King - Toca descarte antes de volver a mano.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Horned%20King%20-%20Toca%20descarte%20antes%20de%20volver%20a%20mano",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ccd2cdfdc2c5247812340383a8fb8803d9def35fcd38d3fd0fe2ed5838f58113",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Do your worst y restricción de elección.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Do%20your%20worst%20y%20restricci%C3%B3n%20de%20elecci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "cfffb2a62562348a0030ed1435164ef9273b563ea2c5b3eed4a029559780a928",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Education or Elimination.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/John%20Smith%20-%20Education%20or%20Elimination",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1b4a0a8383485baad09cc50c028bdb5bb4401b6e6f62cfd3bb2c4699fd7ca6c2",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad y prohibiciones - fuente oficial vigente.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Legalidad%20y%20prohibiciones%20-%20fuente%20oficial%20vigente",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4a0503ef11e6fe6e2f16aac1760f3dd0e1361a51e2012418e427346d11c67ee0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Luisa%20Madrigal%20-%20I%20Can%20Take%20It%2C%20llega%20a%204%20da%C3%B1os%20y%20no%20se%20destierra",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "23e1d7f066b53cd063d2d6dd4372829589a0a622225fb2d3356fbe111b65696d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Luisa%20Madrigal%20-%20No%20Pressure%20y%20Casa%20Madrigal%20-%20Courtyard",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a10f7ee2013600cab63bcb10a58eda1ff4eabf0eb6410ffb85e1851c169f4632",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Lyle%20Tiberius%20Rourke%20y%20Rapunzel%20%26%20Flynn%20Rider",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1e7b448840909b9709ff394531b894ec8adf99c4894b6f02bcb074d7e60dfaf1",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Merida%20frente%20a%20Lilo%20y%20Rapunzel%20-%20infligir%20da%C3%B1o%20no%20es%20recibir%20da%C3%B1o",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c62ee125706a3e35be0e1a46a5bea94ecea12c358632ebaa3613b743b9abbec0",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Mor%27du%20y%20Simba%20-%20enderezar%20al%20final%20del%20turno%20vs%20ready%20del%20inicio",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "aa0f32179ee0a24d94caa447c5fea45308bcf9d8f3e2424efd813a98e2e19884",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Mover%20da%C3%B1o%20no%20es%20retirar%20da%C3%B1o",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "bc8ade3604cc41a200532e366faa89dbe0a3dc5d5a76cd8a4c2211cb4f988f69",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Mulan%20-%20Resourceful%20Recruit%20gana%207%20lore%20con%20Buzz",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7c1d7ef67c395ff87a56f49a048db53e76cba3bd041bd59529fca6b306e3cb38",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Nombres de mazo y conducta en torneo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Nombres%20de%20mazo%20y%20conducta%20en%20torneo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fdbc2bed7414bd3ad573b3c418d001260c0e1df548b6cd5fe9b01bb3d80c33f4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Oswald%20y%20Keep%20the%20Ancient%20Ways",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5c74f29c3a7edbaaf04fb0d953193921dbc9cceef16f9aae70942be14562bcaa",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Rapunzel%20conserva%20su%20protecci%C3%B3n%20si%20Resist%20reduce%20el%20da%C3%B1o%20a%200",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b18a84dcb8871689fe14bea1fd8a648637c3540df5ec944e6d6d13430d9a0d6f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Retro%20Evolution%20Device%20y%20mano%20privada",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "27425441b1d8dfcfb7e66176e1fac360ddb2f07b27f1b3c46410b4d0e6075ab7",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Secuencia%20de%20desaf%C3%ADos%20con%20Fa%20Zhou%20-%20War%20Hero",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ea97b99184d7048edb22860be8539e21959ba377a699caf5c9d44882e29a9eda",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Set%20Championship%20con%2065%20jugadores%20o%20m%C3%A1s",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fd6c8c1b30a275d3d00e081859d359919f026894a1c4192098065d7289fc3484",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championships - decklists y deck checks.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Set%20Championships%20-%20decklists%20y%20deck%20checks",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "659494b36aa9dc7b55ea0313908232d6b95270b89fc56f0d68eb9dfb8fcf8bb5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Sideboard en Limited - sellado, draft y presentación.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Sideboard%20en%20Limited%20-%20sellado%2C%20draft%20y%20presentaci%C3%B3n",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a462ce3bec9f5f50aeef1f3efa95fdb14a3aa674a71b0bc99d467560a7d0aa05",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Siempre%20que%20un%20personaje%20desaf%C3%ADe...%20ocurren%20cosas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5e06196b75941bbba7d96c27268755bb5841c9a2beffcddd1a3ae7af74662815",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Three%20Arrows%20-%20no%20obliga%20a%20da%C3%B1ar%20a%20los%20tuyos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b522602b7621f0f314c367d52d61f15016c07dd0bd9491c5c6fd40022cb43184",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Usar%20cartas%20de%20anteriores%20sets%20reeditadas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "360af427728a0f37657160fe7d7677c422014d0112cd10696a176387f8f281b5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Wilds Unknown - sets legales según anuncio del evento.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.6.%20Interacciones%20Complejas/Wilds%20Unknown%20-%20sets%20legales%20seg%C3%BAn%20anuncio%20del%20evento",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6e7a0b5c648a287ff9e550b4640d97b38ee247e52f4b6f650f4591686c7cff31",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Bolsa en multijugador con tres jugadores.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.7.%20Dudas%20por%20desarrollar/Bolsa%20en%20multijugador%20con%20tres%20jugadores",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a6cd7a3b40b6ab940edb751774d457b04452d8d83bf180f6d92cdb80f9dcf79f",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Elegirte a ti mismo cuando un efecto dice chosen player.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.7.%20Dudas%20por%20desarrollar/Elegirte%20a%20ti%20mismo%20cuando%20un%20efecto%20dice%20chosen%20player",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fbfce417a83ad3312edc530ef972b443320d1a26914433d7b31eb5999f51f959",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Ganar Ward antes de la segunda elección del mismo efecto.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.7.%20Dudas%20por%20desarrollar/Ganar%20Ward%20antes%20de%20la%20segunda%20elecci%C3%B3n%20del%20mismo%20efecto",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "767d983df16d212c126b094bb080bc98c0eb3887579db7c48c55933b30497789",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Moverse a una localización recién jugada.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.7.%20Dudas%20por%20desarrollar/Moverse%20a%20una%20localizaci%C3%B3n%20reci%C3%A9n%20jugada",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c6eb96ae66dc6fef2907c7f80c31c89a84b6abb164787df3e97a2faf0d7b7568",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Carta robada durante un rebobinado.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Carta%20robada%20durante%20un%20rebobinado",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7b6b9a85929aaa94423af6d04be89f510dfaea99abdfe3e4d21e11a6ca606b80",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Conceder después de que el match terminó.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Conceder%20despu%C3%A9s%20de%20que%20el%20match%20termin%C3%B3",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "db45e3dd3d0d304879e9c9c365b5d1beaa8cd1ff8d8a6386492943cc563647ad",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Espectadores y avisos de infracciones.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Espectadores%20y%20avisos%20de%20infracciones",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "48e5e25e8d7dbfd1b401424c77a2a40c252f7508613e281beccdb63ebb663658",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Friends on the Other Side resuelta por error con Kida.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Friends%20on%20the%20Other%20Side%20resuelta%20por%20error%20con%20Kida",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fae5d0d27d0597819b12d4f49f20727030b9d13cc918d4d24a0916c973311121",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Game Loss por error de registro aplicada a la partida actual.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Game%20Loss%20por%20error%20de%20registro%20aplicada%20a%20la%20partida%20actual",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "a588d6343dc1f6e26d9e7454d5b5506890b444b84bc964f16651431e866341f4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Investigar la intención en una discrepancia entre mazo y lista.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Investigar%20la%20intenci%C3%B3n%20en%20una%20discrepancia%20entre%20mazo%20y%20lista",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "28642fdf9414154f2f769177bafd13099390cf91c52fcf395b2035675bd80ac4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Kida resuelta con cartas en zonas equivocadas.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Kida%20resuelta%20con%20cartas%20en%20zonas%20equivocadas",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6e44bc122954d0bebf0f8ea006ad410f51351ee135d90a6f02cac5d8f2503280",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Lore de una localización olvidado durante varios turnos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Lore%20de%20una%20localizaci%C3%B3n%20olvidado%20durante%20varios%20turnos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "92ef596d160154085386c16654badf12562d9c463ffbf7273bebd147199f0d2a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Mazo de 53 cartas descubierto en un Top 8.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Mazo%20de%2053%20cartas%20descubierto%20en%20un%20Top%208",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e8cfe6a83acbf6378e086c46f18b33a79b383f42e9d1293379529303e55ecdca",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Minnie%20Mouse%20-%20Practical%20Traveler%20y%20lore%20olvidado",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "210238723ef90b1d621cc5adf02c6ac67ea01ad0167fb386153cafed82e06c04",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/No buscar una carta ausente en un mazo durante la partida.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/No%20buscar%20una%20carta%20ausente%20en%20un%20mazo%20durante%20la%20partida",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f1cdc3a841419abdd94c91ca092e2dc552e60d2f1518b6ee349f81b6f0341345",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/No deshacer Pete después de jugar Merlin.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/No%20deshacer%20Pete%20despu%C3%A9s%20de%20jugar%20Merlin",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "8fa2a12318056f1c087293139ed672d05241348c4d011419b6b7b82effbcce74",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Notas propias y asistencia externa durante un match.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Notas%20propias%20y%20asistencia%20externa%20durante%20un%20match",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "4988ea2ccfe49691e1a0e57ad7b1f57a3c14908fa4a1ca34ab81eed5ab94ddfe",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Ocho cartas después de alterar la mano inicial.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Ocho%20cartas%20despu%C3%A9s%20de%20alterar%20la%20mano%20inicial",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1461ed4d9e505b42c89edeabbdc1075d4a883662c7885df2a109411924cce952",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Preparar o agotar la tinta fuera de la Ready Step.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Preparar%20o%20agotar%20la%20tinta%20fuera%20de%20la%20Ready%20Step",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7215d9d52be68bf11adbdae75e974fc2dfed031743f23d1b46973c3174d1e973",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Revelar el pozo de tinta al oponente.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Revelar%20el%20pozo%20de%20tinta%20al%20oponente",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e8b06b23db37219f992fd7b60f30da121d41b9f1967fe5412ef8497564599023",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Scouting antes de sentarse y asistencia externa durante el match.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Scouting%20antes%20de%20sentarse%20y%20asistencia%20externa%20durante%20el%20match",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7411293647218284de83200909a847b215b982b0495f93f5177398fa1352cf9e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Stitch y secuencia fuera de orden con el trigger reconocido.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Stitch%20y%20secuencia%20fuera%20de%20orden%20con%20el%20trigger%20reconocido",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "9472941a2776a27134971c790e3f100a40e50dd00f0db935227579404a66b448",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback de un desafío antes de resolverlo.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Takeback%20de%20un%20desaf%C3%ADo%20antes%20de%20resolverlo",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e50f1e7077d13acf885a517164bda1197d8dbb4307f463bea99fc0ef1c151a0b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Takeback%20denegado%20despu%C3%A9s%20de%20una%20acci%C3%B3n%20posterior",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b60e5ac8c936eb36e42d92ab7986c4e7d9ab1891404d0467d1bde3e2bdb5fc75",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Takeback%20despu%C3%A9s%20de%20resolver%20una%20habilidad%20disparada%20que%20gana%20la%20partida",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "726c67f4c7d53ba0f6d3c8fe55b384601e657cb3954029b9b6d43bf7d141f095",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback tras una última acción sin información nueva.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Takeback%20tras%20una%20%C3%BAltima%20acci%C3%B3n%20sin%20informaci%C3%B3n%20nueva",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "1ecc13aee83fe025fb0821b0dbd7926cbb6136fc2463e13c89b6c403424d124d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Veinte minutos de retraso en eliminación directa.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Veinte%20minutos%20de%20retraso%20en%20eliminaci%C3%B3n%20directa",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "7c1d96deac1c6c430a6f8caf6d50a7ba2ef920fd60c536f36d69d47597a66c09",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/2. Juego (Gameplay)/2.3. Etapa de juego (In-Game Stage).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/2.%20Juego%20%28Gameplay%29/2.3.%20Etapa%20de%20juego%20%28In-Game%20Stage%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c0e291ac7aec8e89ede5843eb8565f1c2f726fd777b64c9ca43f36cd4012039d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/3. Estructura del turno (Turn Structure)/3.1. Fases (Phases).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/3.%20Estructura%20del%20turno%20%28Turn%20Structure%29/3.1.%20Fases%20%28Phases%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "84b88226668849156c79f4626e7fe2a0d74c7d7718ef6a67be7ad5eb7b1f772d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/3. Estructura del turno (Turn Structure)/3.3. Fase principal (Main Phase).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/3.%20Estructura%20del%20turno%20%28Turn%20Structure%29/3.3.%20Fase%20principal%20%28Main%20Phase%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b92ff4e3f6a9edc60f75fc09223fe25e7bd50a91386c64fc2c2bbe3afe677689",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/4. Acciones de turno (Turn Actions)/4.1. General.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/4.%20Acciones%20de%20turno%20%28Turn%20Actions%29/4.1.%20General",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5d8ca79e1030ebfa61499595a917cbaffc7952085be5170ca8d804b73d42ed5c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/4.%20Acciones%20de%20turno%20%28Turn%20Actions%29/4.5%20Irse%20de%20aventura%20%28Quest%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "b82d260afda5113c47d9980b405d5c3bf047bd91574847e6ee7404b32abddc40",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/7. Zonas (Zones)/7.3. Mano (Hand).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/7.%20Zonas%20%28Zones%29/7.3.%20Mano%20%28Hand%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "43f081bcd514898e05ca8c093a339cf3a44006486e668e714e185b3183c933ec",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/7. Zonas (Zones)/7.5. Pozo de tinta (Inkwell).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/7.%20Zonas%20%28Zones%29/7.5.%20Pozo%20de%20tinta%20%28Inkwell%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "fb4a6bc2e045d9a6b9ce0bd0a72b206b96b53a4ba9a0963ecb06ebb85cf18b0c",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/7.%20Zonas%20%28Zones%29/7.7.%20Bolsa%20%28Bag%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "77b9c31828949124ec9e921326324eeb2ba1ff3e46f665658d13102b12acf3ac",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/8.%20Palabras%20clave%20%28Keywords%29/8.10.%20Cambio%20%28Shift%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "e7e328c4b577a49bb263dc1fa08f158862b5cb18d037028f3c304bd13d8d378b",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/8.%20Palabras%20clave%20%28Keywords%29/8.8.%20Resistir%20%28Resist%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f478d5aa0ee88a05e66d8eb45eddafbb6bd022446d185c3aa373536204b784c5",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Multijugador (Multiplayer)/9.2. Reglas adicionales de multijugador (Multiplayer Rules).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Multijugador%20%28Multiplayer%29/9.2.%20Reglas%20adicionales%20de%20multijugador%20%28Multiplayer%20Rules%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5e69697d9527c535d6cfbd2607453b68096d054e5423daf9ad58b83a231756d4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Multijugador (Multiplayer)/Cartas Coconut de la beta.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Multijugador%20%28Multiplayer%29/Cartas%20Coconut%20de%20la%20beta",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "944621628270db20f749118dcc537e391af7686e9da48de694c3e8b139af6fbf",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Multijugador%20%28Multiplayer%29/Formato%20Coconut%20%28Beta%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "3efcb3c4f534a61239110430af0cbcf72a00a5a1c357bd299f9ff98d9358cde4",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Actualización CR 2.1 - resumen de cambios.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Res%C3%BAmenes/Actualizaci%C3%B3n%20CR%202.1%20-%20resumen%20de%20cambios",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "5fd15817b8f87759c012485d98ebd9070595ab631718687fb991a3d27418cd2a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/3. Operaciones en los torneos/3.0 Operaciones en los torneos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/3.%20Operaciones%20en%20los%20torneos/3.0%20Operaciones%20en%20los%20torneos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "32d859fe83db804051b2616351c24cc4390900b63125e495336e579512400e5a",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/3. Operaciones en los torneos/3.7.2 Acciones ilegales y errores de reglas en takebacks.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/3.%20Operaciones%20en%20los%20torneos/3.7.2%20Acciones%20ilegales%20y%20errores%20de%20reglas%20en%20takebacks",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6eb31d827250ed8bdbaa154460593d62aa95a1f4a31298e58719df5504cd2e5e",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "03. Reglas de Torneo/7. Conducta del Jugador/7.1. Conducta Prohibida (Prohibited Conduct).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/03.%20Reglas%20de%20Torneo/7.%20Conducta%20del%20Jugador/7.1.%20Conducta%20Prohibida%20%28Prohibited%20Conduct%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "ba5e893d40519f44ab852e9d12512f5df8be383ea15118a0b45b40db537e4475",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.1 Orden en el rebobinado.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/01.%20Introduccion/1.2%20Rebobinar%20una%20partida/1.2.1%20Orden%20en%20el%20rebobinado",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "dad14cf5193bff977f02ea6f297aa3757872dac7002a6f963272c459fdc778be",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/02. Errores de reglas/2.4 Error general de reglas (General Rule Error).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/02.%20Errores%20de%20reglas/2.4%20Error%20general%20de%20reglas%20%28General%20Rule%20Error%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "6d2fac1fc5ce544465dd459e4e33fee3c60b4ea8eebf1fbac5f417320dbd439d",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/03. Errores de torneo/3.6 Error de comunicación e información (Information and communication error).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/03.%20Errores%20de%20torneo/3.6%20Error%20de%20comunicaci%C3%B3n%20e%20informaci%C3%B3n%20%28Information%20and%20communication%20error%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "c091d67029347c9b4e049c175f888aa92999b20792b4a73b253cf1c3cec2c7dd",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/04.%20Conducta%20antideportiva/4.5%20Resultado%20de%20un%20encuentro%20inapropiado%20%28Improper%20Match%20Result%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f61477ba2e7add9e8a459d244b0d874b81da328ca29cba9cf1dfea640468dfb8",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "04. Guia de correccion de jugadas/05. Consejos generales/Triggers omitidos y 'afectar al estado de juego'.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/04.%20Guia%20de%20correccion%20de%20jugadas/05.%20Consejos%20generales/Triggers%20omitidos%20y%20%27afectar%20al%20estado%20de%20juego%27",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "623d3259405c9922c6c04927532e4666a2be57d413b4cb6cb3baf920b2c9f919",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "10. Comunidad y actividades/Código de la comunidad (Community Code).md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/10.%20Comunidad%20y%20actividades/C%C3%B3digo%20de%20la%20comunidad%20%28Community%20Code%29",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "59e800c0806653551c2cd455efae94888704c9a56e64d2418978be75968fc4b9",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "Empecemos.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/Empecemos",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "41ca370feb23254860bde0127d21ac9253cd5f66ea9c24a765ff7bbda559ec29",
+      "contenido_coincide": true
+    },
+    {
+      "archivo": "01. Reglas/9. Resúmenes/Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2.md",
+      "url": "https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/9.%20Res%C3%BAmenes/Reglas%20completas%20de%20Disney%20Lorcana%202.3%20-%20cambios%20respecto%20a%202.2.md",
+      "http": 200,
+      "contenido_http": 200,
+      "sha256_publico": "f8b175a493230792f5250d4be0cd44b40f3e54a1b8e75ef02ad3562bc623b8df",
+      "contenido_coincide": true
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-09",
-  "estado": "ejecución editorial completada; commit y publicación en curso; recarga de conexión persistente pendiente",
+  "estado": "wiki publicada y verificada; corpus e índice actualizados; conexión MCP persistente pendiente de recarga",
   "base_commit": "136495edfe27c0d79b9f34fe55d9653413d47777",
   "documentos": 495,
   "casos": 239,
@@ -44,5 +44,11 @@
     "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md": "3b5cf018f0f29329334821e6866df8c252f571cca95dd207a370466ea2f570d3",
     "Documentacion Oficial/Tournament-Rules-7.14.2026_Update_EN.pdf": "752f0b4994e99547805fd6023d4bbb106a458e234243c37b8885ccc292ddb6ee",
     "Documentacion Oficial/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": "38b75b4326f6cfd8d1226129c2f36a871ee02be0628f785e1976b376ef725970"
-  }
+  },
+  "commit_publicacion": "fcea89c3fd026f7970e53fe63d12e37e99492bd6",
+  "archivos_publicos": 317,
+  "notas_publicas": 303,
+  "recursos_publicos": 14,
+  "pendientes_publicacion": 0,
+  "mcp_conexion_persistente": "Código anterior comprobado; recarga no disponible en esta sesión"
 }
