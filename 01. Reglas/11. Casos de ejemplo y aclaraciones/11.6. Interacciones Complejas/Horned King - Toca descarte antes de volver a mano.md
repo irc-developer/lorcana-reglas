@@ -14,9 +14,9 @@ El efecto del Horned King comienza con "**Whenever**" (no con "**instead**"), lo
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Interacción]]: Cuando se cumple la condición de disparo, la habilidad se añade a la bolsa y se resuelve después del evento.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1. Definición de Efectos de Reemplazo]]: Los efectos de reemplazo contienen "instead" e interceptan el evento ANTES. No es el caso del Horned King.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7. Bolsa]]: Las habilidades disparadas se añaden a la bolsa después del evento, no lo interceptan.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Interacción]]: Cuando se cumple la condición de disparo, la habilidad se añade a la bolsa y se resuelve después del evento.
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1. Definición de Efectos de Reemplazo]]: Los efectos de reemplazo contienen "instead" e interceptan el evento ANTES. No es el caso del Horned King.
+- [[7.7. Bolsa (Bag)|7.7. Bolsa]]: Las habilidades disparadas se añaden a la bolsa después del evento, no lo interceptan.
 
 **Diferenciación crítica**:
 - **Efecto de Reemplazo**: Contiene "instead" → intercepta ANTES del movimiento → el evento nunca ocurre
@@ -42,4 +42,4 @@ El efecto del Horned King comienza con "**Whenever**" (no con "**instead**"), lo
 
 ## 🏷️ Tags
 
-#horned-king #banish #triggered-abilities #replacement-effects #resolution-order #hand #discard #timing
+#horned-king #banish #triggered-ability #replacement-effect #resolution #hand

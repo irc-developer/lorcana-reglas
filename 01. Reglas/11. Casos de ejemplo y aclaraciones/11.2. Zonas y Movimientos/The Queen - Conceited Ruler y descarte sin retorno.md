@@ -17,16 +17,16 @@ Si eliges usar la habilidad, no puedes «cortar» voluntariamente el efecto para
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)#1.2.3. Hacer todo lo que se pueda|1.2.3. Hacer todo lo que se pueda]]: si un efecto indica hacer algo, haces todo lo posible aunque no puedas completar alguna parte.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]: las instrucciones se realizan en su totalidad y en el orden escrito; se toman las decisiones requeridas por el efecto.
-- [[11.2.03 Cláusula - El uso de Then#Respuesta|11.2.03 Cláusula - El uso de Then]] (criterio de resolución parcial por cláusulas): cuando una parte no puede hacerse, se hace la parte posible; no habilita omitir de forma voluntaria una parte que sí puede hacerse.
+- [[1.2. Regla de oro (Golden Rules)|1.2.3. Hacer todo lo que se pueda]]: si un efecto indica hacer algo, haces todo lo posible aunque no puedas completar alguna parte.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]: las instrucciones se realizan en su totalidad y en el orden escrito; se toman las decisiones requeridas por el efecto.
+- [[El uso de Then]] (criterio de resolución parcial por cláusulas): cuando una parte no puede hacerse, se hace la parte posible; no habilita omitir de forma voluntaria una parte que sí puede hacerse.
 
 ---
 
 ## 🔄 Cómo se resuelve
 
 1. **Coste**: no hay coste de tinta ni activación manual; es una habilidad de inicio de turno con opción de uso.
-2. **Objetivos**: al resolver, determinas qué carta de personaje devolver desde tu descarte (si existe objetivo legal).
+2. **Objetivos**: al resolver, decides si realizar la secuencia y eliges la Princess o Queen que descartar. La carta que devolverás se determina después del descarte; la recién descartada puede ser una opción legal.
 3. **Resolución**: si eliges usar la habilidad, descartas una Princess/Queen character card y luego devuelves una character card de tu discard a tu hand si es posible.
 4. **Disparos**: cualquier trigger generado durante esa resolución espera en la bag hasta terminar de resolver la habilidad.
 5. **GSC**: se verifica el estado del juego tras resolverse el efecto.
@@ -35,4 +35,4 @@ Si eliges usar la habilidad, no puedes «cortar» voluntariamente el efecto para
 
 ## 🏷️ Tags
 
-#discard #doasmuchasyoucan #resolutionorder #startofturn #thequeenconceitedruler #triggered-ability
+#discard #resolution #turn-start #triggered-ability

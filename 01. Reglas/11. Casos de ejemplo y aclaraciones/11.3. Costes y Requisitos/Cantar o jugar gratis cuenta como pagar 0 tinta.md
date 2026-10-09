@@ -6,9 +6,9 @@ Si una carta o habilidad comprueba si has pagado menos de 2 {I} para jugar una c
 
 ## ✅ Respuesta
 
-**Sí.** En ambos casos has pagado **0 tinta** por esa carta, y 0 es menos que 2.
+**Sí, si no hay costes de tinta adicionales aplicables.** Cantar o jugar gratis sustituye el coste normal: sin otros pagos de tinta, has pagado **0**, que es menos que 2. Si un incremento u otro coste exige tinta, se usa la cantidad realmente pagada.
 
-Cantar una canción y jugar una carta "for free" son **costes alternativos**. La carta se juega legalmente, pero no pagas su coste normal de tinta. Por eso, si una condición mira **cuánta tinta pagaste**, el valor relevante es 0.
+Cantar una canción y jugar una carta "for free" son **costes alternativos**. La carta se juega legalmente, pero no pagas su coste normal de tinta. Por eso, si una condición mira **cuánta tinta pagaste**, el valor relevante es la cantidad efectivamente pagada, normalmente 0.
 
 La distinción importante es esta:
 
@@ -23,14 +23,14 @@ Si controlas a [Jessie - Lively Cowgirl](https://cards.lorcast.io/card/digital/l
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.4 El coste no cambia, pero sí la cantidad total pagada]]
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.5 Los costes alternativos se pagan en lugar del coste normal]]
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.5.1 Cantar es un coste alternativo]]
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.5.3 Jugar gratis es un coste alternativo]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.2.3 El total a pagar parte del ink cost o del coste alternativo]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.5 Los efectos como Singer no cambian el ink cost]]
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.4. Acciones (Actions)|5.4.4.2 Cantar una canción sustituye el coste de tinta por un coste alternativo]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.11. Cantante (Singer)|8.11.2 Singer no cambia el coste de tinta real]]
+- [[1.5 Costes (Costs)|1.5.4 El coste no cambia, pero sí la cantidad total pagada]]
+- [[1.5 Costes (Costs)|1.5.5 Los costes alternativos se pagan en lugar del coste normal]]
+- [[1.5 Costes (Costs)|1.5.5.1 Cantar es un coste alternativo]]
+- [[1.5 Costes (Costs)|1.5.5.3 Jugar gratis es un coste alternativo]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.2.3 El total a pagar parte del ink cost o del coste alternativo]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.5 Los efectos como Singer no cambian el ink cost]]
+- [[5.4. Acciones (Actions)|5.4.4.2 Cantar una canción sustituye el coste de tinta por un coste alternativo]]
+- [[8.11. Cantante (Singer)|8.11.2 Singer no cambia el coste de tinta real]]
 
 ---
 

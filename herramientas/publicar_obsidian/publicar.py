@@ -43,7 +43,9 @@ def ruta_editorial(root, nombre, perfil="dudas"):
     rel = PurePosixPath(nombre)
     permitida = nombre in RAIZ_EDITORIAL or nombre.startswith(CASOS) and rel.suffix == ".md"
     if perfil == "reglas":
-        permitida = permitida or nombre.startswith("01. Reglas/") and rel.suffix == ".md" and not rel.name.startswith("Plantilla")
+        texto_editorial = nombre.startswith(("00. Introducción/", "01. Reglas/", "03. Reglas de Torneo/", "04. Guia de correccion de jugadas/", "05. Consejos de jueces/", "09. Recursos/", "10. Comunidad y actividades/")) and rel.suffix == ".md" and not rel.name.startswith("Plantilla")
+        recurso = nombre.startswith(("09. Recursos/", "imagenes/recursos/")) and rel.suffix in (".svg", ".png")
+        permitida = permitida or texto_editorial or recurso
     elif perfil != "dudas":
         raise PublicacionError("Perfil de publicación desconocido: " + perfil)
     if rel.is_absolute() or not permitida:
@@ -183,7 +185,7 @@ def publicar(root, plan, aplicar=False, command=None):
         for nombre in elegidos:
             if comprobar_archivo(root, plan["commit"], nombre) != plan["sha256"][nombre]:
                 raise PublicacionError(f"El archivo cambió antes de verificar el resultado: {nombre}")
-        informe.update(estado="publicado", enlaces={p: base + "/" + quote(p[:-3], safe="/") for p in elegidos})
+        informe.update(estado="publicado", enlaces={p: base + "/" + quote(p[:-3] if p.endswith(".md") else p, safe="/") for p in elegidos})
         return informe
     except (PublicacionError, OSError, ValueError, subprocess.TimeoutExpired) as exc:
         informe.update(estado="error", error=str(exc))

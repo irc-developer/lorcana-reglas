@@ -18,10 +18,10 @@ Sí, con matices.
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.3.2. Acciones|4.3.3.2. Acciones]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.3. Elecciones durante la resolución|1.7.3. Elecciones durante la resolución]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.7. Corrección de jugadas|1.7.7. Corrección de jugadas]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)#8.15.1. Definición|8.15.1. Definición de Ward]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.3.2. Acciones]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3. Elecciones durante la resolución]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Corrección de jugadas]]
+- [[8.15 Protección (ward)|8.15.1. Definición de Ward]]
 
 ---
 
@@ -31,7 +31,7 @@ Sí, con matices.
 2. **Costes y requisitos**: anuncias la carta y pagas su coste.
 3. **Elecciones y objetivos**:
    - Con [Ohana Means Family](https://cards.lorcast.io/card/digital/large/crd_b1aa36e48c8e4041b07e30efb7837fa3.avif?1770259344), eliges un personaje tuyo si existe alguno. Que no tenga daño no lo vuelve inválido.
-   - Con [Brawl](https://cards.lorcast.io/card/digital/large/crd_be06b6df39cd46c2a192ae1be15fb42c.avif?1716052430), eliges un personaje legal con **2 {S} o menos**. Un personaje con [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Ward]] controlado por el oponente no puede ser elegido.
+   - Con [Brawl](https://cards.lorcast.io/card/digital/large/crd_be06b6df39cd46c2a192ae1be15fb42c.avif?1716052430), eliges un personaje legal con **2 {S} o menos**. Un personaje con [[8.15 Protección (ward)|Ward]] controlado por el oponente no puede ser elegido.
    - Esa comprobación no se hace al anunciar [Brawl](https://cards.lorcast.io/card/digital/large/crd_be06b6df39cd46c2a192ae1be15fb42c.avif?1716052430), sino cuando su efecto se está resolviendo.
    - Si haces una elección ilegal, se corrige desde ese momento y eliges otra vez.
 4. **Resolución**:
@@ -45,10 +45,10 @@ Sí, con matices.
 
 ## 🔗 Véase también
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|No tener objetivo legal vs elegir un objetivo inválido]]
+- [[No tener objetivo legal vs elegir un objetivo inválido]]
 
 ---
 
 ## 🏷️ Tags
 
-#ohana-means-family #brawl #targeting #legal-target #illegal-choice #ward #damage-removal
+#restriction #ward

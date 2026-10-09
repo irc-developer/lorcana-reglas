@@ -23,9 +23,9 @@ Esto es distinto de [Mickey Mouse & Minnie Mouse - Adventuring Duo](https://card
 ## 📘 Referencias
 
 - [Aladdin & Genie - Mischievous Pals](https://cards.lorcast.io/card/digital/large/crd_c75dbaef208b40e99c804cce84f6d116.avif?1783190716): su Shift especifica un solo personaje llamado Aladdin **o** Genie.
-- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md#8.10.1. Definición|Shift]]: la carta se juega usando el coste alternativo y se coloca encima de un personaje que cumpla el nombre requerido.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Bruno y equipos con varios nombres.md|Bruno y equipos con varios nombres]]: un equipo es un único personaje aunque su nombre contenga varios nombres.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md|Duo Shift de Mickey Mouse & Minnie Mouse]].
+- [[8.10. Cambio (Shift)|Shift]]: la carta se juega usando el coste alternativo y se coloca encima de un personaje que cumpla el nombre requerido.
+- [[Bruno y equipos con varios nombres]]: un equipo es un único personaje aunque su nombre contenga varios nombres.
+- [[Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift|Duo Shift de Mickey Mouse & Minnie Mouse]].
 
 ---
 
@@ -41,4 +41,4 @@ Esto es distinto de [Mickey Mouse & Minnie Mouse - Adventuring Duo](https://card
 
 ## 🏷️ Tags
 
-#shift #aladdin #genie #team-character #duo-shift #names
+#shift #alternate-cost

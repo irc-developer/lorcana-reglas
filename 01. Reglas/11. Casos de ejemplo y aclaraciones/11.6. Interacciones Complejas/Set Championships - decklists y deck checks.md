@@ -12,7 +12,7 @@ En los torneos Competitive y Premier los jugadores deben registrar su mazo; el o
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.8 Registro de Mazos (Deck Registration).md|Registro de mazos]] y [[03. Reglas de Torneo/3. Operaciones en los torneos/3.9 Revisión de Mazos (Deck Checks).md|Revisión de mazos]]. En Competitive y Premier se registra el mazo; en Premier se espera revisar al menos el 10 %.
+- [[3.8 Registro de Mazos (Deck Registration)|Registro de mazos]] y [[3.9 Revisión de Mazos (Deck Checks)|Revisión de mazos]]. En Competitive y Premier se registra el mazo; en Premier se espera revisar al menos el 10 %.
 
 ## 🔄 Cómo se resuelve
 
@@ -28,7 +28,7 @@ Una revisión de cortesía antes de la primera ronda puede ayudar a encontrar er
 
 La práctica recomendada es anunciar que puede haber controles aleatorios, seleccionar mesas sin sesgo y realizar la revisión, cuando sea posible, después de que los jugadores hayan barajado y antes de que roben la mano inicial. Un control previo debe presentarse como una comprobación adicional, no como una garantía de que el mazo ya no se revisará.
 
-La finalidad es mantener un riesgo de detección razonable para todos los jugadores, no acusar a quienes son seleccionados. Los detalles operativos están desarrollados en [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Deck checks aleatorios y controles previos.md|Deck checks aleatorios y controles previos]].
+La finalidad es mantener un riesgo de detección razonable para todos los jugadores, no acusar a quienes son seleccionados. Los detalles operativos están desarrollados en [[Deck checks aleatorios y controles previos]].
 
 ---
 

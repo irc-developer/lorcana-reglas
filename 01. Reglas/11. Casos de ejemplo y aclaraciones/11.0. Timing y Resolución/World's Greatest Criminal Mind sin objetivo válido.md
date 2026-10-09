@@ -18,11 +18,11 @@ La clave aquí no es el nombre de la carta, sino el momento en que el juego exig
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.3.2. Acciones|4.3.3.2. Las acciones se juegan y luego resuelven su efecto inmediatamente]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.3. Elecciones durante la resolución|1.7.3. Las elecciones se hacen durante la resolución]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.7. Corrección de jugadas|1.7.7. Si no hay elección legal, el efecto se resuelve sin efecto; si la elección fue ilegal, se corrige desde ese punto]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Resolver tanto como sea posible]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Confirmación de que choose/chosen se decide al resolver]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.3.2. Las acciones se juegan y luego resuelven su efecto inmediatamente]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3. Las elecciones se hacen durante la resolución]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Si no hay elección legal, el efecto se resuelve sin efecto; si la elección fue ilegal, se corrige desde ese punto]]
+- [[6.1. General (General)|6.1.2. Resolver tanto como sea posible]]
+- [[6.1. General (General)|6.1.3. Confirmación de que choose/chosen se decide al resolver]]
 
 ---
 
@@ -39,12 +39,12 @@ La clave aquí no es el nombre de la carta, sino el momento en que el juego exig
 
 ## 🔗 Véase también
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|No tener objetivo legal vs elegir un objetivo inválido]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido|Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar carta sin objetivo válido|Jugar carta sin objetivo válido]]
+- [[No tener objetivo legal vs elegir un objetivo inválido]]
+- [[Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido]]
+- [[Jugar carta sin objetivo válido]]
 
 ---
 
 ## 🏷️ Tags
 
-#worlds-greatest-criminal-mind #targeting #legal-target #illegal-choice #resolution #timing #play-action
+#restriction #resolution #timing

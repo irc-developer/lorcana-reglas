@@ -22,6 +22,17 @@ def snapshot(root):
 
 
 class CorpusTests(unittest.TestCase):
+    def test_policy_headings_and_cross_page_remedy_against_original(self):
+        with closing(x.ro_connection(DB)) as c:
+            policies = [json.loads(r[0]) for r in c.execute("select payload from chunks where kind='correction'")]
+        sections = {p['policy_section']: p for p in policies}
+        for number in ('2.1', '3.1', '4.1'):
+            self.assertIn(number, sections)
+        missed = sections['2.1']
+        self.assertEqual(missed['pages'], [5, 6])
+        self.assertIn('pointing out mandatory triggers even if those triggers are from an opponent', missed['text'])
+        self.assertIn('Remedy:', missed['text'])
+
     def test_release_notes_recovered_as_rules_support(self):
         r = x.query(x.ROOT, DB, "consulta: Woody - Town Sheriff puede cantar canciones")
         self.assertTrue(r["official_notes"])
@@ -70,6 +81,8 @@ class CorpusTests(unittest.TestCase):
                     self.assertTrue(any(case["special_path"] in p["path"] for p in r["special_format"]))
                 if case.get("policy_section"):
                     self.assertTrue(any(p.get("policy_section", "").startswith(case["policy_section"]) for p in r["official_policy"]))
+                if case.get("policy_path"):
+                    self.assertTrue(any(p["path"] == case["policy_path"] for p in r["official_policy"]))
                 if case.get("scope"):
                     self.assertEqual(r["scope"], case["scope"])
                 for group in ("primary_rules", "cards", "spanish", "case", "official_policy", "special_format"):
@@ -131,6 +144,8 @@ class MaintenanceTests(unittest.TestCase):
         assert cls.root.is_relative_to(base.resolve())
         for rel in x.CONTROL + ["Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf",
                                 "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
+                                "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md",
+                                "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.html",
                                 "02. Listado de Cartas/Set 14 - Hyperia City.md",
                                 "01. Reglas/1. Principios generales/1.12 Robo (Drawing).md"]:
             target = cls.root / rel

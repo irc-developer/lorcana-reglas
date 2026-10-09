@@ -27,9 +27,9 @@ La clave es distinguir dos tipos de efectos:
 
 ## 📘 Referencias
 
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)#5.3.6.4. Valor de Lore (Lore Value)|5.3.6.4. Valor de Lore]] — {L} es una característica del personaje usada cuando un efecto la referencia.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)#6.6.1.|6.6.1.]] — Los modificadores de característica (como +X {L}) se aplican de forma continua e inmediata.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)#6.6.1.2.|6.6.1.2.]] — Cuando varios modificadores se aplican a una característica, todos se combinan.
+- [[5.3. Personajes (Characters)|5.3.6.4. Valor de Lore]] — {L} es una característica del personaje usada cuando un efecto la referencia.
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.]] — Los modificadores de característica (como +X {L}) se aplican de forma continua e inmediata.
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.2.]] — Cuando varios modificadores se aplican a una característica, todos se combinan.
 
 > **Referencia oficial (EN):** §6.6.1 — *"Some abilities and effects can modify a characteristic of a character or location in play, such as {S} or {L}. […] Whenever a modifier applies to a card's characteristic, that characteristic changes immediately."*
 
@@ -48,4 +48,4 @@ La clave es distinguir dos tipos de efectos:
 
 ## 🏷️ Tags
 
-#lore-value #characteristic #continuous-modifier #triggered-ability #quest #pocahontas #localizacion #lore-pip
+#triggered-ability #quest

@@ -34,9 +34,9 @@ Con 16 jugadores no se salta automáticamente a la fila de 17–32 por querer ju
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.2 Mínimo de Rondas (Round Minimums).md|3.2. Mínimo de rondas]]: mínimo oficial de 3 rondas y tabla recomendada por número de jugadores.
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md|3.3. Estructura de partida]]: Entry-level y Competitive pueden usar estructuras decididas por el Organizador, con posibles requisitos adicionales para Set Championships.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md|Set Championship con 65 jugadores o más]]: los requisitos específicos del evento pueden prevalecer sobre una lectura aislada de la tabla.
+- [[3.2 Mínimo de Rondas (Round Minimums)|3.2. Mínimo de rondas]]: mínimo oficial de 3 rondas y tabla recomendada por número de jugadores.
+- [[3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]]: Entry-level y Competitive pueden usar estructuras decididas por el Organizador, con posibles requisitos adicionales para Set Championships.
+- [[Set Championship con 65 jugadores o más]]: los requisitos específicos del evento pueden prevalecer sobre una lectura aislada de la tabla.
 
 ---
 
@@ -52,4 +52,4 @@ Con 16 jugadores no se salta automáticamente a la fila de 17–32 por querer ju
 
 ## 🏷️ Tags
 
-#rounds #swiss #top-cut #set-championship #tournament-structure #event-organization
+#resolution #tournament-rules

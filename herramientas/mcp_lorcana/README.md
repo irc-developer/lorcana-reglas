@@ -16,7 +16,7 @@ Primera prueba:
 consulta: Si un efecto me hace robar tres cartas, ¿son tres robos?
 ```
 
-El asistente debe invocar `buscar_evidencia` con `modo="consulta"`, citar CR 1.12.2 p.9 según la versión seleccionada por fecha (2.2.0 hasta el 15/10/2026 y 2.3.0 desde el 16/10/2026), incluir un ejemplo y conservar los archivos. Para comprobar ambigüedad: `consulta: ¿Qué hace Belle?`; debe ofrecer versiones y pedir precisión. Para comprobar una limitación: `consulta: Minnie Mouse - Practical Traveler y lore olvidado`; debe distinguir partida y corrección de torneo y señalar la ausencia del original local PCG.
+El asistente debe invocar `buscar_evidencia` con `modo="consulta"`, citar CR 1.12.2 p.9 según la versión seleccionada por fecha (2.2.0 hasta el 15/10/2026 y 2.3.0 desde el 16/10/2026), incluir un ejemplo y conservar los archivos. Para comprobar ambigüedad: `consulta: ¿Qué hace Belle?`; debe ofrecer versiones y pedir precisión. Para comprobar políticas oficiales: `consulta: Minnie Mouse - Practical Traveler y lore olvidado`; debe distinguir partida y corrección de torneo y citar el original local PCG, sección 2.1.
 
 `documenta:` y una pregunta ordinaria sin señal seleccionan `modo="documenta"` y conservan el workflow de `.github/`, con artículo canónico, índices, validación, commit y `push` de los cambios al repositorio remoto antes de responder. El usuario ha autorizado la publicación como parte de documentar cada duda. Las herramientas no ejecutan esa transacción ni llaman a Git: lo hace el asistente siguiendo [lorcana-ruling-workflow](../../.github/skills/lorcana-ruling-workflow/SKILL.md). No se crean commits vacíos cuando el artículo y los índices ya eran correctos. Un fallo de commit o `push` debe declararse con el trabajo pendiente. `consulta:` mantiene solo lectura; `actualiza:` usa la CLI de mantenimiento; no existe herramienta MCP de escritura.
 
@@ -104,3 +104,7 @@ Las pruebas atraviesan un proceso MCP real, con rutas con espacios y otro direct
 **Móvil:** la conexión del usuario ya está resuelta. Falta comprobar el uso de este MCP a través de ese acceso y la presentación de referencias; no hay configuración móvil pendiente incluida en la entrega.
 
 El [plan](../consulta_lorcana/PLAN_MCP.md) conserva la opción futura de aprender publicación y uso remoto fuera de la app local. La entrega actual no contrata alojamiento ni publica el servidor.
+
+## Hyperia City y fuentes de octubre de 2026
+
+Las notas oficiales de Hyperia City se conservan con URL, fecha y hashes del HTML original y su extracción. Las fichas distinguen texto impreso y erratas aplicables desde el 16/10/2026; una aclaración parcial no se presenta como transcripción completa. El índice incorpora también los originales vigentes de torneo del 14/07/2026 y de correcciones del 21/05/2024. Después de actualizar código y corpus, comprobar un proceso nuevo y la conexión persistente: actualizar el índice por sí solo no recarga un servidor ya iniciado.

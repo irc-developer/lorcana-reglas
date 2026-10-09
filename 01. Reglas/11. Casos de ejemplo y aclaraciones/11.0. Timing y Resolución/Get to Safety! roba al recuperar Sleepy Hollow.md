@@ -28,7 +28,7 @@ El texto vigente de las reglas resuelve la interacción sin exigir cambiar el te
 
 - [Comprehensive Rules 2.2.0, regla 6.7.8 y su ejemplo, p. 37](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=37): confirma expresamente el robo al jugar Sleepy Hollow desde el descarte con Get to Safety! y la espera de las habilidades disparadas.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8–6.7.8.1. Jugar cartas durante una resolución]]: localización castellana de la regla y del ejemplo; los efectos de una acción jugada de esta forma esperan hasta terminar la resolución inicial.
-- [[6.1. General (General)|6.1.2 y 6.1.5. Orden escrito y condiciones de éxito]] y [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 25–26: las instrucciones se resuelven en orden y tanto como sea posible; «si lo haces» introduce una dependencia distinta de la condición de esta carta.
+- [[6.1. General (General)|6.1.2 y 6.1.5. Orden escrito y condiciones de éxito]] y [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 25–26: las instrucciones se resuelven en orden y tanto como sea posible; «si lo haces» introduce una dependencia distinta de la condición de esta carta.
 - **Texto de las cartas:** las imágenes enlazadas en la duda muestran la instrucción de jugar una localización de coste 3 o menos y la condición de tener Sleepy Hollow en juego.
 
 ---

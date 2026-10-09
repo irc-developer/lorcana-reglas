@@ -26,11 +26,11 @@ _"Si el efecto contiene múltiples instancias de 'choose' o 'chosen', entonces e
 
 **Estructura única vs Estructuras múltiples:**
 
-| Tipo | Estructura | Objetivo | Ejemplo |
-|------|-----------|----------|---------|
-| **Una instancia** | "Elige hasta 3 personajes" | Un solo objetivo, múltiples veces | ❌ No puedes elegir a John Smith 3 veces |
-| **Múltiples independientes** | "Chosen personaje gana -1 STR. Chosen personaje diferente gana +2 STR." | Objetivos separados en frases distintas | ✅ Puedes elegir a John Smith para ambos si has marcado "diferentes" |
-| **Múltiples con "different"** | "Up to 2 chosen different characters" | Explícitamente diferentes | ✅ Pero dice "different", así que... ❌ No puedes usar "different" para evitar la restricción |
+| Elección | ¿Se puede repetir personaje? |
+| --- | --- |
+| Una instancia: «hasta 3 personajes elegidos» | No |
+| Dos instancias independientes de «chosen» | Sí, si ambas lo permiten |
+| La segunda exige «different» | No: debe ser distinto |
 
 **Ejemplos del documento oficial:**
 
@@ -44,7 +44,7 @@ _"chosen opposing character gets -4 {S} [POINT] chosen character gets +4 {S}"_
 - DOS instancias independientes de "chosen"
 - La primera es "opposing character"
 - La segunda es "character" (sin restricción de propiedad)
-- Se PUEDE elegir al mismo personaje para ambas (si eres el oponente, puedes elegir tu propio personaje para ganar +4)
+- Se PUEDE elegir al mismo personaje para ambas si ese personaje cumple los requisitos de ambas elecciones
 
 **Aplicación a John Smith:**
 
@@ -72,10 +72,10 @@ Si un efecto dice: _"Chosen personaje gana Exert. Chosen personaje diferente pie
 
 **Caso: Intento ilegal**
 - Intenta elegir a John Smith 3 veces en "elige hasta 3"
-- **Resultado**: Acción ilegal. El jugador debe hacer rollback y elegir correctamente (John Smith 1 vez máximo en esa instancia).
+- **Resultado**: Acción ilegal. Se llama al Lore Guide para corregir el error; no se hace un rebobinado por cuenta propia (John Smith 1 vez máximo en esa instancia).
 
 ---
 
 ## 🏷️ Tags
 
-#choices-resolution #up-to-N #multiple-instances #same-target #john-smith #restrictions
+#restriction #keyword-stackable

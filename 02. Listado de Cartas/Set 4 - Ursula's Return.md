@@ -255,7 +255,10 @@ Saving the Miracle - Whenever this character quests, your other Madrigal charact
 
 
 **Habilidades:**
-- Shift 4
+- Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Prince Eric.)
+UNDER VANESSA'S SPELL While you have a character named Ursula in play, this character gains Bodyguard and gets +2 {W}. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+
+*Transcripción completada el 09/10/2026 desde el registro exacto de [Lorcast](https://api.lorcast.com/v0/cards/crd_58e889f440504f44b3283ed76f3f54a4); no es una errata.*
 
 ---
 
@@ -2381,5 +2384,3 @@ Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyg
 - If You Can Make it Here: During your turn, whenever a character banishes another character in a challenge while here, gain 2 lore.
 
 ---
-
-

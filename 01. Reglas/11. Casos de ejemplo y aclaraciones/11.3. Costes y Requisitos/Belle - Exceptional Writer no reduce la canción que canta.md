@@ -12,6 +12,14 @@ Si ya tenías una reducción para la siguiente acción antes de cantar, esa redu
 
 ---
 
+### Varias reducciones ya resueltas
+
+**Desde Hyperia City (16/10/2026):** si agotas a Belle dos veces y resuelves ambos disparos antes de jugar otra acción, la siguiente acción recibe una reducción total de 4 {I}. Las reducciones independientes se suman y se consumen con esa misma acción; el excedente no pasa a otra. Véase [[Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow]].
+
+[Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Belle - Exceptional Writer; CR 1.5.4 y 4.3.6.
+
+---
+
 ## 📘 Referencias
 
 - [[1.5 Costes (Costs)|1.5.5.1. Cantar es un coste alternativo]].

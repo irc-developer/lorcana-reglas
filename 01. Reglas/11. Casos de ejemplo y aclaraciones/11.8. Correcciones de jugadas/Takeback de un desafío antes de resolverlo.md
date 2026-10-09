@@ -12,8 +12,8 @@ El Lore Guide puede permitir el takeback si la solicitud es inmediata y el desaf
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.3 Ejemplos de takebacks permitidos.md|Desafío declarado y retirado antes de resolver]]
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Criterios de takeback]]
+- [[3.7.3 Ejemplos de takebacks permitidos|Desafío declarado y retirado antes de resolver]]
+- [[3.7.1 Elegibilidad y limitaciones de takebacks|Criterios de takeback]]
 - [Mickey Mouse - Snowboard Ace](https://cards.lorcast.io/card/digital/large/crd_23f005944c784e158b9709de1c587d1e.avif?1770259608): el efecto de abandonar el juego es información pública.
 
 ---

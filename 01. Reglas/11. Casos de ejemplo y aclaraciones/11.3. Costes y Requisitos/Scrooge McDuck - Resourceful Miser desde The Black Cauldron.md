@@ -29,11 +29,11 @@ Por tanto, el ruling práctico es este:
 
 - [The Black Cauldron](https://cards.lorcast.io/card/digital/large/crd_02bc7b97b6044592b68b86b9afadd113.avif?1761752078): "This turn, you may play characters from under this item."
 - [Scrooge McDuck - Resourceful Miser](https://cards.lorcast.io/card/digital/large/crd_485779f8b4954059b78e81f46882d744.avif?1740589717): "You may exert 4 items of yours to play this character for free."
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo (Under)]]: una carta debajo de otra no se considera en juego.
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.8. En juego (In Play)|5.1.1.8. En juego (In Play)]]: una carta debajo de otra no está en juego aunque siga en la zona de juego.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.2.2. Modo de juego|4.3.2.2. Modo de juego]]: al jugar una carta eliges si la juegas por su coste normal o por un coste alternativo legal.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.2.3. Calcular el total a pagar|4.3.2.3. Calcular el total a pagar]]: el total parte del coste normal o del coste alternativo elegido.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)#4.3.2.4. Pagar|4.3.2.4. Pagar]]: los costes deben pagarse completamente para que la jugada sea legal.
+- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]: una carta debajo de otra no se considera en juego.
+- [[5.1. Estados de las cartas (Card States)|5.1.1.8. En juego (In Play)]]: una carta debajo de otra no está en juego aunque siga en la zona de juego.
+- [[4.3. Jugar una carta (Play a Card)|4.3.2.2. Modo de juego]]: al jugar una carta eliges si la juegas por su coste normal o por un coste alternativo legal.
+- [[4.3. Jugar una carta (Play a Card)|4.3.2.3. Calcular el total a pagar]]: el total parte del coste normal o del coste alternativo elegido.
+- [[4.3. Jugar una carta (Play a Card)|4.3.2.4. Pagar]]: los costes deben pagarse completamente para que la jugada sea legal.
 
 ---
 

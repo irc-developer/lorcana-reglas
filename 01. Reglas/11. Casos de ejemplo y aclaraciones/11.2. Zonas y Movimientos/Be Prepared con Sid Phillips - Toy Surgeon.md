@@ -17,9 +17,9 @@ Sid no genera lore por su propio destierro, porque la condición pide que sea de
 
 ## 📘 Referencias
 
-- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Interacción|6.2.3. Cuando se cumple la condición, la habilidad se añade a la bolsa]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Los triggers generados durante una resolución esperan hasta que el efecto actual termine]]
+- [[7.4. Juego (Play)|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Cuando se cumple la condición, la habilidad se añade a la bolsa]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers generados durante una resolución esperan hasta que el efecto actual termine]]
 
 ---
 
@@ -36,4 +36,4 @@ Sid no genera lore por su propio destierro, porque la condición pide que sea de
 
 ## 🏷️ Tags
 
-#bag #beprepared #sidphillips #toy #leavesplay #lore #triggered-abilities
+#bag #lore-gain #triggered-ability

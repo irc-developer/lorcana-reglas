@@ -41,7 +41,7 @@ Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octub
 ---
 
 ### 🤝 Comunidad y actividades
-> Explora el [[10. Comunidad y actividades/Índice|índice de comunidad y actividades]], con artículos sobre [[10. Comunidad y actividades/Collection Quest|Collection Quest]] y el [[10. Comunidad y actividades/Código de la comunidad (Community Code)|Código de la comunidad]], aplicable también a los intercambios de cartas.
+> Explora el [[10. Comunidad y actividades/Índice|índice de comunidad y actividades]], con artículos sobre [[Collection Quest]] y el [[Código de la comunidad (Community Code)|Código de la comunidad]], aplicable también a los intercambios de cartas.
 
 ---
 

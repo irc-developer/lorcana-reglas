@@ -31,7 +31,7 @@ Si resuelves Fergus primero, todavía no puedes jugar esta Sleepy Hollow desde e
 - [[5.6. Localizaciones (Locations)|5.6.6. La localización abandona el juego]]: sus personajes permanecen en juego y dejan de estar en una localización.
 - [[7.1. General|7.1.6. Cambio de zona]]: al abandonar la zona de juego, Sleepy Hollow pasa a ser una carta nueva. Su retorno no recupera la asociación previa con Fergus.
 
-**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 4.1.5 (p. 12), 4.5.1–4.5.3 (p. 14), 5.6.6 (p. 25), 6.1.3–6.1.5.1 (pp. 25–26), 6.2.1 (p. 30), 6.7.8 (p. 37), 7.1.6 (p. 38) y 7.7.4.2–7.7.4.3 (p. 40). Las comprobaciones y el final de partida se rigen por 1.8.1–1.8.3 (pp. 6–7).
+**Fuente primaria:** [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 4.1.5 (p. 12), 4.5.1–4.5.3 (p. 14), 5.6.6 (p. 25), 6.1.3–6.1.5.1 (pp. 25–26), 6.2.1 (p. 30), 6.7.8 (p. 37), 7.1.6 (p. 38) y 7.7.4.2–7.7.4.3 (p. 40). Las comprobaciones y el final de partida se rigen por 1.8.1–1.8.3 (pp. 6–7).
 
 ---
 

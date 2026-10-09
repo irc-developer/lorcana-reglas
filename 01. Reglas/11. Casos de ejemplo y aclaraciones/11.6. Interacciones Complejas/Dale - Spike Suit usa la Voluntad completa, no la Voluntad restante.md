@@ -22,9 +22,9 @@ Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de u
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.1. Definición|1.9.1. Definición]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.1. Calcular daño|4.6.6.1. Calcular daño]]
-- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)#1.8.1.4. Daño sobre personajes o localizaciones|1.8.1.4. Daño sobre personajes o localizaciones]]
+- [[1.9. Daño (Damage)|1.9.1. Definición]]
+- [[4.6 Desafío (Challenge)|4.6.6.1. Calcular daño]]
+- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.4. Daño sobre personajes o localizaciones]]
 
 La combinación de estas reglas lleva a esta conclusión:
 
@@ -40,15 +40,15 @@ La combinación de estas reglas lleva a esta conclusión:
 ## 🔄 Cómo se resuelve
 
 1. Se declara el desafío normalmente.
-2. Al llegar a [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.1. Calcular daño|4.6.6.1]], tus personajes usan su Willpower actual en lugar de su Strength por la habilidad estática de Dale.
+2. Al llegar a [[4.6 Desafío (Challenge)|4.6.6.1]], tus personajes usan su Willpower actual en lugar de su Strength por la habilidad estática de Dale.
 3. El daño que ya tuviesen marcado no reduce ese valor; solo permanece como contadores sobre el personaje.
-4. En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.2. Se hace el daño|4.6.6.2]], ambos personajes hacen daño simultáneamente.
-5. En [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.6.3. GSC|4.6.6.3]] se comprueba si el daño total acumulado es igual o superior a la Willpower del personaje.
-6. Si lo es, se destierra según [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)#1.8.1.4. Daño sobre personajes o localizaciones|1.8.1.4]].
+4. En [[4.6 Desafío (Challenge)|4.6.6.2]], ambos personajes hacen daño simultáneamente.
+5. En [[4.6 Desafío (Challenge)|4.6.6.3]] se comprueba si el daño total acumulado es igual o superior a la Willpower del personaje.
+6. Si lo es, se destierra según [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.4]].
 7. Si después otro efecto como [Under the Sea](https://cards.lorcast.io/card/digital/large/crd_dbd4475720c8479481050b2ba6ef3c5a.avif?1716052430) o [Sisu - Empowered Sibling](https://cards.lorcast.io/card/digital/large/crd_1f7b39db813d495ea2aebf5c8e7ddcbe.avif?1716052430) mira la Fuerza de ese personaje, seguirá viendo su {S} real, no la {W} usada por Dale durante el desafío.
 
 ---
 
 ## 🏷️ Tags
 
-#dale #spikesuit #challenge #damage #willpower #strength #gsc #static-ability #under-the-sea #sisu #headless-horseman
+#challenge #damage #strength-modifier #gsc #static-ability

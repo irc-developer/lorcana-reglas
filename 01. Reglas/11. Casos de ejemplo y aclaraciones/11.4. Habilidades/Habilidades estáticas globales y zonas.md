@@ -1,36 +1,25 @@
 ## ❓ Duda
 
-¿La habilidad estática que otorga una palabra clave (ej: Detective) a mis personajes se aplica también a personajes en mano, mazo o descarte?
+¿DEPUTIZE de [Chief Bogo - Calling the Shots](https://cards.lorcast.io/card/digital/large/crd_49b1333917404a9fa4e855f4c2da3487.avif?1761764860) convierte en Detective a mis cartas de personaje de la mano o el descarte?
 
 ---
 
 ## ✅ Respuesta
 
-No.  La clasificación **Detective** dada por **DEPUTIZE** **solo se aplica a los otros personajes que controles en juego**, y únicamente mientras _Chief Bogo_ permanezca en juego.
+**No.** Detective es una **clasificación**, no una palabra clave. DEPUTIZE afecta a tus otros personajes en juego, mientras Bogo permanezca en juego. No cambia las cartas de personaje en la mano, el mazo, el descarte o el pozo.
 
-	En Lorcana, el término **“character”** se refiere a una carta **en la zona de juego (play)**. Las cartas en mano, mazo, descarte o tinta son **character cards**, pero no son personajes.
-
----
-
-### Referencias
-
-**Disney Lorcana Comprehensive Rules**
-
-- **7.6.4**  
-    _“Static abilities function only while the card with the ability is in play, unless the ability explicitly states otherwise.”_
-    
-- **7.6.6**  
-    _“Static abilities don’t affect objects that aren’t in play unless they specifically say they do.”_
+Una habilidad puede funcionar en otra zona si su texto o las reglas lo permiten expresamente. Esa excepción no aparece en DEPUTIZE.
 
 ---
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3: efectos de cartas en juego]].
+- [[5.3. Personajes (Characters)|5.3.3: clasificaciones]].
+- [[7.1. General|7.1: zonas y cartas]].
 
 ---
 
 ## 🏷️ Tags
 
-#static-ability #keyword #in-play #zones #abilities
+#static-ability #scope

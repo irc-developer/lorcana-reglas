@@ -63,10 +63,10 @@ La secuencia es equivalente con ACT OF KINDNESS: el reemplazo impide que el pers
 
 - [Malicious, Mean, and Scary](https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397): pone 1 contador de daño sobre cada personaje rival.
 - [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117): STEADY AIM exige que una acción inflija daño.
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9. Daño]]: distingue infligir, poner, mover y recibir daño.
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.5. Daño reducido a 0|1.9.5. Daño reducido a 0]]: una fuente puede seguir considerándose que ha infligido daño aunque el receptor no reciba ninguno.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]: un reemplazo puede modificar el evento que recibe el personaje.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 1.9, 6.5 y 8.8.
+- [[1.9. Daño (Damage)|1.9. Daño]]: distingue infligir, poner, mover y recibir daño.
+- [[1.9. Daño (Damage)|1.9.5. Daño reducido a 0]]: una fuente puede seguir considerándose que ha infligido daño aunque el receptor no reciba ninguno.
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]: un reemplazo puede modificar el evento que recibe el personaje.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.9, 6.5 y 8.8.
 
 ---
 

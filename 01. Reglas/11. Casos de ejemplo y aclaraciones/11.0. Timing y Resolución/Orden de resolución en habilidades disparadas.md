@@ -13,12 +13,12 @@ Por tanto, si ambos triggers entran a la vez al final del turno, no se resuelven
 
 ## 📘 Referencias
 
-- [[3.4. Fase final de turno (End-of-Phase)#3.4.1.1. Habilidades de final de turno|3.4.1.1. Habilidades de final de turno]]
-- [[7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2. El jugador activo escoge]]
-- [[7.7. Bolsa (Bag)#7.7.4.4. Pasar la bolsa (passing the bag)|7.7.4.4. Pasar la bolsa (passing the bag)]]
+- [[3.4. Fase final de turno (End-of-Phase)|3.4.1.1. Habilidades de final de turno]]
+- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]
+- [[7.7. Bolsa (Bag)|7.7.4.4. Pasar la bolsa (passing the bag)]]
 
 ---
 
 ## 🏷️ Tags
 
-#bag #finaldeturno #jugadoractivo #resolution-order #triggered-abilities
+#bag #resolution #triggered-ability

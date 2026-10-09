@@ -24,12 +24,12 @@ Pero esos disparos esperan en la **bolsa** hasta que [Grab Your Sword](https://c
 
 - [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117): "Whenever one of your actions deals damage to an opposing character, deal 2 damage to that character."
 - [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747): "Deal 2 damage to each opposing character."
-- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)#8.15.1. Definición|8.15.1. Ward]]: los oponentes no pueden **elegir** esa carta al resolver un efecto.
-- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)#8.15.2. Efectos sin elección|8.15.2. Ward no protege de efectos que no eligen]].
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. El daño de un mismo efecto se inflige simultáneamente]].
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Los disparos ocurridos durante la resolución entran en la bag y esperan; si varios ocurren a la vez, entran simultáneamente]].
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.5. Comprobación del estado del juego|6.7.5. El GSC ocurre después de resolver la acción o habilidad]].
-- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)#1.8.1.4. Daño sobre personajes o localizaciones|1.8.1.4. El daño letal destierra al personaje en el GSC]].
+- [[8.15 Protección (ward)|8.15.1. Ward]]: los oponentes no pueden **elegir** esa carta al resolver un efecto.
+- [[8.15 Protección (ward)|8.15.2. Ward no protege de efectos que no eligen]].
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El daño de un mismo efecto se inflige simultáneamente]].
+- [[7.7. Bolsa (Bag)|7.7.3.1. Los disparos ocurridos durante la resolución entran en la bag y esperan; si varios ocurren a la vez, entran simultáneamente]].
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5. El GSC ocurre después de resolver la acción o habilidad]].
+- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.4. El daño letal destierra al personaje en el GSC]].
 
 ---
 
@@ -48,4 +48,4 @@ Pero esos disparos esperan en la **bolsa** hasta que [Grab Your Sword](https://c
 
 ## 🏷️ Tags
 
-#merida #steady-aim #grabyoursword #ward #mass-damage #bag #gsc
+#ward #bag #gsc

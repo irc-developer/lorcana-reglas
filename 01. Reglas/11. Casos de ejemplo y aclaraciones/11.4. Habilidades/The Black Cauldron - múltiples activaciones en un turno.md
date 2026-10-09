@@ -16,9 +16,9 @@ Eso sí: cada activación pone **solo 1 character card** desde tu descarte debaj
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)#6.3.1. Definición|6.3.1. Definición]]: una habilidad activada puede usarse pagando su coste para generar su efecto.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)#4.4.3.4. Pagar el coste|4.4.3.4. Pagar el coste]]: para usar la habilidad debes pagar completamente el coste, incluido el exert del item y el coste de tinta.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.2 Entintar una carta (Ink a Card)#4.2.3.2. Entintar boca abajo por un efecto|4.2.3.2. Entintar boca abajo por un efecto]]: ejemplo análogo de habilidad activada que puede usarse tantas veces como puedas pagar su coste, salvo que el texto imponga un límite adicional.
+- [[6.3. Habilidades Activadas (Activated Abilities)|6.3.1. Definición]]: una habilidad activada puede usarse pagando su coste para generar su efecto.
+- [[4.4. Usar una habilidad activada (Use an Activated Ability)|4.4.3.4. Pagar el coste]]: para usar la habilidad debes pagar completamente el coste, incluido el exert del item y el coste de tinta.
+- [[4.2 Entintar una carta (Ink a Card)|4.2.3.2. Entintar boca abajo por un efecto]]: ejemplo análogo de habilidad activada que puede usarse tantas veces como puedas pagar su coste, salvo que el texto imponga un límite adicional.
 
 ---
 
@@ -35,4 +35,4 @@ Eso sí: cada activación pone **solo 1 character card** desde tu descarte debaj
 
 ## 🏷️ Tags
 
-#black-cauldron #activated-ability #once-per-turn #item #discard #under #costs
+#activated-ability #discard #under #cost-reduction

@@ -20,16 +20,16 @@ Con Resist +1:
 
 No toda acción que coloca daño lo **inflige**. Si una acción **pone** contadores directamente, como [Malicious, Mean, and Scary](https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397), ese daño es *put damage*, no *deal damage*. STEADY AIM no se dispara en ese caso.
 
-La interacción completa con los dos escudos está desarrollada en [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño|Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño]].
+La interacción completa con los dos escudos está desarrollada en [[Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño]].
 
 ---
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.2.1. Deal y 1.9.2.2. Put son operaciones distintas]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.5. Daño reducido a 0|1.9.5. La fuente sigue considerándose que inflige daño]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de cartas y efectos (Resolving Cards and Effects)|6.7.2. Cálculo y resolución del daño]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|8.8.2. El objeto no recibe daño si se reduce a 0]]
+- [[1.9. Daño (Damage)|1.9.2.1. Deal y 1.9.2.2. Put son operaciones distintas]]
+- [[1.9. Daño (Damage)|1.9.5. La fuente sigue considerándose que inflige daño]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Cálculo y resolución del daño]]
+- [[8.8. Resistir (Resist)|8.8.2. El objeto no recibe daño si se reduce a 0]]
 
 ---
 
@@ -46,4 +46,4 @@ La interacción completa con los dos escudos está desarrollada en [[01. Reglas/
 
 ## 🏷️ Tags
 
-#merida #steady-aim #resist #triggered-ability #actions #damage #bag #damage-modifier #cr-2-2
+#resist #triggered-ability #turn-actions #damage #bag

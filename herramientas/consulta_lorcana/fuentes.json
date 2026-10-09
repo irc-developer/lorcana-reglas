@@ -88,22 +88,28 @@
       "url": "https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf",
       "verified_on": "2026-10-09",
       "note": "Enlazado desde recursos oficiales: 56 páginas, Version 2.3.0, Effective October 16, 2026."
+    },
+    "Tournament-Rules-7.14.2026_Update_EN.pdf": {
+      "url": "https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf",
+      "verified_on": "2026-10-09",
+      "effective_on": "2026-07-14",
+      "sha256": "752f0b4994e99547805fd6023d4bbb106a458e234243c37b8885ccc292ddb6ee",
+      "note": "Original íntegro descargado desde recursos oficiales y contrastado para esta auditoría."
+    },
+    "Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": {
+      "url": "https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf",
+      "verified_on": "2026-10-09",
+      "effective_on": "2024-05-21",
+      "sha256": "38b75b4326f6cfd8d1226129c2f36a871ee02be0628f785e1976b376ef725970",
+      "note": "Original íntegro descargado desde recursos oficiales y contrastado para esta auditoría."
     }
   },
-  "local_observations": {
-    "04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md": "Discrepancia comprobada el 30/09/2026 contra PCG 5/21/2024 §2.1 pp.5–6: la solución local simplifica incorrectamente el plazo y omite la elección del oponente. No aplicar su remedio como política oficial."
-  },
+  "local_observations": {},
   "maintenance_observations": {
     "Tournament-Rules-6.11.2026_Update-EN.pdf": {
       "checked_on": "2026-09-30",
       "limitation": "Copia local superada: la página oficial publica Tournament Rules efectivas 07/14/2026. No acreditar política vigente con la copia 06/11/2026.",
       "newer_url": "https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf"
-    },
-    "missing_correction": {
-      "checked_on": "2026-09-30",
-      "url": "https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf",
-      "effective_date": "5/21/2024",
-      "note": "Original abierto y contrastado pp. 5–6 en mantenimiento. No hay copia local; no se indexa una paráfrasis como política oficial."
     }
   },
   "primary_transition": {
@@ -114,5 +120,77 @@
     "previous_version": "2.2.0",
     "previous_sha256": "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f",
     "published_sha256": "8b7a458169978a13b688493d4b24d713bdc8baee32ce5e774b0515079a0b91fe"
-  }
+  },
+  "official_markdown": [
+    {
+      "path": "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md",
+      "sha256": "3b5cf018f0f29329334821e6866df8c252f571cca95dd207a370466ea2f570d3",
+      "raw_path": "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.html",
+      "raw_sha256": "13608bf8bc25420590bef3eec46220beb79f716ecefb75a52f3cef7d486a303c",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "published_on": "2026-10-08",
+      "effective_on": "2026-10-16",
+      "scope": "estandar",
+      "authority": "notas_oficiales",
+      "kind": "release",
+      "limitations": [
+        "Transcripción del cuerpo inglés del HTML oficial; navegación, imágenes y créditos omitidos. Original HTML conservado.",
+        "Publicadas el 08/10/2026; explican cambios aplicables con CR 2.3 desde el 16/10/2026."
+      ],
+      "verified_on": "2026-10-09"
+    }
+  ],
+  "card_errata": [
+    {
+      "path": "02. Listado de Cartas/Set 10 - Whispers in the Well.md",
+      "name": "Gaston - Frightful Bully",
+      "effective_on": "2026-10-16",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "printed": "- Boost 2 {i} (Once during your turn, you may pay 2 {i}\nto put the top card of your deck facedown under this\ncharacter.)\nTOP THAT! Whenever this character quests, if there's\na card under him, chosen opposing character can't\nchallenge and must quest if able during their next turn.",
+      "clarification": "La actualización oficial declara que este efecto usa Adventurous. No suministra una transcripción completa de la nueva habilidad; no inventar su redacción. Condiciones y duración según el texto impreso y la aclaración oficial."
+    },
+    {
+      "path": "02. Listado de Cartas/Set 11 - Winterspell.md",
+      "name": "Cobra Bubbles - Dedicated Official",
+      "effective_on": "2026-10-16",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "printed": "- AURA OF AUTHORITY Whenever this character quests, chosen opposing character can't challenge and must quest during their next turn if able.",
+      "clarification": "La actualización oficial declara que este efecto usa Adventurous. No suministra una transcripción completa de la nueva habilidad; no inventar su redacción. Condiciones y duración según el texto impreso y la aclaración oficial."
+    },
+    {
+      "path": "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+      "name": "Ariel - Curious Traveler",
+      "effective_on": "2026-10-16",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "printed": "- FAMILIAR GROUND Whenever this character quests, if you played another character this turn, chosen opposing character can’t challenge and must quest during their next turn if able.",
+      "clarification": "La actualización oficial declara que este efecto usa Adventurous. No suministra una transcripción completa de la nueva habilidad; no inventar su redacción. Condiciones y duración según el texto impreso y la aclaración oficial."
+    },
+    {
+      "path": "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+      "name": "This Growing Pressure",
+      "effective_on": "2026-10-16",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "printed": "- (A character with cost 3 or more can {E} to sing this song for free.)\n- Chosen opposing character can't challenge and must quest during their next turn if able. Draw a card.",
+      "clarification": "La actualización oficial declara que este efecto usa Adventurous. No suministra una transcripción completa de la nueva habilidad; no inventar su redacción. Condiciones y duración según el texto impreso y la aclaración oficial."
+    },
+    {
+      "path": "02. Listado de Cartas/Set 13 - Attack of the Vine.md",
+      "name": "Woody - Town Sheriff",
+      "effective_on": "2026-10-16",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "printed": "- MOVE ALONG When you play this character, until the start of your next turn, chosen opposing character can't challenge and must quest if able.",
+      "clarification": "La actualización oficial declara que este efecto usa Adventurous. No suministra una transcripción completa de la nueva habilidad; no inventar su redacción. Condiciones y duración según el texto impreso y la aclaración oficial."
+    },
+    {
+      "path": "02. Listado de Cartas/Set 14 - Hyperia City.md",
+      "name": "Jukebox",
+      "effective_on": "2026-10-16",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "printed": "- ON REPEAT Once during your turn, whenever you play a song, if it has the same name as a card in your discard, you may ready chosen character. If you do, they can't quest for the rest of this turn.",
+      "corrected": "- ON REPEAT Once during your turn, whenever you play a song, if it has the same name as another card in your discard, you may ready chosen character. If you do, they can't quest for the rest of this turn."
+    }
+  ],
+  "superseded_pdfs": [
+    "Tournament-Rules-6.11.2026_Update-EN.pdf"
+  ]
 }

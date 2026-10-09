@@ -1730,6 +1730,13 @@ Tia Rosita: "They guide souls on their journey."
 **Habilidades:**
 - ON REPEAT Once during your turn, whenever you play a song, if it has the same name as a card in your discard, you may ready chosen character. If you do, they can't quest for the rest of this turn.
 
+<!-- ERRATA-ACTIVA-DESDE: 2026-10-16 -->
+**Texto corregido oficial:**
+- ON REPEAT Once during your turn, whenever you play a song, if it has the same name as another card in your discard, you may ready chosen character. If you do, they can't quest for the rest of this turn.
+
+**Procedencia:** [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), publicadas el 08/10/2026; aplicación con CR 2.3 desde el 16/10/2026.
+<!-- FIN-ERRATA -->
+
 ---
 
 ## Land of the Dead - Marigold Bridge

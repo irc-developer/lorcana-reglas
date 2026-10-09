@@ -42,6 +42,14 @@ Una vez cumplida la condición, *PAYMENT UP FRONT* deja de impedir la aventura y
 
 ---
 
+### Errata de This Growing Pressure, desde el 16/10/2026
+
+La actualización oficial sustituye la redacción previa de obligación de aventura por la concesión de Adventurous, conservando la duración propia del efecto. La prohibición de Strange Things sigue impidiendo la aventura: Adventurous no la anula, y el personaje tampoco puede desafiar. Cantar, pagar costes de agotamiento y moverse siguen siendo posibles si se cumplen sus requisitos.
+
+[CR 2.3, 8.16, p.44](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=44) y [notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), lista de cinco erratas. No se reproduce una nueva redacción completa de la canción porque la fuente no la publica.
+
+---
+
 ## 📘 Referencias
 
 - [[1.2. Regla de oro (Golden Rules)|1.2. Regla de oro]]: un efecto que impide una acción prevalece sobre las reglas y los efectos que permitirían realizarla. La obligación condicional no elimina la prohibición de *Strange Things*.
@@ -57,7 +65,7 @@ La aclaración oficial de *Woody – Town Sheriff*, cuyo efecto usa la misma con
 
 ## 📚 Fuente oficial
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 1.2.2 (p. 3), 4.5.1.2 y 4.5.2 (p. 14), 6.4.1 (p. 32), y [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]], aclaración de «must quest if able».
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.2.2 (p. 3), 4.5.1.2 y 4.5.2 (p. 14), 6.4.1 (p. 32), y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), aclaración de «must quest if able».
 
 **Variante de Baloo:** se enlaza el texto inglés de la carta; la explicación en castellano es una adaptación.
 
@@ -65,4 +73,4 @@ La aclaración oficial de *Woody – Town Sheriff*, cuyo efecto usa la misma con
 
 ## 🏷️ Tags
 
-#challenge #golden-rule #ink-drop #interactions #quest #static-ability #strange-things #this-growing-pressure #turn-actions
+#challenge #golden-rule #ink-drop #interactions #quest #static-ability

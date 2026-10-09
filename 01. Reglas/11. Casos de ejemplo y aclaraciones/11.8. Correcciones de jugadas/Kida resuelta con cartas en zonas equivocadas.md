@@ -12,8 +12,8 @@ Es un Card Count Error, Warning en Competitive. El resultado conocido es una car
 
 ## 📘 Referencias
 
-- [[04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md|Conteo incorrecto en mano y pozo de tinta]]
-- [[04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.3 Criterios para el rebobinado.md|Criterios de rebobinado]]
+- [[2.3 Error en el conteo de cartas (Card Count Error)|Conteo incorrecto en mano y pozo de tinta]]
+- [[1.2.3 Criterios para el rebobinado|Criterios de rebobinado]]
 - [Kida - Creative Thinker](https://cards.lorcast.io/card/digital/large/crd_19e9e680d0d044d6a5fa0d39b5ab3206.avif?1740589756): la habilidad determina las dos zonas de destino.
 
 ---

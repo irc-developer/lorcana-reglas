@@ -20,12 +20,12 @@ Si no era tu última carta en mano, Angel no gana ese Resist +2 y recibirá el d
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md|6.4.1 y 6.4.2.3. Las habilidades estáticas de cartas en juego se aplican continuamente mientras la fuente siga en juego]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md|6.1.15 y 6.1.16. Los efectos dependientes de una condición se comprueban con el estado actual del juego]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md|6.7.1.2. Las acciones se juegan y se resuelven inmediatamente antes de ir al descarte]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md|6.1.2. Las frases de una acción se resuelven en el orden escrito dentro de una única resolución]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md|6.7.2.2 y 6.7.2.3. El daño se calcula con sus modificadores y luego se siguen las instrucciones del texto]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist).md|8.8.1 y 8.8.2. Resist reduce el daño; si queda en 0, el personaje no lo recibe, aunque la fuente sigue considerándose que lo inflige]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1 y 6.4.2.3. Las habilidades estáticas de cartas en juego se aplican continuamente mientras la fuente siga en juego]]
+- [[6.1. General (General)|6.1.15 y 6.1.16. Los efectos dependientes de una condición se comprueban con el estado actual del juego]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2. Las acciones se juegan y se resuelven inmediatamente antes de ir al descarte]]
+- [[6.1. General (General)|6.1.2. Las frases de una acción se resuelven en el orden escrito dentro de una única resolución]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.2 y 6.7.2.3. El daño se calcula con sus modificadores y luego se siguen las instrucciones del texto]]
+- [[8.8. Resistir (Resist)|8.8.1 y 8.8.2. Resist reduce el daño; si queda en 0, el personaje no lo recibe, aunque la fuente sigue considerándose que lo inflige]]
 
 ---
 

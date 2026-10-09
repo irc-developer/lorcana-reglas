@@ -15,11 +15,11 @@ Una impresión extranjera o con una errata no es automáticamente una carta marc
 ## 📘 Referencias
 
 - [Stitch - Carefree Surfer](https://cards.lorcast.io/card/digital/large/crd_78e5de38150f48c5b9813c08cc534dfb.avif?1709690747): la carta de la primera edición tiene 2 de lore.
-- [[01. Reglas/1. Principios generales/1.1. General#1.1.4. Idiomas|1.1.4. Idiomas]]: la versión inglesa es la referencia oficial para cartas, reglas y decisiones.
-- [[03. Reglas de Torneo/5 Información y comunicación/5.4 Información en el Juego (In-Game Information)|5.4. Información en el juego]]: los jugadores deben comunicar correctamente el estado de la partida.
-- [[03. Reglas de Torneo/5 Información y comunicación/5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones de cartas]]: las referencias a cartas deben permitir identificarlas correctamente.
-- [[04. Guia de correccion de jugadas/03. Errores de torneo/3.6 Error de comunicación e información (Information and communication error).md|3.6. Error de comunicación e información]] y [[04. Guia de correccion de jugadas/03. Errores de torneo/3.7 Cartas marcadas (marked cards).md|3.7. Cartas marcadas]].
-- [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules]], reglas 5.4 y 5.6.
+- [[1.1. General|1.1.4. Idiomas]]: la versión inglesa es la referencia oficial para cartas, reglas y decisiones.
+- [[5.4 Información en el Juego (In-Game Information)|5.4. Información en el juego]]: los jugadores deben comunicar correctamente el estado de la partida.
+- [[5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones de cartas]]: las referencias a cartas deben permitir identificarlas correctamente.
+- [[3.6 Error de comunicación e información (Information and communication error)|3.6. Error de comunicación e información]] y [[3.7 Cartas marcadas (marked cards)|3.7. Cartas marcadas]].
+- [Tournament Rules](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), reglas 5.4 y 5.6.
 
 ---
 

@@ -33,20 +33,20 @@ Aunque el ataque fuera a hacer **1** daño o **5** daños, el resultado es el mi
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de Reemplazo]]: si varias instancias del mismo efecto de reemplazo pueden aplicarse al mismo evento, el jugador afectado elige **una** y las demás **dejan de existir**.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5.8. Mismo efecto de reemplazo]]: incluye un ejemplo oficial precisamente con **Rapunzel - Ready for Adventure**.
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de Reemplazo]]: si varias instancias del mismo efecto de reemplazo pueden aplicarse al mismo evento, el jugador afectado elige **una** y las demás **dejan de existir**.
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.8. Mismo efecto de reemplazo]]: incluye un ejemplo oficial precisamente con **Rapunzel - Ready for Adventure**.
 - [Rapunzel - Ready for Adventure](https://cards.lorcast.io/card/digital/large/crd_70ae5f21fa1347b49ee910683e34d90e.avif?1761751909): **Act of Kindness** crea un efecto temporal de “la próxima vez que fuera a recibir daño, en su lugar no recibe daño”.
 
 ---
 
 ## 🔗 Véase también
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos)|Aplicación de múltiples efectos de reemplazo (Escudos)]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist|Escudos (replacement) vs Resist]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0|Rapunzel conserva su protección si Resist reduce el daño a 0]]
+- [[Aplicación de múltiples efectos de reemplazo (Escudos)]]
+- [[Escudos (replacement) vs Resist]]
+- [[Rapunzel conserva su protección si Resist reduce el daño a 0]]
 
 ---
 
 ## 🏷️ Tags
 
-#rapunzel #support #replacement-effect #escudos #damage #challenge #multiple-replacements
+#support #replacement-effect #damage #challenge

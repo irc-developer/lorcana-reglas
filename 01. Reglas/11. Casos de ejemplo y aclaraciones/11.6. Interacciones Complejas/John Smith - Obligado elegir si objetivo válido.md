@@ -9,7 +9,7 @@
 Sí. Si un efecto requiere elegir un personaje sin restricciones explícitas de propiedad (sin especificar "tu personaje" o "personaje del oponente") y John Smith es una opción legal, **la restricción "Do your worst" obliga al oponente a elegirlo**.
 
 La restricción se aplica porque:
-- El texto "Do your worst" contiene un implícito "if able" que funciona como una habilidad estática de restricción de elección
+- El texto "Do your worst" contiene el texto explícito "if able" que funciona como una habilidad estática de restricción de elección
 - Cuando existe al menos UNA opción legal que cumple el criterio de "este personaje", la restricción obliga
 - El oponente no puede ignorar la restricción aunque prefiera elegir otro personaje
 
@@ -28,12 +28,12 @@ Las habilidades estáticas pueden crear restricciones sobre qué objetivos se pu
 El documento oficial define Bodyguard así:
 _"If an opponent would choose one of your characters to challenge, they must choose this character or another character with Bodyguard if able."_
 
-"Do your worst" funciona de manera idéntica para **cualquier tipo de elección**, no solo para desafíos. Si surge una oportunidad de elegir cualquier personaje y John Smith es legal, debe elegirse.
+"Do your worst" funciona de manera idéntica para elecciones de **acciones y habilidades**, según su texto; no obliga a desafiarlo. Si surge una oportunidad de elegir cualquier personaje y John Smith es legal, debe elegirse.
 
 **Base normativa:**
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md|6.4. Habilidades estáticas y restricciones]]
-- [[01. Reglas/1. Principios generales/1.3. Jugadores (Players).md#Concepto de "if able" (si es posible)|Concepto de "if able"]]
-- Analogía en Keywords: [[01.1.a Official English Reference – Unmodified/8. Keywords.md#Bodyguard|Bodyguard: must choose this character if able]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas y restricciones]]
+- [[1.3. Jugadores (Players)|Concepto de "if able"]]
+- Analogía en Keywords: [Bodyguard: must choose this character if able](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf)
 
 ---
 
@@ -41,7 +41,7 @@ _"If an opponent would choose one of your characters to challenge, they must cho
 
 1. **Efecto que requiere elección**: Se activa un efecto que dice "elige un personaje" (sin restricciones de propiedad explícitas).
 2. **Opciones legales**: Se evalúan todos los personajes disponibles en juego. John Smith es una opción legal.
-3. **Restricción evaluada**: "Do your worst" evalúa si John Smith puede ser elegido. Es legal → **Debe be incluido en la selección**.
+3. **Restricción evaluada**: "Do your worst" evalúa si John Smith puede ser elegido. Es legal → **Debe ser incluido en la selección**.
 4. **Objeción**: El oponente no puede elegir otro personaje si intenta evitar a John Smith (salvo que John Smith no sea legal por otra razón).
 5. **Resolución**: El efecto se resuelve con John Smith como parte de la selección obligatoria.
 
@@ -63,10 +63,10 @@ Este caso no cambia la regla básica de este artículo: si solo hubiera un John 
 
 - [Red Alert](https://cards.lorcast.io/card/digital/large/crd_b774661e34864407ad0f264bb2332333.avif?1783189090) comprueba la Fuerza del personaje elegido, no exige que haya un único John Smith.
 - [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) crea una restricción de elección para cada copia por separado.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md|No tener objetivo legal]]: una carta no se queda sin objetivo mientras exista una elección legal.
+- [[No tener objetivo legal vs elegir un objetivo inválido|No tener objetivo legal]]: una carta no se queda sin objetivo mientras exista una elección legal.
 
 ---
 
 ## 🏷️ Tags
 
-#static-ability #restriction #must-choose #do-your-worst #choosing #john-smith #red-alert
+#static-ability #restriction

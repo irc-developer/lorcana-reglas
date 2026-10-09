@@ -18,10 +18,10 @@ La misma distinción explica FOCUSED ENERGY de Merida: si eliges usarla, Merida 
 
 - [Stitch - Rock Star](https://cards.lorcast.io/card/digital/large/crd_c32945ecfd3d44859d3af3841977a737.avif?1709690747): Adoring Fans permite agotar el personaje que acabas de jugar.
 - [Merida - Wisp Conjurer](https://cards.lorcast.io/card/digital/large/crd_19d100267c654ec9af67ccb264c3bcbe.avif?1783190707): BECKON se dispara cuando otro personaje propio entra en juego agotado y FOCUSED ENERGY permite que Merida entre agotada.
-- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift).md|8.10. Shift]]: al hacer Shift sobre una carta agotada, el personaje resultante entra agotado.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.9. Cómo entran las cartas en juego|6.7.9. Cómo entran las cartas en juego]]: los efectos que modifican la entrada se aplican mientras la carta entra.
-- [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Attack of the Vine Set Release Notes]], aclaración oficial de Merida - Wisp Conjurer: la elección de entrar agotada se realiza al ponerla en juego.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.7.9, 8.10.2 y 8.10.3.
+- [[8.10. Cambio (Shift)|8.10. Shift]]: al hacer Shift sobre una carta agotada, el personaje resultante entra agotado.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.9. Cómo entran las cartas en juego]]: los efectos que modifican la entrada se aplican mientras la carta entra.
+- [Attack of the Vine Set Release Notes](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), aclaración oficial de Merida - Wisp Conjurer: la elección de entrar agotada se realiza al ponerla en juego.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.7.9, 8.10.2 y 8.10.3.
 
 ---
 

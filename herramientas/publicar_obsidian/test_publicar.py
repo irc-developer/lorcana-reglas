@@ -116,6 +116,19 @@ class PublicacionTests(unittest.TestCase):
             with self.subTest(archivos=archivos), self.assertRaises(p.PublicacionError):
                 p.preparar(self.root, "HEAD", archivos)
 
+    def test_recursos_e_introduccion_solo_en_perfil_reglas(self):
+        nombres = ["00. Introducción/Guía.md", "09. Recursos/Diagrama.svg", "09. Recursos/Diagrama.png", "04. Guia de correccion de jugadas/Referencia.md"]
+        for n in nombres:
+            self.escribir(n, "Contenido de prueba")
+        self.escribir("09. Recursos/privado.html", "No permitido")
+        self.commit()
+        self.assertEqual(p.preparar(self.root, "HEAD", nombres, "reglas")["archivos"], nombres)
+        for n in nombres + ["09. Recursos/privado.html"]:
+            with self.subTest(n=n), self.assertRaises(p.PublicacionError):
+                p.preparar(self.root, "HEAD", [n])
+        with self.assertRaises(p.PublicacionError):
+            p.preparar(self.root, "HEAD", ["09. Recursos/privado.html"], "reglas")
+
     def test_entrada_breve_de_cartas_permitida_y_fichas_excluidas(self):
         entrada = "02. Listado de Cartas/Cartas de Lorcana.md"
         ficha = "02. Listado de Cartas/Set 1 - The First Chapter.md"

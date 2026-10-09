@@ -16,9 +16,9 @@ El Top Cut sí es obligatorio en torneos Competitive y Premier Play según 3.2.
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.2 Mínimo de Rondas (Round Minimums)|3.2. Mínimo de rondas]]: exige al menos 3 rondas y aconseja 7 rondas y Top 8 para 65–128 jugadores.
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]]: advierte que eventos como Set Championships pueden tener requisitos adicionales.
-- [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules, documento efectivo 06/11/2026]], reglas 3.2 y 3.3.
+- [[3.2 Mínimo de Rondas (Round Minimums)|3.2. Mínimo de rondas]]: exige al menos 3 rondas y aconseja 7 rondas y Top 8 para 65–128 jugadores.
+- [[3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]]: advierte que eventos como Set Championships pueden tener requisitos adicionales.
+- [Tournament Rules, documento efectivo 14/07/2026](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), reglas 3.2 y 3.3.
 
 ---
 
@@ -35,7 +35,7 @@ El Top Cut sí es obligatorio en torneos Competitive y Premier Play según 3.2.
 
 Con 18 jugadores, la tabla de Set Championship asigna **5 rondas suizas y Top 8**. El cálculo de qué jugadores quedarían fuera de un Top 4 puede servir para explicar las consecuencias matemáticas, pero no autoriza sustituir la tabla por cuatro rondas y Top 4. Cualquier estructura distinta requiere autorización y debe anunciarse antes del evento.
 
-Fundamento: sección 3.1–3.2 de [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules 6.11]].
+Fundamento: sección 3.1–3.2 de [Tournament Rules 7.14](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
 ---
 

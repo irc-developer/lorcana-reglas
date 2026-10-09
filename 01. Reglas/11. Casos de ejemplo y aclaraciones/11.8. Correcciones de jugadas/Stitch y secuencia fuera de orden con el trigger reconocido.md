@@ -12,8 +12,8 @@ Sí. Angela reconoció el trigger de Stitch en el momento correcto y todos los j
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing).md|Out-of-Order Sequencing]]
-- [[04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md|Missed Trigger]]
+- [[3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)|Out-of-Order Sequencing]]
+- [[2.1 Efecto disparado perdido (Missed Trigger)|Missed Trigger]]
 - [Stitch - Carefree Snowboarder](https://cards.lorcast.io/card/digital/large/crd_26dc8e8705a240689f8af906cb3c600a.avif?1770259228)
 
 ---

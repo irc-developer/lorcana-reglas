@@ -12,8 +12,8 @@ Es un Card Count Error en un torneo Competitive y corresponde una Warning. Prime
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.4 Procedimiento de Partida (Match Procedure).md|Una sola alteración de la mano inicial]]
-- [[04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md|Card Count Error]]
+- [[3.4 Procedimiento de Partida (Match Procedure)|Una sola alteración de la mano inicial]]
+- [[2.3 Error en el conteo de cartas (Card Count Error)|Card Count Error]]
 
 ---
 

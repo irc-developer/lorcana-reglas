@@ -12,6 +12,14 @@ La obligación significa que el jugador rival no puede terminar su turno sin env
 
 ---
 
+### Errata de Hyperia City, desde el 16/10/2026
+
+Woody es una de las cinco cartas actualizadas para conceder **Adventurous**, conservando la condición y duración de MOVE ALONG. El resultado de esta duda se mantiene: el personaje no puede desafiar y no puedes terminar el turno mientras pueda irse de aventura, pero puede cantar o pagar costes de agotamiento antes.
+
+[CR 2.3, 8.16.2–8.16.4, p.44](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=44) y [notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), «New Keyword: Adventurous». Las notas identifican la errata sin suministrar una reimpresión completa de MOVE ALONG.
+
+---
+
 ## 📘 Referencias
 
 - [[4.1. General|4.1. Acciones de turno]] regula qué acciones puede tomar el jugador activo y cuándo puede finalizar su turno.

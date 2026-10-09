@@ -7,17 +7,17 @@ Si una habilidad disparada impone “ese personaje no se endereza en tu próximo
 ## ✅ Respuesta
 
 Sí.  
-Esa restricción solo afecta al paso de preparado de tu siguiente turno. Si el personaje no se agota después, seguirá preparado durante el resto del turno actual y también durante el turno del oponente.
+La restricción no agota al personaje ni cambia su estado actual. Su alcance depende del texto: «at the start of» se limita a ese momento, mientras «during your next turn» puede impedir prepararlo durante todo ese turno; no debe resumirse siempre como solo el paso Ready. Si el personaje no se agota después, seguirá preparado durante el resto del turno actual y también durante el turno del oponente.
 
 ---
 
 ## 📘 Referencias
 
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1. Preparado (Ready)|3.2.1. Preparado (Ready)]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Habilidades disparadas]]
+- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1. Preparado (Ready)]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Habilidades disparadas]]
 
 ---
 
 ## 🏷️ Tags
 
-#preparado #restricciones #triggered-abilities
+#ready #restriction #triggered-ability

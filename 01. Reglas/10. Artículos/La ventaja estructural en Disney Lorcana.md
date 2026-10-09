@@ -1,3 +1,6 @@
+> [!NOTE] Alcance del análisis
+> El modelo simplificado de este artículo presupone robos y jugadas desde la mano, sin otros efectos de generación de recursos. Desde Hyperia City (16/10/2026), las gotas también pueden generarse por efectos y utilizarse para pagar tinta sin consumir una carta de la mano. La mano no es la única fuente posible de pagos. Véase [[1.13. Contadores (Counters)]].
+
 ### Cuando el descarte deja de ser un coste y la mano deja de ser el único futuro
 
 ## Introducción

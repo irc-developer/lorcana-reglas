@@ -28,11 +28,11 @@ La consecuencia práctica es esta:
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.7. Último valor conocido|6.7.7. Último valor conocido]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego|6.4.2.3. Fin inmediato del efecto al salir del juego]]
-- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Los triggers creados durante una resolución esperan a que el efecto actual termine]]
-- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)#1.8.3. Evaluación cíclica|1.8.3. La bolsa se resuelve después de completar las comprobaciones y resoluciones en curso]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.7. Último valor conocido]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3. Fin inmediato del efecto al salir del juego]]
+- [[7.4. Juego (Play)|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers creados durante una resolución esperan a que el efecto actual termine]]
+- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.3. La bolsa se resuelve después de completar las comprobaciones y resoluciones en curso]]
 
 ---
 
@@ -51,4 +51,4 @@ La consecuencia práctica es esta:
 
 ## 🏷️ Tags
 
-#headlesshorseman #wreckitralph #last-known-value #bag #triggered-abilities #static-abilities #strength #banish #resolution-order
+#bag #triggered-ability #static-ability #strength-modifier #banish #resolution

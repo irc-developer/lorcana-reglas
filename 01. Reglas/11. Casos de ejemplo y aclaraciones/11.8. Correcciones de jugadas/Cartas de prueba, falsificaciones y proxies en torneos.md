@@ -48,12 +48,12 @@ La penalización final depende de los hechos, del momento en que se descubre el 
 
 ## 📘 Referencias
 
-- [[20. Reglas CR 1.X/2. Antes de comenzar/2. Antes de comenzar.md#Construcción legal del mazo|Construcción legal del mazo]]: las cartas de prueba, proxies y sustitutos no oficiales no están permitidos en eventos sancionados.
-- [[04. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md|Error de mazo-registro menor]].
-- [[04. Guia de correccion de jugadas/03. Errores de torneo/3.4 Error de mazo-registro mayor (Deck-Registration Error major).md|Error de mazo-registro mayor]].
-- [[04. Guia de correccion de jugadas/04. Conducta antideportiva/4.4 Trampas (Cheating).md|Cheating]].
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Investigar la intención en una discrepancia entre mazo y lista.md|Investigar la intención en una discrepancia entre mazo y lista]].
-- [[05. Consejos de jueces/10. Errores de Registro - Guía rápida para jueces.md|Guía rápida de errores de registro]], apartado de Ink Card Proxy.
+- [[3.11 Accesorios Aprobados (Approved Accessories)|TR 3.11: cartas oficialmente autorizadas]].
+- [[3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|Error de mazo-registro menor]].
+- [[3.4 Error de mazo-registro mayor (Deck-Registration Error major)|Error de mazo-registro mayor]].
+- [[4.4 Trampas (Cheating)|Cheating]].
+- [[Investigar la intención en una discrepancia entre mazo y lista]].
+- [[10. Errores de Registro - Guía rápida para jueces|Guía rápida de errores de registro]], apartado de Ink Card Proxy.
 
 ---
 
@@ -75,4 +75,4 @@ Si la corrección exige cambiar la decklist o deja el mazo ilegal, se aplica el 
 
 ## 🏷️ Tags
 
-#proxies #test-cards #counterfeit #ink-card-proxy #deck-check #deck-registration-error #cheating #tournament
+#proxies #deck-construction #tournament-rules

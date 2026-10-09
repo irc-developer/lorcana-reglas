@@ -16,11 +16,11 @@ Si el match aún no tiene resultado —por ejemplo, sigue en curso una partida d
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure)|Tournament Rules 3.3 — en Bo3, gana el match quien gana dos partidas]].
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions)|Tournament Rules 3.6 — solo se puede conceder una partida o match incompleto]].
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.4 Procedimiento de Partida (Match Procedure)|Tournament Rules 3.4 — verificar y reportar correctamente el resultado final]].
-- [[01. Reglas/1. Principios generales/1.1. General|CR 1.1.3 — las reglas de torneo pueden añadir o modificar las reglas generales]].
-- [[01. Reglas/2. Juego (Gameplay)/2.3. Etapa de juego (In-Game Stage)|CR 2.3.3.4 — regla general de concesión, incluida Cleanup; en torneo se aplica junto con las restricciones de Tournament Rules]].
+- [[3.3 Estructura de Partida (Match Structure)|Tournament Rules 3.3 — en Bo3, gana el match quien gana dos partidas]].
+- [[3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions)|Tournament Rules 3.6 — solo se puede conceder una partida o match incompleto]].
+- [[3.4 Procedimiento de Partida (Match Procedure)|Tournament Rules 3.4 — verificar y reportar correctamente el resultado final]].
+- [[1.1. General|CR 1.1.3 — las reglas de torneo pueden añadir o modificar las reglas generales]].
+- [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3.4 — regla general de concesión, incluida Cleanup; en torneo se aplica junto con las restricciones de Tournament Rules]].
 
 Fuentes oficiales vigentes: [Comprehensive Rules 2.2.0 (09/07/2026)](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
@@ -28,4 +28,4 @@ Fuentes oficiales vigentes: [Comprehensive Rules 2.2.0 (09/07/2026)](https://fil
 
 ## 🏷️ Tags
 
-#tournament-rules #concession #match-result #top-cut #cleanup
+#tournament-rules #timing

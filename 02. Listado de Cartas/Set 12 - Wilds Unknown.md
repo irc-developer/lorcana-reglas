@@ -232,6 +232,12 @@ And now we're Illuminary bound"
 
 **Flavor text:** "Isn't it wonderful? See if there's anything that catches your eye."
 
+<!-- ERRATA-ACTIVA-DESDE: 2026-10-16 -->
+**Actualización oficial de Hyperia City:** esta carta pasa a usar Adventurous en su efecto de impedir desafiar y exigir aventura si puede. La fuente enumera la carta afectada, pero no publica aquí una transcripción completa de su nueva habilidad. El texto impreso anterior se conserva arriba como histórico a partir de esa fecha; las condiciones y la duración deben contrastarse con el original de la carta y la actualización oficial.
+
+**Procedencia:** [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), publicadas el 08/10/2026; aplicación con CR 2.3 desde el 16/10/2026.
+<!-- FIN-ERRATA -->
+
 ---
 
 ## Isabela Madrigal - Caring Cultivator
@@ -369,6 +375,12 @@ And now we're Illuminary bound"
 **Habilidades:**
 - (A character with cost 3 or more can {E} to sing this song for free.)
 - Chosen opposing character can't challenge and must quest during their next turn if able. Draw a card.
+
+<!-- ERRATA-ACTIVA-DESDE: 2026-10-16 -->
+**Actualización oficial de Hyperia City:** esta carta pasa a usar Adventurous en su efecto de impedir desafiar y exigir aventura si puede. La fuente enumera la carta afectada, pero no publica aquí una transcripción completa de su nueva habilidad. El texto impreso anterior se conserva arriba como histórico a partir de esa fecha; las condiciones y la duración deben contrastarse con el original de la carta y la actualización oficial.
+
+**Procedencia:** [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), publicadas el 08/10/2026; aplicación con CR 2.3 desde el 16/10/2026.
+<!-- FIN-ERRATA -->
 
 ---
 
@@ -752,7 +764,7 @@ AH-CHOO!"
 
 **Habilidades:**
 - Shift 3 {I} (You may pay 3 {I} to play this on top of one of your characters named Luisa Madrigal.)
-- I CAN TAKE IT 1 {E} - Move up to 1 damage from chosen character of yours to this character. Then, if this character has 3 or more damage, move all damage from this character to chosen opposing character.
+- I CAN TAKE IT 1 {I} - Move up to 1 damage from chosen character of yours to this character. Then, if this character has 3 or more damage, move all damage from this character to chosen opposing character.
 
 ---
 

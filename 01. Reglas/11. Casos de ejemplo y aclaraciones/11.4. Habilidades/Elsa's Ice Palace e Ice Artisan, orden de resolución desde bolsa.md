@@ -1,6 +1,6 @@
 ## ❓ Duda
 
-Si juego simultáneamente [Elsa - Ice Artisan](https://cards.lorcast.io/card/digital/large/crd_e9a1997821d647d5b13378a801921bf6.avif?1770259752) y [Elsa's Ice Palace](https://cards.lorcast.io/card/digital/large/crd_aaae8eab8f604635883282a61d3376ff.avif?1723917209), ambas habilidades se añaden a la bolsa al mismo tiempo. Mi oponente no tiene personajes agotados en juego.
+Si ya controlo [Elsa - Ice Artisan](https://cards.lorcast.io/card/digital/large/crd_e9a1997821d647d5b13378a801921bf6.avif?1770259752) y juego [Elsa's Ice Palace](https://cards.lorcast.io/card/digital/large/crd_aaae8eab8f604635883282a61d3376ff.avif?1723917209), ambas habilidades se añaden a la bolsa al mismo tiempo. Mi oponente no tiene personajes agotados en juego.
 
 ¿Puedo elegir el orden de resolución tal que:
 1. Primero resuelvo **ENDLESS WINTER** (Elsa - Ice Artisan) para agotar un personaje contrario con 3 Fuerza o menos
@@ -29,14 +29,14 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 - En [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]: "Si varias habilidades disparadas ocurren al mismo tiempo, **se añaden a la bolsa simultáneamente**."
 - En [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]: "Si alguna de esas habilidades disparadas pertenece al jugador activo, **este elige una de sus habilidades disparadas y la resuelve por completo**."
 - En [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]: "El jugador realiza las instrucciones del texto del efecto que se está resolviendo y **toma las elecciones requeridas por el efecto que no se hayan hecho en el paso anterior**."
-- **Distinción crítica**: Los objetivos se eligen durante la resolución (paso 4 de 6.7.2), no cuando la habilidad entra a la bolsa (7.7.3.1)
+- **Distinción crítica**: Los objetivos se eligen durante la resolución (paso correspondiente de 6.7.2), no cuando la habilidad entra a la bolsa (7.7.3.1)
 
 ---
 
 ## 🔄 Cómo se resuelve
 
-1. **Juego simultáneo**: Se juegan Elsa - Ice Artisan y Elsa's Ice Palace en el mismo turno
-2. **Ambas entran en juego**: Ambas cartas entran en la zona de Juego
+1. **Estado inicial**: Elsa - Ice Artisan ya está en juego; juegas Elsa's Ice Palace.
+2. **Entrada**: la localización entra en juego y se generan su disparo propio y el de Elsa por jugar una localización.
 3. **Condiciones se cumplen**: Ambas habilidades disparadas cumplen sus condiciones de disparo
 4. **Se añaden simultáneamente a la bolsa**: 
    - ENDLESS WINTER (Ice Artisan)
@@ -60,4 +60,4 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 
 ## 🏷️ Tags
 
-#bag #triggered-ability #target-timing #resolution-order #choosing-targets #simultaneous-abilities
+#bag #triggered-ability #restriction #resolution

@@ -45,3 +45,11 @@ Este material está separado de las Comprehensive Rules y de las Tournament Rule
 - [Evergreen Collection Quest Organizer Instructions](https://files.disneylorcana.com/Evergreen%20Collection%20Quest%20Organizer%20Instructions.pdf): procedimiento general para organizar esta actividad. Explicación en [[10. Comunidad y actividades/Collection Quest|Collection Quest]].
 
 Ambos enlaces apuntan a documentos publicados por Ravensburger. Esta carpeta no contiene copias locales de esos dos PDF.
+
+## Políticas y aclaraciones incorporadas el 09/10/2026
+
+- [Tournament Rules, efectivas el 14/07/2026](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf): original local de 29 páginas; sustituye para consultas la copia del 11/06, conservada como histórico.
+- [Play Correction Guidelines, efectivas el 21/05/2024](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): original local de 15 páginas.
+- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes): HTML original y transcripción inglesa identificada por hash; publicadas el 08/10, aplicación desde el 16/10. La transcripción conserva 26 preguntas y respuestas, las erratas y el alcance de cada aclaración.
+
+El MCP mantiene el texto impreso de las cartas y distingue su texto operativo según la fecha. Para las cinco erratas de Adventurous, las notas describen la modificación sin ofrecer toda la nueva redacción: se conserva esa limitación y no se inventa un texto completo.

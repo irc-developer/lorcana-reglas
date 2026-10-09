@@ -29,7 +29,7 @@ Coconut permite hasta tres tipos de tinta y utiliza las reglas normales de multi
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2, 6.7.4, 6.7.5 y 6.7.6. Resolución de acciones, bolsa, GSC y orden entre jugadores]].
 - [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
 
-**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 3, 25–26, 32 y 36–37; [[Documentacion Oficial/FormatCoconut_Rules.pdf|Rules for [Format Coconut] Beta]], p. 1.
+**Fuente primaria:** [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 3, 25–26, 32 y 36–37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
 
 ---
 
@@ -52,7 +52,7 @@ Coconut permite hasta tres tipos de tinta y utiliza las reglas normales de multi
 
 **Ejemplo didáctico:** A juega Sign the Scroll contra B y C. B controla a Kronk y no descarta; C sí descarta una carta. A gana 2 lore. Si C tampoco descarta, A gana 4 lore. La mano de B permanece intacta en ambos casos.
 
-Para el requisito de descartar antes de hacer daño con Angel, consulta [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md|Descartar como requisito para resolver una habilidad]].
+Para el requisito de descartar antes de hacer daño con Angel, consulta [[Descartar como requisito para resolver una habilidad]].
 
 ---
 

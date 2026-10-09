@@ -1,3 +1,8 @@
+<!-- CR-ACTIVA-DESDE: 2026-10-16 -->
+
+> [!IMPORTANT] CR 2.3 e Hyperia City
+> Esta explicación aplica desde el **16 de octubre de 2026**. Hasta entonces sigue vigente [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+
 ## ❓ Duda
 
 Al resolver **BIG HIT** de [Héctor Rivera - Worldwide Sensation](https://cards.lorcast.io/card/digital/large/crd_e0931f5fb3664ed59dc5c600e2e27845.avif?1790886751), encuentro [The Torn Corner](https://cards.lorcast.io/card/digital/large/crd_0b048cf918de403395b66aee622617bf.avif?1790886810) entre las tres cartas superiores del mazo y la pongo en el descarte. ¿Se dispara **MEND THE PHOTO** aunque haya mirado las cartas antes? ¿Cuándo necesito tener [Rivera Family Photo](https://cards.lorcast.io/card/digital/large/crd_d773386dd25d4f089461183e48acf069.avif?1790886807) en juego?

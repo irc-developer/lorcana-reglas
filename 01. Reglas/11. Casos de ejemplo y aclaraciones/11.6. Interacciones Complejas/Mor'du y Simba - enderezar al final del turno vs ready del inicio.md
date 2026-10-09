@@ -28,12 +28,12 @@ En otras palabras: esta interacción depende del jugador al que apunta cada "you
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)#1.4.3.1. Uso del You|1.4.3.1. "You" y "your" se refieren al jugador que jugó la carta o generó el efecto]]
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1. Preparado (Ready)|3.2.1. El enderezado normal ocurre en Ready, al inicio del turno]]
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.4. Fase final de turno (End-of-Phase)#3.4.1.1. Habilidades de final de turno|3.4.1.1. Las habilidades "At the end of your turn" se añaden a la bolsa y se resuelven al final del turno]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4. Las habilidades estáticas pueden modificar reglas del juego y el estado del juego]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Las habilidades disparadas ocurren cuando sucede su condición]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Los efectos de reemplazo sustituyen un evento por otro modificado]]
+- [[1.4 Cartas (Cards)|1.4.3.1. "You" y "your" se refieren al jugador que jugó la carta o generó el efecto]]
+- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1. El enderezado normal ocurre en Ready, al inicio del turno]]
+- [[3.4. Fase final de turno (End-of-Phase)|3.4.1.1. Las habilidades "At the end of your turn" se añaden a la bolsa y se resuelven al final del turno]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Las habilidades estáticas pueden modificar reglas del juego y el estado del juego]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Las habilidades disparadas ocurren cuando sucede su condición]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Los efectos de reemplazo sustituyen un evento por otro modificado]]
 
 La lectura correcta separa dos eventos de juego distintos:
 
@@ -73,4 +73,4 @@ Resultado:
 
 ## 🏷️ Tags
 
-#mordu #simba #pride-protector #rooted-by-fear #ready #end-of-turn #your #ownership #control #interaccion-compleja
+#ready #end-of-turn #interactions

@@ -18,19 +18,19 @@ La regla general es que cada jugador toma las decisiones necesarias sobre sus pr
 
 Si el personaje elegido tiene tres cartas boca abajo debajo, su controlador puede decidir cuál de esas tres queda inmediatamente encima del personaje y ordenar las otras dos como prefiera. El personaje elegido queda debajo de las tres, en el fondo del mazo. Nadie puede identificar las cartas de Boost mientras se hace este movimiento.
 
-Esto es distinto de [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo|Under the Sea y reordenación de pilas al mazo]]: ese efecto permite ordenar todas las cartas afectadas entre sí porque dice expresamente «en cualquier orden».
+Esto es distinto de [[Under the Sea y reordenación de pilas al mazo]]: ese efecto permite ordenar todas las cartas afectadas entre sí porque dice expresamente «en cualquier orden».
 
 ---
 
 ## 📘 Referencias
 
 - [Hades - Looking for a Deal](https://cards.lorcast.io/card/digital/large/crd_d4514592d27b40cca5821f510aea2db2.avif?1761752189): el jugador del personaje elegido puede poner esa carta en la parte inferior de su mazo.
-- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|1.4.3. El jugador decide sobre sus cartas y las manipula físicamente]]
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo]]: las cartas boca abajo debajo de otra no pueden mirarse, ni siquiera por su propietario.
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila]]: cuando la carta superior abandona el juego, todas las cartas de la pila pasan a la misma zona.
-- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)#7.2.2. Características|7.2.2. El mazo es una zona privada y sus cartas permanecen boca abajo]]
-- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)#7.2.3.1. Abandonar una zona para ir al mazo|7.2.3.1. Cartas de pilas que se añaden al mazo en cualquier orden]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost)#8.4.2. Restricción|8.4.2. Boost no permite mirar la carta puesta debajo]]
+- [[1.4 Cartas (Cards)|1.4.3. El jugador decide sobre sus cartas y las manipula físicamente]]
+- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo]]: las cartas boca abajo debajo de otra no pueden mirarse, ni siquiera por su propietario.
+- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila]]: cuando la carta superior abandona el juego, todas las cartas de la pila pasan a la misma zona.
+- [[7.2. Mazo (Deck)|7.2.2. El mazo es una zona privada y sus cartas permanecen boca abajo]]
+- [[7.2. Mazo (Deck)|7.2.3.1. Cartas de pilas que se añaden al mazo en cualquier orden]]
+- [[8.4. Impulso (boost)|8.4.2. Boost no permite mirar la carta puesta debajo]]
 
 ---
 
@@ -47,4 +47,4 @@ Esto es distinto de [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas
 
 ## 🏷️ Tags
 
-#hades-looking-for-a-deal #boost #stack #under #deck #facedown #hidden-information #order #zones #cr-2-2
+#boost #under #deck #scope

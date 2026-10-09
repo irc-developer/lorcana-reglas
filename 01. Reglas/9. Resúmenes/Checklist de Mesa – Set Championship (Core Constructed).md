@@ -7,15 +7,15 @@
     Pozo de tinta separado, cartas giradas igual.
 - ⏰ **Puntualidad obligatoria:** 
     llegar hasta **2 min tarde = advertencia**,  
-    llegar **3–5 min tarde = _game loss_**,  
-    llegar **más de 10 min tarde = _match loss_.**
+    llegar **3–9 min tarde = _game loss_**,  
+    llegar **10 min o más tarde = _match loss_ y retirada del torneo. El Lead Lore Guide puede reinscribir al jugador si aparece antes de acabar la ronda.**
 ---
 ## ⚔️ Durante la partida
-- 📣 Anuncia tus **acciones y totales de lore**. 
+- 📣 Anuncia ganancias y pérdidas de lore con el nuevo total; mantén claros los estados y efectos obligatorios. 
 - 💧 Al añadir al **pozo de tinta**, di el nombre y enseña el símbolo.    
 - 🎯 **No uses dados** sobre cartas en mano o mazo.    
-- 🧠 Nada de notas, grabaciones ni recordatorios externos.    
-- 📱 Móvil solo a la vista y para la app oficial.    
+- 🧠 Solo puedes anotar totales de lore; no consultes notas externas ni registres otra información.    
+- 📱 Dispositivos siempre a la vista de ambos jugadores; se permiten la app para lore y la base de datos de cartas.    
 - 🚨 Si hay duda o error, **detén el juego y llama al juez.**
 ---
 ## ✅ Al terminar
@@ -24,3 +24,5 @@
 - 🧹 **Deja la mesa lista** para la siguiente ronda.    
 - 🤝 Respeta al rival y al personal del torneo.   
 ---
+
+Referencias: [TR 5](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf#page=23) y [PCG 3.1](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf#page=8).

@@ -13,11 +13,11 @@ Esto es aplicable también a:
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Resolución]]
+- [[7.7. Bolsa (Bag)|7.7.4. Orden]]
 
 ---
 
 ## 🏷️ Tags
 
-#clause #target-reference #exert #resolution #choosen-character
+#resolution #exert

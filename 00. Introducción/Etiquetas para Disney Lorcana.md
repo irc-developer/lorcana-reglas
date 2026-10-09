@@ -1,181 +1,123 @@
-## 🔖 Reglas Generales y Conceptos Básicos 
-- #ability-modifiers — Modificadores que alteran habilidades de cartas.
-- #ability-types — Tipos de habilidades que pueden tener las cartas.  
-- #action — Contenido de las cartas del tipo.  
-- #action-card — Carta de tipo acción.
-- #activate — Acción de turno de activar una habilidad.  
-- #activated-ability — Habilidad que requiere activación explícita para funcionar.
-- #alternative-cost — Coste alternativo para jugar una carta o habilidad.
-- #bag — Lugar en el que acaban las habilidades disparadas.
-- #banish — mover una carta de la zona de juego a la zona de descarte.
-- #beginning-phase — Fase inicial del turno.
-- #bodyguard — Palabra clave. Efecto de reemplazo.
-- #card — Elemento básico del juego; cartas que se usan en partidas.
-- #card-interaction — Interacción o efecto entre cartas en juego.
-- #card-part — Parte o componente específico de una carta.
-- #challenge — Acción o fase donde se reta a otra carta o jugador.
-- #challenged-character — Personaje que está siendo retado en un desafío.
-- #challenger — Palabra clave. Efecto de reemplazo.
-- #challenger-character — Personaje o jugador que inicia el desafío.
-- #character — Carta que representa a un personaje dentro del juego.
-- #clause — Condición o cláusula que regula efectos o acciones.
-- #concession — Rendición o abandono voluntario de la partida.
-- #condition — Estado o requisito para activar efectos o acciones.
-- #cost — Recurso o penalización que hay que pagar para jugar una carta o habilidad.
-- #damage — Daño que recibe un personaje o carta.
-- #damage-counter — Marcador que indica el daño acumulado.
-- #deck — Conjunto de cartas que un jugador usa durante el juego.
-- #deck-list — Lista oficial que contiene las cartas del mazo.
-- #deck-registration — Proceso de registro oficial de un mazo en torneo.
-- #deck-rules — Reglas específicas sobre construcción y composición de mazos.
-- #discard — Acción de descartar cartas del mazo o mano.
-- #discard-hand — Descartar la mano completa.
-- #discard-pile — Zona donde se colocan las cartas descartadas.
-- #discard-zone — Zona física donde quedan las cartas descartadas.
-- #draw — Robar cartas del mazo.
-- #draw-step — Paso del turno en que se roba carta.
-- #end-of-game — Condición o momento en que finaliza la partida.
-- #end-of-turn-ability — Habilidad que se activa al final del turno.
-- #end-of-turn-phase — Fase final del turno.
-- #exert — Agotar una carta.
-- #floating-triggered-ability — Habilidad disparada que permanece pendiente.
-- #game-state-check — Comprobación del estado actual del juego para validar acciones.
-- #golden-rule — Regla principal del juego.
-- #hand — Cartas que un jugador tiene en su mano.
-- #hand-size — Número máximo o actual de cartas en mano permitidas.
-- #in-challenge — Estado de estar involucrado en un desafío.
-- #in-play — Cartas que están activas en el campo de juego.
-- #ink — Recurso relacionado con tinta.
-- #ink-type — Categoría o tipo específico dentro del recurso tinta.
-- #inkwell — Zona donde va la tinta.
-- #instead — Acción que reemplaza o modifica la acción original.
-- #item — Tipo de carta.
-- #keyword — Palabra clave que indica una habilidad o regla específica.
-- #lethal-damage — Daño suficiente para eliminar una carta o personaje.
-- #location — Tipo de carta.
-- #lorcana — Nombre del juego (contexto o marca).
-- #lore — Puntos del juego.
-- #lore-value — Valor impreso en una carta.
-- #lose-game — Condición para perder la partida.
-- #manual — Procedimientos o reglas manuales para jueces o jugadores.
-- #may — Indica posibilidad dentro de las reglas.
-- #move-cost — Coste para mover una carta o efecto.
-- #movement — Acción de turno implica movimiento a ubicaciones.
-- #multiplayer-game — Partida con varios jugadores.
-- #opponent — Jugador contrario.
-- #order — Secuencia o prioridad de acciones.
-- #pcg — *Play Correction Guidelines* (directrices para corrección de juego).
-- #penalty — Penalización aplicada por infracciones.
-- #phase — Parte del turno del juego.
-- #play — Jugar.
-- #play-card — Acción de turno de jugar una carta.
-- #play-zone — Zona donde las cartas están en juego.
-- #player — Participante en la partida.
-- #playing-cards — Cartas que se están usando o jugando.
-- #prevent — Evitar o anular un efecto o acción.
-- #private-zone — Zona oculta o privada del jugador.
-- #public-zone — Zona visible para todos los jugadores.
-- #quest — Acción de turno para ganar lore.
-- #ready — Estado en que una carta está lista para usarse.
-- #ready-step — Paso donde se enderezan cartas o se preparan.
-- #reckless — Keyword.
-- #replacement-effect — Efecto que reemplaza otro efecto o condición.
-- #required-action — Acción obligatoria que debe realizarse.
-- #resist — Habilidad o efecto para resistir daño o efectos.
-- #return-to-hand — Acción de devolver una carta a la mano.
-- #reveal — Acción de mostrar cartas o información oculta.
-- #rush — Keyword.
-- #set-step — Paso para establecer el estado inicial o preparar.
-- #shift — Cambio o desplazamiento de cartas o estado.
-- #shuffle — Mezclar el mazo.  
-- #skip — Saltar un paso de turno.  
-- #slow-play — Juego lento.  
-- #stack — Pila de efectos o acciones pendientes.  
-- #stack-ability — Habilidad que se coloca en la pila para resolverse.  
-- #stack-verb — Verbo asociado a colocar efectos en la pila.  
-- #starting-game — Inicio de la partida.  
-- #starting-hand — Mano inicial de cartas.  
-- #starting-player — Jugador que comienza la partida.  
-- #static-ability — Habilidad pasiva.  
-- #strength — Fuerza.  
-- #support — Keyword.  
-- #target — Objetivo de un efecto o acción.  
-- #top-card — Carta superior del mazo o pila de descarte.  
-- #triggered-ability — Habilidad que se activa al cumplirse una condición.  
-- #turn — Turno del jugador.  
-- #turn-action — Acción específica realizada durante un turno.  
-- #undamaged — Estado de no haber recibido daño.  
-- #vanish — Acción o habilidad de hacer desaparecer una carta.  
-- #version — Versión de las reglas o del juego.  
-- #ward — Protección o defensa frente a efectos.  
-- #was-damaged — Estado que indica que una carta recibió daño.  
-- #when — Palabra para indicar condición temporal en las reglas.  
-- #whenever — Palabra para indicar condición repetida o continua.  
-- #while-challenge — Durante la fase de desafío.  
-- #willpower — Recurso o atributo de personajes.
-- #win-game — Condición o acción para ganar la partida.
-- #zone — Zona o área de juego (mano, mesa, descarte, etc.).    
+# Etiquetas para Disney Lorcana
 
----
+El [[Registro de Tags - Master List|registro maestro]] define las etiquetas canónicas para los casos. Esta guía resume sus significados; antes de añadir una etiqueta nueva, incorpórala al registro. Usa entre dos y seis etiquetas que describan el contenido.
 
-## ⚠️ Infracciones, Penalizaciones y Comportamiento
+CR 2.3 entra en vigor el **16/10/2026**. Adventurous y las gotas de tinta se explican con esa fecha; hasta el 15/10 se aplica CR 2.2. Alert ya existía en CR 2.2 y no significa preparar un personaje.
 
-- #cheating — Acción intencional de infringir reglas para obtener ventaja.
-- #challenge-damage-step — Paso en el daño durante un desafío.  
-- #improper-match-result — Resultado incorrecto o inválido de una partida.  
-- #intenci — Evaluación o sospecha de intención (maliciosa o accidental).  
-- #jueces — Referencias o notas para jueces.  
-- #penalty — Penalización por incumplimiento o error.  
-- #slow-play — Juego lento que puede considerarse infracción.  
-- #repeat-offender — Jugador que comete infracciones recurrentes.  
-- #player-behavior — Conducta general del jugador.  
-- #investigation — Investigación de situaciones dudosas o sospechosas.  
-- #malicious-intent — Intención maliciosa en la infracción.    
+## Mecánicas y Habilidades
 
----
-## 🧑‍⚖️ Procedimientos de Jueces y Torneos
+- #activated-ability — Habilidades activadas (costeadas).
+- #adventurous — Desde 16/10/2026: impide desafiar y obliga a irse de aventura si puede.
+- #alert — Ignora el limitador de Evasive al desafiar.
+- #alternate-cost — Costes alternativos.
+- #bag — Bolsa de habilidades disparadas pendientes.
+- #bag-priority — Prioridad en resolución de bolsa.
+- #bodyguard — Restricción de desafío y entrada agotada de Guardaespaldas.
+- #boost — Instrucción secuencial que pone una carta del mazo debajo y continúa según su texto.
+- #challenge — Acción de desafiar.
+- #challenger — Bonificación de Fuerza mientras desafía.
+- #cost-reduction — Reducciones de coste.
+- #damage — Daño y su cálculo reglamentario.
+- #deck — Zona del mazo.
+- #delayed-triggered — Habilidades disparadas retardadas.
+- #draw-multiple — Robo de múltiples cartas.
+- #duration — Duración explícita de un efecto.
+- #exert — Agotar una carta para acciones, costes o efectos.
+- #floating-triggered — Habilidad creada fuera de la bolsa hasta que ocurre su evento.
+- #golden-rule — Regla de oro (excepciones del texto de carta).
+- #gsc — Game State Checks (verificaciones de estado).
+- #hand-size — Número de cartas de la mano; sin máximo general.
+- #infinite-loops — Procedimiento para secuencias repetitivas.
+- #ink-drop — Gotas de tinta.
+- #keyword-stackable — Acumulación de palabras clave.
+- #location — Localizaciones y movimiento a ellas.
+- #lore-gain — Ganar sabiduría/lore.
+- #missed-trigger — Política oficial para efectos disparados perdidos.
+- #move-damage — Mover daño sin infligirlo de nuevo.
+- #multiple-names — Personajes con varios nombres reglamentarios.
+- #multiple-triggers — Múltiples habilidades disparadas.
+- #play-card — Proceso reglamentario de jugar una carta.
+- #quest — Acción de irse de aventura.
+- #ready — Preparar una carta conforme a los permisos y restricciones.
+- #replacement-effect — Efectos de reemplazo.
+- #resist — Reducción de daño por Resist.
+- #restriction — Prohibiciones y requisitos para acciones o elecciones.
+- #shift — Habilidad keyword Shift.
+- #singer — Valor con el que cuenta para cantar.
+- #singing — Cantar canciones.
+- #slow-play — Juego lento según la política de correcciones.
+- #static-ability — Modifica reglas o características según su condición y duración.
+- #strength-modifier — Cambios en el valor de Fuerza.
+- #strength-reduction — Reducciones de Fuerza.
+- #support — Al irse de aventura puede añadir su Fuerza a otro personaje este turno.
+- #takeback — Reversión excepcional de decisiones conforme a la política.
+- #torrent — Nombre de una habilidad disparada de Mrs. Incredible; no es palabra clave.
+- #triggered-ability — Habilidades disparadas (When/Whenever).
+- #under — Cartas debajo de otra carta.
+- #vanish — Palabra clave Vanish.
+- #ward — Palabra clave Ward.
+- #sing-together — Coste alternativo de cantar conjuntamente.
+- #movement — Movimiento de cartas o personajes conforme al efecto.
+- #choices — Elecciones legales al resolver.
+- #proxies — Sustitutos autorizados de cartas por el juez principal.
+- #cheating — Infracción intencionada con los requisitos de la política oficial.
+## Zonas y Movimientos
 
-- #deck-errors — Errores relacionados con el mazo.
-- #decklist-error — Error en la lista oficial de mazo.  
-- #deck-registration — Registro oficial de mazos.  
-- #event-procedure — Procedimientos para el desarrollo del torneo.  
-- #judge-guidance — Guías o directrices para jueces.  
-- #policy-application — Aplicación de normas y políticas.  
-- #auto-report — Casos de auto-denuncia.  
-- #edge-cases — Casos poco comunes o complejos.  
-- #ruling-explanation — Explicación de decisiones arbitrales.  
-- #tournament-setup — Preparativos para el torneo.  
-- #round-management — Gestión de rondas y emparejamientos.  
-- #match-slips — Control y manejo de papeletas.  
-- #player-meeting — Reuniones informativas con jugadores.    
+- #banish — Efecto de banish/exile.
+- #deck-construction — Construcción de mazo.
+- #discard — Zona de descarte.
+- #empty-deck — Mazo vacío.
+- #hand — Zona de mano.
+- #inkwell — Pozo de tinta.
+- #play-zone — Zona de juego.
+- #private-information — Información privada.
+## Timing y Turno
 
----
-## 🎓 Formación y Recursos
+- #end-of-turn — Final de turno.
+- #round-structure — Estructura de rondas.
+- #timing — Cuestiones de timing general.
+- #turn-actions — Acciones de turno.
+- #turn-start — Inicio de turno.
+- #turn-structure — Estructura de turno.
+## Conceptos Generales
 
-- #training — Materiales para formación de jueces o jugadores.  
-- #learning — Notas y reflexiones para el aprendizaje.  
-- #judge-education — Educación y formación específica para árbitros.  
-- #faq — Preguntas frecuentes.  
-- #common-mistakes — Errores comunes.  
-- #review-material — Material para repasar reglas.  
-- #internal-notes — Notas personales o no oficiales.    
+- #another-other — Referencias a otra carta.
+- #communication — Comunicación del estado de juego.
+- #defeat — Condiciones de derrota.
+- #foreign-language — Cartas en idiomas extranjeros.
+- #gameplay — Mecánica de juego general.
+- #interactions — Interacciones complejas.
+- #marked-cards — Cartas identificables o marcadas.
+- #misprint — Errores de impresión.
+- #reminder-token — Fichas de recordatorio.
+- #resolution — Resolución de efectos.
+- #scope — Alcance de habilidades.
+- #tournament-rules — Reglas de torneo.
+## Nombres de Cartas
 
----
-## 📚 Casos Prácticos y Ejemplos
+- #ancestral-guitar — Ancestral Guitar.
+- #ariel-ethereal-voice — Ariel - Ethereal Voice.
+- #beyond-the-horizon — Beyond the Horizon.
+- #elisa-maza-transformed-gargoyle — Elisa Maza - Transformed Gargoyle.
+- #grandmother-willow — Grandmother Willow.
+- #hector-rivera-worldwide-sensation — Héctor Rivera - Worldwide Sensation.
+- #horned-king — Horned King.
+- #lilo — Lilo.
+- #marie-caught-in-the-act — Marie - Caught in the Act.
+- #next-stop-olympus — Next Stop Olympus.
+- #one-and-only — One and Only.
+- #pudge — Pudge.
+- #rivera-family-photo — Rivera Family Photo.
+- #strange-things — Strange Things.
+- #the-torn-corner — The Torn Corner.
+- #this-growing-pressure — This Growing Pressure.
+- #wasabi-called-into-battle — Wasabi - Called into Battle.
 
-- #case-study — Análisis de casos reales o hipotéticos.  
-- #example-scenario — Escenarios ilustrativos.  
-- #prevention-tip — Consejos para evitar errores.  
-- #best-practices — Procedimientos recomendados.  
-- #tournament-scenarios — Situaciones típicas en torneos.   
+## Uso y referencias
 
----
-## 🎲 Mecánicas y Resolución
+Consulta [[Guía de Etiquetas para Búsqueda]] para combinar etiquetas. Los disparos pendientes usan la bolsa; una pila física de cartas se trata con #under. Boost es un efecto secuencial con límite, no una habilidad activada solo por usar el momento en que podrían activarse habilidades. «Can’t» puede ser una restricción estática y no identifica por sí solo un reemplazo.
 
-- #priority — Control del orden y prioridad de acciones.  
-- #replacement-effects — Efectos que reemplazan otros.  
-- #timing — Reglas de orden y tiempos para acciones.  
-- #zones — Gestión de zonas de juego (mano, mazo, mesa, tinta...).  
-- #action-resolution — Resolución de acciones y habilidades.  
+- [[Tipos de habilidades]], [[7.7. Bolsa (Bag)]], [[8.1. Generalidades (General)]] y [[1.13. Contadores (Counters)]].
+- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8; [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), vigente antes del 16/10.
 
----
+Última actualización: 09/10/2026.

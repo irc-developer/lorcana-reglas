@@ -13,13 +13,13 @@ Después de aplicar uno, el evento se modifica y se vuelve a comprobar si quedan
 
 ## 📘 Referencias
 
-- [[6.5. Efectos de Reemplazo (Replacement Effects)#6.5.1. Definición|6.5.1. Definición]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)#6.5.4. Qué pasa cuando es reemplazado|6.5.4. Qué pasa cuando es reemplazado]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)#6.5.7. Múltiples efectos de reemplazo sobre el mismo evento|6.5.7. Múltiples efectos de reemplazo sobre el mismo evento]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.2. Segundo paso - efectos de reemplazo|6.7.2.2. Segundo paso - efectos de reemplazo]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1. Definición]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4. Qué pasa cuando es reemplazado]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.7. Múltiples efectos de reemplazo sobre el mismo evento]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.2. Segundo paso - efectos de reemplazo]]
 
 ---
 
 ## 🏷️ Tags
 
-#damage #escudos #replacement-effect #resolucion #ruling
+#damage #replacement-effect #resolution

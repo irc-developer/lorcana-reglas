@@ -11,7 +11,7 @@ Resumen operativo de aclaraciones frecuentes:
 - [Ursula - Sea Witch](https://cards.lorcast.io/card/digital/large/crd_ef7ea6ffd33a4557961b74ea45e095d4.avif?1709690747): puede elegir personaje listo, pero el “no enderezar” solo importa si ese personaje está agotado al llegar al paso de ready.
 - [Flynn Rider - Charming Rogue](https://cards.lorcast.io/card/digital/large/crd_c0742f7731e04b749870bceb5c6b133b.avif?1709690747) con [Jafar - Keeper of Secrets](https://cards.lorcast.io/card/digital/large/crd_10bcf02ebeea4a3c8aac36e976120e99.avif?1709690747): la habilidad de Flynn se dispara al declararse el desafío, antes del paso de daño.
 - [Elsa - Spirit of Winter](https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747) con [Fan the Flames](https://cards.lorcast.io/card/digital/large/crd_0df4378c1d3d40409014b2502a9926b1.avif?1709690747): “no puede enderezarse” afecta al paso de ready; no impide otros efectos que enderecen.
-- [Mickey Mouse - Trumpeter](https://cards.lorcast.io/card/digital/large/crd_f607033b63f544219ebcff94bd3c6e81.avif?1709690747): jugar “gratis” solo cubre coste de tinta; otros costes siguen aplicando.
+- [Mickey Mouse - Trumpeter](https://cards.lorcast.io/card/digital/large/crd_f607033b63f544219ebcff94bd3c6e81.avif?1709690747): jugar «gratis» elige un coste alternativo; siguen aplicándose requisitos y los demás costes que el procedimiento exija. No equivale al permiso distinto de usar una habilidad activada gratis.
 - [Donald Duck - Perfect Gentleman](https://cards.lorcast.io/card/digital/large/crd_c189dd421b024c29b83e86aea8bbc347.avif?1709690747): cada jugador decide por separado si roba.
 - [Grand Pabbie - Oldest and Wisest](https://cards.lorcast.io/card/digital/large/crd_11164a4fe7894e46882f5490ebd875cc.avif?1709690747): si se remueve daño de varios personajes, se dispara por cada personaje afectado.
 - [Pluto - Determined Defender](https://cards.lorcast.io/card/digital/large/crd_02f6ca615a304f47848ac36590cb7b94.avif?1715694252): “up to 3” permite elegir entre 0 y 3.
@@ -31,15 +31,15 @@ Resumen operativo de aclaraciones frecuentes:
 
 ## 📘 Referencias
 
-- [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Definición]]
-- [[6.4. Habilidades Estáticas (Static Abilities)#6.4.1. Definición|6.4.1. Definición]]
-- [[4.6 Desafío (Challenge)#4.6.5. Desafío y habilidades disparadas|4.6.5. Desafío y habilidades disparadas]]
-- [[4.6 Desafío (Challenge)#4.6.6. Paso de daño por desafío (Challenge Damage Step)|4.6.6. Paso de daño por desafío]]
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1.1. Enderezar cartas|3.2.1.1. Enderezar cartas]]
-- [[4.3. Jugar una carta (Play a Card)#4.3.2.2. Modo de juego|4.3.2.2. Modo de juego]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Definición]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1. Definición]]
+- [[4.6 Desafío (Challenge)|4.6.5. Desafío y habilidades disparadas]]
+- [[4.6 Desafío (Challenge)|4.6.6. Paso de daño por desafío]]
+- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1.1. Enderezar cartas]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.2.2. Modo de juego]]
 
 ---
 
 ## 🏷️ Tags
 
-#aclaraciones #challenge #fabled #habilidadesestaticas #ruling #triggered-abilities
+#challenge #static-ability #triggered-ability

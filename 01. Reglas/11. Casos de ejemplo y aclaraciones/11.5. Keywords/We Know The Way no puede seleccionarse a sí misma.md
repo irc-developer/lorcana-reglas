@@ -6,8 +6,9 @@ Si **We Know The Way** se juega mediante un efecto (ej. Prince Naveen), ¿puede 
 
 ## ✅ Respuesta
 
-No. Una carta que está siendo jugada o resuelta en ese momento no puede ser objetivo de sus propios efectos. Aunque **We Know The Way** se baraje en el mazo después de jugar, la ventana de oportunidad para seleccionar ya ha pasado. Además, el efecto de "seleccionar" ocurre antes de que la carta entre en la zona de juego.
+**No, porque aún no está en el descarte.** We Know The Way elige una carta de tu descarte durante su resolución; la canción que se está resolviendo solo pasa al descarte cuando termina su efecto. El permiso de Prince Naveen no cambia esa secuencia.
 
+Esto no es una prohibición general de que una carta se afecte a sí misma: el texto exige una zona que la canción aún no ocupa. Puede elegir **otra copia** que ya esté en el descarte.
 ---
 
 ## 📘 Referencias
@@ -19,4 +20,4 @@ No. Una carta que está siendo jugada o resuelta en ese momento no puede ser obj
 
 ## 🏷️ Tags
 
-#bag #cr200 #playedbyeffect #princenaveen #timing #weknowtheway #zones
+#bag #play-card #timing #scope

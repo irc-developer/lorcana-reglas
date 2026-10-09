@@ -23,10 +23,10 @@ Esto también importa al combinar bonificaciones. Un personaje con 4 {S} impreso
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md#6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego|6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego]]: una habilidad estática continua generada por una carta afecta a todas las cartas que pueda afectar mientras su fuente permanezca en juego; si la fuente sale de la zona de juego, su efecto termina inmediatamente.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md#6.6.1.1. Aparición y duración|6.6.1.1. Aparición y duración]]: los modificadores se aplican continuamente durante su duración y cualquier cambio en una característica sucede de inmediato, sin usar la bolsa.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md#6.6.1.2. Aplicación|6.6.1.2. Aplicación]]: todos los modificadores aplicables se combinan conjuntamente; que aparezca uno nuevo no elimina los anteriores.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md#6.6.4. Restricción de valores|6.6.4. Restricción de valores]]: después de aplicar los modificadores, una característica que «no puede reducirse por debajo» de un valor no puede tener un resultado inferior a ese mínimo. El ejemplo oficial de esta regla utiliza expresamente a Elisa Maza y *Forever Strong*.
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego]]: una habilidad estática continua generada por una carta afecta a todas las cartas que pueda afectar mientras su fuente permanezca en juego; si la fuente sale de la zona de juego, su efecto termina inmediatamente.
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.1. Aparición y duración]]: los modificadores se aplican continuamente durante su duración y cualquier cambio en una característica sucede de inmediato, sin usar la bolsa.
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.2. Aplicación]]: todos los modificadores aplicables se combinan conjuntamente; que aparezca uno nuevo no elimina los anteriores.
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.4. Restricción de valores]]: después de aplicar los modificadores, una característica que «no puede reducirse por debajo» de un valor no puede tener un resultado inferior a ese mínimo. El ejemplo oficial de esta regla utiliza expresamente a Elisa Maza y *Forever Strong*.
 
 ---
 

@@ -21,12 +21,12 @@ En otras palabras:
 
 ## 📘 Referencias
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante|Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador|Cálculo de fuerza con Tiana y Desafiador]]
-- [[01.1.a Official English Reference – Unmodified/8. Keywords#851|8.5.1 Challenger]]
-- [[01.1.a Official English Reference – Unmodified/4. Turn Actions#4661|4.6.6.1 Challenge Damage step]]
-- [[01.1.a Official English Reference – Unmodified/5. Cards and Card Types#5362-strength-s|5.3.6.2 Strength]]
-- [[01.1.a Official English Reference – Unmodified/5. Cards and Card Types#5363-willpower-w|5.3.6.3 Willpower]]
+- [[Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante]]
+- [[Cálculo de fuerza con Tiana y Desafiador]]
+- [8.5.1 Challenger](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41)
+- [4.6.6.1 Challenge Damage step](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=15)
+- [5.3.6.2 Strength](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=23)
+- [5.3.6.3 Willpower](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=23)
 
 La clave es separar dos cosas distintas:
 
@@ -60,4 +60,4 @@ Ese +2 sigue existiendo sobre su **Fuerza**, pero no se usa para calcular el da�
 
 ## 🏷️ Tags
 
-#demona #dale #spikesuit #challenger #challenge #strength #willpower #static-ability #ruling
+#challenger #challenge #strength-modifier #static-ability

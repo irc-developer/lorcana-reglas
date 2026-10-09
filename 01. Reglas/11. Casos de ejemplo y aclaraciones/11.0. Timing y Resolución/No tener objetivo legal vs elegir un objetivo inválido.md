@@ -28,24 +28,24 @@ Antes de deshacer una jugada completa, distingue entre una acción que no podía
 
 ## 📘 Referencias
 
-[[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.6. Acción ilegal|1.7.6. Acción ilegal]]: si un jugador intenta hacer una game action que no puede hacer o empieza una turn action que no puede llevar a cabo al completo, se deshace hasta donde sea razonable.
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.3. Elecciones durante la resolución|1.7.3. Elecciones durante la resolución]]: las elecciones de tipo choose/chosen se hacen cuando el efecto se está resolviendo.
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.7. Corrección de jugadas|1.7.7. Corrección de jugadas]]: si la elección fue ilegal, se deshace hasta ese momento; si no existe ninguna elección legal, el efecto se resuelve sin efecto y se hace todo lo posible con lo demás.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Resolver en orden y hacer todo lo posible]]: los efectos se siguen en orden y se resuelven tanto como sea posible.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Las elecciones se hacen al resolver]]: confirma que la legalidad de la elección se comprueba en ese punto de la resolución.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Resolución del texto]]: el jugador cumple las instrucciones y toma las decisiones requeridas en el orden escrito, haciendo todo lo posible.
+[[1.7. Game Actions, Timing, y Illegal Actions|1.7.6. Acción ilegal]]: si un jugador intenta hacer una game action que no puede hacer o empieza una turn action que no puede llevar a cabo al completo, se deshace hasta donde sea razonable.
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3. Elecciones durante la resolución]]: las elecciones de tipo choose/chosen se hacen cuando el efecto se está resolviendo.
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Corrección de jugadas]]: si la elección fue ilegal, se deshace hasta ese momento; si no existe ninguna elección legal, el efecto se resuelve sin efecto y se hace todo lo posible con lo demás.
+- [[6.1. General (General)|6.1.2. Resolver en orden y hacer todo lo posible]]: los efectos se siguen en orden y se resuelven tanto como sea posible.
+- [[6.1. General (General)|6.1.3. Las elecciones se hacen al resolver]]: confirma que la legalidad de la elección se comprueba en ese punto de la resolución.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Resolución del texto]]: el jugador cumple las instrucciones y toma las decisiones requeridas en el orden escrito, haciendo todo lo posible.
 
 ---
 
 ## 🔗 Véase también
 
-[[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido|Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido|World's Greatest Criminal Mind sin objetivo válido]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido|Resolución parcial sin objetivo válido]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/El uso de Then|El uso de Then]]
+[[Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido]]
+- [[World's Greatest Criminal Mind sin objetivo válido]]
+- [[Resolución parcial sin objetivo válido]]
+- [[El uso de Then]]
 
 ---
 
 ## 🏷️ Tags
 
-#targeting #legal-target #illegal-choice #resolution #timing #ward #choose #chosen
+#restriction #resolution #timing #ward

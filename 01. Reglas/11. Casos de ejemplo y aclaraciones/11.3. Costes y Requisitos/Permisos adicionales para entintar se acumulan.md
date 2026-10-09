@@ -12,7 +12,7 @@ Los permisos independientes para entintar una carta adicional se acumulan. Cada 
 
 ## 📘 Referencias
 
-- [[01. Reglas/7. Zonas (Zones)/7.5. Pozo de tinta (Inkwell).md|7.5. Pozo de tinta]] y [[01. Reglas/4. Acciones de turno (Turn Actions)/4.2 Entintar una carta (Ink a Card).md|4.2. Entintar una carta]], junto al texto de [Sail the Azurite Sea](https://cards.lorcast.io/card/digital/large/crd_049739e69c034e898c3c48abd37544cc.avif?1730901319).
+- [[7.5. Pozo de tinta (Inkwell)|7.5. Pozo de tinta]] y [[4.2 Entintar una carta (Ink a Card)|4.2. Entintar una carta]], junto al texto de [Sail the Azurite Sea](https://cards.lorcast.io/card/digital/large/crd_049739e69c034e898c3c48abd37544cc.avif?1730901319).
 
 ---
 

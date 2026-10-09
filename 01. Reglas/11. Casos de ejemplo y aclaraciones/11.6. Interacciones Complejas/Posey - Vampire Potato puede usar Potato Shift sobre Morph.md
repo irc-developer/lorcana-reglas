@@ -6,9 +6,9 @@
 
 ## ✅ Respuesta
 
-**Pendiente de revisión normativa.** No uses esta combinación como un fallo confirmado.
+**Sí.** La aclaración oficial de Attack of the Vine, p.23, confirma expresamente esta pareja.
 
-La duda es si Advanced Mimicry permite usar Morph como alternativa al objeto llamado Potato que exige Potato Shift. **La interacción queda sin una respuesta confirmada hasta revisar las referencias siguientes.**
+Advanced Mimicry permite elegir a Morph aunque no sea un objeto ni se llame Potato. Debes pagar el coste de Potato Shift y cumplir los restantes requisitos de la jugada. La excepción cambia el soporte elegible, no convierte el coste en gratis.
 
 ---
 
@@ -19,8 +19,8 @@ La duda es si Advanced Mimicry permite usar Morph como alternativa al objeto lla
 
 ---
 
-- [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]]: aclaraciones de Morph y Potato Shift.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], 8.10.4.1 y 8.10.8.6: soporte no personaje y Potato Shift.
+- [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): aclaraciones de Morph y Potato Shift.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), 8.10.4.1 y 8.10.8.6: soporte no personaje y Potato Shift.
 
 ---
 

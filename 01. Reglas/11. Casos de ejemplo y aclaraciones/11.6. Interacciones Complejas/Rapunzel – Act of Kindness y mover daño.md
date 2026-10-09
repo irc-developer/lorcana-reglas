@@ -1,29 +1,26 @@
 ## ❓ Duda
 
-¿Cómo funciona "Act of Kindness" de Rapunzel para mover daño entre personajes?
+¿ACT OF KINDNESS de Rapunzel - Ready for Adventure impide que un efecto mueva daño al personaje protegido?
 
 ---
 
 ## ✅ Respuesta
 
-Cuando una habilidad permite mover daño, ese daño se redistribuye entre personajes legales según el texto de la habilidad. Técnicamente, el daño movido se retira del origen y se pone en el destino como una única resolución de "mover daño". El daño no cambia de identidad durante ese proceso.
+**No.** La protección sustituye la siguiente ocasión en que al personaje se le **infligiría** daño. Mover daño retira contadores del origen y los pone en el destino; el destino recibe daño, pero no se le inflige mediante ese movimiento.
+
+Por tanto, el daño movido no consume esa protección. La habilidad de Lilo - Bundled Up, que comprueba «would take damage», tiene un alcance distinto y sí puede aplicarse al daño movido durante el turno correspondiente.
 
 ---
 
 ## 📘 Referencias
 
-**Definición: Movimiento de daño**
-
-Cuando un efecto permite "mover" daño entre personajes, el daño se retira de su fuente original y se coloca en el nuevo objetivo. La aclaración pública del diseñador de reglas confirma que "move" equivale técnicamente a "remove + put" escrito de forma desarrollada. El daño preserva su identidad durante el movimiento.
-
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2 Resolución]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.2 Put]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.3 Remove/Removed]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.4 Move]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
+- [[1.9. Daño (Damage)|1.9.2.4–1.9.2.5: move y take]].
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.3: el reemplazo debe poder aplicarse]].
+- [[Mover daño no es retirar daño|Definición de mover daño]].
+- [[Rapunzel - Ready for Adventure y Hydra - Deadly Serpent|ACT OF KINDNESS y daño infligido]].
 
 ---
 
 ## 🏷️ Tags
 
-#comprehensive-rules #damage #movedamage #rapunzel #replacementeffect #timing
+#damage #move-damage #replacement-effect #timing

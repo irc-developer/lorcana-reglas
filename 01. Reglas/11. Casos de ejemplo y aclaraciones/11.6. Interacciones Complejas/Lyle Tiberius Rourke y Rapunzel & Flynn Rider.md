@@ -16,9 +16,9 @@ Por ello, si se pusieron al menos dos cartas en tu descarte durante el turno, DI
 
 - [Lyle Tiberius Rourke - Adventurer for Hire](https://cards.lorcast.io/card/digital/large/crd_9008a5fe3cdb46d9861b2b4477b81280.avif?1777687500): DIRTY TRICKS cuenta las cartas que fueron puestas en tu descarte durante el turno.
 - [Rapunzel & Flynn Rider - Unlikely Pair](https://cards.lorcast.io/card/digital/large/crd_c9705013eab04705818153d8e3419f5b.avif?1783190969): FRESH START permite jugar desde el descarte una carta de personaje que hayas descartado durante tu turno.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.4. Estructura Condicional 1, si Condicional 2, efecto|6.2.4. Condición secundaria]]: la condición secundaria de una habilidad disparada se comprueba al resolver.
-- [[01. Reglas/7. Zonas (Zones)/7.6. Pila de descarte (Discard pile).md|7.6. Pila de descarte]]: una carta que entra en el descarte ha sido puesta allí aunque después cambie de zona.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.2.4 y 7.6.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. Condición secundaria]]: la condición secundaria de una habilidad disparada se comprueba al resolver.
+- [[7.6. Pila de descarte (Discard pile)|7.6. Pila de descarte]]: una carta que entra en el descarte ha sido puesta allí aunque después cambie de zona.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.2.4 y 7.6.
 
 ---
 

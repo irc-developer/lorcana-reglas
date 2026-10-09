@@ -16,10 +16,10 @@ Si Scrooge tiene cartas debajo cuando vuelve a la mano, todas esas cartas van co
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)#4.4.3.4. Pagar el coste|4.4.3.4. Pagar el coste]]: para usar una habilidad activada, primero pagas completamente su coste.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]: si una habilidad disparada ocurre mientras otro efecto se está resolviendo, entra en la bolsa pero espera hasta que el efecto actual termine por completo.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2. El jugador activo escoge]]: después resuelves la habilidad disparada desde la bolsa.
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona.
+- [[4.4. Usar una habilidad activada (Use an Activated Ability)|4.4.3.4. Pagar el coste]]: para usar una habilidad activada, primero pagas completamente su coste.
+- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]: si una habilidad disparada ocurre mientras otro efecto se está resolviendo, entra en la bolsa pero espera hasta que el efecto actual termine por completo.
+- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]: después resuelves la habilidad disparada desde la bolsa.
+- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona.
 
 ---
 
@@ -37,4 +37,4 @@ Si Scrooge tiene cartas debajo cuando vuelve a la mano, todas esas cartas van co
 
 ## 🏷️ Tags
 
-#bag #boost #coste #leavesplay #returntohand #stack #timing
+#bag #boost #timing

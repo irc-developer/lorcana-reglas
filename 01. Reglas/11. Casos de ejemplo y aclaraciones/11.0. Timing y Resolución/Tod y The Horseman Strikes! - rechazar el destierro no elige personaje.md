@@ -22,7 +22,7 @@ No hay una ventana para resolver IMPRESSIVE LEAPS entre elegir a Tod y desterrar
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2, 6.7.2.3 y 6.7.4–6.7.5]]: la acción termina antes de resolver los disparos.
 - [[7.1. General|7.1.5–7.1.6]]: cambio de zona y pérdida de la identidad del personaje en juego.
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 25–26, 30, 36–38 y 40.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 25–26, 30, 36–38 y 40.
 
 ---
 

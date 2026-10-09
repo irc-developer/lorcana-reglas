@@ -12,7 +12,7 @@ Las guías de sets son un recurso comunitario y su disponibilidad cambia con el 
 
 ## 📘 Referencias
 
-- Recurso comunitario del autor; no es una fuente normativa oficial. Para resolver una duda, contrástalo con [[01.1.a Official English Reference – Unmodified/1. Concepts.md|Comprehensive Rules]] y las [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md|Tournament Rules]] vigentes.
+- Recurso comunitario del autor; no es una fuente normativa oficial. Para resolver una duda, contrástalo con [Comprehensive Rules](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y las [[3.3 Estructura de Partida (Match Structure)|Tournament Rules]] vigentes.
 
 ## 🔄 Cómo se resuelve
 

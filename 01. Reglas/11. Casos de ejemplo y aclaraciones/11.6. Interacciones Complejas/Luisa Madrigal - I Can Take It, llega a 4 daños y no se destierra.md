@@ -44,20 +44,20 @@ Si, en cambio, no puedes aplicar legalmente la segunda parte, Luisa se quedará 
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|1.8. Chequeo del estado del juego]]: el **GSC** se realiza después de que se resuelvan todos los efectos de una acción o habilidad, no entre frases de una misma habilidad.
-- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|1.8.5. Las condiciones solo se cumplen cuando ocurre el GSC]]: si una condición de daño letal se cumple durante la resolución pero deja de cumplirse antes del **GSC**, el personaje no es desterrado.
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.4. Move]]: mover daño quita contadores del origen y los pone en el destino dentro de la misma resolución.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1. General]] y [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: las instrucciones se resuelven en orden y tanto como sea posible.
+- [[1.8. Chequeo del estado del juego (Game State Check)|1.8. Chequeo del estado del juego]]: el **GSC** se realiza después de que se resuelvan todos los efectos de una acción o habilidad, no entre frases de una misma habilidad.
+- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.5. Las condiciones solo se cumplen cuando ocurre el GSC]]: si una condición de daño letal se cumple durante la resolución pero deja de cumplirse antes del **GSC**, el personaje no es desterrado.
+- [[1.9. Daño (Damage)|1.9.1.4. Move]]: mover daño quita contadores del origen y los pone en el destino dentro de la misma resolución.
+- [[6.1. General (General)|6.1. General]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: las instrucciones se resuelven en orden y tanto como sea posible.
 
 ---
 
 ## 🔗 Véase también
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC|Luisa Madrigal - I Can Take It, condición Then-if y GSC]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Mover daño no es retirar daño]]
+- [[Luisa Madrigal - I Can Take It, condición Then-if y GSC]]
+- [[Mover daño no es retirar daño]]
 
 ---
 
 ## 🏷️ Tags
 
-#luisa-madrigal #i-can-take-it #move-damage #gsc #damage #timing #then-if
+#move-damage #gsc #damage #timing #resolution

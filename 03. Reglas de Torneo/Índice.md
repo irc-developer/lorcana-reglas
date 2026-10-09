@@ -1,6 +1,6 @@
 # Índice - Reglas de Torneo de Disney Lorcana TCG
 
-Resumen en castellano de las **Tournament Rules**, efectivo el **11 de junio de 2026**.
+Resumen en castellano de las **Tournament Rules**, efectivo el **14 de julio de 2026**.
 
 El documento oficial estructura las reglas en nueve secciones. Esta carpeta mantiene además algunos apartados heredados de trabajo interno, marcados como tales.
 

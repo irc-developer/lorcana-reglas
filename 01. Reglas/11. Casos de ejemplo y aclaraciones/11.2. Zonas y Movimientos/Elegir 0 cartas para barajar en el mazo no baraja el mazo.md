@@ -79,11 +79,11 @@ Aquí, aunque elijas **0**, la segunda instrucción sigue existiendo como mandat
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. "Up to" incluye 0]]: confirma que elegir **0** es legal cuando el efecto dice **"hasta N"**.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Hacer todo lo posible en el orden escrito]]: el efecto se resuelve en orden y se hace todo lo posible, pero no añade instrucciones que el texto no contiene.
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions#1.7.6.2. Restricciones|1.7.6.2. Barajar es una acción identificable e irreversible]]: la propia regla trata **barajar** como una acción concreta del juego, no como una consecuencia automática de cualquier intento de mover 0 cartas al mazo.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta|Cantar o jugar gratis cuenta como pagar 0 tinta]]: sirve de contraste para las habilidades que sí preguntan por la **cantidad pagada**.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta|Acción jugada debido a un efecto de otra carta]]: cuando una carta sí manda primero poner cartas en el mazo y después **barajar**, ambas instrucciones se siguen en el orden escrito porque el texto contiene ese barajado de forma separada.
+- [[6.1. General (General)|6.1.3. "Up to" incluye 0]]: confirma que elegir **0** es legal cuando el efecto dice **"hasta N"**.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Hacer todo lo posible en el orden escrito]]: el efecto se resuelve en orden y se hace todo lo posible, pero no añade instrucciones que el texto no contiene.
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.6.2. Barajar es una acción identificable e irreversible]]: la propia regla trata **barajar** como una acción concreta del juego, no como una consecuencia automática de cualquier intento de mover 0 cartas al mazo.
+- [[Cantar o jugar gratis cuenta como pagar 0 tinta]]: sirve de contraste para las habilidades que sí preguntan por la **cantidad pagada**.
+- [[Acción jugada debido a un efecto de otra carta]]: cuando una carta sí manda primero poner cartas en el mazo y después **barajar**, ambas instrucciones se siguen en el orden escrito porque el texto contiene ese barajado de forma separada.
 
 ---
 
@@ -97,4 +97,4 @@ Si una carta concreta usa una redacción distinta, especialmente si incluye una 
 
 ## 🏷️ Tags
 
-#up-to-N #shuffle #deck #discard #zones #resolution #payment #for-free
+#deck #discard #scope #resolution #alternate-cost

@@ -16,19 +16,19 @@ Si eres tú quien controla [Keep the Ancient Ways](https://cards.lorcast.io/card
 
 En cuanto al destino de la carta revelada, **se queda en la parte superior del mazo; no va al fondo**. La clave es que, en el texto de Oswald, la frase **“Otherwise, put it on the bottom of your deck”** encaja con el caso en que la carta revelada **no sea un item card**. Aquí sí lo es. Lo que falla no es la condición “si es un item”, sino la posibilidad de ejecutar la parte opcional de **jugarlo** por la prohibición de [Keep the Ancient Ways](https://cards.lorcast.io/card/digital/large/crd_491b1cb4aadf4bf999230048abf2cf0b.avif?1770260077).
 
-Según [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.4]], si una parte con **may** no se lleva a cabo, esa frase se resuelve sin efecto y no se ejecuta ninguna parte de esa frase. Eso no convierte este caso en el **otherwise** de Oswald. Por tanto, tras resolverse la habilidad, la carta revelada sigue siendo la carta superior de tu mazo.
+Según [[6.1. General (General)|6.1.4]], si una parte con **may** no se lleva a cabo, esa frase se resuelve sin efecto y no se ejecuta ninguna parte de esa frase. Eso no convierte este caso en el **otherwise** de Oswald. Por tanto, tras resolverse la habilidad, la carta revelada sigue siendo la carta superior de tu mazo.
 
 ---
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|1.2.2 Impedir por encima de permitir]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen al resolver]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.2 Cada frase es un efecto independiente y hay que atender a la estructura completa]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.4 Un efecto con may puede resolverse sin efecto]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.7 Jugar gratis no elimina otras restricciones de juego]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4.2.1 Un efecto resuelto puede crear una prohibición continua con duración]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 La carta se juega durante la resolución del efecto que lo permite]]
+- [[1.2. Regla de oro (Golden Rules)|1.2.2 Impedir por encima de permitir]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen al resolver]]
+- [[6.1. General (General)|6.1.2 Cada frase es un efecto independiente y hay que atender a la estructura completa]]
+- [[6.1. General (General)|6.1.4 Un efecto con may puede resolverse sin efecto]]
+- [[6.1. General (General)|6.1.7 Jugar gratis no elimina otras restricciones de juego]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.1 Un efecto resuelto puede crear una prohibición continua con duración]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 La carta se juega durante la resolución del efecto que lo permite]]
 
 ---
 

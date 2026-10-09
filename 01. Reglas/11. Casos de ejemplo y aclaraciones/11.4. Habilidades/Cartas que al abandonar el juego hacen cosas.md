@@ -17,9 +17,9 @@ Cuando varias cartas abandonan la zona de juego a la vez, las habilidades dispar
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Cartas abandonando la zona de Juego]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Definición]]
-- [[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]
+- [[7.4. Juego (Play)|7.4.3. Cartas abandonando la zona de Juego]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Definición]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
 
 ---
 
@@ -35,4 +35,4 @@ Cuando varias cartas abandonan la zona de juego a la vez, las habilidades dispar
 
 ## 🏷️ Tags
 
-#bag #beprepared #bodyguard #leavingplay #triggered-ability
+#bag #bodyguard #triggered-ability

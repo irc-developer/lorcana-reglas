@@ -13,10 +13,10 @@ Los personajes se destierran durante la resolución de [Be Prepared](https://car
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Habilidades disparadas durante la resolución]]
-- [[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4. Habilidades disparadas durante la resolución]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
+- [[7.7. Bolsa (Bag)|7.7.4. Orden]]
 
 ---
 
@@ -32,4 +32,4 @@ Los personajes se destierran durante la resolución de [Be Prepared](https://car
 
 ## 🏷️ Tags
 
-#bag #beprepared #discard #emeraldchromicon #triggered-abilities
+#bag #discard #triggered-ability

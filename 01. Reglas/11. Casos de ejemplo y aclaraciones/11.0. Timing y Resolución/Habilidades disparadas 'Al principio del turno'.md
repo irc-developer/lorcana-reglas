@@ -10,23 +10,24 @@ Casos típicos:
 
 ## ✅ Respuesta
 
-Sí en el primer caso y no en el segundo.
+**Sí en ambos casos, si las elecciones y condiciones son legales al resolver.**
 
 - En inicio de turno, los triggers que ocurren se añaden a bolsa y luego se resuelven en orden legal; eso permite ordenar resoluciones cuando ambos ya están en bolsa.
-- Si una habilidad exige condición secundaria para tener efecto, dicha condición se verifica al resolver. Si no se cumple en ese momento, resuelve sin efecto; no se “fuerza” por el mero orden si el estado requerido no se da.
+- La habilidad de Vanellope se dispara al comienzo del turno aunque todavía no esté en una localización: esa es una condición secundaria que se comprueba al resolver. Puedes resolver primero Transport Pod para moverla a una localización y después Vanellope; si sigue allí, robas una carta y ganas 1 lore. Resolver Vanellope primero, cuando aún no está en una localización, no produce ese efecto.
+- Ready termina antes de resolver los disparos de inicio durante Set; ordenar la bolsa no permite volver al paso Ready.
 
 ---
 
 ## 📘 Referencias
 
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2 Fase inicial del turno]]
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.1. Preparado (Ready)|3.2.1 Ready step]]
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)#3.2.2. Listo (Set)|3.2.2 Set step]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.4. Estructura Condicional 1, si Condicional 2, efecto|6.2.4 Condición secundaria al resolver]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7 Bolsa]]
+- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2 Fase inicial del turno]]
+- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1 Ready step]]
+- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.2 Set step]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4 Condición secundaria al resolver]]
+- [[7.7. Bolsa (Bag)|7.7 Bolsa]]
 
 ---
 
 ## 🏷️ Tags
 
-#inicio-de-turno #habilidades-disparadas #bolsa #ready-step #set-step
+#turn-start #triggered-ability #bag

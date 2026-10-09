@@ -6,16 +6,18 @@
 
 ## ✅ Respuesta
 
-Los personajes que están "under" (debajo de otras cartas) son considerados fuera del juego y no pueden ser objetivo de efectos que se dirijan a personajes en juego. Sus habilidades estáticas se mantienen activas mientras se cumple su condición, pero los efectos triggerados requieren que el personaje esté en el juego.
+Las cartas debajo de la carta superior de una pila no se consideran en juego, aunque la pila esté en la zona de juego. No son personajes elegibles para un efecto que elige un personaje y sus habilidades no funcionan allí salvo permiso expreso del texto o las reglas.
+
+A GIVING HEART de Mickey Mouse - Bob Cratchit permite trasladar las **cartas que estaban debajo** al desterrarlo en un desafío. Las cartas trasladadas siguen estando debajo: no se juegan ni entran como personajes. Un disparo ya generado puede resolverse aunque su fuente abandone el juego; eso no activa las habilidades de las cartas inferiores.
 
 ---
 
 ## 📘 Referencias
 
-- [[5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|Debajo (Under)]]
+- [[5.1. Estados de las cartas (Card States)|Debajo (Under)]]
 
 ---
 
 ## 🏷️ Tags
 
-#bob-cratchit #brave-little-prince #card-states #comprehensive-rules #shift #timing #under
+#under #shift #timing

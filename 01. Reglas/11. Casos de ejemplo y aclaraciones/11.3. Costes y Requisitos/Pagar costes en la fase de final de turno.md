@@ -14,12 +14,12 @@ La fase final sigue formando parte del turno actual hasta que concluye. Si en la
 
 ## 📘 Referencias
 
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.1. Fases (Phases)|3.1.4. Fase final del turno]]
-- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.4. Fase final de turno (End-of-Phase)|3.4.1. Proceso de fase final]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
+- [[3.1. Fases (Phases)|3.1.4. Fase final del turno]]
+- [[3.4. Fase final de turno (End-of-Phase)|3.4.1. Proceso de fase final]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
 
 ---
 
 ## 🏷️ Tags
 
-#bag #costs #finaldeturno
+#bag #cost-reduction

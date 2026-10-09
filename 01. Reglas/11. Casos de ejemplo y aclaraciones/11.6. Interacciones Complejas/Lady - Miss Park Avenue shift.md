@@ -20,7 +20,7 @@ El resultado final es:
 
 - **Strength:** 5
     
-- **Lore:** 1
+- **Lore:** 2
     
 
 Por tanto, cuando este personaje questea ese turno, **gana 2 lore**, no 3.
@@ -29,18 +29,18 @@ Por tanto, cuando este personaje questea ese turno, **gana 2 lore**, no 3.
 
 ### Referencias
 
-[[4.3. Jugar una carta (Play a Card)#4.3.5.Costes alternativos|4.3.5.Costes alternativos]]
-[[8.10. Cambio (Shift)#8.10.5. Conservar efectos aplicados sobre la carta de abajo|8.10.5. Conservar efectos aplicados sobre la carta de abajo]]
+[[4.3. Jugar una carta (Play a Card)|4.3.5.Costes alternativos]]
+[[8.10. Cambio (Shift)|8.10.5. Conservar efectos aplicados sobre la carta de abajo]]
 
 ---
 
 ## 📘 Referencias
 
-- [[4.3. Jugar una carta (Play a Card)#4.3.5.Costes alternativos|4.3.5.Costes alternativos]]
-- [[8.10. Cambio (Shift)#8.10.5. Conservar efectos aplicados sobre la carta de abajo|8.10.5. Conservar efectos aplicados sobre la carta de abajo]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.5.Costes alternativos]]
+- [[8.10. Cambio (Shift)|8.10.5. Conservar efectos aplicados sobre la carta de abajo]]
 
 ---
 
 ## 🏷️ Tags
 
-#shift #strength-boost #static-abilities #object-identity #lore
+#shift #strength-modifier #static-ability #scope #lore-gain

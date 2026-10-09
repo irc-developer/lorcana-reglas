@@ -1,124 +1,24 @@
-## Contexto
+# Deck check: discrepancias entre lista y mazo
 
-Durante un **deck check** puede detectarse una discrepancia entre la **decklist registrada** y el **mazo físico presentado por el jugador**.  
-Las reglas de Disney Lorcana contemplan **distintos procedimientos** según el estado del mazo físico.
+**No todo error de mazo implica Game Loss.** El Lore Guide investiga tanto el mazo presentado como la lista registrada; la lista es la referencia de lo que el jugador pretendía jugar. La legalidad del mazo físico por sí sola no determina el remedio.
 
-La clave normativa es que **siempre se evalúa primero el mazo físico**.
+## Error menor: PCG 3.3
 
----
+La medida base es Warning. Si el mazo es ilegal pero la lista es legal, se modifica el mazo para ajustarlo a la lista. Por ejemplo, una carta ausente de un mazo de Construido de 59 cartas puede recuperarse si está en la caja. También se retiran las copias que excedan el límite; si eso deja el mazo por debajo del mínimo, el error pasa a mayor.
 
-## Principio general
+Que mazo y lista sean legales pero distintos aparece entre los ejemplos de error menor. Sin embargo, **si hay que modificar la lista por cualquier motivo**, PCG 3.3 remite a error mayor. No existe una corrección gratuita de la lista solo porque el mazo físico sea legal.
 
-- La **decklist** es un **registro**.
-    
-- El **mazo físico** es el **objeto de juego**.
-    
-- Las correcciones de lista **solo son posibles si el mazo físico es legal, completo y verificable**.
-    
+## Error mayor: PCG 3.4
 
----
+La medida base es Game Loss. Incluye una lista que debe cambiarse para reflejar el mazo, un mazo de Construido de 59 cartas cuya carta ausente no se encuentra, o más de dos tintas. El remedio depende del defecto concreto: se corrigen las tintas o se consiguen cartas para alcanzar el mínimo; el juez puede emitir Ink Card Proxies si no pueden conseguirse las cartas necesarias. Si después se consiguen las cartas originales, puede recuperarse la composición registrada sin una nueva penalización.
 
-## Caso 1: el mazo físico es legal
+## Legalidad y comunicación
 
-Un mazo físico se considera **legal** cuando:
+En Construido se requieren al menos 60 cartas, un máximo de dos tintas y hasta cuatro copias por **nombre completo inglés**, incluida la versión. También se comprueban la rotación y las prohibiciones del formato concreto. Véanse [[1.3. Formatos de Torneo]] y [[1.6 Legalidad de Sets (Set Legality)]].
 
-- Tiene **al menos 60 cartas**
-    
-- Respeta el límite de **máximo 4 copias por nombre**
-    
-- Cumple la restricción de **máximo dos tintas**
-    
-- No contiene **cartas prohibidas**
-    
-- Está **completo y verificable** en el momento del deck check
-    
+Ante una discrepancia, llama al Lore Guide y conserva mazo y lista para la investigación. No cambies ninguno por tu cuenta. Las PCG distinguen error menor y mayor y contemplan escalamiento por reiteración; no es correcto resumirlas como «siempre Game Loss».
 
-### Procedimiento
+## Referencias
 
-- La discrepancia se clasifica como **decklist error**.
-    
-- El juez puede **corregir la decklist** para que coincida exactamente con el mazo físico.
-    
-- El mazo físico **no se modifica**.
-    
-- Tras la corrección, **lista y mazo coinciden oficialmente**.
-    
-
-### Nota
-
-La corrección de la decklist es una **corrección documental**, no una reconstrucción del mazo.
-
----
-
-## Caso 2: el mazo físico es ilegal o incompleto
-
-Un mazo físico es **ilegal** si ocurre cualquiera de los siguientes supuestos:
-
-- Menos de 60 cartas
-    
-- Más de 4 copias de una carta
-    
-- Combinación de tintas no permitida
-    
-- Cartas no legales en el formato
-    
-- Cartas faltantes o mazo no verificable
-    
-
-### Procedimiento
-
-- **No es posible corregir la decklist**, ya que no existe un mazo legal que pueda usarse como referencia.
-    
-- Se aplica la penalización correspondiente: **Game Loss**.
-    
-- El juez ordena una **corrección del mazo físico** para que sea legal antes de continuar el evento.
-    
-- La decklist **no se usa como opción de corrección** en este caso.
-    
-
----
-
-## Penalización aplicable
-
-- La penalización estándar para errores de mazo o lista es **Game Loss**.
-    
-- **No se aplica Match Loss** para este tipo de infracciones.
-    
-
----
-
-## Diferencia entre las dos vías reglamentarias
-
-|Aspecto|Corrección de decklist|Game Loss|
-|---|---|---|
-|¿El mazo es legal?|Sí|No|
-|¿Se modifica el mazo físico?|No|Sí (tras la penalización)|
-|¿Se corrige la decklist?|Sí|No|
-|¿Se aplica penalización?|No necesariamente|Sí (Game Loss)|
-|Tipo de error|Documental / clerical|Estructural|
-
----
-
-## Aclaración importante
-
-Las reglas **no ofrecen una elección libre al jugador**.  
-El procedimiento aplicable depende **exclusivamente del estado del mazo físico** en el momento del deck check.
-
----
-
-## Frase recomendada para comunicación con jugadores
-
-> “Primero evaluamos si el mazo físico es legal.  
-> Si lo es, corregimos la lista.  
-> Si no lo es, la penalización correspondiente es Game Loss.”
-
----
-
-## Resumen operativo
-
-- ✔️ **Mazo legal → corrección de decklist posible**
-    
-- ❌ **Mazo ilegal → no hay corrección de decklist**
-    
-- ⚖️ **La penalización aplicable es siempre Game Loss**
-    
+- [Play Correction Guidelines, 3.3–3.4, pp.9–10](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf#page=9), efectivas el 21/05/2024.
+- [Tournament Rules, 1.3.1 y 3.8–3.9, pp.5 y 19–20](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf#page=19), efectivas el 14/07/2026.

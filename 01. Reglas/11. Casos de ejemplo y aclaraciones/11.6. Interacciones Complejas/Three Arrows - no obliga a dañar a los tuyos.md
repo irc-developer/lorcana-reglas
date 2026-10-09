@@ -18,10 +18,10 @@ La clave es que **no estás obligado a dañar a uno de tus personajes solo porqu
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Frases independientes y resolución en orden]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Las elecciones se hacen al resolver]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.4. Si un efecto contiene la palabra may, el jugador que generó la habilidad decide si quiere que ocurra.|6.1.4. may hace opcional esa frase]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. Resolver instrucciones en orden]]
+- [[6.1. General (General)|6.1.2. Frases independientes y resolución en orden]]
+- [[6.1. General (General)|6.1.3. Las elecciones se hacen al resolver]]
+- [[6.1. General (General)|6.1.4. may hace opcional esa frase]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Resolver instrucciones en orden]]
 
 La combinación relevante es esta:
 
@@ -48,11 +48,11 @@ La combinación relevante es esta:
 
 ## 🔗 Véase también
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|No tener objetivo legal vs elegir un objetivo inválido]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido|Resolución parcial sin objetivo válido]]
+- [[No tener objetivo legal vs elegir un objetivo inválido]]
+- [[Resolución parcial sin objetivo válido]]
 
 ---
 
 ## 🏷️ Tags
 
-#three-arrows #targeting #another-chosen-character #may #optional-effect #legal-target #resolution
+#restriction #resolution

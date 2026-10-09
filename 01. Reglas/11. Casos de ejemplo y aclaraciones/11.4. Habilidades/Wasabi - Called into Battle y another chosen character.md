@@ -22,6 +22,14 @@ El personaje adicional puede ser **tuyo o de un oponente**, y puede estar prepar
 
 ---
 
+### Otra copia puede ser «otro»
+
+**Hyperia City, desde el 16/10/2026:** [Rapunzel - Outgoing Artist](https://cards.lorcast.io/card/digital/large/crd_e111f3608b5e470d862124795daa01ba.avif?1790871818) no puede elegirse a sí misma con PICTURE PERFECT. Si es el único personaje en juego, revelar una Rapunzel de la mano no sustituye la elección que falta. Otra copia de Rapunzel en juego sí es un personaje distinto y puede elegirse; entonces la carta revelada puede compartir su nombre. «Another» distingue cartas, no nombres.
+
+[Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Rapunzel; CR 6.1.6. Este ejemplo confirma esa distinción general; no convierte las notas en una aclaración específica de Twin Blades.
+
+---
+
 ## 📘 Referencias
 
 - [[6.1. General (General)|CR 6.1.2 y 6.1.6. Contexto completo y significado de «otro»]]: `another/other` distingue la carta de la fuente o de una selección anterior. CR 6.1.2 exige considerar el contexto y la estructura completos de la habilidad. El ejemplo oficial de CR 6.1.6 explica que Mulan - Imperial Soldier no se incluye entre sus propios «otros personajes».
@@ -54,7 +62,7 @@ Este daño adicional procede de una **habilidad**, no de un nuevo desafío. Por 
 
 ## 📚 Fuente oficial
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.1.2 y 6.1.6, pp. 25–27.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.1.2 y 6.1.6, pp. 25–27.
 
 **Alcance:** interpretación del texto de Twin Blades y las reglas generales; no se ha localizado una aclaración oficial específica que resuelva esta duda.
 

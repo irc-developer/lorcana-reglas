@@ -14,7 +14,7 @@ Todas las personas deben tratarse con **cortesía, respeto, amabilidad y honesti
 
 ## Relación con los torneos
 
-En un torneo también se aplican las normas específicas de [[03. Reglas de Torneo/7. Conducta del Jugador/7.1. Conducta Prohibida (Prohibited Conduct)|conducta del jugador]]. El Community Code mantiene su alcance más amplio para actividades de colección e intercambio, como Collection Quest.
+En un torneo también se aplican las normas específicas de [[7.1. Conducta Prohibida (Prohibited Conduct)|conducta del jugador]]. El Community Code mantiene su alcance más amplio para actividades de colección e intercambio, como Collection Quest.
 
 ## Fuente oficial
 

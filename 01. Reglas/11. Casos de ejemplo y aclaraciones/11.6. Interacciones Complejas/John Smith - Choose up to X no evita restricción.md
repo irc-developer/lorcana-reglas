@@ -38,22 +38,14 @@ _"Si un efecto permite elegir 'hasta N' (up to N): No se puede elegir el mismo o
 
 Lo que la regla NO dice es que "hasta" permite evadir restricciones de elección. Las restricciones estáticas prevalecen.
 
-**Ejemplo análogo - Ward:**
-
-Ward dice: "Your opponents can't choose this card when resolving an effect."
-
-Si juegas un efecto "elige hasta 3 cartas de tu mano" y un oponente controla una carta con Ward:
-- El oponente **no puede elegir** la carta con Ward
-- Pero sigue pudiendo elegir "hasta 3" cartas (las que no tienen Ward)
-
-Del mismo modo, "Do your worst" impone una **restricción positiva** (must choose) que prevalece sobre la flexibilidad de "choose up to X".
+Una prohibición como Ward puede volver ilegal elegir a John Smith. «If able» exige que cumpla todos los requisitos y no elimina prohibiciones. Ward en juego no afecta a cartas de personaje que estén en una mano o descarte.
 
 **Base normativa:**
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto|6.1.3. Elecciones: "up to N"]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#Restricciones de elección|6.4. Restricciones estáticas de elección]]
+- [[6.1. General (General)|6.1.3. Elecciones: "up to N"]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Restricciones estáticas de elección]]
 
 ---
 
 ## 🏷️ Tags
 
-#up-to-N #static-ability #restriction #positive-restriction #must-choose #do-your-worst
+#static-ability #restriction

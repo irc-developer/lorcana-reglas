@@ -14,12 +14,12 @@ La condición mira que haya ocurrido un desafío previo en el turno y que el des
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)#4.6.1. Definición|4.6.1. Definición de desafío]]
-- [[4.6 Desafío (Challenge)#4.6.8. Desafiar localizaciones|4.6.8. Desafiar localizaciones]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Habilidades disparadas]]
+- [[4.6 Desafío (Challenge)|4.6.1. Definición de desafío]]
+- [[4.6 Desafío (Challenge)|4.6.8. Desafiar localizaciones]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Habilidades disparadas]]
 
 ---
 
 ## 🏷️ Tags
 
-#desafio #lore #triggered-abilities
+#lore-gain #triggered-ability

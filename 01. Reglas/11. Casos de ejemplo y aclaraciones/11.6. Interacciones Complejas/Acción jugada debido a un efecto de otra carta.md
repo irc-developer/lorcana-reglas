@@ -20,8 +20,10 @@ Con reglas actuales, [We Know The Way](https://cards.lorcast.io/card/digital/lar
 ### Caso B — **Sí**
 Se respeta el orden escrito del efecto: primero la parte de poner en el fondo del mazo y después la de barajar.
 
-### Caso C — **Sí**
-Al jugar una carta por efecto, sigues el procedimiento normal de "jugar una carta", incluyendo elección de modo de juego y coste alternativo cuando sea legal. Si cumples Sing Together, puedes usarlo.
+### Caso C — **No**
+MASH-UP de Powerline permite jugar la canción **gratis**. Al elegir ese coste alternativo no puedes sustituirlo por Sing Together ni cantar la canción para generar disparos de cantar.
+
+Un permiso que diga «como si estuviera en tu mano», como el del caso D, es diferente: no fija el coste alternativo de gratis.
 
 ### Caso D — **Sí**
 [Kristoff's Lute](https://cards.lorcast.io/card/digital/large/crd_ec94f5c4a31b40c99f5b421ac7dd3acf.avif?1770259798) dice: "Reveal the top card of your deck. You may play it as if it were in your hand. Otherwise, put it in your discard." Si la carta revelada es una canción, la juegas siguiendo el procedimiento normal de jugar una carta, y en ese proceso puedes elegir un coste alternativo legal. Cantar una canción es un coste alternativo, así que puedes cantarla si cumples sus requisitos normales. Si no puedes pagar ningún coste legal para jugarla, no puedes jugarla y va al descarte por la instrucción de la propia habilidad.
@@ -30,15 +32,15 @@ Al jugar una carta por efecto, sigues el procedimiento normal de "jugar una cart
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8. Jugando cartas como resultado de un efecto|6.7.8. Jugando cartas como resultado de un efecto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.8.1. Orden de resolución de las acciones|6.7.8.1. Orden de resolución de las acciones]]
-- [[4.3. Jugar una carta (Play a Card)#4.3.2.2. Modo de juego|4.3.2.2. Modo de juego]]
-- [[1.5 Costes (Costs)#1.5.5.1. Cantar|1.5.5.1. Cantar es un coste alternativo]]
-- [[4.3. Jugar una carta (Play a Card)#4.3.3.2. Acciones|4.3.3.2. Acciones]]
-- [[5.4. Acciones (Actions)#5.4.4.2. Regla especial|5.4.4.2. Las canciones permiten pagar un coste alternativo]]
-- [[8.11. Cantante (Singer)#8.11.1. Definición|8.11.1. Singer permite pagar ese coste alternativo]]
-- [[8.12. Cantar Juntos (Sing Together)#8.12.1. Definición|8.12.1. Definición]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/We Know The Way no puede seleccionarse a sí misma|We Know The Way no puede seleccionarse a sí misma]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8. Jugando cartas como resultado de un efecto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1. Orden de resolución de las acciones]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.2.2. Modo de juego]]
+- [[1.5 Costes (Costs)|1.5.5.1. Cantar es un coste alternativo]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.3.2. Acciones]]
+- [[5.4. Acciones (Actions)|5.4.4.2. Las canciones permiten pagar un coste alternativo]]
+- [[8.11. Cantante (Singer)|8.11.1. Singer permite pagar ese coste alternativo]]
+- [[8.12. Cantar Juntos (Sing Together)|8.12.1. Definición]]
+- [[We Know The Way no puede seleccionarse a sí misma]]
 
 ---
 
@@ -54,4 +56,4 @@ Al jugar una carta por efecto, sigues el procedimiento normal de "jugar una cart
 
 ## 🏷️ Tags
 
-#accion #bag #costealternativo #playedbyeffect #resolucion #singtogether
+#turn-actions #bag #alternate-cost #play-card #resolution #singing

@@ -22,10 +22,10 @@ Tampoco se forma un bucle. Cuando luego el controlador de Diablo robe por su pro
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. El texto se resuelve en el orden en que está escrito]]
-- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|1.12. Robo]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Los triggers creados durante una resolución esperan a que el efecto actual termine]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Colors of the Wind - Resolución de robo múltiple|Colors of the Wind - Resolución de robo múltiple]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El texto se resuelve en el orden en que está escrito]]
+- [[1.12 Robo (Drawing)|1.12. Robo]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers creados durante una resolución esperan a que el efecto actual termine]]
+- [[Colors of the Wind - Resolución de robo múltiple]]
 
 La interacción se apoya en cuatro ideas distintas:
 
@@ -73,4 +73,4 @@ Secuencia:
 
 ## 🏷️ Tags
 
-#demona #diablo #devoted-herald #draw #multiple-draws #triggered-ability #bag #timing #interaccion-compleja
+#triggered-ability #bag #timing #interactions

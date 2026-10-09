@@ -17,8 +17,8 @@ Además, como la habilidad no dice "another chosen character", [Ursula - Deal Ma
 ## 📘 Referencias
 
 - [Ursula - Deal Maker](https://cards.lorcast.io/card/digital/large/crd_1a2311c3639d464d9eb638a08d535276.avif?1777687789): su habilidad dice "put chosen character of yours into your inkwell facedown and exerted".
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|5.3. Personajes (Characters)]]: una carta de personaje en la zona de juego es un personaje; en cualquier otra zona es una carta de personaje.
-- [[01. Reglas/7. Zonas (Zones)/7.5. Pozo de tinta (Inkwell)|7.5. Pozo de tinta (Inkwell)]]: cuando un efecto pone una carta de otra zona en el pozo de tinta, entra boca abajo como tinta.
+- [[5.3. Personajes (Characters)]]: una carta de personaje en la zona de juego es un personaje; en cualquier otra zona es una carta de personaje.
+- [[7.5. Pozo de tinta (Inkwell)]]: cuando un efecto pone una carta de otra zona en el pozo de tinta, entra boca abajo como tinta.
 
 La clave del ruling está en el sustantivo usado por la carta: pide elegir un character, no una character card. Eso restringe la elección a la zona de juego.
 

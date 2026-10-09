@@ -29,11 +29,11 @@ Así que, en el ejemplo, tu personaje entra primero y cualquier trigger que gene
 
 - [CR 2.3.0, 6.7.6.1, p. 37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37): orden por partes, aplicable desde el 16 de octubre de 2026.
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2.3. Tercer paso - seguir las instrucciones del texto|6.7.2.3. El efecto se resuelve por completo y en el orden escrito]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Los triggers creados durante una resolución esperan]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.6. Jugador activo vs jugador no-activo|6.7.6. El jugador activo realiza primero su parte del efecto]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. La bolsa no se resuelve hasta que termine el efecto actual]]
-- [[01. Reglas/2. Juego (Gameplay)/2.1. General#2.1.3. Jugador inicial y jugador no inicial|2.1.3. El orden de turno determina quién actúa después]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El efecto se resuelve por completo y en el orden escrito]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4. Los triggers creados durante una resolución esperan]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.6. El jugador activo realiza primero su parte del efecto]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. La bolsa no se resuelve hasta que termine el efecto actual]]
+- [[2.1. General|2.1.3. El orden de turno determina quién actúa después]]
 
 ---
 

@@ -6,7 +6,7 @@ Después de cantar [Remember Me](https://cards.lorcast.io/card/digital/large/crd
 
 ## ✅ Respuesta
 
-**Puedes seguir jugando desde la mano.** Remember Me añade el permiso de jugar personajes desde el descarte durante el resto del turno. Los que juegues así entran agotados y pagas sus costes normalmente; no se juegan gratis.
+**Puedes seguir jugando desde la mano.** Remember Me añade el permiso de jugar personajes desde el descarte durante el resto del turno. Los que juegues así entran agotados y pagas un coste legal; la canción por sí sola no los juega gratis. Un efecto adicional puede proporcionar un coste alternativo gratuito.
 
 Después de jugar un personaje desde el descarte con ese efecto, **no puedes jugar más personajes con su mismo nombre durante ese turno**, desde la mano ni desde el descarte. La versión situada después del guion no diferencia el nombre. Puedes jugar varios personajes desde el descarte si sus nombres siguen permitidos y puedes pagar sus costes.
 
@@ -24,6 +24,14 @@ La prohibición de Remember Me termina con el turno. El permiso de The Horned Ki
 
 ---
 
+### Combinar el permiso con jugar gratis
+
+**Desde Hyperia City (16/10/2026), la aclaración oficial confirma que puedes combinar Remember Me con un efecto que te permita jugar un personaje gratis.** Puedes elegir una carta legal del descarte: el coste gratuito sustituye el pago normal, pero el personaje entra agotado y su nombre queda bloqueado por Remember Me. El permiso de zona no anula otros requisitos.
+
+Resolver Remember Me durante el turno rival, si algún efecto lo permite, no concede por sí solo una acción de turno para jugar. Necesitas además un efecto que te dé una oportunidad de jugar un personaje en ese momento. En esa oportunidad el permiso de descarte sí puede utilizarse. [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), las dos preguntas sobre Remember Me.
+
+---
+
 ## 📘 Referencias
 
 [[1.2. Regla de oro (Golden Rules)|1.2.1–1.2.2: el texto de carta puede modificar la regla general, pero impedir prevalece sobre permitir]].
@@ -35,7 +43,7 @@ La prohibición de Remember Me termina con el turno. El permiso de The Horned Ki
 - [[8.12. Cantar Juntos (Sing Together)|8.12.1–8.12.2: coste alternativo de cantar con personajes preparados cuyo coste total alcance el umbral]].
 - [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1–1.8.3: comprobaciones de estado y bolsa tras completar la acción]].
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 1.2.2, 4.3.2–4.3.4, 5.2.6, 6.1.13.4–6.1.13.5, 6.4.1–6.4.2, 6.7.9 y 8.12.1–8.12.2; pp. 3, 12–13, 22, 29, 32, 37 y 43.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.2.2, 4.3.2–4.3.4, 5.2.6, 6.1.13.4–6.1.13.5, 6.4.1–6.4.2, 6.7.9 y 8.12.1–8.12.2; pp. 3, 12–13, 22, 29, 32, 37 y 43.
 
 ---
 

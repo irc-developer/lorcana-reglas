@@ -23,16 +23,9 @@ La política estándar de Disney Lorcana TCG establece que **las jugadas no pued
 
 ---
 
-## Estado de la Política
+## Estado de la política
 
-La política de Takebacks:
-
-- Está **oficialmente activa** en eventos DLC (Milwaukee, Richmond).
-    
-- Ha sido **anunciada por Ravensburger** como política vigente.
-    
-- Será **incorporada formalmente** al documento de _Tournament Rules_ en una actualización futura (prevista antes de DLC Ghent).
-    
+La política está incorporada en la sección 3.7 de [Tournament Rules 7.14](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), pp.17–19. Las referencias al anuncio de DLC son antecedentes; ya no corresponde presentarla como una incorporación futura. CR 2.3 no modifica por sí sola esta política.
 
 ---
 
@@ -137,9 +130,9 @@ Este es el criterio **más determinante**.
     
 - Revelar una carta propia como parte de la jugada (ej. inking una carta equivocada).
     
-- Resolución de efectos obligatorios sin decisiones.
+- Un efecto obligatorio no garantiza ausencia de información adicional: debe evaluarse lo que ocurrió según TR 3.7.1.
     
-- Corrección inmediata de errores de reglas.
+- Un error de reglas se evalúa conforme a TR 3.7.2 y no concede automáticamente un takeback.
     
 
 ---
@@ -256,7 +249,7 @@ Depender de errores accidentales del oponente **no es un objetivo competitivo le
 
 Solicitar lore con varios personajes puede tratarse como una secuencia agrupada fuera de orden si las acciones son inmediatas y no se obtuvo información nueva. La aplicación de la reversión sigue siendo una decisión del Lore Guide: no se concede automáticamente por haber actuado de forma agrupada. La fecha histórica atribuida al anuncio de esta política no queda verificada en la documentación local.
 
-Fundamento: política de reversión de jugadas y sección 3.7 de [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules 6.11]].
+Fundamento: política de reversión de jugadas y sección 3.7 de [Tournament Rules 7.14](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
 ---
 
@@ -264,4 +257,4 @@ Fundamento: política de reversión de jugadas y sección 3.7 de [[Documentacion
 
 Pasar turno puede rebobinarse solo si el Lore Guide considera que se cumplen los criterios de takeback. Una habilidad opcional de final de turno y un pase omitido pueden formar una única secuencia únicamente cuando no hubo información nueva y los hechos lo permiten. Robar cartas o realizar otra acción con información privada normalmente impide la reversión.
 
-Fundamento: artículo de reversión de jugadas y sección 3.7 de [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules 6.11]].
+Fundamento: artículo de reversión de jugadas y sección 3.7 de [Tournament Rules 7.14](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).

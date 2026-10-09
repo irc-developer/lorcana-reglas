@@ -68,23 +68,23 @@ Si, en cambio, eliges resolver primero **Healing Home**, puedes quitar hasta **2
 
 ## 📘 Referencias
 
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7. Bolsa (Bag)]]: la subregla **7.7.3.1** indica que si varias habilidades disparadas ocurren al mismo tiempo, se añaden a la bolsa simultáneamente.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7. Bolsa (Bag)]]: las subreglas **7.7.4.2** y **7.7.4.3** indican que el jugador activo elige una de sus habilidades disparadas en la bolsa y la resuelve por completo antes de elegir la siguiente.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: la subregla **6.7.4** aclara que las habilidades disparadas creadas durante una resolución esperan a la bolsa y no se mezclan dentro de esa misma resolución.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: la subregla **6.7.5** establece que la comprobación del estado del juego se realiza después de que se resuelvan todos los efectos de una acción o habilidad.
-- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check).md|1.8. Chequeo del estado del juego (Game State Check)]]: un personaje con daño igual o superior a su Voluntad es desterrado en esa comprobación.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Múltiples habilidades a la vez|Múltiples habilidades a la vez]]: resume que los triggers simultáneos no se resuelven a la vez, sino uno por uno desde la bolsa.
+- [[7.7. Bolsa (Bag)]]: la subregla **7.7.3.1** indica que si varias habilidades disparadas ocurren al mismo tiempo, se añaden a la bolsa simultáneamente.
+- [[7.7. Bolsa (Bag)]]: las subreglas **7.7.4.2** y **7.7.4.3** indican que el jugador activo elige una de sus habilidades disparadas en la bolsa y la resuelve por completo antes de elegir la siguiente.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: la subregla **6.7.4** aclara que las habilidades disparadas creadas durante una resolución esperan a la bolsa y no se mezclan dentro de esa misma resolución.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: la subregla **6.7.5** establece que la comprobación del estado del juego se realiza después de que se resuelvan todos los efectos de una acción o habilidad.
+- [[1.8. Chequeo del estado del juego (Game State Check)]]: un personaje con daño igual o superior a su Voluntad es desterrado en esa comprobación.
+- [[Múltiples habilidades a la vez]]: resume que los triggers simultáneos no se resuelven a la vez, sino uno por uno desde la bolsa.
 
 ---
 
 ## 🔗 Véase también
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC|Luisa Madrigal - I Can Take It, condición Then-if y GSC]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Mover daño no es retirar daño]]
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Múltiples habilidades a la vez|Múltiples habilidades a la vez]]
+- [[Luisa Madrigal - I Can Take It, condición Then-if y GSC]]
+- [[Mover daño no es retirar daño]]
+- [[Múltiples habilidades a la vez]]
 
 ---
 
 ## 🏷️ Tags
 
-#bag #triggered-abilities #resolution-order #gsc #quest #move-damage #remove-damage #luisa-madrigal #casa-madrigal
+#bag #triggered-ability #resolution #gsc #quest #move-damage

@@ -1,236 +1,55 @@
-# Guía de Etiquetas para Búsqueda en Lorcana
+# Guía de etiquetas para búsqueda en Lorcana
 
-Esta guía lista todas las etiquetas (tags) disponibles para mejorar la búsqueda en la documentación de Lorcana. Agregar estas etiquetas a las secciones permite búsquedas más precisas y eficientes.
+Usa etiquetas en inglés, en minúsculas y con guiones cuando sean necesarias varias palabras. El [[Registro de Tags - Master List|registro maestro]] conserva las etiquetas canónicas. Esta guía explica conceptos; no sustituye las reglas.
 
-## Cómo Usar las Etiquetas
+## Buscar
 
-- **Agregar a secciones relevantes**: Coloca los tags al final de cada sección o párrafo donde se explique ese concepto
-- **Buscar con `tag:`**: Usa el operador `tag:#palabra` en la búsqueda de Obsidian
-- **Combinar con `path:`**: Refina búsquedas con `path:"01. Reglas" tag:#Resist`
-- **Usar múltiples tags**: Una sección puede tener varios tags para búsqueda cruzada
+En Obsidian puedes combinar `tag:#resist` con `path:"01. Reglas"`, o buscar dos conceptos con `tag:#challenge tag:#damage`. Añade solo las etiquetas que describan el contenido del artículo, al final de su sección de tags.
 
----
+## Palabras clave
 
-## Palabras Clave (Keywords)
+CR 2.2 recoge catorce palabras clave. Desde el **16/10/2026**, CR 2.3 añade Adventurous y la lista tiene quince:
 
-Etiquetas para las 14 palabras clave oficiales del juego:
+| Etiqueta | Significado |
+| --- | --- |
+| #alert | Ignora el limitador de Evasive al desafiar; no prepara al personaje. |
+| #bodyguard | Permite entrar agotado y exige elegir un Guardaespaldas legal cuando se desafía a un personaje. |
+| #boost | Efecto secuencial con límite que pone una carta debajo del personaje; se usa cuando podría activarse una habilidad. |
+| #challenger | Bonificación de Fuerza mientras desafía. |
+| #evasive | Restringe quién puede desafiar al personaje; Alert ignora ese limitador. |
+| #reckless | Impide irse de aventura y terminar el turno mientras exista un desafío legal con ese personaje. |
+| #resist | Reduce el daño infligido en el valor indicado. |
+| #rush | Permite desafiar mientras el personaje sigue secándose. |
+| #shift | Coste alternativo para jugar sobre un personaje que cumpla sus requisitos. |
+| #singer | Determina el coste con el que cuenta el personaje para cantar; no cambia su coste de tinta. |
+| #sing-together | Coste alternativo de cantar con uno o más personajes válidos cuyo coste total alcance el umbral. |
+| #support | Al hacer quest, puede añadir su Fuerza actual a la de otro personaje este turno. |
+| #vanish | Se dispara cuando un oponente elige al personaje con la habilidad de una acción. |
+| #ward | Impide que un oponente elija la carta salvo para desafiarla; no protege de efectos que no eligen. |
+| #adventurous | Desde CR 2.3: impide desafiar y terminar el turno mientras el personaje pueda irse de aventura. |
 
-- `#Alert` - Habilidad que permite estar listo tras jugar el personaje
-- `#Bodyguard` - Palabra clave de protección que obliga a desafiar primero
-- `#Boost` - Mecánica del Set 10 (Whispers) que añade cartas debajo
-- `#Challenger` - Modificador de fuerza al desafiar (+N Fuerza)
-- `#Evasive` - Habilidad que solo puede ser desafiada por otros con Evasive
-- `#Reckless` - No puede hacer misiones (quest)
-- `#Resist` - Reduce el daño recibido (-N Daño)
-- `#Rush` - Permite desafiar el mismo turno que se juega
-- `#Shift` - Mecánica para jugar versiones sobre otras pagando descuento
-- `#Singer` - Permite cantar canciones
-- `#Sing-Together` - Permite cantar canciones con ayuda de otros
-- `#Support` - Añade Fuerza a otro personaje que desafía
-- `#Vanish` - Se destierra cuando es objetivo de una carta de acción del oponente
-- `#Ward` - Protección contra habilidades del oponente
+Las palabras clave pueden representar distintos tipos de habilidad. Torrent es el nombre de una habilidad de Mrs. Incredible, no una palabra clave del capítulo 8. Desde CR 2.3, las instancias repetidas sin +N se comparan por duración; Challenger +N y Resist +N conservan su acumulación.
 
----
+## Acciones, zonas y recursos
 
-## Tipos de Carta
+[[4.1. General|Las acciones de turno]] incluyen jugar cartas, activar habilidades, irse de aventura, desafiar, mover personajes y poner una carta como tinta conforme a sus límites. Cantar es un coste alternativo al jugar una canción. No se limita la lista a cuatro acciones.
 
-Etiquetas para los 4 tipos de carta:
+Usa #hand, #deck, #discard, #inkwell, #play-zone y #bag para las zonas. Las cartas en el pozo y las gotas son distintas: #ink-drop describe contadores que se retiran para pagar tinta; no son cartas ni se agotan.
 
-- `#Character` - Cartas de personaje (pueden hacer misiones y desafíos)
-- `#Action` - Cartas de acción (efecto único, van al descarte)
-- `#Item` - Cartas de objeto (permanecen en juego, pueden extenuarse)
-- `#Location` - Cartas de ubicación (permanecen en juego, generan sabiduría)
+## Habilidades y resolución
 
----
+- #activated-ability: el jugador la anuncia, paga su coste y resuelve el efecto.
+- #triggered-ability: un evento añade una habilidad a la bolsa; espera si otra resolución está en curso.
+- #static-ability: modifica reglas o características continuamente o durante su duración.
+- #replacement-effect: modifica un evento antes de que ocurra. «Can’t» por sí solo no identifica un reemplazo.
+- #resolution y #timing: elecciones e instrucciones en su orden reglamentario, sin acciones intercaladas.
+- #under: cartas debajo y pilas físicas; los disparos pendientes usan la bolsa.
+- #golden-rule: texto de carta frente a reglas generales, impedir frente a permitir y hacer tanto como sea posible.
 
-## Acciones de Turno
+## Referencias
 
-Etiquetas para las 4 acciones principales que puede hacer un jugador:
+- [[8.1. Generalidades (General)|CR 8: lista y reglas de palabras clave]].
+- [[Tipos de habilidades]], [[1.13. Contadores (Counters)]] y [[4.1. General]].
+- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8, efectiva el 16/10/2026; [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), vigente antes de esa fecha.
 
-- `#Challenge` / `#Desafío` - Acción de combate entre personajes
-- `#Quest` / `#Misión` - Acción para generar sabiduría (lore)
-- `#Play` / `#Jugar` - Acción de jugar cartas desde la mano
-- `#Sing` / `#Cantar` - Acción de jugar canciones extenuando personajes
-
----
-
-## Zonas del Juego
-
-Etiquetas para las 5 zonas principales:
-
-- `#Inkwell` / `#Tintero` - Zona donde se coloca la tinta
-- `#Hand` / `#Mano` - Cartas en la mano del jugador
-- `#Deck` / `#Mazo` - Biblioteca de cartas boca abajo
-- `#Discard` / `#Descarte` - Pila de cartas descartadas/desterradas
-- `#Play` / `#Juego` - Zona donde están las cartas en juego
-
----
-
-## Mecánicas Principales
-
-Etiquetas para acciones y efectos comunes:
-
-- `#Damage` / `#Daño` - Daño infligido a personajes
-- `#Heal` / `#Curar` - Curación de daño
-- `#Draw` / `#Robar` - Robar cartas del mazo
-- `#Banish` / `#Desterrar` - Enviar cartas al descarte
-- `#Exert` / `#Extenuar` - Girar carta 90° (no puede usarse hasta estar lista)
-- `#Ready` / `#Enderezar` - Enderezar carta extenuada
-- `#Lore` / `#Sabiduría` - Puntos de victoria (objetivo: 20)
-- `#Ink` / `#Tinta` - Recurso del juego
-
----
-
-## Atributos de Carta
-
-Etiquetas para características de las cartas:
-
-- `#Cost` / `#Coste` - Coste de tinta para jugar la carta
-- `#Strength` / `#Fuerza` - Valor de ataque (esquina superior izquierda)
-- `#Willpower` / `#Voluntad` - Valor de defensa (esquina superior derecha)
-- `#Inkable` / `#Entintable` - Carta que puede ponerse como tinta
-- `#Rarity` / `#Rareza` - Común, Poco Común, Rara, Super Rara, Legendaria, Encantada
-
----
-
-## Tipos de Versión
-
-Etiquetas para clasificación de personajes:
-
-- `#Floodborn` - Versión nacida de la inundación (puede hacer Shift)
-- `#Storyborn` - Versión original del cuento
-- `#Dreamborn` - Versión nacida de los sueños
-
----
-
-## Efectos y Habilidades
-
-Etiquetas para tipos de habilidades:
-
-- `#Ability` / `#Habilidad` - Término general para cualquier habilidad
-- `#Effect` / `#Efecto` - Resultado de una habilidad o acción
-- `#Trigger` / `#Desencadenador` - Condición que activa una habilidad
-- `#Replacement-Effect` / `#Efecto-Reemplazo` - Efecto que modifica cómo sucede algo (ej: "en su lugar")
-- `#Static-Ability` / `#Habilidad-Estática` - Habilidad siempre activa
-- `#Activated-Ability` / `#Habilidad-Activada` - Habilidad que requiere activación manual (coste + efecto)
-- `#Triggered-Ability` / `#Habilidad-Desencadenada` - Habilidad que se activa automáticamente con condición
-
----
-
-## Turnos y Timing
-
-Etiquetas para estructura temporal del juego:
-
-- `#Turn` / `#Turno` - Secuencia completa de un jugador
-- `#Beginning-Phase` / `#Fase-Inicio` - Primera fase (enderezar, triggers inicio turno)
-- `#Main-Phase` / `#Fase-Principal` - Fase de acciones del jugador
-- `#Resolution` / `#Resolución` - Proceso de resolver efectos
-- `#Priority` / `#Prioridad` - Sistema de respuesta (no existe en Lorcana)
-- `#Stack` / `#Pila` - Grupo de cartas una encima de otra
-- `#Golden-Rule` / `#Regla-de-Oro`: haz todo lo que puedas.
-
----
-
-## Torneos
-
-Etiquetas para eventos competitivos:
-
-- `#Tournament` / `#Torneo` - Evento competitivo organizado
-- `#Constructed` / `#Construido` - Formato con mazos preparados previamente
-- `#Limited` / `#Limitado` - Formato donde se construye mazo con producto sellado
-- `#Draft` - Modalidad de limitado con selección de cartas
-- `#Sealed` - Modalidad de limitado con sobres sellados
-- `#Format` / `#Formato` - Tipo de evento (Construido/Limitado)
-
----
-
-## Errores y Penalizaciones
-
-Etiquetas para infracciones y correcciones:
-
-- `#Error` - Término general para errores de juego
-- `#Warning` / `#Advertencia` - Penalización menor (registro)
-- `#Game-Loss` / `#Pérdida-Juego` - Penalización grave (pierde partida actual)
-- `#Disqualification` / `#Descalificación` - Expulsión del torneo
-- `#Game-Rule-Violation` / `#Violación-Regla` - Error de aplicación de reglas
-- `#Tournament-Error` / `#Error-Torneo` - Error de procedimiento de torneo
-- `#Unsporting-Conduct` / `#Conducta-Antideportiva` - Comportamiento inapropiado
-
----
-
-## Roles
-
-Etiquetas para participantes en torneos:
-
-- `#Judge` / `#Juez` - Árbitro de torneo
-- `#Player` / `#Jugador` - Participante del juego/torneo
-- `#Opponent` / `#Oponente` - Jugador contrario
-- `#Head-Judge` / `#Juez-Jefe` - Juez principal con autoridad final
-
----
-
-## Comunicación e Información
-
-Etiquetas para niveles de información:
-
-- `#Free-Information` / `#Información-Libre` - Información pública (ej: zona de descarte)
-- `#Derived-Information` / `#Información-Derivada` - Información calculable (ej: tamaño del mazo)
-- `#Private-Information` / `#Información-Privada` - Información oculta (ej: mano)
-- `#Shortcut` / `#Atajo` - Propuesta para acelerar secuencias (ej: "paso turno hasta tu final")
-
----
-
-## Conceptos Avanzados
-
-Etiquetas para documentación y recursos:
-
-- `#Glossary` / `#Glosario` - Definiciones oficiales de términos
-- `#Clarification` / `#Aclaración` - Explicación de reglas complejas o interacciones
-- `#Rules-Question` / `#Pregunta-Reglas` - Consulta sobre reglas del juego
-- `#FAQ` - Preguntas frecuentes
-- `#Errata` - Correcciones oficiales a cartas impresas
-
----
-
-## Ejemplos de Búsqueda
-
-### Búsquedas Simples
-```
-tag:#Resist
-tag:#Challenge
-tag:#Error-Torneo
-```
-
-### Búsquedas en Carpetas Específicas
-```
-path:"01. Reglas" tag:#Resist
-path:"05. Consejos de jueces" tag:#Warning
-path:"02. Habilidades" tag:#Shift
-```
-
-### Búsquedas Combinadas
-```
-tag:#Resist tag:#Damage
-tag:#Challenge tag:#Replacement-Effect
-path:"03. Reglas de Torneo" (tag:#Error OR tag:#Warning)
-```
-
-### Búsquedas de Sección
-```
-section:(Resist Challenge) path:"01. Reglas"
-tag:#Resist section:(daño reemplazo)
-```
-
----
-
-## Consejos de Etiquetado
-
-1. **Una sección, múltiples tags**: No dudes en usar varios tags si la sección cubre múltiples conceptos
-2. **Versión española preferida**: Usa tags en español para consistencia (`#Desafío` en vez de `#Challenge`)
-3. **Tags al final**: Coloca los tags al final del párrafo o sección para no interferir con la lectura
-4. **No sobre-etiquetar**: Solo usa tags relevantes que realmente mejoren la búsqueda
-5. **Consistencia**: Usa siempre la misma forma del tag (`#Resist`, no `#resist` ni `#RESIST`)
-
----
-
-**Última actualización**: 15 de febrero de 2026
+Última actualización: 09/10/2026.

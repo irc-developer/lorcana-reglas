@@ -32,10 +32,10 @@ Sí puede corregirse la jugada si lo que ocurrió fue una **acción ilegal** y t
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|4.6 Desafío (Challenge)]]: el desafío tiene pasos definidos y el jugador solo elige su siguiente acción cuando el desafío ya terminó.
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7. Game Actions, Timing, y Illegal Actions]]: si una acción era ilegal, se deshace hasta donde sea razonable; si la acción fue legal, no hay una regla general que permita rebobinarla por arrepentimiento táctico.
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)|3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)]]: no sirve para reordenar acciones cuando el orden cambia la información obtenida o el resultado práctico.
-- [[01. Reglas/10. Artículos/Reversión de jugadas (takebacks)|Reversión de jugadas (takebacks)]]: en torneo, los takebacks son una excepción limitada y arbitral; no son un derecho automático del jugador ni dependen del consentimiento del rival.
+- [[4.6 Desafío (Challenge)]]: el desafío tiene pasos definidos y el jugador solo elige su siguiente acción cuando el desafío ya terminó.
+- [[1.7. Game Actions, Timing, y Illegal Actions]]: si una acción era ilegal, se deshace hasta donde sea razonable; si la acción fue legal, no hay una regla general que permita rebobinarla por arrepentimiento táctico.
+- [[3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)]]: no sirve para reordenar acciones cuando el orden cambia la información obtenida o el resultado práctico.
+- [[Reversión de jugadas (takebacks)]]: en torneo, los takebacks son una excepción limitada y arbitral; no son un derecho automático del jugador ni dependen del consentimiento del rival.
 
 ---
 
@@ -70,7 +70,7 @@ La clave no es si ahora prefieres otra línea, sino si la jugada anterior **nunc
 
 Si lo que quieres es cambiar una decisión porque la línea elegida salió peor, no hay rewind automático.
 
-Si lo que pasó es que la jugada era ilegal, entonces sí se corrige según [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7. Game Actions, Timing, y Illegal Actions]].
+Si lo que pasó es que la jugada era ilegal, entonces sí se corrige según [[1.7. Game Actions, Timing, y Illegal Actions]].
 
 Si estás en torneo y hay duda, llama al juez **antes** de seguir encadenando acciones.
 

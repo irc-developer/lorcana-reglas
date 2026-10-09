@@ -6,17 +6,19 @@
 
 ## ✅ Respuesta
 
-En Top Cut Premier, antes de la primera partida se determina aleatoriamente qué jugador elige entre jugar primero o robar primero. En cada partida posterior elige quien perdió la partida anterior. En eliminación directa, el seed más alto de la fase suiza elige en la primera partida. Los eventos Competitive pueden anunciar una estructura distinta.
+**En eliminación directa, el jugador mejor clasificado en las rondas suizas elige jugar o robar primero en la primera partida.** En cada partida posterior elige quien perdió la más reciente. La elección se hace antes de ver las manos iniciales.
+
+La selección aleatoria corresponde a los encuentros de Swiss en Premier; no sustituye la prioridad por clasificación de su Top Cut. Los eventos Competitive deben anunciar su estructura y seguir los requisitos adicionales aplicables.
 
 ---
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.3 Estructura de Partida (Match Structure).md|3.3. Estructura de partida]], apartados Premier Play y eliminación directa.
+- [[3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]], apartados Premier Play y eliminación directa.
 
 ## 🔄 Cómo se resuelve
 
-1. En Premier, determina aleatoriamente quién elige primero o roba primero y toma esa decisión antes de mirar la mano inicial.
+1. En Top Cut de eliminación directa, el mejor clasificado de Swiss elige para la primera partida antes de ver las manos.
 2. En cada partida posterior elige quien perdió la partida anterior.
 3. En eliminación directa, el seed más alto elige en la partida 1; después elige quien perdió la partida anterior.
 

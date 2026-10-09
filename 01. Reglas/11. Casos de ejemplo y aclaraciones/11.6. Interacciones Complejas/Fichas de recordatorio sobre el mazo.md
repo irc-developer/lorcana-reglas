@@ -14,9 +14,9 @@ No puede utilizarse para registrar información privada del oponente ni para rep
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/5 Información y comunicación/5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|5.2. Notas y seguimiento de información]]: permite fichas para seguir información pública propia, pero prohíbe representaciones numéricas salvo el daño.
-- [[03. Reglas de Torneo/5 Información y comunicación/5.1. Disposición de Juego (Game Layout)|5.1. Disposición de juego]]: la mesa debe mantenerse clara y sin ambigüedades.
-- [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules]], reglas 5.1 y 5.2.
+- [[5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|5.2. Notas y seguimiento de información]]: permite fichas para seguir información pública propia, pero prohíbe representaciones numéricas salvo el daño.
+- [[5.1. Disposición de Juego (Game Layout)|5.1. Disposición de juego]]: la mesa debe mantenerse clara y sin ambigüedades.
+- [Tournament Rules](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), reglas 5.1 y 5.2.
 
 ---
 
@@ -31,9 +31,9 @@ No puede utilizarse para registrar información privada del oponente ni para rep
 
 ### No usar números para recordar Fuerza o Voluntad
 
-Los dados, papeles o fichas con «+1», «−1» o «−3» no pueden representar cambios numéricos de Fuerza o Voluntad. Se pueden usar recordatorios no numéricos que no oculten cartas ni creen ambigüedad. La excepción numérica prevista en las reglas de torneo es el daño.
+Los dados, papeles o fichas con «+1», «−1» o «−3» no pueden representar cambios numéricos de Fuerza o Voluntad. Se pueden usar recordatorios no numéricos que no oculten cartas ni creen ambigüedad. La excepción numérica prevista en TR 5.2 es el daño. Desde el 16/10/2026, CR 1.13 introduce también gotas de tinta; consulta al Lore Guide cómo representarlas en torneo, porque el texto de TR 5.2 no incorpora expresamente ese nuevo contador.
 
-Fundamento: secciones 5.1–5.2 de [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules 6.11]].
+Fundamento: secciones 5.1–5.2 de [Tournament Rules 7.14](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
 ---
 

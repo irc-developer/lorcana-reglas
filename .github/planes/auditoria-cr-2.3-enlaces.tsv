@@ -1,0 +1,10 @@
+archivo	linea	destino	estado
+01. Reglas/11. Casos de ejemplo y aclaraciones/Plantilla - Caso de ejemplo y aclaración.md	17	Ruta de regla	marcador de plantilla; excluido de publicación
+01. Reglas/11. Casos de ejemplo y aclaraciones/Plantilla - Caso de ejemplo y aclaración.md	18	Documentacion Oficial/Documento utilizado.pdf	marcador de plantilla; excluido de publicación
+04. Guia de correccion de jugadas/01. Introduccion/1.2 Rebobinar una partida/1.2.1 Orden en el rebobinado.md	1	4.3.1 Acciones de turno	corregido; destino local existente; sin anclas heredadas
+04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md	2	Habilidad disparada (triggered ability)	corregido; destino local existente; sin anclas heredadas
+04. Guia de correccion de jugadas/02. Errores de reglas/2.1 Efecto disparado perdido (Missed Trigger).md	31	7.4.2. Cuando, Siempre que, Al comienzo o al final de	corregido; destino local existente; sin anclas heredadas
+04. Guia de correccion de jugadas/02. Errores de reglas/2.3 Error en el conteo de cartas (Card Count Error).md	7	4.2.3 Robar (Draw)	corregido; destino local existente; sin anclas heredadas
+04. Guia de correccion de jugadas/03. Errores de torneo/3.6 Error de comunicación e información (Information and communication error).md	8	desafiante (challenger)	corregido; destino local existente; sin anclas heredadas
+04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md	4	3.6 Concesiones y División de Resultados (Concessions and Splits)	corregido; destino local existente; sin anclas heredadas
+04. Guia de correccion de jugadas/05. Consejos generales/Triggers omitidos y 'afectar al estado de juego'.md	6	7.1.3.  Puede (may)	corregido; destino local existente; sin anclas heredadas

@@ -29,7 +29,7 @@ Coconut permite construir con hasta tres tipos de tinta y aplica las reglas norm
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4 y 6.7.5. Bolsa pendiente y comprobación después de resolver]].
 - [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
 
-**Fuente primaria:** [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 3, 26, 32 y 37; [[Documentacion Oficial/FormatCoconut_Rules.pdf|Rules for [Format Coconut] Beta]], p. 1.
+**Fuente primaria:** [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 3, 26, 32 y 37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
 
 ---
 
@@ -44,7 +44,7 @@ Coconut permite construir con hasta tres tipos de tinta y aplica las reglas norm
 
 **Ejemplo didáctico:** tienes a Kronk, Angel y una carta en la mano. Aunque quieras emplear esa carta para GOOD AIM, permanece en la mano y el personaje que recibiría el daño no recibe esos 2 daños. Si Kronk sale de la zona de juego antes de usar la habilidad, su prevención ya no se aplica; puedes completar el descarte si cumples las demás condiciones.
 
-Para el descarte opcional de Sign the Scroll y su ganancia de lore, consulta [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md|Carta que me impide el descarte vs carta que me indica descartar]].
+Para el descarte opcional de Sign the Scroll y su ganancia de lore, consulta [[Carta que me impide el descarte vs carta que me indica descartar]].
 
 ---
 

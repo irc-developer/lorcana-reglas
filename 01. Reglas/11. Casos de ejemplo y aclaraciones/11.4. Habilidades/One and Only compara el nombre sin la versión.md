@@ -142,6 +142,16 @@ Los personajes son desterrados por el efecto de la acción, no por el personaje 
 
 ---
 
+### Nombres diferentes al jugar un objeto
+
+**Hyperia City, desde el 16/10/2026:** [Spyglass Hat](https://cards.lorcast.io/card/digital/large/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928) y [Ariel - Collector of Oddities](https://cards.lorcast.io/card/digital/large/crd_5f0de7933f2d434097be4c11bbd80828.avif?1790886849) comprueban si el objeto jugado tiene un nombre distinto del de cada **otro** objeto que tienes en juego. El propio objeto no se compara consigo mismo.
+
+Jugar una segunda Spyglass Hat encuentra otra del mismo nombre y no cumple la condición: los disparos correspondientes se resuelven sin efecto. No basta con que sea una carta física diferente. Las dos habilidades producen efectos distintos cuando sí se cumple la condición; coincidencia de nombre no significa coincidencia de texto.
+
+[Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Spyglass Hat y Ariel; CR 5.2.6 y 6.2.4.
+
+---
+
 ## 📘 Referencias
 
 - [[5.2. Partes de una carta (Parts of a Card)|5.2.6. Nombre]]: compara la línea de nombre completa e ignora la versión.
@@ -168,10 +178,10 @@ Los personajes son desterrados por el efecto de la acción, no por el personaje 
 
 ## 📚 Fuente oficial
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]]. Las notas aclaran el ejemplo de Winnie the Pooh; las reglas 5.2.6.1–5.2.6.3 explican los personajes con varios nombres.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf). Las notas aclaran el ejemplo de Winnie the Pooh; las reglas 5.2.6.1–5.2.6.3 explican los personajes con varios nombres.
 
 ---
 
 ## 🏷️ Tags
 
-#banish #multiple-names #one-and-only #replacement-effect #shift #triggered-ability #vanish #ward
+#banish #multiple-names #one-and-only #replacement-effect #shift #triggered-ability

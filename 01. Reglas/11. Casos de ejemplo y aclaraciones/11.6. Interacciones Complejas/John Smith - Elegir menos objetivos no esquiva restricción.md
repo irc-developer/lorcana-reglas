@@ -23,7 +23,7 @@ Ejemplo: "Elige 2 personajes para agotar"
 **Diferencia: Requisitos de elección vs Restricciones de elección**
 
 - **Requisito de elección** = "Debes elegir exactamente N"
-  - El efecto determina cuántos objetivos es obligatorio elegir
+  - El efecto determina cuántos personajes se deben elegir, hasta donde sea posible
   - Cambiar este número violaría la resolución del efecto
 
 - **Restricción de elección** = "Si eliges, debe ser X si es posible"
@@ -43,15 +43,15 @@ Del mismo modo, con "Do your worst" y "elige 2 personajes":
 - **No puedes elegir solo 1 para evadir.**
 
 **Base normativa:**
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto|6.1.3. Elecciones requeridas de exactitud]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#Restricciones de elección|6.4. Restricciones que no modifican cantidad requerida]]
+- [[6.1. General (General)|6.1.3. Elecciones requeridas de exactitud]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Restricciones que no modifican cantidad requerida]]
 
 ---
 
 ## 🔄 Cómo se resuelve
 
 1. **Efecto activado**: Se juega un efecto que dice "elige 2 personajes para agotar".
-2. **Cantidad requerida**: El efecto requiere **exactamente 2 objetivos**. Esta es una parte inmutable de la resolución.
+2. **Cantidad requerida**: El efecto requiere **exactamente 2 objetivos**. Si existen suficientes elecciones legales, deben elegirse dos. No se reduce arbitrariamente esa cantidad.
 3. **Opciones evaluadas**: Personajes en juego: John Smith, Otro A, Otro B. Todos son válidos para agotar.
 4. **Restricción aplicada**: "Do your worst" dice que debe incluirse John Smith si es posible. ES posible.
 5. **Selección obligatoria**: Debes elegir `[John Smith + Otro A]` o `[John Smith + Otro B]`. NO puedes elegir solo `[Otro A]` o reducir a 1 objetivo.
@@ -60,10 +60,10 @@ Del mismo modo, con "Do your worst" y "elige 2 personajes":
 
 **Caso: Intento ilegal**
 - Intenta elegir solo `[Otro A]` para esquivar a John Smith
-- **Resultado**: Acción ilegal. El jugador debe hacer un rollback mínimo y elegir 2 personajes correctamente.
+- **Resultado**: Acción ilegal. Se detiene la partida y se llama al Lore Guide para aplicar la corrección correspondiente.
 
 ---
 
 ## 🏷️ Tags
 
-#static-ability #restriction #must-choose #exact-requirement #resolve-correctly #do-your-worst
+#static-ability #restriction

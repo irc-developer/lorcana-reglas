@@ -16,10 +16,10 @@ En consecuencia, ese efecto te dará **2 cartas en el inkwell**: el propio [Blac
 
 ## 📘 Referencias
 
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo (Under)]]: una carta debajo de otra no se considera en juego como carta independiente.
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila (In a stack)]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona que esa carta.
-- [[01. Reglas/7. Zonas (Zones)/7.5. Pozo de tinta (Inkwell)#7.5.2. Uso|7.5.2. Uso]]: si varias cartas se colocan en el inkwell al mismo tiempo, cada una se trata como una instancia separada.
-- [[01. Reglas/7. Zonas (Zones)/7.5. Pozo de tinta (Inkwell)#7.5.6. Entintar boca abajo|7.5.6. Entintar boca abajo]]: cuando un efecto coloca una carta en el inkwell, entra boca abajo como tinta.
+- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]: una carta debajo de otra no se considera en juego como carta independiente.
+- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila (In a stack)]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona que esa carta.
+- [[7.5. Pozo de tinta (Inkwell)|7.5.2. Uso]]: si varias cartas se colocan en el inkwell al mismo tiempo, cada una se trata como una instancia separada.
+- [[7.5. Pozo de tinta (Inkwell)|7.5.6. Entintar boca abajo]]: cuando un efecto coloca una carta en el inkwell, entra boca abajo como tinta.
 
 ---
 
@@ -36,4 +36,4 @@ En consecuencia, ese efecto te dará **2 cartas en el inkwell**: el propio [Blac
 
 ## 🏷️ Tags
 
-#hide-away #black-cauldron #hades-infernal-schemer #under #stack #inkwell #zones #items
+#under #inkwell #scope

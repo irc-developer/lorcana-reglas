@@ -28,10 +28,10 @@ Si John Smith sí está dañado, entonces es una opción legal para esa segunda 
 
 - [Education or Elimination](https://cards.lorcast.io/card/digital/large/crd_69c74f5a7fcb431290622e2321e786fe.avif?1770259636): la primera opción dice «chosen character of yours»; la segunda, «chosen damaged character».
 - [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064): «Opponents must choose this character for actions and abilities if able.»
-- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards).md#1.4.3.1. Uso del You|CR 1.4.3.1 — “your” se refiere al jugador que jugó la carta o generó el efecto]].
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md#6.7.3. Legalidad de elecciones y selecciones|CR 6.7.3 — la elección debe cumplir todos los requisitos y limitadores]].
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage).md|CR 1.9 — «damaged» requiere que el personaje tenga daño]].
-- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward).md|CR 8.15 — Ward impide que un oponente elija esa carta, pero no elimina otras restricciones de objetivo]].
+- [[1.4 Cartas (Cards)|CR 1.4.3.1 — “your” se refiere al jugador que jugó la carta o generó el efecto]].
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3 — la elección debe cumplir todos los requisitos y limitadores]].
+- [[1.9. Daño (Damage)|CR 1.9 — «damaged» requiere que el personaje tenga daño]].
+- [[8.15 Protección (ward)|CR 8.15 — Ward impide que un oponente elija esa carta, pero no elimina otras restricciones de objetivo]].
 
 Fuente de texto de carta: [galería oficial de Disney Lorcana](https://cards.disneylorcana.com/en-US/?cardId=2560).
 
@@ -39,4 +39,4 @@ Fuente de texto de carta: [galería oficial de Disney Lorcana](https://cards.dis
 
 ## 🏷️ Tags
 
-#john-smith #education-or-elimination #do-your-worst #chosen-character-of-yours #chosen-damaged-character #targeting #legal-target
+#restriction #resolution

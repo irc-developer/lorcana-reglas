@@ -92,8 +92,8 @@
     "id": "torneo",
     "question": "torneo takebacks secuenciación fuera de orden",
     "policy_section": "3.7",
-    "warning": "Copia local superada",
-    "expected": "Se recupera la política local 06/11/2026 con advertencia de actualización oficial 07/14/2026; no acredita vigencia."
+    "expected": "Distinguir takeback legal, secuenciación fuera de orden y errores; citar el original vigente de torneo.",
+    "policy_path": "Documentacion Oficial/Tournament-Rules-7.14.2026_Update_EN.pdf"
   },
   {
     "id": "coconut",
@@ -176,8 +176,9 @@
       "6.2.3"
     ],
     "case_contains": "Minnie Mouse - Practical Traveler",
-    "warning": "Sin original local",
-    "expected": "Separar la condición de partida del remedio de torneo; sin original local PCG, declaración explícita de limitación."
+    "expected": "Separar la condición de partida y el remedio de torneo, apoyado en el original PCG; la responsabilidad por disparos obligatorios es compartida.",
+    "policy_section": "2.1",
+    "policy_path": "Documentacion Oficial/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf"
   },
   {
     "id": "cantar_coste",

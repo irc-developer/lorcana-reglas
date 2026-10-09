@@ -2,11 +2,11 @@
 - **Nivel:** Competitivo (_Set Championship_).
 - **Formato:** Core Constructed (mín. 60 cartas, máx. 2 tintas).
 - **Rondas:** según asistencia (mínimo 3).
-- **Tiempo por ronda:** 50 min (recomendado 60) en el suizo. 70 min en el top. Sin tiempo la final (a discreción del organizador). 
+- **Tiempo por ronda:** Suizo: mínimo 50 min, máximo recomendado 60. Eliminatorias: se recomienda no imponer límite; si el local lo exige, al menos 70 min, anunciados previamente. 
 - **Sistema:** Mejor de 3 (_Bo3_).
 - **Top Cut:** obligatorio en este nivel.
-- **Mazos:** solo cartas legales en rotación (Sets 5 en adelante).
-- **Cartas prohibidas:** _Hiram Flaversham – Toymaker_, _Forisphere_.
+- **Mazos:** solo cartas legales en rotación (Sets 9 en adelante, desde el lanzamiento del Set 13; se permiten impresiones antiguas de cartas reeditadas legales).
+- **Cartas prohibidas:** ninguna en Core según TR 1.6.2 de 14/07/2026. Hiram Flaversham – Toymaker sigue prohibida en Infinity.
 
 > 📄 Verifica tu decklist antes del torneo. Cualquier error o carta fuera de formato puede implicar **pérdida de partida o descalificación**.
 
@@ -17,7 +17,7 @@
 - **Juez principal:** máxima autoridad, sus decisiones son finales.
 - **Jueces de sala:** resuelven errores y aplican las _Play Correction Guidelines_.
 - **Anotador:** registra resultados y emparejamientos.
-- **Espectadores:** no pueden hablar ni intervenir durante partidas.
+- **Espectadores:** no ofrecen consejos ni interfieren; si observan una infracción, piden pausar y llaman al Lore Guide sin explicar el incidente a los jugadores.
 - **Retransmisión:** participar implica consentimiento para foto y vídeo.
 
 ---
@@ -38,7 +38,7 @@
 - Personajes, objetos y lugares **delante del pozo de tinta** (más cerca del rival).
 - El **pozo de tinta** debe mantenerse separado y claro.
     - Cartas listas y giradas siempre en la **misma dirección**.
-    - Puedes dejar la última carta boca arriba solo **durante ese turno**.
+    - Debes mantener boca arriba toda carta recién añadida **durante ese turno**.
 - Agotada = giradas 90° (todas las cartas igual).
 - Mantén un área de juego **limpia, visible y sin ambigüedades**.    
 - Si necesitas adaptación (accesibilidad, edad, etc.), **avisa al juez** antes de empezar.
@@ -47,7 +47,7 @@
 ## 🎲 Accesorios permitidos
 - **Fundas:** opacas, limpias, del mismo color y tipo.
 - **Tapete:** plano, sin objetos ni bultos. 
-- **Dados:** solo para daño o tiradas aleatorias.
+- **Dados:** accesorios aprobados para representar daño o determinar resultados aleatorios. Desde el 16/10/2026 existen también gotas de tinta; consulta al Lore Guide su representación en torneo conforme a CR 1.13 y TR 5.2.
     > No los pongas sobre cartas en la mano o el mazo.
 - **Tokens**: para indicar el resto de cosas (pej. estados).
 - **Contadores de lore:** visibles y fáciles de leer.
@@ -56,22 +56,22 @@
 - **Cartas firmadas:** válidas si no cubren arte ni texto.
 ---
 ## 🧠 Comunicación y control de información
-- Todo cambio **público** (lore, estados, efectos) debe **anunciarse en voz alta**.
+- Anuncia las ganancias o pérdidas de lore y el nuevo total. Comunica correctamente los estados públicos cuando se soliciten y señala los efectos obligatorios.
 - Al poner una carta en el **pozo de tinta**, **di su nombre** y permite que el rival vea el símbolo de tinta.
 - No uses fichas ni notas para registrar información privada o del rival.
 - No se permiten **notas externas, grabaciones o recordatorios**.
 - **Dispositivos electrónicos:** permitidos a la vista solo para funciones del juego (app, base de datos).
 ---
 ## ⏱️ Tiempo y pausas
-- Si un juez detiene la partida, se añade **el mismo tiempo perdido** (+3 min si hay revisión de mazo).
+- Si un juez detiene la partida, si la pausa supera un minuto, se añade **el mismo tiempo perdido** (+3 min si hay revisión de mazo).
 - **Cuando se acaba el tiempo:**
     - El jugador activo termina su turno (Turno 0).
     - Luego se juegan **5 turnos adicionales**.
-    - Si sigue empatado: el resultado es **empate** en suizo o se decide por **lore** en eliminatorias.
+    - En suizo, gana el match quien tenga más partidas ganadas; si están igualados, el match es empate. En eliminatorias, las victorias de partida se comprueban al anunciar el tiempo; si están igualadas, se completan los cinco turnos y después se compara lore. Si lore sigue empatado, se continúa hasta que alguien tenga más.
 - **Puntualidad obligatoria:**
 	- Llegar tarde hasta **2 minutos = warning**
     - Llegar **entre 3 y 9 minutos tarde = perder partida.**
-    - Llegar **10 minutos o más tarde = perder la ronda.**
+    - Llegar **10 minutos o más tarde = Match Loss y retirada del torneo.** Puede reinscribirse antes del final de la ronda a discreción del Lead Lore Guide.
 ---
 ## 🚫 Conducta y penalizaciones
 - Prohibidos: apuestas, alcohol, drogas o lenguaje ofensivo.
@@ -97,3 +97,7 @@
 - **Llama al juez**, no improvises correcciones.
 - Respeta tiempos y oponentes: el torneo avanza mejor con ritmo.
 ---
+
+## Referencias
+
+[Tournament Rules, 1.6, 3.4.1, 5 y 6](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), efectivas el 14/07/2026; [PCG 3.1, p.8](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf#page=8). CR 2.3 solo incorpora las gotas desde el 16/10/2026.

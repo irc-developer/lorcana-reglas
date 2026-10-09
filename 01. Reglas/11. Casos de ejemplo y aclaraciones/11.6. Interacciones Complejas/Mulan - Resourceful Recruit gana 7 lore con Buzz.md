@@ -17,11 +17,11 @@ Mulan tiene **0 {L} impreso**. Sin el +1 {L} de Buzz, esta misma combinación da
 - [Mulan - Resourceful Recruit](https://cards.lorcast.io/card/digital/large/crd_3825929341ca42099c98d099ed40d2ac.avif?1770259509): 1 {S}, 0 {L}; RIGOROUS TRAINING hace ganar lore igual a su {S}, hasta un máximo de 6 lore.
 - [Force of a Great Typhoon](https://cards.lorcast.io/card/digital/large/crd_dbff3559ccd647889b1fb934994a2d02.avif?1770259776): el personaje elegido obtiene +5 {S} este turno.
 - [Buzz Lightyear - Jungle Ranger](https://cards.lorcast.io/card/digital/large/crd_0b928f0cd5d2473482e07a609205c26b.avif?1777688111): ADVANCED TRAINING se dispara al jugar una acción y da +1 {L} este turno al personaje elegido.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card).md|4.3.3.2 y 4.3.4.]]: la acción termina de resolverse antes de que puedan resolverse las habilidades disparadas al jugarla.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers).md|6.6.1.1.]]: los modificadores cambian las características durante su duración.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest).md|4.5.1.4 y 4.5.2.]]: primero se gana lore igual al valor {L} del personaje que hace quest; después pueden resolverse las habilidades disparadas al questear.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag).md|7.7.3.1 y 7.7.4.2.]]: los disparos esperan en la bolsa y se resuelven como efectos separados.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 4.3.3–4.3.4, 4.5.1.4–4.5.2, 6.6.1 y 7.7.3–7.7.4.
+- [[4.3. Jugar una carta (Play a Card)|4.3.3.2 y 4.3.4.]]: la acción termina de resolverse antes de que puedan resolverse las habilidades disparadas al jugarla.
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.1.]]: los modificadores cambian las características durante su duración.
+- [[4.5 Irse de aventura (Quest)|4.5.1.4 y 4.5.2.]]: primero se gana lore igual al valor {L} del personaje que hace quest; después pueden resolverse las habilidades disparadas al questear.
+- [[7.7. Bolsa (Bag)|7.7.3.1 y 7.7.4.2.]]: los disparos esperan en la bolsa y se resuelven como efectos separados.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 4.3.3–4.3.4, 4.5.1.4–4.5.2, 6.6.1 y 7.7.3–7.7.4.
 
 ---
 

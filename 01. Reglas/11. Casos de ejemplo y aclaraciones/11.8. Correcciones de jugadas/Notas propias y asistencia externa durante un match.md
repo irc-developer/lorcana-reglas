@@ -12,9 +12,9 @@ Son conductas distintas. Durante un match solo se permite anotar los totales de 
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/5 Información y comunicación/5.2 Notas y Seguimiento de Información (Notes and Information Tracking).md|Notas y seguimiento]]
-- [[04. Guia de correccion de jugadas/03. Errores de torneo/3.6 Error de comunicación e información (Information and communication error).md|Information and Communication Error]]
-- [[04. Guia de correccion de jugadas/03. Errores de torneo/3.8 Asistencia externa (outside assistance).md|Outside Assistance]]
+- [[5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|Notas y seguimiento]]
+- [[3.6 Error de comunicación e información (Information and communication error)|Information and Communication Error]]
+- [[3.8 Asistencia externa (outside assistance)|Outside Assistance]]
 
 ---
 

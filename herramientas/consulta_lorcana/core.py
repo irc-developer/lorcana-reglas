@@ -171,12 +171,33 @@ def inventory(root):
     for path in sorted((root / "Documentacion Oficial").glob("*.pdf")):
         if path.relative_to(root).as_posix() == primary:
             continue
+        if path.name in config.get("superseded_pdfs", []):
+            rel = path.relative_to(root).as_posix()
+            excluded.append({"path": rel, "reason": "política sustituida por un original posterior"})
+            add(path, "torneo", "historico", "excluded")
+            continue
         for spec in config["pdfs"]:
             if fnmatch.fnmatch(path.name, spec["pattern"]):
                 add(path, spec["scope"], spec["authority"], spec["kind"])
                 break
+    for spec in config.get("official_markdown", []):
+        # Una transcripción identificada no convierte otros Markdown en fuentes oficiales.
+        for key, hash_key in (("path", "sha256"), ("raw_path", "raw_sha256")):
+            path = (root / spec[key]).resolve()
+            if path.parent != (root / "Documentacion Oficial").resolve() or not path.is_file():
+                raise ValueError("Fuente oficial ausente o fuera de su carpeta: " + spec[key])
+            if digest(path.read_bytes()) != spec[hash_key]:
+                raise ValueError("Fuente oficial modificada sin verificar: " + spec[key])
+        path = root / spec["path"]
+        add(path, spec["scope"], spec["authority"], spec["kind"])
     # Las herramientas/configuración no son evidencia, pero invalidan un índice de otra implementación.
     signature = digest(b"".join((HERE / x).read_bytes() for x in ("core.py", "fuentes.json", "sinonimos.json")))
+    # El texto operativo de las erratas cambia por fecha aunque la ficha impresa
+    # no cambie. Impide reutilizar esos fragmentos al cruzar su fecha de aplicación.
+    applicability = [(s["path"], s["name"], fecha_local() >= date.fromisoformat(s["effective_on"]))
+                     for s in config.get("card_errata", [])]
+    if applicability:
+        signature = digest((signature + json.dumps(applicability, ensure_ascii=False)).encode())
     return entries, {"primary": primary, "version": version, "signature": signature, "excluded": excluded}
 
 
@@ -314,12 +335,26 @@ def pdf_sections(pages, title):
     for page in pages:
         if "CONTENTS" in page["text"]:
             continue
-        for raw, text in zip(page["raw"].splitlines(), page["text"].splitlines()):
-            m = re.match(r"^(\d+(?:\.\d+)+)\.?\s+([A-Z][A-Za-z /&–()\-]+)$", text)
+        lines = list(zip(page["raw"].splitlines(), page["text"].splitlines()))
+        skip = False
+        for i, (raw, text) in enumerate(lines):
+            if skip:
+                skip = False
+                continue
+            heading = text
+            # Algunos encabezados tienen número y título en cajas PDF distintas.
+            if re.fullmatch(r"\d+(?:\.\d+)+\.?", text) and i + 1 < len(lines):
+                next_raw, next_text = lines[i + 1]
+                if re.fullmatch(r"[A-Z][A-Za-z /&–()\-]+", next_text):
+                    heading = text + " " + next_text
+                    raw += "\n" + next_raw
+                    text += "\n" + next_text
+                    skip = True
+            m = re.match(r"^(\d+(?:\.\d+)+)\.?\s+([A-Z][A-Za-z /&–()\-]+)$", heading)
             if m:
                 if current:
                     output.append(current)
-                current = chunk_base(title + " · " + text, text, raw,
+                current = chunk_base(title + " · " + heading, text, raw,
                                      policy_section=m.group(1), pages=[page["page"], page["page"]])
             elif current:
                 current["text"] += "\n" + text
@@ -415,6 +450,12 @@ def parse_source(root, rel, spec, selection):
         text = read_text(path)
         chunks = markdown_chunks(text, kind, path.stem)
         meta["documented_urls"] = sorted(set(OFFICIAL.findall(text)))
+        official = next((s for s in load_json(HERE / "fuentes.json").get("official_markdown", [])
+                         if s["path"] == rel), None)
+        if official:
+            meta["effective_date"] = official["effective_on"]
+            meta["official_link"] = {"url": official["url"], "verified_on": official.get("verified_on")}
+            meta["limitations"].extend(official.get("limitations", []))
         if kind == "card":
             intro = text.split("\n## ", 1)[0]
             meta["coverage"] = "parcial_declarado" if "parcial" in norm(intro) else "completitud_no_acreditada"
@@ -426,6 +467,23 @@ def parse_source(root, rel, spec, selection):
                     c["limitations"] = ["Faltan campos básicos de la ficha; no cerrar ruling."]
                 c["documented_fields"] = re.findall(r"\*\*([^*]+):\*\*", c["text"])
                 c["ability_section_present"] = "**Habilidades:**" in c["text"]
+                errata = next((s for s in load_json(HERE / "fuentes.json").get("card_errata", [])
+                               if s["path"] == rel and s["name"] == c["title"]), None)
+                if errata:
+                    if errata["printed"] not in c["text"] or errata.get("corrected", "") not in c["text"]:
+                        raise ValueError("Errata no coincide con ficha literal: " + c["title"])
+                    active = fecha_local() >= date.fromisoformat(errata["effective_on"])
+                    c["errata"] = {"effective_on": errata["effective_on"], "official_url": errata["url"],
+                                   "state": "vigente" if active else "anunciada; aún no vigente"}
+                    # El fragmento literal conserva líneas y prueba de integridad. La vista
+                    # operativa se entrega aparte para no confundir el impreso con la errata.
+                    c["operative_ability"] = (errata.get("corrected") if active else errata["printed"])
+                    c["operative_text_status"] = ("corregido_oficial" if errata.get("corrected") else
+                                                    "nueva_redaccion_completa_no_publicada") if active else "impreso_previo"
+                    if active and not errata.get("corrected"):
+                        c["operative_clarification"] = errata["clarification"]
+                    c["errata_warning"] = ("Errata vigente: usar texto corregido o aclaración oficial, no el impreso histórico."
+                                            if active else "Errata anunciada para " + errata["effective_on"] + "; conservar el texto vigente anterior hasta esa fecha.")
             meta["card_count"] = len(chunks)
             numbers = [int(n) for n in re.findall(r"\*\*Set:\*\*[^\n]*#(\d+)", text)]
             # Algunos sets usan #N para el número del set, otros para la carta; no deducir huecos de colección.
@@ -743,6 +801,14 @@ def query(root, db, question, card_names=(), rule_numbers=(), scope=None, explic
         primary = list({p["id"]: p for p in primary + referenced}.values())
         is_policy = scope in ("torneo", "correcciones") or any(t in q for t in ("torneo", "tournament", "missed", "olvid", "omitid", "sancion", "warning", "correccion", "caution", "takeback", "slow play", "juego lento", "dispositivos electronicos", "minnie mouse practical traveler"))
         policy = policy_context(c, search(c, question, ["tournament", "correction"], ["torneo", "correcciones"], 2)) if is_policy else []
+        # Los originales de políticas están en inglés. Una pregunta en español
+        # sobre un disparo perdido debe recuperar su sección, no solo Lore Guides.
+        missed_trigger = any(t in q for t in ("missed trigger", "lore olvidad", "efecto disparado perdido")) or (
+            any(t in q for t in ("disparo", "habilidad disparada", "trigger")) and
+            any(t in q for t in ("olvid", "perdid", "omitid")))
+        if is_policy and missed_trigger:
+            decisive_policy = search(c, "Missed Trigger", ["correction"], ["correcciones"], 2)
+            policy = list({p["id"]: p for p in decisive_policy + policy}.values())
         special = search(c, question, ["special"], [scope], 2) if scope == "coconut" else []
         official_notes = search(c, question, ["release"], ["estandar"], 1)
         spanish = search(c, question, ["local"], [*scopes, "torneo", "correcciones"] if is_policy else scopes, limit)
@@ -792,6 +858,7 @@ def query(root, db, question, card_names=(), rule_numbers=(), scope=None, explic
         grouped = {k: [decorate(c, root, p) for p in vals] for k, vals in grouped.items()}
         for p in grouped["spanish"]:
             warnings.extend(w for w in p["source_limitations"] if w.startswith("Discrepancia comprobada"))
+        warnings.extend(p["errata_warning"] for p in grouped["cards"] if p.get("errata_warning"))
         # Los candidatos no se omiten/truncan antes de ofrecer versiones; tampoco se usan para razonar.
         for res in resolutions:
             for key in ("matches", "candidates"):

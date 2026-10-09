@@ -24,15 +24,15 @@ Por tanto:
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|1.2.2 Si un efecto impide algo, prevalece sobre lo que permite]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.2 Los efectos deben resolverse completamente antes de pasar al siguiente]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen en el momento de resolver]]
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.5.3 Gratis (for free) es un coste alternativo]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.2 Procedimiento para jugar una carta]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.2 Los efectos se resuelven en el orden escrito]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.3 Las elecciones se hacen al resolverse el efecto]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3 Las instrucciones se realizan en el orden escrito]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
+- [[1.2. Regla de oro (Golden Rules)|1.2.2 Si un efecto impide algo, prevalece sobre lo que permite]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.2 Los efectos deben resolverse completamente antes de pasar al siguiente]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen en el momento de resolver]]
+- [[1.5 Costes (Costs)|1.5.5.3 Gratis (for free) es un coste alternativo]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.2 Procedimiento para jugar una carta]]
+- [[6.1. General (General)|6.1.2 Los efectos se resuelven en el orden escrito]]
+- [[6.1. General (General)|6.1.3 Las elecciones se hacen al resolverse el efecto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3 Las instrucciones se realizan en el orden escrito]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.16.1 «No puedes [hacer algo] salvo que...» es un efecto dependiente de una condición]]
 
 ---
@@ -67,4 +67,4 @@ Este caso documenta la interacción usando como referencia el texto de [Robin Ho
 
 ## 🏷️ Tags
 
-#escape-plan #play-card #for-free #restriction #unless #discard #timing #quest
+#play-card #alternate-cost #restriction #discard #timing #quest

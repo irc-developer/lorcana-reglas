@@ -4,7 +4,7 @@
 
 ## ✅ Respuesta
 
-Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efecto se resuelve en orden de turno como se define en [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Efectos simultáneos]]. En este caso específico, ambos jugadores seleccionan una carta de su mano para jugar y el jugador activo es el primero en ponerla en la zona de juego, añadiendo a la bolsa las habilidades disparadas. A continuación, lleva a cabo lo mismo el oponente y se procede a resolver la [[7.7. Bolsa (Bag)|Bolsa]] con normalidad.
+Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efecto se resuelve en orden de turno como se define en [Efectos simultáneos](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf). Las elecciones se realizan en orden de turno: el jugador activo revela y juega su personaje primero, añadiendo los disparos a la bolsa. El siguiente jugador decide con la información pública que ya existe. A continuación, lleva a cabo lo mismo el oponente y se procede a resolver la [[7.7. Bolsa (Bag)|Bolsa]] con normalidad.
 
 ### Variante con Hans y Anna
 
@@ -12,13 +12,13 @@ Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efec
 - Pones en juego [Hans – Noble Scoundrel](https://cards.lorcast.io/card/digital/large/crd_9b50f321f3a44275b82b5e49b6766c7c.avif?1716052430).
 - Tu oponente pone en juego [Anna – Magical Mission](https://cards.lorcast.io/card/digital/large/crd_ae35ed50c6954dab9925888b61a657f2.avif?1747508819).
 
-**Pendiente de revisión normativa:** hay que comprobar cuándo se evalúa la condición de Princess o Queen de ROYAL SCHEMES. No uses esta variante para decidir si Hans gana lore hasta cerrar esa revisión.
+**ROYAL SCHEMES comprueba la condición al resolver, no al dispararse.** Si Anna ya está en juego entonces y tiene la clasificación Princess, Hans gana 1 lore. The Return of Hercules termina antes de resolver esos disparos; no hay una bolsa intermedia entre las jugadas de los dos jugadores. Fundamento: CR 6.2.4, 6.7.6 y 6.7.8. Desde el 16/10/2026, 6.7.6.1 explicita el orden por partes.
 
 ## 📘 Referencias
 
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Efectos simultáneos]]
+- [Efectos simultáneos](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf)
 - [[7.7. Bolsa (Bag)|Bolsa]]
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Habilidades disparadas con condición secundaria]]
+- [Habilidades disparadas con condición secundaria](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf)
 ---
 
 ## 🏷️ Tags

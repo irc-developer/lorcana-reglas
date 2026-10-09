@@ -28,7 +28,7 @@ Al utilizar dos personajes:
 
 ## 📚 Fuente oficial
 
-Aclaración de carta: [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]] y Duo Shift confirmado por CR 2.2, 8.10.8.3. Véase [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+Aclaración de carta: [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf) y Duo Shift confirmado por CR 2.2, 8.10.8.3. Véase [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
 ---
 

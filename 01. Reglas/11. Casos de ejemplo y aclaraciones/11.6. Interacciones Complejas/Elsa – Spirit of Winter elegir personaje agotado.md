@@ -20,7 +20,7 @@ Un personaje agotado puede ser seleccionado legalmente. Cuando Elsa intenta agot
 
 **Definición: Estados de carta y redundancia**
 
-[[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Regla de Oro (1.2.3)]]: Si un efecto indica que hagas algo, debes hacer todo lo que puedas, aunque no puedas completar el efecto entero. Esto se conoce como *doing as much as you can*.
+[[1.2. Regla de oro (Golden Rules)|Regla de Oro (1.2.3)]]: Si un efecto indica que hagas algo, debes hacer todo lo que puedas, aunque no puedas completar el efecto entero. Esto se conoce como *doing as much as you can*.
 
 Aplicación a Elsa:
 - **Selección**: No hay limitación que impida elegir un personaje agotado en el texto de Elsa.
@@ -34,7 +34,7 @@ Aplicación a Elsa:
 
 **Referencias normativas:**
 
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]]
+- [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]]
 - [[6.1. General (General)|Elecciones y resolución de efectos]]
 
 ---
@@ -42,8 +42,8 @@ Aplicación a Elsa:
 ## 🔄 Cómo se resuelve
 
 1. **Coste**: Juegas [Elsa - Spirit of Winter](https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747) pagando su coste.
-2. **Objetivos**: Eliges hasta 2 personajes cualesquiera (pueden estar agotados o listos).
-3. **Evaluación**: Para cada personaje elegido, evalúas si es legal intentar agotarlo (siempre es legal intentar).
+2. **Objetivos**: Al resolver DEEP FREEZE, eliges hasta 2 personajes legales (pueden estar agotados o preparados; se respetan Ward y las demás restricciones).
+3. **Evaluación**: Para cada personaje elegido, evalúas si es legal intentar agotarlo respetando cualquier prohibición aplicable.
 4. **Resolución**: Aplicas "agotar" a cada personaje elegido. Si el personaje ya está agotado, no cambia de estado (ya está agotado). Si está listo, cambia a agotado.
 5. **Disparos y restricciones adicionales**: Se aplica "They can't ready at the start of their next turn" a todos los personajes elegidos, incluso a los que ya estaban agotados.
 
@@ -51,4 +51,4 @@ Aplicación a Elsa:
 
 ## 🏷️ Tags
 
-#exert #chosen #redundant-effect #state-application #doing-as-much-as-you-can #deep-freeze #static-ability
+#exert #restriction #scope #resolution #static-ability

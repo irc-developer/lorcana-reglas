@@ -1,63 +1,28 @@
 ## ❓ Duda
 
-La habilidad **SCHOLAR'S GAMBIT** de [Milo Thatch - Getting His Hands Dirty](https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777688057) dice:
-
-> *When you play this character, you may choose and discard a card to return chosen character to their player's hand.*
-
-¿Puedo descartar una carta sin devolver ningún personaje? Si Milo es el único personaje en juego, ¿puedo devolver a Milo a mi mano?
+[Milo Thatch - Getting His Hands Dirty](https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777688057) dice «you may choose and discard a card to return chosen character». ¿Puedo descartar sin devolver si no hay un personaje legal? ¿Puede devolverse a sí mismo?
 
 ---
 
 ## ✅ Respuesta
 
-**No puedes usar la habilidad para descartar sin más.** En esta redacción, el `may` hace opcional la secuencia completa: elegir y descartar una carta **para** devolver un personaje elegido a la mano de su propietario.
+**Si no hay ningún personaje legal que devolver, puedes completar el descarte opcional y la devolución queda sin efecto.** La secuencia exige completar el descarte (A) para poder continuar a la devolución (B); no convierte la posibilidad de B en un requisito previo de A. Si hay un personaje legal y aceptas la secuencia, debes devolverlo: B no tiene un segundo «may».
 
-Si eliges resolverla, debes poder realizar también la devolución de un personaje legal. Si no existe ningún personaje legal que devolver, no puedes convertir la habilidad en un descarte aislado.
+**Milo puede devolverse a sí mismo.** El texto no dice «another», ni exige un personaje rival. Mientras esté en juego, normalmente ya es una elección legal y no puedes omitir la devolución por preferir dejarlo en mesa.
 
-**Sí puedes devolver a Milo a tu mano** si es el único personaje legal. La habilidad no dice `another character`, ni limita el objetivo a un personaje que no controles.
-
-Esto no debe confundirse con una redacción hipotética como «puedes elegir un personaje; después puedes descartar una carta». En ese caso habría dos decisiones opcionales independientes. No es el texto de Milo.
+Si no tienes una carta que descartar o una prohibición impide el descarte, no completas A y no devuelves a nadie. Rechazar el «may» omite toda la secuencia. Las decisiones independientes de [[Minnie Mouse - Urban Visionary y las dos decisiones opcionales|Minnie]] utilizan otra estructura.
 
 ---
 
 ## 📘 Referencias
 
-- [Milo Thatch - Getting His Hands Dirty](https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777688057): `choose and discard a card to return chosen character` vincula el descarte con el efecto de devolver.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General).md#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|Efectos secuenciales]]: una parte que sirve para realizar otra no se convierte en una acción independiente por el mero hecho de estar separada por palabras.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects).md#6.7.2.3. Tercer paso - seguir las instrucciones del texto|Hacer todo lo posible en el orden escrito]].
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md|Descartar como requisito para resolver una habilidad]].
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido.md|No tener objetivo legal vs elegir un objetivo inválido]].
-
----
-
-## 🔄 Cómo se resuelve
-
-1. Se dispara SCHOLAR'S GAMBIT al jugar a Milo.
-2. Decides si intentas resolver la habilidad completa.
-3. Si la resuelves, eliges una carta para descartar y un personaje legal que devolver.
-4. Descartas la carta elegida.
-5. Devuelves el personaje elegido a la mano de su propietario; puede ser Milo.
-6. Se añaden a la bolsa las habilidades disparadas y se realiza el GSC cuando corresponda.
-
----
-
-## 🧪 Si la redacción fuese distinta
-
-Considera este texto hipotético:
-
-> *You may choose an opposing character. If you do, you may discard a card.*
-
-Aquí sí habría dos decisiones opcionales separadas:
-
-- si no existe un personaje oponente legal, no puedes realizar la primera elección;
-- al no haber realizado esa elección, la condición `if you do` no se cumple;
-- por tanto, no puedes descartar por la segunda parte;
-- si eliges un personaje legal, el descarte posterior sigue siendo opcional.
-
-Ese análisis no cambia la respuesta del texto real de SCHOLAR'S GAMBIT, porque Milo no presenta dos cláusulas independientes de ese modo.
+- [[6.1. General (General)|6.1.4 y 6.1.5.1: opción de resolver y requisito A para B]].
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3: ejecutar en orden tanto como sea posible]].
+- [[Cumplir parte de una habilidad]]: la misma dirección de dependencia.
+- [CR 2.2.0, 6.1.5.1, p.26](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=26); [CR 2.3.0, 6.1.5.1, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26).
 
 ---
 
 ## 🏷️ Tags
 
-#milo #discard #return-to-hand #optional-effect #sequential-effect #chosen-character
+#discard #hand #resolution #triggered-ability

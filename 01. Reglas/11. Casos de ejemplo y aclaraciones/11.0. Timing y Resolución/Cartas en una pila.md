@@ -13,12 +13,12 @@ Mientras están en pila, las cartas de debajo no se consideran en juego como car
 
 ## 📘 Referencias
 
-- [[5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo (Under)]]
-- [[5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila (In a stack)]]
-- [[5.1. Estados de las cartas (Card States)#5.1.1.10. Boca abajo (Facedown)|5.1.1.10. Boca abajo (Facedown)]]
+- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]
+- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila (In a stack)]]
+- [[5.1. Estados de las cartas (Card States)|5.1.1.10. Boca abajo (Facedown)]]
 
 ---
 
 ## 🏷️ Tags
 
-#boost #facedown #stack #under #zonas
+#boost #under

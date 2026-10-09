@@ -18,11 +18,11 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.4.4. Agotar|4.6.4.4 Agotar]]: el personaje desafiante se agota durante la declaración; ahí se cumple la condición de *Come See!*.
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.4.5. Efectos|4.6.4.5 Efectos]] y [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)#4.6.5. Habilidades disparadas|4.6.5 Habilidades disparadas]]: ocurre el desafío y las habilidades que dicen «is challenged» se añaden y resuelven desde la bolsa junto con los demás disparos de la declaración, antes del paso de daño.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1 Añadir a la bolsa]]: una habilidad disparada entra en la bolsa cuando se cumple su condición.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2 Prioridad del jugador activo]] y [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.4. Pasar la bolsa (passing the bag)|7.7.4.4 Pasar la bolsa]]: primero resuelve el jugador activo sus habilidades; después, el oponente resuelve las suyas.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]]: fuente oficial de las reglas 4.6.4–4.6.6 y 7.7.3–7.7.4.
+- [[4.6 Desafío (Challenge)|4.6.4.4 Agotar]]: el personaje desafiante se agota durante la declaración; ahí se cumple la condición de *Come See!*.
+- [[4.6 Desafío (Challenge)|4.6.4.5 Efectos]] y [[4.6 Desafío (Challenge)|4.6.5 Habilidades disparadas]]: ocurre el desafío y las habilidades que dicen «is challenged» se añaden y resuelven desde la bolsa junto con los demás disparos de la declaración, antes del paso de daño.
+- [[7.7. Bolsa (Bag)|7.7.3.1 Añadir a la bolsa]]: una habilidad disparada entra en la bolsa cuando se cumple su condición.
+- [[7.7. Bolsa (Bag)|7.7.4.2 Prioridad del jugador activo]] y [[7.7. Bolsa (Bag)|7.7.4.4 Pasar la bolsa]]: primero resuelve el jugador activo sus habilidades; después, el oponente resuelve las suyas.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): fuente oficial de las reglas 4.6.4–4.6.6 y 7.7.3–7.7.4.
 
 ---
 
@@ -39,10 +39,10 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 
 ## 📚 Fuente oficial
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas citadas arriba.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas citadas arriba.
 
 ---
 
 ## 🏷️ Tags
 
-#challenge #exert #triggered-ability #bag #active-player #resolution-order #discard #timing
+#challenge #exert #triggered-ability #bag #resolution #discard

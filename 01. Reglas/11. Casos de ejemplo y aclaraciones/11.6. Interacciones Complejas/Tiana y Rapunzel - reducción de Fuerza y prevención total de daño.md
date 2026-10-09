@@ -15,7 +15,7 @@ Ambos pueden aplicarse de forma acumulativa y no entran en conflicto.
 
 > “Whenever one of your characters is challenged while this character is exerted, the challenging character gets -3 {S} this turn unless its player pays 3 {I}.”
 - Es una **habilidad disparada** que se activa **cuando uno de tus personajes es desafiado**.
-- Se añade a la bolsa en el paso **4.3.6.12**.
+- Se añade a la bolsa en el paso **4.6.5**.
 - Al resolverse (antes del paso de daño), **reduce la Fuerza ({S}) del personaje desafiante en 3** salvo que su jugador pague 3 {I}.    
 - En consecuencia, el atacante infligirá menos daño durante ese desafío.
     
@@ -24,7 +24,7 @@ Ambos pueden aplicarse de forma acumulativa y no entran en conflicto.
 #### Rapunzel – Ready for Adventure (_Act of Kindness_)
 
 > “Whenever one of your characters is chosen for Support, until the start of your next turn, the next time they would be dealt damage, they take no damage instead.”
-- Es una **habilidad disparada** que, al resolverse, **crea un efecto de reemplazo estático y temporal**. 
+- Es una **habilidad disparada** que, al resolverse, **crea un efecto de reemplazo temporal**. 
 - Este efecto **no entra en la bolsa de habilidades**, sino que permanece a la espera del siguiente evento de “recibir daño”.
 - La próxima vez que el personaje afectado fuera a recibir daño, **no lo recibe en su lugar**.
 - El efecto se **consume** una vez utilizado.
@@ -34,9 +34,9 @@ Ambos pueden aplicarse de forma acumulativa y no entran en conflicto.
 #### Interacción durante el desafío
 
 1. **Declaración del Desafío:** el oponente declara su atacante contra tu personaje.    
-2. **Activación:** la habilidad _Special Reservation_ de Tiana se dispara y se añade a la bolsa (paso 4.3.6.12). El efecto de Rapunzel ya está activo como reemplazo.
+2. **Activación:** la habilidad _Special Reservation_ de Tiana se dispara y se añade a la bolsa (paso 4.6.5). El efecto de Rapunzel ya está activo como reemplazo.
 3. **Resolución de Tiana:** si el oponente no paga 3 {I}, el atacante **pierde 3 {S}** este turno.
-4. **Paso de Daño (4.3.6.13):** se asigna daño igual a la Fuerza modificada del atacante.
+4. **Paso de Daño (4.6.6):** se asigna daño igual a la Fuerza modificada del atacante.
 5. **Aplicación de Rapunzel:** al intentar infligir ese daño (ya reducido), **el reemplazo de Rapunzel se aplica** y el personaje protegido **no recibe daño en su lugar**.
 ---
 
@@ -50,11 +50,11 @@ Ambos pueden aplicarse de forma acumulativa y no entran en conflicto.
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.2. Resolución|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)#7.7.4. Orden|7.7.4. Orden]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Resolución]]
+- [[7.7. Bolsa (Bag)|7.7.4. Orden]]
 
 ---
 
 ## 🏷️ Tags
 
-#strength-reduction #replacement-effects #prevention #triggered-abilities #challenge #damage #tiana #rapunzel #replacement_effects #timing #habilidades_estáticas
+#strength-reduction #replacement-effect #triggered-ability #challenge #damage #timing

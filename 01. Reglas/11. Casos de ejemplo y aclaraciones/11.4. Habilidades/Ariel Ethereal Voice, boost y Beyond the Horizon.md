@@ -34,7 +34,7 @@ Beyond the Horizon hace que descartes tu mano y robes 3 cartas. Además, COMMAND
    - Roba 1 (segunda de las 3 cartas)
    - Roba 1 (tercera de las 3 cartas)
    - **Total de Beyond: 3 cartas**
-4. **Se añade a la bolsa: COMMAND PERFORMANCE de Ariel**
+4. **Se resuelve COMMAND PERFORMANCE, que ya se añadió a la bolsa al jugar la canción**
    - Condición cumplida: "whenever you play a song" ✓
    - Hay cartas bajo Ariel ✓
    - Se resuelve: robas 1 cartas
@@ -47,4 +47,4 @@ Beyond the Horizon hace que descartes tu mano y robes 3 cartas. Además, COMMAND
 
 ## 🏷️ Tags
 
-#song #draw-multiple #boost #triggered-ability #ariel-ethereal-voice #beyond-the-horizon
+#singing #draw-multiple #boost #triggered-ability #ariel-ethereal-voice #beyond-the-horizon

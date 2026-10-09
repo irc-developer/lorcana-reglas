@@ -1,18 +1,23 @@
 ## ❓ Duda
 
-¿Qué nombre se debe decir al nombrar una carta con Bruno? ¿[Hamish, Hubert & Harris](https://cards.lorcast.io/card/digital/large/crd_f97b251adbeb4697b06c2cdaa80bc6e5.avif?1777687351) representa varios personajes?
+¿Una carta con nombres múltiples representa varios personajes? ¿Cómo funciona una coincidencia de nombre con [Merlin's Wand](https://cards.lorcast.io/card/digital/large/crd_fdadf26de729483e8b777bbcbda1862c.avif?1790872602)?
 
 ---
 
 ## ✅ Respuesta
 
-Al nombrar una carta con Bruno se usa un nombre de carta, tal como aparece impreso. Un personaje cuyo nombre contiene un equipo sigue siendo una sola carta de personaje, aunque el nombre incluya varios nombres separados por comas o conjunciones; no representa varias cartas ni varios personajes para una elección. [Hamish, Hubert & Harris](https://cards.lorcast.io/card/digital/large/crd_f97b251adbeb4697b06c2cdaa80bc6e5.avif?1777687351) debe tratarse como un único personaje con nombres múltiples: el nombre combinado y los nombres individuales pueden ser nombres distintos a efectos de una elección. La puntuación de esta carta genera una anomalía de redacción; si se discute qué fragmentos exactos forman cada nombre, hay que consultar el CRD o al Lore Guide.
+**Sigue siendo una sola carta y un solo personaje en juego.** CR 5.2.6 ignora la versión al comparar nombres; 5.2.6.1–5.2.6.3 reconoce los dos nombres individuales y el nombre impreso de un equipo con «&», con la excepción expresa de Chip ’n’ Dale.
+
+**Hyperia City, desde el 16/10/2026:** [Winnie the Pooh & Piglet - Hunny Mages](https://cards.lorcast.io/card/digital/large/crd_0e2c9423df7b4642914deccabf922ff5.avif?1783190724) cuenta como «Winnie the Pooh», «Piglet» y «Winnie the Pooh & Piglet». Para pagar MAGIC TOUCH puedes revelar ese equipo y otra carta que coincida con cualquiera de esos nombres; no hace falta que la segunda sea otra copia del equipo.
+
+Una habilidad de nombrar una carta, como la de [Bruno Madrigal - Undetected Uncle](https://cards.lorcast.io/card/digital/large/crd_a7a6c097879443db9bb5299c7017fd20.avif?1716052430), sigue comparando un nombre reglamentario completo, no palabras aisladas ni la versión. Los nombres múltiples no autorizan a dividir arbitrariamente un nombre por cada espacio o coma. [[One and Only compara el nombre sin la versión]] desarrolla la coincidencia con equipos.
 
 ---
 
 ## 📘 Referencias
 
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card).md|5.2. Partes de una carta]], apartados de nombre y múltiples nombres, junto al texto de [Hamish, Hubert & Harris](https://cards.lorcast.io/card/digital/large/crd_f97b251adbeb4697b06c2cdaa80bc6e5.avif?1777687351).
+- [[5.2. Partes de una carta (Parts of a Card)|5.2.6–5.2.6.3: nombres, versión y equipos]].
+- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Merlin’s Wand / Winnie the Pooh & Piglet.
 
 ---
 

@@ -19,13 +19,13 @@ También puede ocurrir si otro efecto que ya estaba legalmente en la bolsa se re
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.1. General|4.1.2. Cada acción de turno debe completarse totalmente antes de empezar la siguiente]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest)|4.5.2. Tras hacer quest, las habilidades disparadas pasan a resolverse]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.4. La bolsa hace resolver las habilidades por completo antes de continuar]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.2. Frases separadas por puntos: orden escrito, tanto como sea posible y única resolución]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1.1. “Instead” identifica un efecto de reemplazo]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5.3. El reemplazo debe existir cuando el evento va a ocurrir, no después]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|6.5.6. El autorreemplazo se aplica primero]]
+- [[4.1. General|4.1.2. Cada acción de turno debe completarse totalmente antes de empezar la siguiente]]
+- [[4.5 Irse de aventura (Quest)|4.5.2. Tras hacer quest, las habilidades disparadas pasan a resolverse]]
+- [[7.7. Bolsa (Bag)|7.7.4. La bolsa hace resolver las habilidades por completo antes de continuar]]
+- [[6.1. General (General)|6.1.2. Frases separadas por puntos: orden escrito, tanto como sea posible y única resolución]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1.1. “Instead” identifica un efecto de reemplazo]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.3. El reemplazo debe existir cuando el evento va a ocurrir, no después]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.6. El autorreemplazo se aplica primero]]
 
 ---
 

@@ -1,49 +1,25 @@
-# ❓ Duda
+## ❓ Duda
 
-¿Los personajes con la palabra clave Ward mantienen esa protección mientras están en el descarte? ¿Significa que no pueden ser elegidos como objetivo de habilidades de remoción del oponente?
+¿Una carta de personaje con Ward conserva esa protección en el descarte?
 
-# ✅ Respuesta
+---
 
-**No, Ward NO funciona en el descarte.**
+## ✅ Respuesta
 
-Las habilidades como Ward **solo funcionan mientras el personaje está en zona de juego**. Una carta en descarte nunca puede ser elegida por habilidades de tus oponentes simplemente porque no está en juego.
+**No. Ward protege al personaje mientras está en juego; no impide elegir una carta de personaje en el descarte con un efecto que permita elegirla allí.**
 
-| Ubicación | ¿Ward funciona? | Razón |
-|-----------|-----------------|-------|
-| **En zona de juego** | ✓ Sí | Ward está activa, impide que sea elegida |
-| **En descarte** | ✗ No | No está en juego, no puede ser "elegida" |
-| **En mano** | ✗ No | No está en juego, no puede ser "elegida" |
-| **En mazo** | ✗ No | No está en juego, no está expuesta |
-| **Banished** | ✗ No | No está en juego |
+Una instrucción que elige un «character» se refiere a un personaje en juego y no puede elegir una carta del descarte. En cambio, «character card in your discard» sí puede hacerlo. La diferencia depende de la zona y del texto del efecto, no de Ward.
 
-**Conclusión**: Ward no se aplica en descarte porque la carta no está en juego. Ward solo protege de acciones cuando el personaje está en zona de juego.
+Ward tampoco impide desafiar legalmente al personaje protegido; ni evita efectos que no lo elijan.
 
-# 📘 Fundamento en reglas
+---
 
-[[8.15 Protección (ward)|Ward]] — Define que Ward protege un personaje de ser elegido como objetivo mientras está en juego.
+## 📘 Referencias
 
-[[7.4. Juego (Play)|Zona de juego]] — Especifica que solo los personajes en zona de juego están "en juego" y sujetos a sus habilidades.
-
-[[7.6. Pila de descarte (Discard pile)|Pila de descarte]] — Las cartas en descarte están fuera del juego y no pueden ser elegidas por ninguna acción.
-
-[[6.4. Habilidades Estáticas (Static Abilities)|Habilidades Estáticas]] — Las habilidades estáticas como Ward solo están activas si la carta está en la zona donde la habilidad aplica.
-
-# 🔄 Secuencia
-
-**Personaje con Ward en zona de juego:**
-1. Personaje está en zona de juego con Ward activo
-2. Oponente intenta elegirlo como objetivo
-3. Ward se aplica: no puede ser elegido
-4. Se bloquea la acción
-
-**Personaje con Ward en descarte:**
-1. Personaje está en descarte
-2. No está en zona de juego
-3. Las habilidades estáticas NO se aplican fuera de zona de juego
-4. Ward no está activo
-5. Oponente puede dirigirse a ese personaje si tuviera una habilidad que afectara descarte (pero no es elegible normalmente)
-
-# 🏷️ Tags
+- [[8.15 Protección (ward)|8.15: alcance de Ward]].
+- [[5.3. Personajes (Characters)|5.3.1: personaje y carta de personaje]].
+- [[6.1. General (General)|6.1.12: habilidades fuera del juego]].
+- [CR 2.2](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; el alcance se conserva.
 
 ---
 

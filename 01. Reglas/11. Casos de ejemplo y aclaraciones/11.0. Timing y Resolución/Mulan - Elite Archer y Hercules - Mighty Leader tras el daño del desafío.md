@@ -25,9 +25,9 @@ Si **Hercules sobrevive y sigue agotado** cuando se resuelve TRIPLE SHOT, EVER V
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3 — Disparo y bolsa]] y [[7.7. Bolsa (Bag)|7.7.3.1 — Añadir a la bolsa]]: cumplir la condición añade la habilidad a la bolsa para su resolución posterior.
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3 — Habilidades estáticas de cartas en juego]]: el efecto termina inmediatamente al salir su fuente de la zona de juego.
 - [[6.1. General (General)|6.1.3 — Elecciones durante la resolución]]: la elección de hasta dos personajes se hace al resolver TRIPLE SHOT; no puede elegirse dos veces el mismo personaje.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]]: reglas 1.8.1.4 y 1.8.3 (pp. 6–7), 4.6.2, 4.6.6.2–4.6.6.3 y 4.6.9.1 (pp. 14–15), 6.1.3 (pp. 25–26), 6.2.3 (p. 30), 6.4.2.3 (p. 32) y 7.7.3.1 (p. 40). El PDF inglés es la fuente normativa; los enlaces en castellano sirven de localización.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): reglas 1.8.1.4 y 1.8.3 (pp. 6–7), 4.6.2, 4.6.6.2–4.6.6.3 y 4.6.9.1 (pp. 14–15), 6.1.3 (pp. 25–26), 6.2.3 (p. 30), 6.4.2.3 (p. 32) y 7.7.3.1 (p. 40). El PDF inglés es la fuente normativa; los enlaces en castellano sirven de localización.
 
-Relacionado: [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md|Fuente estática abandona el juego]]. Este caso concreta el GSC entre el daño del desafío y la resolución de una habilidad disparada que intenta dañar a personajes protegidos.
+Relacionado: [[Fuente estática abandona el juego]]. Este caso concreta el GSC entre el daño del desafío y la resolución de una habilidad disparada que intenta dañar a personajes protegidos.
 
 ---
 
@@ -51,10 +51,10 @@ Mulan desafía a Hercules: le hace **2 daños** y recibe **5**. Hercules acumula
 
 ## 📚 Fuente oficial
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]]. Las [notas oficiales de Whispers in the Well, pp. 15–16](https://files.disneylorcana.com/Whispers-in-the-Well_ReleaseNotes_English.pdf) aclaran el daño de EVER VIGILANT sobre Hercules; esta interacción con Mulan se explica con las reglas citadas.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf). Las [notas oficiales de Whispers in the Well, pp. 15–16](https://files.disneylorcana.com/Whispers-in-the-Well_ReleaseNotes_English.pdf) aclaran el daño de EVER VIGILANT sobre Hercules; esta interacción con Mulan se explica con las reglas citadas.
 
 ---
 
 ## 🏷️ Tags
 
-#challenge #triggered-ability #static-ability #gsc #banish #timing #resolution
+#challenge #triggered-ability #static-ability #gsc #banish #timing

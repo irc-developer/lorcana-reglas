@@ -13,9 +13,9 @@ El evento de destierro ocurrió en el momento en que la carta abandonó la zona 
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Cartas abandonando la zona de Juego]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Interacción|6.2.3. Interacción de disparos]]
-- [[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa]]
+- [[7.4. Juego (Play)|7.4.3. Cartas abandonando la zona de Juego]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Interacción de disparos]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa]]
 
 ---
 
@@ -33,10 +33,10 @@ El evento de destierro ocurrió en el momento en que la carta abandonó la zona 
 
 Con John Smith — Snow Tracker se comprueba el evento de desafío con el texto exacto de esa carta. Si el desafío se declaró y el evento ocurrió antes de que el personaje abandone el juego, el movimiento posterior no borra el evento ya ocurrido. No se debe trasladar esta conclusión a John Smith — Undaunted Protector, cuyo texto es distinto.
 
-Fundamento: reglas 4.6.4–4.6.6 y 7.4.3 de [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]].
+Fundamento: reglas 4.6.4–4.6.6 y 7.4.3 de [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 
 ---
 
 ## 🏷️ Tags
 
-#banish #hand #triggered-abilities
+#banish #hand #triggered-ability

@@ -10,11 +10,11 @@ Sí, **bajo ciertas condiciones**.
 
 Las cartas firmadas son legales siempre que:
 
-- No alteren el arte de forma significativa.
+- No alteren el arte de ninguna manera en Competitive y Premier.
 - No marquen la carta de forma identificable.
 - No generen ventaja de juego.
 
-En torneos Competitive y Premier, las firmas están permitidas si no modifican la carta de forma que afecte a la integridad del juego. Si la firma cubre información relevante (texto, coste, fuerza), podría considerarse como carta marcada y ser rechazada.
+En torneos Competitive y Premier, las firmas están permitidas si no modifican la carta de forma que afecte a la integridad del juego. Si la firma cubre información relevante (texto, coste, fuerza), puede incumplir los requisitos de legalidad y debe revisarla el Lore Guide. Cubrir texto no convierte por sí solo la carta en «marcada»: esa categoría requiere que sea identificable estando boca abajo.
 
 ---
 
@@ -26,4 +26,4 @@ En torneos Competitive y Premier, las firmas están permitidas si no modifican l
 
 ## 🏷️ Tags
 
-#approvedaccessories #competitiveplay #markedcards #tournamentrules
+#tournament-rules #marked-cards

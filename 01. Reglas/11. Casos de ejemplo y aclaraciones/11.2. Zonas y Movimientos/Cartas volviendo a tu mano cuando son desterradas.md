@@ -16,10 +16,10 @@ Si la carta estaba debajo de otra en una pila, no se considera en juego como car
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)#7.4.3. Cartas abandonando la zona de Juego.|7.4.3. Cartas abandonando la zona de Juego]]
-- [[7.6. Pila de descarte (Discard pile)#7.6.1. Definición|7.6.1. Definición de descarte]]
-- [[5.1. Estados de las cartas (Card States)#5.1.1.5. Debajo (Under)|5.1.1.5. Debajo (Under)]]
-- [[5.1. Estados de las cartas (Card States)#5.1.1.7. En una pila (In a stack)|5.1.1.7. En una pila (In a stack)]]
+- [[7.4. Juego (Play)|7.4.3. Cartas abandonando la zona de Juego]]
+- [[7.6. Pila de descarte (Discard pile)|7.6.1. Definición de descarte]]
+- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]
+- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila (In a stack)]]
 
 ---
 

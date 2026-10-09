@@ -158,6 +158,12 @@
 
 **Flavor text:** "This town ain't big enough for the two of us."
 
+<!-- ERRATA-ACTIVA-DESDE: 2026-10-16 -->
+**Actualización oficial de Hyperia City:** esta carta pasa a usar Adventurous en su efecto de impedir desafiar y exigir aventura si puede. La fuente enumera la carta afectada, pero no publica aquí una transcripción completa de su nueva habilidad. El texto impreso anterior se conserva arriba como histórico a partir de esa fecha; las condiciones y la duración deben contrastarse con el original de la carta y la actualización oficial.
+
+**Procedencia:** [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), publicadas el 08/10/2026; aplicación con CR 2.3 desde el 16/10/2026.
+<!-- FIN-ERRATA -->
+
 ---
 
 ## Abby Park - Over the Top

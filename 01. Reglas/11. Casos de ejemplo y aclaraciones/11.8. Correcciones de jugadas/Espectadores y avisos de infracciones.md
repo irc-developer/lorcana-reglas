@@ -12,9 +12,9 @@ El espectador debe permanecer en silencio y no intervenir en la partida. Si obse
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/2. Roles en los torneos/2.6 Espectador (Spectator).md|Deberes del espectador]]
-- [[03. Reglas de Torneo/2. Roles en los torneos/2.3 Jueces (Judges).md|Imparcialidad del Lore Guide]]
-- [[03. Reglas de Torneo/5 Información y comunicación/5.4 Información en el Juego (In-Game Information).md|Comunicación durante la partida]]
+- [[2.6 Espectador (Spectator)|Deberes del espectador]]
+- [[2.3 Jueces (Judges)|Imparcialidad del Lore Guide]]
+- [[5.4 Información en el Juego (In-Game Information)|Comunicación durante la partida]]
 
 ---
 

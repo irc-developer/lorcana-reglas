@@ -16,11 +16,11 @@ Si lo ocurrido fue un error de reglas durante la resolución, hay que llamar al 
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7 Takebacks|Tournament Rules 3.7 — los takebacks son una excepción que requiere autorización]].
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks|Tournament Rules 3.7.1 — los efectos y habilidades disparadas que se resuelven cuentan como información adicional]].
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.3 Ejemplos de takebacks permitidos|Tournament Rules 3.7.3 — solicitudes inmediatas antes de resolver]].
-- [[01. Reglas/2. Juego (Gameplay)/2.3. Etapa de juego (In-Game Stage)|CR 2.3.3 — alcanzar 20 de lore gana la partida]].
-- [[04. Guia de correccion de jugadas/02. Errores de reglas/2.4 Error general de reglas (General Rule Error)|General Rule Error — pedir corrección si se cometió un error de reglas]].
+- [[3.7 Takebacks|Tournament Rules 3.7 — los takebacks son una excepción que requiere autorización]].
+- [[3.7.1 Elegibilidad y limitaciones de takebacks|Tournament Rules 3.7.1 — los efectos y habilidades disparadas que se resuelven cuentan como información adicional]].
+- [[3.7.3 Ejemplos de takebacks permitidos|Tournament Rules 3.7.3 — solicitudes inmediatas antes de resolver]].
+- [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3 — alcanzar 20 de lore gana la partida]].
+- [[2.4 Error general de reglas (General Rule Error)|General Rule Error — pedir corrección si se cometió un error de reglas]].
 
 Fuentes oficiales vigentes: [Comprehensive Rules 2.2.0 (09/07/2026)](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
@@ -28,4 +28,4 @@ Fuentes oficiales vigentes: [Comprehensive Rules 2.2.0 (09/07/2026)](https://fil
 
 ## 🏷️ Tags
 
-#tournament-rules #takeback #triggered-ability #additional-information #game-ending
+#tournament-rules #takeback #triggered-ability

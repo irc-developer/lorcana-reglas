@@ -17,9 +17,9 @@ Si Goliath está controlado por el oponente, primero se resuelven las habilidade
 ## 📘 Referencias
 
 - [Clarabelle - Light on Her Hooves](https://cards.lorcast.io/card/digital/large/crd_7e4aa6ffcba9401b916220a6f79c355c.avif?1723917209) y [Goliath - Clan Leader](https://cards.lorcast.io/card/digital/large/crd_daf2fde77da94e85898ad1cbd36059e6.avif?1761764707).
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.4. Estructura Condicional 1, si Condicional 2, efecto|6.2.4. Condición secundaria]]: la condición se comprueba al resolver, no al dispararse.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag).md|7.7. Bolsa]]: el jugador activo elige primero sus habilidades y después se pasa la bolsa en orden de turno.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.2.4, 7.7.3 y 7.7.4.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. Condición secundaria]]: la condición se comprueba al resolver, no al dispararse.
+- [[7.7. Bolsa (Bag)|7.7. Bolsa]]: el jugador activo elige primero sus habilidades y después se pasa la bolsa en orden de turno.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.2.4, 7.7.3 y 7.7.4.
 
 ---
 

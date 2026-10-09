@@ -12,9 +12,9 @@ El juez debe investigar la intención; no se ofrece al jugador la opción de esc
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.8 Registro de Mazos (Deck Registration).md|La lista como referencia de intención]]
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.9 Revisión de Mazos (Deck Checks).md|Objetivo del deck check]]
-- [[04. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md|DRE Minor]] y [[04. Guia de correccion de jugadas/03. Errores de torneo/3.4 Error de mazo-registro mayor (Deck-Registration Error major).md|DRE Major]]
+- [[3.8 Registro de Mazos (Deck Registration)|La lista como referencia de intención]]
+- [[3.9 Revisión de Mazos (Deck Checks)|Objetivo del deck check]]
+- [[3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|DRE Minor]] y [[3.4 Error de mazo-registro mayor (Deck-Registration Error major)|DRE Major]]
 
 ---
 

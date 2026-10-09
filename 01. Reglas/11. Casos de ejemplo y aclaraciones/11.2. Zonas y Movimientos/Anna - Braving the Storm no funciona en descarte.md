@@ -39,11 +39,11 @@ La palabra importante es **this character**. En el descarte, Anna - Braving the 
 
 ## 📘 Referencias
 
-- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)#5.3.1. Definición|5.3.1. Definición]]: una carta de personaje en la zona de juego es un personaje; en cualquier otra zona es una **character card**.
-- [[01. Reglas/7. Zonas (Zones)/7.1. General#7.1.5. Cartas en juego o no según la zona|7.1.5. Cartas en juego o no según la zona]]: solo las cartas en la zona de juego se consideran en juego. Las cartas en el mazo, descarte, mano e inkwell no están en juego.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#6.4.1. Definición|6.4.1. Definición]]: una habilidad estática sin duración está activa mientras la carta que genera el efecto esté en juego.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)#6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego|6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego]]: si una carta que genera una habilidad estática abandona la zona de juego, su efecto termina inmediatamente.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.12. Algunas habilidades funcionan fuera de la zona de juego (Play zone).|6.1.12. Algunas habilidades funcionan fuera de la zona de juego]]: una habilidad funciona fuera de la zona de juego solo si su propio texto lo indica.
+- [[5.3. Personajes (Characters)|5.3.1. Definición]]: una carta de personaje en la zona de juego es un personaje; en cualquier otra zona es una **character card**.
+- [[7.1. General|7.1.5. Cartas en juego o no según la zona]]: solo las cartas en la zona de juego se consideran en juego. Las cartas en el mazo, descarte, mano e inkwell no están en juego.
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1. Definición]]: una habilidad estática sin duración está activa mientras la carta que genera el efecto esté en juego.
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego]]: si una carta que genera una habilidad estática abandona la zona de juego, su efecto termina inmediatamente.
+- [[6.1. General (General)|6.1.12. Algunas habilidades funcionan fuera de la zona de juego]]: una habilidad funciona fuera de la zona de juego solo si su propio texto lo indica.
 
 ---
 
@@ -67,4 +67,4 @@ La palabra importante es **this character**. En el descarte, Anna - Braving the 
 
 ## 🏷️ Tags
 
-#anna #anna-soothing-sister #anna-braving-the-storm #discard #static-ability #lore #quest #zones
+#discard #static-ability #lore-gain #quest #scope

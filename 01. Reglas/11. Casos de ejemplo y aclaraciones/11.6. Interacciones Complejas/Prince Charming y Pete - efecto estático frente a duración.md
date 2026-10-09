@@ -18,7 +18,7 @@ La restricción existe mientras Prince Charming está en juego. Si abandona la z
 
 > *When you play this character, opponents can't play actions until the start of your next turn.*
 
-Cuando la habilidad se resuelve, crea un efecto con una duración explícita. El efecto no dice que dependa de que Pete permanezca en juego, así que sigue vigente hasta el comienzo del siguiente turno de su propietario aunque Pete sea devuelto a la mano, desterrado o abandone el juego por otra razón.
+Cuando la habilidad se resuelve, crea un efecto con una duración explícita. El efecto no dice que dependa de que Pete permanezca en juego, así que sigue vigente hasta el comienzo del siguiente turno de el jugador que generó el efecto aunque Pete sea devuelto a la mano, desterrado o abandone el juego por otra razón.
 
 La diferencia no es que uno sea “más fuerte”, sino **cuándo se crea el efecto y qué condición de permanencia tiene**.
 
@@ -28,9 +28,9 @@ La diferencia no es que uno sea “más fuerte”, sino **cuándo se crea el efe
 
 - [Prince Charming - Protector of the Realm](https://cards.lorcast.io/card/digital/large/crd_fafe3c3da4484cf6b0485a5f5a1c557a.avif?1761764872): restricción estática que funciona mientras la fuente está en juego.
 - [Pete - Games Referee](https://cards.lorcast.io/card/digital/large/crd_d82108b67c434df495ba7ce11b811e79.avif?1723917209): habilidad disparada que crea una prohibición hasta un momento concreto.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities).md|Habilidades estáticas]]: una habilidad estática de una carta en juego deja de aplicarse cuando su fuente abandona esa zona, salvo que el texto indique otra cosa.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego.md|Fuente estática abandona el juego]].
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects).md|Efectos que crean modificaciones temporales]].
+- [[6.4. Habilidades Estáticas (Static Abilities)|Habilidades estáticas]]: una habilidad estática de una carta en juego deja de aplicarse cuando su fuente abandona esa zona, salvo que el texto indique otra cosa.
+- [[Fuente estática abandona el juego]].
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.1: efectos resueltos con duración]].
 
 ---
 
@@ -48,12 +48,12 @@ La diferencia no es que uno sea “más fuerte”, sino **cuándo se crea el efe
 
 1. Pete entra en juego y su habilidad se dispara.
 2. La habilidad se coloca en la bolsa y se resuelve.
-3. Se crea la prohibición hasta el comienzo del siguiente turno de su propietario.
+3. Se crea la prohibición hasta el comienzo del siguiente turno de el jugador que generó el efecto.
 4. Pete puede abandonar el juego; la duración del efecto no se reinicia ni se acorta.
-5. Al comenzar el siguiente turno de su propietario, la prohibición termina.
+5. Al comenzar el siguiente turno de el jugador que generó el efecto, la prohibición termina.
 
 ---
 
 ## 🏷️ Tags
 
-#static-ability #triggered-ability #duration #restriction #challenge #actions #prince-charming #pete
+#static-ability #triggered-ability #duration #restriction #challenge #turn-actions

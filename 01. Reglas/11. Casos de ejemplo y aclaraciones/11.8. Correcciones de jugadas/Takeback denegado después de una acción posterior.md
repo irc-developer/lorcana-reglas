@@ -12,8 +12,8 @@ No. El takeback solo puede afectar a la jugada más reciente del jugador. La que
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Solo la jugada más reciente]]
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.4 Ejemplos de takebacks no permitidos.md|Acción posterior]]
+- [[3.7.1 Elegibilidad y limitaciones de takebacks|Solo la jugada más reciente]]
+- [[3.7.4 Ejemplos de takebacks no permitidos|Acción posterior]]
 
 ---
 

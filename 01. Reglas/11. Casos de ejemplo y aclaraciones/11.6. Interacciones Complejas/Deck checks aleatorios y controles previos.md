@@ -32,21 +32,21 @@ No conviene confiscar mazos silenciosamente ni prometer que todos serán revisad
 
 ## ⚖️ Qué ocurre si aparece un problema
 
-- Una discrepancia accidental que no obliga a modificar la decklist puede ser un [[04. Guia de correccion de jugadas/03. Errores de torneo/3.3 Error de mazo-registro menor (Deck-Registration Error - minor).md|Error de mazo-registro menor]].
-- Si hay que modificar la lista, el mazo queda ilegal o no se pueden aportar las cartas necesarias, puede ser un [[04. Guia de correccion de jugadas/03. Errores de torneo/3.4 Error de mazo-registro mayor (Deck-Registration Error major).md|Error de mazo-registro mayor]].
-- Si el jugador ocultó o mantuvo conscientemente la discrepancia para obtener ventaja, debe investigarse como posible [[04. Guia de correccion de jugadas/04. Conducta antideportiva/4.4 Trampas (Cheating).md|Cheating]], no tratarse automáticamente como un simple error.
+- Una discrepancia accidental que no obliga a modificar la decklist puede ser un [[3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|Error de mazo-registro menor]].
+- Si hay que modificar la lista, el mazo queda ilegal o no se pueden aportar las cartas necesarias, puede ser un [[3.4 Error de mazo-registro mayor (Deck-Registration Error major)|Error de mazo-registro mayor]].
+- Si el jugador ocultó o mantuvo conscientemente la discrepancia para obtener ventaja, debe investigarse como posible [[4.4 Trampas (Cheating)|Cheating]], no tratarse automáticamente como un simple error.
 
 ---
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.9 Revisión de Mazos (Deck Checks).md|3.9. Revisión de mazos]]: los checks pueden realizarse en distintos momentos y, en Premier, existe una expectativa mínima del 10 %.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championships - decklists y deck checks.md|Set Championships: decklists y deck checks]].
-- [[05. Consejos de jueces/11. Guía práctica - Deck Checks antes del inicio del torneo.md|Guía práctica para realizar deck checks antes del inicio]].
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Investigar la intención en una discrepancia entre mazo y lista.md|Investigar la intención en una discrepancia entre mazo y lista]].
+- [[3.9 Revisión de Mazos (Deck Checks)|3.9. Revisión de mazos]]: los checks pueden realizarse en distintos momentos y, en Premier, existe una expectativa mínima del 10 %.
+- [[Set Championships - decklists y deck checks|Set Championships: decklists y deck checks]].
+- [[11. Guía práctica - Deck Checks antes del inicio del torneo|Guía práctica para realizar deck checks antes del inicio]].
+- [[Investigar la intención en una discrepancia entre mazo y lista]].
 
 ---
 
 ## 🏷️ Tags
 
-#deck-check #decklist #random-check #tournament-security #detection #cheating
+#deck-construction #cheating

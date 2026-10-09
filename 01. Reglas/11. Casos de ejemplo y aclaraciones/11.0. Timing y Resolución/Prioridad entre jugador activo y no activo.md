@@ -15,12 +15,12 @@ Se resuelven primero los disparos del jugador activo en la bolsa y luego se pasa
 
 ## 📘 Referencias
 
-- [[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]
-- [[7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2. El jugador activo escoge]]
-- [[7.7. Bolsa (Bag)#7.7.4.4. Pasar la bolsa (passing the bag)|7.7.4.4. Pasar la bolsa]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
+- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]
+- [[7.7. Bolsa (Bag)|7.7.4.4. Pasar la bolsa]]
 
 ---
 
 ## 🏷️ Tags
 
-#bag #jugadoractivo #triggered-abilities
+#bag #triggered-ability

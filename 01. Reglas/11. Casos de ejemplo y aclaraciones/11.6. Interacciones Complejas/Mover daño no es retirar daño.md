@@ -35,12 +35,12 @@ La regla de "take" indica que un personaje o localización recibe daño cuando s
 
 Esto confirma que el daño movido no se trata como daño infligido, pero sigue siendo daño puesto sobre el destino.
 
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1 Definición general del daño]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.2 Put]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.3 Remove/Removed]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.4 Move]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|1.9.1.5 Take]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|8.8.3 Daño movido o puesto]]
+- [[1.9. Daño (Damage)|1.9.1 Definición general del daño]]
+- [[1.9. Daño (Damage)|1.9.1.2 Put]]
+- [[1.9. Daño (Damage)|1.9.1.3 Remove/Removed]]
+- [[1.9. Daño (Damage)|1.9.1.4 Move]]
+- [[1.9. Daño (Damage)|1.9.1.5 Take]]
+- [[8.8. Resistir (Resist)|8.8.3 Daño movido o puesto]]
 
 ---
 
@@ -56,4 +56,4 @@ Esto confirma que el daño movido no se trata como daño infligido, pero sigue s
 
 ## 🏷️ Tags
 
-#damage #move-damage #remove-damage #put-damage #take-damage #resist #rules-interpretation #gsc
+#damage #move-damage #resist #gsc

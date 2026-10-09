@@ -22,12 +22,20 @@ En resumen:
 
 ---
 
+### Efectos con varias partes, desde el 16/10/2026
+
+Cada jugador afectado completa **la primera parte**, en orden de turno; después todos completan la segunda, y así sucesivamente. No se resuelve el efecto entero para un jugador antes de pasar al siguiente. No se intercalan bolsa ni chequeos de estado entre partes.
+
+Por ejemplo, [[Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados|Thomas O’Malley]] hace que todos revelen antes de comparar el coste más alto. [CR 2.3, 6.7.6.1, p.37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37) y [notas de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes) aclaran ese orden.
+
+---
+
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.6. Jugador activo vs jugador no-activo|6.7.6. Si varios jugadores actúan, lo hacen en orden de turno dentro de la misma resolución]]
-- [[01. Reglas/9. Multijugador (Multiplayer)/9.2. Reglas adicionales de multijugador (Multiplayer Rules)#9.2.2. Resolver acciones de varios jugadores|9.2.2. En multijugador se procede hacia la izquierda, un jugador cada vez]]
-- [[01. Reglas/2. Juego (Gameplay)/2.1. General#2.1.3. Jugador inicial y jugador no inicial|2.1.3. El orden de turno en multijugador va hacia la izquierda]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Los triggers creados durante esa resolución esperan]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.6. Si varios jugadores actúan, lo hacen en orden de turno dentro de la misma resolución]]
+- [[9.2. Reglas adicionales de multijugador (Multiplayer Rules)|9.2.2. En multijugador se procede hacia la izquierda, un jugador cada vez]]
+- [[2.1. General|2.1.3. El orden de turno en multijugador va hacia la izquierda]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4. Los triggers creados durante esa resolución esperan]]
 
 ---
 
@@ -35,14 +43,14 @@ En resumen:
 
 1. Empieza a resolverse una habilidad o acción que dice que cada oponente haga algo.
 2. Como más de un jugador debe actuar durante ese mismo efecto, se aplica el orden de turno multijugador.
-3. El primer oponente en orden de turno realiza toda su parte de la instrucción.
+3. El primer oponente en orden de turno realiza su parte de la instrucción actual.
 4. Si durante esa parte se generan habilidades disparadas, se añaden a la bolsa pero no se resuelven todavía.
 5. Después realiza su parte el siguiente oponente en orden de turno, con la información pública actualizada que exista en ese momento.
-6. Cuando todos los jugadores afectados han terminado, el efecto se considera completamente resuelto.
+6. Cuando todos han completado esa parte, se pasa a la siguiente parte en orden de turno, si la hay. Solo al terminar todas las partes queda resuelto el efecto.
 7. Solo entonces se hace la comprobación del estado del juego y pueden empezar a resolverse habilidades desde la bolsa.
 
 ---
 
 ## 🏷️ Tags
 
-#multijugador #each-opponent #resolution-order #turn-order #timing
+#turn-structure #resolution #timing

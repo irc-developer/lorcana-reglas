@@ -1,0 +1,48 @@
+{
+  "fecha": "2026-10-09",
+  "estado": "ejecución editorial completada; commit y publicación en curso; recarga de conexión persistente pendiente",
+  "base_commit": "136495edfe27c0d79b9f34fe55d9653413d47777",
+  "documentos": 495,
+  "casos": 239,
+  "historicos": 15,
+  "candidatos_no_historicos": 231,
+  "actuaciones": 41,
+  "altas_propuestas": 8,
+  "temas_hyperia": 34,
+  "advertencia": "Revisión individual de impacto de CR 2.3, Hyperia y dependencias; no certificación normativa universal ni conversión de fuentes locales en oficiales.",
+  "fuentes": {
+    "cr23": {
+      "archivo": "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
+      "vigencia": "2026-10-16"
+    },
+    "notas_hyperia": {
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes",
+      "publicacion": "2026-10-08",
+      "consulta": "2026-10-09",
+      "copia_local_oficial": "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md"
+    }
+  },
+  "archivos_previos": {
+    ".obsidian/workspace.json": "677fc7ab42c5d657c2fddf67d7f127fdc660384958577c1e9e2c9f3ed0a57638",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard.md": "38d0932d90336f79dbe91ce8c0c505f1350e114695f59d2dbc98b51fcac7dd48",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md": "6bf970b092acb75db43567fca4d21eaa044bc1579aeddc1cdc53566fe4dd8a83",
+    "Registro de Tags - Master List.md": "e1ec82cbc0a47d2d950094d840bd4cf0a07be57e408d34d1bf0f9af371a02486",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Empates intencionales y acuerdos de grupo.md": "4b1dfd2c2c63b65712057f982048d4ac14daedc64e38939ede0d7623e7057845",
+    "01. Reglas/11. Casos de ejemplo y aclaraciones/ÍNDICE - Casos de ejemplo y aclaraciones.md": "e0d11b3e11ca0b0df9433694d7406459bb4bba3a8ca7cdd5fb4b98287d6fd287"
+  },
+  "hashes_fuentes": {
+    "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf": "8b7a458169978a13b688493d4b24d713bdc8baee32ce5e774b0515079a0b91fe",
+    "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf": "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f",
+    "02. Listado de Cartas/Set 14 - Hyperia City.md": "47f16a21c80c018319388744babd56adfc540cf8c70ea7bead11bae4ddffc323"
+  },
+  "documentos_revisados_individualmente": 495,
+  "altas_creadas": 8,
+  "hashes_finales_fuentes": {
+    "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf": "8b7a458169978a13b688493d4b24d713bdc8baee32ce5e774b0515079a0b91fe",
+    "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf": "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f",
+    "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.html": "13608bf8bc25420590bef3eec46220beb79f716ecefb75a52f3cef7d486a303c",
+    "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md": "3b5cf018f0f29329334821e6866df8c252f571cca95dd207a370466ea2f570d3",
+    "Documentacion Oficial/Tournament-Rules-7.14.2026_Update_EN.pdf": "752f0b4994e99547805fd6023d4bbb106a458e234243c37b8885ccc292ddb6ee",
+    "Documentacion Oficial/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": "38b75b4326f6cfd8d1226129c2f36a871ee02be0628f785e1976b376ef725970"
+  }
+}

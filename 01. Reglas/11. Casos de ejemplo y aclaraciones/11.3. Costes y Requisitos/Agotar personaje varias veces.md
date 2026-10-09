@@ -22,13 +22,13 @@ No en los tres casos.
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)#4.4.3.4. Pagar el coste|4.4.3.4 Pagar el coste completo]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)#6.1.5. Algunos efectos son efectos secuenciales (sequential effects).|6.1.5 Efectos secuenciales]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Interacción|6.2.3 Disparo y entrada en bolsa]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3. Reglas|7.7.3 Resolución en bolsa tras completar el proceso]]
+- [[6.1. General (General)|6.1.5.1: agotar como primera parte requerida de un efecto secuencial]].
+- [[6.1. General (General)|6.1.5 Efectos secuenciales]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3 Disparo y entrada en bolsa]]
+- [[7.7. Bolsa (Bag)|7.7.3 Resolución en bolsa tras completar el proceso]]
 
 ---
 
 ## 🏷️ Tags
 
-#activated-ability #agotar #cost-requirement #sequential-effects #bolsa
+#triggered-ability #exert #resolution #bag

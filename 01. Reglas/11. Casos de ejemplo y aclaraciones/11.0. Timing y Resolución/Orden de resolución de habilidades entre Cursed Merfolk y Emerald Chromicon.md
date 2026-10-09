@@ -51,30 +51,23 @@ En el caso hipotético de que ambas habilidades **se disparasen al mismo tiempo*
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.3. Cuándo se añaden los disparos a la bolsa|6.2.3. Cuándo se cocinan los disparos]] – Los disparos se cocinan cuando su condición se cumple de forma secuencial.
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4. Orden de resolución de la bolsa|7.7.4. Orden de resolución]] – En la bolsa, los disparos se resuelven en orden de prioridad de jugadores por cada disparo generado.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Cuándo se cocinan los disparos]] – Los disparos se cocinan cuando su condición se cumple de forma secuencial.
+- [[7.7. Bolsa (Bag)|7.7.4. Orden de resolución]] – En la bolsa, los disparos se resuelven en orden de prioridad de jugadores por cada disparo generado.
 - [[4.6 Desafío (Challenge)|Declaración y resolución del desafío]] – Un desafío se resuelve: se compara fuerza/voluntad, se aplica daño, se desterran si corresponde.
 
 ---
 
 ## 🔄 Cómo se resuelve
 
-1. **Evento inicial**: Oponente inicia un desafío contra Cursed Merfolk.
-2. **Costes y requisitos**: No aplica ninguno para el desafío.
-3. **Elecciones y objetivos**: Se elige a Cursed Merfolk como defensor (si hay múltiples).
-4. **Resolución del desafío**:
-   - Se compara Fuerza/Voluntad del atacante vs Cursed Merfolk.
-   - Se aplica daño a Cursed Merfolk.
-   - Cursed Merfolk recibe daño suficiente → es desterrado.
-5. **Disparos en orden secuencial**:
-   - **Disparo 1**: "Whenever this character is challenged" de Cursed Merfolk se añade a la bolsa.
-   - Se resuelve: cada oponente descarta una carta (Cursed Merfolk controller decide el orden si es el jugador activo).
-   - **Disparo 2**: "Whenever one of your characters is banished" de Emerald Chromicon se añade a la bolsa.
-   - Se resuelve: opcionalmente se devuelve un personaje a mano.
-6. **GSC**: Se verifica el estado del juego. Total de disparos restantes en bolsa = 0.
+1. El oponente declara un desafío legal contra Cursed Merfolk agotado; agota a su atacante.
+2. Al ocurrir el desafío, se añade el disparo de Cursed Merfolk a la bolsa.
+3. Antes del daño, se resuelve la bolsa de la declaración. Cada oponente de su controlador elige y descarta una carta.
+4. Se hace el daño simultáneo del desafío y después el chequeo de estado. Si Cursed Merfolk tiene daño letal, queda desterrado.
+5. Emerald Chromicon se dispara por ese destierro durante el turno rival. Tras completar los chequeos, su controlador puede resolverlo para devolver un personaje elegido legal.
+6. Se completa la bolsa restante y termina el desafío.
 
 ---
 
 ## 🏷️ Tags
 
-#triggered-abilities #timing #banish #discard #bag #resolution-order #challenges
+#triggered-ability #timing #banish #discard #bag #resolution

@@ -30,6 +30,14 @@ Por ejemplo, [Diablo - Stone Servant](https://cards.lorcast.io/card/digital/larg
 
 ---
 
+### Orden de entrada desde CR 2.3 (16/10/2026)
+
+Los efectos «enters» son estáticos. Primero se aplican los de la propia carta que va a entrar y después los de otras fuentes, antes de colocarla realmente en juego. Bodyguard permite la entrada agotada en este proceso; no espera a una habilidad disparada posterior ni se clasifica automáticamente como reemplazo.
+
+[CR 2.3, 4.3.3.1 y 6.7.9, pp.13 y 38](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), «Updates on How Enters Works».
+
+---
+
 ## 📘 Referencias
 
 - [[8.3. Guardaespaldas (Bodyguard)|8.3.2–8.3.3]]: entrada agotada y restricción de elección.
@@ -37,7 +45,7 @@ Por ejemplo, [Diablo - Stone Servant](https://cards.lorcast.io/card/digital/larg
 - [[1.2. Regla de oro (Golden Rules)|1.2.1]]: el permiso de la carta modifica la exigencia normal de defensor agotado.
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.2–6.4.2.3]]: diferencia entre efectos sobre cartas presentes y habilidades continuas que afectan a las nuevas.
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], pp. 3, 15, 32 y 41.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 3, 15, 32 y 41.
 
 ---
 

@@ -1,14 +1,16 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 238 | **Última actualización:** 8 de octubre de 2026
+**Total de casos:** 246 | **Última actualización:** 9 de octubre de 2026
 
 ---
 
 ## 📋 Estructura por categoría
 
+> **(NUEVO: HYPERIA CITY)** marca aclaraciones que aplican desde el **16/10/2026**. Hasta el 15/10 rige CR 2.2.
+
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
-### 11.0. Timing y Resolución (38 casos)
+### 11.0. Timing y Resolución (41 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia de resolución.
 
@@ -50,9 +52,13 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 36. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
 37. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
 38. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
+39. [Minnie Mouse - Urban Visionary y las dos decisiones opcionales](<11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+40. [Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar](<11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+41. [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
-### 11.2. Zonas y Movimientos (25 casos)
+
+### 11.2. Zonas y Movimientos (26 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -81,9 +87,11 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 23. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
 24. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
 25. [Diablo y el robo aparente tras un desafío.md](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>) **(DISCORD 2026)**
+26. [Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron](<11.2. Zonas y Movimientos/Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
-### 11.3. Costes y Requisitos (21 casos)
+
+### 11.3. Costes y Requisitos (23 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -108,9 +116,12 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 19. [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) **(NUEVO: ATTACK OF THE VINE)**
 20. [Permisos adicionales para entintar se acumulan.md](<11.3. Costes y Requisitos/Permisos adicionales para entintar se acumulan.md>) **(DISCORD 2026)**
 21. [Entintar boca arriba en torneo.md](<11.3. Costes y Requisitos/Entintar boca arriba en torneo.md>) **(DISCORD 2026)**
+22. [Baymax - Amped Up, retirar gotas y pagar tinta](<11.3. Costes y Requisitos/Baymax - Amped Up, retirar gotas y pagar tinta.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+23. [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
-### 11.4. Habilidades (35 casos)
+
+### 11.4. Habilidades (36 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -149,8 +160,10 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 33. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
 34. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)**
 35. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
+36. [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
+
 ### 11.5. Keywords (21 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
@@ -178,6 +191,7 @@ Casos sobre palabras clave específicas de Lorcana.
 21. [Aladdin & Genie - Shift sobre un solo personaje.md](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) **(DISCORD 2026)**
 
 ---
+
 ### 11.6. Interacciones Complejas (67 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
@@ -217,7 +231,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 33. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
 34. [Oswald y Keep the Ancient Ways.md](<11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md>)
 35. [Piercing Attack ignora Resist de Omnidroid.md](<11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md>) **(NUEVO: ATTACK OF THE VINE)**
-36. [Potato Shift sobre Morph — pendiente de revisión](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>) **(NUEVO: ATTACK OF THE VINE)**
+36. [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>) **(NUEVO: ATTACK OF THE VINE)**
 37. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
 38. [Rapunzel conserva su protección si Resist reduce el daño a 0.md](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>)
 39. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
@@ -251,17 +265,20 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 67. [Mulan - Resourceful Recruit gana 7 lore con Buzz.md](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>)
 
 ---
-### 11.7. Dudas por desarrollar (5 casos)
 
-Nombre provisional de la subsección. Los cinco casos de esta carpeta ya están desarrollados, aunque el título de la sección siga pendiente de renombrarse.
+### 11.7. Dudas por desarrollar (6 casos)
+
+Nombre provisional de la subsección. Los seis casos de esta carpeta ya están desarrollados, aunque el título de la sección siga pendiente de renombrarse.
 
 1. [Bolsa en multijugador con tres jugadores.md](<11.7. Dudas por desarrollar/Bolsa en multijugador con tres jugadores.md>)
 2. [Cada oponente en multijugador y orden de resolución.md](<11.7. Dudas por desarrollar/Cada oponente en multijugador y orden de resolución.md>)
 3. [Elegirte a ti mismo cuando un efecto dice chosen player.md](<11.7. Dudas por desarrollar/Elegirte a ti mismo cuando un efecto dice chosen player.md>)
 4. [Ganar Ward antes de la segunda elección del mismo efecto.md](<11.7. Dudas por desarrollar/Ganar Ward antes de la segunda elección del mismo efecto.md>)
 5. [Moverse a una localización recién jugada.md](<11.7. Dudas por desarrollar/Moverse a una localización recién jugada.md>)
+6. [Flippant Taunt mantiene su efecto cuando su jugador abandona la partida](<11.7. Dudas por desarrollar/Flippant Taunt mantiene su efecto cuando su jugador abandona la partida.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
+
 ### 11.8. Correcciones de jugadas (26 casos)
 
 Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante una partida.
@@ -358,15 +375,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 38 | 16.0% |
-| **11.2 Zonas y Movimientos** | 25 | 10.5% |
-| **11.3 Costes y Requisitos** | 21 | 8.8% |
-| **11.4 Habilidades** | 35 | 14.7% |
-| **11.5 Keywords** | 21 | 8.8% |
-| **11.6 Interacciones Complejas** | 67 | 28.2% |
-| **11.7 Dudas por desarrollar** | 5 | 2.1% |
-| **11.8 Correcciones de jugadas** | 26 | 10.9% |
-| **TOTAL** | **238** | **100%** |
+| **11.0 Timing y Resolución** | 41 | 16.7% |
+| **11.2 Zonas y Movimientos** | 26 | 10.6% |
+| **11.3 Costes y Requisitos** | 23 | 9.3% |
+| **11.4 Habilidades** | 36 | 14.6% |
+| **11.5 Keywords** | 21 | 8.5% |
+| **11.6 Interacciones Complejas** | 67 | 27.2% |
+| **11.7 Dudas por desarrollar** | 6 | 2.4% |
+| **11.8 Correcciones de jugadas** | 26 | 10.6% |
+| **TOTAL** | **246** | **100%** |
 
 ---
 
@@ -393,10 +410,18 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Marie**: [Marie - Caught in the Act con Resist y Lilo - Bundled Up](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
 - **Mulan y Buzz**: [Mulan - Resourceful Recruit gana 7 lore con Buzz](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>) | [Pocahontas lee el valor de lore de Mulan](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
 - **Rapunzel**: [Rapunzel conserva su protección con Resist 0](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
-- **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph — pendiente de revisión](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
+- **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Hyperia City, desde 16/10/2026**: [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>)
+- **Hyperia City, desde 16/10/2026**: [Flippant Taunt mantiene su efecto cuando su jugador abandona la partida](<11.7. Dudas por desarrollar/Flippant Taunt mantiene su efecto cuando su jugador abandona la partida.md>)
+- **Hyperia City, desde 16/10/2026**: [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>)
+- **Hyperia City, desde 16/10/2026**: [Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar](<11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md>)
+- **Hyperia City, desde 16/10/2026**: [Baymax - Amped Up, retirar gotas y pagar tinta](<11.3. Costes y Requisitos/Baymax - Amped Up, retirar gotas y pagar tinta.md>)
+- **Hyperia City, desde 16/10/2026**: [Minnie Mouse - Urban Visionary y las dos decisiones opcionales](<11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md>)
+- **Hyperia City, desde 16/10/2026**: [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>)
+- **Hyperia City, desde 16/10/2026**: [Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron](<11.2. Zonas y Movimientos/Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron.md>)
 - **Jugar una localización durante una resolución**: [Sleepy Hollow entra antes de comprobar el robo de Get to Safety!; los disparos esperan](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
 - **Del mazo al descarte y condición secundaria**: [Mirar cartas con Héctor no cambia su zona; The Torn Corner puede jugarse gratis con la foto en juego](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Elección dentro de un efecto opcional**: [Rechazar «may» omite la elección y no dispara a Tod](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)

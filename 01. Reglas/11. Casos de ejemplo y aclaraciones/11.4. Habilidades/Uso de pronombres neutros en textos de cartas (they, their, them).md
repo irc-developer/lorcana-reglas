@@ -13,11 +13,11 @@ En Lorcana esos pronombres se usan de forma neutra según el contexto gramatical
 
 ## 📘 Referencias
 
-- [[6.1. General (General)#6.1.1. Definición|6.1.1. Texto de habilidad y efecto]]
-- [[6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Lectura por estructura completa]]
+- [[6.1. General (General)|6.1.1. Texto de habilidad y efecto]]
+- [[6.1. General (General)|6.1.2. Lectura por estructura completa]]
 
 ---
 
 ## 🏷️ Tags
 
-#interpretacion #pronombres #textodecarta
+#resolution #choices

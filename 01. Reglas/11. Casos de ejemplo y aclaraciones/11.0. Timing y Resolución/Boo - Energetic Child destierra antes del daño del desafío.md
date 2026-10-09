@@ -39,7 +39,7 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 - [[7.1. General|7.1. General de zonas]], **7.1.5–7.1.6**: la carta que sale de la zona de juego se convierte en una carta nueva. La regla admite excepciones de seguimiento, pero On the Move no establece recuperación desde el descarte. CR 2.2.0, p. 38; aplicación interpretativa al texto de Scrooge.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de cartas y efectos]], **6.7.2.3 y 6.7.5**, junto con **1.2.3**: se hace todo lo posible al resolver un efecto y se comprueba el estado del juego tras la resolución. CR 2.2.0, pp. 3 y 36–37.
 - **1.1.7**: el texto entre paréntesis en cursiva es recordatorio, no texto de reglas. CR 2.2.0, p. 3.
-- Las [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Attack of the Vine Set Release Notes]], **p. 26**, confirman expresamente el destierro de Piglet por Kid-Tastrophe! antes del daño. No contienen un ruling específico de Boo contra Scrooge.
+- Las [Attack of the Vine Set Release Notes](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), **p. 26**, confirman expresamente el destierro de Piglet por Kid-Tastrophe! antes del daño. No contienen un ruling específico de Boo contra Scrooge.
 
 ---
 
@@ -64,10 +64,10 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 
 ## 📚 Fuente oficial
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y [[Documentacion Oficial/Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]], p. 26 (Boo contra Piglet). La interacción con Scrooge aplica las reglas de bolsa y cambio de zona.
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), p. 26 (Boo contra Piglet). La interacción con Scrooge aplica las reglas de bolsa y cambio de zona.
 
 ---
 
 ## 🏷️ Tags
 
-#challenge #triggered-ability #bag-priority #banish #discard #hand #timing
+#challenge #triggered-ability #bag-priority #banish #discard #hand

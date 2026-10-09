@@ -12,9 +12,9 @@ Sí. El pozo de tinta es una zona privada y el jugador es responsable de no reve
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/5 Información y comunicación/5.4 Información en el Juego (In-Game Information).md|Información privada revelada]]
-- [[03. Reglas de Torneo/5 Información y comunicación/5.5 Pozo de tinta.md|Pozo de tinta separado y boca abajo]]
-- [[04. Guia de correccion de jugadas/02. Errores de reglas/2.2 Error de información oculta (Hidden Information Error).md|Hidden Information Error]]
+- [[5.4 Información en el Juego (In-Game Information)|Información privada revelada]]
+- [[5.5 Pozo de tinta|Pozo de tinta separado y boca abajo]]
+- [[2.2 Error de información oculta (Hidden Information Error)|Hidden Information Error]]
 
 ---
 

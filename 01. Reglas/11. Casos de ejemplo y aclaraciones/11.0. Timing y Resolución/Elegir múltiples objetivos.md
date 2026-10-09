@@ -14,11 +14,11 @@ Cuando un efecto dice “hasta N” objetivos, no puedes elegir el mismo objetiv
 
 ## 📘 Referencias
 
-- [[6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Todas las elecciones durante la resolución]]
-- [[6.1. General (General)#6.1.3. Todas las elecciones (choices) se realizan durante la resolución del efecto.|6.1.3. Regla de “hasta N”]]
+- [[6.1. General (General)|6.1.3. Todas las elecciones durante la resolución]]
+- [[6.1. General (General)|6.1.3. Regla de “hasta N”]]
 
 ---
 
 ## 🏷️ Tags
 
-#objetivos #resolucion #upton
+#resolution #choices

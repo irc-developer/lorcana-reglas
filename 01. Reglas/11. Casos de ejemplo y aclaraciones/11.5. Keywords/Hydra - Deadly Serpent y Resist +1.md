@@ -32,21 +32,21 @@ Si la fuente intentara infligir 2 daños, Resist +1 los reduciría a 1. Hydra s�
 ## 📘 Referencias
 
 - [Hydra - Deadly Serpent](https://cards.lorcast.io/card/digital/large/crd_f9025821a35c4cea9fd04182f7db5896.avif?1709690747): WATCH THE TEETH se dispara cuando se inflige daño a Hydra.
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.2. Equivalencias|1.9.2. «Is dealt damage» significa que el personaje recibe daño]]
-- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)#1.9.5. Daño reducido a 0|1.9.5. La fuente puede infligir daño aunque el personaje no lo reciba]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Una habilidad disparada solo se añade a la bolsa cuando se cumple su condición]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|8.8.1–8.8.2. Resist es una habilidad estática y el objeto no recibe daño si se reduce a 0]]
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 1.9.5 y 8.8.1–8.8.2.
+- [[1.9. Daño (Damage)|1.9.2. «Is dealt damage» significa que el personaje recibe daño]]
+- [[1.9. Daño (Damage)|1.9.5. La fuente puede infligir daño aunque el personaje no lo reciba]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Una habilidad disparada solo se añade a la bolsa cuando se cumple su condición]]
+- [[8.8. Resistir (Resist)|8.8.1–8.8.2. Resist es una habilidad estática y el objeto no recibe daño si se reduce a 0]]
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.9.5 y 8.8.1–8.8.2.
 
 ---
 
 ## 🔗 Véase también
 
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist|Merida - Steady Aim y Resist]]: contraste entre un disparo que comprueba si la acción infligió daño y otro que requiere que el personaje lo reciba.
-- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent|Rapunzel - Ready for Adventure y Hydra - Deadly Serpent]]: interacción entre WATCH THE TEETH y la protección de Rapunzel.
+- [[Merida - Steady Aim y Resist]]: contraste entre un disparo que comprueba si la acción infligió daño y otro que requiere que el personaje lo reciba.
+- [[Rapunzel - Ready for Adventure y Hydra - Deadly Serpent]]: interacción entre WATCH THE TEETH y la protección de Rapunzel.
 
 ---
 
 ## 🏷️ Tags
 
-#hydra #deadly-serpent #watch-the-teeth #resist #damage #dealt-damage #take-damage #triggered-ability #cr-2-2
+#resist #damage #move-damage #triggered-ability

@@ -1,43 +1,33 @@
 ## ❓ Duda
 
-- **Caso 1:** ¿Si Alice heredaría Support a Minnie mediante una habilidad estática, y Minnie hace quest, entrando tanto Support como su efecto de banish, en qué orden se resuelven los triggers en la bolsa?
-- **Caso 2:** Si [Eilonwy - Princess of Llyr](https://cards.lorcast.io/card/digital/large/crd_495426e5c16b4039977439b3c7a9b9e2.avif?1761751958) hace quest y da su Support a una Mulan 2/3 que ya tiene Support, ¿cuánto dará luego Mulan cuando haga quest a otro personaje: 2 o 4?
-- **Caso 3:** Si controlo [Alice - Growing Girl](https://cards.lorcast.io/card/digital/large/crd_297bfc741b2c4c01b430258d55aef604.avif?1709690747) y [Zipper - Big Helper](https://cards.lorcast.io/card/digital/large/crd_d515c85e0daa4cfd8c3a84154d328cd4.avif?1777688081), y Zipper hace quest, ¿da su Fuerza, su Voluntad o ambas?
+¿Cómo interactúan Support concedido por Alice, las bonificaciones de Fuerza de Eilonwy y la habilidad de Zipper?
+
+---
 
 ## ✅ Respuesta
 
-- **Caso 1:** Sí. Con la habilidad estática de Alice se crea un efecto que añade a Minnie la palabra clave [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)|Support]]. Al hacer quest se añaden las dos habilidades disparadas a la bolsa y puedes escoger el orden de resolución. Si resuelves primero Support, Minnie tendrá la fuerza aumentada para la otra habilidad.
-- **Caso 2:** Mulan dará 4, no 2. Support añade la fuerza actual del personaje que hace quest, no su fuerza impresa. Si Eilonwy le ha dado +2 de fuerza este turno mediante Support, Mulan tendrá 4 de fuerza en ese momento y eso es lo que añadirá cuando su propio Support se resuelva. Lo que no se acumula es tener varias instancias de la palabra clave Support; la bonificación de fuerza sí modifica el valor actual que Support usa después.
-- **Caso 3:** Dará ambas, pero no porque pueda elegir una estadística para Support. Zipper ya tiene [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)|Support]] impreso, así que Alice no le añade una segunda instancia funcional porque Support no se acumula. Cuando Zipper hace quest, se disparan dos habilidades distintas: Support añade su Fuerza actual a la Fuerza de otro personaje este turno, y su otra habilidad añade su Voluntad actual a la Fuerza de otro personaje este turno. En la carta de la imagen, eso significa que Support aporta 0 y la otra habilidad aporta 6.
+**Support añade la Fuerza actual del personaje que hace quest a la de otro personaje elegido durante ese turno. No puede darse esa bonificación a sí mismo.**
+
+[Alice - Growing Girl](https://cards.lorcast.io/card/digital/large/crd_297bfc741b2c4c01b430258d55aef604.avif?1709690747) concede Support a tus otros personajes mientras está en juego. Si uno tiene además otra habilidad que se dispara al questear, ambas se añaden a la bolsa y eliges el orden de las tuyas. La otra habilidad conserva su propio texto; Support no la modifica.
+
+[Eilonwy - Princess of Llyr](https://cards.lorcast.io/card/digital/large/crd_495426e5c16b4039977439b3c7a9b9e2.avif?1761751958) tiene Support, pero **no concede la palabra clave**. Si al resolverse su Support añade sus 2 de Fuerza a [Mulan - Free Spirit](https://cards.lorcast.io/card/digital/large/crd_ba402a6eed1344f8832f0032b3fed4dc.avif?1709690747), Mulan pasa de 2 a 4 este turno. Cuando Mulan hace quest después, su Support puede añadir su Fuerza actual de 4 a otro personaje. Las bonificaciones numéricas sí se acumulan.
+
+[Zipper - Big Helper](https://cards.lorcast.io/card/digital/large/crd_d515c85e0daa4cfd8c3a84154d328cd4.avif?1777688081) no tiene Support impreso. Con Alice presente lo gana, y al questear se disparan Support y BUZZING ENTHUSIASM: el primero usa su Fuerza actual y el segundo su Voluntad actual. Puedes elegir el mismo otro personaje para ambos si es legal, o distintos. No se trata de dos instancias de Support.
+
+**Desde el 16/10/2026**, CR 8.1.2 compara la duración cuando se vuelve a conceder una palabra clave sin +N: aplica la de mayor duración y la otra deja de existir. Esto no duplica Support ni elimina las bonificaciones de Fuerza ya generadas al resolverlo. Una habilidad continua como la de Alice mantiene sus condiciones y deja de afectar cuando su fuente sale del juego.
 
 ---
 
 ## 📘 Referencias
 
-**Definición: Support no se acumula como palabra clave, pero sí usa la fuerza actual**
-
-Una palabra clave sin +N no se acumula con otra instancia de sí misma. Por tanto, si un personaje ya tiene Support y un efecto vuelve a darle Support, solo aplica una instancia de la palabra clave. Sin embargo, la habilidad de Support añade la fuerza actual del personaje cuando se resuelve, así que cualquier modificador de fuerza que tenga en ese momento sí cuenta.
-
-Que Alice otorgue Support tampoco reescribe otras habilidades de quest del personaje. Si ese personaje ya tenía otra habilidad disparada al questear, como Zipper, ambas habilidades coexistirán y cada una hará exactamente lo que diga su propio texto.
-
-- [[01.1.a Official English Reference – Unmodified/8. Keywords|8.1.2 Reglas generales de keywords que no se acumulan]]
-- [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)|8.13. Support]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
-
----
-
-## 🔄 Cómo se resuelve
-
-1. **Quest de Eilonwy, Minnie o Zipper**: el personaje se agota para questear.
-2. **Disparos**: si tiene Support u otras habilidades de quest, esos triggers entran en la bolsa.
-3. **Resolución de Support**: al resolverse, se añade a otro personaje la fuerza actual del personaje que ha questeado.
-4. **Resolución de otra habilidad de quest**: si el personaje tiene otra habilidad disparada al questear, esa habilidad se resuelve aparte y usa la estadística o el efecto que indique su propio texto.
-5. **Nuevo quest posterior**: si ese segundo personaje hace quest más tarde ese turno, su Support usará su fuerza actual en ese momento, incluyendo modificadores previos de fuerza.
-6. **Límite de keyword**: si ese segundo personaje tenía ya Support y otro efecto vuelve a dárselo, no obtiene una segunda instancia funcional de Support.
+- [[8.13. Apoyo (Support)|8.13: Fuerza actual, otro personaje y duración de la bonificación]].
+- [[8.1. Generalidades (General)|8.1.2: palabras clave repetidas]].
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4: concesiones continuas y efectos resueltos]].
+- [[7.7. Bolsa (Bag)|7.7: resolución de los disparos propios]].
+- [CR 2.3.0, 8.1.2, p. 41](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41).
 
 ---
 
 ## 🏷️ Tags
 
-#support #strength-modifier #current-strength #inherited-keyword #triggered-abilities #quest #bag
+#support #strength-modifier #triggered-ability #quest #static-ability

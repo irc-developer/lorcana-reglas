@@ -13,9 +13,9 @@ Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáne
 
 ## 📘 Referencias
 
-- [[7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Añadir a la bolsa un efecto]]
-- [[7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2. El jugador activo escoge]]
-- [[7.7. Bolsa (Bag)#7.7.4.3. Escoger siguiente habilidad|7.7.4.3. Escoger siguiente habilidad]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
+- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]
+- [[7.7. Bolsa (Bag)|7.7.4.3. Escoger siguiente habilidad]]
 
 ---
 
@@ -31,4 +31,4 @@ Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáne
 
 ## 🏷️ Tags
 
-#bag #discard #resolution-order #robo #triggered-abilities
+#bag #discard #resolution #triggered-ability

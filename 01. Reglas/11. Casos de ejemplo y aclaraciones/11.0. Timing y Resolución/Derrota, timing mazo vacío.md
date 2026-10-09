@@ -25,12 +25,12 @@ FOOLS! exige las **cinco cartas de personaje** y una base legal de Shift llamada
 
 [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.2 y 1.8.5 — Derrota por mazo vacío y evaluación de condiciones]]: importa el estado del mazo cuando termina el turno de ese jugador.
 - [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.3.1–3.2.3.2 — Robo y paso a la fase principal]] y [[1.12 Robo (Drawing)|1.12.1–1.12.2 — Definición y orden del robo]]: sin carta superior no hay carta que robar. Los robos múltiples se realizan de uno en uno.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|CR 1.2.3 — Hacer todo lo posible]]: un efecto de robo se resuelve hasta donde sea posible.
+- [CR 1.2.3 — Hacer todo lo posible](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): un efecto de robo se resuelve hasta donde sea posible.
 - [[3.4. Fase final de turno (End-of-Phase)|3.4.1–3.4.2 — Cierre del turno y GSC final]]: los disparos de final de turno se resuelven antes de que termine el turno y se haga la comprobación final.
 - [[8.10. Cambio (Shift)|8.10.1 — Coste alternativo de Shift]] y [texto de FOOLS!](https://cards.lorcast.io/card/digital/large/crd_db9e9bd72a5c4aca98bc66a4a9b15499.avif?1783190856): la carta permite devolver cinco personajes del descarte para hacer Shift gratis sobre un personaje propio llamado Maleficent o Diablo.
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3 — Disparo y bolsa]]: RAVEN'S CALL se dispara cuando este personaje se agota durante tu turno; hacer Shift no es por sí solo ese evento.
 
-Fuente normativa: [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 1.2.3 (p. 3), 1.8.1.2 y 1.8.5 (pp. 6–7), 1.12.1–1.12.2 (p. 9), 3.2.3 y 3.4 (p. 11), 6.2.3 (p. 30) y 8.10.1 (p. 42). Los enlaces castellanos sirven de localización; prevalece el PDF inglés.
+Fuente normativa: [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.2.3 (p. 3), 1.8.1.2 y 1.8.5 (pp. 6–7), 1.12.1–1.12.2 (p. 9), 3.2.3 y 3.4 (p. 11), 6.2.3 (p. 30) y 8.10.1 (p. 42). Los enlaces castellanos sirven de localización; prevalece el PDF inglés.
 
 ---
 

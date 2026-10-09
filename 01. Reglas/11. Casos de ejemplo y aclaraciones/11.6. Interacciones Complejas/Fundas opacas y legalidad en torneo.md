@@ -12,7 +12,7 @@ Las fundas deben tener el reverso completamente opaco y no reflectante, ser unif
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.11 Accesorios Aprobados (Approved Accessories).md|3.11. Accesorios aprobados]], apartado Fundas.
+- [[3.11 Accesorios Aprobados (Approved Accessories)|3.11. Accesorios aprobados]], apartado Fundas.
 
 ## 🔄 Cómo se resuelve
 

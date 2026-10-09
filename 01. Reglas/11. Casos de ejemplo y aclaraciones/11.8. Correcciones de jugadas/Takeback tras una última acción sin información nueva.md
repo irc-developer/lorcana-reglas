@@ -12,9 +12,9 @@ El jugador no puede deshacerlo por su cuenta ni depende del consentimiento del o
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7 Takebacks.md|Takebacks]]
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.1 Elegibilidad y limitaciones de takebacks.md|Elegibilidad y límites]]
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.7.3 Ejemplos de takebacks permitidos.md|Ejemplos permitidos]]
+- [[3.7 Takebacks|Takebacks]]
+- [[3.7.1 Elegibilidad y limitaciones de takebacks|Elegibilidad y límites]]
+- [[3.7.3 Ejemplos de takebacks permitidos|Ejemplos permitidos]]
 
 ---
 

@@ -39,7 +39,7 @@ A diferencia de [[Elsa – Spirit of Winter elegir personaje agotado|Elsa eligie
 **Fundamento:**
 - [[6.1. General (General)|Elecciones y resolución de efectos]]
 - [[4.3. Jugar una carta (Play a Card)|Jugar una carta]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas y restricciones]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas y restricciones]]
 
 ---
 
@@ -65,4 +65,4 @@ A diferencia de [[Elsa – Spirit of Winter elegir personaje agotado|Elsa eligie
 
 ## 🏷️ Tags
 
-#static-ability #restriction #must-choose #scope-of-selection #action-card #hypnotic-strength
+#static-ability #restriction

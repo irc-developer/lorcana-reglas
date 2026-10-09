@@ -985,7 +985,10 @@ Ruler of the Seas: When you play this character, if you used Shift to play her, 
 
 
 **Habilidades:**
-- LOOK INNOCENT - This character enters play exerted.
+- LOOK INNOCENT This character enters play exerted.
+CAN'T TAKE A JOKE? While this character is exerted, each opposing player can't gain lore unless one of their characters has challenged this turn.
+
+*Transcripción completada el 09/10/2026 desde el registro exacto de [Lorcast](https://api.lorcast.com/v0/cards/crd_582e975ec5b64cb7be3e406585a05a6d); no es una errata.*
 
 ---
 
@@ -2391,4 +2394,3 @@ Don't Just Sit There!: At the start of your turn, deal 1 damage to each opposing
 - FEDERATION DECREE - While you have an Alien or Robot character here, this location can't be challenged.
 
 ---
-

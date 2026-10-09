@@ -1,26 +1,28 @@
 ## ❓ Duda
 
-¿Puedo tener una palabra clave (Support) en un personaje más allá de si el personaje que la crea está en juego, a través de una habilidad estática?
+¿Mis personajes conservan Support si [Alice - Growing Girl](https://cards.lorcast.io/card/digital/large/crd_8619541a52554ab3b8a32dcaf795748e.avif?1755541169) deja el juego? ¿GOOD ADVICE afecta a cartas en la mano o el descarte?
+
+---
 
 ## ✅ Respuesta
 
-Sí, puedes. Esto es debido a que la [[6.4. Habilidades Estáticas (Static Abilities)|Habilidades estáticas]] de Alicia crea un [[6.5. Efectos de Reemplazo (Replacement Effects)|Efectos de reemplazo]] que añade a cada uno de los personajes en juego, en la mano y en el descarte la [[8.1. Generalidades (General)|Habilidades de palabra clave]] [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)]].
- 
-### Referencias
+**No.** GOOD ADVICE es una habilidad estática continua de Alice: tus **otros personajes en juego** tienen Support mientras ella esté presente. No es un efecto de reemplazo ni concede Support a cartas de otras zonas. Cuando Alice sale, termina esa concesión.
 
-[PDF oficial de Fabled](https://files.disneylorcana.com/Fabled_SetReleaseNotes_EN.pdf)
+Los disparos de Support que ya se hayan generado permanecen en la bolsa, y una bonificación de Fuerza que ya se haya resuelto conserva su duración durante ese turno. Esos efectos independientes no implican que el personaje conserve la palabra clave.
+
+Desde el 16/10/2026, CR 8.1.2 también distingue instancias y duraciones de palabras clave: véase [[Support - Interacciones]].
 
 ---
 
 ## 📘 Referencias
 
-- [[6.4. Habilidades Estáticas (Static Abilities)|Habilidades estáticas]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|Efectos de reemplazo]]
-- [[8.1. Generalidades (General)|Habilidades de palabra clave]]
-- [[8. Palabras clave (Keywords)/8.13. Apoyo (Support)]]
+- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3]].
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2: independencia del disparo]].
+- [[8.13. Apoyo (Support)|8.13: bonificación durante el turno]].
+- [CR 2.2](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas.
 
 ---
 
 ## 🏷️ Tags
 
-#inherited-keywords #static-ability #replacement-effects #support #abilities
+#keyword-stackable #static-ability #support

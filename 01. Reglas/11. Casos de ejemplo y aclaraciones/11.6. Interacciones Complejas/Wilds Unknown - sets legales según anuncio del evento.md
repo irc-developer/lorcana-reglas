@@ -12,7 +12,7 @@ No puede decidirse entre «9–12» y «todo Core» usando solo una tabla actual
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/1. Definiciones sobre toneos/1.6 Legalidad de Sets (Set Legality).md|1.6. Legalidad de sets]], incluida la rotación de Core, y el anuncio o kit específico del campeonato.
+- [[1.6 Legalidad de Sets (Set Legality)|1.6. Legalidad de sets]], incluida la rotación de Core, y el anuncio o kit específico del campeonato.
 
 ## 🔄 Cómo se resuelve
 

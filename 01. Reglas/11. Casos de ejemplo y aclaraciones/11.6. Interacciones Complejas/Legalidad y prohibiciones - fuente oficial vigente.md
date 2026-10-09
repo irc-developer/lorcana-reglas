@@ -12,7 +12,7 @@ La referencia vinculante es el comunicado o la lista oficial vigente para el eve
 
 ## 📘 Referencias
 
-- [[03. Reglas de Torneo/1. Definiciones sobre toneos/1.6 Legalidad de Sets (Set Legality).md|1.6. Legalidad de sets]] y [[03. Reglas de Torneo/5 Información y comunicación/5.4 Información en el Juego (In-Game Information).md|5.4. Información en el juego]]. La lista de prohibiciones y el anuncio del evento prevalecen para ese evento y fecha.
+- [[1.6 Legalidad de Sets (Set Legality)|1.6. Legalidad de sets]] y [[5.4 Información en el Juego (In-Game Information)|5.4. Información en el juego]]. La lista de prohibiciones y el anuncio del evento prevalecen para ese evento y fecha.
 
 ## 🔄 Cómo se resuelve
 

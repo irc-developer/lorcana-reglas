@@ -26,7 +26,7 @@ El 6 de octubre de 2026 se actualizó este PC al instalador 1.14.4, se habilitó
 
 ## Migración expresa de las reglas CR 2.3
 
-`publicar.py --perfil reglas` admite los Markdown editoriales de `01. Reglas/`, además de las rutas auxiliares ya permitidas. Exige un `--archivo` por ruta modificada del commit; nunca selecciona una carpeta completa. El perfil predeterminado `dudas` conserva su alcance. PDF, fuentes internas, herramientas y fichas largas siguen excluidos.
+`publicar.py --perfil reglas` admite los Markdown editoriales de introducción, reglas, torneo, correcciones, consejos, recursos y comunidad, además de las rutas auxiliares ya permitidas. También permite los SVG y PNG de `09. Recursos/` e `imagenes/recursos/` que forman parte de esta auditoría. Exige un `--archivo` por ruta modificada del commit; nunca selecciona una carpeta completa. Las plantillas están excluidas. El perfil predeterminado `dudas` conserva su alcance. PDF, HTML, fuentes internas, herramientas y fichas largas siguen excluidos.
 
 La retirada autorizada de las seis notas históricas 2.2 usa `retirar_reglas.py --commit HASH --archivo RUTA --informe-publicacion INFORME_JSON --informe RESULTADO_JSON`. Sin `--aplicar` comprueba el reemplazo ya publicado, el commit subido, la bóveda, hashes y enlaces; con él retira exclusivamente la lista explícita. Conserva los archivos locales y registra éxitos y fallos parciales. La entrada 2.3 y la portada deben estar publicadas primero. La lista permitida está cerrada a las seis páginas inventariadas de esta migración; no afecta al PDF 2.2 ni a secciones cuyo número sea 2.2.
 

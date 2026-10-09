@@ -19,11 +19,11 @@ Si descartas la carta desde la mano durante tu turno, sí puedes jugarla desde e
 ## 📘 Referencias
 
 - **Texto de la carta:** la ficha del [set 13, carta 200](https://cards.lorcast.io/card/digital/large/crd_73a3b09749fa4a318ee0432abc9da30a.avif?1783189839) confirma el coste 2, los 2 daños y la condición de descartarla durante tu turno, pagando todos los costes para jugarla desde el descarte.
-- **Glosario oficial, «discard», p. 47:** distingue la zona de descarte de la acción de descartar. Solo se descartan cartas desde la mano; también llegan a esa zona las acciones que terminan de resolverse. Véase el [[Comprehensive-Rules_2.2.0-EN.pdf|PDF oficial CR 2.2.0]].
+- **Glosario oficial, «discard», p. 47:** distingue la zona de descarte de la acción de descartar. Solo se descartan cartas desde la mano; también llegan a esa zona las acciones que terminan de resolverse. Véase el [PDF oficial CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
 - **CR 4.3.3.2 y 6.7.1.2, pp. 13 y 36:** una acción entra en la zona de juego, resuelve el efecto que genera y después se coloca en el descarte. Localización: [[4.3. Jugar una carta (Play a Card)|Jugar una carta]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolución de cartas y efectos]].
 - **CR 6.2.1 y 7.7.3.1, pp. 30 y 40:** el disparo requiere que se cumpla su condición. Si ocurre durante otro efecto, se añade a la bolsa y espera a que ese efecto termine. Localización: [[6.2. Habilidades Disparadas (Triggered Abilities)|Habilidades disparadas]] y [[7.7. Bolsa (Bag)|Bolsa]].
 - **CR 1.8.1 y 1.8.3, pp. 6–7:** tras completar la resolución se realizan las comprobaciones del estado del juego antes de continuar con la bolsa. Localización: [[1.8. Chequeo del estado del juego (Game State Check)|Chequeo del estado del juego]].
-- **FAQ oficial de Look What You've Done, p. 29 de las notas del set:** confirma expresamente que no puedes pagar de nuevo para jugarla desde el descarte por haber terminado de infligir daño. La opción se dispara por un descarte durante tu turno. Véase [[Attack-of-the-Vine-Set-Release-Notes_EN.pdf|Notas oficiales de Attack of the Vine]].
+- **FAQ oficial de Look What You've Done, p. 29 de las notas del set:** confirma expresamente que no puedes pagar de nuevo para jugarla desde el descarte por haber terminado de infligir daño. La opción se dispara por un descarte durante tu turno. Véase [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf).
 
 ---
 
@@ -49,7 +49,7 @@ Si descartas la carta desde la mano durante tu turno, sí puedes jugarla desde e
 
 ## 📚 Fuente oficial
 
-[[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]] y [notas oficiales de Attack of the Vine, p. 29](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf#page=29).
+[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [notas oficiales de Attack of the Vine, p. 29](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf#page=29).
 
 ---
 

@@ -20,7 +20,7 @@ Solo habría disparo si el efecto incluyera una instrucción separada de "draw a
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|1.12. Robo (Drawing)]]
+- [[1.12 Robo (Drawing)|1.12. Robo (Drawing)]]
 - [Nani - Stage Manager](https://cards.lorcast.io/card/digital/large/crd_20232422b3314d02b054a923d610d81d.avif?1770259288) usa "put it into your hand", no "draw".
 - [Ariel - Spectacular Singer](https://cards.lorcast.io/card/digital/large/crd_be92bba983424f2f9546f237e65ce357.avif?1709690747) usa "put it into your hand", no "draw".
 - [Judy Hopps - Uncovering Clues](https://cards.lorcast.io/card/digital/large/crd_977a785a450a4621b0dcff4404592877.avif?1761764552) usa "put it into your hand", no "draw".

@@ -15,12 +15,12 @@ El bono de Challenger (+2) y la penalización de Tiana (−3) se aplican en el c
 
 ## 📘 Referencias
 
-- [[8.5. Desafiador (Challenger)#8.5.1. Definición|8.5.1. Definición de Challenger]]
-- [[6.6. Modificadores de Habilidad (Ability Modifiers)#6.6.1. Modificadores de Fuerza y Lore|6.6.1. Modificadores de Fuerza]]
-- [[6.6. Modificadores de Habilidad (Ability Modifiers)#6.6.1.3. Fuerza negativa|6.6.1.3. Fuerza negativa]]
+- [[8.5. Desafiador (Challenger)|8.5.1. Definición de Challenger]]
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1. Modificadores de Fuerza]]
+- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.3. Fuerza negativa]]
 
 ---
 
 ## 🏷️ Tags
 
-#challenge #challenger #strength
+#challenge #challenger #strength-modifier

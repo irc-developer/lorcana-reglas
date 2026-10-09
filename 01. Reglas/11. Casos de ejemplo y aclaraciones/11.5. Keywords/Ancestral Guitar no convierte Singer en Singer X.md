@@ -6,11 +6,11 @@
 
 ## ✅ Respuesta
 
-**Gana Singer si no lo tenía, pero no gana una nueva keyword Singer X ni aumenta un Singer N existente.** Singer no se acumula con otra concesión de esa misma keyword.
+**Concede Singer durante ese turno, pero no concede Singer X ni aumenta el número de un Singer N impreso.** Desde el 16/10/2026, al repetirse una palabra clave sin +N aplica la concesión de mayor duración. Un Singer impreso no tiene un final temporal y prevalece sobre el Singer temporal de la guitarra. Si ambas concesiones fueran temporales, habría que comparar sus duraciones; no basta con decir que nunca se concede Singer de nuevo.
 
 El +2 es un modificador separado para cantar canciones. No cambia la keyword ni el coste de tinta del personaje, pero sí se combina con el número de Singer al comprobar qué canciones puede cantar. Por ejemplo, un personaje con Singer 4 sigue teniendo Singer 4; mientras dure el +2, cuenta como coste 6 para cantar canciones. Si un personaje de coste 3 recibe el efecto sin tener otro valor Singer, cuenta como coste 5 para cantar durante ese turno.
 
-**Los modificadores +2 sí se suman.** Cada resolución aporta su propio +2 durante ese turno, aunque no pueda conceder Singer otra vez. Por ejemplo:
+**Los modificadores +2 sí se suman.** Cada resolución aporta su propio +2 durante ese turno, aunque prevalezca una instancia de Singer de mayor duración. Por ejemplo:
 
 - [Goofy - Dancing Superstar](https://cards.lorcast.io/card/digital/large/crd_d635730df878416c8cb022ce851a4edc.avif?1790278594), con Singer 6, cuenta como coste **8** tras una guitarra y puede cantar él solo [Circle of Life](https://cards.lorcast.io/card/digital/large/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363). Sigue teniendo Singer 6 y coste de tinta 5.
 - [Héctor Rivera - Street Musician](https://cards.lorcast.io/card/digital/large/crd_bbcaea8f137843f088aef681b113a953.avif?1790886774), con Singer 2, cuenta como coste **6 = 2 + 2 + 2** tras resolver dos guitarras sobre él y puede cantar él solo [Remember Me](https://cards.lorcast.io/card/digital/large/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527). Sigue teniendo Singer 2 y coste de tinta 1.
@@ -31,7 +31,7 @@ La concesión de Singer y los +2 terminan al final del turno. Si el personaje ab
 
 ## 📘 Referencias
 
-- [[8.1. Generalidades (General)|8.1.2. Palabras clave no acumulables]]: obtener Singer de nuevo no crea otra instancia acumulable.
+- [[8.1. Generalidades (General)|8.1.2. Palabras clave no acumulables]]: desde CR 2.3 se compara la duración y no se acumulan las instancias.
 - [[8.11. Cantante (Singer)|8.11.2–8.11.3. Coste para cantar y Singer]]: el coste de tinta no cambia y el +N se combina con el valor Singer.
 - [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.2. Combinación de modificadores]]: los dos +2 se aplican conjuntamente. Su aplicación a estas guitarras se infiere de esta regla y de 8.11.3.
 - [[8.12. Cantar Juntos (Sing Together)|8.12.1–8.12.2. Cantar con uno o más personajes]] y [[5.3. Personajes (Characters)|5.3.5. Personajes secos]]: los ejemplos necesitan un cantante preparado y seco.
@@ -39,7 +39,8 @@ La concesión de Singer y los +2 terminan al final del turno. Si el personaje ab
 - [[6.1. General (General)|6.1.3–6.1.3.1. Elecciones y limitadores; 6.1.13.4. Este turno]]: la elección se hace al resolver, con los requisitos del texto y su duración.
 - [[8.15 Protección (ward)|8.15.1. Ward impide que el oponente elija la carta]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.4–4.3.4.1. Disparos al jugar una carta]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5. GSC tras resolver los efectos]].
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]]: páginas 13, 23, 26, 29, 34–35, 37–38 y 41–44.
+- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): 8.1.2 y 8.11, pp.41 y 43, desde el 16/10/2026; [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), vigente antes de esa fecha.
+- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Ancestral Guitar: Singer impreso prevalece y los +2 se aplican.
 
 Al jugar Ancestral Guitar, *MUSICAL LEGACY* se añade a la bolsa y roba una carta cuando se resuelve. Es una habilidad distinta de *FROM THE HEART*.
 

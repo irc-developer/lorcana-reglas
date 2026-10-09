@@ -25,12 +25,12 @@ En una mesa de tres jugadores, por tanto, no hay una resolución alterna tipo A-
 
 ## 📘 Referencias
 
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.3.1. Añadir a la bolsa un efecto|7.7.3.1. Los triggers simultáneos se añaden a la bolsa simultáneamente]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.2. El jugador activo escoge|7.7.4.2. El jugador activo empieza resolviendo una de las suyas]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.3. Escoger siguiente habilidad|7.7.4.3. El mismo jugador sigue mientras aún tenga habilidades propias]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.4. Pasar la bolsa (passing the bag)|7.7.4.4. La bolsa pasa al siguiente jugador en orden de turno]]
-- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)#7.7.4.5. Continúa la resolución|7.7.4.5. El proceso continúa por todos los jugadores]]
-- [[01. Reglas/2. Juego (Gameplay)/2.1. General#2.1.3. Jugador inicial y jugador no inicial|2.1.3. En multijugador el orden sigue hacia la izquierda]]
+- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers simultáneos se añaden a la bolsa simultáneamente]]
+- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo empieza resolviendo una de las suyas]]
+- [[7.7. Bolsa (Bag)|7.7.4.3. El mismo jugador sigue mientras aún tenga habilidades propias]]
+- [[7.7. Bolsa (Bag)|7.7.4.4. La bolsa pasa al siguiente jugador en orden de turno]]
+- [[7.7. Bolsa (Bag)|7.7.4.5. El proceso continúa por todos los jugadores]]
+- [[2.1. General|2.1.3. En multijugador el orden sigue hacia la izquierda]]
 
 ---
 
@@ -49,4 +49,4 @@ En una mesa de tres jugadores, por tanto, no hay una resolución alterna tipo A-
 
 ## 🏷️ Tags
 
-#multijugador #bag #triggered-abilities #turn-order #active-player
+#turn-structure #bag #triggered-ability

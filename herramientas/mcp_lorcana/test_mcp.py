@@ -131,6 +131,8 @@ main()
                         self.assertTrue(any(case["special_path"] in p["path"] for p in expanded["special_format"]))
                     if case.get("policy_section"):
                         self.assertTrue(any(p.get("policy_section", "").startswith(case["policy_section"]) for p in r["official_policy"]))
+                    if case.get("policy_path"):
+                        self.assertTrue(any(p["path"] == case["policy_path"] for p in expanded["official_policy"]))
                     if case.get("case_contains"):
                         self.assertTrue(any(case["case_contains"] in p["path"] for p in expanded["case"]))
                     if case.get("excluded_contains"):
@@ -249,6 +251,8 @@ class FixturesTests(unittest.IsolatedAsyncioTestCase):
         assert self.root.is_relative_to((HERE / ".cache").resolve())
         for rel in core.CONTROL + ["Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf",
                                 "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
+                                "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md",
+                                "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.html",
                                    "02. Listado de Cartas/Set 14 - Hyperia City.md",
                                    "01. Reglas/1. Principios generales/1.12 Robo (Drawing).md"]:
             dest = self.root / rel

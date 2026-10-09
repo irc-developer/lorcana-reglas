@@ -15,9 +15,9 @@ Si [Lilo - Bundled Up](https://cards.lorcast.io/card/digital/large/crd_f86297c4c
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)#1.9.1.5. Take|1.9.1.5. Take]]
-- [[1.9. Daño (Damage)#1.9.1.2. Put|1.9.1.2. Put]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)#6.5.1.1. Instead|6.5.1.1. Instead]]
+- [[1.9. Daño (Damage)|1.9.1.5. Take]]
+- [[1.9. Daño (Damage)|1.9.1.2. Put]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1.1. Instead]]
 
 Si no hay epígrafe directo para esta pareja concreta de cartas, se aplica inferencia por combinación de reglas de daño y replacement.
 
@@ -35,4 +35,4 @@ Si no hay epígrafe directo para esta pareja concreta de cartas, se aplica infer
 
 ## 🏷️ Tags
 
-#lilobundledup #maliciousmeanandscary #putdamage #replacement-effect #takedamage #timing
+#replacement-effect #timing

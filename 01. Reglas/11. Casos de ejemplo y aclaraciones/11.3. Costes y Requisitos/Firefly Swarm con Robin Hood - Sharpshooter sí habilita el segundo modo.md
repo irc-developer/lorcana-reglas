@@ -10,7 +10,7 @@ Si [Robin Hood - Sharpshooter](https://cards.lorcast.io/card/digital/large/crd_0
 
 La clave es distinguir entre **jugar** la acción y **resolver su efecto**.
 
-[Robin Hood - Sharpshooter](https://cards.lorcast.io/card/digital/large/crd_04d93f974e354add83a5c60fbcc342d1.avif?1723917209) te permite **jugar** una acción gratis durante la resolución de su habilidad. Pero, cuando la carta jugada de ese modo es una **acción**, su efecto no se resuelve en mitad de la frase de Robin. La regla [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1]] aclara que el efecto de esa acción se resuelve **después** de que la carta o habilidad que te dijo jugarla haya terminado de resolverse.
+[Robin Hood - Sharpshooter](https://cards.lorcast.io/card/digital/large/crd_04d93f974e354add83a5c60fbcc342d1.avif?1723917209) te permite **jugar** una acción gratis durante la resolución de su habilidad. Pero, cuando la carta jugada de ese modo es una **acción**, su efecto no se resuelve en mitad de la frase de Robin. La regla [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1]] aclara que el efecto de esa acción se resuelve **después** de que la carta o habilidad que te dijo jugarla haya terminado de resolverse.
 
 Eso significa que la secuencia correcta es:
 
@@ -31,16 +31,16 @@ Por tanto:
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.2 Los efectos deben resolverse completamente antes de pasar al siguiente]]
-- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen en el momento de resolver]]
-- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|1.5.5.3 Gratis (for free) es un coste alternativo]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.2 Procedimiento para jugar una carta]]
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|4.3.3.2 Las acciones se resuelven y luego van al descarte]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.2 Los efectos se resuelven en el orden escrito]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.3 Las elecciones se hacen al resolverse el efecto]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3 Las instrucciones se realizan en el orden escrito]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1 El efecto de una acción jugada así se resuelve después de que termine el efecto original]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.2 Los efectos deben resolverse completamente antes de pasar al siguiente]]
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen en el momento de resolver]]
+- [[1.5 Costes (Costs)|1.5.5.3 Gratis (for free) es un coste alternativo]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.2 Procedimiento para jugar una carta]]
+- [[4.3. Jugar una carta (Play a Card)|4.3.3.2 Las acciones se resuelven y luego van al descarte]]
+- [[6.1. General (General)|6.1.2 Los efectos se resuelven en el orden escrito]]
+- [[6.1. General (General)|6.1.3 Las elecciones se hacen al resolverse el efecto]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3 Las instrucciones se realizan en el orden escrito]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1 El efecto de una acción jugada así se resuelve después de que termine el efecto original]]
 
 ---
 
@@ -73,10 +73,10 @@ Eso hace que este caso sea distinto de [Escape Plan](https://cards.lorcast.io/ca
 
 ## 📝 Nota de alcance
 
-Este caso corrige una confusión fácil de tener entre “la carta se juega durante la resolución del efecto inicial” y “el texto de la acción se resuelve inmediatamente en medio de esa frase”. En acciones jugadas por efecto, [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1]] desplaza la resolución del texto de la acción hasta después de que el efecto inicial haya terminado.
+Este caso corrige una confusión fácil de tener entre “la carta se juega durante la resolución del efecto inicial” y “el texto de la acción se resuelve inmediatamente en medio de esa frase”. En acciones jugadas por efecto, [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1]] desplaza la resolución del texto de la acción hasta después de que el efecto inicial haya terminado.
 
 ---
 
 ## 🏷️ Tags
 
-#firefly-swarm #robin-hood-sharpshooter #play-card #for-free #discard #timing #modes #choice
+#play-card #alternate-cost #discard #timing

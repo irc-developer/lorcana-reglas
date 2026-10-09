@@ -15,7 +15,7 @@
 
 Si la carta cambia de zona durante el proceso de jugarla, se sigue jugando desde la nueva zona. Eso no permite iniciar arbitrariamente una jugada desde una zona que no tenga un permiso aplicable.
 
-Un personaje que se está secando no puede irse de aventura, desafiar ni agotarse; puede ser afectado por efectos y usar habilidades cuyo coste no requiera agotarse, si cumple sus requisitos. Un personaje jugado mediante Shift puede heredar un estado seco.
+Un personaje que se está secando no puede irse de aventura, desafiar salvo permiso como Rush, ni agotarse para pagar costes; puede ser afectado por efectos y usar habilidades cuyo coste no requiera agotarse, si cumple sus requisitos. Un personaje jugado mediante Shift puede heredar un estado seco.
 
 ## Referencias
 

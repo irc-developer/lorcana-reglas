@@ -13,11 +13,11 @@ En las cartas, “they/them/their” funciona como pronombre neutro singular y n
 
 ## 📘 Referencias
 
-- [[6.1. General (General)#6.1.1. Definición|6.1.1. Texto de habilidad y efecto]]
-- [[6.1. General (General)#6.1.2. Las habilidades y efectos de una carta están formados por una o más frases separadas por puntos.|6.1.2. Interpretación por estructura completa del texto]]
+- [[6.1. General (General)|6.1.1. Texto de habilidad y efecto]]
+- [[6.1. General (General)|6.1.2. Interpretación por estructura completa del texto]]
 
 ---
 
 ## 🏷️ Tags
 
-#interpretaciontexto #pronombres #reglas
+#resolution #choices

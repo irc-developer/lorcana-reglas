@@ -14,11 +14,11 @@ La conclusión sobre el idioma se obtiene combinando las reglas de idiomas y leg
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.1. General#1.1.4. Idiomas|1.1.4. Idiomas]]: la versión inglesa es la autoridad para cartas, reglas, aclaraciones y decisiones.
-- [[03. Reglas de Torneo/1. Definiciones sobre toneos/1.6 Legalidad de Sets (Set Legality)|1.6. Legalidad de sets]]: si una carta es legal, puede usarse cualquier impresión de esa carta.
-- [[03. Reglas de Torneo/3. Operaciones en los torneos/3.11 Accesorios Aprobados (Approved Accessories)|3.11. Accesorios aprobados]]: las fundas deben ser iguales, opacas y no marcadas.
-- [[03. Reglas de Torneo/5 Información y comunicación/5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones de cartas]]: se usa el nombre inglés exacto o una descripción que identifique una sola carta.
-- [[Documentacion Oficial/Tournament-Rules-6.11.2026_Update-EN.pdf|Tournament Rules, documento efectivo 06/11/2026]], reglas 1.6, 3.11 y 5.6.
+- [[1.1. General|1.1.4. Idiomas]]: la versión inglesa es la autoridad para cartas, reglas, aclaraciones y decisiones.
+- [[1.6 Legalidad de Sets (Set Legality)|1.6. Legalidad de sets]]: si una carta es legal, puede usarse cualquier impresión de esa carta.
+- [[3.11 Accesorios Aprobados (Approved Accessories)|3.11. Accesorios aprobados]]: las fundas deben ser iguales, opacas y no marcadas.
+- [[5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones de cartas]]: se usa el nombre inglés exacto o una descripción que identifique una sola carta.
+- [Tournament Rules, documento efectivo 14/07/2026](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), reglas 1.6, 3.11 y 5.6.
 
 ---
 

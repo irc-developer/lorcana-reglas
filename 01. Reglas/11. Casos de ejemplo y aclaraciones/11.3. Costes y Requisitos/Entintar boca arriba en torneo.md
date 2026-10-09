@@ -12,7 +12,7 @@ No hay contradicción. Las Comprehensive Rules describen la acción normal de po
 
 ## 📘 Referencias
 
-- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.2 Entintar una carta (Ink a Card).md|4.2. Entintar una carta]] y [[03. Reglas de Torneo/5 Información y comunicación/5.5 Pozo de tinta.md|5.5. Pozo de tinta en torneo]].
+- [[4.2 Entintar una carta (Ink a Card)|4.2. Entintar una carta]] y [[5.5 Pozo de tinta|5.5. Pozo de tinta en torneo]].
 
 ---
 

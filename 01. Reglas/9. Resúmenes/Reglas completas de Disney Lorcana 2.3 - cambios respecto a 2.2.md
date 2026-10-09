@@ -54,7 +54,7 @@ Véase [[8.16. Aventurero (Adventurous)]]. Original: 8.16, p. 44. La lista de 8.
 
 Esta aplicación puede cambiar cómo entra la carta y no espera a que se resuelvan habilidades de la bolsa. Las habilidades disparadas por jugarla o por su entrada siguen su procedimiento de disparo y resolución. Conviene distinguir los efectos de entrada de las habilidades «cuando juegues».
 
-Véanse [[4.3. Jugar una carta (Play a Card)]], [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)]] y [[01. Reglas/9. Resúmenes/Tipos de habilidades|Tipos de habilidades]]. Originales: 2.2, 4.3 pp. 12–13 y 6.7.9 p. 37; 2.3, pp. 13 y 38.
+Véanse [[4.3. Jugar una carta (Play a Card)]], [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)]] y [[Tipos de habilidades]]. Originales: 2.2, 4.3 pp. 12–13 y 6.7.9 p. 37; 2.3, pp. 13 y 38.
 
 ## Movimiento y elecciones
 
@@ -76,7 +76,7 @@ Por ejemplo, si una instrucción hace que cada jugador revele una carta y despu�
 
 La resolución continúa siendo una sola. Los disparos generados esperan en la bolsa; esta regla no abre una resolución de la bolsa entre las partes. Tampoco convierte las elecciones en simultáneas y ocultas: quien actúa después conoce la información pública ya revelada.
 
-Véanse [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)]], [[9.2. Reglas adicionales de multijugador (Multiplayer Rules)]] y [[No hay bolsa entre la parte del jugador activo y la del no activo]]. Originales: 2.2, 6.7.6 p. 36; 2.3, 6.7.6–6.7.6.1 p. 37.
+Véanse [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)]], [[9.2. Reglas adicionales de multijugador (Multiplayer Rules)]] y [[No hay bolsa entre la parte del jugador activo y la del no activo]]. Originales: 2.2, 6.7.6 p. 37; 2.3, 6.7.6–6.7.6.1 p. 37.
 
 ## Duración de palabras clave no acumulables
 
@@ -86,7 +86,7 @@ Véanse [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)]], 
 
 Por ejemplo, una instancia que dura hasta el comienzo del siguiente turno prevalece sobre otra que solo dura hasta el final del turno actual. Esto afecta a la duración, no al número de veces que puede aplicarse una palabra clave no acumulable. Las palabras clave con valor numérico siguen teniendo su tratamiento específico.
 
-Véanse [[8.1. Generalidades (General)]] y [[Heredar una palabra clave al hacer shift]]. Originales: 2.2, p. 40; 2.3, p. 41.
+Véanse [[8.1. Generalidades (General)]] y [[Heredar una palabra clave al hacer shift]]. Originales: 2.2, p. 41; 2.3, p. 41.
 
 ## Opcionalidad, características y cartas reveladas
 
@@ -108,7 +108,7 @@ Véanse [[6.1. General (General)]] y [[6.7. Resolución de Cartas y Efectos (Res
 
 La wiki también corrige dos explicaciones que ya estaban desajustadas antes de 2.3: Bodyguard se describe como habilidad estática y el resumen de jugar cartas reconoce que las acciones entran en la zona de juego durante su resolución. Estas correcciones de la adaptación **no son novedades introducidas por el PDF 2.3**.
 
-Véanse [[6.4. Habilidades Estáticas (Static Abilities)]], [[7.1. General]], [[8.10. Cambio (Shift)]], [[8.3. Guardaespaldas (Bodyguard)]], [[01. Reglas/9. Resúmenes/Jugar una carta|Jugar una carta]] y [[01. Reglas/Glosario|Glosario]].
+Véanse [[6.4. Habilidades Estáticas (Static Abilities)]], [[7.1. General]], [[8.10. Cambio (Shift)]], [[8.3. Guardaespaldas (Bodyguard)]], [[Jugar una carta]] y [[Glosario]].
 
 ## Fuentes oficiales
 

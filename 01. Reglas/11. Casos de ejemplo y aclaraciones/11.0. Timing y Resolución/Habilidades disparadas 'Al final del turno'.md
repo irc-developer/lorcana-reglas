@@ -16,10 +16,10 @@ Esto no impide que otras habilidades distintas se disparen por los eventos que o
 
 ## 📘 Referencias
 
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.1. Definición|6.2.1. Definición]]: una instancia se dispara por cada vez que se cumple su condición.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)#6.2.4. Estructura Condicional 1, si Condicional 2, efecto|6.2.4. Condición secundaria]]: la condición secundaria se verifica al resolver.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)#6.7.4. Habilidades disparadas durante la resolución|6.7.4. Habilidades durante la resolución]]: los disparos nuevos esperan en la bolsa, pero son eventos nuevos.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], reglas 6.2.1, 6.2.4 y 7.7.3.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Definición]]: una instancia se dispara por cada vez que se cumple su condición.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. Condición secundaria]]: la condición secundaria se verifica al resolver.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4. Habilidades durante la resolución]]: los disparos nuevos esperan en la bolsa, pero son eventos nuevos.
+- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.2.1, 6.2.4 y 7.7.3.
 
 ---
 
