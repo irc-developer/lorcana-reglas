@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 246 | **Última actualización:** 9 de octubre de 2026
+**Total de casos:** 247 | **Última actualización:** 11 de octubre de 2026
 
 ---
 
@@ -279,7 +279,7 @@ Nombre provisional de la subsección. Los seis casos de esta carpeta ya están d
 
 ---
 
-### 11.8. Correcciones de jugadas (26 casos)
+### 11.8. Correcciones de jugadas (27 casos)
 
 Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante una partida.
 
@@ -309,6 +309,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 24. [Conceder después de que el match terminó.md](<11.8. Correcciones de jugadas/Conceder después de que el match terminó.md>) **(DISCORD 2026)**
 25. [Takeback después de resolver una habilidad disparada que gana la partida.md](<11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida.md>) **(DISCORD 2026)**
 26. [Minnie Mouse - Practical Traveler y lore olvidado.md](<11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado.md>)
+27. [Higiene personal, tapetes y vestimenta en torneos.md](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>) — Requisitos expresos de limpieza y alcance del consejo de higiene personal.
 
 ---
 
@@ -375,15 +376,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 41 | 16.7% |
-| **11.2 Zonas y Movimientos** | 26 | 10.6% |
+| **11.0 Timing y Resolución** | 41 | 16.6% |
+| **11.2 Zonas y Movimientos** | 26 | 10.5% |
 | **11.3 Costes y Requisitos** | 23 | 9.3% |
 | **11.4 Habilidades** | 36 | 14.6% |
 | **11.5 Keywords** | 21 | 8.5% |
-| **11.6 Interacciones Complejas** | 67 | 27.2% |
+| **11.6 Interacciones Complejas** | 67 | 27.1% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
-| **11.8 Correcciones de jugadas** | 26 | 10.6% |
-| **TOTAL** | **246** | **100%** |
+| **11.8 Correcciones de jugadas** | 27 | 10.9% |
+| **TOTAL** | **247** | **100%** |
 
 ---
 
@@ -414,6 +415,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Higiene y limpieza en torneos**: [Tapetes limpios, vestimenta para contenido y consejo de higiene personal](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>)
 - **Hyperia City, desde 16/10/2026**: [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>)
 - **Hyperia City, desde 16/10/2026**: [Flippant Taunt mantiene su efecto cuando su jugador abandona la partida](<11.7. Dudas por desarrollar/Flippant Taunt mantiene su efecto cuando su jugador abandona la partida.md>)
 - **Hyperia City, desde 16/10/2026**: [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>)
