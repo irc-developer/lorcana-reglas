@@ -10,7 +10,7 @@ Hay exigencias expresas de limpieza en las **Tournament Rules**, pero los docume
 
 - **Tapetes:** la sección **3.11, Approved Accessories**, exige que estén limpios, planos sobre la mesa y que no interfieran con el juego. Se aplica a los tapetes utilizados en torneos.
 - **Vestimenta:** la sección **7.3, Interviews and Other Content**, exige ropa limpia, cuidada y apropiada para retransmisión durante entrevistas, partidas destacadas u otro contenido. Ese requisito tiene el ámbito concreto descrito en la sección; no debe presentarse como una obligación general de vestimenta para toda partida.
-- **Higiene personal:** [[Cuida tu higiene personal]] recomienda acudir limpio a los eventos. Es un consejo para jugadores, no una norma oficial ni una tabla de sanciones.
+- **Higiene personal:** nuestra sección de consejos para jugadores recomienda acudir limpio a los eventos. Es un consejo, no una norma oficial ni una tabla de sanciones.
 
 Las **Comprehensive Rules 2.3.0**, las **Play Correction Guidelines** y el **Community Code** revisados tampoco contienen una obligación expresa de higiene corporal. El Community Code exige cortesía y respeto; la sección 7.1 de las Tournament Rules prohíbe conductas irrespetuosas, disruptivas y de acoso. Esos principios generales no identifican por sí solos una sanción automática por olor corporal.
 
@@ -26,7 +26,7 @@ Si una situación de higiene dificulta la participación, conviene comunicarla d
 - [Comprehensive Rules 2.3.0 (PDF oficial)](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): versión publicada más reciente, aplicable desde el **16/10/2026**. Hasta el 15/10/2026 sigue aplicándose la versión 2.2.0; ninguna de las dos establece una obligación expresa de higiene corporal.
 - [Play Correction Guidelines (PDF oficial)](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): no define una infracción específica de higiene personal.
 - [Community Code (PDF oficial)](https://files.disneylorcana.com/community-code-en.pdf): expectativas generales de convivencia; resumen en [[10. Comunidad y actividades/Código de la comunidad (Community Code)|Código de la comunidad]].
-- [[Cuida tu higiene personal]]: recomendación no normativa de la sección de consejos para jugadores.
+- **Cuida tu higiene personal**, en **08. Consejos para jugadores**: recomendación no normativa recogida en el apartado de respuesta.
 
 ---
 
