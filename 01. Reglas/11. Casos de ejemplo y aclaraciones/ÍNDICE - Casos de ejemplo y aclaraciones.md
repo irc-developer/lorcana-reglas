@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 247 | **Última actualización:** 11 de octubre de 2026
+**Total de casos:** 248 | **Última actualización:** 13 de octubre de 2026
 
 ---
 
@@ -20,7 +20,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 4. [Cláusula sobre personaje y luego otra sobre el mismo.md](<11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md>)
 5. [Cumplir parte de una habilidad.md](<11.0. Timing y Resolución/Cumplir parte de una habilidad.md>)
 6. [Derrota, timing mazo vacío.md](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>) — Incluye Maleficent & Diablo: FOOLS! repone cinco personajes y evita la derrota si quedan cartas al terminar el turno.
-7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
+7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>) — Incluye BIG HIT de Héctor: la canción se resuelve antes del disparo por cantarla.
 8. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
 9. [Elegir un personaje agotado por restricción.md](<11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md>)
 10. [Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
@@ -91,7 +91,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 
 ---
 
-### 11.3. Costes y Requisitos (23 casos)
+### 11.3. Costes y Requisitos (24 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -118,6 +118,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 21. [Entintar boca arriba en torneo.md](<11.3. Costes y Requisitos/Entintar boca arriba en torneo.md>) **(DISCORD 2026)**
 22. [Baymax - Amped Up, retirar gotas y pagar tinta](<11.3. Costes y Requisitos/Baymax - Amped Up, retirar gotas y pagar tinta.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 23. [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+24. [Mover un personaje al lugar donde ya está - elección y pago](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>) — CR 2.3 desde el 16/10/2026: acción de turno incompleta y movimiento por efecto.
 
 ---
 
@@ -376,21 +377,22 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 41 | 16.6% |
+| **11.0 Timing y Resolución** | 41 | 16.5% |
 | **11.2 Zonas y Movimientos** | 26 | 10.5% |
-| **11.3 Costes y Requisitos** | 23 | 9.3% |
-| **11.4 Habilidades** | 36 | 14.6% |
+| **11.3 Costes y Requisitos** | 24 | 9.7% |
+| **11.4 Habilidades** | 36 | 14.5% |
 | **11.5 Keywords** | 21 | 8.5% |
-| **11.6 Interacciones Complejas** | 67 | 27.1% |
+| **11.6 Interacciones Complejas** | 67 | 27.0% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
 | **11.8 Correcciones de jugadas** | 27 | 10.9% |
-| **TOTAL** | **247** | **100%** |
+| **TOTAL** | **248** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Get to Safety! y Sleepy Hollow**: [Recuperar el puente desde el descarte sí permite robar; ejemplo oficial de CR 6.7.8](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
 - **Héctor Rivera y The Torn Corner**: [BIG HIT sí dispara MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Tod y The Horseman Strikes!**: [Rechazar el destierro no elige a Tod; aceptarlo lo destierra antes de preparar](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
@@ -415,6 +417,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Mover al mismo lugar**: [El intento de acción de turno se deshace; un efecto no produce movimiento](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>)
 - **Higiene y limpieza en torneos**: [Tapetes limpios, vestimenta para contenido y consejo de higiene personal](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>)
 - **Hyperia City, desde 16/10/2026**: [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>)
 - **Hyperia City, desde 16/10/2026**: [Flippant Taunt mantiene su efecto cuando su jugador abandona la partida](<11.7. Dudas por desarrollar/Flippant Taunt mantiene su efecto cuando su jugador abandona la partida.md>)
