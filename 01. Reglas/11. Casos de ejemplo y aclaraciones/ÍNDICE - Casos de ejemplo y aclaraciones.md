@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 248 | **Última actualización:** 13 de octubre de 2026
+**Total de casos:** 249 | **Última actualización:** 15 de octubre de 2026
 
 ---
 
@@ -10,7 +10,7 @@
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
-### 11.0. Timing y Resolución (41 casos)
+### 11.0. Timing y Resolución (42 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia de resolución.
 
@@ -46,15 +46,16 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 30. [Resolución parcial sin objetivo válido.md](<11.0. Timing y Resolución/Resolución parcial sin objetivo válido.md>)
 31. [Restricciones a enderezar impuestas por habilidades disparadas.md](<11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas.md>)
 32. [The Leviathan con Circle of Life y conteo del descarte.md](<11.0. Timing y Resolución/The Leviathan con Circle of Life y conteo del descarte.md>)
-33. [Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
-34. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
-35. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
-36. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
-37. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
-38. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
-39. [Minnie Mouse - Urban Visionary y las dos decisiones opcionales](<11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-40. [Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar](<11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-41. [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+33. [Three Arrows y Gopher - Resist permanece hasta el GSC.md](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
+34. [Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
+35. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
+36. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
+37. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
+38. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
+39. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
+40. [Minnie Mouse - Urban Visionary y las dos decisiones opcionales](<11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+41. [Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar](<11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+42. [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
 
@@ -377,21 +378,22 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 41 | 16.5% |
-| **11.2 Zonas y Movimientos** | 26 | 10.5% |
-| **11.3 Costes y Requisitos** | 24 | 9.7% |
+| **11.0 Timing y Resolución** | 42 | 16.9% |
+| **11.2 Zonas y Movimientos** | 26 | 10.4% |
+| **11.3 Costes y Requisitos** | 24 | 9.6% |
 | **11.4 Habilidades** | 36 | 14.5% |
-| **11.5 Keywords** | 21 | 8.5% |
-| **11.6 Interacciones Complejas** | 67 | 27.0% |
+| **11.5 Keywords** | 21 | 8.4% |
+| **11.6 Interacciones Complejas** | 67 | 26.9% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
-| **11.8 Correcciones de jugadas** | 27 | 10.9% |
-| **TOTAL** | **248** | **100%** |
+| **11.8 Correcciones de jugadas** | 27 | 10.8% |
+| **TOTAL** | **249** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
 - **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Get to Safety! y Sleepy Hollow**: [Recuperar el puente desde el descarte sí permite robar; ejemplo oficial de CR 6.7.8](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
 - **Héctor Rivera y The Torn Corner**: [BIG HIT sí dispara MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
