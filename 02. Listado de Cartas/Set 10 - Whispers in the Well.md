@@ -1873,7 +1873,7 @@ your next turn. (Only characters with Evasive can challenge them.)
 
 ## Judy Hopps - On the Case
 
-**Coste:** 3 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✗ | **Rareza:** Uncommon  
+**Coste:** 3 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 4 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/137_30d8cb2cb3712386a7bc680212e469af140f807e.jpg)
 
@@ -1922,7 +1922,7 @@ the top or the bottom of your deck.
 
 ## Daisy Duck - Ghost Finder
 
-**Coste:** 2 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✗ | **Rareza:** Common  
+**Coste:** 2 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/141_d783e50e319f3658d30a9b68cb6e0a936cbff8e0.jpg)
 
@@ -2034,7 +2034,7 @@ damage from each of your characters.
 
 ## Judy Hopps - Lead Detective
 
-**Coste:** 6 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✗ | **Rareza:** Rare  
+**Coste:** 6 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Rare  
 **Fuerza:** 6 | **Voluntad:** 4 | **Lore:** 2  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/150_722eaaa57d6bd69ab2ae31afc40958db763fb56c.jpg)
 
@@ -2122,7 +2122,7 @@ facedown to draw a card.
 
 ## Judy Hopps - Uncovering Clues
 
-**Coste:** 4 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✗ | **Rareza:** Super Rare  
+**Coste:** 4 | **Tipo:** Character | **Color:** Sapphire | **Tinta:** ✓ | **Rareza:** Super Rare  
 **Fuerza:** 3 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/156_9c5785bd203360e9683b10ea352a7e51f4e2959a.jpg)
 
@@ -2365,7 +2365,7 @@ this turn. (They get +2 {s} while challenging.)
 
 ## Goliath - Clan Leader
 
-**Coste:** 6 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✗ | **Rareza:** Legendary  
+**Coste:** 6 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Legendary  
 **Fuerza:** 6 | **Voluntad:** 5 | **Lore:** 2  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/173_02446272102753bbd8c707e080e6e2bb110cb0ca.jpg)
 
@@ -2411,7 +2411,7 @@ them for each action card discarded this way.
 
 ## Francine - Eyeing the Evidence
 
-**Coste:** 3 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✗ | **Rareza:** Common  
+**Coste:** 3 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 4 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/176_5bae4a98b82698843867d70235f8cc36778af3ec.jpg)
 
@@ -2423,7 +2423,7 @@ them for each action card discarded this way.
 
 ## Inspector Tezuka - Resolute Officer
 
-**Coste:** 2 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✗ | **Rareza:** Common  
+**Coste:** 2 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 1  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/177_1b6352c2c9b40262a999092a37ddd00b9781a3e0.jpg)
 
@@ -2435,7 +2435,7 @@ them for each action card discarded this way.
 
 ## Nick Wilde - Sly Fox Sleuth
 
-**Coste:** 1 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✗ | **Rareza:** Common  
+**Coste:** 1 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 2 | **Voluntad:** 2 | **Lore:** 1  
 **Set:** Whispers in the Well (WHI #10) | [🖼️ Imagen](https://api.lorcana.ravensburger.com/images/en/set10/178_7b413b5e1861348d95008c544e27ea7949b638b8.jpg)
 

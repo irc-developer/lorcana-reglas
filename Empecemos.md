@@ -36,6 +36,8 @@ Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octub
 ### 🧰 Recursos y Herramientas
 > Material de referencia para torneos, listas de control, hojas de ayuda, y enlaces útiles.
 
+> **Estrategia:** [[Detectives Zafiro Acero - guía de pilotaje para Hyperia City|Detectives Zafiro/Acero: guía de pilotaje para Hyperia City]], con lista de 60 cartas, mulligan, secuencias y ejercicios de entrenamiento.
+
 > **Cartas e imágenes:** los enlaces a cartas de esta guía utilizan imágenes obtenidas mediante la API de [Lorcast](https://lorcast.com). Gracias a Lorcast por facilitar su consulta. [Documentación de la API](https://lorcast.com/docs/api).
 
 ---
