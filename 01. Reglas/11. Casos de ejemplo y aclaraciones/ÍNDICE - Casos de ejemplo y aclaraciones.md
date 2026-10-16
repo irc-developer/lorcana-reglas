@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 249 | **Última actualización:** 15 de octubre de 2026
+**Total de casos:** 249 | **Última actualización:** 16 de octubre de 2026
 
 ---
 
@@ -160,7 +160,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 31. [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
 32. [Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md](<11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md>) **(NUEVO: ATTACK OF THE VINE)**
 33. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
-34. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)**
+34. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)** — Merlin’s Wand conserva el nombre compartido: Peter Pan & Tinker Bell sí recibe el descuento; Tinker Bell individual no.
 35. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
 36. [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
@@ -393,6 +393,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Merlin’s Wand y equipos**: [El descuento sigue el nombre compartido al revelar las dos cartas](<11.4. Habilidades/Bruno y equipos con varios nombres.md>)
 - **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
 - **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Get to Safety! y Sleepy Hollow**: [Recuperar el puente desde el descarte sí permite robar; ejemplo oficial de CR 6.7.8](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
