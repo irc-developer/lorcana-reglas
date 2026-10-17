@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 249 | **Última actualización:** 17 de octubre de 2026
+**Total de casos:** 249 | **Última actualización:** 18 de octubre de 2026
 
 ---
 
@@ -72,7 +72,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 7. [Desterrar y volver a la mano desde la zona de juego.md](<11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md>)
 8. [Elegir 0 cartas para barajar en el mazo no baraja el mazo.md](<11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md>)
 9. [Escoger robar la carta superior o no.md](<11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md>)
-10. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
+10. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) — Incluye Flash y Madam Mim - Fox: Mim recupera Rush cuando Flash vuelve a la mano.
 11. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 12. [Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 13. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
@@ -420,6 +420,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Flash y Madam Mim - Fox**: [Rush vuelve a aplicarse al devolver Flash a la mano](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
 - **Mover al mismo lugar**: [El intento de acción de turno se deshace; un efecto no produce movimiento](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>)
 - **Higiene y limpieza en torneos**: [Tapetes limpios, vestimenta para contenido y consejo de higiene personal](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>)
 - **Hyperia City, desde 16/10/2026**: [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>)
