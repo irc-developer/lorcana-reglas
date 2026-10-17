@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 249 | **Última actualización:** 16 de octubre de 2026
+**Total de casos:** 249 | **Última actualización:** 17 de octubre de 2026
 
 ---
 
@@ -263,7 +263,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 63. [Prince Charming y Pete - efecto estático frente a duración.md](<11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md>) **(DISCORD 2026)**
 64. [16 jugadores y rondas adicionales en Set Championship.md](<11.6. Interacciones Complejas/16 jugadores y rondas adicionales en Set Championship.md>) **(DISCORD 2026 + FORO 2026)**
 65. [Deck checks aleatorios y controles previos.md](<11.6. Interacciones Complejas/Deck checks aleatorios y controles previos.md>) **(FORO 2026)**
-66. [Marie - Caught in the Act con Resist y Lilo - Bundled Up.md](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
+66. [Marie - Caught in the Act con Resist y Lilo - Bundled Up.md](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>) — Incluye Malicious, Mean, and Scary: poner contadores sí cumple la condición de Marie.
 67. [Mulan - Resourceful Recruit gana 7 lore con Buzz.md](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>)
 
 ---
@@ -413,7 +413,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Remember Me y The Horned King**: [Ambos efectos activos se aplican conjuntamente; elegir CAULDRON'S POWER no evita bloquear los nombres](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
 - **Tiana**: [Efecto de Tiana...](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>) | [Tiana y Rapunzel...](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>) | [Cálculo fuerza Tiana...](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
 - **Merida**: [Merida - Steady Aim con Grab Your Sword y Ward](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>) | [Merida - Steady Aim y Resist](<11.4. Habilidades/Merida - Steady Aim y Resist.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
-- **Marie**: [Marie - Caught in the Act con Resist y Lilo - Bundled Up](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
+- **Marie**: [Malicious, Mean, and Scary sí permite obtener la gota; diferencias con Resist y Lilo](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
 - **Mulan y Buzz**: [Mulan - Resourceful Recruit gana 7 lore con Buzz](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>) | [Pocahontas lee el valor de lore de Mulan](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
 - **Rapunzel**: [Rapunzel conserva su protección con Resist 0](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
 - **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [Lady - Miss Park Avenue shift](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
