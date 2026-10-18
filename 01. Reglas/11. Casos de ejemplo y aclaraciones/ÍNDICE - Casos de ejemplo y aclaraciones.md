@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 249 | **Última actualización:** 18 de octubre de 2026
+**Total de casos:** 250 | **Última actualización:** 18 de octubre de 2026
 
 ---
 
@@ -10,7 +10,7 @@
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
-### 11.0. Timing y Resolución (42 casos)
+### 11.0. Timing y Resolución (43 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia de resolución.
 
@@ -49,13 +49,14 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 33. [Three Arrows y Gopher - Resist permanece hasta el GSC.md](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
 34. [Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 35. [Volver atrás una jugada legal por cambio de plan.md](<11.0. Timing y Resolución/Volver atrás una jugada legal por cambio de plan.md>)
-36. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
-37. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
-38. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
-39. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
-40. [Minnie Mouse - Urban Visionary y las dos decisiones opcionales](<11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-41. [Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar](<11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-42. [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+36. [Wasabi y Shere Khan - gota antes de resolver Twin Blades.md](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>) **(NUEVO: HYPERIA CITY)**
+37. [Woody - Helping a Friend resuelve las opciones en el orden impreso.md](<11.0. Timing y Resolución/Woody - Helping a Friend resuelve las opciones en el orden impreso.md>) **(NUEVO: ATTACK OF THE VINE)**
+38. [World's Greatest Criminal Mind sin objetivo válido.md](<11.0. Timing y Resolución/World's Greatest Criminal Mind sin objetivo válido.md>)
+39. [Milo - Scholar's Gambit, descartar y devolver personaje.md](<11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje.md>) **(DISCORD 2026)**
+40. [Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md](<11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md>)
+41. [Minnie Mouse - Urban Visionary y las dos decisiones opcionales](<11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+42. [Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar](<11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+43. [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
 
@@ -378,21 +379,22 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 42 | 16.9% |
+| **11.0 Timing y Resolución** | 43 | 17.2% |
 | **11.2 Zonas y Movimientos** | 26 | 10.4% |
 | **11.3 Costes y Requisitos** | 24 | 9.6% |
-| **11.4 Habilidades** | 36 | 14.5% |
+| **11.4 Habilidades** | 36 | 14.4% |
 | **11.5 Keywords** | 21 | 8.4% |
-| **11.6 Interacciones Complejas** | 67 | 26.9% |
+| **11.6 Interacciones Complejas** | 67 | 26.8% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
 | **11.8 Correcciones de jugadas** | 27 | 10.8% |
-| **TOTAL** | **249** | **100%** |
+| **TOTAL** | **250** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Wasabi y Shere Khan**: [La gota puede elevar Twin Blades a 6 si Wasabi sigue en juego](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>)
 - **Merlin’s Wand y equipos**: [El descuento sigue el nombre compartido al revelar las dos cartas](<11.4. Habilidades/Bruno y equipos con varios nombres.md>)
 - **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
 - **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
@@ -438,7 +440,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Un disparo requiere un nuevo evento**: [Recuperar Sleepy Hollow no repite la aventura ni el agotamiento de Fergus](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
 - **Cambio de zona con una habilidad pendiente**: [Boo y Scrooge: On the Move sigue en la bolsa, pero no recupera la carta desde el descarte](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>)
 - **Another / other**: [Wasabi y otro personaje elegido](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) | [Roo y otra copia](<11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md>) | [Three Arrows y la segunda elección opcional](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
-- **GSC (Game State Check)**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
+- **GSC (Game State Check)**: [Wasabi y Shere Khan: GSC antes de la gota y Twin Blades](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>) | [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
 - **Obligaciones y prohibiciones**: [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) | [Strange Things y This Growing Pressure](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
 - **Efecto estático**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) | [Prince Charming y Pete](<11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md>) | [Elisa Maza y reducciones previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
 - **Reemplazo**: [Aplicación múltiples efectos reemplazo (Escudos)](<11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Helga Sinclair - Prepared for Anything...](<11.0. Timing y Resolución/Helga Sinclair - Prepared for Anything no abre ventana entre sus dos frases.md>) | [Interacción reemplazo vs habilidades disparadas...](<11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos.md>)
