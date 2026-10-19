@@ -4,6 +4,8 @@ Si [Buzz Lightyear - Jungle Ranger](https://cards.lorcast.io/card/digital/large/
 
 Desde el lanzamiento de Hyperia City, si [Héctor Rivera - Worldwide Sensation](https://cards.lorcast.io/card/digital/large/crd_e0931f5fb3664ed59dc5c600e2e27845.avif?1790886751) canta una canción por primera vez ese turno, ¿puedo resolver **BIG HIT** desde la bolsa antes de resolver la canción?
 
+Si [If She Doesn't Scare You](https://cards.lorcast.io/card/digital/large/crd_00e1c34974a942bbbff49c7fbb2cf2e0.avif?1790886798) destierra a mi único personaje, [Lady Tremaine - Scornful Snob](https://cards.lorcast.io/card/digital/large/crd_69501b880fee49e28903ee6227f0ab08.avif?1790792896), ¿puedo resolver DELICATE SENSIBILITIES para dañarla y robar? Si en su lugar destierro a [The Muses - Proclaimers of Heroes](https://cards.lorcast.io/card/digital/large/crd_12e044565cad4dea9a798105ec0df2f2.avif?1716052430), ¿puedo resolver THE GOSPEL TRUTH después de la canción? Supón que Tremaine aún no ha usado su habilidad ese turno.
+
 ---
 
 ## ✅ Respuesta
@@ -23,10 +25,27 @@ Por ejemplo, si la canción cambia las cartas de tu mazo, BIG HIT mira las tres 
 > [!IMPORTANT] Hyperia City, desde el 16/10/2026
 > Héctor Rivera - Worldwide Sensation se incorpora con Hyperia City. Este caso aplica desde su lanzamiento, con CR 2.3; la espera de los disparos hasta terminar de jugar una acción ya aparece también en CR 2.2.
 
+### Tremaine y las Musas: la canción destierra la fuente del disparo
+
+**Las dos habilidades se disparan al jugar la canción y esperan en la bolsa, aunque después su personaje sea desterrado. Tremaine no permite robar en este caso; las Musas sí pueden devolver otro personaje legal a la mano.**
+
+Una canción se considera jugada cuando terminas de pagar su coste. En ese momento, Tremaine o las Musas siguen en la zona de juego y se cumple «whenever you play a song». El destierro que pide If She Doesn't Scare You forma parte de su resolución: no es un coste adicional para jugarla. Primero destierras tu personaje y después el segundo personaje elegido; solo al terminar toda la canción y las comprobaciones correspondientes llega la resolución del disparo pendiente. No puedes adelantarlo para salvar a su fuente.
+
+**Con Tremaine**, DELICATE SENSIBILITIES requiere hacerle 1 daño para robar: «you may deal 1 damage to this character. If you do, draw a card». Como ya está en el descarte, no puedes infligirle ese daño. No completas A y, por la dependencia «A. If you do, B», no robas. La habilidad llega a resolverse sin producir el robo; el destierro no impidió que se disparase.
+
+**Con las Musas**, THE GOSPEL TRUTH no exige dañarlas ni mantenerlas en juego. Al resolver el disparo, puedes elegir un personaje que siga en la zona de juego, tenga Fuerza 2 o menos y pueda ser elegido legalmente, y devolverlo a la mano de su jugador. La elección se hace entonces, con la mesa resultante de la canción. No puedes elegir a las Musas desterradas ni al segundo personaje que acabas de desterrar; si no queda ninguna elección legal, no devuelves a nadie.
+
+Por ejemplo, si la canción destierra a tus Musas y a un personaje rival, pero queda otro personaje rival de Fuerza 2 sin protección que impida elegirlo, THE GOSPEL TRUTH puede devolver ese tercero a la mano. Pagar la canción con tinta o cantarla produce el mismo disparo por jugarla.
+
+Si destierras otro personaje tuyo y Tremaine permanece en juego hasta resolver DELICATE SENSIBILITIES, sí puedes hacerle el daño y robar si completas esa primera parte. Lo decisivo es poder realizar lo que pide cada habilidad al resolverla.
+
 ---
 
 ## 📘 Referencias
 
+- [[6.1. General (General)|CR 6.1.3 y 6.1.5.1 — Elecciones al resolver y efectos secuenciales]]: las Musas eligen después de la canción; Tremaine debe completar el daño para robar.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|CR 6.2.3 — Añadir el disparo a la bolsa]] y [[7.1. General|CR 7.1.6 — Cambiar de zona]]: salir la fuente no borra el disparo pendiente ni permite dañar o devolver desde el descarte al personaje que estaba en juego.
+- [Comprehensive Rules 2.3.0 — Tremaine y las Musas](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26), CR 4.3.3–4.3.4 (p. 13), 6.1.3 y 6.1.5.1 (pp. 25–26), 6.2.3 (p. 30), 7.1.6 (p. 38) y 7.7.3.1 (p. 40).
 - [Let's Get Dangerous](https://cards.lorcast.io/card/digital/large/crd_bdf35f1859df44e19594261c5bcede11.avif?1770260086): juega la acción y se resuelve antes de ir al descarte.
 - [Buzz Lightyear - Jungle Ranger](https://cards.lorcast.io/card/digital/large/crd_0b928f0cd5d2473482e07a609205c26b.avif?1777688111): TAKE CHARGE puede devolver a la mano una acción de coste 7 o menos desde el descarte.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2. Acciones que van al descarte]]: una acción va al descarte después de resolver su efecto.
@@ -41,4 +60,4 @@ Por ejemplo, si la canción cambia las cartas de tu mazo, BIG HIT mira las tres 
 
 ## 🏷️ Tags
 
-#triggered-ability #discard #bag-priority #resolution #timing #singing #hector-rivera-worldwide-sensation
+#banish #triggered-ability #discard #bag-priority #resolution #timing #singing #hector-rivera-worldwide-sensation

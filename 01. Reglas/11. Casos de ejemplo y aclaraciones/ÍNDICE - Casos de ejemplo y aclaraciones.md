@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 250 | **Última actualización:** 18 de octubre de 2026
+**Total de casos:** 250 | **Última actualización:** 19 de octubre de 2026
 
 ---
 
@@ -20,7 +20,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 4. [Cláusula sobre personaje y luego otra sobre el mismo.md](<11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md>)
 5. [Cumplir parte de una habilidad.md](<11.0. Timing y Resolución/Cumplir parte de una habilidad.md>)
 6. [Derrota, timing mazo vacío.md](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>) — Incluye Maleficent & Diablo: FOOLS! repone cinco personajes y evita la derrota si quedan cartas al terminar el turno.
-7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>) — Incluye BIG HIT de Héctor: la canción se resuelve antes del disparo por cantarla.
+7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>) — Incluye BIG HIT de Héctor y Tremaine frente a las Musas: los disparos esperan a la canción; desterrar la fuente no los borra.
 8. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
 9. [Elegir un personaje agotado por restricción.md](<11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md>)
 10. [Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
@@ -422,6 +422,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Una canción destierra la fuente del disparo**: [Tremaine no roba sin hacerse daño; las Musas pueden devolver otro personaje válido](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Flash y Madam Mim - Fox**: [Rush vuelve a aplicarse al devolver Flash a la mano](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
 - **Mover al mismo lugar**: [El intento de acción de turno se deshace; un efecto no produce movimiento](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>)
 - **Higiene y limpieza en torneos**: [Tapetes limpios, vestimenta para contenido y consejo de higiene personal](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>)
