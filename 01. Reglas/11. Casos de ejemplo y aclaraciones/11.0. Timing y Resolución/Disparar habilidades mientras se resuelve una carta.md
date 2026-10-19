@@ -6,6 +6,8 @@ Desde el lanzamiento de Hyperia City, si [Héctor Rivera - Worldwide Sensation](
 
 Si [If She Doesn't Scare You](https://cards.lorcast.io/card/digital/large/crd_00e1c34974a942bbbff49c7fbb2cf2e0.avif?1790886798) destierra a mi único personaje, [Lady Tremaine - Scornful Snob](https://cards.lorcast.io/card/digital/large/crd_69501b880fee49e28903ee6227f0ab08.avif?1790792896), ¿puedo resolver DELICATE SENSIBILITIES para dañarla y robar? Si en su lugar destierro a [The Muses - Proclaimers of Heroes](https://cards.lorcast.io/card/digital/large/crd_12e044565cad4dea9a798105ec0df2f2.avif?1716052430), ¿puedo resolver THE GOSPEL TRUTH después de la canción? Supón que Tremaine aún no ha usado su habilidad ese turno.
 
+Si controlo a Jessie - Lively Cowgirl y pago 2 de tinta para jugar Intimidation Tactics, ¿puedo resolver primero la reducción de Fuerza de Jessie y desterrar con esa misma acción a un personaje rival que tenía Fuerza 3?
+
 ---
 
 ## ✅ Respuesta
@@ -39,9 +41,22 @@ Por ejemplo, si la canción destierra a tus Musas y a un personaje rival, pero q
 
 Si destierras otro personaje tuyo y Tremaine permanece en juego hasta resolver DELICATE SENSIBILITIES, sí puedes hacerle el daño y robar si completas esa primera parte. Lo decisivo es poder realizar lo que pide cada habilidad al resolverla.
 
+### Jessie e Intimidation Tactics: reducir la Fuerza llega después
+
+Si controlas a [Jessie - Lively Cowgirl](https://cards.lorcast.io/card/digital/large/crd_c7f3b3cbe19c44f7943c510392ea88db.avif?1777687200) y juegas [Intimidation Tactics](https://cards.lorcast.io/card/digital/large/crd_2926bf3cb6f74dc88d9572f3a5cbac85.avif?1790792899) pagando 2 de tinta, **no puedes usar el disparo de Jessie para que esa misma acción destierre a un personaje que aún tiene Fuerza 3**.
+
+YODEL-AY-HEE-HOO! se dispara por pagar 2 de tinta o menos al jugar una carta. Ese disparo se añade a la bolsa, pero espera a que termine el proceso de jugar Intimidation Tactics. Primero la acción intenta desterrar un personaje con Fuerza 2 o menos; después va al descarte. Solo entonces, tras las comprobaciones correspondientes, puede resolverse la reducción de Fuerza de Jessie. La acción y el disparo no son dos efectos de la bolsa cuyo orden puedas intercambiar.
+
+El personaje se elige durante la resolución de la acción y debe cumplir ya su límite de Fuerza. Si no hay ningún personaje elegible, la acción termina sin desterrar; el disparo de Jessie sigue pendiente y puede reducir después la Fuerza de un personaje rival legal de 3 a 2. Eso no hace que la acción terminada se resuelva otra vez. Si existe otro personaje elegible, debes hacer una elección legal para la acción; no puedes elegir al de Fuerza 3 anticipando la reducción.
+
+**Sí puedes preparar el destierro con una carta anterior:** juega otra carta pagando 2 de tinta o menos y termina de resolverla; después resuelve el disparo de Jessie sobre el rival de Fuerza 3. Una vez que tenga Fuerza 2, juega Intimidation Tactics y elígelo, siempre que ninguna otra restricción impida hacerlo. El nuevo disparo de Jessie volverá a esperar a que termine esa acción.
+
 ---
 
 ## 📘 Referencias
+
+- [[6.1. General (General)|CR 6.1.3 y 6.1.3.1 — Elección y limitadores al resolver]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3 — Legalidad de la elección]]: Intimidation Tactics exige Fuerza 2 o menos antes de resolver el disparo de Jessie.
+- [Comprehensive Rules 2.3.0 — Jessie e Intimidation Tactics](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13), CR 4.3.3.2–4.3.4 (p. 13), 6.1.3–6.1.3.1 (pp. 25–26) y 7.7.2–7.7.3.1 (p. 40): la acción se resuelve y va al descarte antes del disparo pendiente.
 
 - [[6.1. General (General)|CR 6.1.3 y 6.1.5.1 — Elecciones al resolver y efectos secuenciales]]: las Musas eligen después de la canción; Tremaine debe completar el daño para robar.
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|CR 6.2.3 — Añadir el disparo a la bolsa]] y [[7.1. General|CR 7.1.6 — Cambiar de zona]]: salir la fuente no borra el disparo pendiente ni permite dañar o devolver desde el descarte al personaje que estaba en juego.
@@ -60,4 +75,4 @@ Si destierras otro personaje tuyo y Tremaine permanece en juego hasta resolver D
 
 ## 🏷️ Tags
 
-#banish #triggered-ability #discard #bag-priority #resolution #timing #singing #hector-rivera-worldwide-sensation
+#banish #triggered-ability #discard #bag-priority #resolution #timing #singing #hector-rivera-worldwide-sensation #strength-reduction #choices

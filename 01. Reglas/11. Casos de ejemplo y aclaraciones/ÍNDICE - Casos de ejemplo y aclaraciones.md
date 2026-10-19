@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 250 | **Última actualización:** 19 de octubre de 2026
+**Total de casos:** 251 | **Última actualización:** 19 de octubre de 2026
 
 ---
 
@@ -20,7 +20,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 4. [Cláusula sobre personaje y luego otra sobre el mismo.md](<11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo.md>)
 5. [Cumplir parte de una habilidad.md](<11.0. Timing y Resolución/Cumplir parte de una habilidad.md>)
 6. [Derrota, timing mazo vacío.md](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>) — Incluye Maleficent & Diablo: FOOLS! repone cinco personajes y evita la derrota si quedan cartas al terminar el turno.
-7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>) — Incluye BIG HIT de Héctor y Tremaine frente a las Musas: los disparos esperan a la canción; desterrar la fuente no los borra.
+7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>) — Incluye BIG HIT de Héctor y Tremaine frente a las Musas: los disparos esperan a la acción; Jessie no reduce Fuerza hasta que termina Intimidation Tactics.
 8. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
 9. [Elegir un personaje agotado por restricción.md](<11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md>)
 10. [Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
@@ -124,7 +124,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 
 ---
 
-### 11.4. Habilidades (36 casos)
+### 11.4. Habilidades (37 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
@@ -164,6 +164,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 34. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)** — Merlin’s Wand conserva el nombre compartido: Peter Pan & Tinker Bell sí recibe el descuento; Tinker Bell individual no.
 35. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
 36. [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+37. [Baymax y Higitus Figitus - reemplazo parcial y límites por evento](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>) — Criterio provisional para varias gotas; reemplazos idénticos y rechazo opcional pendiente de aclaración.
 
 ---
 
@@ -379,15 +380,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 43 | 17.2% |
+| **11.0 Timing y Resolución** | 43 | 17.1% |
 | **11.2 Zonas y Movimientos** | 26 | 10.4% |
 | **11.3 Costes y Requisitos** | 24 | 9.6% |
-| **11.4 Habilidades** | 36 | 14.4% |
+| **11.4 Habilidades** | 37 | 14.7% |
 | **11.5 Keywords** | 21 | 8.4% |
-| **11.6 Interacciones Complejas** | 67 | 26.8% |
+| **11.6 Interacciones Complejas** | 67 | 26.7% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
 | **11.8 Correcciones de jugadas** | 27 | 10.8% |
-| **TOTAL** | **250** | **100%** |
+| **TOTAL** | **251** | **100%** |
 
 ---
 
@@ -395,6 +396,8 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 ### Por mecánica de cartas
 - **Wasabi y Shere Khan**: [La gota puede elevar Twin Blades a 6 si Wasabi sigue en juego](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>)
+- **Baymax e Higitus Figitus**: [Varias gotas dentro de un evento: criterio provisional y cuestiones pendientes](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>)
+- **Jessie e Intimidation Tactics**: [La reducción de Fuerza espera a que termine la acción](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Merlin’s Wand y equipos**: [El descuento sigue el nombre compartido al revelar las dos cartas](<11.4. Habilidades/Bruno y equipos con varios nombres.md>)
 - **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
 - **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
