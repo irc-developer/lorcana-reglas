@@ -173,7 +173,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 Casos sobre palabras clave específicas de Lorcana.
 
 1. [Aclaraciones de Fabled.md](<11.5. Keywords/Aclaraciones de Fabled.md>)
-2. [Ancestral Guitar: palabra clave Singer, coste para cantar y coste de tinta](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>) — Distingue los tres conceptos; incluye varias guitarras, límites de zona y Singer concedido a un rival para Ernesto.
+2. [Ancestral Guitar: conceder Singer y modificar el coste para cantar](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>) — Define Singer y explica expresamente la regla 8.11.3; incluye concesión temporal y límites de zona.
 3. [Bambi – Ethereal Faun cantando una canción.md](<11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md>)
 4. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>) — Incluye Shere Khan - Khan Industries CEO y Guardaespaldas preparados.
 5. [Boost olvidado al poner carta debajo en torneo.md](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>)
@@ -410,7 +410,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Mulan - Elite Archer y Hercules - Mighty Leader**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>)
 - **Guardaespaldas y Shere Khan – Khan Industries CEO**: [El permiso para desafiar preparados obliga a elegir un Guardaespaldas preparado si es legal](<11.5. Keywords/Bodyguard.md>)
 - **Baloo – Pilote de livraison**: [La misión obligatoria no evita su restricción; haber ganado una gota este turno sí cumple su condición](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
-- **Ancestral Guitar, Goofy, Héctor y Ernesto**: [La palabra clave sigue siendo Singer 4; el personaje cuenta como coste 6 u 8 solo para cantar](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>)
+- **Ancestral Guitar y Singer**: [Singer determina el coste de referencia para cantar; el +2 modifica ese coste, no la palabra clave](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>)
 - **Angel**: [Let The Storm Rage On sobre Angel - Experiment 624](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
 - **Kronk, Angel y Sign the Scroll**: [El descarte impedido detiene GOOD AIM](<11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad.md>) | [Sign the Scroll gana lore por el oponente que no descarta](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>)
 - **Elisa Maza**: [Forever Strong y reducciones de Fuerza previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)
