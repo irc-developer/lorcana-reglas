@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 251 | **Última actualización:** 21 de octubre de 2026
+**Total de casos:** 252 | **Última actualización:** 22 de octubre de 2026
 
 ---
 
@@ -196,7 +196,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (67 casos)
+### 11.6. Interacciones Complejas (68 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -267,6 +267,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 65. [Deck checks aleatorios y controles previos.md](<11.6. Interacciones Complejas/Deck checks aleatorios y controles previos.md>) **(FORO 2026)**
 66. [Marie - Caught in the Act con Resist y Lilo - Bundled Up.md](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>) — Incluye Malicious, Mean, and Scary: poner contadores sí cumple la condición de Marie.
 67. [Mulan - Resourceful Recruit gana 7 lore con Buzz.md](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>)
+68. [Gotas de tinta - dados y representación de contadores](<11.6. Interacciones Complejas/Gotas de tinta - dados y representación de contadores.md>) — Objetos permitidos por CR 1.13 y salvedad de torneo.
 
 ---
 
@@ -381,20 +382,21 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
 | **11.0 Timing y Resolución** | 43 | 17.1% |
-| **11.2 Zonas y Movimientos** | 26 | 10.4% |
-| **11.3 Costes y Requisitos** | 24 | 9.6% |
+| **11.2 Zonas y Movimientos** | 26 | 10.3% |
+| **11.3 Costes y Requisitos** | 24 | 9.5% |
 | **11.4 Habilidades** | 37 | 14.7% |
-| **11.5 Keywords** | 21 | 8.4% |
-| **11.6 Interacciones Complejas** | 67 | 26.7% |
+| **11.5 Keywords** | 21 | 8.3% |
+| **11.6 Interacciones Complejas** | 68 | 27.0% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
-| **11.8 Correcciones de jugadas** | 27 | 10.8% |
-| **TOTAL** | **251** | **100%** |
+| **11.8 Correcciones de jugadas** | 27 | 10.7% |
+| **TOTAL** | **252** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Gotas de tinta y dados**: [Representación física y separación del daño](<11.6. Interacciones Complejas/Gotas de tinta - dados y representación de contadores.md>)
 - **Wasabi y Shere Khan**: [La gota puede elevar Twin Blades a 6 si Wasabi sigue en juego](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>)
 - **Baymax e Higitus Figitus**: [Varias gotas dentro de un evento: criterio provisional y cuestiones pendientes](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>)
 - **Jessie e Intimidation Tactics**: [La reducción de Fuerza espera a que termine la acción](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
