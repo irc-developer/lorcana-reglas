@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 252 | **Última actualización:** 22 de octubre de 2026
+**Total de casos:** 253 | **Última actualización:** 22 de octubre de 2026
 
 ---
 
@@ -10,7 +10,7 @@
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
-### 11.0. Timing y Resolución (43 casos)
+### 11.0. Timing y Resolución (44 casos)
 
 Casos sobre el orden de resolución, timing de efectos y secuencia de resolución.
 
@@ -57,6 +57,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 41. [Minnie Mouse - Urban Visionary y las dos decisiones opcionales](<11.0. Timing y Resolución/Minnie Mouse - Urban Visionary y las dos decisiones opcionales.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 42. [Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar](<11.0. Timing y Resolución/Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 43. [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+44. [Dodge! y Mickey - de quién es el próximo turno.md](<11.0. Timing y Resolución/Dodge! y Mickey - de quién es el próximo turno.md>) — «Tu próximo turno» remite a quien generó el efecto, también sobre un personaje rival.
 
 ---
 
@@ -381,15 +382,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 43 | 17.1% |
+| **11.0 Timing y Resolución** | 44 | 17.4% |
 | **11.2 Zonas y Movimientos** | 26 | 10.3% |
 | **11.3 Costes y Requisitos** | 24 | 9.5% |
-| **11.4 Habilidades** | 37 | 14.7% |
+| **11.4 Habilidades** | 37 | 14.6% |
 | **11.5 Keywords** | 21 | 8.3% |
-| **11.6 Interacciones Complejas** | 68 | 27.0% |
+| **11.6 Interacciones Complejas** | 68 | 26.9% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
 | **11.8 Correcciones de jugadas** | 27 | 10.7% |
-| **TOTAL** | **252** | **100%** |
+| **TOTAL** | **253** | **100%** |
 
 ---
 
@@ -427,6 +428,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Hasta el comienzo de tu próximo turno**: [Dodge! y Mickey: importa quién generó el efecto](<11.0. Timing y Resolución/Dodge! y Mickey - de quién es el próximo turno.md>)
 - **Una canción destierra la fuente del disparo**: [Tremaine no roba sin hacerse daño; las Musas pueden devolver otro personaje válido](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Flash y Madam Mim - Fox**: [Rush vuelve a aplicarse al devolver Flash a la mano](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
 - **Mover al mismo lugar**: [El intento de acción de turno se deshace; un efecto no produce movimiento](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>)
