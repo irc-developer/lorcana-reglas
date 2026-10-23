@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 253 | **Última actualización:** 22 de octubre de 2026
+**Total de casos:** 253 | **Última actualización:** 23 de octubre de 2026
 
 ---
 
@@ -173,7 +173,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 Casos sobre palabras clave específicas de Lorcana.
 
-1. [Aclaraciones de Fabled.md](<11.5. Keywords/Aclaraciones de Fabled.md>)
+1. [Aclaraciones de Fabled.md](<11.5. Keywords/Aclaraciones de Fabled.md>) — Incluye Moana: la Princesa que ya estaba preparada puede hacer misión; la restricción afecta al grupo de agotadas que prepara.
 2. [Ancestral Guitar: conceder Singer y modificar el coste para cantar](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>) — Define Singer y explica expresamente la regla 8.11.3; incluye concesión temporal y límites de zona.
 3. [Bambi – Ethereal Faun cantando una canción.md](<11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md>)
 4. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>) — Incluye Shere Khan - Khan Industries CEO y Guardaespaldas preparados.
@@ -397,6 +397,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Moana y Princesas preparadas**: [WE CAN FIX IT solo restringe al grupo de Princesas agotadas que prepara](<11.5. Keywords/Aclaraciones de Fabled.md>)
 - **Gotas de tinta y dados**: [Representación física y separación del daño](<11.6. Interacciones Complejas/Gotas de tinta - dados y representación de contadores.md>)
 - **Wasabi y Shere Khan**: [La gota puede elevar Twin Blades a 6 si Wasabi sigue en juego](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>)
 - **Baymax e Higitus Figitus**: [Varias gotas dentro de un evento: criterio provisional y cuestiones pendientes](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>)
