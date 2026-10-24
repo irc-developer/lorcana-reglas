@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 253 | **Última actualización:** 23 de octubre de 2026
+**Total de casos:** 253 | **Última actualización:** 24 de octubre de 2026
 
 ---
 
@@ -158,7 +158,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 27. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
 28. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
 29. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
-30. [Wasabi - Called into Battle y another chosen character.md](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>)
+30. [Wasabi - Called into Battle y another chosen character.md](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) — Incluye Rapunzel - Outgoing Artist: elegir otro personaje en juego y revelar una carta de la mano.
 31. [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
 32. [Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md](<11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md>) **(NUEVO: ATTACK OF THE VINE)**
 33. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
@@ -448,7 +448,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Mazo vacío y derrota al terminar el turno**: [Un robo fallido no impide salvarse con FOOLS!; importa conservar cartas al final](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
 - **Un disparo requiere un nuevo evento**: [Recuperar Sleepy Hollow no repite la aventura ni el agotamiento de Fergus](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
 - **Cambio de zona con una habilidad pendiente**: [Boo y Scrooge: On the Move sigue en la bolsa, pero no recupera la carta desde el descarte](<11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío.md>)
-- **Another / other**: [Wasabi y otro personaje elegido](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) | [Roo y otra copia](<11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md>) | [Three Arrows y la segunda elección opcional](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
+- **Another / other**: [Wasabi y Rapunzel: otro personaje en juego](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) | [Roo y otra copia](<11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md>) | [Three Arrows y la segunda elección opcional](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
 - **GSC (Game State Check)**: [Wasabi y Shere Khan: GSC antes de la gota y Twin Blades](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>) | [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [GSC y final de partida](<11.6. Interacciones Complejas/GSC y el final de partida.md>) | [GSC y habilidades que dañan](<11.6. Interacciones Complejas/GSC y habilidades que dañan.md>)
 - **Obligaciones y prohibiciones**: [Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria](<11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md>) | [Strange Things y This Growing Pressure](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
 - **Efecto estático**: [Mulan y Hercules: GSC antes de TRIPLE SHOT](<11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío.md>) | [Habilidades estáticas presentes...](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>) | [Habilidades estáticas globales y zonas](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) | [Fuente estática abandona...](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) | [Prince Charming y Pete](<11.6. Interacciones Complejas/Prince Charming y Pete - efecto estático frente a duración.md>) | [Elisa Maza y reducciones previas](<11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas.md>)

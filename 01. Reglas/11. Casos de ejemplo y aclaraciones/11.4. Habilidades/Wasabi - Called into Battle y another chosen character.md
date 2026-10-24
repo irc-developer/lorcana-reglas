@@ -22,16 +22,26 @@ El personaje adicional puede ser **tuyo o de un oponente**, y puede estar prepar
 
 ---
 
-### Otra copia puede ser «otro»
+### Rapunzel - Outgoing Artist: personaje en juego y carta en mano
 
-**Hyperia City, desde el 16/10/2026:** [Rapunzel - Outgoing Artist](https://cards.lorcast.io/card/digital/large/crd_e111f3608b5e470d862124795daa01ba.avif?1790871818) no puede elegirse a sí misma con PICTURE PERFECT. Si es el único personaje en juego, revelar una Rapunzel de la mano no sustituye la elección que falta. Otra copia de Rapunzel en juego sí es un personaje distinto y puede elegirse; entonces la carta revelada puede compartir su nombre. «Another» distingue cartas, no nombres.
+Con [Rapunzel - Outgoing Artist](https://cards.lorcast.io/card/digital/large/crd_e111f3608b5e470d862124795daa01ba.avif?1790871818), ¿basta con nombrar un personaje de la mano para PICTURE PERFECT, o el otro personaje debe estar en juego?
 
-[Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Rapunzel; CR 6.1.6. Este ejemplo confirma esa distinción general; no convierte las notas en una aclaración específica de Twin Blades.
+**Debes elegir otro personaje que esté en la zona de juego y revelar una carta de personaje de tu mano.** Son dos cartas distintas en dos zonas distintas; nombrar una carta no sustituye ninguna de esas instrucciones.
+
+- **«Choose another character»**: eliges un personaje en juego distinto de la Rapunzel cuya habilidad se está resolviendo. Puede ser tuyo o de un oponente, siempre que pueda elegirse legalmente. Otra copia de Rapunzel sí cuenta como «otro» personaje.
+- **«Reveal a character card in your hand»**: muestras a los demás una carta de personaje que tienes en la mano. Revelarla no la juega ni la descarta: permanece en tu mano.
+
+Si el personaje elegido y la carta revelada comparten nombre, robas una carta. La versión no tiene que coincidir. Si los nombres no coinciden, no robas. La elección y la revelación son opcionales por el «may» de la habilidad.
+
+**Ejemplo:** vas de aventura con una Rapunzel - Outgoing Artist y hay otra copia en juego que puedes elegir. Eliges esa segunda Rapunzel, revelas una tercera Rapunzel - Outgoing Artist de tu mano y robas una carta. Si la Rapunzel que se fue de aventura fuera el único personaje en juego, no podrías usar la carta de la mano para suplir al personaje que falta, ni obtendrías el robo.
+
+Las [notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), apartado Rapunzel - Outgoing Artist, confirman el caso del único personaje y permiten elegir otra Rapunzel propia o rival en juego. Esa aclaración se refiere a PICTURE PERFECT; no es un ruling específico de Twin Blades.
 
 ---
 
 ## 📘 Referencias
 
+- [[5.3. Personajes (Characters)|CR 5.3.1. Personaje y carta de personaje]] y [[5.2. Partes de una carta (Parts of a Card)|CR 5.2.6. Nombre y versión]]: PICTURE PERFECT elige un personaje en la zona de juego y compara su nombre con el de la carta revelada de la mano.
 - [[6.1. General (General)|CR 6.1.2 y 6.1.6. Contexto completo y significado de «otro»]]: `another/other` distingue la carta de la fuente o de una selección anterior. CR 6.1.2 exige considerar el contexto y la estructura completos de la habilidad. El ejemplo oficial de CR 6.1.6 explica que Mulan - Imperial Soldier no se incluye entre sus propios «otros personajes».
 - [[6.1. General (General)|CR 6.1.3, 6.1.3.1 y 6.1.4. Elecciones, limitadores y efectos opcionales]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3. Legalidad de las elecciones]]: el personaje se elige al resolver, respetando los limitadores. Una elección previa no elimina la exclusión de la fuente.
 - [[1.2. Regla de oro (Golden Rules)|CR 1.2.3. Hacer tanto como sea posible]] y [[1.7. Game Actions, Timing, y Illegal Actions|CR 1.7.7. Ausencia de elecciones legales]]: se hace el daño si puede hacerse; no se inventa una elección inválida si falta un personaje elegible.
@@ -62,7 +72,7 @@ Este daño adicional procede de una **habilidad**, no de un nuevo desafío. Por 
 
 ## 📚 Fuente oficial
 
-[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.1.2 y 6.1.6, pp. 25–27.
+[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 5.2.6 y 5.3.1, pp. 22–23, y 6.1.2 y 6.1.6, pp. 25–27.
 
 **Alcance:** interpretación del texto de Twin Blades y las reglas generales; no se ha localizado una aclaración oficial específica que resuelva esta duda.
 
@@ -77,4 +87,4 @@ Este daño adicional procede de una **habilidad**, no de un nuevo desafío. Por 
 
 ## 🏷️ Tags
 
-#wasabi-called-into-battle #another-other #challenge #triggered-ability #resolution #scope
+#wasabi-called-into-battle #another-other #challenge #triggered-ability #resolution #hand #play-zone #scope
