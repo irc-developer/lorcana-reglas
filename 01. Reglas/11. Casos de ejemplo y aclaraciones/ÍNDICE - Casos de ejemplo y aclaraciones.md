@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 253 | **Última actualización:** 24 de octubre de 2026
+**Total de casos:** 253 | **Última actualización:** 27 de octubre de 2026
 
 ---
 
@@ -293,7 +293,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 2. [Mazo de 53 cartas descubierto en un Top 8.md](<11.8. Correcciones de jugadas/Mazo de 53 cartas descubierto en un Top 8.md>)
 3. [Takeback tras una última acción sin información nueva.md](<11.8. Correcciones de jugadas/Takeback tras una última acción sin información nueva.md>)
 4. [Takeback de un desafío antes de resolverlo.md](<11.8. Correcciones de jugadas/Takeback de un desafío antes de resolverlo.md>)
-5. [Takeback denegado después de una acción posterior.md](<11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior.md>)
+5. [Takeback denegado después de una acción posterior.md](<11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior.md>) — Incluye Demona y Flash: desafío ilegal, descarte y límite para deshacer el haber jugado al personaje.
 6. [Ocho cartas después de alterar la mano inicial.md](<11.8. Correcciones de jugadas/Ocho cartas después de alterar la mano inicial.md>)
 7. [Kida resuelta con cartas en zonas equivocadas.md](<11.8. Correcciones de jugadas/Kida resuelta con cartas en zonas equivocadas.md>)
 8. [Friends on the Other Side resuelta por error con Kida.md](<11.8. Correcciones de jugadas/Friends on the Other Side resuelta por error con Kida.md>)
@@ -397,6 +397,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Demona y Flash**: [Corregir el desafío no devuelve automáticamente el descarte ni permite retirar a Demona](<11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior.md>)
 - **Moana y Princesas preparadas**: [WE CAN FIX IT solo restringe al grupo de Princesas agotadas que prepara](<11.5. Keywords/Aclaraciones de Fabled.md>)
 - **Gotas de tinta y dados**: [Representación física y separación del daño](<11.6. Interacciones Complejas/Gotas de tinta - dados y representación de contadores.md>)
 - **Wasabi y Shere Khan**: [La gota puede elevar Twin Blades a 6 si Wasabi sigue en juego](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>)
