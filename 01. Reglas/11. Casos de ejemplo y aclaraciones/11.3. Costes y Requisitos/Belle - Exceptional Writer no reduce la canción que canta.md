@@ -2,7 +2,7 @@
 
 [Belle - Exceptional Writer](https://cards.lorcast.io/card/digital/large/crd_d61e937489bc4d479704f570a72b6f90.avif?1790886730) permite pagar 2 {I} menos por la siguiente acción que juegues ese turno cada vez que se agota durante tu turno.
 
-¿Permite ese descuento que un personaje con Singer 3 cante una canción de coste 5? ¿Qué significa «whenever this character exerts» frente a «when this character is exerted»? ¿La reducción sirve para la propia canción que canta Belle?
+¿Permite ese descuento que un personaje con Singer 3 cante una canción de coste 5? ¿Qué significa «whenever this character exerts» frente a «when this character is exerted»? ¿La reducción sirve para la propia canción que canta Belle? Si juegas una canción pagando un coste alternativo que no requiere tinta, ¿se consume una reducción que ya estaba disponible?
 
 ---
 
@@ -24,11 +24,17 @@ En una habilidad disparada, «whenever this character exerts» y «when this cha
 
 Permanecer agotada no genera más disparos. Entrar en juego ya agotada tampoco equivale a pasar de preparada a agotada en juego. Para obtener otro disparo, necesita prepararse y volver a agotarse legalmente durante tu turno. La habilidad no permite agotarla por sí sola: hace falta una acción, coste o efecto que lo permita.
 
+### Pagar un coste alternativo sin tinta consume el descuento
+
+**Sí. Si la reducción ya estaba disponible, se aplica y se consume con la siguiente acción que juegues, aunque pagues un coste alternativo sin tinta.** CR 4.3.6 establece expresamente que los modificadores para la siguiente carta se aplican también cuando se paga un coste alternativo. No puedes reservar la reducción para una acción posterior porque no hayas pagado tinta.
+
+Por ejemplo, Belle hace misión y resuelves su habilidad. Después otro personaje canta una canción, sin costes adicionales de tinta: pagas 0 de tinta y consumes la reducción de 2 {I}. La siguiente acción ya no recibe ese descuento. La reducción tampoco sustituye ni elimina el coste alternativo que hayas elegido pagar.
+
 ### Si Belle canta, la reducción llega después
 
 **La reducción generada al cantar no sirve para esa misma canción.** Primero se calcula el coste; después se paga agotando a Belle, lo que dispara su habilidad y la añade a la bolsa. La canción se juega y resuelve por completo; solo después se resuelve la habilidad de Belle. La reducción queda disponible para la **siguiente acción** que juegues ese turno, si la hay.
 
-Si ya tenías una reducción para la siguiente acción antes de cantar, esa reducción sí se aplica a la canción y se consume, aunque el coste alternativo de cantar implique pagar 0 tinta. La reducción nueva de Belle no se consume con la canción que la disparó.
+Si ya tenías una reducción antes de cantar con Belle, esa reducción anterior se consume con la canción. El nuevo disparo de Belle genera otra reducción después de resolver la canción; esa nueva reducción sigue disponible para la siguiente acción.
 
 Por ejemplo, Belle cuesta 5 y puede cantar una canción de coste 5 si está preparada, seca y puede cantar. Tras resolver la canción y su disparo, puedes jugar otra acción de coste 3 pagando 1 de tinta. Belle no puede cantar una de coste 7 gracias al descuento que va a generar al agotarse.
 
