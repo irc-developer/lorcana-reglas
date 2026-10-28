@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 253 | **Última actualización:** 27 de octubre de 2026
+**Total de casos:** 253 | **Última actualización:** 28 de octubre de 2026
 
 ---
 
@@ -99,7 +99,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
 1. [Agotar personaje varias veces.md](<11.3. Costes y Requisitos/Agotar personaje varias veces.md>)
-2. [Belle - Exceptional Writer no reduce la canción que canta.md](<11.3. Costes y Requisitos/Belle - Exceptional Writer no reduce la canción que canta.md>)
+2. [Belle - Exceptional Writer: descuento, cantar y agotarse](<11.3. Costes y Requisitos/Belle - Exceptional Writer no reduce la canción que canta.md>) — Singer 3 no canta coste 5 por la reducción; agotarse por costes o efectos dispara durante tu turno y la canción que canta Belle termina antes de generar el descuento.
 3. [Cantar o jugar gratis cuenta como pagar 0 tinta.md](<11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta.md>)
 4. [Celia Mae no elige personaje si no paga el coste opcional.md](<11.3. Costes y Requisitos/Celia Mae no elige personaje si no paga el coste opcional.md>) **(NUEVO: ATTACK OF THE VINE)**
 5. [Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md](<11.3. Costes y Requisitos/Christopher Robin no se incluye a sí mismo en mazos de otras tintas.md>) **(NUEVO: ATTACK OF THE VINE)**
