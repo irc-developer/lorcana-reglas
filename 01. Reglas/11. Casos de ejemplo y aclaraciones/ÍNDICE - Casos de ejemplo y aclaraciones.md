@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 254 | **Última actualización:** 31 de octubre de 2026
+**Total de casos:** 255 | **Última actualización:** 31 de octubre de 2026
 
 ---
 
@@ -273,9 +273,9 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 
 ---
 
-### 11.7. Dudas por desarrollar (6 casos)
+### 11.7. Dudas por desarrollar (7 casos)
 
-Nombre provisional de la subsección. Los seis casos de esta carpeta ya están desarrollados, aunque el título de la sección siga pendiente de renombrarse.
+La subsección reúne seis casos desarrollados y una interacción pendiente de aclaración: Tod con retirada de daño sin «chosen».
 
 1. [Bolsa en multijugador con tres jugadores.md](<11.7. Dudas por desarrollar/Bolsa en multijugador con tres jugadores.md>)
 2. [Cada oponente en multijugador y orden de resolución.md](<11.7. Dudas por desarrollar/Cada oponente en multijugador y orden de resolución.md>)
@@ -283,6 +283,7 @@ Nombre provisional de la subsección. Los seis casos de esta carpeta ya están d
 4. [Ganar Ward antes de la segunda elección del mismo efecto.md](<11.7. Dudas por desarrollar/Ganar Ward antes de la segunda elección del mismo efecto.md>)
 5. [Moverse a una localización recién jugada.md](<11.7. Dudas por desarrollar/Moverse a una localización recién jugada.md>)
 6. [Flippant Taunt mantiene su efecto cuando su jugador abandona la partida](<11.7. Dudas por desarrollar/Flippant Taunt mantiene su efecto cuando su jugador abandona la partida.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+7. [Tod e I'm Never Not by Your Side - elección pendiente de aclaración](<11.7. Dudas por desarrollar/Tod e I'm Never Not by Your Side - elección pendiente de aclaración.md>) — Retirada de daño sin «chosen»: interacción pendiente; comparación con canciones que eligen y con movimiento.
 
 ---
 
@@ -386,16 +387,18 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 | **11.0 Timing y Resolución** | 44 | 17.3% |
 | **11.2 Zonas y Movimientos** | 26 | 10.2% |
 | **11.3 Costes y Requisitos** | 24 | 9.4% |
-| **11.4 Habilidades** | 38 | 15.0% |
-| **11.5 Keywords** | 21 | 8.3% |
-| **11.6 Interacciones Complejas** | 68 | 26.8% |
-| **11.7 Dudas por desarrollar** | 6 | 2.4% |
+| **11.4 Habilidades** | 38 | 14.9% |
+| **11.5 Keywords** | 21 | 8.2% |
+| **11.6 Interacciones Complejas** | 68 | 26.7% |
+| **11.7 Dudas por desarrollar** | 7 | 2.7% |
 | **11.8 Correcciones de jugadas** | 27 | 10.6% |
-| **TOTAL** | **254** | **100%** |
+| **TOTAL** | **255** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
+
+- **Tod y retirada de daño sin chosen**: [I'm Never Not by Your Side: elección pendiente de aclaración](<11.7. Dudas por desarrollar/Tod e I'm Never Not by Your Side - elección pendiente de aclaración.md>)
 
 ### Por mecánica de cartas
 - **Un Poco Loco con un personaje**: [Elegir dos es un requisito; no se devuelve el único personaje](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
