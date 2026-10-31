@@ -2,6 +2,8 @@
 
 Después de cantar [Remember Me](https://cards.lorcast.io/card/digital/large/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527), ¿puedo seguir jugando personajes desde la mano? Si también tengo a [The Horned King - Merciless Master](https://cards.lorcast.io/card/digital/large/crd_979b5517872f41dd902e486a8d50435f.avif?1783188492) agotado, ¿puedo usar **CAULDRON'S POWER** para evitar la restricción de nombres de la canción?
 
+Si canto Remember Me con [Mickey Mouse - Snowboard Ace](https://cards.lorcast.io/card/digital/large/crd_23f005944c784e158b9709de1c587d1e.avif?1770259608) y después lo destierro para activar [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649), ¿puedo volver a jugar esa misma carta desde el descarte con el objeto, suponiendo que aún no haya jugado un Mickey Mouse desde el descarte mediante la canción ese turno?
+
 ---
 
 ## ✅ Respuesta
@@ -32,9 +34,21 @@ Resolver Remember Me durante el turno rival, si algún efecto lo permite, no con
 
 ---
 
+### Retro Evolution Device puede volver a jugar al Mickey desterrado
+
+**Sí, puedes elegir ese mismo Mickey del descarte.** Cantar Remember Me no equivale a jugar a Mickey desde el descarte ni bloquea su nombre. Primero termina la canción; después, cuando puedas realizar tu siguiente acción de turno, activa TURN INTO DINOSAUR: agota el objeto, paga 1 de tinta y destierra a Mickey como parte del coste.
+
+Al resolver el efecto del objeto, Mickey ya está en el descarte. Remember Me permite jugarlo desde esa zona y Retro Evolution Device aporta el coste gratuito. El objeto admite un personaje con coste **hasta 2 más** que el desterrado, no exige uno distinto ni exactamente 2 más caro. Este Mickey cuesta 6: cabe dentro del máximo de 8, aunque sea la misma carta física que acabas de desterrar.
+
+Mickey entra **agotado** y, al haberlo jugado desde el descarte mediante Remember Me, su nombre queda bloqueado para las siguientes jugadas de ese turno. Si ya habías jugado desde el descarte un personaje llamado Mickey Mouse con la canción activa, no puedes volver a jugarlo con el objeto: jugar gratis no elimina esa prohibición.
+
+SLIPPERY SLOPE se dispara una vez al salir Mickey de la zona de juego y otra vez al volver a jugarlo. Ambos disparos esperan en la bolsa hasta que termina de resolverse la habilidad del objeto. Después, cada uno hace que cada oponente elija y descarte una carta, en la medida en que pueda. No resuelves el descarte por salir antes de volver a jugar a Mickey.
+
+---
+
 ## 📘 Referencias
 
-[[1.2. Regla de oro (Golden Rules)|1.2.1–1.2.2: el texto de carta puede modificar la regla general, pero impedir prevalece sobre permitir]].
+- [[1.2. Regla de oro (Golden Rules)|1.2.1–1.2.2: el texto de carta puede modificar la regla general, pero impedir prevalece sobre permitir]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.2–4.3.4: procedimiento, pago, entrada en juego y resolución posterior de disparos]].
 - [[5.2. Partes de una carta (Parts of a Card)|5.2.6: al comparar nombres, se ignora la versión]].
 - [[6.1. General (General)|6.1.13.4–6.1.13.5: duración de «este turno» y condición «mientras»]].
@@ -43,7 +57,9 @@ Resolver Remember Me durante el turno rival, si algún efecto lo permite, no con
 - [[8.12. Cantar Juntos (Sing Together)|8.12.1–8.12.2: coste alternativo de cantar con personajes preparados cuyo coste total alcance el umbral]].
 - [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1–1.8.3: comprobaciones de estado y bolsa tras completar la acción]].
 
-[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.2.2, 4.3.2–4.3.4, 5.2.6, 6.1.13.4–6.1.13.5, 6.4.1–6.4.2, 6.7.9 y 8.12.1–8.12.2; pp. 3, 12–13, 22, 29, 32, 37 y 43.
+- [[4.4. Usar una habilidad activada (Use an Activated Ability)|CR 4.4.3.4–4.4.5: pagar el destierro, resolver el objeto y después resolver los disparos]].
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|CR 6.2.3 y 6.2.6: añadir a la bolsa los disparos independientes de jugar a Mickey y de su salida]].
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=14), CR 1.2.2 (p. 3), 4.3.2–4.3.4 (p. 13), 4.4.3.4–4.4.5 (p. 14), 5.2.6 (p. 22), 6.1.7 y 6.1.13.4–6.1.13.5 (pp. 27–29), 6.2.3 y 6.2.6 (pp. 30–31), 6.4 (p. 32), 6.7.9 (p. 37) y 8.12 (pp. 43–44).
 
 ---
 

@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 253 | **Última actualización:** 28 de octubre de 2026
+**Total de casos:** 254 | **Última actualización:** 31 de octubre de 2026
 
 ---
 
@@ -21,7 +21,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 5. [Cumplir parte de una habilidad.md](<11.0. Timing y Resolución/Cumplir parte de una habilidad.md>)
 6. [Derrota, timing mazo vacío.md](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>) — Incluye Maleficent & Diablo: FOOLS! repone cinco personajes y evita la derrota si quedan cartas al terminar el turno.
 7. [Disparar habilidades mientras se resuelve una carta.md](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>) — Incluye BIG HIT de Héctor y Tremaine frente a las Musas: los disparos esperan a la acción; Jessie no reduce Fuerza hasta que termina Intimidation Tactics.
-8. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
+8. [Elegir múltiples objetivos.md](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>) — Incluye Un Poco Loco con un solo personaje: no existe una selección legal de dos.
 9. [Elegir un personaje agotado por restricción.md](<11.0. Timing y Resolución/Elegir un personaje agotado por restricción.md>)
 10. [Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
 11. [Get to Safety! roba al recuperar Sleepy Hollow.md](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
@@ -80,7 +80,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 13. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
 14. [Look What You've Done no se dispara al terminar de resolverse.md](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>) **(NUEVO: ATTACK OF THE VINE)**
 15. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
-16. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>) — Incluye ambos permisos activos con The Horned King: se aplican conjuntamente y no puedes elegir uno para evitar la restricción de nombres.
+16. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>) — The Horned King no evita la restricción de nombres; Retro Evolution Device puede volver a jugar al mismo Mickey desterrado si su nombre sigue permitido.
 17. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
 18. [Sulley & Boo permite jugar las cartas que estaban boca abajo.md](<11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md>) **(NUEVO: ATTACK OF THE VINE)**
 19. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
@@ -125,47 +125,48 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 
 ---
 
-### 11.4. Habilidades (37 casos)
+### 11.4. Habilidades (38 casos)
 
 Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 1. [Aplicación de múltiples efectos de reemplazo (Escudos).md](<11.4. Habilidades/Aplicación de múltiples efectos de reemplazo (Escudos).md>)
-2. [Ariel Ethereal Voice, boost y Beyond the Horizon.md](<11.4. Habilidades/Ariel Ethereal Voice, boost y Beyond the Horizon.md>)
+2. [Ariel Ethereal Voice, boost y Beyond the Horizon.md](<11.4. Habilidades/Ariel Ethereal Voice, boost y Beyond the Horizon.md>) — Incluye Strike A Good Match: primero robas dos y descartas, después puedes robar con Ariel.
 3. [Cartas que al abandonar el juego hacen cosas.md](<11.4. Habilidades/Cartas que al abandonar el juego hacen cosas.md>)
-4. [Efecto de Tiana al enderezar un personaje.md](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>)
-5. [Elsa's Ice Palace e Ice Artisan, orden de resolución desde bolsa.md](<11.4. Habilidades/Elsa's Ice Palace e Ice Artisan, orden de resolución desde bolsa.md>)
-6. [Enderezar un personaje.md](<11.4. Habilidades/Enderezar un personaje.md>)
-7. [Escudos (replacement) vs Resist.md](<11.4. Habilidades/Escudos (replacement) vs Resist.md>)
-8. [Ganar palabra clave cuando 'acción de turno'.md](<11.4. Habilidades/Ganar palabra clave cuando 'acción de turno'.md>)
-9. [Habilidades estáticas globales y zonas.md](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>)
-10. [Habilidades estáticas presentes en juego y sus interacciones.md](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>)
-11. [Habilidades que contienen 'they'.md](<11.4. Habilidades/Habilidades que contienen 'they'.md>)
-12. [Habilidades y sus efectos.md](<11.4. Habilidades/Habilidades y sus efectos.md>)
-13. [Heihei - Created by the Vine dispara por su propia clasificación.md](<11.4. Habilidades/Heihei - Created by the Vine dispara por su propia clasificación.md>) **(NUEVO: ATTACK OF THE VINE)**
-14. [Let The Storm Rage On sobre Angel - Experiment 624.md](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
-15. [Merida - Steady Aim con Grab Your Sword y Ward.md](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>)
-16. [Merida - Steady Aim y Resist.md](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
-17. [Merida - Wisp Conjurer entra ya agotada.md](<11.4. Habilidades/Merida - Wisp Conjurer entra ya agotada.md>) **(NUEVO: ATTACK OF THE VINE)**
-18. [Next Stop Olympus, dos copias y lores.md](<11.4. Habilidades/Next Stop Olympus, dos copias y lores.md>)
-19. [No poder ganar lore por efecto estático.md](<11.4. Habilidades/No poder ganar lore por efecto estático.md>)
-20. [One and Only compara el nombre sin la versión.md](<11.4. Habilidades/One and Only compara el nombre sin la versión.md>) **(NUEVO: ATTACK OF THE VINE)**
-21. [Performance Review y secado - cuando puedes agotar.md](<11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md>)
-22. [Pocahontas – Following the Wind y el lore al questear.md](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
-23. [Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>)
-24. [Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md](<11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md>)
-25. [Roo - Hunny Rogue cuenta otra copia como another Hunny.md](<11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
-26. [Shift y Webby's Diary - diferencia entre encima y debajo.md](<11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md>)
-27. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
-28. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
-29. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
-30. [Wasabi - Called into Battle y another chosen character.md](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) — Incluye Rapunzel - Outgoing Artist: elegir otro personaje en juego y revelar una carta de la mano.
-31. [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
-32. [Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md](<11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md>) **(NUEVO: ATTACK OF THE VINE)**
-33. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
-34. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)** — Merlin’s Wand conserva el nombre compartido: Peter Pan & Tinker Bell sí recibe el descuento; Tinker Bell individual no.
-35. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
-36. [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-37. [Baymax y Higitus Figitus - reemplazo parcial y límites por evento](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>) — Criterio provisional para varias gotas; reemplazos idénticos y rechazo opcional pendiente de aclaración.
+4. [Cheshire Cat - Inexplicable y el destino del daño.md](<11.4. Habilidades/Cheshire Cat - Inexplicable y el destino del daño.md>)
+5. [Efecto de Tiana al enderezar un personaje.md](<11.4. Habilidades/Efecto de Tiana al enderezar un personaje.md>)
+6. [Elsa's Ice Palace e Ice Artisan, orden de resolución desde bolsa.md](<11.4. Habilidades/Elsa's Ice Palace e Ice Artisan, orden de resolución desde bolsa.md>)
+7. [Enderezar un personaje.md](<11.4. Habilidades/Enderezar un personaje.md>)
+8. [Escudos (replacement) vs Resist.md](<11.4. Habilidades/Escudos (replacement) vs Resist.md>)
+9. [Ganar palabra clave cuando 'acción de turno'.md](<11.4. Habilidades/Ganar palabra clave cuando 'acción de turno'.md>)
+10. [Habilidades estáticas globales y zonas.md](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>)
+11. [Habilidades estáticas presentes en juego y sus interacciones.md](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>)
+12. [Habilidades que contienen 'they'.md](<11.4. Habilidades/Habilidades que contienen 'they'.md>)
+13. [Habilidades y sus efectos.md](<11.4. Habilidades/Habilidades y sus efectos.md>)
+14. [Heihei - Created by the Vine dispara por su propia clasificación.md](<11.4. Habilidades/Heihei - Created by the Vine dispara por su propia clasificación.md>) **(NUEVO: ATTACK OF THE VINE)**
+15. [Let The Storm Rage On sobre Angel - Experiment 624.md](<11.4. Habilidades/Let The Storm Rage On sobre Angel - Experiment 624.md>)
+16. [Merida - Steady Aim con Grab Your Sword y Ward.md](<11.4. Habilidades/Merida - Steady Aim con Grab Your Sword y Ward.md>)
+17. [Merida - Steady Aim y Resist.md](<11.4. Habilidades/Merida - Steady Aim y Resist.md>)
+18. [Merida - Wisp Conjurer entra ya agotada.md](<11.4. Habilidades/Merida - Wisp Conjurer entra ya agotada.md>) **(NUEVO: ATTACK OF THE VINE)**
+19. [Next Stop Olympus, dos copias y lores.md](<11.4. Habilidades/Next Stop Olympus, dos copias y lores.md>)
+20. [No poder ganar lore por efecto estático.md](<11.4. Habilidades/No poder ganar lore por efecto estático.md>)
+21. [One and Only compara el nombre sin la versión.md](<11.4. Habilidades/One and Only compara el nombre sin la versión.md>) **(NUEVO: ATTACK OF THE VINE)**
+22. [Performance Review y secado - cuando puedes agotar.md](<11.4. Habilidades/Performance Review y secado - cuando puedes agotar.md>)
+23. [Pocahontas – Following the Wind y el lore al questear.md](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
+24. [Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>)
+25. [Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md](<11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent.md>)
+26. [Roo - Hunny Rogue cuenta otra copia como another Hunny.md](<11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
+27. [Shift y Webby's Diary - diferencia entre encima y debajo.md](<11.4. Habilidades/Shift y Webby's Diary - diferencia entre encima y debajo.md>)
+28. [Tener una habilidad por otro personaje.md](<11.4. Habilidades/Tener una habilidad por otro personaje.md>)
+29. [The Black Cauldron - múltiples activaciones en un turno.md](<11.4. Habilidades/The Black Cauldron - múltiples activaciones en un turno.md>)
+30. [Uso de pronombres neutros en textos de cartas (they, their, them).md](<11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them).md>)
+31. [Wasabi - Called into Battle y another chosen character.md](<11.4. Habilidades/Wasabi - Called into Battle y another chosen character.md>) — Incluye Rapunzel - Outgoing Artist: elegir otro personaje en juego y revelar una carta de la mano.
+32. [Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md](<11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny.md>) **(NUEVO: ATTACK OF THE VINE)**
+33. [Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md](<11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes.md>) **(NUEVO: ATTACK OF THE VINE)**
+34. [With a Few Good Friends cuenta tipos de tinta y no símbolos.md](<11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos.md>) **(NUEVO: ATTACK OF THE VINE)**
+35. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)** — Merlin’s Wand conserva el nombre compartido: Peter Pan & Tinker Bell sí recibe el descuento; Tinker Bell individual no.
+36. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
+37. [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+38. [Baymax y Higitus Figitus - reemplazo parcial y límites por evento](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>) — Criterio provisional para varias gotas; reemplazos idénticos y rechazo opcional pendiente de aclaración.
 
 ---
 
@@ -382,21 +383,25 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 44 | 17.4% |
-| **11.2 Zonas y Movimientos** | 26 | 10.3% |
-| **11.3 Costes y Requisitos** | 24 | 9.5% |
-| **11.4 Habilidades** | 37 | 14.6% |
+| **11.0 Timing y Resolución** | 44 | 17.3% |
+| **11.2 Zonas y Movimientos** | 26 | 10.2% |
+| **11.3 Costes y Requisitos** | 24 | 9.4% |
+| **11.4 Habilidades** | 38 | 15.0% |
 | **11.5 Keywords** | 21 | 8.3% |
-| **11.6 Interacciones Complejas** | 68 | 26.9% |
+| **11.6 Interacciones Complejas** | 68 | 26.8% |
 | **11.7 Dudas por desarrollar** | 6 | 2.4% |
-| **11.8 Correcciones de jugadas** | 27 | 10.7% |
-| **TOTAL** | **253** | **100%** |
+| **11.8 Correcciones de jugadas** | 27 | 10.6% |
+| **TOTAL** | **254** | **100%** |
 
 ---
 
 ## 🔍 Búsqueda por temática
 
 ### Por mecánica de cartas
+- **Un Poco Loco con un personaje**: [Elegir dos es un requisito; no se devuelve el único personaje](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
+- **Remember Me y Retro Evolution Device**: [Volver a jugar al Mickey desterrado y bloquear su nombre](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
+- **Cheshire Cat - Inexplicable**: [El origen puede ser rival; el destino siempre es rival del jugador que genera el efecto](<11.4. Habilidades/Cheshire Cat - Inexplicable y el destino del daño.md>)
+- **Ariel y Strike A Good Match**: [El robo adicional espera a los dos robos y al descarte de la canción](<11.4. Habilidades/Ariel Ethereal Voice, boost y Beyond the Horizon.md>)
 - **Demona y Flash**: [Corregir el desafío no devuelve automáticamente el descarte ni permite retirar a Demona](<11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior.md>)
 - **Moana y Princesas preparadas**: [WE CAN FIX IT solo restringe al grupo de Princesas agotadas que prepara](<11.5. Keywords/Aclaraciones de Fabled.md>)
 - **Gotas de tinta y dados**: [Representación física y separación del daño](<11.6. Interacciones Complejas/Gotas de tinta - dados y representación de contadores.md>)
