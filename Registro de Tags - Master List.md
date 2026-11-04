@@ -2,9 +2,9 @@
 
 **Uso**: Este es el archivo de referencia OBLIGATORIO para todos los tags usados en casos de ejemplo. Antes de usar un tag, **verificar que está en este registro**. Si es nuevo, agregarlo aquí en orden alfabético.
 
-**Última actualización**: 9 de octubre de 2026
+**Última actualización**: 4 de noviembre de 2026
 
-**Total de tags**: 98
+**Total de tags**: 99
 
 ---
 
@@ -133,6 +133,7 @@ Los tags de cartas se crean con el nombre exacto en minúscula con guiones:
 | `#pudge` | Pudge | Dudas específicas de esa carta |
 | `#rivera-family-photo` | Rivera Family Photo | Condición en juego de MEND THE PHOTO |
 | `#strange-things` | Strange Things | Dudas específicas de esa carta |
+| `#the-cold-never-bothered-me` | The Cold Never Bothered Me | Del mazo al descarte con MEND THE PHOTO |
 | `#the-torn-corner` | The Torn Corner | MEND THE PHOTO desde el descarte |
 | `#this-growing-pressure` | This Growing Pressure | Dudas específicas de esa carta |
 | `#wasabi-called-into-battle` | Wasabi - Called into Battle | Elección de otro personaje con Twin Blades |

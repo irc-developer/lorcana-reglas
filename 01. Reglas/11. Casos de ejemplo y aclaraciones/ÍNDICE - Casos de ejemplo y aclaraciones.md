@@ -76,7 +76,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 9. [Escoger robar la carta superior o no.md](<11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md>)
 10. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) — Incluye Flash y Madam Mim - Fox: Mim recupera Rush cuando Flash vuelve a la mano.
 11. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
-12. [Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
+12. [Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>) — Incluye The Cold Never Bothered Me: mirar no cambia la zona de origen y cada copia genera su disparo.
 13. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
 14. [Look What You've Done no se dispara al terminar de resolverse.md](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>) **(NUEVO: ATTACK OF THE VINE)**
 15. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
@@ -415,7 +415,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
 - **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Get to Safety! y Sleepy Hollow**: [Recuperar el puente desde el descarte sí permite robar; ejemplo oficial de CR 6.7.8](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
-- **Héctor Rivera y The Torn Corner**: [BIG HIT sí dispara MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
+- **Héctor Rivera, The Cold Never Bothered Me y The Torn Corner**: [Ambos efectos disparan MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Tod y The Horseman Strikes!**: [Rechazar el destierro no elige a Tod; aceptarlo lo destierra antes de preparar](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Maleficent & Diablo - Evil Incarnate**: [FOOLS! repone el mazo tras un robo fallido](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
 - **Fergus y Sleepy Hollow**: [Desterrar y recuperar el puente da 4 lore en total; Fergus queda agotado y fuera de la localización](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
@@ -452,7 +452,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Hyperia City, desde 16/10/2026**: [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>)
 - **Hyperia City, desde 16/10/2026**: [Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron](<11.2. Zonas y Movimientos/Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron.md>)
 - **Jugar una localización durante una resolución**: [Sleepy Hollow entra antes de comprobar el robo de Get to Safety!; los disparos esperan](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
-- **Del mazo al descarte y condición secundaria**: [Mirar cartas con Héctor no cambia su zona; The Torn Corner puede jugarse gratis con la foto en juego](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
+- **Del mazo al descarte y condición secundaria**: [Mirar cartas con Héctor o The Cold Never Bothered Me no cambia su zona; The Torn Corner puede jugarse gratis con la foto en juego](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Elección dentro de un efecto opcional**: [Rechazar «may» omite la elección y no dispara a Tod](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
 - **Mazo vacío y derrota al terminar el turno**: [Un robo fallido no impide salvarse con FOOLS!; importa conservar cartas al final](<11.0. Timing y Resolución/Derrota, timing mazo vacío.md>)
 - **Un disparo requiere un nuevo evento**: [Recuperar Sleepy Hollow no repite la aventura ni el agotamiento de Fergus](<11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle.md>)
