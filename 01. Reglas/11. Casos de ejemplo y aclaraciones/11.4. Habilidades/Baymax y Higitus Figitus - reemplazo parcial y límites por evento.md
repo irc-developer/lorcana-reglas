@@ -8,13 +8,13 @@ Además, si un reemplazo opcional permite robar una carta en lugar de poner una 
 
 ## ✅ Respuesta
 
-**La lectura mejor sustentada para Baymax es reemplazar una gota: obtienes dos gotas y pones una carta superior del mazo en el pozo de tinta boca abajo y agotada. Es un criterio provisional sobre el alcance de ese reemplazo, pendiente de una aclaración específica.** Se presupone que hay una carta disponible en el mazo y que aceptas el «may» de SUPERCHARGE.
+**Baymax reemplaza una sola gota: obtienes dos gotas y pones la carta superior del mazo en el pozo de tinta boca abajo y agotada. Kyle (RAV_Kyle) ha confirmado oficialmente este resultado con las reglas actuales.** Se presupone que hay una carta disponible en el mazo y que aceptas el «may» de SUPERCHARGE.
+
+Kyle también aclara que este funcionamiento **no era intencionado** y que se modificará en la próxima publicación de las reglas. Su mensaje no concreta la nueva redacción ni el resultado que establecerá. Ese anuncio no cambia por sí solo el resultado vigente.
 
 SUPERCHARGE es un **efecto de reemplazo**, identificado por «If you would… instead». Se aplica durante la resolución de la canción, antes de obtener la gota que sustituye. No es una habilidad disparada ni se añade a la bolsa; por eso la pregunta técnica es cuántas veces puede aplicarse el reemplazo, no cuántas veces se dispara.
 
 CR 6.5.1 permite reemplazar un evento parcialmente. CR 6.5.2 considera la resolución completa un único evento, y CR 6.5.5 impide volver a aplicar el mismo reemplazo a ese evento. SUPERCHARGE sustituye la obtención de una gota por la colocación de una carta; aplicarlo una vez a una de las tres deja las otras dos sin reemplazar.
-
-La limitación es que las CR no desarrollan expresamente cómo se delimita esa parte de una instrucción que concede varios contadores a la vez. Su ejemplo de reemplazo parcial separa efectos de una acción, no unidades de una misma cantidad. Por eso el resultado de una carta y dos gotas no debe presentarse como una respuesta oficial específica ya confirmada. Tampoco hay fundamento suficiente para convertir cada gota en un evento independiente y aplicar SUPERCHARGE tres veces, ni para afirmar que obtener varias excluye automáticamente la condición singular de Baymax.
 
 Si rechazas SUPERCHARGE para toda esta obtención, conservas la instrucción de obtener tres gotas.
 
@@ -22,17 +22,17 @@ Si rechazas SUPERCHARGE para toda esta obtención, conservas la instrucción de 
 
 **CR 1.12.2 ordena expresamente robar las cartas una a una.** Robar tres cartas produce tres robos individuales: una habilidad que se dispare cada vez que robas una carta puede dispararse tres veces, si se cumplen sus demás condiciones. Esos disparos esperan en la bolsa hasta que termine el efecto en resolución, conforme a CR 7.7.3.1.
 
-La regla de las gotas, CR 1.13.1.2, explica cómo se generan y se utilizan, pero no contiene una instrucción equivalente de obtenerlas una a una. Colocar físicamente tres marcadores por separado no demuestra que haya tres eventos de reglas. La comparación con el robo no permite aplicar SUPERCHARGE tres veces ni resuelve por sí sola el alcance del reemplazo parcial.
+La regla de las gotas, CR 1.13.1.2, explica cómo se generan y se utilizan, pero no contiene una instrucción equivalente de obtenerlas una a una. Colocar físicamente tres marcadores por separado no crea tres eventos de reglas. La aclaración de Kyle confirma que SUPERCHARGE solo reemplaza una gota en esta generación múltiple.
 
 ### Dos Baymax: no acumulan el mismo reemplazo
 
-**Dos instancias del mismo reemplazo no pueden aplicarse al mismo evento**, conforme a CR 6.5.8. El jugador afectado elige una; las restantes dejan de existir. Dos Baymax no autorizan reemplazar dos gotas de esta canción. Bajo el criterio provisional anterior, el resultado sigue siendo una carta en el pozo y dos gotas.
+**Dos instancias del mismo reemplazo no pueden aplicarse al mismo evento**, conforme a CR 6.5.8. El jugador afectado elige una; las restantes dejan de existir. Dos Baymax no autorizan reemplazar dos gotas de esta canción: con las reglas actuales, el resultado sigue siendo una carta en el pozo y dos gotas.
 
 «Dejan de existir» se refiere a las instancias del efecto, no a desterrar a Baymax ni a borrar su habilidad impresa. No convierte SUPERCHARGE en una habilidad de un solo uso para toda la partida. El ejemplo de [[Rapunzel - dos escudos de Act of Kindness se consumen a la vez|las protecciones de Rapunzel]] trata efectos temporales ya creados: la segunda protección no se guarda para otro daño.
 
 ### Rechazar primero y aceptar después dentro del mismo evento
 
-**Este supuesto queda pendiente de aclaración específica.** CR 6.5.5 concede una sola oportunidad de reemplazar un evento y prohíbe repetir el reemplazo una vez aplicado. La lectura restrictiva de «una sola oportunidad» conduce a no poder rechazarlo en su primera oportunidad y reservarlo para después dentro de ese mismo evento.
+**Este supuesto queda pendiente de aclaración específica; el mensaje de Kyle sobre Baymax no lo aborda.** CR 6.5.5 concede una sola oportunidad de reemplazar un evento y prohíbe repetir el reemplazo una vez aplicado. La lectura restrictiva de «una sola oportunidad» conduce a no poder rechazarlo en su primera oportunidad y reservarlo para después dentro de ese mismo evento.
 
 Sin embargo, la regla no desarrolla el caso de rechazar un «may» antes de haber aplicado el reemplazo, ni establece una secuencia de oportunidades para cada carta de ese movimiento múltiple. CR 6.1.4 explica la opcionalidad, pero no completa ese procedimiento. No debe asumirse que las tres cartas ofrecen tres decisiones sucesivas independientes.
 
@@ -42,6 +42,7 @@ Para resolver una partida que dependa de esa distinción, debe solicitarse un cr
 
 ## 📘 Referencias
 
+- [Kyle (RAV_Kyle), aclaración oficial en Discord, mensaje «Update»](https://github.com/irc-developer/lorcana-reglas/blob/main/Documentacion%20Oficial/Discord/Kyle-Baymax-reemplazo.md): Baymax reemplaza una gota cuando se generan varias; funcionamiento no intencionado y cambio anunciado para la próxima publicación de reglas. El mensaje no especifica el funcionamiento futuro.
 - [[6.5. Efectos de Reemplazo (Replacement Effects)|CR 6.5.1–6.5.5 y 6.5.8 — Evento, reemplazo parcial, una oportunidad e instancias idénticas]].
 - [[6.1. General (General)|CR 6.1.4 — Efectos opcionales]] y [[1.6 Habilidades (Abilities)|CR 1.6.1 — Fuente de una habilidad]].
 - [[1.12 Robo (Drawing)|CR 1.12.2 — Robos individuales]], [[1.13. Contadores (Counters)|CR 1.13.1.2 — Gotas de tinta]] y [[7.7. Bolsa (Bag)|CR 7.7.3.1 — Espera de los disparos durante una resolución]].

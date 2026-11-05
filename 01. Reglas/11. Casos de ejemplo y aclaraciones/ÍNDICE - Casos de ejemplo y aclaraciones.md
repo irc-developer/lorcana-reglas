@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 255 | **Última actualización:** 4 de noviembre de 2026
+**Total de casos:** 255 | **Última actualización:** 5 de noviembre de 2026
 
 ---
 
@@ -166,7 +166,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 35. [Bruno y equipos con varios nombres.md](<11.4. Habilidades/Bruno y equipos con varios nombres.md>) **(DISCORD 2026)** — Merlin’s Wand conserva el nombre compartido: Peter Pan & Tinker Bell sí recibe el descuento; Tinker Bell individual no.
 36. [Source of the Vine y responsabilidad de anunciar.md](<11.4. Habilidades/Source of the Vine y responsabilidad de anunciar.md>) **(DISCORD 2026)**
 37. [Jukebox requiere otra canción con el mismo nombre en el descarte](<11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-38. [Baymax y Higitus Figitus - reemplazo parcial y límites por evento](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>) — Criterio provisional para varias gotas; reemplazos idénticos y rechazo opcional pendiente de aclaración.
+38. [Baymax y Higitus Figitus - reemplazo parcial y límites por evento](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>) — Kyle confirma una sola gota con las reglas actuales y anuncia un cambio futuro; rechazo opcional pendiente de aclaración.
 
 ---
 
@@ -409,7 +409,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Moana y Princesas preparadas**: [WE CAN FIX IT solo restringe al grupo de Princesas agotadas que prepara](<11.5. Keywords/Aclaraciones de Fabled.md>)
 - **Gotas de tinta y dados**: [Representación física y separación del daño](<11.6. Interacciones Complejas/Gotas de tinta - dados y representación de contadores.md>)
 - **Wasabi y Shere Khan**: [La gota puede elevar Twin Blades a 6 si Wasabi sigue en juego](<11.0. Timing y Resolución/Wasabi y Shere Khan - gota antes de resolver Twin Blades.md>)
-- **Baymax e Higitus Figitus**: [Varias gotas dentro de un evento: criterio provisional y cuestiones pendientes](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>)
+- **Baymax e Higitus Figitus**: [Una sola gota: aclaración oficial de Kyle y cambio futuro anunciado](<11.4. Habilidades/Baymax y Higitus Figitus - reemplazo parcial y límites por evento.md>)
 - **Jessie e Intimidation Tactics**: [La reducción de Fuerza espera a que termine la acción](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Merlin’s Wand y equipos**: [El descuento sigue el nombre compartido al revelar las dos cartas](<11.4. Habilidades/Bruno y equipos con varios nombres.md>)
 - **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
