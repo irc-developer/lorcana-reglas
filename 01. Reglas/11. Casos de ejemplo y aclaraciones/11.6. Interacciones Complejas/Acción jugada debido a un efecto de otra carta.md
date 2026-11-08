@@ -6,6 +6,8 @@ Con [Alan-a-Dale - Rockin' Rooster](https://cards.lorcast.io/card/digital/large/
 
 Con [Max Goof - Chart Topper](https://cards.lorcast.io/card/digital/large/crd_520397ac5c7a4811b50c9adea4f2f1c9.avif?1755540594), al jugar [You're Welcome](https://cards.lorcast.io/card/digital/large/crd_c16e96de6fd24d58969aa7429dcbbdcc.avif?1723917209) desde un efecto, ¿se aplica primero "fondo del mazo" y luego "barajar"?
 
+Cuando Max hace misión y juega gratis una canción de coste 4 o menos desde el descarte, ¿esa jugada suma una carta para el robo de fin de turno de [Milo Thatch - Getting His Hands Dirty](https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777688057)?
+
 Si [Powerline - World's Greatest Rock Star](https://cards.lorcast.io/card/digital/large/crd_3a5f83e2f53f4bf0b0d621014cd8f6cf.avif?1755540821) permite jugar [Fantastical and Magical](https://cards.lorcast.io/card/digital/large/crd_9dfb87c4e43b49619e138291a5c9dbea.avif?1747508868), ¿puede usarse su coste alternativo de Sing Together al jugarla de este modo?
 
 Si [Kristoff's Lute](https://cards.lorcast.io/card/digital/large/crd_ec94f5c4a31b40c99f5b421ac7dd3acf.avif?1770259798) revela una canción en la parte superior del mazo, ¿puede jugarse cantándola en vez de pagar su coste de tinta?
@@ -19,6 +21,10 @@ Con reglas actuales, [We Know The Way](https://cards.lorcast.io/card/digital/lar
 
 ### Caso B — **Sí**
 Se respeta el orden escrito del efecto: primero la parte de poner en el fondo del mazo y después la de barajar.
+
+**La jugada con Max no suma una carta para Milo.** La canción sale del descarte al jugarse y **NUMBER ONE HIT** sustituye su regreso al descarte por enviarla al fondo del mazo. La entrada que habría ocurrido al jugar una acción normal queda reemplazada.
+
+Al resolver **PRACTICAL KNOWLEDGE** al final del turno, Milo comprueba si al menos dos cartas entraron en tu descarte durante ese turno. Por ejemplo, si jugaste la canción desde la mano y fue al descarte este turno, esa primera entrada sí cuenta aunque después Max la saque. Si la canción ya estaba allí al empezar el turno, jugarla con Max aporta cero. Una carta distinta que la propia canción ponga en tu descarte sí puede contar.
 
 ### Caso C — **No**
 MASH-UP de Powerline permite jugar la canción **gratis**. Al elegir ese coste alternativo no puedes sustituirlo por Sing Together ni cantar la canción para generar disparos de cantar.
@@ -37,6 +43,9 @@ Un permiso que diga «como si estuviera en tu mano», como el del caso D, es dif
 - [[4.3. Jugar una carta (Play a Card)|4.3.2.2. Modo de juego]]
 - [[1.5 Costes (Costs)|1.5.5.1. Cantar es un coste alternativo]]
 - [[4.3. Jugar una carta (Play a Card)|4.3.3.2. Acciones]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4. El evento reemplazado no ocurre]]
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. La condición secundaria se comprueba al resolver]]
+- [Comprehensive Rules 2.3.0, pp. 12–13](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=12), reglas 3.4.1.1 y 4.3.3.2, y [pp. 30–33](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30), reglas 6.2.4 y 6.5.4.
 - [[5.4. Acciones (Actions)|5.4.4.2. Las canciones permiten pagar un coste alternativo]]
 - [[8.11. Cantante (Singer)|8.11.1. Singer permite pagar ese coste alternativo]]
 - [[8.12. Cantar Juntos (Sing Together)|8.12.1. Definición]]
@@ -56,4 +65,4 @@ Un permiso que diga «como si estuviera en tu mano», como el del caso D, es dif
 
 ## 🏷️ Tags
 
-#turn-actions #bag #alternate-cost #play-card #resolution #singing
+#turn-actions #bag #alternate-cost #play-card #resolution #singing #discard #end-of-turn #replacement-effect

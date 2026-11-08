@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 256 | **Última actualización:** 6 de noviembre de 2026
+**Total de casos:** 256 | **Última actualización:** 8 de noviembre de 2026
 
 ---
 
@@ -203,7 +203,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
-1. [Acción jugada debido a un efecto de otra carta.md](<11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta.md>)
+1. [Acción jugada debido a un efecto de otra carta.md](<11.6. Interacciones Complejas/Acción jugada debido a un efecto de otra carta.md>) — Incluye Max Goof y el conteo del descarte de Milo.
 2. [Cálculo de fuerza con Tiana y Desafiador.md](<11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador.md>)
 3. [Carta multicolor cumple efectos de uno de sus colores.md](<11.6. Interacciones Complejas/Carta multicolor cumple efectos de uno de sus colores.md>)
 4. [Cinderella - Dream Come True y múltiples princesas.md](<11.6. Interacciones Complejas/Cinderella - Dream Come True y múltiples princesas.md>)
