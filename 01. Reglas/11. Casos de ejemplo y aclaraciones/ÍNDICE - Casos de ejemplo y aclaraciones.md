@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 256 | **Última actualización:** 8 de noviembre de 2026
+**Total de casos:** 256 | **Última actualización:** 9 de noviembre de 2026
 
 ---
 
@@ -113,7 +113,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 12. [Jugar un personaje gratis no permite usar Shift.md](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>)
 13. [Jugar una carta con shift reduciendo su coste (incluso gratis).md](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>)
 14. [Pagar costes en la fase de final de turno.md](<11.3. Costes y Requisitos/Pagar costes en la fase de final de turno.md>)
-15. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>)
+15. [Pagar un coste y resistir.md](<11.3. Costes y Requisitos/Pagar un coste y resistir.md>) — Incluye cómo Shere Khan - Fierce and Furious se prepara con WILD RAGE aunque Resist reduzca el daño a 0.
 16. [Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md](<11.3. Costes y Requisitos/Rc - Remote-Controlled Car, quest por efecto y lore sin quest.md>)
 17. [Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md](<11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow.md>)
 18. [Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md](<11.3. Costes y Requisitos/Scrooge McDuck - Resourceful Miser desde The Black Cauldron.md>)
