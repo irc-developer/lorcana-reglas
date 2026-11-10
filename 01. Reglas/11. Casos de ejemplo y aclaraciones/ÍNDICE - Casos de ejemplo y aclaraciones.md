@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 256 | **Última actualización:** 9 de noviembre de 2026
+**Total de casos:** 256 | **Última actualización:** 10 de noviembre de 2026
 
 ---
 
@@ -139,7 +139,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 7. [Enderezar un personaje.md](<11.4. Habilidades/Enderezar un personaje.md>)
 8. [Escudos (replacement) vs Resist.md](<11.4. Habilidades/Escudos (replacement) vs Resist.md>)
 9. [Ganar palabra clave cuando 'acción de turno'.md](<11.4. Habilidades/Ganar palabra clave cuando 'acción de turno'.md>)
-10. [Habilidades estáticas globales y zonas.md](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>)
+10. [Habilidades estáticas globales y zonas.md](<11.4. Habilidades/Habilidades estáticas globales y zonas.md>) — Incluye Mickey Mouse - Amber Champion y por qué Never Too Far Apart no puede obtenerlo del mazo.
 11. [Habilidades estáticas presentes en juego y sus interacciones.md](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>)
 12. [Habilidades que contienen 'they'.md](<11.4. Habilidades/Habilidades que contienen 'they'.md>)
 13. [Habilidades y sus efectos.md](<11.4. Habilidades/Habilidades y sus efectos.md>)
