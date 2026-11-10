@@ -13,6 +13,7 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[2]
 CASOS = "01. Reglas/11. Casos de ejemplo y aclaraciones/"
+CASOS_EN = "01.1.a Official English Reference – Unmodified/Rules Q&A/"
 RAIZ_EDITORIAL = {"Empecemos.md", "Registro de Tags - Master List.md",
                   "02. Listado de Cartas/Cartas de Lorcana.md"}
 
@@ -41,7 +42,7 @@ def ruta_editorial(root, nombre, perfil="dudas"):
     if any(c in nombre for c in "\r\n\t\0:") or any(p in ("", ".", "..") for p in parts):
         raise PublicacionError(f"Ruta no válida: {nombre!r}")
     rel = PurePosixPath(nombre)
-    permitida = nombre in RAIZ_EDITORIAL or nombre.startswith(CASOS) and rel.suffix == ".md"
+    permitida = nombre in RAIZ_EDITORIAL or nombre.startswith((CASOS, CASOS_EN)) and rel.suffix == ".md"
     if perfil == "reglas":
         texto_editorial = nombre.startswith(("00. Introducción/", "01. Reglas/", "03. Reglas de Torneo/", "04. Guia de correccion de jugadas/", "05. Consejos de jueces/", "09. Recursos/", "10. Comunidad y actividades/")) and rel.suffix == ".md" and not rel.name.startswith("Plantilla")
         recurso = nombre.startswith(("09. Recursos/", "imagenes/recursos/")) and rel.suffix in (".svg", ".png")

@@ -122,6 +122,18 @@ class PublicacionTests(unittest.TestCase):
             with self.subTest(archivos=archivos), self.assertRaises(p.PublicacionError):
                 p.preparar(self.root, "HEAD", archivos)
 
+    def test_dudas_en_ingles_permitidas_y_referencia_oficial_excluida(self):
+        traduccion = p.CASOS_EN + "Ancestral Guitar and Singer.md"
+        indice = p.CASOS_EN + "Rules Q&A.md"
+        referencia = p.CASOS_EN.removesuffix("Rules Q&A/") + "8. Keywords.md"
+        for nombre in (traduccion, indice, referencia):
+            self.escribir(nombre, "# Nota de prueba\n")
+        self.commit()
+        self.assertEqual(p.preparar(self.root, "HEAD", [traduccion, indice])["archivos"],
+                         [traduccion, indice])
+        with self.assertRaises(p.PublicacionError):
+            p.preparar(self.root, "HEAD", [referencia])
+
     def test_recursos_e_introduccion_solo_en_perfil_reglas(self):
         nombres = ["00. Introducción/Guía.md", "09. Recursos/Diagrama.svg", "09. Recursos/Diagrama.png", "04. Guia de correccion de jugadas/Referencia.md"]
         for n in nombres:

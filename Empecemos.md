@@ -23,6 +23,11 @@ Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octub
 
 ---
 
+### 💬 Rules Q&A in English
+> [[Rules Q&A|Browse the English rules Q&A]] for practical card interactions and examples.
+
+---
+
 ### 🧠 Glosario Oficial Lorcana
 > Explicación detallada de cada término oficial usado en el juego (keywords, tipos de carta, zonas, fases del turno...).
 
