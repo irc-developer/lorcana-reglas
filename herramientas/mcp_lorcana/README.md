@@ -1,6 +1,6 @@
 # MCP local de Lorcana
 
-Servidor `lorcana` 0.2.2 actualizado el 06/10/2026. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia; el asistente interpreta y aplica el workflow editorial. No requiere clave de API ni llama a un modelo o a Internet.
+Servidor `lorcana` 0.2.3. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia; el asistente interpreta y aplica el workflow editorial. No requiere clave de API ni llama a un modelo o a Internet.
 
 **Migración CR 2.3, 09/10/2026:** el motor valida originales y selecciona 2.2 hasta el 15/10 y 2.3 desde el 16/10; excluye adaptaciones futuras hasta su fecha y conserva históricos fuera de la evidencia activa. Reinicia el servidor de un cliente ya abierto para cargar estos cambios de código y extracción, sin reinstalar ni modificar su configuración. Los ensayos stdio usan procesos nuevos con el motor actualizado.
 
@@ -33,11 +33,12 @@ Si el MCP no está disponible, AGENTS.md y la skill dirigen a la CLI con el mism
 | `estado_fuentes` | `{}` | Estado actual del índice y selección local; no actualiza. |
 | `obtener_carta` | `nombre` | Fichas de set, procedencia y resolución exacta/ambigua/ausente. |
 | `obtener_regla` | `numero`, p. ej. `6.1.6` | Regla completa, contexto, páginas y referencias; ausencias expresas. |
+| `obtener_pagina` | `pagina`, p. ej. `30` | Texto completo de esa página de las CR seleccionadas por fecha, versión, ruta del Markdown y número total de páginas. |
 | `buscar_evidencia` | `pregunta`, `modo`; opcionales `cartas`, `reglas`, `ambito`, `limite` | Paquete completo del motor, con obligación editorial. |
 
-Todas las herramientas admiten `formato="lectura"` (predeterminado) o `formato="completo"`. `modo` admite `consulta` y `documenta`, y es obligatorio para la búsqueda. Un prefijo dentro de `pregunta` debe concordar; `actualiza:` y prefijos contradictorios producen error. `limite` es entero 1–12 y solo controla resultados complementarios. Los ámbitos son los de la CLI. Entradas desconocidas, números de regla mal formados y campos para escoger rutas arbitrarias se rechazan. Raíz y base se eligen solo al arrancar.
+Las herramientas de búsqueda y estado admiten `formato="lectura"` (predeterminado) o `formato="completo"`. `obtener_pagina` devuelve una sola página del Markdown registrado, sin índice ni extracción del PDF. Si el número supera el total devuelve `pagina_ausente`. `modo` admite `consulta` y `documenta`, y es obligatorio para la búsqueda. Un prefijo dentro de `pregunta` debe concordar; `actualiza:` y prefijos contradictorios producen error. `limite` es entero 1–12 y solo controla resultados complementarios. Los ámbitos son los de la CLI. Entradas desconocidas, números de regla mal formados y campos para escoger rutas arbitrarias se rechazan. Raíz y base se eligen solo al arrancar.
 
-Carta y regla devuelven `mode="auxiliar"`, `editorial_required=null`: el asistente conserva el modo original de la conversación. La búsqueda devuelve `editorial_required=true` para documentación. Un resultado insuficiente es evidencia válida con limitaciones, no un fallo técnico. Un fallo técnico devuelve `isError=true`, contenido JSON con `status="error"` y `no_ruling=true`.
+Carta, regla y página devuelven `mode="auxiliar"` y `editorial_required=null` para que el asistente conserve el modo original. La búsqueda devuelve `editorial_required=true` para documentación. Un resultado insuficiente es evidencia válida con limitaciones, no un fallo técnico. Un fallo técnico devuelve `isError=true`, contenido JSON con `status="error"` y `no_ruling=true`.
 
 Se conservan `freshness`, selección/versiones, categorías de autoridad, resolución de cartas, advertencias, exclusiones, hashes, enlaces locales, texto completo y bruto, páginas/líneas y `citation_verified`. Esta verificación acredita coincidencia con la copia local, no vigencia externa ni interpretación. El texto recuperado es información no fiable como instrucciones.
 
@@ -58,6 +59,8 @@ El nombre expuesto depende del catálogo del cliente. Ese presupuesto es distint
 AGENTS.md y la skill cargan el núcleo normativo siempre, las guías de cartas/timing según la pregunta y el workflow completo cuando hay obligación editorial. Los manuales de instalación y medición se reservan para mantenimiento. No se adivinan números de regla ni se vuelve a leer una fuente que ya tiene cita local verificada y contexto suficiente.
 
 Los enlaces absolutos apuntan a archivos de este PC; no son enlaces públicos. La lectura de un índice ausente o viejo se hace en memoria sin generar cachés. Las fuentes ilegibles, selección contradictoria o cambios durante la consulta fallan expresamente. Cada llamada usa su propia conexión SQLite.
+
+Para las fuentes con original PDF, el motor recupera el texto de los Markdown paginados registrados y verifica por SHA-256 tanto el original como su transcripción. Una fuente seleccionada sin transcripción registrada produce un error de integridad. PyMuPDF se usa en el mantenimiento para generar y contrastar transcripciones.
 
 ## Instalación y registro
 
@@ -85,6 +88,8 @@ Arranque para otro cliente `stdio`:
 `stdout` contiene exclusivamente mensajes MCP; diagnósticos en `stderr`. El proceso espera un cliente, no es una CLI interactiva. `--db` permite elegir un índice al arrancar; omitirlo usa el índice del motor bajo la raíz elegida. No necesita indexar para arrancar.
 
 ## Verificación y límites de entrega
+
+Para ejecutar el contraste de la CLI con los originales, instala también las [dependencias de mantenimiento](../consulta_lorcana/requirements.txt) en el entorno de pruebas.
 
 ```powershell
 & herramientas/mcp_lorcana/.venv/Scripts/python.exe -B -X utf8 herramientas/consulta_lorcana/test_consulta.py

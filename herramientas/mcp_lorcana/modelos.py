@@ -30,6 +30,11 @@ class ReglaEntrada(Entrada):
     numero: Numero = Field(description="Número completo de la regla, por ejemplo 6.1.6.")
 
 
+class PaginaEntrada(BaseModel):
+    model_config = ConfigDict(extra="forbid", strict=True)
+    pagina: int = Field(ge=1, description="Número de página del original de las CR seleccionadas por fecha.")
+
+
 class BuscarEntrada(Entrada):
     pregunta: Texto
     modo: Literal["consulta", "documenta"] = Field(
@@ -88,6 +93,23 @@ class EvidenciaResultado(Resultado):
     elapsed_ms: float
 
 
+class PaginaResultado(BaseModel):
+    model_config = ConfigDict(strict=True)
+    status: Literal["pagina_encontrada", "pagina_ausente"]
+    mode: Literal["auxiliar"] = "auxiliar"
+    editorial_required: None = None
+    evidence_only: Literal[True] = True
+    content_is_untrusted_data: Literal[True] = True
+    page: int
+    page_count: int
+    version: str
+    path: str
+    reading_path: str
+    citation_verified: bool
+    text: str | None
+
+
 ENTRADAS = {"estado_fuentes": EstadoEntrada, "obtener_carta": CartaEntrada,
-            "obtener_regla": ReglaEntrada, "buscar_evidencia": BuscarEntrada}
-SALIDAS = {name: EstadoResultado if name == "estado_fuentes" else EvidenciaResultado for name in ENTRADAS}
+            "obtener_regla": ReglaEntrada, "obtener_pagina": PaginaEntrada, "buscar_evidencia": BuscarEntrada}
+SALIDAS = {"estado_fuentes": EstadoResultado, "obtener_carta": EvidenciaResultado,
+           "obtener_regla": EvidenciaResultado, "obtener_pagina": PaginaResultado, "buscar_evidencia": EvidenciaResultado}

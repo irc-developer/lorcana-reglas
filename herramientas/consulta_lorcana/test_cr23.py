@@ -62,6 +62,20 @@ class CR23Tests(unittest.TestCase):
             entries, selection = x.inventory(x.ROOT)
             self.assertEqual(entries[rel]["kind"], "local")
 
+    def test_consulta_sin_indice_lee_paginas_sin_extraer_pdf(self):
+        with (patch.object(x, "fecha_local", return_value=date(2026, 10, 16)),
+              patch.object(x, "extract_pdf", side_effect=AssertionError("Se intentó abrir un PDF")),
+              tempfile.TemporaryDirectory(dir=x.ROOT / ".codex_tmp") as tmp):
+            result = x.query(x.ROOT, Path(tmp) / "ausente.sqlite", "consulta: condición secundaria",
+                             rule_numbers=["6.2.4"])
+            rule = next(r for r in result["primary_rules"] if r["rule"] == "6.2.4")
+            self.assertEqual(rule["pages"], [30, 30])
+            self.assertEqual(rule["text"], self.pdfs["published"][2]["6.2.4"]["text"])
+            self.assertTrue(rule["reading_path"].endswith("CRUpdate_EN_Oct-2026.paginas.md"))
+            self.assertTrue(rule["citation_verified"])
+            self.assertTrue(result["spanish"][0]["text"].startswith("### 6.2.4."))
+            self.assertEqual(list(Path(tmp).iterdir()), [])
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

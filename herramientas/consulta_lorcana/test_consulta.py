@@ -144,6 +144,8 @@ class MaintenanceTests(unittest.TestCase):
         assert cls.root.is_relative_to(base.resolve())
         for rel in x.CONTROL + ["Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf",
                                 "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
+                                "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.paginas.md",
+                                "Documentacion Oficial/CRUpdate_EN_Oct-2026.paginas.md",
                                 "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md",
                                 "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.html",
                                 "02. Listado de Cartas/Set 14 - Hyperia City.md",

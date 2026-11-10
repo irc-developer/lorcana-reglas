@@ -17,7 +17,7 @@ Solo se permite omitir las ediciones cuando el usuario pide explícitamente no m
 
 ## Fuentes y guías de apoyo
 
-- Reglas primarias: PDF inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Los Markdown ingleses numerados son transcripciones históricas incompletas y no sustituyen el PDF seleccionado.
+- Reglas primarias: original inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Consulta el texto mediante el MCP o su extracción Markdown paginada registrada. Los Markdown ingleses numerados son transcripciones históricas incompletas.
 - Localización y documentación en castellano: `01. Reglas/`.
 - Texto exacto de cartas: archivo de set correspondiente dentro de `02. Listado de Cartas/`.
 - Artículos: `01. Reglas/11. Casos de ejemplo y aclaraciones/`.
@@ -29,7 +29,7 @@ Aplica directamente, cuando corresponda, las guías reutilizables de [alcance](.
 ## Flujo obligatorio y ordenado
 
 1. **Determinar la pregunta exacta y el estado inicial.** Reconstruye cartas, versiones, estado de mesa, elecciones y secuencia. Registra el estado de Git antes de editar y conserva una lista explícita de los archivos de esta duda. Si un dato crítico admite resultados distintos, pide solo la aclaración mínima antes de continuar.
-2. **Identificar y priorizar fuentes oficiales.** Busca primero la referencia inglesa oficial sin modificar y después la localización castellana equivalente. Los casos existentes sirven para localizar o comparar, nunca para prevalecer sobre la regla primaria.
+2. **Identificar y priorizar fuentes oficiales.** Recupera primero el texto inglés mediante el MCP o la extracción paginada y después la localización castellana equivalente. Abre el original cuando se necesite comprobar la presentación visual, una discrepancia de extracción o una versión. Los casos existentes sirven para localizar o comparar, nunca para prevalecer sobre la regla primaria.
 3. **Verificar el texto de cartas cuando sea relevante.** Confirma nombre, versión y texto completo en el archivo de set de `02. Listado de Cartas/`, conservado como corpus local. Para el lector, prepara enlaces Markdown a la imagen exacta de Lorcast, obtenida de `image_uris.digital.large` o del mapa verificado `.github/planes/mapa-cartas-lorcast.json`, según la guía de enlaces. No uses carpetas legacy ni inventes texto ausente o URL.
 4. **Producir el ruling técnico.** Determina veredicto, fundamento, orden de eventos, disparos, bolsa y GSC aplicables. Conserva las referencias exactas que sostienen cada conclusión.
 5. **Buscar artículos duplicados o solapados.** Busca en toda la sección 11 por nombres de cartas, mecánicas, conceptos, tags y conclusión normativa; revisa la subcarpeta probable y el índice manual.

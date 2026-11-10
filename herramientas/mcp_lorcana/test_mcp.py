@@ -76,6 +76,20 @@ main()
                 self.assertTrue(all(p["version"] == "2.3.0" for p in data["primary_rules"]))
             result = await client.call_tool("obtener_regla", {"numero": "7.1.6.1"})
             self.assertEqual(result.structured_content["missing_rule_numbers"], ["7.1.6.1"])
+            result = await client.call_tool("obtener_pagina", {"pagina": 30})
+            self.assertFalse(result.is_error)
+            page = result.structured_content
+            self.assertEqual((page["status"], page["version"], page["page_count"], page["page"]),
+                             ("pagina_encontrada", "2.3.0", 56, 30))
+            self.assertIn("6.2.4. Some triggered abilities", page["text"])
+            self.assertTrue(page["reading_path"].endswith("CRUpdate_EN_Oct-2026.paginas.md"))
+            self.assertTrue(page["citation_verified"])
+            self.assertIsNone(page["editorial_required"])
+            missing = await client.call_tool("obtener_pagina", {"pagina": 57})
+            self.assertEqual(missing.structured_content["status"], "pagina_ausente")
+            self.assertIsNone(missing.structured_content["text"])
+            invalid = await client.call_tool("obtener_pagina", {"pagina": 0})
+            self.assertTrue(invalid.is_error)
         self.assertEqual(before, snapshot(REPO))
 
     async def test_descubrimiento_y_20_oraculos_sin_escrituras(self):
@@ -83,7 +97,7 @@ main()
         async with cliente() as client:
             listing = await client.list_tools()
             tools = {t.name: t for t in listing.tools}
-            self.assertEqual(set(tools), {"estado_fuentes", "obtener_carta", "obtener_regla", "buscar_evidencia"})
+            self.assertEqual(set(tools), {"estado_fuentes", "obtener_carta", "obtener_regla", "obtener_pagina", "buscar_evidencia"})
             self.assertEqual(client.server_info.name, "lorcana")
             self.assertIn("sin señal", client.instructions)
             for tool in tools.values():
@@ -251,6 +265,8 @@ class FixturesTests(unittest.IsolatedAsyncioTestCase):
         assert self.root.is_relative_to((HERE / ".cache").resolve())
         for rel in core.CONTROL + ["Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf",
                                 "Documentacion Oficial/CRUpdate_EN_Oct-2026.pdf",
+                                "Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.paginas.md",
+                                "Documentacion Oficial/CRUpdate_EN_Oct-2026.paginas.md",
                                 "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.md",
                                 "Documentacion Oficial/Hyperia-City-Set-Release-Notes_EN.html",
                                    "02. Listado de Cartas/Set 14 - Hyperia City.md",
@@ -285,6 +301,18 @@ class FixturesTests(unittest.IsolatedAsyncioTestCase):
             self.assertFalse(r.is_error)
             self.assertFalse(r.structured_content["freshness"]["current"])
             self.assertTrue(any("UNA EN UNA" in p["text"] for p in r.structured_content["spanish"]))
+
+    async def test_pdf_sin_transcripcion_falla_con_indice_preparado_o_ausente(self):
+        pdf = self.root / "Documentacion Oficial/Tournament-Prueba.pdf"
+        pdf.write_bytes(b"PDF de prueba sin registrar")
+        for db in (self.db, self.root / "sin-cache/indice.sqlite"):
+            with self.subTest(db=db):
+                async with cliente(self.root, db) as client:
+                    result = await self.solo_lectura(client, "buscar_evidencia",
+                                                     {"pregunta": "robar cartas", "modo": "consulta"})
+                    self.assertTrue(result.is_error)
+                    self.assertIn("PDF sin transcripción paginada registrada: Documentacion Oficial/Tournament-Prueba.pdf",
+                                  json.loads(result.content[0].text)["error"])
 
     async def test_sustitucion_atomica_entre_llamadas_y_actualiza_separado(self):
         async with cliente(self.root, self.db) as client:

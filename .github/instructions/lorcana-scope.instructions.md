@@ -10,8 +10,8 @@ applyTo:
 
 # Alcance y jerarquía de fuentes de Lorcana
 
-- Para reglas base, usar el PDF oficial inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`, con `01. Reglas` como localización castellana.
-- Ese PDF es la autoridad normativa primaria según la copia local identificada. Los Markdown numerados de la referencia inglesa son transcripciones históricas incompletas, no texto consolidado vigente. Esta selección no autoriza carpetas legacy ni convierte todo el contenido de `Documentacion Oficial` en reglas base.
+- Para reglas base, usar el original oficial inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Leer su texto por MCP o en la extracción paginada registrada. Abrir el original si importa su presentación visual o si hay dudas sobre la fidelidad de la extracción.
+- El original es la autoridad normativa primaria según la copia local identificada. Los Markdown numerados de la referencia inglesa son transcripciones históricas incompletas. Esta selección no autoriza carpetas legacy ni convierte todo el contenido de `Documentacion Oficial` en reglas base.
 - `01. Reglas` se usa para localizar, citar y documentar en castellano.
 - Para texto exacto y nombres de cartas, usar la sección `02. Listado de Cartas` y el archivo del set correspondiente, conservados como corpus local. Para los enlaces de lectura de cartas, usar imágenes verificadas de Lorcast según `lorcana-obsidian-links.instructions.md`; ese destino comunitario no sustituye la verificación ni la autoridad normativa.
 - No usar `02. Habilidades de las cartas_OLD`, `20. Reglas CR 1.X`, `Unifica` ni material derivado o legacy para resolver, documentar o verificar.

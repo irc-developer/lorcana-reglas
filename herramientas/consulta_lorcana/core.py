@@ -104,6 +104,13 @@ def pick_primary(root):
     return rel, versions[0]
 
 
+def paged_pdf_spec(original_hash, config):
+    reading = config.get("paged_pdf_texts", {}).get(original_hash)
+    if reading:
+        return {"reading_path": "Documentacion Oficial/" + reading["file"], "reading_hash": reading["sha256"]}
+    return {}
+
+
 def inventory(root):
     config = load_json(HERE / "fuentes.json")
     primary, version = pick_primary(root)
@@ -190,6 +197,16 @@ def inventory(root):
                 raise ValueError("Fuente oficial modificada sin verificar: " + spec[key])
         path = root / spec["path"]
         add(path, spec["scope"], spec["authority"], spec["kind"])
+    for rel, spec in entries.items():
+        if not rel.endswith(".pdf") or spec["kind"] == "excluded":
+            continue
+        reading = paged_pdf_spec(spec["hash"], config)
+        if not reading:
+            raise ValueError("PDF sin transcripción paginada registrada: " + rel)
+        path = root / reading["reading_path"]
+        if not path.is_file() or digest(path.read_bytes()) != reading["reading_hash"]:
+            raise ValueError("Transcripción paginada ausente o modificada: " + str(path))
+        spec.update(reading)
     # Las herramientas/configuración no son evidencia, pero invalidan un índice de otra implementación.
     signature = digest(b"".join((HERE / x).read_bytes() for x in ("core.py", "fuentes.json", "sinonimos.json")))
     # El texto operativo de las erratas cambia por fecha aunque la ficha impresa
@@ -259,6 +276,28 @@ def extract_pdf(path):
             result.append({"page": n, "raw": raw, "text": mapped})
     return result, {"pages": len(result), "glyphs": dict(counts), "glyph_profile": profile_hash if counts else None,
                     "glyph_verification": profile.get("verified") if profile else None, "extractor": "PyMuPDF/font-aware"}
+
+
+def read_paged_pdf_text(path, spec):
+    """Recupera la extracción registrada sin abrir el PDF con un lector."""
+    data = path.read_bytes()
+    if digest(data) != spec["reading_hash"]:
+        raise ValueError("Transcripción paginada cambió durante la lectura: " + str(path))
+    header, *sections = data.decode("utf-8").split("\n## Página ")
+    meta = json.loads(header.strip().splitlines()[-1].removeprefix("<!-- ").removesuffix(" -->"))
+    if meta["pdf_sha256"] != spec["hash"] or meta["extraction"]["pages"] != len(sections):
+        raise ValueError("Transcripción paginada incongruente con el original: " + str(path))
+    pages = []
+    for expected, section in enumerate(sections, 1):
+        heading, metadata, fence, body = section.split("\n", 3)
+        text, closing_fence, _ = body.rpartition("\n```")
+        if heading != str(expected) or fence != "```text" or not closing_fence:
+            raise ValueError(f"Bloque de página inválido en {path}: {expected}")
+        raw = text.splitlines()
+        for i, line in json.loads(metadata.removeprefix("<!-- ").removesuffix(" -->")):
+            raw[i] = line
+        pages.append({"page": expected, "text": text, "raw": "\n".join(raw)})
+    return pages, meta["extraction"]
 
 
 def chunk_base(title, text, raw=None, **fields):
@@ -412,7 +451,7 @@ def parse_source(root, rel, spec, selection):
     if kind in ("control", "excluded"):
         return [], meta
     if path.suffix == ".pdf":
-        pages, qa = extract_pdf(path)
+        pages, qa = read_paged_pdf_text(root / spec["reading_path"], spec)
         meta["extraction"] = qa
         first = pages[0]["text"]
         v = re.search(r"Version\s+([\d.]+)", first, re.I)
@@ -421,7 +460,7 @@ def parse_source(root, rel, spec, selection):
         meta["effective_date"] = dt.group(1).strip() if dt else None
         if kind == "cr":
             if meta["version"] != selection["version"]:
-                raise ValueError("Versión interior del PDF distinta de la selección documentada.")
+                raise ValueError("Versión de las CR transcritas distinta de la selección documentada.")
             chunks = cr_chunks(pages)
             if len(chunks) < 200:
                 raise ValueError("Extracción CR incompleta: menos de 200 reglas.")
@@ -705,6 +744,9 @@ def decorate(c, root, payload):
              coverage=meta.get("coverage"), documented_urls=meta.get("documented_urls", []),
              maintenance_observation=meta.get("maintenance_observation"),
              local_link=f"[{payload['title']}](<{absolute}{location}>)", citation_verified=True)
+    if meta.get("reading_path"):
+        p["reading_path"] = (root / meta["reading_path"]).resolve().as_posix()
+        p["local_link"] = f"[{payload['title']}](<{p['reading_path']}>)"
     # El bruto sigue íntegro en el índice; evita duplicar todo el texto en la respuesta al agente.
     p.pop("raw_text", None)
     p["raw_text_preserved_in_index"] = True
@@ -734,6 +776,8 @@ def verify_fragments(c, root, packets):
     """Relee fuentes citadas (hash), y texto exacto de líneas MD. PDF se contrasta por hash completo."""
     seen = {}
     for p in packets:
+        if p.get("reading_path"):
+            continue  # La segunda comprobación del inventario cubre ambos hashes.
         path = root / p["path"]
         if p["path"] not in seen:
             seen[p["path"]] = path.read_bytes()
@@ -813,19 +857,22 @@ def query(root, db, question, card_names=(), rule_numbers=(), scope=None, explic
         official_notes = search(c, question, ["release"], ["estandar"], 1)
         spanish = search(c, question, ["local"], [*scopes, "torneo", "correcciones"] if is_policy else scopes, limit)
         local_numbers = list(dict.fromkeys(explicit_rules + [p["rule"] for p in primary[:8] if p.get("rule")]))
-        localized = []
+        localized, exact_local = [], []
+        explicit_heading = re.compile(r"^#{1,6} (?:" + "|".join(map(re.escape, explicit_rules))
+                                      + r")(?:\.?\s|$)") if explicit_rules else None
         for row in c.execute("select payload from chunks where kind='local'"):
             p = json.loads(row[0])
             if p["scope"] not in scopes:
                 continue
-            # Número exacto, no una coincidencia de tokens separados (1, 12, 2).
-            if any(re.search(r"(?<![\d.])" + re.escape(n) + r"(?![\d.])", p["text"]) for n in local_numbers):
+            if explicit_heading and explicit_heading.match(p["text"]):
+                exact_local.append(p)
+            elif any(re.search(r"(?<![\d.])" + re.escape(n) + r"(?![\d.])", p["text"]) for n in local_numbers):
                 localized.append(p)
-        spanish = list({p["id"]: p for p in localized + spanish}.values())[:limit]
+        spanish = localized + spanish
         # Amplía con localización por identificadores, sin convertirla en autoridad primaria.
         if explicit_rules:
             spanish = search(c, " ".join(explicit_rules), ["local"], scopes, limit) + spanish
-            spanish = list({p["id"]: p for p in spanish}.values())[:limit]
+        spanish = list({p["id"]: p for p in exact_local + spanish}.values())[:limit]
         case_candidates = search(c, question, ["case"], [scope] if scope != "estandar" else scopes, 15)
         case = next(([p] for p in case_candidates if not names or any(norm(n) in norm(p["text"] + p["path"]) for n in names)), [])
         support = search(c, question, ["support"], ["consejos", "experiencias", "carde", "recursos", "comunidad"], 2)

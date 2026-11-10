@@ -11,6 +11,7 @@
 - **Versión publicada:** 2.3.0.
 - **Fecha de entrada en vigor:** 16 de octubre de 2026.
 - **Original:** [[CRUpdate_EN_Oct-2026.pdf]].
+- **Texto para consulta:** [[CRUpdate_EN_Oct-2026.paginas.md]], con los números de página del original y los símbolos transcritos.
 - **Páginas:** 56.
 - **Fuente:** [Recursos oficiales](https://www.disneylorcana.com/en-US/resources/), publicación del 8 de octubre de 2026.
 
@@ -19,6 +20,8 @@
 Hasta el 15 de octubre de 2026 se aplica **2.2.0**, efectiva el 9 de julio de 2026: `Comprehensive-Rules_2.2.0-EN.pdf`. Desde el 16 de octubre se aplica **2.3.0**, `CRUpdate_EN_Oct-2026.pdf`. La búsqueda local utiliza esa misma transición y no acredita la versión futura antes de su entrada en vigor.
 
 La adaptación castellana ya presenta 2.3 con su fecha de vigencia. Resumen: [[Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2]].
+
+El motor de consulta lee los Markdown `*.paginas.md` registrados en `herramientas/consulta_lorcana/fuentes.json`. Cada encabezado «Página N» corresponde a la página N del original. Se conserva también [[Comprehensive-Rules_2.2.0-EN.paginas.md]] para la transición fechada. Los originales sirven para comprobaciones visuales y para preparar nuevas extracciones.
 
 ## Versiones anteriores conservadas
 
@@ -48,8 +51,8 @@ Ambos enlaces apuntan a documentos publicados por Ravensburger. Esta carpeta no 
 
 ## Políticas y aclaraciones incorporadas el 09/10/2026
 
-- [Tournament Rules, efectivas el 14/07/2026](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf): original local de 29 páginas; sustituye para consultas la copia del 11/06, conservada como histórico.
-- [Play Correction Guidelines, efectivas el 21/05/2024](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): original local de 15 páginas.
+- [[Tournament-Rules-7.14.2026_Update_EN.paginas.md|Tournament Rules, efectivas el 14/07/2026]]: transcripción del original local de 29 páginas; sustituye para consultas la copia del 11/06, conservada como histórico.
+- [[Disney_Lorcana_Play_Correction_Guidelines_052124update.paginas.md|Play Correction Guidelines, efectivas el 21/05/2024]]: transcripción del original local de 15 páginas.
 - [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes): HTML original y transcripción inglesa identificada por hash; publicadas el 08/10, aplicación desde el 16/10. La transcripción conserva 26 preguntas y respuestas, las erratas y el alcance de cada aclaración.
 
 El MCP mantiene el texto impreso de las cartas y distingue su texto operativo según la fecha. Para las cinco erratas de Adventurous, las notas describen la modificación sin ofrecer toda la nueva redacción: se conserva esa limitación y no se inventa un texto completo.

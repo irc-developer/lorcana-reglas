@@ -66,9 +66,9 @@ def verificar():
             inventory = request(4, "mcpServerStatus/list", {"detail": "toolsAndAuthOnly", "cursor": inventory["nextCursor"]})
             servers.extend(inventory.get("data", []))
         server = next((s for s in servers if s["name"] == "lorcana"), None)
-        expected = {"estado_fuentes", "obtener_carta", "obtener_regla", "buscar_evidencia"}
+        expected = {"estado_fuentes", "obtener_carta", "obtener_regla", "obtener_pagina", "buscar_evidencia"}
         if server is None or set(server["tools"]) != expected:
-            raise RuntimeError("El cliente no descubrió las cuatro herramientas de lorcana")
+            raise RuntimeError("El cliente no descubrió todas las herramientas de lorcana")
         return {"client": "Codex app-server (strict config)", "server": "lorcana", "tools": sorted(expected),
                 "version": server.get("serverInfo", {}).get("version"),
                 "model_called": False, "new_chat_verified": False}

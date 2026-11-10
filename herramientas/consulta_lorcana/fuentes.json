@@ -25,6 +25,36 @@
       "kind": "special"
     }
   ],
+  "paged_pdf_texts": {
+    "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f": {
+      "file": "Comprehensive-Rules_2.2.0-EN.paginas.md",
+      "sha256": "04e3bddd43554baad1c0accf5b5605f720e0542fd7e54e40ecb1c27774172422"
+    },
+    "8b7a458169978a13b688493d4b24d713bdc8baee32ce5e774b0515079a0b91fe": {
+      "file": "CRUpdate_EN_Oct-2026.paginas.md",
+      "sha256": "938386c17726973dee71433f0bef4ca210824cc22db47afff40b426099457413"
+    },
+    "59fd2f0aa083cbaaa61f07f7c75a6c5556bf5a89fd77d998959a365785fd9618": {
+      "file": "Attack-of-the-Vine-Set-Release-Notes_EN.paginas.md",
+      "sha256": "64a2293c3f6e179eeaa414da453d6bc949d9e6c2c61216853d6f6d5fc606f009"
+    },
+    "38b75b4326f6cfd8d1226129c2f36a871ee02be0628f785e1976b376ef725970": {
+      "file": "Disney_Lorcana_Play_Correction_Guidelines_052124update.paginas.md",
+      "sha256": "d6190e882376af4725f332515f6c3ff535c184bb31219038400f1afdb17c3158"
+    },
+    "cb3d662ed614ed1d90364df10b19bd798dc2b0b362c4b653d2a76d044ba46a40": {
+      "file": "FormatCoconut_BetaCoconutCards.paginas.md",
+      "sha256": "3ae6d4a3d6ce1683747fb662a69d0c4783688ada8fdec62800272e4bb0bad6f1"
+    },
+    "78513b3f287c5f3dfd63f700732f6a9a71434fd523d9cca73448388cf510336f": {
+      "file": "FormatCoconut_Rules.paginas.md",
+      "sha256": "cff1d291a3acd49ba599be915e260d111ca8013066e76d7b90b208679d1b324c"
+    },
+    "752f0b4994e99547805fd6023d4bbb106a458e234243c37b8885ccc292ddb6ee": {
+      "file": "Tournament-Rules-7.14.2026_Update_EN.paginas.md",
+      "sha256": "47d6a79159a76728aa4076de8e5d1b4b2b5c5f8f0f9ffb2c67ef3f8a4a4433da"
+    }
+  },
   "glyph_maps": {
     "5ffa31172fcaae2cbdbf127aebdd54987f01a4e72008812c96556c29d0942d8f": {
       "symbols": {

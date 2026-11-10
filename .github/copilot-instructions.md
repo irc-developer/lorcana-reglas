@@ -21,5 +21,6 @@
 
 ## Alcance normativo de reglas
 
-- Para reglas base, la autoridad primaria es el PDF inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Los Markdown numerados de la referencia inglesa son transcripciones históricas incompletas; no sustituyen ese PDF para citas vigentes.
+- Para reglas base, la autoridad primaria es el original inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Consulta su texto con el MCP o el Markdown paginado registrado junto al original. Los Markdown ingleses numerados son históricos.
+- En las respuestas a Iván, cita el número exacto de regla y enlaza el Markdown castellano correspondiente de `01. Reglas/`. Si falta una localización equivalente, enlaza la transcripción paginada. Añade página si ayuda a localizar el pasaje. Abre o enlaza el PDF solo si Iván lo pide o si una cuestión de formato, una discrepancia de extracción o una comprobación de versión exige el original.
 - Usa las instrucciones y skills de `.github/instructions/` y `.github/skills/` cuando el trabajo entre en esos flujos.

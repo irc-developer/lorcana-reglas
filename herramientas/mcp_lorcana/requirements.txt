@@ -1,5 +1,4 @@
-# SDK oficial y extracción de las fuentes locales; Python >=3.10.
+# SDK oficial y dependencias del servidor; Python >=3.10.
 mcp==2.2.0
-PyMuPDF==1.27.2.3
 pydantic==2.13.5
 anyio==4.15.1

@@ -11,7 +11,7 @@ SOURCE_FIELDS = frozenset((
     "source_id", "path", "absolute_path", "kind", "scope", "authority",
     "source_hash", "version", "effective_date", "source_limitations",
     "documented_urls", "maintenance_observation", "official_url",
-    "official_url_verified_on", "raw_text_preserved_in_index",
+    "official_url_verified_on", "raw_text_preserved_in_index", "reading_path",
 ))
 
 

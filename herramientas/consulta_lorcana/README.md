@@ -2,7 +2,7 @@
 
 CLI local lista para ejecutar en este PC: Python 3.14.3, SQLite FTS5 y PyMuPDF disponibles. Sin servidor, cuenta adicional ni API de modelos. La herramienta recupera evidencia; **Codex razona y redacta**. `consulta:` pide solo lectura; `documenta:` conserva el workflow editorial de `.github/`; `actualiza:` autoriza únicamente regenerar búsqueda.
 
-El [MCP local de Lorcana](../mcp_lorcana/README.md) reutiliza este motor y ofrece las cuatro herramientas de lectura a Codex. Prefiere MCP cuando esté conectado; esta CLI sigue siendo la alternativa y la vía de mantenimiento. El modo editorial se elige según la petición original en ambas vías.
+El [MCP local de Lorcana](../mcp_lorcana/README.md) reutiliza este motor y ofrece herramientas de lectura a Codex, incluida la consulta de una página de las CR. Prefiere MCP cuando esté conectado; esta CLI sigue siendo la alternativa y la vía de mantenimiento. El modo editorial se elige según la petición original en ambas vías.
 
 ## Empezar
 
@@ -29,7 +29,7 @@ python -X utf8 herramientas/consulta_lorcana/consulta.py consultar "consulta: ta
 
 ## Instalación en otro entorno
 
-Requiere Python 3.10 o posterior y el módulo estándar `sqlite3`. PyMuPDF es la única dependencia externa de extracción; ya está instalado en el Python de este PC.
+Requiere Python 3.10 o posterior y el módulo estándar `sqlite3`. PyMuPDF se usa para generar y contrastar transcripciones durante el mantenimiento.
 
 ```powershell
 python --version
@@ -78,17 +78,23 @@ python -X utf8 herramientas/consulta_lorcana/consulta.py actualizar --json
 
 `indexar` y `actualizar` realizan la misma operación segura: detectan archivos añadidos/modificados/eliminados y renombrados sin cambio de contenido, conservan identificadores de fuente y reutilizan extracción y fragmentos no modificados. Un cambio de contenido junto con el nombre aparece como alta/baja cuando no puede reconocerse por hash. Los hashes SHA-256 detectan modificaciones aunque se mantengan tamaño y fecha. Cambiar implementación, sinónimos o configuración invalida la extracción preparada; es una reconstrucción deliberada.
 
-Se construye un SQLite temporal, se comprueba su integridad y se vuelven a comprobar las fuentes antes de publicarlo mediante sustitución atómica. Si falla, se conserva el último índice utilizable y se registra `.cache/last_failure.json`. El índice anterior **no** se usa como prueba de contenido vigente: la consulta vuelve a leer las fuentes actuales en memoria o falla explícitamente si no son legibles. No actualiza archivos, base, caché ni bytecode. Ese fallback tarda más, especialmente al extraer PDF otra vez en cada llamada; realiza mantenimiento separado para recuperar velocidad.
+Se construye un SQLite temporal, se comprueba su integridad y se vuelven a comprobar las fuentes antes de publicarlo mediante sustitución atómica. Si falla, se conserva el último índice utilizable y se registra `.cache/last_failure.json`. La consulta con índice ausente o desactualizado lee las fuentes actuales en memoria. Para cada PDF registrado usa su transcripción Markdown y verifica ambos hashes. La consulta no escribe archivos ni abre esos originales con PyMuPDF.
 
 La selección CR se revalida a partir de:
 
 - `Documentacion Oficial/README.md`.
 - `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`.
-- Versión y fecha declaradas dentro del PDF seleccionado.
+- Versión y fecha del original, conservadas en la transcripción paginada registrada.
 
 La transición registrada selecciona **CR 2.2.0, efectiva 09/07/2026, 55 páginas**, hasta el 15/10/2026 y **CR 2.3.0, efectiva 16/10/2026, 56 páginas**, desde el 16/10/2026. `fuentes.json/primary_transition` conserva ambas rutas, versiones, fecha y hashes; ambos selectores documentan la transición. El motor usa la fecha local del host. Los anticipos con `<!-- CR-ACTIVA-DESDE: AAAA-MM-DD -->` se excluyen de la evidencia activa hasta esa fecha; los documentos declarados históricos siguen excluidos. Al cruzar la fecha, el índice previo pierde vigencia y la lectura usa las fuentes actuales en memoria, sin escrituras, hasta el siguiente mantenimiento. La CLI rechaza punteros discrepantes, archivo ausente o versión interior diferente. Una versión futura requiere actualizar ambos punteros y verificar el PDF y sus símbolos; **no requiere cambiar código**. Reinicia los clientes MCP ya abiertos después de esta actualización para cargar el motor nuevo; no requiere cambiar su conexión. El glosario admite tanto los encabezados separados de 2.2 como el formato «término: definición» de 2.3. El resto de PDF se selecciona mediante `fuentes.json`; conserva allí solo los originales activos y amplía sus patrones si cambian los nombres. Si hay varias copias de una política, elimina la antigua de la selección configurada antes de acreditarla como vigente.
 
 **Los símbolos varían entre PDF incluso con el mismo nombre de fuente.** `fuentes.json/glyph_maps` vincula cada mapeo comprobado a SHA-256. CR, Coconut y las notas del set usan códigos distintos. Ante un PDF nuevo con fuente de símbolos, la CLI imprime su hash y exige verificar visualmente y añadir su mapeo en ese archivo de configuración. No reutilices automáticamente el perfil de otro PDF ni sustituyas puntuación globalmente. Los PDF sin símbolos no necesitan ese perfil. La extracción ilegible, una página vacía, un símbolo desconocido o números de regla duplicados/fuera de orden producen un error, preservando el índice anterior.
+
+Tras verificar un original nuevo, genera su Markdown paginado y agrega la entrada que imprime el comando a `fuentes.json/paged_pdf_texts`. La clave es el hash del original y la entrada identifica el Markdown y su hash. Luego ejecuta `actualizar`. Si un PDF seleccionado carece de registro, falta su transcripción o cambian sus bytes, el motor detiene la consulta y señala la fuente.
+
+```powershell
+python -B -X utf8 herramientas/consulta_lorcana/generar_texto_paginado.py "Documentacion Oficial/Nombre-del-original.pdf"
+```
 
 La consulta ordinaria no usa red. «Vigente» significa según la copia local identificada. Para una novedad o vigencia actual, el agente debe comprobar los originales en la [página oficial de recursos](https://www.disneylorcana.com/en-US/resources/) o declarar que solo acredita la copia local. Comprueba el enlace real, el interior y la fecha del documento, compara con la copia conservada y registra la verificación. `verified_on` acredita la fecha de una comprobación del enlace, no monitorización posterior ni identidad binaria con la descarga remota. La selección local sigue siendo la de los punteros del repositorio.
 
@@ -141,7 +147,7 @@ Los cambios previos del usuario se conservaron; no se hicieron commits ni se cam
 | Síntoma | Acción |
 |---|---|
 | `python` no existe | Seleccionar Python instalado/bundled y ejecutar el script con su ruta completa. |
-| Falta PyMuPDF | Instalar `requirements.txt` fuera del modo consulta; un índice preparado puede consultarse sin importar PyMuPDF si sigue actual. |
+| Falta PyMuPDF al generar o contrastar una transcripción | Instalar `requirements.txt` en el entorno de mantenimiento. |
 | FTS5 no disponible | Usar el fallback automático o `actualizar --sin-fts`. |
 | Texto de PDF ilegible / símbolos sin perfil | Revisar páginas, OCR o mapeo en mantenimiento; no emitir ruling con extracción defectuosa. |
 | Índice viejo | La consulta usa memoria sin escribir; ejecutar `actualizar` por separado cuando esté autorizado. |
