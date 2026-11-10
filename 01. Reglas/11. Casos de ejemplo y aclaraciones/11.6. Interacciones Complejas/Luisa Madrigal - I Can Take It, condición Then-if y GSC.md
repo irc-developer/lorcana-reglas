@@ -53,6 +53,17 @@ El punto clave con **Ward** es este: **Ward no impide activar la habilidad**. Lo
 | 6 | La habilidad termina de resolverse | 0 daño |
 | 7 | Se hace el **GSC** | Luisa no se destierra |
 
+**Con 4 de Voluntad y 4 daños tras la primera instrucción**
+
+```mermaid
+flowchart TD
+    A{"¿Hay un personaje<br/>rival legal?"}
+    A -->|Sí| B["Mueve los 4 daños"]
+    A -->|No| C["Conserva los 4 daños"]
+    B --> D["En el chequeo<br/>Luisa sigue en juego"]
+    C --> E["En el chequeo<br/>Luisa es desterrada"]
+```
+
 ---
 
 ## 📘 Referencias

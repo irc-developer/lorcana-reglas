@@ -53,6 +53,17 @@ Esto no acelera el juego por sí mismo, pero **reduce el coste de oportunidad de
 
 ## Análisis matemático simplificado
 
+En el modelo, ambos jugadores roban y juegan una carta. La diferencia en el saldo de la mano depende de dónde sale la carta que entintan.
+
+```mermaid
+flowchart TD
+    A["Robas 1 carta<br/>y juegas 1 carta"]
+    A --> B["Entintas 1 carta<br/>de la mano"]
+    A --> C["Entintas 1 carta<br/>del descarte"]
+    B --> D["Saldo de la mano<br/>−1 carta por turno"]
+    C --> E["Saldo de la mano<br/>0 cartas por turno"]
+```
+
 ### Escenario base (sin efectos adicionales)
 
 Ambos jugadores, cada turno:

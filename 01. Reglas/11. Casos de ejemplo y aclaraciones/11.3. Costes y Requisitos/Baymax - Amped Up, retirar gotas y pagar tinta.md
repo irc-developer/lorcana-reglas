@@ -17,6 +17,15 @@ Una gota puede utilizarse para pagar 1 {I} hacia un coste de tinta. Aquí la ins
 
 Si eliges jugar a Baymax por su coste normal de 7 {I}, sí puedes combinar cartas de tinta y gotas para pagar ese coste. En ambos modos deben cumplirse los demás requisitos; Shift necesita un personaje válido sobre el que jugarlo.
 
+```mermaid
+flowchart TD
+    A{"¿Cómo juegas a Baymax?"}
+    A -->|Shift| B["Retira 2 gotas<br/>como coste directo"]
+    A -->|Coste normal| C["Paga 7 de tinta"]
+    B --> D["Las cartas de tinta<br/>no sustituyen las gotas"]
+    C --> E["Cartas de tinta, gotas<br/>o una combinación"]
+```
+
 ---
 
 ## 📘 Referencias

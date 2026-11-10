@@ -148,6 +148,19 @@ Si un Lore Guide **no puede determinar con claridad** si se ha obtenido informac
 
 ---
 
+**Qué revisa el Lore Guide.** El jugador pide la reversión de inmediato. Para que el Lore Guide pueda autorizarla, debe tratarse de la última jugada, sin acciones posteriores. Si el jugador obtuvo información adicional o el Lore Guide no puede determinarlo, se deniega la solicitud.
+
+```mermaid
+flowchart TD
+    A{"¿Última jugada<br/>sin acciones posteriores?"}
+    A -->|No| D["Se deniega"]
+    A -->|Sí| B{"¿Obtuvo información<br/>adicional o hay duda?"}
+    B -->|Sí| D
+    B -->|No| C["El Lore Guide<br/>puede autorizarlo"]
+```
+
+---
+
 ## Acciones Agrupadas y Out-of-Order Sequences
 
 Una jugada puede consistir en **un conjunto de acciones comunicadas como una sola intención**, también conocido como _Out-of-Order Sequence_.

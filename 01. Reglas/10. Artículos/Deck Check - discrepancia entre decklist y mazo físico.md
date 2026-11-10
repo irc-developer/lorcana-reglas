@@ -12,6 +12,16 @@ Que mazo y lista sean legales pero distintos aparece entre los ejemplos de error
 
 La medida base es Game Loss. Incluye una lista que debe cambiarse para reflejar el mazo, un mazo de Construido de 59 cartas cuya carta ausente no se encuentra, o más de dos tintas. El remedio depende del defecto concreto: se corrigen las tintas o se consiguen cartas para alcanzar el mínimo; el juez puede emitir Ink Card Proxies si no pueden conseguirse las cartas necesarias. Si después se consiguen las cartas originales, puede recuperarse la composición registrada sin una nueva penalización.
 
+**Ejemplo de las 59 cartas en Construido.** Si la lista registrada es legal, encontrar en la caja la carta que falta permite ajustar el mazo a esa lista. Si no se puede localizar la carta, el error es mayor.
+
+```mermaid
+flowchart TD
+    A["59 cartas en Construido<br/>y lista legal"]
+    A --> B{"¿Se localiza la carta<br/>que falta?"}
+    B -->|En la caja| C["Error menor<br/>Warning"]
+    B -->|No aparece| D["Error mayor<br/>Game Loss"]
+```
+
 ## Legalidad y comunicación
 
 En Construido se requieren al menos 60 cartas, un máximo de dos tintas y hasta cuatro copias por **nombre completo inglés**, incluida la versión. También se comprueban la rotación y las prohibiciones del formato concreto. Véanse [[1.3. Formatos de Torneo]] y [[1.6 Legalidad de Sets (Set Legality)]].

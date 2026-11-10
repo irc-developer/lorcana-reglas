@@ -18,6 +18,17 @@ La habilidad de Fergus se dispara al **agotarse durante tu turno**, no por estar
 
 Si resuelves Fergus primero, todavía no puedes jugar esta Sleepy Hollow desde el descarte, porque sigue en la zona de juego. Podrías jugar otra localización válida o no usar el efecto; ese disparo ya resuelto no se guarda para después.
 
+**El orden decide si puedes recuperar esa misma carta.** El esquema supone que eliges desterrar Sleepy Hollow al resolver su habilidad y que la partida sigue.
+
+```mermaid
+flowchart TD
+    A{"¿Qué habilidad<br/>resuelves primero?"}
+    A -->|Sleepy Hollow| B["La localización<br/>pasa al descarte"]
+    B --> C["Fergus puede jugarla<br/>desde el descarte"]
+    A -->|Fergus| D["La localización<br/>sigue en juego"]
+    D --> E["Fergus no puede<br/>jugar esa carta"]
+```
+
 ---
 
 ## 📘 Referencias

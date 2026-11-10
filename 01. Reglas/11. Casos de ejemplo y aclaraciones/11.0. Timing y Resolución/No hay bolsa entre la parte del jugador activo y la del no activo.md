@@ -16,6 +16,15 @@ Si varios jugadores tienen que actuar como parte de la misma instrucción, sigue
 
 Desde el **16 de octubre de 2026**, CR 2.3 desarrolla el caso de un efecto con varias partes en 6.7.6.1: todos completan la primera parte antes de pasar a la segunda, y se repite ese orden en cada parte. El jugador activo no realiza todas las partes antes de que actúe el siguiente. En el ejemplo de una única instrucción de jugar, el resultado se mantiene.
 
+```mermaid
+flowchart TD
+    A["Primera parte<br/>Jugador activo → resto"]
+    A --> B["Segunda parte<br/>Jugador activo → resto"]
+    B --> C["Termina el efecto"]
+    C --> D["Chequeo del estado"]
+    D --> E["Se resuelve la bolsa<br/>si la partida sigue"]
+```
+
 Eso implica dos consecuencias prácticas:
 
 - el jugador no activo sí toma su decisión con la información pública que ya haya dejado el jugador activo en mesa

@@ -19,6 +19,16 @@ FOOLS! exige las **cinco cartas de personaje** y una base legal de Shift llamada
 
 **Variante con [A Whole New World](https://cards.lorcast.io/card/digital/large/crd_3a299da6bf864690a188f07aeb55ffdf.avif?1709690747):** si la resuelves después de FOOLS! y solo quedan esas cinco cartas, descartas la mano y robas las cinco disponibles de una en una; los dos robos restantes no pueden hacerse. Si no añades cartas después y la partida llega al final de tu turno, pierdes por mazo vacío.
 
+```mermaid
+flowchart TD
+    A["Robo inicial<br/>Mazo vacío"]
+    A --> B["El turno continúa"]
+    B --> C["Resuelve los disparos<br/>de final del turno"]
+    C --> D{"Al acabar el turno<br/>¿sigue vacío el mazo?"}
+    D -->|Sí| E["Pierdes la partida"]
+    D -->|No| F["Sigues en la partida"]
+```
+
 ---
 
 ## 📘 Referencias
