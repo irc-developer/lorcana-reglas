@@ -15,7 +15,17 @@ from pydantic import ValidationError
 from adaptador import Adaptador, REPO
 from modelos import ENTRADAS, SALIDAS
 
-VERSION = "0.2.4"
+VERSION = "0.2.5"
+CALCULO_DANO = (
+    "Distingue a cuántos personajes una fuente infligió daño de cuánto daño infligió. "
+    "«Cuánto daño infligió» pregunta por la cantidad final aunque no mencione los modificadores. "
+    "El daño base es un valor intermedio. Aplica todos los modificadores, incluido Resist, "
+    "a cada evento para cada personaje o localización y suma las cantidades finales "
+    "(CR 1.9.4.2–3 y 8.8.1–2). "
+    "Cuando un modificador reduce el daño a cero, 1.9.5 conserva el hecho de que la fuente "
+    "infligió daño a ese personaje, pero aporta cero al total y no coloca contadores. "
+    "La cifra base que menciona el ejemplo de Smash en 1.9.5 no cambia ese cálculo. "
+)
 INSTRUCCIONES = (
     "Evidencia local de Lorcana, no rulings automáticos. Lee AGENTS.md y la capa .github/. "
     "Para resolver una duda de partida, empieza por primary_rules (las CR inglesas vigentes "
@@ -25,6 +35,7 @@ INSTRUCCIONES = (
     "spanish sirve para localizar y citar. Usa case y support como ejemplos y pistas para "
     "localizar reglas, nunca como autoridad normativa ni para suplir una regla decisiva. "
     "Si un caso discrepa de las CR, aplica las CR y explica la discrepancia. "
+    f"{CALCULO_DANO}"
     "consulta: es solo lectura; documenta: y preguntas sin señal conservan el workflow editorial. "
     "Al documentar una duda, el asistente debe validar, crear un commit, hacer push y publicar "
     "solo los archivos de esa transacción en Obsidian Publish antes de responder, según "
@@ -47,7 +58,14 @@ DESCRIPCIONES = {
     "obtener_carta": "Recupera fichas completas de archivos de set y candidatos con procedencia. Ausencia/ambigüedad no permite cerrar un ruling. Auxiliar: conserva el modo editorial original.",
     "obtener_regla": "Recupera una regla CR exacta, contexto, páginas y referencias verificadas localmente. Expresa ausencia. Auxiliar: conserva el modo editorial original.",
     "obtener_pagina": "Lee una página completa de las Comprehensive Rules seleccionadas por fecha desde el Markdown paginado registrado. Devuelve texto, versión y ruta local. Usa obtener_regla si basta una regla. Auxiliar de solo lectura.",
-    "buscar_evidencia": "Recupera evidencia agrupada con hashes, citas y limitaciones. Para dudas de partida, fundamenta el ruling en primary_rules y cards; usa case y support como ejemplos y pistas. modo obligatorio: consulta para petición explícita de solo lectura; documenta para preguntas ordinarias o documenta:. En documenta, el asistente completa el workflow editorial, commit, push y publicación en Obsidian solo de los archivos de esa duda. La herramienta solo recupera evidencia.",
+    "buscar_evidencia": (
+        "Recupera evidencia agrupada con hashes, citas y limitaciones. Para dudas de partida, "
+        "fundamenta el ruling en primary_rules y cards; usa case y support como ejemplos y pistas. "
+        f"{CALCULO_DANO}"
+        "modo obligatorio: consulta para petición explícita de solo lectura; documenta para preguntas "
+        "ordinarias o documenta:. En documenta, el asistente completa el workflow editorial, commit, push "
+        "y publicación en Obsidian solo de los archivos de esa duda. La herramienta solo recupera evidencia."
+    ),
 }
 
 

@@ -160,6 +160,36 @@ main()
                             self.assertTrue(packet["local_link"])
         self.assertEqual(before, snapshot(REPO))
 
+    async def test_calculo_dano_y_resist_se_recuperan_juntos(self):
+        async with cliente() as client:
+            listing = await client.list_tools()
+            buscar = next(tool for tool in listing.tools if tool.name == "buscar_evidencia")
+            for guidance in (client.instructions, buscar.description):
+                self.assertIn("pregunta por la cantidad final aunque no mencione los modificadores", guidance)
+                self.assertIn("suma las cantidades finales", guidance)
+                self.assertIn("aporta cero al total", guidance)
+
+            for question in (
+                "¿Cuánto daño ha infligido Jafar en total?",
+                "How much damage has Jafar dealt?",
+                "How many characters has Jafar dealt damage to this turn?",
+            ):
+                with self.subTest(question=question):
+                    result = await client.call_tool("buscar_evidencia", {
+                        "pregunta": question, "modo": "consulta", "limite": 1,
+                    })
+                    self.assertFalse(result.is_error, result.content)
+                    rules = {p["rule"]: p for p in result.structured_content["primary_rules"]}
+                    for number, expected in {
+                        "1.9.4.2": "modifiers are applied",
+                        "1.9.4.3": "resulting number is the total amount",
+                        "1.9.5": "considered to “deal” damage",
+                        "8.8.1": "reduced by N",
+                        "8.8.2": "takes no damage",
+                    }.items():
+                        self.assertIn(expected, rules[number]["text"])
+                        self.assertTrue(rules[number]["citation_verified"])
+
     async def test_cli_equivalente_y_modos(self):
         async with cliente() as client:
             requests = [("obtener_carta", {"nombre": "Minnie Mouse - Practical Traveler"}, ["carta", "Minnie Mouse - Practical Traveler"]),

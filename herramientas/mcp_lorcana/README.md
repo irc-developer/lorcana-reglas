@@ -1,6 +1,6 @@
 # MCP local de Lorcana
 
-Servidor `lorcana` 0.2.4. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia para que el asistente interprete y aplique el workflow editorial. Funciona localmente con los archivos del proyecto.
+Servidor `lorcana` 0.2.5. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia para que el asistente interprete y aplique el workflow editorial. Funciona localmente con los archivos del proyecto.
 
 **Migración CR 2.3, 09/10/2026:** el motor valida originales y selecciona 2.2 hasta el 15/10 y 2.3 desde el 16/10; excluye adaptaciones futuras hasta su fecha y conserva históricos fuera de la evidencia activa. Reinicia el servidor de un cliente ya abierto para cargar estos cambios de código y extracción, sin reinstalar ni modificar su configuración. Los ensayos stdio usan procesos nuevos con el motor actualizado.
 
@@ -39,6 +39,8 @@ Si el MCP no está disponible, AGENTS.md y la skill dirigen a la CLI con el mism
 Las herramientas de búsqueda y estado admiten `formato="lectura"` (predeterminado) o `formato="completo"`. `obtener_pagina` devuelve una sola página del Markdown registrado, sin índice ni extracción del PDF. Si el número supera el total devuelve `pagina_ausente`. `modo` admite `consulta` y `documenta`, y es obligatorio para la búsqueda. Un prefijo dentro de `pregunta` debe concordar; `actualiza:` y prefijos contradictorios producen error. `limite` es entero 1–12 y solo controla resultados complementarios. Los ámbitos son los de la CLI. Entradas desconocidas, números de regla mal formados y campos para escoger rutas arbitrarias se rechazan. Raíz y base se eligen solo al arrancar.
 
 Para dudas de partida, fundamenta el ruling primero en `primary_rules` y comprueba el texto de las cartas en `cards`. Amplía con `obtener_regla` u `obtener_pagina` si falta el pasaje que decide la interacción. `spanish` permite citar la localización castellana. Los grupos `case` y `support` sirven para ilustrar el ruling o localizar reglas. Si un caso discrepa de las reglas inglesas seleccionadas, prevalecen las reglas. El cliente recibe esta prioridad al inicializar la conexión con el servidor 0.2.4.
+
+Desde 0.2.5, las búsquedas sobre Resist y cantidad de daño recuperan juntas las CR 1.9.4.2–3, 1.9.5 y 8.8.1–2. «Cuánto daño infligió» pide la cantidad final tras aplicar todos los modificadores, aunque la pregunta no los mencione. El daño base es un valor intermedio. Un daño reducido a cero puede contar para saber a cuántos personajes la fuente infligió daño y aporta cero a la suma. Reinicia el servidor de un cliente ya abierto para cargar esta instrucción.
 
 Carta, regla y página devuelven `mode="auxiliar"` y `editorial_required=null` para que el asistente conserve el modo original. La búsqueda devuelve `editorial_required=true` para documentación. Un resultado insuficiente es evidencia válida con limitaciones, no un fallo técnico. Un fallo técnico devuelve `isError=true`, contenido JSON con `status="error"` y `no_ruling=true`.
 
