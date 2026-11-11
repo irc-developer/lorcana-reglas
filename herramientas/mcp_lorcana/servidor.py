@@ -15,9 +15,16 @@ from pydantic import ValidationError
 from adaptador import Adaptador, REPO
 from modelos import ENTRADAS, SALIDAS
 
-VERSION = "0.2.3"
+VERSION = "0.2.4"
 INSTRUCCIONES = (
     "Evidencia local de Lorcana, no rulings automáticos. Lee AGENTS.md y la capa .github/. "
+    "Para resolver una duda de partida, empieza por primary_rules (las CR inglesas vigentes "
+    "según la selección local) y verifica el texto de las cartas en cards. Fundamenta cada "
+    "paso decisivo en esas fuentes y reconstruye el orden de los eventos. Si falta una regla "
+    "decisiva, amplía primary_rules con obtener_regla, obtener_pagina o el Markdown paginado. "
+    "spanish sirve para localizar y citar. Usa case y support como ejemplos y pistas para "
+    "localizar reglas, nunca como autoridad normativa ni para suplir una regla decisiva. "
+    "Si un caso discrepa de las CR, aplica las CR y explica la discrepancia. "
     "consulta: es solo lectura; documenta: y preguntas sin señal conservan el workflow editorial. "
     "Al documentar una duda, el asistente debe validar, crear un commit, hacer push y publicar "
     "solo los archivos de esa transacción en Obsidian Publish antes de responder, según "
@@ -40,7 +47,7 @@ DESCRIPCIONES = {
     "obtener_carta": "Recupera fichas completas de archivos de set y candidatos con procedencia. Ausencia/ambigüedad no permite cerrar un ruling. Auxiliar: conserva el modo editorial original.",
     "obtener_regla": "Recupera una regla CR exacta, contexto, páginas y referencias verificadas localmente. Expresa ausencia. Auxiliar: conserva el modo editorial original.",
     "obtener_pagina": "Lee una página completa de las Comprehensive Rules seleccionadas por fecha desde el Markdown paginado registrado. Devuelve texto, versión y ruta local. Usa obtener_regla si basta una regla. Auxiliar de solo lectura.",
-    "buscar_evidencia": "Recupera evidencia agrupada, fichas y reglas completas con hashes, citas y limitaciones. modo obligatorio: consulta para petición explícita de solo lectura; documenta para preguntas ordinarias o documenta:. En documenta, el asistente completa el workflow editorial, commit, push y publicación en Obsidian solo de los archivos de esa duda. La herramienta solo recupera evidencia.",
+    "buscar_evidencia": "Recupera evidencia agrupada con hashes, citas y limitaciones. Para dudas de partida, fundamenta el ruling en primary_rules y cards; usa case y support como ejemplos y pistas. modo obligatorio: consulta para petición explícita de solo lectura; documenta para preguntas ordinarias o documenta:. En documenta, el asistente completa el workflow editorial, commit, push y publicación en Obsidian solo de los archivos de esa duda. La herramienta solo recupera evidencia.",
 }
 
 

@@ -18,9 +18,11 @@ El permiso no prepara ni seca al atacante. Otro personaje tuyo que no lo haya re
 
 ### Ganar Bodyguard al entrar
 
-**Puede entrar agotado si lo recibe de una habilidad estática continua de una carta en juego.** Esa habilidad ya afecta al personaje al entrar y Bodyguard funciona mientras se juega.
+**Para elegir que entre agotado, el personaje debe tener Guardaespaldas cuando se determina su estado de entrada** (4.3.3, 6.7.9 y 8.3.2). Si una habilidad continua concede Guardaespaldas al personaje cuando se incorpora a la zona de juego, la palabra clave llega después de ese paso (6.4.2.3).
 
-Esto no se aplica a un efecto resuelto que solo concedió Bodyguard a las cartas presentes en aquel momento: un personaje jugado después no lo gana por ese efecto.
+En el [[Habilidades estáticas presentes en juego y sus interacciones|ejemplo de Woody, Bo Peep y Goofy]], Woody entra preparado y obtiene Guardaespaldas al entrar. La palabra clave cuenta para el disparo de Goofy al jugarlo.
+
+Un efecto resuelto que concedió Guardaespaldas solo a las cartas presentes en aquel momento afecta a ese grupo de cartas (6.4.2.2).
 
 ### Prohibición de ser desafiado
 

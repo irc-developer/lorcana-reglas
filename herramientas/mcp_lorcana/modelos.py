@@ -82,14 +82,14 @@ class EvidenciaResultado(Resultado):
     card_resolution: list[dict[str, Any]]
     missing_rule_numbers: list[str]
     excluded_related: list[dict[str, Any]]
-    primary_rules: list[dict[str, Any]]
+    primary_rules: list[dict[str, Any]] = Field(description="Reglas inglesas de la CR seleccionada. Fuente normativa principal para resolver dudas de partida.")
     cards: list[dict[str, Any]]
     official_policy: list[dict[str, Any]]
     official_notes: list[dict[str, Any]]
     special_format: list[dict[str, Any]]
     spanish: list[dict[str, Any]]
-    case: list[dict[str, Any]]
-    support: list[dict[str, Any]]
+    case: list[dict[str, Any]] = Field(description="Casos de ejemplo. Sirven para ilustrar y localizar reglas; verifica la conclusión en primary_rules y cards.")
+    support: list[dict[str, Any]] = Field(description="Material complementario de lectura y búsqueda sin autoridad normativa.")
     elapsed_ms: float
 
 
