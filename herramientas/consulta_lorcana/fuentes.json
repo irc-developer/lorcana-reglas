@@ -172,6 +172,14 @@
   ],
   "card_errata": [
     {
+      "path": "02. Listado de Cartas/Set 2 - Rise of the Floodborn.md",
+      "name": "Bucky - Squirrel Squeak Tutor",
+      "effective_on": "2024-08-09",
+      "url": "https://disneylorcana.com/en/news/2024/07/july2024-errata/",
+      "printed": "- Ward (Opponents can't choose this character except to challenge.)\nSqueak: Whenever you play a Floodborn character, each opponent chooses and discards a card.",
+      "corrected": "- Squeak: Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card."
+    },
+    {
       "path": "02. Listado de Cartas/Set 10 - Whispers in the Well.md",
       "name": "Gaston - Frightful Bully",
       "effective_on": "2026-10-16",

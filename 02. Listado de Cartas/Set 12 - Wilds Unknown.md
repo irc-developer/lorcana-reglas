@@ -1029,7 +1029,7 @@ on the vine and they'll never even know."
 ## Milo Thatch - Getting His Hands Dirty
 
 **Coste:** 7 | **Tipo:** Character | **Color:** Emerald | **Tinta:** Si | **Rareza:** Super Rare  
-**Fuerza:** 5 | **Voluntad:** 5 | **Lore:** 4  
+**Fuerza:** 5 | **Voluntad:** 5 | **Lore:** 3  
 **Set:** Wilds Unknown (12 #82) | [Imagen](https://cards.lorcast.io/card/digital/large/crd_9e585ec03c314f3b9a6299163eb1c9a9.avif?1777336822)
 
 **Habilidades:**
@@ -2664,8 +2664,8 @@ Now I'm alone
 
 ## Donald Duck - Distracted Traveler
 
-**Coste:** 5 | **Tipo:** Character | **Color:** Emerald | **Tinta:** No | **Rareza:** Epic  
-**Fuerza:** 3 | **Voluntad:** 6 | **Lore:** 3  
+**Coste:** 5 | **Tipo:** Character | **Color:** Emerald | **Tinta:** Si | **Rareza:** Epic  
+**Fuerza:** 3 | **Voluntad:** 6 | **Lore:** 2  
 **Set:** Wilds Unknown (12 #212) | [Imagen](https://cards.lorcast.io/card/digital/large/crd_5186a8ffa2ac448c9108a110b747e4e5.avif?1777337422)
 
 **Habilidades:**
@@ -2821,7 +2821,7 @@ And I'll be shooting for my own hand."
 ## Isabela Madrigal - Caring Cultivator
 
 **Coste:** 6 | **Tipo:** Character | **Color:** Amber | **Tinta:** Si | **Rareza:** Enchanted  
-**Fuerza:** 4 | **Voluntad:** 5 | **Lore:** 3  
+**Fuerza:** 4 | **Voluntad:** 5 | **Lore:** 2  
 **Set:** Wilds Unknown (12 #224) | [Imagen](https://cards.lorcast.io/card/digital/large/crd_68c6733378304dca8d2adb4b1c993433.avif?1777337490)
 
 **Habilidades:**
@@ -2892,7 +2892,7 @@ And I'll be shooting for my own hand."
 ## Milo Thatch - Getting His Hands Dirty
 
 **Coste:** 7 | **Tipo:** Character | **Color:** Emerald | **Tinta:** Si | **Rareza:** Enchanted  
-**Fuerza:** 5 | **Voluntad:** 5 | **Lore:** 2  
+**Fuerza:** 5 | **Voluntad:** 5 | **Lore:** 3  
 **Set:** Wilds Unknown (12 #230) | [Imagen](https://cards.lorcast.io/card/digital/large/crd_2ec97929d9ee45578f91dea1a62048b8.avif?1777337532)
 
 **Habilidades:**
@@ -2915,7 +2915,7 @@ And I'll be shooting for my own hand."
 ## Jack-jack Parr - Incredible Potential
 
 **Coste:** 4 | **Tipo:** Character | **Color:** Ruby | **Tinta:** Si | **Rareza:** Enchanted  
-**Fuerza:** 4 | **Voluntad:** 4 | **Lore:** 2  
+**Fuerza:** 4 | **Voluntad:** 4 | **Lore:** 1  
 **Set:** Wilds Unknown (12 #232) | [Imagen](https://cards.lorcast.io/card/digital/large/crd_519eea38258c49ca9b1eab9981d74544.avif?1777337538)
 
 **Habilidades:**
@@ -2928,8 +2928,8 @@ And I'll be shooting for my own hand."
 
 ## The Leviathan - Guardian of Atlantis
 
-**Coste:** 10 | **Tipo:** Character | **Color:** Ruby | **Tinta:** Si | **Rareza:** Enchanted  
-**Fuerza:** 10 | **Voluntad:** 10 | **Lore:** 4  
+**Coste:** 10 | **Tipo:** Character | **Color:** Ruby | **Tinta:** No | **Rareza:** Enchanted  
+**Fuerza:** 10 | **Voluntad:** 10 | **Lore:** 3  
 **Set:** Wilds Unknown (12 #233) | [Imagen](https://cards.lorcast.io/card/digital/large/crd_acf86cd5ee4e434fac91134e9ecf07c5.avif?1777337550)
 
 **Habilidades:**
@@ -3000,7 +3000,7 @@ And I'll be shooting for my own hand."
 ## Mrs. Incredible - Determined Rescuer
 
 **Coste:** 7 | **Tipo:** Character | **Color:** Steel | **Tinta:** Si | **Rareza:** Enchanted  
-**Fuerza:** 5 | **Voluntad:** 4 | **Lore:** 2  
+**Fuerza:** 5 | **Voluntad:** 4 | **Lore:** 3  
 **Set:** Wilds Unknown (12 #239) | [Imagen](https://cards.lorcast.io/card/digital/large/crd_fcfb9ad84f3a4c2db462a9ec4d3a63d1.avif?1777337587)
 
 **Habilidades:**

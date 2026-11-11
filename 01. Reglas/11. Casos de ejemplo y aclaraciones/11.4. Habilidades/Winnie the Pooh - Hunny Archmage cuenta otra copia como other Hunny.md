@@ -32,7 +32,7 @@ Cada Winnie the Pooh ve a la otra copia como un personaje Hunny distinto. Para a
 
 ## 📚 Fuente oficial
 
-Aclaración oficial: [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 
@@ -40,7 +40,7 @@ Aclaración oficial: [CR 2.2.0, original histórico](https://files.disneylorcana
 
 Las clasificaciones pertenecen a cada carta física concreta y no se transfieren entre versiones que comparten personaje. Para Winnie the Pooh — Hunny Wizard se aplica la errata o fuente de carta vigente; una aplicación que aún no la muestre no demuestra que la errata no exista.
 
-Fundamento: regla 5.3 de [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y la errata publicada de la carta.
+Fundamento: regla 5.3 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y la errata publicada de la carta.
 
 ---
 

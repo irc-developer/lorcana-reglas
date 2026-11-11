@@ -6,17 +6,19 @@ Cuando un personaje tiene varios efectos de reemplazo aplicables al mismo evento
 
 ## ✅ Respuesta
 
-El jugador afectado elige cuál efecto de reemplazo aplicar primero.  
-Después de aplicar uno, el evento se modifica y se vuelve a comprobar si quedan efectos de reemplazo aplicables. Si el primer reemplazo elimina completamente el daño, los demás reemplazos sobre ese daño dejan de ser aplicables porque ese evento ya no existe en su forma original.
+El jugador cuyas cartas o efectos se ven afectados elige qué reemplazo aplicable usar, dando **prioridad a los autorreemplazos**. Tras aplicar uno, vuelve a evaluar cuáles pueden afectar al evento modificado. Cada reemplazo solo tiene una oportunidad de aplicarse al mismo evento.
+
+Si el primer reemplazo elimina el daño, un reemplazo distinto que dependía de ese daño deja de ser aplicable a ese evento. Si su duración sigue vigente, puede aplicarse a un evento posterior.
+
+Si **varias instancias del mismo reemplazo** pueden aplicarse al mismo evento, el jugador afectado elige una y las demás **dejan de existir**. Por ejemplo, si ACT OF KINDNESS de Rapunzel protege dos veces al mismo personaje, el primer daño al que ambas protecciones podrían aplicarse consume las dos.
 
 ---
 
 ## 📘 Referencias
 
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1. Definición]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4. Qué pasa cuando es reemplazado]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.7. Múltiples efectos de reemplazo sobre el mismo evento]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.2. Segundo paso - efectos de reemplazo]]
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4–6.5.7. Evento modificado, prioridad del autorreemplazo y orden de aplicación]].
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.8. Varias instancias del mismo reemplazo]].
+- [[Rapunzel - dos escudos de Act of Kindness se consumen a la vez|Ejemplo de dos protecciones de Rapunzel]].
 
 ---
 

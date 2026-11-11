@@ -178,7 +178,7 @@ Jugar una segunda Spyglass Hat encuentra otra del mismo nombre y no cumple la co
 
 ## 📚 Fuente oficial
 
-[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf). Las notas aclaran el ejemplo de Winnie the Pooh; las reglas 5.2.6.1–5.2.6.3 explican los personajes con varios nombres.
+[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf). Las notas aclaran el ejemplo de Winnie the Pooh; las reglas 5.2.6.1–5.2.6.3 explican los personajes con varios nombres.
 
 ---
 

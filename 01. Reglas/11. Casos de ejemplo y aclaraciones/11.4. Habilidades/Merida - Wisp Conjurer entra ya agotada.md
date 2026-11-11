@@ -21,7 +21,7 @@ La misma distinción explica FOCUSED ENERGY de Merida: si eliges usarla, Merida 
 - [[8.10. Cambio (Shift)|8.10. Shift]]: al hacer Shift sobre una carta agotada, el personaje resultante entra agotado.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.9. Cómo entran las cartas en juego]]: los efectos que modifican la entrada se aplican mientras la carta entra.
 - [Attack of the Vine Set Release Notes](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), aclaración oficial de Merida - Wisp Conjurer: la elección de entrar agotada se realiza al ponerla en juego.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.7.9, 8.10.2 y 8.10.3.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 6.7.9, 8.10.2 y 8.10.3.
 
 ---
 

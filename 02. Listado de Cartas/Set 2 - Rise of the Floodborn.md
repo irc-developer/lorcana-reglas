@@ -831,12 +831,17 @@ Thorny Arrows: Whenever this character is challenged, the challenging character'
 
 ## Bucky - Squirrel Squeak Tutor
 
-**Coste:** 2 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Uncommon  
+**Coste:** 3 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 1 | **Voluntad:** 1 | **Lore:** 1  
 **Set:** Rise of the Floodborn (ROF #2) | [🖼️ Imagen](https://lorcana-api.com/images/bucky/squirrel_squeak_tutor/bucky-squirrel_squeak_tutor-large.png)
 
 
 **Habilidades:**
+- Squeak: Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card.
+
+**Errata vigente desde el 09/08/2024:** el coste es 3, se elimina Ward y Squeak exige usar Shift. [Errata oficial de Ravensburger](https://disneylorcana.com/en/news/2024/07/july2024-errata/).
+
+**Texto impreso histórico (coste 2):**
 - Ward (Opponents can't choose this character except to challenge.)
 Squeak: Whenever you play a Floodborn character, each opponent chooses and discards a card.
 
@@ -2092,7 +2097,7 @@ It's Better This Way: At the start of your turn, if this character has no damage
 
 ## Jafar - Royal Vizier
 
-**Coste:** 3 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Common  
+**Coste:** 2 | **Tipo:** Character | **Color:** Steel | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 3 | **Voluntad:** 2 | **Lore:** 1  
 **Set:** Rise of the Floodborn (ROF #2) | [🖼️ Imagen](https://lorcana-api.com/images/jafar/royal_vizier/jafar-royal_vizier-large.png)
 

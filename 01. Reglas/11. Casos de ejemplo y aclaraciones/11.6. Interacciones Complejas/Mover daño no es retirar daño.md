@@ -35,11 +35,11 @@ La regla de "take" indica que un personaje o localización recibe daño cuando s
 
 Esto confirma que el daño movido no se trata como daño infligido, pero sigue siendo daño puesto sobre el destino.
 
-- [[1.9. Daño (Damage)|1.9.1 Definición general del daño]]
-- [[1.9. Daño (Damage)|1.9.1.2 Put]]
-- [[1.9. Daño (Damage)|1.9.1.3 Remove/Removed]]
-- [[1.9. Daño (Damage)|1.9.1.4 Move]]
-- [[1.9. Daño (Damage)|1.9.1.5 Take]]
+- [[1.9. Daño (Damage)|1.9.1. Contadores de daño]]
+- [[1.9. Daño (Damage)|1.9.2.2. Poner daño]]
+- [[1.9. Daño (Damage)|1.9.2.3. Retirar daño]]
+- [[1.9. Daño (Damage)|1.9.2.4. Mover daño]]
+- [[1.9. Daño (Damage)|1.9.3. Recibir daño]]
 - [[8.8. Resistir (Resist)|8.8.3 Daño movido o puesto]]
 
 ---

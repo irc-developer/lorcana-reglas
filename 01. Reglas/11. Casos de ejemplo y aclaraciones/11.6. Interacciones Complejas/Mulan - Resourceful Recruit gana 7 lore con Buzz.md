@@ -21,7 +21,7 @@ Mulan tiene **0 {L} impreso**. Sin el +1 {L} de Buzz, esta misma combinación da
 - [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.1.]]: los modificadores cambian las características durante su duración.
 - [[4.5 Irse de aventura (Quest)|4.5.1.4 y 4.5.2.]]: primero se gana lore igual al valor {L} del personaje que hace quest; después pueden resolverse las habilidades disparadas al questear.
 - [[7.7. Bolsa (Bag)|7.7.3.1 y 7.7.4.2.]]: los disparos esperan en la bolsa y se resuelven como efectos separados.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 4.3.3–4.3.4, 4.5.1.4–4.5.2, 6.6.1 y 7.7.3–7.7.4.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 4.3.3–4.3.4, 4.5.1.4–4.5.2, 6.6.1 y 7.7.3–7.7.4.
 
 ---
 

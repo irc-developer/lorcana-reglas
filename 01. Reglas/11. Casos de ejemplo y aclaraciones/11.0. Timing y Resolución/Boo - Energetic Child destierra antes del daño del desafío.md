@@ -64,7 +64,7 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 
 ## 📚 Fuente oficial
 
-[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), p. 26 (Boo contra Piglet). La interacción con Scrooge aplica las reglas de bolsa y cambio de zona.
+[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), p. 26 (Boo contra Piglet). La interacción con Scrooge aplica las reglas de bolsa y cambio de zona.
 
 ---
 

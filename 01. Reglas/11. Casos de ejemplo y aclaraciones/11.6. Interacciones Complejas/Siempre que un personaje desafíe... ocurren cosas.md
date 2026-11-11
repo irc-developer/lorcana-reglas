@@ -31,7 +31,7 @@ Si Mother Gothel mueve daño al personaje desafiado y eso hace que alcance o sup
 - [[6.1. General (General)|6.1 General]]: la subregla 6.1.3 indica que todas las elecciones se realizan durante la resolución del efecto.
 - [[1.8. Chequeo del estado del juego (Game State Check)|1.8 Chequeo del estado del juego]]: la subregla 1.8.1.4 indica que un personaje con daño igual o superior a su Willpower es desterrado en el game state check.
 - [[4.6 Desafío (Challenge)|4.6 Desafío]]: las subreglas 4.6.7 y 4.6.9 aclaran que el challenge solo termina al final del proceso normal o antes si un personaje sale del challenge.
-- [[1.9. Daño (Damage)|1.9 Daño]]: las subreglas 1.9.1.4 y 1.9.1.5 aclaran que mover daño quita contadores del origen y pone esos mismos contadores en el destino, y que ese destino recibe daño.
+- [[1.9. Daño (Damage)|1.9 Daño]]: las subreglas 1.9.2.4 y 1.9.3 aclaran que mover daño quita contadores del origen y pone esos mismos contadores en el destino, y que ese destino recibe daño.
 
 ## 🔗 Véase también
 

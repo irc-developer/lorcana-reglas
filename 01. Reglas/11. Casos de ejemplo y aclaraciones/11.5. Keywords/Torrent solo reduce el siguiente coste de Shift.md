@@ -20,7 +20,7 @@ La reducción solo modifica el coste de **Shift** del siguiente personaje que ha
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]]: cada cumplimiento independiente de la condición añade una instancia a la bolsa.
 - [[6.1. General (General)|6.1.2. Frases y efectos independientes]]: cada instancia se resuelve por separado.
 - [[1.5 Costes (Costs)|1.5.4. Coste y modificadores de pago]] y [[1.5 Costes (Costs)|1.5.5.2. Shift]].
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.5, 6.1.2 y 6.2.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.5, 6.1.2 y 6.2.
 
 ---
 

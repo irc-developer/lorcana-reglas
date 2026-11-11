@@ -69,7 +69,7 @@ El personaje se elige durante la resolución de la acción y debe cumplir ya su 
 - [[5.4. Acciones (Actions)|Acciones y canciones]], CR 5.4.1.2 y 5.4.4.2: cantar es pagar un coste alternativo; el efecto de una acción no entra en la bolsa.
 - [[4.1. General|Acciones de turno]], CR 4.1.5, y [[7.7. Bolsa (Bag)|Bolsa]], CR 7.7.3.1: añadir un disparo y resolverlo son momentos distintos.
 - [Comprehensive Rules 2.3.0 — PDF oficial](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13), pp. 12–13, 24 y 40, para el caso de Héctor desde el 16/10/2026.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 6.7.1.2, 6.7.4 y 6.7.8.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 6.7.1.2, 6.7.4 y 6.7.8.
 
 ---
 

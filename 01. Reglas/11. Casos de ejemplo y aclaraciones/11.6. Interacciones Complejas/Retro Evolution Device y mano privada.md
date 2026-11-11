@@ -20,7 +20,7 @@ Esto no es lo mismo que iniciar una acción de turno ilegal para jugar una carta
 - [[6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades activadas]]: una habilidad activada se usa anunciándola y pagando su coste.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Seguir las instrucciones del texto]]: un efecto se resuelve tanto como sea posible.
 - [[7.1. General|7.1. Zonas]] y [[7.3. Mano (Hand)|7.3. Mano]]: la mano es privada y no se puede inspeccionar por el oponente.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 4.4, 6.7.2.3, 7.1.2, 7.1.4 y 7.3.2.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 4.4, 6.7.2.3, 7.1.2, 7.1.4 y 7.3.2.
 
 ---
 

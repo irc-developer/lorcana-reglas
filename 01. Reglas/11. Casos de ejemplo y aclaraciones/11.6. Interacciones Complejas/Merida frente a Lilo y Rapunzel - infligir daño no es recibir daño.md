@@ -8,65 +8,22 @@ Si una acción intenta infligir daño a un personaje protegido por [Lilo - Bundl
 
 ## ✅ Respuesta
 
-**Sí** frente a Lilo y Rapunzel: Merida se dispara cuando la acción inflige daño, aunque un efecto de reemplazo haga que el personaje protegido no reciba ese daño.
-
-**No** frente a Malicious, Mean, and Scary: esa acción pone contadores de daño, pero no inflige daño. Poner, mover y recibir daño no son expresiones intercambiables.
-
-La distinción decisiva es entre el daño que **inflige la fuente** y el daño que **recibe la carta afectada**. Lilo y Rapunzel modifican el segundo hecho; no eliminan necesariamente el primero. En cambio, Malicious, Mean, and Scary utiliza desde el principio una operación distinta: poner contadores.
-
----
-
-## 🧠 La distinción decisiva: infligir, poner y recibir
-
-Una fuente puede seguir contando como que ha infligido daño aunque un efecto de reemplazo haga que el personaje no reciba ninguno. Por eso STEADY AIM se cumple ante una acción que dice *deal damage* y el daño de esa acción es reemplazado por Lilo o Rapunzel.
-
-Esto no convierte una acción que dice *put 1 damage counter* en una acción que inflige daño. Malicious, Mean, and Scary puede dejar daño sobre los personajes rivales, pero no satisface la condición de STEADY AIM.
-
----
-
-## 🔄 Secuencia con Lilo - Bundled Up
-
-Supongamos que un jugador controla a Merida y juega una acción que inflige 3 daños a la Lilo rival. Es la primera vez durante ese turno que Lilo fuera a recibir daño.
-
-1. Se calcula el daño de la acción.
-2. La acción va a infligir daño a Lilo.
-3. EXTRA LAYERS reemplaza la primera vez que Lilo fuera a recibirlo.
-4. La acción sigue contando como que ha infligido daño, pero Lilo recibe 0.
-5. La protección de Lilo queda utilizada para ese turno.
-6. STEADY AIM se dispara y se añade a la bolsa.
-7. Una vez resuelta completamente la acción, se resuelve STEADY AIM.
-8. Merida intenta infligir 2 daños a Lilo; la protección ya se ha utilizado.
-
-## 🔄 Secuencia con Rapunzel - Ready for Adventure
-
-La secuencia es equivalente con ACT OF KINDNESS: el reemplazo impide que el personaje reciba el daño y consume la protección, pero la acción que decía *deal damage* sigue siendo la fuente que lo infligió a efectos de STEADY AIM.
-
-## 🔄 Secuencia con Malicious, Mean, and Scary
-
-1. Juegas Malicious, Mean, and Scary.
-2. La acción pone 1 contador de daño sobre cada personaje rival.
-3. No se produce un evento de daño infligido por una acción.
-4. STEADY AIM no se dispara.
-5. Se comprueba el estado del juego tras terminar la resolución.
-
----
-
-## ⚠️ Errores frecuentes
-
-- «Si el personaje recibe 0, la acción no ha infligido daño»: incorrecto cuando un reemplazo modifica el daño que recibe el personaje.
-- «Poner un contador es lo mismo que infligir daño»: incorrecto; son instrucciones distintas.
-- «Los 2 daños de Merida son parte de la acción»: incorrecto; STEADY AIM crea una habilidad disparada y un evento de daño separado.
+- **Resist que reduce el daño a cero.** STEADY AIM se dispara. La regla 1.9.5 conserva el hecho de que la acción inflige daño cuando un modificador como Resist reduce a cero lo que recibe el personaje.
+- **ACT OF KINDNESS de Rapunzel.** Si el reemplazo impide que la acción inflija daño al personaje protegido, STEADY AIM no se dispara por ese personaje. El ejemplo oficial de 6.5.8 muestra que el evento modificado por esta protección es que la fuente no inflige daño a ese personaje. La regla 6.5.4 impide que se dispare una habilidad por el evento original que fue reemplazado.
+- **EXTRA LAYERS de Lilo.** En el turno de su oponente, Lilo no recibe daño la primera vez que fuera a recibirlo. Su texto reemplaza *would take damage*. Las reglas citadas y las notas de Winterspell establecen la prevención, pero no aclaran expresamente si la acción sigue contando como que inflige daño para STEADY AIM. El ejemplo de Resist de 1.9.5 se limita a modificadores y no resuelve esta interacción por sí solo.
+- **Malicious, Mean, and Scary.** STEADY AIM no se dispara. La acción pone contadores de daño directamente, una operación distinta de infligir daño. EXTRA LAYERS puede impedir que se coloque el contador sobre Lilo si es la primera vez que fuera a recibir daño en ese turno del oponente.
 
 ---
 
 ## 📘 Referencias
 
-- [Malicious, Mean, and Scary](https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397): pone 1 contador de daño sobre cada personaje rival.
-- [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117): STEADY AIM exige que una acción inflija daño.
-- [[1.9. Daño (Damage)|1.9. Daño]]: distingue infligir, poner, mover y recibir daño.
-- [[1.9. Daño (Damage)|1.9.5. Daño reducido a 0]]: una fuente puede seguir considerándose que ha infligido daño aunque el receptor no reciba ninguno.
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]: un reemplazo puede modificar el evento que recibe el personaje.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.9, 6.5 y 8.8.
+- [[1.9. Daño (Damage)|1.9.2.1, 1.9.2.2 y 1.9.3. Infligir, poner y recibir daño]].
+- [[1.9. Daño (Damage)|1.9.5. Daño reducido a cero por modificadores]].
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4 y 6.5.8. Sustitución del evento original y ejemplo de ACT OF KINDNESS]].
+- [[Merida - Steady Aim y Resist|Caso de Merida con Resist]].
+- [[Lilo - Bundled Up y Malicious, Mean, and Scary|Caso de Lilo con contadores puestos]].
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.9 y 6.5.
+- [Notas oficiales de Winterspell](https://www.disneylorcana.com/en-GB/news/2026/02/winterspell-release-notes), aclaración de EXTRA LAYERS.
 
 ---
 

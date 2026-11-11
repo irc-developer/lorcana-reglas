@@ -23,7 +23,7 @@ El resultado solo cambia si la pila ya no sigue en juego. Por ejemplo, si fue de
 ## 📘 Referencias
 
 - [[8.10. Cambio (Shift)|8.10.8.5. Temporary Shift]] crea una habilidad disparada retardada al usar ese coste alternativo. Al final del turno retira el daño y devuelve únicamente la carta jugada mediante Temporary Shift.
-- El texto inglés de [CR 2.2, 8.10.8.5](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=9) dice **“return only that card”**: “that card” se refiere a la carta con Temporary Shift, no necesariamente a la carta superior de la pila.
+- El texto inglés de [CR 2.3.0, 8.10.8.5](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=43) dice **“return only that card”**: “that card” se refiere a la carta con Temporary Shift, no necesariamente a la carta superior de la pila.
 - [[8.10. Cambio (Shift)|8.10.6. Daño]] establece que el personaje desplazado conserva el daño del personaje o las cartas sobre las que se coloca. Por eso el daño pertenece al personaje representado por la pila y se retira de su carta superior actual.
 - [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila]] regula el movimiento ordinario de una pila cuando abandona el juego su carta superior. En este caso la carta superior no abandona el juego: el ruling específico de Temporary Shift retira la carta temporal desde su posición y deja en juego las demás.
 
@@ -45,7 +45,7 @@ La frase de CR 2.2 **“if this card is in play”** puede resultar ambigua al c
 
 ## 📚 Fuente oficial
 
-[Notas oficiales de Attack of the Vine, p. 7](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): la carta con Temporary Shift vuelve a la mano también desde el medio o el fondo de la pila; el ejemplo de otro Shift encima indica que se retira el daño del personaje superior. CR 2.2, 8.10.8.5, recoge la regla general. Véase [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+[Notas oficiales de Attack of the Vine, p. 7](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): la carta con Temporary Shift vuelve a la mano también desde el medio o el fondo de la pila; el ejemplo de otro Shift encima indica que se retira el daño del personaje superior. CR 2.3.0, 8.10.8.5, recoge la regla general. Véase [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

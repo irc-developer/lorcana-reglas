@@ -32,7 +32,7 @@ Los estados preparado y agotado importan para poder declarar legalmente el desaf
 
 ## 📚 Fuente oficial
 
-Regla general: CR 2.2, 4.6.4.4, y aplicación de carta recogida en las *Attack of the Vine Set Release Notes*. Véase [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+Regla general: CR 2.3.0, 4.6.4.4, y aplicación de carta recogida en las *Attack of the Vine Set Release Notes*. Véase [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

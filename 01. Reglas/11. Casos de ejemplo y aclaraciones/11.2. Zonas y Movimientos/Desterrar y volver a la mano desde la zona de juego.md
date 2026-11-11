@@ -33,7 +33,7 @@ El evento de destierro ocurrió en el momento en que la carta abandonó la zona 
 
 Con John Smith — Snow Tracker se comprueba el evento de desafío con el texto exacto de esa carta. Si el desafío se declaró y el evento ocurrió antes de que el personaje abandone el juego, el movimiento posterior no borra el evento ya ocurrido. No se debe trasladar esta conclusión a John Smith — Undaunted Protector, cuyo texto es distinto.
 
-Fundamento: reglas 4.6.4–4.6.6 y 7.4.3 de [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+Fundamento: reglas 4.6.4–4.6.6 y 7.4.3 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

@@ -47,7 +47,7 @@ Los efectos «enters» son estáticos. Primero se aplican los de la propia carta
 - [[1.2. Regla de oro (Golden Rules)|1.2.1]]: el permiso de la carta modifica la exigencia normal de defensor agotado.
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.2–6.4.2.3]]: diferencia entre efectos sobre cartas presentes y habilidades continuas que afectan a las nuevas.
 
-[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 3, 15, 32 y 41.
+[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 3, 15, 32 y 41.
 
 ---
 

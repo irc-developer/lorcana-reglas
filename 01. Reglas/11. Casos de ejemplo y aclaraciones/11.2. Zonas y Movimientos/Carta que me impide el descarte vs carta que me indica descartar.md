@@ -29,7 +29,7 @@ Coconut permite hasta tres tipos de tinta y utiliza las reglas normales de multi
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2, 6.7.4, 6.7.5 y 6.7.6. Resolución de acciones, bolsa, GSC y orden entre jugadores]].
 - [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
 
-**Fuente primaria:** [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 3, 25–26, 32 y 36–37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
+**Fuente primaria:** [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 3, 25–26, 32 y 36–37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
 
 ---
 

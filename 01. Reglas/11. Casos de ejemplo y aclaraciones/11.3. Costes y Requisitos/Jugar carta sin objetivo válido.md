@@ -18,7 +18,7 @@ Al resolverla, se hace todo lo posible. Si un efecto obligatorio pide elegir un 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Resolver tanto como sea posible]]: se realizan todas las instrucciones que puedan realizarse.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.3. Elecciones legales]]: cada elección debe cumplir todos sus requisitos.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5. GSC]]: la comprobación se hace después de la resolución completa.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 4.3, 6.7.2.3 y 6.7.3.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 4.3, 6.7.2.3 y 6.7.3.
 
 ---
 

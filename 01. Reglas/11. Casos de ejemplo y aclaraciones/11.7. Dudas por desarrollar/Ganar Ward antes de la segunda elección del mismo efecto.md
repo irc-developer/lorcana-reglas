@@ -1,46 +1,25 @@
 ## ❓ Duda
 
-Si un efecto tiene dos instrucciones seguidas y la primera hace que un personaje rival gane Ward, ¿ese personaje deja de ser una elección legal para la segunda instrucción del mismo efecto si la segunda instrucción requiere elegir un personaje?
-
-La duda real es si la legalidad de la segunda elección se comprueba con el estado actualizado del juego en ese momento o si queda fijada por cómo estaba la mesa al empezar a resolverse el efecto completo.
+Una instrucción da Ward a un personaje rival y otra instrucción posterior pide elegir un personaje. ¿Sigue siendo una elección legal para el oponente que resuelve la carta o habilidad?
 
 ---
 
 ## ✅ Respuesta
 
-Sí, deja de ser una elección legal para la segunda instrucción si quien tiene que elegir es ahora un oponente de ese personaje.
+**Depende de cuándo se haga la segunda elección.** Si se hace después de que el personaje gane Ward, su oponente ya no puede elegirlo. Si esa elección es necesaria para calcular el daño del mismo efecto, se hace en el paso de cálculo, antes de ejecutar sus instrucciones. En ese caso el Ward que se concederá después no impide elegirlo.
 
-Las instrucciones de un mismo efecto se resuelven en orden y las elecciones se hacen cuando se llega a cada instrucción, no todas al principio. Por eso, si la primera instrucción cambia el estado del juego y hace que ese personaje tenga Ward, la segunda elección se comprueba ya con Ward activo.
+Si las instrucciones son frases separadas por un punto, cada frase es un efecto distinto, aunque ambas formen parte de la misma resolución. Si la primera frase concede Ward y la segunda inflige daño a un personaje elegido, la elección para ese daño se hace al resolver el segundo efecto, con Ward ya activo.
 
-En ese momento Ward significa que sus oponentes no pueden elegir esa carta al resolver un efecto. Así que, si eres tú quien sigue resolviendo el efecto y ese personaje ahora tiene Ward frente a ti, ya no puedes elegirlo en la segunda instrucción.
-
-La consecuencia práctica es:
-
-- si existe otro objetivo legal, tendrás que elegir ese otro objetivo
-- si no existe ningún objetivo legal, esa parte del efecto no hará nada
-- si el jugador que debe elegir no es oponente de ese personaje, Ward no se aplica contra él y la conclusión puede cambiar
+Para las demás elecciones, se usa el estado de la partida al llegar a la instrucción. Si la elección es obligatoria, se elige otra carta legal cuando exista. Si no hay ninguna, esa parte se resuelve sin efecto.
 
 ---
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.2. Los efectos secuenciales siguen formando una única resolución y se hacen en orden]]
-- [[6.1. General (General)|6.1.3. Las elecciones se hacen cuando se llega a ellas]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El texto se resuelve entero y en el orden escrito]]
-- [[8.15 Protección (ward)|8.15.1. Ward impide que los oponentes elijan esa carta al resolver un efecto]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Si aun así se hace una elección ilegal, se retrocede hasta esa elección]]
-
----
-
-## 🔄 Cómo se resuelve
-
-1. Empieza a resolverse el efecto.
-2. Se aplica la primera instrucción, que hace que un personaje rival gane Ward.
-3. El estado del juego ya ha cambiado para el resto de esa misma resolución.
-4. El efecto llega a la segunda instrucción, que ahora pide elegir un personaje.
-5. La legalidad de esa elección se comprueba en este momento, con Ward ya activo.
-6. Si quien elige es oponente de ese personaje, ya no puede elegirlo.
-7. Si hay otro objetivo legal, debe elegirse ese. Si no lo hay, esa parte del efecto se resuelve sin efecto.
+- [[6.1. General (General)|6.1.2 y 6.1.3. Efectos separados y momento de las elecciones]].
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.2 y 6.7.2.3. Elecciones para el daño y ejecución de las instrucciones]].
+- [[8.15 Protección (ward)|8.15.1. Ward impide que los oponentes elijan esa carta al resolver un efecto]].
+- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Elección ilegal durante la resolución]].
 
 ---
 

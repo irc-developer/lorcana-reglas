@@ -1,7 +1,7 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
 > [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación aplica desde el **16 de octubre de 2026**. Hasta entonces sigue vigente [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf). Las [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) se aplicaron hasta el 15 de octubre de 2026.
 
 ## ❓ Duda
 

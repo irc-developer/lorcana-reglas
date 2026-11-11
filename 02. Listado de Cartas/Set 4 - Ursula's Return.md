@@ -415,7 +415,7 @@ Hit Parade - Your characters named Stitch count as having +1 cost to sing songs.
 
 
 **Habilidades:**
-- Shift 5 (You may pay 5{i} to play this on top of one of your characters named Belle.)
+- Shift 3 (You may pay 3{i} to play this on top of one of your characters named Belle.)
 Enhanced Healing - When you play this character, move up to 3 damage counters from chosen character to chosen opposing character.
 
 ---

@@ -22,7 +22,7 @@ Si el match aún no tiene resultado —por ejemplo, sigue en curso una partida d
 - [[1.1. General|CR 1.1.3 — las reglas de torneo pueden añadir o modificar las reglas generales]].
 - [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3.4 — regla general de concesión, incluida Cleanup; en torneo se aplica junto con las restricciones de Tournament Rules]].
 
-Fuentes oficiales vigentes: [Comprehensive Rules 2.2.0 (09/07/2026)](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
+Fuentes oficiales vigentes: [Comprehensive Rules 2.3.0 (16/10/2026)](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
 ---
 

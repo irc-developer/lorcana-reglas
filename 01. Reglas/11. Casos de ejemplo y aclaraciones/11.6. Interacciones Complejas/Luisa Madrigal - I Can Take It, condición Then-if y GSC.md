@@ -74,7 +74,7 @@ flowchart TD
 - [[6.1. General (General)|6.1. General]]: las subreglas 6.1.2 y 6.1.3 indican que las frases se resuelven en orden, que se hace todo lo posible y que las elecciones se realizan durante la resolución; además, “hasta” incluye 0.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: las subreglas 6.7.2.3 y 6.7.5 establecen que las instrucciones del texto se cumplen en orden y tanto como sea posible, y que el GSC se realiza tras resolverse el efecto.
 - [[1.7. Game Actions, Timing, y Illegal Actions]]: la subregla 1.7.7 indica que si se hace una elección ilegal durante la resolución, se retrocede hasta ese punto y se elige de nuevo; si no existe ninguna elección legal, esa parte del efecto se resuelve sin efecto.
-- [[1.9. Daño (Damage)|1.9. Daño]]: las subreglas 1.9.2.3–1.9.2.5 definen qué es mover daño, qué significa recibir daño y cómo se interpretan expresiones como is damaged.
+- [[1.9. Daño (Damage)|1.9. Daño]]: 1.9.2.3–1.9.2.4 definen retirar y mover daño, y 1.9.3 establece cuándo un personaje lo recibe.
 - [[8.15 Protección (ward)]]: Ward significa que tus oponentes no pueden elegir esa carta al resolver un efecto.
 - [[8.8. Resistir (Resist)|8.8. Resistir]]: la subregla 8.8.3 aclara que Resist no reduce daño movido o puesto.
 - [[Resolución parcial sin objetivo válido]]: si una primera cláusula no puede realizarse, una segunda cláusula independiente puede resolverse igualmente.

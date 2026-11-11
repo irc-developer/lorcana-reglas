@@ -29,7 +29,7 @@ Coconut permite construir con hasta tres tipos de tinta y aplica las reglas norm
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4 y 6.7.5. Bolsa pendiente y comprobación después de resolver]].
 - [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
 
-**Fuente primaria:** [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), pp. 3, 26, 32 y 37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
+**Fuente primaria:** [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 3, 26, 32 y 37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
 
 ---
 

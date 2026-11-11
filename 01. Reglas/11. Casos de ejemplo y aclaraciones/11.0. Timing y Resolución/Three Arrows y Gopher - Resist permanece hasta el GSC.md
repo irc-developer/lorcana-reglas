@@ -16,7 +16,7 @@ Al llegar a la segunda instrucción, el otro Hunny conserva Resist +1 y el daño
 
 Si Gopher está preparado, FORTIFYING MEAL no está activa. Los 2 daños sobre Gopher y el daño sobre el otro Hunny se aplican dentro de la misma resolución; después, ambos tienen daño igual a su Voluntad y se destierran en el GSC. La misma diferencia se aplica si por cualquier otro motivo no se cumple la condición que concede Resist, manteniendo el resto del supuesto.
 
-**«Then» ordena las instrucciones; no introduce un GSC entre ellas.** La comparación con Luisa es correcta: en I CAN TAKE IT puede pasar de 3 a 4 daños y después moverlos todos a un personaje rival legal antes del GSC. La regla 1.8.5 incluye precisamente ese ejemplo. En Three Arrows también se resuelven las dos instrucciones antes del GSC, aunque el daño se haga en orden y no simultáneamente.
+**«Then» ordena las instrucciones; no introduce un GSC entre ellas.** La comparación con Luisa es correcta: en I CAN TAKE IT puede pasar de 3 a 4 daños y después moverlos todos a un personaje rival legal antes del GSC. La regla 1.8.5 incluye precisamente ese ejemplo. Las dos frases de Three Arrows son efectos separados y se resuelven en orden antes del GSC (6.1.2 y 6.7.5).
 
 ---
 
@@ -26,7 +26,7 @@ Si Gopher está preparado, FORTIFYING MEAL no está activa. Los 2 daños sobre G
 - [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1, 1.8.1.4 y 1.8.5 — Momento del GSC y daño letal]]: el destierro por daño se comprueba al terminar; incluye el ejemplo oficial de Luisa.
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3 — Fuente estática en juego]]: la protección termina cuando Gopher abandona la zona de juego.
 - [[8.8. Resistir (Resist)|8.8.1–8.8.2 — Reducción del daño]]: Resist +1 reduce el daño en 1; un resultado de 0 significa que el personaje no recibe daño.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): reglas 1.8.1 y 1.8.1.4 (p. 6), 1.8.5 (p. 7), 6.1.2 (p. 25), 6.4.2.3 (p. 32), 6.7.5 (p. 37) y 8.8.1–8.8.2 (p. 42).
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 1.8.1 y 1.8.1.4 (p. 6), 1.8.5 (p. 7), 6.1.2 (p. 25), 6.4.2.3 (p. 32), 6.7.5 (p. 37) y 8.8.1–8.8.2 (p. 42).
 
 Relacionado: [[Three Arrows - no obliga a dañar a los tuyos]] explica que la segunda instrucción es opcional y exige otro personaje. [[Luisa Madrigal - I Can Take It, condición Then-if y GSC]] desarrolla sus otras casuísticas.
 

@@ -22,7 +22,7 @@ Si lo ocurrido fue un error de reglas durante la resolución, hay que llamar al 
 - [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3 — alcanzar 20 de lore gana la partida]].
 - [[2.4 Error general de reglas (General Rule Error)|General Rule Error — pedir corrección si se cometió un error de reglas]].
 
-Fuentes oficiales vigentes: [Comprehensive Rules 2.2.0 (09/07/2026)](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
+Fuentes oficiales vigentes: [Comprehensive Rules 2.3.0 (16/10/2026)](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
 ---
 

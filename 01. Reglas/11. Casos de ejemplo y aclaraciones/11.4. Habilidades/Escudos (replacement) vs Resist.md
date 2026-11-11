@@ -10,7 +10,7 @@
 
 - Si Resist reduce a **0** el daño que recibiría el personaje, el escudo no necesita aplicarse y se conserva.
 - Si después de Resist queda **1 o más**, el escudo aplicable reemplaza ese daño por no recibir ninguno y se consume.
-- Aunque el receptor no reciba daño, la fuente puede seguir considerándose que lo ha infligido conforme a 1.9.5. Esto importa para habilidades como STEADY AIM de Merida.
+- Cuando Resist u otro modificador reduce el daño a cero, la fuente sigue considerándose que lo ha infligido según 1.9.5. Si interviene un reemplazo, se comprueba el evento modificado conforme a 6.5.4. Esto importa para habilidades como STEADY AIM de Merida.
 
 Este orden es el mismo para el daño procedente de acciones, habilidades y desafíos.
 
@@ -47,7 +47,7 @@ Este orden es el mismo para el daño procedente de acciones, habilidades y desaf
 
 Resist modifica el daño que recibe el objetivo. Si reduce la cantidad a cero, el efecto de origen sigue siendo un efecto que **inflige daño**, aunque el personaje no reciba daño. La cantidad que una habilidad de Mulan copie o utilice depende de su texto exacto y no debe inferirse del debate; hay que separar siempre daño indicado por el efecto, daño infligido y daño recibido.
 
-Fundamento: reglas 1.9.3–1.9.5 y 8.8 de [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+Fundamento: reglas 1.9.3–1.9.5 y 8.8 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

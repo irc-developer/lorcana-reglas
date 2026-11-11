@@ -36,7 +36,7 @@ Si la fuente intentara infligir 2 daños, Resist +1 los reduciría a 1. Hydra s�
 - [[1.9. Daño (Damage)|1.9.5. La fuente puede infligir daño aunque el personaje no lo reciba]]
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Una habilidad disparada solo se añade a la bolsa cuando se cumple su condición]]
 - [[8.8. Resistir (Resist)|8.8.1–8.8.2. Resist es una habilidad estática y el objeto no recibe daño si se reduce a 0]]
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.9.5 y 8.8.1–8.8.2.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.9.5 y 8.8.1–8.8.2.
 
 ---
 

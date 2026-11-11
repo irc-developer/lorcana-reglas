@@ -20,7 +20,7 @@ Advanced Mimicry permite elegir a Morph aunque no sea un objeto ni se llame Pota
 ---
 
 - [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): aclaraciones de Morph y Potato Shift.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), 8.10.4.1 y 8.10.8.6: soporte no personaje y Potato Shift.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), 8.10.4.1 y 8.10.8.6: soporte no personaje y Potato Shift.
 
 ---
 

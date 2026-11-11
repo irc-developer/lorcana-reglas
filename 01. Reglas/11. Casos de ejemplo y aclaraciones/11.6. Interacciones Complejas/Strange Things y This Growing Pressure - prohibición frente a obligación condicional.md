@@ -65,7 +65,7 @@ La aclaración oficial de *Woody – Town Sheriff*, cuyo efecto usa la misma con
 
 ## 📚 Fuente oficial
 
-[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas 1.2.2 (p. 3), 4.5.1.2 y 4.5.2 (p. 14), 6.4.1 (p. 32), y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), aclaración de «must quest if able».
+[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.2.2 (p. 3), 4.5.1.2 y 4.5.2 (pp. 14–15), 6.4.1 (p. 32), y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), aclaración de «must quest if able».
 
 **Variante de Baloo:** se enlaza el texto inglés de la carta; la explicación en castellano es una adaptación.
 

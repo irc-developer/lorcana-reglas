@@ -1039,7 +1039,7 @@
 ## Tinker Bell - Most Helpful
 
 **Coste:** 4 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Common  
-**Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 1  
+**Fuerza:** 2 | **Voluntad:** 3 | **Lore:** 2  
 **Set:** The First Chapter (TFC #1) | [🖼️ Imagen](https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-large.png)
 
 

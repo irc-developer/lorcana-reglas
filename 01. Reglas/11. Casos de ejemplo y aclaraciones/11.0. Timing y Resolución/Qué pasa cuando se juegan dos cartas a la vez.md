@@ -1,10 +1,10 @@
 ## ❓ Duda
 
-¿Cuando una habilidad permite a ambos jugadores jugar una carta simultáneamente, en qué orden se resuelven sus efectos?
+¿Cuándo una habilidad permite a ambos jugadores jugar una carta simultáneamente, en qué orden se resuelven sus efectos?
 
 ## ✅ Respuesta
 
-Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efecto se resuelve en orden de turno como se define en [Efectos simultáneos](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf). Las elecciones se realizan en orden de turno: el jugador activo revela y juega su personaje primero, añadiendo los disparos a la bolsa. El siguiente jugador decide con la información pública que ya existe. A continuación, lleva a cabo lo mismo el oponente y se procede a resolver la [[7.7. Bolsa (Bag)|Bolsa]] con normalidad.
+Cuando un efecto pide a ambos jugadores que jueguen una carta a la vez, cada jugador resuelve su parte en orden de turno, empezando por el jugador activo (CR 6.7.6 y 6.7.6.1). Las elecciones se realizan en orden de turno: el jugador activo revela y juega su personaje primero, añadiendo los disparos a la bolsa. El siguiente jugador decide con la información pública que ya existe. A continuación, lleva a cabo lo mismo el oponente y se procede a resolver la [[7.7. Bolsa (Bag)|Bolsa]] con normalidad.
 
 ### Variante con Hans y Anna
 
@@ -16,9 +16,10 @@ Cuando una carta permite ambos jugadores jugar una carta al mismo tiempo el efec
 
 ## 📘 Referencias
 
-- [Efectos simultáneos](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf)
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.6, 6.7.6.1 y 6.7.8. Orden de turno y jugar cartas durante un efecto]]
 - [[7.7. Bolsa (Bag)|Bolsa]]
-- [Habilidades disparadas con condición secundaria](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf)
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. Condición secundaria]]
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 6.2.4 y 6.7.
 ---
 
 ## 🏷️ Tags

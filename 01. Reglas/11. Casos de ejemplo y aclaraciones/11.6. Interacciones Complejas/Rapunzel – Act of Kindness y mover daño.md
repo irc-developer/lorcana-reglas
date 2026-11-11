@@ -14,7 +14,7 @@ Por tanto, el daño movido no consume esa protección. La habilidad de Lilo - Bu
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.2.4–1.9.2.5: move y take]].
+- [[1.9. Daño (Damage)|1.9.2.4 y 1.9.3. Mover y recibir daño]].
 - [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.3: el reemplazo debe poder aplicarse]].
 - [[Mover daño no es retirar daño|Definición de mover daño]].
 - [[Rapunzel - Ready for Adventure y Hydra - Deadly Serpent|ACT OF KINDNESS y daño infligido]].

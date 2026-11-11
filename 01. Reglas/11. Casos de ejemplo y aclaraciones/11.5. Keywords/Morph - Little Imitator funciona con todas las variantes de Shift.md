@@ -26,7 +26,7 @@ Sin embargo, Morph no altera el número de cartas exigido. Duo Shift necesita do
 
 ## 📚 Fuente oficial
 
-[Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): aclaración específica de Morph. CR 2.2, 8.10.8, recoge las variantes de Shift. Véase [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+[Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): aclaración específica de Morph. CR 2.3.0, 8.10.8, recoge las variantes de Shift. Véase [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

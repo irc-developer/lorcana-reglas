@@ -24,7 +24,7 @@ Sí. La primera no puede resolverse al no tener un objetivo válido, por lo que 
 
 Scream Canister puede activarse y pagarse aunque no exista un objetivo legal para su efecto. El coste se paga al iniciar la acción; al resolver, se hace todo lo posible y se omite la elección que no tiene objetivo. Pagar el coste no convierte una elección sin objetivo en una elección válida.
 
-Fundamento: reglas 1.2.3, 4.4.3 y 6.7.2 de [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+Fundamento: reglas 1.2.3, 4.4.3 y 6.7.2 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

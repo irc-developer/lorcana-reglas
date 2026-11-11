@@ -22,7 +22,7 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 - [[4.6 Desafío (Challenge)|4.6.4.5 Efectos]] y [[4.6 Desafío (Challenge)|4.6.5 Habilidades disparadas]]: ocurre el desafío y las habilidades que dicen «is challenged» se añaden y resuelven desde la bolsa junto con los demás disparos de la declaración, antes del paso de daño.
 - [[7.7. Bolsa (Bag)|7.7.3.1 Añadir a la bolsa]]: una habilidad disparada entra en la bolsa cuando se cumple su condición.
 - [[7.7. Bolsa (Bag)|7.7.4.2 Prioridad del jugador activo]] y [[7.7. Bolsa (Bag)|7.7.4.4 Pasar la bolsa]]: primero resuelve el jugador activo sus habilidades; después, el oponente resuelve las suyas.
-- [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): fuente oficial de las reglas 4.6.4–4.6.6 y 7.7.3–7.7.4.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): fuente oficial de las reglas 4.6.4–4.6.6 y 7.7.3–7.7.4.
 
 ---
 
@@ -39,7 +39,7 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 
 ## 📚 Fuente oficial
 
-[Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), reglas citadas arriba.
+[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas arriba.
 
 ---
 

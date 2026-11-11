@@ -23,7 +23,7 @@ Primero puedes devolver desde tu descarte a tu mano una carta de personaje de co
 
 ## 📚 Fuente oficial
 
-Aclaración oficial: [CR 2.2.0, original histórico](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 
