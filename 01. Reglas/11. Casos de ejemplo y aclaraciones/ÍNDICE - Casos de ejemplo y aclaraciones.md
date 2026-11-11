@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 258 | **Última actualización:** 11 de noviembre de 2026
+**Total de casos:** 257 | **Última actualización:** 11 de noviembre de 2026
 
 ---
 
@@ -200,7 +200,7 @@ Casos sobre palabras clave específicas de Lorcana.
 
 ---
 
-### 11.6. Interacciones Complejas (69 casos)
+### 11.6. Interacciones Complejas (68 casos)
 
 Casos que involucran múltiples cartas, combinaciones complejas y escenarios avanzados.
 
@@ -272,7 +272,6 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 66. [Marie - Caught in the Act con Resist y Lilo - Bundled Up.md](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>) — Incluye Malicious, Mean, and Scary: poner contadores sí cumple la condición de Marie.
 67. [Mulan - Resourceful Recruit gana 7 lore con Buzz.md](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>)
 68. [Gotas de tinta - dados y representación de contadores](<11.6. Interacciones Complejas/Gotas de tinta - dados y representación de contadores.md>) — Objetos permitidos por CR 1.13 y salvedad de torneo.
-69. [Mr. Smee y Chief Bogo - orden del daño contra Lilo.md](<11.6. Interacciones Complejas/Mr. Smee y Chief Bogo - orden del daño contra Lilo.md>) — La bolsa permite gastar primero la protección de Lilo; Resist se aplica a cada efecto.
 
 ---
 
@@ -387,15 +386,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 45 | 17.4% |
+| **11.0 Timing y Resolución** | 45 | 17.5% |
 | **11.2 Zonas y Movimientos** | 26 | 10.1% |
 | **11.3 Costes y Requisitos** | 24 | 9.3% |
-| **11.4 Habilidades** | 38 | 14.7% |
-| **11.5 Keywords** | 22 | 8.5% |
-| **11.6 Interacciones Complejas** | 69 | 26.7% |
+| **11.4 Habilidades** | 38 | 14.8% |
+| **11.5 Keywords** | 22 | 8.6% |
+| **11.6 Interacciones Complejas** | 68 | 26.5% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
 | **11.8 Correcciones de jugadas** | 27 | 10.5% |
-| **TOTAL** | **258** | **100%** |
+| **TOTAL** | **257** | **100%** |
 
 ---
 
@@ -417,7 +416,6 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Jessie e Intimidation Tactics**: [La reducción de Fuerza espera a que termine la acción](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Merlin’s Wand y equipos**: [El descuento sigue el nombre compartido al revelar las dos cartas](<11.4. Habilidades/Bruno y equipos con varios nombres.md>)
 - **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
-- **Mr. Smee y Chief Bogo** — [Orden del daño contra Lilo y Resist de John Silver](<11.6. Interacciones Complejas/Mr. Smee y Chief Bogo - orden del daño contra Lilo.md>)
 - **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
 - **Get to Safety! y Sleepy Hollow**: [Recuperar el puente desde el descarte sí permite robar; ejemplo oficial de CR 6.7.8](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
 - **Héctor Rivera, The Cold Never Bothered Me y The Torn Corner**: [Ambos efectos disparan MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
