@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 256 | **Última actualización:** 10 de noviembre de 2026
+**Total de casos:** 257 | **Última actualización:** 11 de noviembre de 2026
 
 ---
 
@@ -171,7 +171,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 ---
 
-### 11.5. Keywords (21 casos)
+### 11.5. Keywords (22 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
 
@@ -196,6 +196,7 @@ Casos sobre palabras clave específicas de Lorcana.
 19. [Cantar no es usar una habilidad activada.md](<11.5. Keywords/Cantar no es usar una habilidad activada.md>)
 20. [Torrent solo reduce el siguiente coste de Shift.md](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>)
 21. [Aladdin & Genie - Shift sobre un solo personaje.md](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) **(DISCORD 2026)**
+22. [Palabras clave repetidas y duración](<11.5. Keywords/Palabras clave repetidas y duración.md>) — Evasivo con dos duraciones, Temerario con Cinderella y Cogsworth, y un solo disparo de Apoyo.
 
 ---
 
@@ -385,15 +386,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 45 | 17.6% |
-| **11.2 Zonas y Movimientos** | 26 | 10.2% |
-| **11.3 Costes y Requisitos** | 24 | 9.4% |
+| **11.0 Timing y Resolución** | 45 | 17.5% |
+| **11.2 Zonas y Movimientos** | 26 | 10.1% |
+| **11.3 Costes y Requisitos** | 24 | 9.3% |
 | **11.4 Habilidades** | 38 | 14.8% |
-| **11.5 Keywords** | 21 | 8.2% |
-| **11.6 Interacciones Complejas** | 68 | 26.6% |
+| **11.5 Keywords** | 22 | 8.6% |
+| **11.6 Interacciones Complejas** | 68 | 26.5% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
 | **11.8 Correcciones de jugadas** | 27 | 10.5% |
-| **TOTAL** | **256** | **100%** |
+| **TOTAL** | **257** | **100%** |
 
 ---
 
@@ -402,6 +403,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Tod y retirada de daño sin chosen**: [I'm Never Not by Your Side: elección pendiente de aclaración](<11.7. Dudas por desarrollar/Tod e I'm Never Not by Your Side - elección pendiente de aclaración.md>)
 
 ### Por mecánica de cartas
+- **Acumulación de palabras clave** — [Duración de Evasivo, Temerario y Apoyo](<11.5. Keywords/Palabras clave repetidas y duración.md>)
 - **Un Poco Loco con un personaje**: [Elegir dos es un requisito; no se devuelve el único personaje](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
 - **Remember Me y Retro Evolution Device**: [Volver a jugar al Mickey desterrado y bloquear su nombre](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
 - **Cheshire Cat - Inexplicable**: [El origen puede ser rival; el destino siempre es rival del jugador que genera el efecto](<11.4. Habilidades/Cheshire Cat - Inexplicable y el destino del daño.md>)
