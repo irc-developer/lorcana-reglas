@@ -716,9 +716,9 @@ Forbidden Treasure: At the end of your turn, put all the cards in your hand on t
 
 ## Making Magic
 
-**Coste:** 3 | **Tipo:** Action | **Color:** Amethyst | **Tinta:** ✗ | **Rareza:** Common  
+**Coste:** 3 | **Tipo:** Action | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Common  
 **Fuerza:** 0 | **Voluntad:** 0 | **Lore:** 0  
-**Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/making_magic/making_magic-large.png)
+**Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_9bc0e3add087485a927ee66c7414802d.avif?1730901319)
 
 
 **Habilidades:**
@@ -954,9 +954,9 @@ Stop Whining, Women Up: When you play this character, you may pay 2 {i} to gain 
 
 ## Prince Phillip - Royal Explorer
 
-**Coste:** 3 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✗ | **Rareza:** Uncommon  
+**Coste:** 3 | **Tipo:** Character | **Color:** Emerald | **Tinta:** ✓ | **Rareza:** Uncommon  
 **Fuerza:** 3 | **Voluntad:** 2 | **Lore:** 2  
-**Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://lorcana-api.com/images/prince_phillip/royal_explorer/prince_phillip-royal_explorer-large.png)
+**Set:** Azurite Sea (AZS #6) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_11902901f7364369970762d49a1a760d.avif?1730901319)
 
 
 **Habilidades:**

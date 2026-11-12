@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 257 | **Última actualización:** 11 de noviembre de 2026
+**Total de casos:** 257 | **Última actualización:** 12 de noviembre de 2026
 
 ---
 
@@ -88,7 +88,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 20. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
 21. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
 22. [Ursula - Deal Maker solo puede elegir un personaje en juego.md](<11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md>)
-23. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>)
+23. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>) — Elegir a dos Iago ilesos con Making Magic dispara Vanish dos veces.
 24. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
 25. [Diablo y el robo aparente tras un desafío.md](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>) **(DISCORD 2026)**
 26. [Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron](<11.2. Zonas y Movimientos/Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**

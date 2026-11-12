@@ -565,11 +565,12 @@ SEARCH THE KINGDOM: Banish this item, ![[imagenes/exert.svg|20]] one of your Pri
 
 **Coste:** 4 | **Tipo:** Character | **Color:** Amethyst | **Tinta:** ✓ | **Rareza:** Rare  
 **Fuerza:** 4 | **Voluntad:** 6 | **Lore:** 1  
-**Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://lorcana-api.com/images/iago/giant_spectral_parrot/iago-giant_spectral_parrot-large.png)
+**Set:** Archazia's Island (ARI #7) | [🖼️ Imagen](https://cards.lorcast.io/card/digital/large/crd_9510a7439adc4dc5b1f444e37334a32e.avif?1740589294)
 
 
 **Habilidades:**
 - Evasive
+- Vanish
 
 ---
 
