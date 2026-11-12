@@ -6,18 +6,18 @@
 
 ## ✅ Respuesta
 
-[One and Only](https://cards.lorcast.io/card/digital/large/crd_69429f224b234571a1257b20258d97a4.avif?1783188722) conserva al personaje elegido y destierra a todos los demás personajes que compartan con él al menos un nombre exacto.
+[One and Only](https://cards.lorcast.io/card/digital/large/crd_69429f224b234571a1257b20258d97a4.avif?1783188722) ordena desterrar a todos los demás personajes que compartan al menos un nombre exacto con el personaje elegido.
 
 - La **versión** situada después del guion no se compara.
 - Un nombre formado por varias palabras, como `Mickey Mouse`, sigue siendo un único nombre.
 - Un personaje con `&` tiene tres nombres reglamentarios: cada nombre individual y el nombre impreso conjunto.
 - `Other` excluye al personaje ya elegido, pero no protege a otras cartas con el mismo nombre.
 
-Por tanto, si se elige un personaje llamado `A`, se destierran los demás `A` y los personajes de nombre múltiple que también cuenten como `A`. Si se elige `A & B`, se destierran los demás personajes llamados `A`, `B`, `A & B` o que compartan cualquiera de esos nombres.
+Si se elige `A`, coinciden los demás `A` y los personajes de nombre múltiple que también cuenten como `A`. Si se elige `A & B`, basta con que otro personaje comparta `A`, `B` o `A & B`.
 
 ---
 
-## 📘 Regla central de nombres en CR 2.2.0
+## 📘 Regla central de nombres
 
 ### Nombre y versión
 
@@ -53,7 +53,7 @@ La regla **5.2.6.3** añade una excepción expresa: [Chip 'n' Dale – Recovery 
 
 ## 🔎 Comparación de nombres
 
-`A`, `B` y `C` representan nombres completos, no palabras sueltas.
+`A`, `B` y `C` representan nombres completos. La tabla muestra el resultado sin efectos de reemplazo.
 
 | Elegido | Otro personaje | Resultado |
 |---|---|---|
@@ -86,6 +86,20 @@ Resultado:
 - `Jetsam` permanece porque no se llama `Flotsam`.
 
 No se elige un nombre de un personaje múltiple: se comparan todos sus nombres.
+
+### Elegir a Mickey y Minnie con Motunui en juego
+
+En [Motunui – Island Paradise](https://cards.lorcast.io/card/digital/large/crd_e60ec9d70c4a46bd8b7e69b3092af826.avif?1709690747) están [Minnie Mouse – Practical Traveler](https://cards.lorcast.io/card/digital/large/crd_b760305650e54e7b84dcbeb7c014b0f5.avif?1777337176), [Mickey Mouse – Inquisitive Explorer](https://cards.lorcast.io/card/digital/large/crd_3ced0ce0141942339483629a699b4276.avif?1783189578) y [Mickey Mouse & Minnie Mouse – Adventuring Duo](https://cards.lorcast.io/card/digital/large/crd_a02034ec2089499f81f2038b33ca473a.avif?1783188879). Fuera de la localización hay otro Adventuring Duo jugado con Duo Shift sobre otra Practical Traveler y [Mickey Mouse – Bob Cratchit](https://cards.lorcast.io/card/digital/large/crd_df33ab22a6b1429781e4be47ec28e350.avif?1770259917). El oponente juega *One and Only* y elige al dúo de Motunui. ¿Cuántos personajes son desterrados?
+
+**Dos personajes son desterrados.** La acción busca a los demás personajes que se llamen `Mickey Mouse`, `Minnie Mouse` o `Mickey Mouse & Minnie Mouse`. Coinciden la Minnie y el Mickey de Motunui y el segundo dúo. El dúo elegido queda en Motunui.
+
+| Personaje que coincide | Qué ocurre al resolver la acción |
+|---|---|
+| Minnie – Practical Traveler | Es desterrada. Su destierro dispara *Reincarnation* de Motunui. |
+| Mickey – Inquisitive Explorer | Es desterrado. Su destierro dispara otra instancia de *Reincarnation*. |
+| Segundo Adventuring Duo | *Thinking of You* reemplaza el destierro. Las tres cartas de su pila pasan directamente al pozo de tinta boca abajo y agotadas. |
+
+Después de resolver la acción, puedes usar cada disparo de *Reincarnation* para poner en el pozo de tinta la carta que le corresponde. Esos dos destierros ya ocurrieron. Si usas ambos disparos, terminan en el pozo cinco cartas en total.
 
 ---
 
@@ -159,11 +173,12 @@ Jugar una segunda Spyglass Hat encuentra otra del mismo nombre y no cumple la co
 - [[5.3. Personajes (Characters)|5.3.1. Personajes]]: una carta de personaje solo es un personaje mientras está en juego.
 - [[6.1. General (General)|6.1.2–6.1.3. Orden y elecciones]]: las frases se resuelven en orden y las elecciones se realizan durante la resolución.
 - [[6.1. General (General)|6.1.6. Another y other]]: `other` excluye la carta ya elegida, no las demás cartas con el mismo nombre.
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]: un reemplazo aplicable modifica el evento antes de que ocurra.
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1 y 6.5.4. Efectos de reemplazo]]: el evento original se sustituye por el evento modificado.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2–6.7.5. Resolución, disparos y GSC]]: se siguen las instrucciones en orden; los disparos esperan hasta terminar la acción.
 - [[8.14. Desvanecer (Vanish)|8.14. Vanish]]: se dispara al elegir al personaje rival y se resuelve después de la acción.
 - [[8.15 Protección (ward)|8.15. Ward]]: impide elegir la carta, pero no evita efectos que no la eligen.
 - [[5.1. Estados de las cartas (Card States)|5.1.1.5–5.1.1.8. Pilas y cartas en juego]]: las cartas debajo no están en juego y acompañan a la superior cuando esta abandona el juego.
+- [[8.10. Cambio (Shift)|8.10.7. Salida de una pila de Shift]]: las cartas de la pila se trasladan a la misma zona que la carta superior.
 
 ---
 
