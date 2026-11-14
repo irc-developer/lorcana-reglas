@@ -15,7 +15,8 @@ Este directorio concentra las customizaciones versionadas del repositorio.
 - El ciclo obligatorio completo vive en `skills/lorcana-ruling-workflow/SKILL.md`.
 - Las instrucciones activas de Lorcana viven en `instructions/` y están troceadas por responsabilidad.
 - El agente `.github/agents/lorcana-ruling.agent.md` ejecuta ese ciclo antes de responder.
-- La skill de preguntas de Lorcana del workspace es la autoridad frente a cualquier copia equivalente del perfil de usuario.
+- La skill activa de preguntas de Lorcana vive en `skills/lorcana-consulta-rapida/`; `AGENTS.md` selecciona su modo. La copia antigua bajo `.agents/skills/` se conserva como histórica por estar en un área protegida.
+- La recuperación, el glosario y la preparación editorial usan el proyecto independiente `lorcana-rules-engine` mediante CLI. La wiki mantiene los estándares editoriales y la publicación; véase [la integración y su matriz de capacidades](lorcana-rules-engine.md).
 - [Premisas agente IA Lorcana](../Premisas%20agente%20IA%20Lorcana.md) queda como referencia extensa de criterio.
 - [Arquitectura de Skills - Agente Lorcana](../Arquitectura%20de%20Skills%20-%20Agente%20Lorcana.md) queda como documento de diseño, no como agente activo.
 

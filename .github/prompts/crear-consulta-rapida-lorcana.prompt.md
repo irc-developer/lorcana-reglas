@@ -1,5 +1,7 @@
 # Crear herramientas de consulta rápida de Lorcana
 
+> **Prompt histórico, retirado el 14/11/2026.** Describe la construcción de la CLI anterior y no debe ejecutarse como tarea nueva. El workflow vigente usa `lorcana-rules-engine`; consulta `.github/lorcana-rules-engine.md` y sus skills.
+
 Copia el bloque siguiente en una tarea de Codex abierta en este repositorio. Pide construir las herramientas; las consultas de ejemplo se utilizarán después de implementarlas.
 
 ```text

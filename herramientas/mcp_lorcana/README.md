@@ -1,5 +1,7 @@
 # MCP local de Lorcana
 
+> **Retirado del workflow normal desde el 14/11/2026.** El registro del servidor se eliminó de `.codex/config.toml`. Para consultas, fuentes y preparación editorial usa `lorcana-rules-engine` según `.github/lorcana-rules-engine.md`. Este proyecto se conserva como referencia histórica y no debe usarse como fallback ni configurarse de nuevo para esta wiki.
+
 Servidor `lorcana` 0.2.5. Utiliza el motor de [consulta local](../consulta_lorcana/README.md) con el SDK oficial Python `mcp` 2.2.0 y transporte `stdio`. Recupera evidencia para que el asistente interprete y aplique el workflow editorial. Funciona localmente con los archivos del proyecto.
 
 **Migración CR 2.3, 09/10/2026:** el motor valida originales y selecciona 2.2 hasta el 15/10 y 2.3 desde el 16/10; excluye adaptaciones futuras hasta su fecha y conserva históricos fuera de la evidencia activa. Reinicia el servidor de un cliente ya abierto para cargar estos cambios de código y extracción, sin reinstalar ni modificar su configuración. Los ensayos stdio usan procesos nuevos con el motor actualizado.

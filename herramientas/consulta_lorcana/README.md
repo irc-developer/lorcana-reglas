@@ -1,5 +1,7 @@
 # Consultas rápidas de Disney Lorcana
 
+> **Obsoleto desde el 14/11/2026.** Esta CLI y su índice han sido sustituidos para el uso normal por el proyecto independiente `../lorcana-rules-engine`. Se conserva este manual como historial técnico. No la uses como alternativa si el motor nuevo falta o falla. Véase `.github/lorcana-rules-engine.md` para el workflow vigente.
+
 CLI local lista para ejecutar en este PC: Python 3.14.3, SQLite FTS5 y PyMuPDF disponibles. Sin servidor, cuenta adicional ni API de modelos. La herramienta recupera evidencia; **Codex razona y redacta**. `consulta:` pide solo lectura; `documenta:` conserva el workflow editorial de `.github/`; `actualiza:` autoriza únicamente regenerar búsqueda.
 
 El [MCP local de Lorcana](../mcp_lorcana/README.md) reutiliza este motor y ofrece herramientas de lectura a Codex, incluida la consulta de una página de las CR. Prefiere MCP cuando esté conectado; esta CLI sigue siendo la alternativa y la vía de mantenimiento. El modo editorial se elige según la petición original en ambas vías.
