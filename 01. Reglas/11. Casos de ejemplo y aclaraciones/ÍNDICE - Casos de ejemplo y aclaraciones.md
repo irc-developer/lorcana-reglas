@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 258 | **Última actualización:** 14 de noviembre de 2026
+**Total de casos:** 259 | **Última actualización:** 14 de noviembre de 2026
 
 ---
 
@@ -321,6 +321,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 25. [Takeback después de resolver una habilidad disparada que gana la partida.md](<11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida.md>) **(DISCORD 2026)**
 26. [Minnie Mouse - Practical Traveler y lore olvidado.md](<11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado.md>)
 27. [Higiene personal, tapetes y vestimenta en torneos.md](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>) — Requisitos expresos de limpieza y alcance del consejo de higiene personal.
+28. [Disparo anunciado y total de lore incorrecto.md](<11.8. Correcciones de jugadas/Disparo anunciado y total de lore incorrecto.md>) — Distingue un disparo reconocido de un error de información que motivó una decisión.
 
 ---
 
@@ -394,8 +395,8 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 | **11.5 Keywords** | 22 | 8.5% |
 | **11.6 Interacciones Complejas** | 68 | 26.4% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
-| **11.8 Correcciones de jugadas** | 27 | 10.5% |
-| **TOTAL** | **258** | **100%** |
+| **11.8 Correcciones de jugadas** | 28 | 10.8% |
+| **TOTAL** | **259** | **100%** |
 
 ---
 
@@ -474,4 +475,4 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 - **Dudas depuradas del foro de Discord**: [Cantar no es usar una habilidad activada](<11.5. Keywords/Cantar no es usar una habilidad activada.md>) | [Torrent solo reduce el siguiente coste de Shift](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>) | [Cartas en idiomas extranjeros en torneos](<11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos.md>) | [Fichas de recordatorio sobre el mazo](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>) | [Retro Evolution Device y mano privada](<11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md>) | [Lyle Tiberius Rourke y Rapunzel & Flynn Rider](<11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md>) | [Set Championship con 65 jugadores o más](<11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md>) | [Carta con error de impresión y comunicación](<11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md>)
 
----
+----
