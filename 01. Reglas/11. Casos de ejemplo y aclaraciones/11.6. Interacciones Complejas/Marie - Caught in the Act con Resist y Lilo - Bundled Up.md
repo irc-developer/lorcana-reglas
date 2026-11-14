@@ -8,7 +8,7 @@ En mi turno juego [Malicious, Mean, and Scary](https://cards.lorcast.io/card/dig
 
 ## ✅ Respuesta
 
-**Sí con Malicious, Mean, and Scary, si al menos un personaje rival recibe el contador.** Un personaje recibe daño siempre que se coloca daño sobre él por cualquier medio, incluido poner contadores directamente. Marie comprueba si algún personaje rival **recibió daño este turno**; no exige que una acción lo haya infligido.
+**Sí. Poner un contador con Malicious, Mean, and Scary cuenta como recibir daño («took damage») para Marie.** Basta con que el contador llegue a colocarse sobre un personaje rival. La canción pone el contador directamente y la condición de Marie se cumple por el daño que recibe el personaje.
 
 Al irse Marie de aventura, A LITTLE TREAT se añade a la bolsa. La condición se comprueba **al resolver la habilidad**. En la secuencia descrita se cumple y obtienes **1 gota de tinta**, aunque la canción haya puesto contadores sobre varios personajes. La canción afecta a **cada** personaje rival; no eliges solo uno.
 
@@ -24,8 +24,10 @@ Tener contadores de un turno anterior no basta. En cambio, si un personaje rival
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|Daño]]: CR 1.9.2.2 define poner daño; 1.9.3 establece que colocarlo por cualquier medio cuenta como recibirlo; 1.9.5 distingue daño infligido y recibido cuando se reduce a 0. [CR 2.3.0, pp. 7–8](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=7).
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|Condición secundaria]]: CR 6.2.4 comprueba la condición con «if» solo al resolver. [CR 2.3.0, p. 30](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30).
+- [[1.9. Daño (Damage)|Daño]]: CR 1.9.2.2 y CR 1.9.3 explican qué cuenta como recibir daño. [CR 2.3.0, p. 7](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=7).
+- CR 1.9.5 determina qué ocurre cuando el daño infligido se reduce a 0. [CR 2.3.0, p. 8](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=8).
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|Condición secundaria]]: CR 6.2.3 y CR 6.2.4 explican cuándo entra el disparo en la bolsa y cuándo se comprueba la condición. [CR 2.3.0, p. 30](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30).
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|Efectos de reemplazo]]: CR 6.5.1 explica cómo EXTRA LAYERS sustituye el evento de recibir daño. [CR 2.3.0, p. 33](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=33).
 - [[8.8. Resistir (Resist)|Resist]]: CR 8.8.1–8.8.3 reduce daño infligido, pero no daño puesto o movido. [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
 - [[1.13. Contadores (Counters)|Gotas de tinta]]: CR 1.13.1.2 permite retirarlas para pagar costes de tinta. [CR 2.3.0, p. 9](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=9).
 - [[Lilo - Bundled Up y Malicious, Mean, and Scary|Lilo frente a la canción]] y [[Merida - Steady Aim y Resist|Merida y daño infligido]]: casos relacionados para comparar las condiciones de cada habilidad.

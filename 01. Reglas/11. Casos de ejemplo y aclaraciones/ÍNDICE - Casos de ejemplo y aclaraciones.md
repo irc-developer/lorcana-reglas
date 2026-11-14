@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 257 | **Última actualización:** 12 de noviembre de 2026
+**Total de casos:** 258 | **Última actualización:** 14 de noviembre de 2026
 
 ---
 
@@ -95,7 +95,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 
 ---
 
-### 11.3. Costes y Requisitos (24 casos)
+### 11.3. Costes y Requisitos (25 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -123,6 +123,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 22. [Baymax - Amped Up, retirar gotas y pagar tinta](<11.3. Costes y Requisitos/Baymax - Amped Up, retirar gotas y pagar tinta.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 23. [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 24. [Mover un personaje al lugar donde ya está - elección y pago](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>) — CR 2.3 desde el 16/10/2026: acción de turno incompleta y movimiento por efecto.
+25. [Woody y Grandmother Willow - el coste impreso al jugar gratis](<11.3. Costes y Requisitos/Woody y Grandmother Willow - el coste impreso al jugar gratis.md>)
 
 ---
 
@@ -386,15 +387,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 45 | 17.5% |
+| **11.0 Timing y Resolución** | 45 | 17.4% |
 | **11.2 Zonas y Movimientos** | 26 | 10.1% |
-| **11.3 Costes y Requisitos** | 24 | 9.3% |
-| **11.4 Habilidades** | 38 | 14.8% |
-| **11.5 Keywords** | 22 | 8.6% |
-| **11.6 Interacciones Complejas** | 68 | 26.5% |
+| **11.3 Costes y Requisitos** | 25 | 9.7% |
+| **11.4 Habilidades** | 38 | 14.7% |
+| **11.5 Keywords** | 22 | 8.5% |
+| **11.6 Interacciones Complejas** | 68 | 26.4% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
 | **11.8 Correcciones de jugadas** | 27 | 10.5% |
-| **TOTAL** | **257** | **100%** |
+| **TOTAL** | **258** | **100%** |
 
 ---
 
@@ -403,6 +404,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Tod y retirada de daño sin chosen**: [I'm Never Not by Your Side: elección pendiente de aclaración](<11.7. Dudas por desarrollar/Tod e I'm Never Not by Your Side - elección pendiente de aclaración.md>)
 
 ### Por mecánica de cartas
+- **Woody y Grandmother Willow** — [Coste impreso y descuento al jugar gratis](<11.3. Costes y Requisitos/Woody y Grandmother Willow - el coste impreso al jugar gratis.md>)
 - **Acumulación de palabras clave** — [Duración de Evasivo, Temerario y Apoyo](<11.5. Keywords/Palabras clave repetidas y duración.md>)
 - **Un Poco Loco con un personaje**: [Elegir dos es un requisito; no se devuelve el único personaje](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
 - **Remember Me y Retro Evolution Device**: [Volver a jugar al Mickey desterrado y bloquear su nombre](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>)
