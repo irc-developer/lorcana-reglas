@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 260 | **Última actualización:** 14 de noviembre de 2026
+**Total de casos:** 261 | **Última actualización:** 15 de noviembre de 2026
 
 ---
 
@@ -172,7 +172,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 ---
 
-### 11.5. Keywords (23 casos)
+### 11.5. Keywords (24 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
 
@@ -199,6 +199,7 @@ Casos sobre palabras clave específicas de Lorcana.
 21. [Aladdin & Genie - Shift sobre un solo personaje.md](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) **(DISCORD 2026)**
 22. [Peter Pan's Shadow y Pegasus - duración de Evasive.md](<11.5. Keywords/Peter Pan's Shadow y Pegasus - duración de Evasive.md>) — Duración indefinida de Tiptoe frente a Hop On!; CR 2.3 desde el 16/10/2026.
 23. [Palabras clave repetidas y duración](<11.5. Keywords/Palabras clave repetidas y duración.md>) — Evasivo con dos duraciones, Temerario con Cinderella y Cogsworth, y un solo disparo de Apoyo.
+24. [Judy Hopps - Shift cuenta como haber jugado otro personaje este turno](<11.5. Keywords/Judy Hopps - Shift cuenta como haber jugado otro personaje este turno.md>)
 
 ---
 
@@ -389,15 +390,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 45 | 17.4% |
+| **11.0 Timing y Resolución** | 45 | 17.2% |
 | **11.2 Zonas y Movimientos** | 26 | 10.0% |
-| **11.3 Costes y Requisitos** | 25 | 9.7% |
-| **11.4 Habilidades** | 38 | 14.7% |
-| **11.5 Keywords** | 23 | 8.9% |
-| **11.6 Interacciones Complejas** | 68 | 26.3% |
+| **11.3 Costes y Requisitos** | 25 | 9.6% |
+| **11.4 Habilidades** | 38 | 14.6% |
+| **11.5 Keywords** | 24 | 9.2% |
+| **11.6 Interacciones Complejas** | 68 | 26.1% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
-| **11.8 Correcciones de jugadas** | 28 | 10.8% |
-| **TOTAL** | **260** | **100%** |
+| **11.8 Correcciones de jugadas** | 28 | 10.7% |
+| **TOTAL** | **261** | **100%** |
 
 ---
 
@@ -444,7 +445,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Marie**: [Malicious, Mean, and Scary sí permite obtener la gota; diferencias con Resist y Lilo](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
 - **Mulan y Buzz**: [Mulan - Resourceful Recruit gana 7 lore con Buzz](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>) | [Pocahontas lee el valor de lore de Mulan](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
 - **Rapunzel**: [Rapunzel conserva su protección con Resist 0](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
-- **Shift**: [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [La carta inferior ve jugar la superior: ejemplo con Lady](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
+- **Shift**: [Judy Hopps: Shift cuenta como jugar otro personaje este turno](<11.5. Keywords/Judy Hopps - Shift cuenta como haber jugado otro personaje este turno.md>) | [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [La carta inferior ve jugar la superior: ejemplo con Lady](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
