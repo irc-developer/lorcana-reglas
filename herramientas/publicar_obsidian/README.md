@@ -41,3 +41,30 @@ python -B -X utf8 herramientas/publicar_obsidian/test_publicar.py
 ```
 
 Las pruebas usan repositorios temporales y una CLI simulada. Comprueban selección de rutas, contenido frente al commit, pendientes ajenos, fallos parciales y publicación de una única duda; no escriben en el sitio real.
+
+## Piloto de Obsidian Headless Publish
+
+`headless.py` revisa una lista explícita de rutas con el perfil editorial `reglas`. Rechaza archivos fuera de ese perfil, rutas ocultas o de trabajo, redirecciones, exclusiones de escritorio y marcas explícitas de borrador o privacidad. Una nota con `publish: true` puede ser un alta. Una nota sin esa marca solo se admite como actualización de una página ya publicada. Las notas del piloto conservan su frontmatter original.
+
+Ejecuta el siguiente comando desde la raíz del repositorio.
+
+```powershell
+python -B -X utf8 herramientas/publicar_obsidian/headless.py --archivo "01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge).md" --archivo "01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects).md"
+```
+
+La revisión local funciona sin cuenta y sin `ob`. Comprueba las rutas elegidas y que la configuración de escritorio tenga un sitio vinculado. Añade `--simular` para verificar que Headless apunta al mismo sitio, que su identificador público es `reglas-lorcana` y que la cuenta tiene acceso. La simulación usa `ob publish --dry-run --json` sobre la bóveda completa. Separa altas, actualizaciones y retiradas y devuelve un error si aparece alguna retirada, una ruta ajena a la selección o el alta de una nota sin `publish: true`. Una ruta sin cambio informado puede estar al día o no ser elegible. El informe ayuda a revisar el lote y no autoriza su publicación.
+
+### Preparación de Headless
+
+- Requiere Node.js 22 o superior, una suscripción Publish activa y `obsidian-headless` 0.0.14, la versión cuyo formato de informe se ha revisado. Si se decide habilitar el piloto, instala esa versión con `npm install -g obsidian-headless@0.0.14`.
+- Con autorización expresa, inicia sesión interactivamente mediante `ob login`, incluida la verificación en dos pasos si la cuenta la requiere. Usa `ob publish-list-sites` para identificar el sitio y `ob publish-setup --site reglas-lorcana --path .` para vincular la bóveda local al sitio existente. Guarda las credenciales en el almacenamiento de usuario de Headless y mantenlas fuera de la bóveda y del repositorio.
+- La configuración de Headless es independiente de `.obsidian/publish.json`. Consulta los filtros con `ob publish-config --path .`. Los filtros Headless son de carpetas y las marcas de frontmatter tienen prioridad. En 0.0.14, una nota existente en Publish puede aparecer como actualización sin marca positiva, y una ruta remota ausente del inventario local o excluida por Headless puede aparecer como retirada. La simulación escribe su caché local de Headless.
+- Para SVG o PNG nuevos, revisa los adjuntos desde la página que los usa e incluye cada ruta editorial permitida con su propio `--archivo`. Comprueba por separado que los adjuntos que el informe omite ya estén disponibles en el sitio. Headless no añade dependencias por seguir enlaces.
+
+### Publicación real y comprobación visual
+
+El piloto solo ofrece revisión local y simulación. Para preparar una publicación efectiva, revisa la selección con `publicar.py --perfil reglas --commit HASH --archivo RUTA --comprobar`. Con aprobación explícita, sustituye `--comprobar` por `--aplicar` según el procedimiento de escritorio descrito arriba.
+
+Para revisar el piloto de Pele, abre ambas notas en vista de lectura de Obsidian 1.15 o posterior. Comprueba las ramas «Sí» y «No» y la lectura del texto con ventana ancha y estrecha, en ambos temas. Repite la comprobación en el sitio cuando los artículos se publiquen. Los bloques `mermaid` no requieren dependencias adicionales.
+
+[Obsidian Headless](https://obsidian.md/help/headless) · [Headless Publish](https://obsidian.md/help/publish/headless) · [Paquete oficial](https://www.npmjs.com/package/obsidian-headless/v/0.0.14) · [Pele en escritorio](https://obsidian.md/changelog/2026-11-02-desktop-v1.15.0/) · [Pele en Publish](https://obsidian.md/changelog/2026-10-27-publish/)

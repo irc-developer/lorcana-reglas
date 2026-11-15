@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analista de jugadas de Lorcana"
+  short_description: "Analiza decisiones con información limitada"
+  default_prompt: "Usa $lorcana-analista-jugadas para registrar una línea previa y contrastarla con mi elección."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Guionista de podcast Lorcana"
+  short_description: "Convierte análisis revisados en podcasts extensos"
+  default_prompt: "Usa $lorcana-guionista-podcast para convertir las últimas conclusiones revisadas en un prompt de podcast listo para mi aplicación de audio."

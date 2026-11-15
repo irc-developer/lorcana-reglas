@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Duels history row preserved by acquisition v1",
+  "type": "object",
+  "required": ["game_id", "your_user_id"],
+  "additionalProperties": true,
+  "properties": {
+    "game_id": {"type": "string", "minLength": 1},
+    "your_user_id": {"type": "string", "minLength": 1},
+    "match_id": {"type": ["string", "null"]},
+    "match_format": {"type": ["string", "null"]},
+    "match_game_number": {"type": ["integer", "null"]},
+    "your_player": {"enum": [1, 2]},
+    "went_first": {"type": ["boolean", "null"]},
+    "your_deck_id": {"type": ["string", "null"]},
+    "your_decklist": {
+      "type": ["array", "null"],
+      "items": {
+        "type": "object",
+        "required": ["cardId", "count"],
+        "properties": {"cardId": {"type": "string"}, "count": {"type": "integer", "minimum": 1}},
+        "additionalProperties": true
+      }
+    },
+    "queue_id": {"type": ["string", "null"]},
+    "season_id": {"type": ["string", "null"]},
+    "mmr_before": {"type": ["number", "null"]},
+    "mmr_after": {"type": ["number", "null"]},
+    "opp_mmr_before": {"type": ["number", "null"]},
+    "replay_id": {"type": ["string", "null"]},
+    "replay_url": {"type": ["string", "null"]},
+    "gamelog_id": {"type": "string"},
+    "gamelog_url": {"type": "string"}
+  }
+}

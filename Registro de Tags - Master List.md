@@ -4,7 +4,7 @@
 
 **Última actualización**: 4 de noviembre de 2026
 
-**Total de tags**: 99
+**Total de tags**: 102
 
 ---
 
@@ -30,6 +30,7 @@
 | `#delayed-triggered` | Habilidades disparadas retardadas | Triggers que se disparan "el próximo turno" |
 | `#draw-multiple` | Robo de múltiples cartas | Dudas sobre robo en group vs individual |
 | `#duration` | Duración explícita de un efecto | Casos sobre duration |
+| `#evasive` | Limitar quién puede desafiar la carta | Evasive concedida por varios efectos |
 | `#exert` | Agotar una carta para acciones, costes o efectos | Casos sobre exert |
 | `#floating-triggered` | Habilidad creada fuera de la bolsa hasta que ocurre su evento | Casos sobre floating-triggered |
 | `#golden-rule` | Regla de oro (excepciones del texto de carta) | Cuando el texto anula reglas |
@@ -47,9 +48,11 @@
 | `#play-card` | Proceso reglamentario de jugar una carta | Casos sobre play-card |
 | `#quest` | Acción de irse de aventura | Dudas sobre la legalidad o el proceso de quest |
 | `#ready` | Preparar una carta conforme a los permisos y restricciones | Casos sobre ready |
+| `#reckless` | Prohibición de aventura y desafío obligatorio si puede | Desafíos sin objetivos legales |
 | `#replacement-effect` | Efectos de reemplazo | Habilidades con "instead" |
 | `#resist` | Reducción de daño por Resist | Interacciones con la palabra clave Resist |
 | `#restriction` | Prohibiciones y requisitos para acciones o elecciones | Casos sobre restriction |
+| `#rush` | Desafiar aunque el personaje siga secándose | Rush temporal y habilidades que dependen de tenerlo |
 | `#shift` | Habilidad keyword Shift | Dudas sobre Shift y timing |
 | `#singer` | Valor con el que cuenta para cantar | Casos de singer |
 | `#singing` | Cantar canciones | Diferencia entre cantar y usar habilidades |

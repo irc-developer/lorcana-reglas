@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 259 | **Última actualización:** 14 de noviembre de 2026
+**Total de casos:** 260 | **Última actualización:** 14 de noviembre de 2026
 
 ---
 
@@ -172,14 +172,14 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 
 ---
 
-### 11.5. Keywords (22 casos)
+### 11.5. Keywords (23 casos)
 
 Casos sobre palabras clave específicas de Lorcana.
 
 1. [Aclaraciones de Fabled.md](<11.5. Keywords/Aclaraciones de Fabled.md>) — Incluye Moana: la Princesa que ya estaba preparada puede hacer misión; la restricción afecta al grupo de agotadas que prepara.
 2. [Ancestral Guitar: conceder Singer y modificar el coste para cantar](<11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X.md>) — Define Singer y explica expresamente la regla 8.11.3; incluye concesión temporal y límites de zona.
 3. [Bambi – Ethereal Faun cantando una canción.md](<11.5. Keywords/Bambi – Ethereal Faun cantando una canción.md>)
-4. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>) — Incluye Shere Khan - Khan Industries CEO y Guardaespaldas preparados.
+4. [Bodyguard.md](<11.5. Keywords/Bodyguard.md>) — Incluye Shere Khan, Guardaespaldas preparados y la interacción general con Reckless, Evasive y Alert.
 5. [Boost olvidado al poner carta debajo en torneo.md](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>)
 6. [Dash Parr & Violet Parr combina los estados con Combo Shift.md](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) **(NUEVO: ATTACK OF THE VINE)**
 7. [Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md](<11.5. Keywords/Dwarfs Mine vs The Bitterwood — Once per turn vs Whenever.md>)
@@ -197,7 +197,8 @@ Casos sobre palabras clave específicas de Lorcana.
 19. [Cantar no es usar una habilidad activada.md](<11.5. Keywords/Cantar no es usar una habilidad activada.md>)
 20. [Torrent solo reduce el siguiente coste de Shift.md](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>)
 21. [Aladdin & Genie - Shift sobre un solo personaje.md](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) **(DISCORD 2026)**
-22. [Palabras clave repetidas y duración](<11.5. Keywords/Palabras clave repetidas y duración.md>) — Evasivo con dos duraciones, Temerario con Cinderella y Cogsworth, y un solo disparo de Apoyo.
+22. [Peter Pan's Shadow y Pegasus - duración de Evasive.md](<11.5. Keywords/Peter Pan's Shadow y Pegasus - duración de Evasive.md>) — Duración indefinida de Tiptoe frente a Hop On!; CR 2.3 desde el 16/10/2026.
+23. [Palabras clave repetidas y duración](<11.5. Keywords/Palabras clave repetidas y duración.md>) — Evasivo con dos duraciones, Temerario con Cinderella y Cogsworth, y un solo disparo de Apoyo.
 
 ---
 
@@ -246,7 +247,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 39. [Rapunzel – Act of Kindness y mover daño.md](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>)
 40. [Secuencia de desafíos con Fa Zhou - War Hero.md](<11.6. Interacciones Complejas/Secuencia de desafíos con Fa Zhou - War Hero.md>)
 41. [Siempre que un personaje desafíe... ocurren cosas.md](<11.6. Interacciones Complejas/Siempre que un personaje desafíe... ocurren cosas.md>)
-42. [Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
+42. [Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>) — Incluye Mickey Mouse - Best in Town con Adventurous y Reckless.
 43. [Support - Interacciones.md](<11.6. Interacciones Complejas/Support - Interacciones.md>)
 44. [Three Arrows - no obliga a dañar a los tuyos.md](<11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos.md>)
 45. [Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md](<11.6. Interacciones Complejas/Tiana y Rapunzel - reducción de Fuerza y prevención total de daño.md>)
@@ -389,14 +390,14 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
 | **11.0 Timing y Resolución** | 45 | 17.4% |
-| **11.2 Zonas y Movimientos** | 26 | 10.1% |
+| **11.2 Zonas y Movimientos** | 26 | 10.0% |
 | **11.3 Costes y Requisitos** | 25 | 9.7% |
 | **11.4 Habilidades** | 38 | 14.7% |
-| **11.5 Keywords** | 22 | 8.5% |
-| **11.6 Interacciones Complejas** | 68 | 26.4% |
+| **11.5 Keywords** | 23 | 8.9% |
+| **11.6 Interacciones Complejas** | 68 | 26.3% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
 | **11.8 Correcciones de jugadas** | 28 | 10.8% |
-| **TOTAL** | **259** | **100%** |
+| **TOTAL** | **260** | **100%** |
 
 ---
 
@@ -420,6 +421,9 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Merlin’s Wand y equipos**: [El descuento sigue el nombre compartido al revelar las dos cartas](<11.4. Habilidades/Bruno y equipos con varios nombres.md>)
 - **Three Arrows y Gopher**: [Resist sigue activo durante el segundo daño; el GSC llega al terminar la acción](<11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC.md>)
 - **Héctor Rivera al cantar**: [BIG HIT espera a que la canción termine y vaya al descarte](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)
+- **Peter Pan's Shadow y Pegasus**: [Tiptoe no hereda la duración de Rush](<11.5. Keywords/Peter Pan's Shadow y Pegasus - duración de Evasive.md>)
+- **Reckless, Bodyguard y Evasive**: [La obligación de desafiar exige un objetivo legal; Alert permite ignorar Evasive](<11.5. Keywords/Bodyguard.md>)
+- **Adventurous y Reckless**: [Mickey no puede desafiar ni irse de aventura](<11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional.md>)
 - **Get to Safety! y Sleepy Hollow**: [Recuperar el puente desde el descarte sí permite robar; ejemplo oficial de CR 6.7.8](<11.0. Timing y Resolución/Get to Safety! roba al recuperar Sleepy Hollow.md>)
 - **Héctor Rivera, The Cold Never Bothered Me y The Torn Corner**: [Ambos efectos disparan MEND THE PHOTO; la foto se comprueba al resolver](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>)
 - **Tod y The Horseman Strikes!**: [Rechazar el destierro no elige a Tod; aceptarlo lo destierra antes de preparar](<11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md>)
@@ -475,4 +479,4 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 - **Dudas depuradas del foro de Discord**: [Cantar no es usar una habilidad activada](<11.5. Keywords/Cantar no es usar una habilidad activada.md>) | [Torrent solo reduce el siguiente coste de Shift](<11.5. Keywords/Torrent solo reduce el siguiente coste de Shift.md>) | [Cartas en idiomas extranjeros en torneos](<11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos.md>) | [Fichas de recordatorio sobre el mazo](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>) | [Retro Evolution Device y mano privada](<11.6. Interacciones Complejas/Retro Evolution Device y mano privada.md>) | [Lyle Tiberius Rourke y Rapunzel & Flynn Rider](<11.6. Interacciones Complejas/Lyle Tiberius Rourke y Rapunzel & Flynn Rider.md>) | [Set Championship con 65 jugadores o más](<11.6. Interacciones Complejas/Set Championship con 65 jugadores o más.md>) | [Carta con error de impresión y comunicación](<11.6. Interacciones Complejas/Carta con error de impresión y comunicación del valor correcto.md>)
 
-----
+---

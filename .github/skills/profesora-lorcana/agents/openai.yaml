@@ -1,0 +1,4 @@
+interface:
+  display_name: "Profesora de Lorcana"
+  short_description: "Enseñanza y práctica con decisiones revisadas"
+  default_prompt: "Usa $profesora-lorcana para explicar estos diagnósticos revisados y proponer hasta dos objetivos de práctica trazables."

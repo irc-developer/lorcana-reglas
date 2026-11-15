@@ -1,0 +1,17 @@
+prefix_rule(
+    pattern = ["git"],
+    decision = "prompt",
+    justification = "Revisar operaciones Git; permitir solo staging selectivo, commits normales y push a origin/main de lorcana-reglas. Rechazar operaciones destructivas."
+)
+
+prefix_rule(
+    pattern = ["python", "-B", "-X", "utf8", "herramientas/publicar_obsidian/publicar.py"],
+    decision = "prompt",
+    justification = "Revisar el script y las rutas explícitas; comprobar primero y aplicar solo la selección del commit actual."
+)
+
+prefix_rule(
+    pattern = ["obsidian"],
+    decision = "prompt",
+    justification = "Revisar el arranque y las operaciones CLI; permitir únicamente publish:add para las rutas seleccionadas."
+)

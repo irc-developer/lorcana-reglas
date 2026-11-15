@@ -24,3 +24,27 @@
 - Para reglas base, la autoridad primaria es el original inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Consulta su texto con `lorcana-rules-engine` o el Markdown paginado registrado junto al original. Los Markdown ingleses numerados son históricos.
 - En las respuestas a Iván, cita el número exacto de regla y enlaza el Markdown castellano correspondiente de `01. Reglas/`. Si falta una localización equivalente, enlaza la transcripción paginada. Añade página si ayuda a localizar el pasaje. Abre o enlaza el PDF solo si Iván lo pide o si una cuestión de formato, una discrepancia de extracción o una comprobación de versión exige el original.
 - Usa las instrucciones y skills de `.github/instructions/` y `.github/skills/` cuando el trabajo entre en esos flujos.
+
+## Archivos de trabajo fuera de Obsidian
+
+La bóveda y el repositorio siguen en `lorcana-reglas`. Los análisis privados,
+partidas, replays, memorias y adquisiciones se guardan en la carpeta hermana
+`../lorcana-trabajo/`, fuera de la bóveda y de este repositorio Git.
+
+- Profesorado, datos, planes y revisiones: `../lorcana-trabajo/analisis/profesora-lorcana/`.
+- Extracciones de partidas: `../lorcana-trabajo/analisis/duels-2026-10-15/`.
+- Análisis de Ancestral Guitar: `../lorcana-trabajo/analisis/ancestral-guitar/`.
+- Adquisiciones del cliente: `../lorcana-trabajo/adquisiciones/duels/`.
+
+No recrees esos árboles dentro de la bóveda ni dejes enlaces simbólicos o junctions
+que los vuelvan a exponer a Obsidian. El código sigue en `herramientas/`; el
+extractor mantenido está en `herramientas/duels_analisis/extraer_replays.py`.
+Usa `herramientas/rutas_trabajo.py`: `ruta_trabajo()` para destinos nuevos y
+`resolver_ruta()` para referencias archivadas. `LORCANA_TRABAJO` permite configurar
+otra raíz absoluta externa. Conserva los bytes de originales, lotes y manifiestos:
+sus rutas históricas se traducen al leer, sin reescribirlos ni invalidar hashes.
+Las menciones antiguas a esos árboles en documentos trasladados son históricas.
+
+Las capturas históricas de Discord versionadas permanecen en `analisis/` como
+referencias. Las notas, fuentes normativas, `.obsidian` y Publish
+conservan su ubicación. Esta separación técnica no autoriza publicar datos privados.

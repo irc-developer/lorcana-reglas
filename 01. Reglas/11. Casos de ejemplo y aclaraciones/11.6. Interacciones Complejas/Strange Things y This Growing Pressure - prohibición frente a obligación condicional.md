@@ -9,6 +9,8 @@ Durante el mismo turno, un jugador elige al mismo personaje rival con:
 
 **Variante con Baloo:** [Baloo – Delivery Pilot](https://cards.lorcast.io/card/digital/large/crd_f7b4682264424b64b6876e1d1146fb94.avif?1790886923) tiene *PAYMENT UP FRONT*: no puede irse de aventura ni desafiar salvo que su controlador haya ganado una gota de tinta este turno. Si otro efecto le obliga a irse de aventura y su controlador todavía no ha ganado una gota este turno, ¿puede hacerlo a pesar de su restricción?
 
+**Variante con Adventurous y Reckless:** si [Mickey Mouse – Best in Town](https://cards.lorcast.io/card/digital/large/crd_1ddaca55bb4f46acae8b17edfea186ac.avif?1790278519) recibe Reckless de un efecto rival, ¿una palabra clave sustituye a la otra?
+
 ---
 
 ## ✅ Respuesta
@@ -40,6 +42,16 @@ Una vez cumplida la condición, *PAYMENT UP FRONT* deja de impedir la aventura y
 
 **Ejemplo didáctico:** el oponente eligió a Baloo con *This Growing Pressure* durante el turno anterior. Al comenzar el turno de su controlador, Baloo está preparado y seco, pero su controlador no ha ganado ninguna gota de tinta ese turno. Baloo no puede irse de aventura y el turno puede terminar sin que lo haga. Si antes de terminar el turno su controlador gana una gota de tinta, Baloo ya puede cumplir la obligación si permanece preparado y seco y no tiene otra prohibición.
 
+### Adventurous y Reckless en el mismo personaje
+
+**Mickey no puede desafiar ni irse de aventura. Ninguna palabra clave sustituye a la otra.** Adventurous prohíbe desafiar y Reckless prohíbe irse de aventura. Las obligaciones de cada una solo se aplican si la acción correspondiente es legal; aquí no lo es por la otra prohibición.
+
+Puedes terminar el turno aunque Mickey esté preparado. También puede cantar, pagar costes de agotamiento, usar habilidades o moverse si cumple los requisitos normales. Si permanece preparado, **Hot Dog!** no cumple su condición al final del turno; si está agotado cuando se resuelve y se cumplen las demás condiciones, cada jugador obtiene una gota de tinta.
+
+La regla 8.1.2 sobre duraciones de palabras clave repetidas no cambia esta interacción: Adventurous y Reckless son dos palabras clave distintas. Cuando termine el efecto que le concede Reckless, Mickey volverá a estar sujeto solo a Adventurous, salvo que otro efecto mantenga la prohibición de irse de aventura.
+
+Esta variante usa **CR 2.3.0 y las cartas de Hyperia City**, con entrada en vigor el 16 de octubre de 2026. Adventurous se define en 8.16: prohíbe desafiar e impide declarar el final del turno si el personaje está preparado y puede irse de aventura.
+
 ---
 
 ### Errata de This Growing Pressure, desde el 16/10/2026
@@ -67,10 +79,12 @@ La aclaración oficial de *Woody – Town Sheriff*, cuyo efecto usa la misma con
 
 [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.2.2 (p. 3), 4.5.1.2 y 4.5.2 (pp. 14–15), 6.4.1 (p. 32), y [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), aclaración de «must quest if able».
 
+**Variante de Mickey:** [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.2.2 (p. 3), 8.7.2–8.7.4 (p. 42) y 8.16.2–8.16.4 (p. 44). [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), apartado «New Keyword: Adventurous».
+
 **Variante de Baloo:** se enlaza el texto inglés de la carta; la explicación en castellano es una adaptación.
 
 ---
 
 ## 🏷️ Tags
 
-#challenge #golden-rule #ink-drop #interactions #quest #static-ability
+#adventurous #challenge #golden-rule #ink-drop #interactions

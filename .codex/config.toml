@@ -1,2 +1,13 @@
 # Presupuesto de salida compatible con Codex 0.147.0; aplica a herramientas de este proyecto.
 tool_output_token_limit = 100000
+
+approval_policy = "on-request"
+approvals_reviewer = "auto_review"
+default_permissions = "documenta"
+
+[permissions.documenta]
+description = "Flujo documenta de lorcana-reglas"
+extends = ":workspace"
+
+[permissions.documenta.filesystem]
+"C:/Users/plata/OneDrive/Documentos/Proyectos/lorcana-reglas/.git" = "write"

@@ -1,48 +1,26 @@
 ## ❓ Duda
 
-¿Puedo evitar la restricción de "Do your worst" de [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) jugando un efecto que dice "elige hasta X personajes" (choose up to X characters) e ignorando a John Smith?
+¿Puede el oponente de [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064) evitar **DO YOUR WORST** eligiendo cero objetivos para un efecto «hasta N»? Por ejemplo, cuando juega [Lionheart - Incumbent Mayor](https://cards.lorcast.io/card/digital/large/crd_7cedada74484495e959d935b6a17b138.avif?1790278511), ¿puede su **APPROVAL RATING** resolverse sin elegir a John?
 
 ---
 
-## ✅ Respuesta
+## ❓ Respuesta
 
-No. La restricción de "Do your worst" **SÍ aplica incluso en efectos de "choose up to X"**.
+No. Si John es un objetivo legal, su oponente **debe elegirlo** al resolver **APPROVAL RATING**. Aunque «hasta dos» permite elegir cero como opción general, **DO YOUR WORST** impone un limitador: como el jugador que resuelve la habilidad es oponente de John y puede elegirlo, no puede escoger cero para evitarlo.
 
-Si la estructura es "elige hasta N personajes":
-- "Hasta" incluye 0 como opción válida
-- Puedes elegir 0, 1, 2, ... hasta N personajes
-- **PERO la restricción estática de John Smith obliga a incluirlo en la selección si es posible**
+Puede elegir solo a John o elegir a John y otro personaje. No puede elegir a John dos veces en la misma selección. Si John no fuera un objetivo legal, «if able» no obligaría a incluirlo; en ese caso, seguirían disponibles las opciones legales restantes, incluido cero.
 
-Por ejemplo, si juegas "elige hasta 3 personajes": 
-- Las opciones legales son: elegir 0, 1, 2 o 3 personajes
-- Si John Smith es un objetivo válido, DEBE incluirse
-- La cantidad mínima sigue siendo 1 (John Smith), la máxima sigue siendo 3
+La restricción solo afecta a los oponentes de John. Si quien resuelve **APPROVAL RATING** también controla a John, **DO YOUR WORST** no le obliga a elegirlo.
 
-**La restricción no es derrotada por "choose up to".**
-
-La restricción "Do your worst" es **incondicional en el contexto de elección válida**: mientras haya una opción legal que sea John Smith, debe elegirse.
+Si eligen a John, gana +1 {L} durante ese turno. Su Lore impreso es 2, por lo que pasa a 3 mientras dure el modificador.
 
 ---
 
-## 📘 Referencias
+## 🔎 Referencias
 
-**Diferencia: "Choose X" vs "Choose up to X"**
-
-- **"Choose X"** = Debes elegir exactamente X objetivos. No es opcional.
-- **"Choose up to X"** = Puedes elegir 0 hasta X objetivos. Es flexible en cantidad.
-
-**PERO ambas están sujetas a restricciones estáticas.**
-
-La regla oficial (6.1.3) especifica:
-_"Si un efecto permite elegir 'hasta N' (up to N): No se puede elegir el mismo objetivo más de una vez. 'Hasta' incluye 0 como elección válida."_
-
-Lo que la regla NO dice es que "hasta" permite evadir restricciones de elección. Las restricciones estáticas prevalecen.
-
-Una prohibición como Ward puede volver ilegal elegir a John Smith. «If able» exige que cumpla todos los requisitos y no elimina prohibiciones. Ward en juego no afecta a cartas de personaje que estén en una mano o descarte.
-
-**Base normativa:**
-- [[6.1. General (General)|6.1.3. Elecciones: "up to N"]]
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Restricciones estáticas de elección]]
+- [[6.1. General (General)|CR 6.1.3–6.1.3.1]]: «hasta N» incluye cero y no permite repetir la misma elección; todos los requisitos y limitadores siguen aplicándose.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3.2–6.7.3.3]]: la elección se comprueba frente a los limitadores; el ejemplo oficial de **DO YOUR WORST** exige elegir a John Smith si es posible.
+- [Comprehensive Rules 2.3.0, pp. 25–26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=25) y [p. 36](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=36).
 
 ---
 

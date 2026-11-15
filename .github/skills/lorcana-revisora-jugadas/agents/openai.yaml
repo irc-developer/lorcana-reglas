@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revisora crítica de jugadas"
+  short_description: "Contrasta jugadas con una línea previa independiente"
+  default_prompt: "Usa $lorcana-revisora-jugadas para guardar primero una línea con la posición limitada y después revisar elección y diagnóstico."

@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Duels personal acquisition manifest v1",
+  "type": "object",
+  "required": ["schema_version", "source", "created_at", "updated_at", "account", "parameters", "state", "games", "observations", "errors"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "source": {"const": "https://duels.ink"},
+    "created_at": {"type": "string", "format": "date-time"},
+    "updated_at": {"type": "string", "format": "date-time"},
+    "account": {
+      "type": "object", "required": ["id"],
+      "properties": {"id": {"type": "string", "minLength": 1}, "name": {"type": ["string", "null"]}},
+      "additionalProperties": true
+    },
+    "parameters": {
+      "type": "object", "required": ["format", "limit", "to"],
+      "properties": {
+        "format": {"const": "json"}, "limit": {"type": "integer", "minimum": 1, "maximum": 250},
+        "from": {"type": "string", "format": "date-time"}, "to": {"type": "string", "format": "date-time"},
+        "source": {"type": "string"}, "queue": {"type": "string"}
+      }, "additionalProperties": false
+    },
+    "state": {
+      "type": "object", "required": ["next_cursor", "enumeration_complete", "pages"],
+      "properties": {
+        "next_cursor": {"type": ["string", "null"]},
+        "enumeration_complete": {"type": "boolean"},
+        "pages": {"type": "integer", "minimum": 0},
+        "cursor_hashes": {"type": "array", "items": {"$ref": "#/$defs/sha256"}}
+      }
+    },
+    "observations": {"type": "array", "items": {"$ref": "#/$defs/observation"}},
+    "errors": {"type": "array", "items": {"$ref": "#/$defs/error"}},
+    "games": {"type": "object", "additionalProperties": {"$ref": "#/$defs/game"}}
+  },
+  "$defs": {
+    "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "file": {
+      "type": "object", "required": ["path", "sha256", "bytes"],
+      "properties": {
+        "path": {"type": "string", "pattern": "^raw/[a-f0-9]{64}(-recovered-[0-9]+)?\\.(json|gz)$"},
+        "sha256": {"$ref": "#/$defs/sha256"}, "bytes": {"type": "integer", "minimum": 0}
+      }
+    },
+    "error": {
+      "type": "object", "required": ["at", "code", "recoverable"],
+      "properties": {"at": {"type": "string", "format": "date-time"}, "code": {"type": "string"},
+                     "recoverable": {"type": "boolean"}, "http_status": {"type": ["integer", "null"]}}
+    },
+    "observation": {
+      "type": "object", "required": ["endpoint", "parameters", "acquired_at", "file", "headers"],
+      "properties": {
+        "endpoint": {"enum": ["/api/me", "/api/me/match-history", "/api/me/bulk-replays", "/api/me/bulk-gamelogs"]},
+        "parameters": {"type": "object"}, "acquired_at": {"type": "string", "format": "date-time"},
+        "file": {"$ref": "#/$defs/file"}, "headers": {"type": "object"}
+      }
+    },
+    "row_source": {
+      "type": "object", "required": ["file", "index", "acquired_at", "row_sha256"],
+      "properties": {
+        "file": {"$ref": "#/$defs/file"}, "index": {"type": "integer", "minimum": 0},
+        "acquired_at": {"type": "string", "format": "date-time"}, "row_sha256": {"$ref": "#/$defs/sha256"}
+      }
+    },
+    "asset": {
+      "type": "object", "required": ["id", "status", "attempts"],
+      "properties": {
+        "id": {"type": ["string", "null"]},
+        "status": {"enum": ["pending", "absent", "unavailable", "download_failed", "downloaded"]},
+        "attempts": {"type": "array", "items": {"type": "object", "required": ["at"]}},
+        "original": {"$ref": "#/$defs/file"}, "json": {"$ref": "#/$defs/file"},
+        "acquired_at": {"type": "string", "format": "date-time"}, "validation": {"type": "object"},
+        "error": {"$ref": "#/$defs/error"}
+      },
+      "allOf": [{
+        "if": {"properties": {"status": {"const": "downloaded"}}},
+        "then": {"required": ["original", "json", "validation", "acquired_at"]}
+      }]
+    },
+    "game": {
+      "type": "object", "required": ["game_id", "account_id", "row", "row_source", "row_versions", "assets"],
+      "properties": {
+        "game_id": {"type": "string"}, "account_id": {"type": "string"},
+        "row": {"$ref": "history-row-v1.schema.json"},
+        "row_source": {"$ref": "#/$defs/row_source"},
+        "row_versions": {"type": "array", "items": {"$ref": "#/$defs/row_source"}, "minItems": 1},
+        "assets": {"type": "object", "required": ["replay", "gamelog"],
+                   "properties": {"replay": {"$ref": "#/$defs/asset"}, "gamelog": {"$ref": "#/$defs/asset"}}},
+        "previous_assets": {"type": "array", "items": {"$ref": "#/$defs/asset"}}
+      }
+    }
+  }
+}
