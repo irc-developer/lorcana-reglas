@@ -1,2 +1,12 @@
 # Descargas y comprobaciones locales de las migraciones de enlaces de cartas.
 .codex_tmp/lorcast-*/
+
+# Credenciales locales de acceso a servicios.
+.env
+
+# Los datos de trabajo viven fuera de la bóveda: ../lorcana-trabajo/.
+# Evitar añadir copias recreadas por herramientas o instrucciones antiguas.
+/analisis/profesora-lorcana/
+/analisis/duels-2026-10-15/
+/analisis/ancestral-guitar/
+.codex_tmp
