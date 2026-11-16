@@ -4,6 +4,7 @@ Esta sección reúne actividades, programas de juego organizado y normas de conv
 
 ## Artículos
 
+- [[Lore Guide Institute - formación gratuita para Lore Guides]]: formación comunitaria gratuita sobre reglas, enseñanza del juego y arbitraje de eventos.
 - [[Collection Quest]]: actividad cooperativa de colección e intercambio de cartas.
 - [[Código de la comunidad (Community Code)]]: expectativas generales de conducta al jugar, intercambiar cartas o hablar de Disney Lorcana.
 

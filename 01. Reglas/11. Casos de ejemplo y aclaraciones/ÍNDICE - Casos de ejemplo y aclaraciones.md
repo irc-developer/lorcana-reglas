@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 261 | **Última actualización:** 15 de noviembre de 2026
+**Total de casos:** 262 | **Última actualización:** 16 de noviembre de 2026
 
 ---
 
@@ -95,7 +95,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 
 ---
 
-### 11.3. Costes y Requisitos (25 casos)
+### 11.3. Costes y Requisitos (26 casos)
 
 Casos sobre pago de costes, requisitos y cómo se calculan.
 
@@ -124,6 +124,7 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 23. [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 24. [Mover un personaje al lugar donde ya está - elección y pago](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>) — CR 2.3 desde el 16/10/2026: acción de turno incompleta y movimiento por efecto.
 25. [Woody y Grandmother Willow - el coste impreso al jugar gratis](<11.3. Costes y Requisitos/Woody y Grandmother Willow - el coste impreso al jugar gratis.md>)
+26. [Pudge - jugar gratis no impide pagar tinta.md](<11.3. Costes y Requisitos/Pudge - jugar gratis no impide pagar tinta.md>) - GOOD FRIEND ofrece jugar gratis; también puedes pagar las 2 {I}.
 
 ---
 
@@ -445,10 +446,12 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Marie**: [Malicious, Mean, and Scary sí permite obtener la gota; diferencias con Resist y Lilo](<11.6. Interacciones Complejas/Marie - Caught in the Act con Resist y Lilo - Bundled Up.md>)
 - **Mulan y Buzz**: [Mulan - Resourceful Recruit gana 7 lore con Buzz](<11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz.md>) | [Pocahontas lee el valor de lore de Mulan](<11.4. Habilidades/Pocahontas – Following the Wind y el lore al questear.md>)
 - **Rapunzel**: [Rapunzel conserva su protección con Resist 0](<11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0.md>) | [Dos escudos de Act of Kindness...](<11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez.md>) | [Rapunzel Act of Kindness...](<11.6. Interacciones Complejas/Rapunzel – Act of Kindness y mover daño.md>) | [Merida frente a Lilo y Rapunzel](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
-- **Shift**: [Cinderella: habilidades de final de turno tras Shift](<11.6. Interacciones Complejas/Cinderella - Dream Come True y múltiples princesas.md>) | [Judy Hopps: Shift cuenta como jugar otro personaje este turno](<11.5. Keywords/Judy Hopps - Shift cuenta como haber jugado otro personaje este turno.md>) | [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [La carta inferior ve jugar la superior: ejemplo con Lady](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
+- **Shift**: [Cinderella: habilidades de final de turno tras Shift](<11.6. Interacciones Complejas/Cinderella - Dream Come True y múltiples princesas.md>) | [Judy Hopps: Shift cuenta como jugar otro personaje este turno](<11.5. Keywords/Judy Hopps - Shift cuenta como haber jugado otro personaje este turno.md>) | [Heredar palabra clave al hacer shift](<11.5. Keywords/Heredar una palabra clave al hacer shift.md>) | [La carta inferior ve jugar la superior: ejemplo con Lady](<11.6. Interacciones Complejas/Lady - Miss Park Avenue shift.md>) | [Jugar personaje gratis no permite usar Shift](<11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift.md>) | [Jugar carta con shift reduciendo coste](<11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis).md>) | [Duo Shift con Mickey Mouse & Minnie Mouse](<11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift.md>) | [Aladdin & Genie sobre un solo personaje](<11.5. Keywords/Aladdin & Genie - Shift sobre un solo personaje.md>) | [Combo Shift con Dash Parr & Violet Parr](<11.5. Keywords/Dash Parr & Violet Parr combina los estados con Combo Shift.md>) | [Morph y todas las variantes](<11.5. Keywords/Morph - Little Imitator funciona con todas las variantes de Shift.md>) | [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>) | [Anna obtiene Shift al volver Will o' the Wisp desde el descarte](<11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md>)
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Elegir entre coste normal y jugar gratis**: [Pudge permite pagar las 2 {I} aunque puedas jugarlo gratis](<11.3. Costes y Requisitos/Pudge - jugar gratis no impide pagar tinta.md>)
+
 - **Recuperar un objeto y jugarlo entre disparos**: [Honey Lemon y su laboratorio: el objeto debe estar en juego al resolver el destierro](<11.0. Timing y Resolución/Honey Lemon y su laboratorio - recuperar no permite jugar entre disparos.md>)
 - **Hasta el comienzo de tu próximo turno**: [Dodge! y Mickey: importa quién generó el efecto](<11.0. Timing y Resolución/Dodge! y Mickey - de quién es el próximo turno.md>)
 - **Una canción destierra la fuente del disparo**: [Tremaine no roba sin hacerse daño; las Musas pueden devolver otro personaje válido](<11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta.md>)

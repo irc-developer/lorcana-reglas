@@ -1,4 +1,4 @@
-## ❓ Duda
+    ## ❓ Duda
 
 ¿Dos copias de [Cinderella - Dream Come True](https://cards.lorcast.io/card/digital/large/crd_31e94039c2494d31b8966443911b0fb2.avif?1761764547) generan dos oportunidades de entintar al final del turno? ¿Se necesita otra Princesa distinta? Si juego [Cinderella - Unintentional Icon](https://cards.lorcast.io/card/digital/large/crd_6a6e3f2df2d448bc99d1492d3d6585e6.avif?1790278645) mediante Shift sobre Dream Come True, ¿se disparan las dos habilidades al final del turno?
 

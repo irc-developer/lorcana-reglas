@@ -1,6 +1,6 @@
 # Guía Completa de Disney Lorcana TCG en Español
 
-*Última actualización 15/11/26*
+*Última actualización 16/11/26*
 
 ¡Hola! Me llamo Iván (Shinobana), apasionado jugador de lorcana y juez en ciernes. Sé bienvenido/a a la **guía definitiva en español sobre Disney Lorcana TCG**, el juego de cartas coleccionables de Disney. Aquí encontrarás **reglas oficiales adaptadas al castellano**, explicaciones detalladas, glosario completo, materiales para árbitros y mucho más.
 
@@ -83,6 +83,8 @@ Este proyecto es de la comunidad y para la comunidad. Si detectas errores, tiene
 - 🛠️ [Lorcast API](https://lorcast.com/docs/api)
 - 🏆 [Clasificación por zonas (ELO)](http://www.eloquest.ink)
 - 🏆📋 [Top Cut - Aplicación para gestionar eventos y mazos hecha por la comunidad (Capri)](https://topcut.report)
+
+- [Lore Guide Institute](https://institute.lorcanajudges.com/): formación comunitaria gratuita e independiente para Lore Guides, con recorridos de reglas, enseñanza y arbitraje.
 
 ### Creadores de contenido
 #### Podcasters

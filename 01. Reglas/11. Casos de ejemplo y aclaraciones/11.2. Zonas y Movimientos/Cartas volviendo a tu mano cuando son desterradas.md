@@ -12,6 +12,10 @@ No es un cambio funcional nuevo: la redacción que especifica “desde el descar
 
 Si la carta estaba debajo de otra en una pila, no se considera en juego como carta independiente. Cuando la carta superior sale de la zona de juego, toda la pila se mueve a la misma zona; por tanto, la carta “under” no dispara por sí sola un “cuando este personaje sea desterrado” como si estuviera en juego independiente.
 
+Esto también puede cumplir una condición que comprueba si una carta ha salido del descarte este turno. Por ejemplo, si [Will o' the Wisp - Forest Spirit](https://cards.lorcast.io/card/digital/large/crd_4d61ccc401a942719bfcafde3a132578.avif?1777687337) es desterrado en un desafío, su habilidad *Come On Out* se dispara. Si al resolverla eliges devolverlo a tu mano, Will o' the Wisp habrá salido del descarte. En consecuencia, [Anna - Soothing Sister](https://cards.lorcast.io/card/digital/large/crd_be89cf4d06b54426801f296b3cbf751d.avif?1770259425) obtiene *Shift* 0 {I} durante ese turno.
+
+La habilidad de Anna no se dispara: *Shift* es una habilidad estática, y el regreso de Will o' the Wisp hace que se cumpla su condición. La habilidad de Will se resuelve dentro de la bolsa del desafío; podrás usar el *Shift* de Anna cuando el desafío termine si eres el jugador activo, sigues en ese turno y tienes otro personaje llamado Anna en juego.
+
 ---
 
 ## 📘 Referencias
@@ -20,6 +24,11 @@ Si la carta estaba debajo de otra en una pila, no se considera en juego como car
 - [[7.6. Pila de descarte (Discard pile)|7.6.1. Definición de descarte]]
 - [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]
 - [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila (In a stack)]]
+- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.3. Evaluación cíclica]]: los disparos por el destierro se resuelven en la bolsa antes de continuar.
+- [[4.6 Desafío (Challenge)]]: el efecto de Will o' the Wisp se resuelve durante la bolsa del desafío.
+- [[8.10. Cambio (Shift)|8.10.1. Definición]]: *Shift* es una habilidad estática que permite jugar la carta pagando un coste alternativo.
+- [CR 2.3.0, 4.6.9.2, pp. 16–18](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=16): la habilidad de Will o' the Wisp se resuelve durante la bolsa del desafío; la oportunidad de acción llega al terminar este.
+- [CR 2.3.0, 8.10.1, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
 
 ---
 
@@ -35,4 +44,4 @@ Si la carta estaba debajo de otra en una pila, no se considera en juego como car
 
 ## 🏷️ Tags
 
-#bag #banish #boost #discard #under
+#bag #banish #boost #discard #shift #static-ability #under

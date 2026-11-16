@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "publish"
-  ]
+  ],
+  "showRibbon": true
 }
