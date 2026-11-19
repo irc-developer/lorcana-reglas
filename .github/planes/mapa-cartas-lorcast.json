@@ -1,6 +1,20 @@
 {
   "fecha": "2026-10-08",
   "cartas": {
+    "02. Listado de Cartas/Set 12 - Wilds Unknown.md#Gadget Hackwrench - Resourceful Mechanic": {
+      "archivo_local": "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+      "epigrafe": "Gadget Hackwrench - Resourceful Mechanic",
+      "ficha_verificada": "Gadget Hackwrench - Resourceful Mechanic",
+      "nombre": "Gadget Hackwrench",
+      "version": "Resourceful Mechanic",
+      "set": "12",
+      "numero": "145",
+      "idioma": "en",
+      "id": "crd_ddc2c44f61984a82b0020763c4e4a5e8",
+      "imagen": "https://cards.lorcast.io/card/digital/large/crd_ddc2c44f61984a82b0020763c4e4a5e8.avif?1777687726",
+      "obtenido": "2026-11-19",
+      "estado": "resuelto"
+    },
     "02. Listado de Cartas/Set 11 - Winterspell.md#Bambi - Ethereal Fawn": {
       "archivo_local": "02. Listado de Cartas/Set 11 - Winterspell.md",
       "epigrafe": "Bambi - Ethereal Fawn",

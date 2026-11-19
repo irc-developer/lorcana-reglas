@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 262 | **Última actualización:** 16 de noviembre de 2026
+**Total de casos:** 262 | **Última actualización:** 19 de noviembre de 2026
 
 ---
 
@@ -241,7 +241,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 31. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
 32. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
 33. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
-34. [Oswald y Keep the Ancient Ways.md](<11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md>)
+34. [Oswald y Keep the Ancient Ways.md](<11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md>) — La canción impide jugar objetos gratis con Gadget Hackwrench y Oswald.
 35. [Piercing Attack ignora Resist de Omnidroid.md](<11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md>) **(NUEVO: ATTACK OF THE VINE)**
 36. [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>) **(NUEVO: ATTACK OF THE VINE)**
 37. [Pudge + Lilo + Grandmother Willow (+ Shift).md](<11.6. Interacciones Complejas/Pudge + Lilo + Grandmother Willow (+ Shift).md>)
@@ -293,7 +293,7 @@ La subsección reúne seis casos desarrollados y una interacción pendiente de a
 
 ---
 
-### 11.8. Correcciones de jugadas (27 casos)
+### 11.8. Correcciones de jugadas (28 casos)
 
 Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante una partida.
 
@@ -392,14 +392,14 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
 | **11.0 Timing y Resolución** | 45 | 17.2% |
-| **11.2 Zonas y Movimientos** | 26 | 10.0% |
-| **11.3 Costes y Requisitos** | 25 | 9.6% |
-| **11.4 Habilidades** | 38 | 14.6% |
+| **11.2 Zonas y Movimientos** | 26 | 9.9% |
+| **11.3 Costes y Requisitos** | 26 | 9.9% |
+| **11.4 Habilidades** | 38 | 14.5% |
 | **11.5 Keywords** | 24 | 9.2% |
-| **11.6 Interacciones Complejas** | 68 | 26.1% |
+| **11.6 Interacciones Complejas** | 68 | 26.0% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
 | **11.8 Correcciones de jugadas** | 28 | 10.7% |
-| **TOTAL** | **261** | **100%** |
+| **TOTAL** | **262** | **100%** |
 
 ---
 
