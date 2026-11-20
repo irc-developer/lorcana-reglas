@@ -8,7 +8,7 @@ Si tienes a [Pudge - Controls the Weather](https://cards.lorcast.io/card/digital
 
 **Sí.** GOOD FRIEND te permite jugar a Pudge gratis si tienes un personaje llamado Lilo en juego, pero no te obliga a usar esa opción. Puedes jugarlo normalmente pagando su coste de 2 {I}.
 
-La CR 1.5.5.3 explica que un efecto que permite jugar una carta gratis significa que puedes jugarla sin pagar su coste. Por tanto, aquí «can» concede la posibilidad de elegir el modo gratis. Al empezar a jugar la carta, anuncias si pagas su coste de tinta o un coste alternativo. Si eliges el modo gratis, se ignoran todos los costes: no puedes elegir ese modo y pagar a la vez las 2 {I}.
+La CR 1.5.5.3 explica que un efecto que permite jugar una carta gratis significa que puedes jugarla sin pagar su coste. Por tanto, aquí «can» concede la posibilidad de elegir el modo gratis. Al empezar a jugar la carta, anuncias si pagas su coste de tinta o un coste alternativo. Que la regla diga que «gratis» se elige inmediatamente no le da prioridad sobre pagar las 2 {I}: significa que, si anuncias ese modo, queda fijado en ese momento y se ignoran todos los costes. No puedes elegir el modo gratis y pagar a la vez las 2 {I}.
 
 ---
 
