@@ -27,7 +27,7 @@ El resultado solo cambia si la pila ya no sigue en juego. Por ejemplo, si fue de
 - [[8.10. Cambio (Shift)|8.10.6. Daño]] establece que el personaje desplazado conserva el daño del personaje o las cartas sobre las que se coloca. Por eso el daño pertenece al personaje representado por la pila y se retira de su carta superior actual.
 - [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila]] regula el movimiento ordinario de una pila cuando abandona el juego su carta superior. En este caso la carta superior no abandona el juego: el ruling específico de Temporary Shift retira la carta temporal desde su posición y deja en juego las demás.
 
-La frase de CR 2.2 **“if this card is in play”** puede resultar ambigua al combinarla con la definición general de una carta situada debajo. Las *Attack of the Vine Set Release Notes* resuelven expresamente esa ambigüedad: basta con que la carta temporal siga formando parte de una pila que continúe en juego.
+La frase **“if this card is in play”** de CR 2.3.0 §8.10.8.5 puede resultar ambigua al combinarla con la definición general de una carta situada debajo. Las *Attack of the Vine Set Release Notes* resuelven expresamente esa ambigüedad: basta con que la carta temporal siga formando parte de una pila que continúe en juego.
 
 ---
 

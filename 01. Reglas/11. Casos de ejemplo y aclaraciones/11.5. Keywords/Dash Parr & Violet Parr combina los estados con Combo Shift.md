@@ -19,7 +19,7 @@ Combo Shift puede utilizar un personaje con cualquiera de los dos nombres o dos 
 
 - [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales vigentes de Shift y pilas.
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] define seco, secándose, preparado y agotado.
-- Combo Shift y la combinación de estados están confirmados en CR 2.2, reglas 8.10.8.4 y 8.10.4.2.
+- Combo Shift y la combinación de estados están confirmados en CR 2.3.0, reglas 8.10.8.4 y 8.10.4.2.
 
 ---
 

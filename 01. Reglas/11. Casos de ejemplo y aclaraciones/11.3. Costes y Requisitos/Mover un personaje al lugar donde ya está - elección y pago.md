@@ -1,8 +1,6 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
 > [!IMPORTANT] CR 2.3, desde el 16/10/2026
-> La redacción «el movimiento no ocurre» de 4.7.2 pertenece a CR 2.3. Hasta el 15/10/2026, CR 2.2 exige que un personaje situado en una localización se mueva a otra localización.
-
 ## ❓ Duda
 
 Un personaje mío ya está en una localización mía. CR 2.3, 4.7.2, dice que, si elijo moverlo allí, el movimiento no ocurre. ¿Puedo seguir los pasos de la acción de turno, elegir ese mismo lugar en 4.7.3.1 y pagar su coste en 4.7.3.4, aunque el personaje no cambie de lugar? ¿En qué punto se detiene el intento?
@@ -30,7 +28,6 @@ Si el efecto tiene su propio coste o forma parte de una habilidad cuyo coste ya 
 - [[1.7. Game Actions, Timing, y Illegal Actions|Acciones ilegales]], 1.7.6–1.7.6.2: se deshacen las acciones y los pagos del intento, dentro de los límites de reversibilidad.
 - [[1.2. Regla de oro (Golden Rules)|Hacer todo lo posible]], 1.2.3: un efecto continúa en lo que pueda realizarse; esta regla no permite completar parcialmente una acción de turno ilegal.
 - [Comprehensive Rules 2.3.0 — PDF oficial](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=18), pp. 3, 6, 12 y 18–19. La conclusión sobre el pago aplica conjuntamente 4.7.2, 4.1.4 y 1.7.6.
-- [Comprehensive Rules 2.2.0 — versión aplicable hasta el 15/10/2026](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=18), 4.7.2: exige otro lugar como destino.
 
 ---
 

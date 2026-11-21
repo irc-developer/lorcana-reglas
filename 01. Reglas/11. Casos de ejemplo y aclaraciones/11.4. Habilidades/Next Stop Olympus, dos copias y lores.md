@@ -18,7 +18,7 @@ Los disparos creados **existen fuera de la bolsa hasta que ocurre ese desafío**
 
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.7.1–6.2.7.2: disparos flotantes y retardados fuera de la bolsa]].
 - [[7.7. Bolsa (Bag)|7.7: incorporación al cumplirse la condición y resolución]].
-- [CR 2.2.0, 6.2.7, p.31](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=31); [CR 2.3.0, 6.2.7, p.31](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=31).
+- [CR 2.3.0, 6.2.7, p.31](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=31).
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Yama - Notorious Criminal.
 
 ---

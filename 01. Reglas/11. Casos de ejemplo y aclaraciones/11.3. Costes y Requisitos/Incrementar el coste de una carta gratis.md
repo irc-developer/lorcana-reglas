@@ -19,7 +19,7 @@ En ambos casos, gratis no elimina condiciones del texto ni autoriza una acción 
 - [[1.5 Costes (Costs)|1.5.5.3–1.5.5.4: jugar y usar gratis]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.2: modo y cálculo del total]].
 - [[4.4. Usar una habilidad activada (Use an Activated Ability)|4.4.3: requisitos y pago]].
-- [CR 2.2](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; la distinción se mantiene.
+- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; la distinción se mantiene.
 
 ---
 

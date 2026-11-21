@@ -18,7 +18,7 @@ Tener dos o más copias no cambia esta conclusión.
 
 - [[1.10. Materiales (Materials)|1.10. Materiales]] contiene los requisitos generales de construcción de mazo.
 - La excepción solo alcanza al conjunto definido por «other Hunny characters».
-- CR 2.2, regla 1.10.1.3, confirma que la fuente de una excepción de construcción debe ser legal antes de aplicar su habilidad.
+- CR 2.3.0, regla 1.10.1.3, confirma que la fuente de una excepción de construcción debe ser legal antes de aplicar su habilidad.
 
 ---
 

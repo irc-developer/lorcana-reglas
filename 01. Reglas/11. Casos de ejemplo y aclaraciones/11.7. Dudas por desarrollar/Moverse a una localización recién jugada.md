@@ -24,7 +24,7 @@ Así que la respuesta corta es:
 
 ## 📘 Referencias
 
-- [[4.7 Mover un personaje (Move a character)|4.7.3.1. Elegir personaje y localización; 4.7.3.2–4.7.3.4. Elegir, calcular y pagar el coste; 4.7.4. Completar el movimiento]]. El mismo procedimiento aparece en CR 2.2 y CR 2.3; el pago de 2.3 añade gotas de tinta desde el 16 de octubre de 2026.
+- [[4.7 Mover un personaje (Move a character)|4.7.3.1. Elegir personaje y localización; 4.7.3.2–4.7.3.4. Elegir, calcular y pagar el coste; 4.7.4. Completar el movimiento]]. El pago puede incluir gotas de tinta.
 
 - [[5.1. Estados de las cartas (Card States)|5.1.1.11. Secarse es un estado de personajes, no de localizaciones]]
 - [[5.1. Estados de las cartas (Card States)|5.1.2.3. Las localizaciones entran en juego sin estado de ready, exerted ni drying]]

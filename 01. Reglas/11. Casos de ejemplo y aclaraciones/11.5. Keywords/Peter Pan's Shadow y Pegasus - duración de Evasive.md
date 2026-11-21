@@ -14,8 +14,6 @@ Esto no convierte Evasive en una habilidad permanente de Pain. Tiptoe solo afect
 
 Hay que distinguir **duración del efecto** y **qué personajes afecta**. Que podamos prever que Pain perderá Rush al terminar el turno no añade «este turno» al texto de Tiptoe. Si Pain conserva Rush por otra fuente y la Sombra sigue en juego, Tiptoe continúa concediéndole Evasive.
 
-**Esta explicación de la nueva 8.1.2 corresponde a CR 2.3.0, efectiva desde el 16 de octubre de 2026.** En CR 2.2.0, Pegasus tampoco concede otra Evasive a Pain en esta secuencia: la regla anterior simplemente impide obtener de nuevo una palabra clave no acumulable que ya tiene. El resultado al terminar el Rush es el mismo.
-
 ### Si Tiptoe ya no le concede Evasive
 
 Si Peter Pan's Shadow abandona la zona de juego antes de resolver **Hop On!** y Pain ya no tiene Evasive por otra fuente, Pain sí recibe la concesión de Pegasus hasta el comienzo de tu próximo turno. Debe estar en juego al resolverse Hop On! para quedar incluido. Que Pegasus abandone después la zona de juego no acorta esa duración.
@@ -27,7 +25,6 @@ Si Peter Pan's Shadow abandona la zona de juego antes de resolver **Hop On!** y 
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1 y 6.4.2.2–6.4.2.3]]: habilidades continuas de cartas en juego y concesiones aplicadas por efectos resueltos.
 - [[6.1. General (General)|6.1.13.3–6.1.13.4]]: diferencia entre «hasta» y «este turno».
 - [Comprehensive Rules 2.3.0, p. 41](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41), regla 8.1.2: comparación de duraciones; el ejemplo distingue duración indefinida y final de turno. Véanse también pp. 29 y 32 para duración y habilidades estáticas.
-- [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], p. 41, regla 8.1.2: redacción anterior, vigente antes del 16 de octubre de 2026.
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartado «Keyword Stacking».
 
 ---

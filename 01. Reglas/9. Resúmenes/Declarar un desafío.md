@@ -31,6 +31,6 @@ Las localizaciones no están preparadas ni agotadas: ese estado no limita su ele
 - [[1.9. Daño (Damage)|1.9.4: cálculo de daño]].
 - [[7.7. Bolsa (Bag)|7.7: orden de resolución de disparos]].
 - [[8.2. Alerta (alert)|8.2: ignorar el limitador de Evasive]], [[8.3. Guardaespaldas (Bodyguard)|8.3: Bodyguard]], [[8.6. Evasivo (Evasive)|8.6: Evasive]] y [[8.16. Aventurero (Adventurous)|8.16: Adventurous desde el 16/10/2026]].
-- [CR 2.2.0, 4.6, pp.15–17](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf); [CR 2.3.0, 4.6, pp.15–17](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf). El procedimiento de desafío citado se conserva en ambas versiones.
+- [CR 2.3.0, 4.6, pp.15–17](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf). El procedimiento de desafío citado se conserva en ambas versiones.
 
 #challenge #bag-priority #turn-actions

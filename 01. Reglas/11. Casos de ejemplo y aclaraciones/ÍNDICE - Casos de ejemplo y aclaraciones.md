@@ -6,7 +6,7 @@
 
 ## 📋 Estructura por categoría
 
-> **(NUEVO: HYPERIA CITY)** marca aclaraciones que aplican desde el **16/10/2026**. Hasta el 15/10 rige CR 2.2.
+> **(NUEVO: HYPERIA CITY)** marca aclaraciones que aplican desde el **16/10/2026**.
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 

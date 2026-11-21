@@ -20,7 +20,7 @@ Desde el **16/10/2026**, CR 6.1.4.2 explicita que cada instancia de «may» intr
 
 - [[6.1. General (General)|6.1.2, 6.1.4 y 6.1.4.2: orden y opciones independientes]].
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2: instrucciones y elecciones al resolver]].
-- [CR 2.3, 6.1.4.2, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26), efectiva el 16/10/2026; [CR 2.2](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) antes de esa fecha.
+- [CR 2.3, 6.1.4.2, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26), efectiva el 16/10/2026.
 - Textos de las cartas enlazadas: sus efectos no son equivalentes y no deben resumirse con una misma condición abstracta.
 
 ---

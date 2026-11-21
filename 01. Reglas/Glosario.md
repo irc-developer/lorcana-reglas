@@ -1,7 +1,7 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
 > [!IMPORTANT] CR 2.3.0
-> Esta adaptación corresponde a las reglas que entran en vigor el **16 de octubre de 2026**. Hasta esa fecha se aplica [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf).
+> Adaptación de las Comprehensive Rules 2.3.0, vigentes desde el **16 de octubre de 2026**.
 
 ## Términos incorporados o precisados en CR 2.3
 
@@ -55,7 +55,7 @@ Carta con {S} y {W} que entra en la zona de Juego.
 Categoría que identifica características de una carta.
 
 **conditional dependent effect (efecto dependiente de una condición)**
-Efecto cuya aplicación depende de que una condición indicada por *if* o *unless* sea verdadera o falsa (6.1.15–6.1.16). Sustituye en CR 2.2 al término *conditional static ability* para este concepto.
+Efecto cuya aplicación depende de que una condición indicada por *if* o *unless* sea verdadera o falsa (6.1.15–6.1.16).
 
 **damage (daño)**  
 Representado por contadores y contado contra {W}.

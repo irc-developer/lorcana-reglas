@@ -18,7 +18,7 @@ Solo se permite omitir las ediciones cuando el usuario pide explícitamente no m
 ## Fuentes y guías de apoyo
 
 - Recuperación, citas, glosario, artículos relacionados y borradores: proyecto independiente `lorcana-rules-engine`. Sigue `.github/lorcana-rules-engine.md` y carga la skill del motor pertinente; la wiki conserva la interpretación normativa, el artículo canónico, los índices y la publicación. No uses MCP ni la CLI anterior. Una avería o resultado insuficiente del motor no bloquea el ruling ni la edición: aplica el protocolo de recuperación obligatoria de `.github/instructions/lorcana-scope.instructions.md`, incluida la inspección directa de documentos canónicos locales accesibles. Registra por separado el defecto técnico y no modifiques el motor sin autorización explícita.
-- Reglas primarias: original inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Consulta el texto mediante `lorcana-rules-engine` o su extracción Markdown paginada registrada. Los Markdown ingleses numerados son transcripciones históricas incompletas.
+- Reglas primarias: original inglés seleccionado por `Documentacion Oficial/README.md` y `01.1.a Official English Reference – Unmodified/00. Fuente actual.md`. Consulta el texto mediante `lorcana-rules-engine` o su extracción Markdown paginada registrada.
 - Localización y documentación en castellano: `01. Reglas/`.
 - Texto exacto de cartas: archivo de set correspondiente dentro de `02. Listado de Cartas/`.
 - Artículos: `01. Reglas/11. Casos de ejemplo y aclaraciones/`.

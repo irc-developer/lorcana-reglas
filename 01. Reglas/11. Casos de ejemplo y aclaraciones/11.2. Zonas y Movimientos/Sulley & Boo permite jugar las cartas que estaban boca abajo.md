@@ -22,7 +22,7 @@ Respecto a Combo Shift:
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] regula las pilas, las cartas bajo otra carta y los cambios de estado al cambiar de zona.
 - [[7.6. Pila de descarte (Discard pile)|7.6. Pila de descarte]] determina que las cartas del descarte son visibles.
 - [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales de las pilas creadas con Shift.
-- Combo Shift y la combinación de estados están confirmados por CR 2.2, reglas 8.10.8.4 y 8.10.4.2; el cambio de estado al abandonar la pila está en 5.1.1.7.
+- Combo Shift y la combinación de estados están confirmados por CR 2.3.0, reglas 8.10.8.4 y 8.10.4.2; el cambio de estado al abandonar la pila está en 5.1.1.7.
 
 ---
 

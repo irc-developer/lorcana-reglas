@@ -8,7 +8,7 @@ Si [Hydra - Deadly Serpent](https://cards.lorcast.io/card/digital/large/crd_f902
 
 **No. Resist +1 reduce ese daño a 0, así que Hydra no recibe daño y WATCH THE TEETH no se dispara.**
 
-Desde las CR 2.2, Resist es una habilidad estática que modifica la cantidad de daño infligido; no es un efecto de reemplazo. Si el daño queda reducido a 0, la fuente sigue considerándose que ha infligido daño, pero Hydra no recibe daño.
+Resist es una habilidad estática que modifica la cantidad de daño infligido; no es un efecto de reemplazo. Si el daño queda reducido a 0, la fuente sigue considerándose que ha infligido daño, pero Hydra no recibe daño.
 
 WATCH THE TEETH dice «Whenever this character is dealt damage». Conforme a la equivalencia de 1.9.2, esa condición comprueba si Hydra recibió daño. Como no recibe ninguno cuando Resist reduce el total a 0, la habilidad no se añade a la bolsa y no inflige daño a otro personaje.
 

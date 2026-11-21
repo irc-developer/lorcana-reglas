@@ -29,7 +29,7 @@ Si tienes otra copia de Dream Come True en juego, esta sí se dispara al final d
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4: condición secundaria al resolver]].
 - [[6.1. General (General)|6.1.5.1: A para B]].
 - [[7.7. Bolsa (Bag)|7.7: resoluciones individuales]].
-- [CR 2.2](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; para el caso de Shift, CR 2.3.0, 1.6.1 (p. 5), 3.4.1.1 (p. 12), 5.1.1.5 (p. 19), 5.1.1.8 (p. 20), 6.2.4 (p. 30) y 8.10.1 y 8.10.5 (p. 42).
+- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; para el caso de Shift, CR 2.3.0, 1.6.1 (p. 5), 3.4.1.1 (p. 12), 5.1.1.5 (p. 19), 5.1.1.8 (p. 20), 6.2.4 (p. 30) y 8.10.1 y 8.10.5 (p. 42).
 
 ---
 

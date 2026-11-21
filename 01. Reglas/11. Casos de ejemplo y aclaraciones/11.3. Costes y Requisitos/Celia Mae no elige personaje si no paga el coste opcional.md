@@ -14,7 +14,7 @@ Si juegas [Celia Mae – Friendly Receptionist](https://cards.lorcast.io/card/di
 
 - [[1.5 Costes (Costs)|1.5. Costes]] exige que un coste se pague por completo.
 - [[6.1. General (General)|6.1. Reglas generales de efectos]] establece que rechazar un efecto opcional hace que esa parte se resuelva sin efecto.
-- CR 2.2, reglas 6.1.4 y 6.1.4.1, confirma que no pagar o no poder pagar el coste unido a `may` se trata como elegir «no».
+- CR 2.3.0, reglas 6.1.4 y 6.1.4.1, confirma que no pagar o no poder pagar el coste unido a `may` se trata como elegir «no».
 
 ---
 
