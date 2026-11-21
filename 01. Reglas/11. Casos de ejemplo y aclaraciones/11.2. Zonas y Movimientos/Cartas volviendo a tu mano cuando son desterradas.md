@@ -27,7 +27,7 @@ La habilidad de Anna no se dispara: *Shift* es una habilidad estática, y el reg
 - [[1.8. Chequeo del estado del juego (Game State Check)|1.8.3. Evaluación cíclica]]: los disparos por el destierro se resuelven en la bolsa antes de continuar.
 - [[4.6 Desafío (Challenge)]]: el efecto de Will o' the Wisp se resuelve durante la bolsa del desafío.
 - [[8.10. Cambio (Shift)|8.10.1. Definición]]: *Shift* es una habilidad estática que permite jugar la carta pagando un coste alternativo.
-- [CR 2.3.0, 4.6.9.2, pp. 16–18](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=16): la habilidad de Will o' the Wisp se resuelve durante la bolsa del desafío; la oportunidad de acción llega al terminar este.
+- [CR 2.3.0, 4.6.7, p. 15](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=15): cierre normal del desafío. [CR 2.3.0, 4.6.9–4.6.9.2, pp. 16–18](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=16): si un participante sale del desafío, se resuelven los disparos pendientes antes de cerrarlo. El ejemplo B muestra una devolución a la mano como la de Will o' the Wisp.
 - [CR 2.3.0, 8.10.1, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
 
 ---

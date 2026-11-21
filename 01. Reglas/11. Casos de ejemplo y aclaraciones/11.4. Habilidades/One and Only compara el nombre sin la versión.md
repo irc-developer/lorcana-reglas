@@ -109,7 +109,7 @@ Después de resolver la acción, puedes usar cada disparo de *Reincarnation* par
 
 Puede elegirse un personaje propio o rival, preparado o agotado, seco o secándose, dañado o sin daño, siempre que sea una elección legal. El efecto tampoco limita quién controla a los demás personajes, por lo que destierra tanto personajes propios como rivales que coincidan.
 
-En una partida multijugador ordinaria, `all other characters` alcanza a los personajes de todos los jugadores. Las reglas completas 2.2.0 no cubren las variantes de juego por equipos.
+En una partida multijugador ordinaria, `all other characters` alcanza a los personajes de todos los jugadores. Esta explicación cubre el multijugador sin equipos. [CR 2.3.0, 9.1, p. 44](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=44).
 
 ### Ward
 
@@ -162,7 +162,7 @@ Los personajes son desterrados por el efecto de la acción, no por el personaje 
 
 Jugar una segunda Spyglass Hat encuentra otra del mismo nombre y no cumple la condición: los disparos correspondientes se resuelven sin efecto. No basta con que sea una carta física diferente. Las dos habilidades producen efectos distintos cuando sí se cumple la condición; coincidencia de nombre no significa coincidencia de texto.
 
-[Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Spyglass Hat y Ariel; CR 5.2.6 y 6.2.4.
+[Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Spyglass Hat y Ariel; CR 5.2.6 y 6.2.4.
 
 ---
 

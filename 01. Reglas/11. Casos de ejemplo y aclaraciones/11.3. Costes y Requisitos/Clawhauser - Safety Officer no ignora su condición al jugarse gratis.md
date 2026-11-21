@@ -23,7 +23,7 @@ Cuando ya has jugado otro personaje este turno, puedes jugar a Clawhauser por un
 
 - [[1.2. Regla de oro (Golden Rules)|1.2.2: impedir prevalece sobre permitir]].
 - [[4.3. Jugar una carta (Play a Card)|4.3: procedimientos y modos de pago]].
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Clawhauser - Safety Officer.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Clawhauser - Safety Officer.
 
 ---
 

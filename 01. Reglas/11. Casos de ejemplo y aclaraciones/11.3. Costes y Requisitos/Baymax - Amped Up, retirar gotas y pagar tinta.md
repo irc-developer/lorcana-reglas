@@ -34,7 +34,7 @@ flowchart TD
 - [[1.5 Costes (Costs)|1.5: coste normal y alternativo]].
 - [[8.10. Cambio (Shift)|8.10: jugar sobre un personaje válido]].
 - [CR 2.3.0, 1.13.1.2, p. 9](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=9).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), aclaración de la carta.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración de la carta.
 
 ---
 

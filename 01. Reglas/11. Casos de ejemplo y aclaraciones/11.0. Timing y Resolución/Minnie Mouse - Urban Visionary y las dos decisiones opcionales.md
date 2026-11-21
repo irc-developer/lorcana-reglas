@@ -31,7 +31,7 @@ La tabla supone que las opciones aceptadas pueden realizarse. Devolver sin mirar
 - [[6.1. General (General)|6.1.4.2: decisiones independientes y partes afectadas por cada may]].
 - [[1.13. Contadores (Counters)|1.13.2: las gotas no son cartas]].
 - [CR 2.3.0, 6.1.4.2, p. 26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), aclaración de la carta.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración de la carta.
 
 ---
 

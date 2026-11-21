@@ -25,16 +25,16 @@ Si EXTRA LAYERS ya se aplicó ese turno, Lilo puede seguir sin contadores aunque
 
 ### Mulan desafía a un personaje con Resist
 
-Con 2 de Fuerza frente a Resist +2, el personaje desafiado recibe **0** y **TRIPLE SHOT se dispara** por la regla 1.9.5. Según la explicación de Kyle compartida en la comunidad, al resolverse usa **2 de daño** para cada uno de hasta dos otros personajes elegidos. Cada uno aplica sus propios modificadores.
+Con 2 de Fuerza frente a Resist +2, el personaje desafiado recibe **0** y **TRIPLE SHOT se dispara** por la regla 1.9.5. El ejemplo de esa regla confirma el disparo de STEADY AIM, que tiene un valor fijo. Queda por aclarar qué cantidad repite TRIPLE SHOT cuando el daño del desafío se reduce a cero.
 
-Aplicando ese criterio a Mulan con 5 de Fuerza contra Resist +1, el personaje desafiado recibiría **4** y TRIPLE SHOT partiría de **5**. Este segundo cálculo es una aplicación del criterio del ejemplo de 2 contra Resist +2. La explicación se refiere a Resist y deja abierta la interacción con EXTRA LAYERS.
+Con 5 de Fuerza frente a Resist +1, Mulan inflige **4 daños** tras aplicar el modificador (1.9.4.1–1.9.4.3). TRIPLE SHOT repite esos **4 daños** para cada uno de hasta dos otros personajes elegidos. A cada uno se le aplican sus propios modificadores y reemplazos.
 
 ---
 
 ## 📘 Referencias
 
 - [[1.9. Daño (Damage)|1.9.2.1, 1.9.2.2 y 1.9.3. Infligir, poner y recibir daño]].
-- [[1.9. Daño (Damage)|1.9.5. Daño reducido a cero por modificadores]], CR 2.3.0, p. 8.
+- [[1.9. Daño (Damage)|1.9.4.1–1.9.4.3 y 1.9.5. Cálculo de la cantidad y disparos si el daño se reduce a cero]], CR 2.3.0, p. 8.
 - [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4 y 6.5.8. El evento original no ocurre y las habilidades que dependen de él no se disparan]], CR 2.3.0, pp. 33-34.
 - [[4.6 Desafío (Challenge)|4.6.6.1 y 4.6.6.2. Cálculo y aplicación simultánea del daño del desafío]], CR 2.3.0, p. 15.
 - [[8.8. Resistir (Resist)|8.8.1. Resist reduce la cantidad de daño del desafío]], CR 2.3.0, p. 42.

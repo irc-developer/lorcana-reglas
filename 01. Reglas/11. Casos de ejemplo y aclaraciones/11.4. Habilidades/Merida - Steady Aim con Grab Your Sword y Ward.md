@@ -14,9 +14,9 @@ Sí, [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0
 
 Sí, si [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747) llega a infligir daño a un personaje rival con Ward, **STEADY AIM** se dispara también por ese personaje. **Ward** solo impide que un oponente **elija** esa carta al resolver un efecto, y aquí ni [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747) ni el texto de **STEADY AIM** te piden elegirla. La habilidad de Merida no vuelve a elegir objetivo; simplemente sigue al mismo personaje que ya quedó identificado por el evento de daño anterior.
 
-Además, si [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747) daña a varios personajes rivales a la vez, [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117) genera un disparo separado por cada personaje rival al que la acción haya infligido daño realmente.
+Además, si [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747) daña a varios personajes rivales a la vez, [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117) genera un disparo por cada personaje rival al que la acción inflija daño. La regla 1.9.5 mantiene el disparo si Resist reduce a 0 el daño de la acción.
 
-Pero esos disparos esperan en la **bolsa** hasta que [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747) termina de resolverse y se hace el **GSC**. Por eso, si uno de esos personajes con Ward queda con daño letal y es desterrado por los 2 daños iniciales, el disparo correspondiente de Merida ya no podrá hacerle 2 daños después porque ese personaje ya no está en juego. Si sobrevive, sí recibe esos 2 daños extra cuando se resuelva su disparo.
+Pero esos disparos esperan en la **bolsa** hasta que [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747) termina de resolverse y se hace el **GSC**. Por eso, si uno de esos personajes con Ward queda con daño letal y es desterrado por los 2 daños iniciales, el disparo correspondiente de Merida ya no podrá hacerle 2 daños después porque ese personaje ya no está en juego. Si sigue en juego al resolverse el disparo, la habilidad parte de 2 daños. Este evento tiene sus propios modificadores y posibles reemplazos.
 
 ---
 
@@ -27,6 +27,8 @@ Pero esos disparos esperan en la **bolsa** hasta que [Grab Your Sword](https://c
 - [[8.15 Protección (ward)|8.15.1. Ward]]: los oponentes no pueden **elegir** esa carta al resolver un efecto.
 - [[8.15 Protección (ward)|8.15.2. Ward no protege de efectos que no eligen]].
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El daño de un mismo efecto se inflige simultáneamente]].
+- [[1.9. Daño (Damage)|1.9.4–1.9.5. Cálculo del daño y disparos si se reduce a cero]], CR 2.3.0, p. 8.
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4. El reemplazo modifica el evento y los disparos que causa]], CR 2.3.0, p. 33.
 - [[7.7. Bolsa (Bag)|7.7.3.1. Los disparos ocurridos durante la resolución entran en la bag y esperan; si varios ocurren a la vez, entran simultáneamente]].
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5. El GSC ocurre después de resolver la acción o habilidad]].
 - [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.4. El daño letal destierra al personaje en el GSC]].
@@ -36,12 +38,12 @@ Pero esos disparos esperan en la **bolsa** hasta que [Grab Your Sword](https://c
 ## 🔄 Cómo se resuelve
 
 1. Resuelves [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747).
-2. Su efecto hace 2 daños simultáneamente a **cada personaje rival**, incluidos los que tengan **Ward**, porque no hay elección.
-3. Por cada personaje rival al que la acción haya infligido daño realmente, **STEADY AIM** cumple su condición y se añade un disparo a la **bag**.
+2. Su efecto inflige daño simultáneamente a **cada personaje rival** sin elegirlos. Parte de 2 daños por personaje y también afecta a quienes tienen **Ward**.
+3. Por cada personaje rival al que la acción inflija daño, se añade un disparo de **STEADY AIM** a la bolsa, aunque Resist haya reducido ese daño a 0.
 4. [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747) termina de resolverse.
 5. Se hace el **GSC**. Todo personaje con daño letal es desterrado ahora.
 6. Después empiezas a resolver los disparos de Merida desde la **bag**, uno a uno.
-7. Si el personaje correspondiente sigue en juego, ese disparo le hace 2 daños más.
+7. Si el personaje correspondiente sigue en juego, el disparo crea un nuevo evento con 2 de daño base. Se aplican los modificadores y reemplazos que correspondan.
 8. Si ese personaje ya fue desterrado por los 2 daños iniciales, ese disparo se resuelve sin efecto práctico sobre él porque ya no está en juego.
 
 ---

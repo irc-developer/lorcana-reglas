@@ -35,7 +35,7 @@ Si el personaje elegido y la carta revelada comparten nombre, robas una carta. L
 
 **Ejemplo:** vas de aventura con una Rapunzel - Outgoing Artist y hay otra copia en juego que puedes elegir. Eliges esa segunda Rapunzel, revelas una tercera Rapunzel - Outgoing Artist de tu mano y robas una carta. Si la Rapunzel que se fue de aventura fuera el único personaje en juego, no podrías usar la carta de la mano para suplir al personaje que falta, ni obtendrías el robo.
 
-Las [notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), apartado Rapunzel - Outgoing Artist, confirman el caso del único personaje y permiten elegir otra Rapunzel propia o rival en juego. Esa aclaración se refiere a PICTURE PERFECT; no es un ruling específico de Twin Blades.
+Las [notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartado Rapunzel - Outgoing Artist, confirman el caso del único personaje y permiten elegir otra Rapunzel propia o rival en juego. Esa aclaración se refiere a PICTURE PERFECT; no es un ruling específico de Twin Blades.
 
 ---
 

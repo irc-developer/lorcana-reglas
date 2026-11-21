@@ -21,7 +21,7 @@ Hasta el 15 de octubre de 2026 se aplica **2.2.0**, efectiva el 9 de julio de 20
 
 La adaptación castellana ya presenta 2.3 con su fecha de vigencia. Resumen: [[Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2]].
 
-El motor de consulta lee los Markdown `*.paginas.md` registrados en `herramientas/consulta_lorcana/fuentes.json`. Cada encabezado «Página N» corresponde a la página N del original. Se conserva también [[Comprehensive-Rules_2.2.0-EN.paginas.md]] para la transición fechada. Los originales sirven para comprobaciones visuales y para preparar nuevas extracciones.
+Lorcana Rules Engine consulta los Markdown `*.paginas.md` registrados en su manifiesto `knowledge/manifests/local.json`. Cada encabezado «Página N» corresponde a la página N del original. Se conserva también [[Comprehensive-Rules_2.2.0-EN.paginas.md]] para la transición fechada. Los originales sirven para comprobaciones visuales y para preparar nuevas extracciones.
 
 ## Versiones anteriores conservadas
 
@@ -53,6 +53,8 @@ Ambos enlaces apuntan a documentos publicados por Ravensburger. Esta carpeta no 
 
 - [[Tournament-Rules-7.14.2026_Update_EN.paginas.md|Tournament Rules, efectivas el 14/07/2026]]: transcripción del original local de 29 páginas; sustituye para consultas la copia del 11/06, conservada como histórico.
 - [[Disney_Lorcana_Play_Correction_Guidelines_052124update.paginas.md|Play Correction Guidelines, efectivas el 21/05/2024]]: transcripción del original local de 15 páginas.
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes): HTML original y transcripción inglesa identificada por hash; publicadas el 08/10, aplicación desde el 16/10. La transcripción conserva 26 preguntas y respuestas, las erratas y el alcance de cada aclaración.
+- La [página actual de las notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/) lleva fecha del 19 de octubre de 2026. El HTML y la transcripción inglesa conservados localmente corresponden a la copia fechada el día 8. La transcripción recoge 26 preguntas y respuestas y las erratas de las cartas. Las CR 2.3.0 se aplican desde el 16 de octubre.
 
-El MCP mantiene el texto impreso de las cartas y distingue su texto operativo según la fecha. Para las cinco erratas de Adventurous, las notas describen la modificación sin ofrecer toda la nueva redacción: se conserva esa limitación y no se inventa un texto completo.
+- El [comunicado de Ravensburger del 3 de noviembre de 2026](https://disneylorcana.com/en/news/2026/11/update-to-core-constructed-format-and-format-coconut/) actualiza las listas de prohibidas de Core Constructed y de la beta de Coconut. Consulta [[1.6 Legalidad de Sets (Set Legality)]] y [[Formato Coconut (Beta)]] para la legalidad por formato.
+
+Lorcana Rules Engine distingue el texto impreso del texto operativo de las cartas según la fecha. Para las cinco erratas de Adventurous, las notas describen la modificación sin ofrecer toda la nueva redacción: se conserva esa limitación y no se inventa un texto completo.

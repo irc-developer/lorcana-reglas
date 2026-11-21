@@ -24,7 +24,7 @@ Esto es distinto de una habilidad estática que existe solo mientras su carta es
 - [[9.2. Reglas adicionales de multijugador (Multiplayer Rules)|9.2.3: salida de un jugador y duración de efectos generados]].
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.2: efecto generado con duración]].
 - [CR 2.3.0, 9.2.3, p. 45](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=45).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), aclaración de la carta.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración de la carta.
 
 ---
 

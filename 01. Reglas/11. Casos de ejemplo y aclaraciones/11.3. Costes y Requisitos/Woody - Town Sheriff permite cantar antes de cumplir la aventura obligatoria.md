@@ -16,7 +16,7 @@ La obligación significa que el jugador rival no puede terminar su turno sin env
 
 Woody es una de las cinco cartas actualizadas para conceder **Adventurous**, conservando la condición y duración de MOVE ALONG. El resultado de esta duda se mantiene: el personaje no puede desafiar y no puedes terminar el turno mientras pueda irse de aventura, pero puede cantar o pagar costes de agotamiento antes.
 
-[CR 2.3, 8.16.2–8.16.4, p.44](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=44) y [notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), «New Keyword: Adventurous». Las notas identifican la errata sin suministrar una reimpresión completa de MOVE ALONG.
+[CR 2.3, 8.16.2–8.16.4, p.44](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=44) y [notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), «New Keyword: Adventurous». Las notas identifican la errata sin suministrar una reimpresión completa de MOVE ALONG.
 
 ---
 

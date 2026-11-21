@@ -17,7 +17,7 @@ Mientras se resuelve [All Is Found](https://cards.lorcast.io/card/digital/large/
 
 Esto se distingue de [[Jukebox requiere otra canción con el mismo nombre en el descarte|Jukebox]], cuyo disparo se resuelve después de la canción. La errata de Jukebox exige además otra carta y evita que la canción recién jugada se cuente a sí misma.
 
-[Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Everyone Knows Juanita y Jukebox; CR 4.3.3.2 y 6.7.1.2.
+[Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Everyone Knows Juanita y Jukebox; CR 4.3.3.2 y 6.7.1.2.
 
 ---
 

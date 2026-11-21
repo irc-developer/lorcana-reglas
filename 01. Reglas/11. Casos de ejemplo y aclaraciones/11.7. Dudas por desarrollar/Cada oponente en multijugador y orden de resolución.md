@@ -26,7 +26,7 @@ En resumen:
 
 Cada jugador afectado completa **la primera parte**, en orden de turno; después todos completan la segunda, y así sucesivamente. No se resuelve el efecto entero para un jugador antes de pasar al siguiente. No se intercalan bolsa ni chequeos de estado entre partes.
 
-Por ejemplo, [[Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados|Thomas O’Malley]] hace que todos revelen antes de comparar el coste más alto. [CR 2.3, 6.7.6.1, p.37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37) y [notas de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes) aclaran ese orden.
+Por ejemplo, [[Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados|Thomas O’Malley]] hace que todos revelen antes de comparar el coste más alto. [CR 2.3, 6.7.6.1, p.37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37) y [notas de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/) aclaran ese orden.
 
 ---
 

@@ -19,7 +19,7 @@ Un personaje con valor de Leyenda 0 puede igualmente ganar Leyenda mediante una 
 - [[1.2. Regla de oro (Golden Rules)|1.2.2: prohibiciones]].
 - [[6.1. General (General)|6.1.2: resolver en orden tanto como sea posible]].
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3: condición]].
-- [Notas de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), aclaración sobre Leyenda 0.
+- [Notas de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración sobre Leyenda 0.
 
 ---
 

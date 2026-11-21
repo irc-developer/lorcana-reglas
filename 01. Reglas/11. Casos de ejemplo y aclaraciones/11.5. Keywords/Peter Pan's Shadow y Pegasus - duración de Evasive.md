@@ -28,7 +28,7 @@ Si Peter Pan's Shadow abandona la zona de juego antes de resolver **Hop On!** y 
 - [[6.1. General (General)|6.1.13.3–6.1.13.4]]: diferencia entre «hasta» y «este turno».
 - [Comprehensive Rules 2.3.0, p. 41](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41), regla 8.1.2: comparación de duraciones; el ejemplo distingue duración indefinida y final de turno. Véanse también pp. 29 y 32 para duración y habilidades estáticas.
 - [[Documentacion Oficial/Comprehensive-Rules_2.2.0-EN.pdf|Comprehensive Rules 2.2.0]], p. 41, regla 8.1.2: redacción anterior, vigente antes del 16 de octubre de 2026.
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), apartado «Keyword Stacking».
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartado «Keyword Stacking».
 
 ---
 

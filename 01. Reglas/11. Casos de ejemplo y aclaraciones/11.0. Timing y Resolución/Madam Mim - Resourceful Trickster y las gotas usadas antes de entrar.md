@@ -24,7 +24,7 @@ Cuando Mim ya está en juego, retirar una gota más tarde puede disparar BAUBLE 
 - [[4.3. Jugar una carta (Play a Card)|4.3.2.4–4.3.4: pago, entrada y disparos al jugar]].
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1–6.2.4: evento de disparo y condición secundaria]].
 - [CR 2.3.0, 4.3.2–4.3.4, p. 13](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), aclaración de la carta.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración de la carta.
 
 ---
 

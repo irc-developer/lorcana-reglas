@@ -18,8 +18,8 @@ El documento oficial estructura las reglas en nueve secciones. Esta carpeta mant
    - [[1.1 Tipos de Torneo (Tournament Types)]]
    - [[1.2 Niveles de Torneo (Tournament Levels)]]
    - [[1.3. Formatos de Torneo]]
-   - [[1.4 Jugadores y Oficiales Elegibles (Eligible Players and Tournament Officials)]]
-   - [[1.5 Roles en el Torneo (Tournament Roles)]]
+   - [[1.5 Roles en el Torneo (Tournament Roles)|1.4 Roles en el Torneo (Tournament Roles)]]
+   - [[1.4 Jugadores y Oficiales Elegibles (Eligible Players and Tournament Officials)|1.5 Jugadores y Oficiales Elegibles (Eligible Players and Tournament Officials)]]
    - [[1.6 Legalidad de Sets (Set Legality)]]
 
 2. [[2.0 Roles del torneo]]

@@ -77,7 +77,7 @@ El Singer concedido por la guitarra y sus modificadores al coste para cantar exp
 - [[5.3. Personajes (Characters)|5.3.1. Personajes en juego]], [[7.1. General|7.1.5–7.1.6. Zonas y pérdida de efectos obtenidos]] y [[8.15 Protección (ward)|8.15.1. Restricción de elección de Ward]].
 - [[6.1. General (General)|6.1.13.4. Duración «este turno»]].
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), especialmente 8.1.2 y 8.11, pp. 41 y 43–44.
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), apartado «Ancestral Guitar»: el modificador +2 se aplica aunque el personaje ya tenga Singer.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartado «Ancestral Guitar»: el modificador +2 se aplica aunque el personaje ya tenga Singer.
 
 ---
 

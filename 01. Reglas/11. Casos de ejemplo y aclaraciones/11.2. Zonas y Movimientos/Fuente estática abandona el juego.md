@@ -39,7 +39,7 @@ Una vez terminada la resolución y atendidas las habilidades pendientes, Mim pue
 - [[6.2. Habilidades disparadas (Triggered Abilities)|6.2.3: la habilidad de entrada de Mim se añade a la bolsa]].
 - [[8.9. Prisa (Rush)|8.9.1: Rush permite desafiar mientras el personaje sigue secándose]].
 - [Comprehensive Rules 2.3.0, p. 32](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=32), reglas 6.4.1 y 6.4.2.3: duración de las habilidades estáticas y fin inmediato al salir su fuente. Véanse también 6.2.3 (p. 30), 6.3 (p. 31) y 8.9.1 (p. 42).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Flash - Efficient Clerk / Donald Duck - Taxi Driver: la prohibición de obtener Rush se aplica mientras Flash está en juego.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Flash - Efficient Clerk / Donald Duck - Taxi Driver: la prohibición de obtener Rush se aplica mientras Flash está en juego.
 
 ---
 

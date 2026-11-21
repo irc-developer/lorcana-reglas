@@ -16,7 +16,7 @@ Con Resist +1:
 
 - Si la acción intenta infligir 1 daño, el personaje recibe 0, pero STEADY AIM se dispara. Sus 2 daños se reducen después a 1. El total recibido es **1**.
 - Si la acción intenta infligir 2 daños, el personaje recibe 1 y STEADY AIM se dispara. Sus 2 daños se reducen después a 1. El total recibido es **2**.
-- Si un escudo de Lilo o Rapunzel reemplaza el daño recibido de la acción, la acción sigue contando como que ha infligido daño y STEADY AIM también se dispara.
+- Si **ACT OF KINDNESS** de Rapunzel reemplaza el daño de la acción, la fuente deja de infligir ese daño al personaje protegido y STEADY AIM no se dispara por él. Con **EXTRA LAYERS** de Lilo, queda por aclarar si la fuente cuenta como que infligió daño después del reemplazo.
 
 No toda acción que coloca daño lo **inflige**. Si una acción **pone** contadores directamente, como [Malicious, Mean, and Scary](https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397), ese daño es *put damage*, no *deal damage*. STEADY AIM no se dispara en ese caso.
 
@@ -27,9 +27,10 @@ La interacción completa con los dos escudos está desarrollada en [[Merida fren
 ## 📘 Referencias
 
 - [[1.9. Daño (Damage)|1.9.2.1. Deal y 1.9.2.2. Put son operaciones distintas]]
-- [[1.9. Daño (Damage)|1.9.5. La fuente sigue considerándose que inflige daño]]
+- [[1.9. Daño (Damage)|1.9.5. La fuente sigue considerándose que inflige daño si los modificadores lo reducen a 0]], CR 2.3.0, p. 8.
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Cálculo y resolución del daño]]
-- [[8.8. Resistir (Resist)|8.8.2. El objeto no recibe daño si se reduce a 0]]
+- [[8.8. Resistir (Resist)|8.8.2. El personaje o la localización no reciben daño si se reduce a 0]].
+- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4 y 6.5.8. Disparos después de un reemplazo y ejemplo de ACT OF KINDNESS]], CR 2.3.0, pp. 33–34.
 
 ---
 

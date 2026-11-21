@@ -18,7 +18,7 @@ Contador generado en el pozo de tinta. Se retira para pagar 1 {I} hacia un coste
 Proceso que determina en qué orden resuelven sus habilidades disparadas los jugadores con efectos en la bolsa. La referencia corregida es [[7.7. Bolsa (Bag)|7.7.4.4]].
 
 **Set step (paso de preparación)**
-Segundo paso de la fase inicial: los personajes en juego dejan de estar secándose; el jugador activo gana la Leyenda de sus localizaciones; se añaden los disparos del inicio del turno y se resuelven los disparos, incluidos los generados en Ready. Véase [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.2]].
+Segundo paso de la fase inicial. Los personajes en juego del jugador activo dejan de estar secándose y ese jugador gana la Leyenda de sus localizaciones. Después se resuelven las habilidades añadidas a la bolsa durante Ready o Set. Las habilidades de «al comienzo de tu turno» se añaden a la bolsa en Ready. Véase [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1.4 y 3.2.2]].
 
 En el original 2.3, «turn action» deja de tener una entrada duplicada: su definición está en «action, turn».
 
@@ -46,7 +46,7 @@ Cuando una carta pasa del juego al descarte por daño o efectos.
 La primera fase del turno: Ready, Set y Draw.
 
 **challenge (desafío)**  
-Agotar un personaje seco para enfrentarlo a un personaje o localización oponente.
+Acción de turno en la que un personaje propio preparado desafía a un personaje oponente agotado o a una localización oponente. Por regla general, el atacante debe estar seco. [[8.9. Prisa (Rush)|Rush]] permite desafiar mientras se está secando. Véase [[4.6 Desafío (Challenge)|4.6]].
 
 **character (personaje)**  
 Carta con {S} y {W} que entra en la zona de Juego.
@@ -73,7 +73,7 @@ Zona pública donde van las cartas descartadas o desterradas.
 Poner la carta superior del mazo en la mano.
 
 **dry / drying (seco / secándose)**  
-Personajes que ya estaban en juego / jugados este turno.
+Un personaje normalmente se seca en el paso Set del turno de su jugador. Al entrar en juego está secándose, salvo que un efecto o una regla como [[8.10. Cambio (Shift)|Shift]] determine que entra seco.
 
 **effect (efecto)**  
 Lo que ocurre al resolverse una acción o habilidad.

@@ -50,7 +50,7 @@ Si Tigger desafía y se prepara por **Protective Charge**, puede volver a estar 
 
 Los efectos «enters» son estáticos. Primero se aplican los de la propia carta que va a entrar y después los de otras fuentes, antes de colocarla realmente en juego. Bodyguard permite la entrada agotada en este proceso; no espera a una habilidad disparada posterior ni se clasifica automáticamente como reemplazo.
 
-[CR 2.3, 4.3.3.1 y 6.7.9, pp.13 y 38](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), «Updates on How Enters Works».
+[CR 2.3, 4.3.3.1 y 6.7.9, pp.13 y 38](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), «Updates on How Enters Works».
 
 ---
 

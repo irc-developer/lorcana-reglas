@@ -22,7 +22,7 @@ Una habilidad que únicamente diga «whenever», sin límite adicional, puede pr
 
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2: evento y condición de disparo]].
 - [[7.7. Bolsa (Bag)|7.7: incorporación y resolución]].
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Port Authority / Russell.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Port Authority / Russell.
 
 ---
 

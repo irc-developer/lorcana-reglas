@@ -29,7 +29,7 @@ Este resumen compara ambos originales. Los nombres «gotas de tinta» y «Aventu
 
 Un pago de 6 {I} puede hacerse agotando cuatro cartas preparadas del pozo y retirando dos gotas. Eso **no convierte las dos gotas en cartas** ni aumenta el número de cartas del pozo. Obtener o retirar gotas tampoco equivale a añadir o retirar cartas del pozo. Un efecto que cuente cartas de tinta y otro que cuente gotas consultan cantidades distintas.
 
-Los tres procesos —jugar una carta, usar una habilidad activada y mover por acción de turno— permiten agotar cartas de tinta, retirar gotas o combinar ambas opciones. Los demás costes siguen pagándose según el texto y el pago debe ser completo.
+Los tres procesos —jugar una carta, usar una habilidad activada y mover por acción de turno— permiten agotar cartas de tinta preparadas, retirar gotas o combinar ambas opciones. Los demás costes siguen pagándose según el texto y el pago debe ser completo.
 
 Véanse [[1.13. Contadores (Counters)]], [[1.5 Costes (Costs)]] y [[7.5. Pozo de tinta (Inkwell)]]. Original: 1.13, p. 9; pagos, pp. 13, 14 y 18.
 
@@ -102,7 +102,7 @@ Véanse [[6.1. General (General)]] y [[6.7. Resolución de Cartas y Efectos (Res
 
 - **Habilidades estáticas, 6.4.2.1 y 6.4.2.3:** se explicita que pueden afectar a reglas y estados del juego, además de cartas en juego. La distinción entre estáticas continuas y aplicadas se mantiene.
 - **Cartas debajo, 5.1.1.5:** se corrigen referencias a los apartados 5.1.1.7 y 5.1.1.6. No cambia por ello el estado de las cartas que están debajo.
-- **Acciones en la zona de juego:** se elimina la repetición de 7.1.6.1. El procedimiento relevante permanece en 6.7.8.1: una acción puede mantenerse allí si hay efectos que deben completarse antes de que termine su resolución.
+- **Acciones en la zona de juego:** se elimina la repetición de 7.1.6.1. 6.7.1.2 indica que la acción permanece en juego hasta que termine de resolverse su efecto. Si se juega mediante otra acción o habilidad, 6.7.8.1 sitúa su efecto después del que indicó jugarla y antes de resolver la bolsa.
 - **Shift, 8.10.6:** la redacción menciona expresamente conservar el daño del personaje **o personajes** sobre los que se juega. La explicación castellana ya cubría el caso plural.
 - **Glosario:** se añaden *counter* e *ink drop*; se amplía *action, turn* y se elimina la entrada duplicada *Turn action*. Se corrige la referencia de *passing the bag*, se ajusta *Set step* y se amplían los marcadores de *triggered ability*.
 
@@ -115,6 +115,6 @@ Véanse [[6.4. Habilidades Estáticas (Static Abilities)]], [[7.1. General]], [[
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): original normativo desde el 16 de octubre; resumen oficial de cambios en pp. 53–54.
 - [Comprehensive Rules 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf): original anterior utilizado para la comparación.
 - [Recursos oficiales de Disney Lorcana](https://www.disneylorcana.com/en-US/resources/): publicación de los reglamentos.
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes): contexto de las nuevas mecánicas y aclaraciones del set.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/): contexto de las nuevas mecánicas y aclaraciones del set.
 
 #timing #turn-actions

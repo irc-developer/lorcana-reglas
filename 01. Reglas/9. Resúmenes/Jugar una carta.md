@@ -8,7 +8,7 @@
 1. **Anunciar y revelar** la carta desde su zona actual.
 2. **Elegir el coste** de tinta o un coste alternativo. «Gratis» se elige inmediatamente y permite pasar al paso 5 sin pagar costes de jugar esa carta.
 3. **Calcular el total** con los modificadores de pago aplicables.
-4. **Pagar por completo**: agotar cartas de tinta, retirar gotas de tinta o combinar ambas opciones para la parte de {I}; pagar los otros costes según el texto.
+4. **Pagar por completo**: agotar cartas de tinta preparadas, retirar gotas de tinta o combinar ambas opciones para la parte de {I}; pagar los otros costes según el texto.
 5. **La carta se considera jugada.** Aplicar primero los efectos de entrada de la propia carta y después los de otras fuentes, antes de ponerla en juego.
 6. **Completar la entrada y resolución.** Personajes, objetos y localizaciones entran en la zona de juego. Las acciones también entran allí, resuelven su efecto y después van al descarte. Una acción jugada durante otro efecto puede esperar para resolver conforme a 6.7.8.
 7. **Resolver los disparos** que esperan en la bolsa cuando termine la resolución correspondiente.

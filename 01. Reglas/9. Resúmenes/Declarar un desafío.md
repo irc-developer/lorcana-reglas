@@ -16,7 +16,7 @@ Se resuelven las habilidades de la bolsa generadas durante la declaración antes
 
 Calcula cuánto daño recibe cada participante con los modificadores de Fuerza y de daño pertinentes. La Fuerza negativa cuenta como 0 al determinar el daño del desafío. Todo el daño del desafío se hace simultáneamente.
 
-Después se realiza el chequeo del estado del juego: los personajes o localizaciones con daño igual o superior a su Voluntad son desterrados. Resuelve las habilidades pendientes siguiendo las reglas de la bolsa. Cuando no quedan efectos ni disparos pendientes, terminan los efectos «mientras desafía» y concluye el desafío. Las habilidades de «después del desafío» ocurren entonces, antes de elegir otra acción de turno.
+Después se realiza el chequeo del estado del juego: los personajes o localizaciones con daño igual o superior a su Voluntad son desterrados. Resuelve las habilidades pendientes siguiendo las reglas de la bolsa. Cuando no quedan efectos ni disparos pendientes, terminan los efectos «mientras desafía» y «mientras está siendo desafiado». En ese momento concluye el desafío. Las habilidades de «después del desafío» ocurren entonces, antes de elegir otra acción de turno.
 
 Si un personaje sale del desafío antes de infligir daño, el desafío termina mediante el procedimiento de 4.6.9: se resuelve la bolsa restante y luego se cierra el desafío. No se hace un daño de desafío que ya no puede ocurrir.
 

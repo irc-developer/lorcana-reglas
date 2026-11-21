@@ -24,7 +24,7 @@ Desterrar el Caldero por otra causa **antes de iniciar** la jugada no equivale a
 - [[4.3. Jugar una carta (Play a Card)|4.3.2: continuidad del proceso y pago del coste]].
 - [[5.1. Estados de las cartas (Card States)|5.1.1.7: las cartas de la pila acompañan a la superior al cambiar de zona]].
 - [CR 2.3.0, 4.3.2, p. 13](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), aclaración de la carta.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración de la carta.
 
 ---
 

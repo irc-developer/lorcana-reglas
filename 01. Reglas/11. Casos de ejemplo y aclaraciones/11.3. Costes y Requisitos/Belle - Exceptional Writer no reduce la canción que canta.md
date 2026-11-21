@@ -59,7 +59,7 @@ Las notas oficiales de Hyperia City confirman esta acumulación con dos misiones
 - [[4.3. Jugar una carta (Play a Card)|4.3.6. Una reducción para la siguiente acción también se aplica cuando se paga un coste alternativo]].
 - [[7.7. Bolsa (Bag)|7.7.3.1. Una habilidad disparada espera en la bolsa hasta que termine el efecto en curso]].
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): 1.5.4 (p. 5), 4.3.2–4.3.6 (pp. 13–14), 5.4.4.2 (p. 24), 6.2.1–6.2.3 (p. 30), 6.7.9 (p. 38), 8.11 (pp. 43–44) y glosario «exert» (p. 48).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), apartado «Belle – Exceptional Writer»: acumulación de las reducciones.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartado «Belle – Exceptional Writer»: acumulación de las reducciones.
 
 ---
 

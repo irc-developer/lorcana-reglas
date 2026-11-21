@@ -24,7 +24,7 @@ No se decide el destino de la carta del jugador activo antes de ver las demás. 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.6.1: todos completan cada parte antes de la siguiente]].
 - [[6.1. General (General)|6.1.14.3: las cartas reveladas por el propio efecto]].
 - [CR 2.3.0, 6.7.6.1, p. 37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), aclaración de la carta.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración de la carta.
 
 ---
 

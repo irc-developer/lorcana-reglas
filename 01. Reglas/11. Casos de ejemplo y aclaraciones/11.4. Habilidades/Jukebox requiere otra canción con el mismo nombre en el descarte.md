@@ -23,7 +23,7 @@ Si la condición se cumple, puedes preparar al personaje elegido. Si lo preparas
 
 ## 📘 Referencias
 
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), errata de Jukebox: se añade «another».
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), errata de Jukebox: se añade «another».
 - [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4: condición secundaria comprobada al resolver]].
 - [[4.3. Jugar una carta (Play a Card)|4.3.3.2–4.3.4: acción y disparos pendientes]].
 

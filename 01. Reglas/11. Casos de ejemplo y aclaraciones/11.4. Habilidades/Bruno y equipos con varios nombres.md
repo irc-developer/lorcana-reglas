@@ -31,7 +31,7 @@ Revelar no descarta las cartas: el propio equipo revelado puede ser la siguiente
 - [[5.2. Partes de una carta (Parts of a Card)|5.2.6–5.2.6.3: nombres, versión y equipos]].
 - [[6.1. General (General)|6.1.11: referencia de «that» y 6.1.13.4: este turno]].
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=22), 5.2.6–5.2.6.3 (p. 22), 6.1.11 (p. 27) y 6.1.13.4 (p. 29).
-- [Notas oficiales de Hyperia City](https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes), Merlin’s Wand / Winnie the Pooh & Piglet: confirman el pago revelando un equipo y una carta con uno de sus nombres individuales.
+- [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Merlin’s Wand / Winnie the Pooh & Piglet: confirman el pago revelando un equipo y una carta con uno de sus nombres individuales.
 
 ---
 
