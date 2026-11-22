@@ -1,1 +1,0 @@
-Si discrepas de la decisión de un Lore Guide, puedes decirle «Quiero apelar al Lead Lore Guide». Deja la mesa como está y explica qué hecho o qué parte del fallo quieres que revise. La decisión del Lead Lore Guide es final. [[2. Roles del torneo#2.2 Lead Lore Guide|TR 2.2]] · [[9. Apelaciones|Cómo se tramita una apelación]].

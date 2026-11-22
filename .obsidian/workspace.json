@@ -23,12 +23,14 @@
             "id": "bb3cfeb46aa2f5e4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "08. Consejos para jugadores/Consejos para jugadores.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.15.0"
+              "icon": "lucide-file",
+              "title": "Consejos para jugadores"
             }
           }
         ],
@@ -183,8 +185,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "744a2cfd2c0e60d8",
+  "active": "bb3cfeb46aa2f5e4",
   "lastOpenFiles": [
+    "01.1.a Official English Reference – Unmodified/00. Fuente actual.md",
+    "08. Consejos para jugadores/Consejos para jugadores.md",
     "05. Consejos de jueces/Índice.md",
     "03. Reglas de Torneo/10. Protocolos personales.md",
     "03. Reglas de Torneo/9. Premios (Prizing).md",
@@ -210,8 +214,6 @@
     "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md",
     "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.6 Apuestas (Wagering).md",
     "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.4 Trampas (Cheating).md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.3 Conducta antideportiva – Severa (Unsporting – Severe).md",
-    "04. Guia de correccion de jugadas/04. Conducta antideportiva/4.2 Conducta antideportiva – Mayor (Unsporting – Major).md",
     "04. Guia de correccion de jugadas/04. Conducta antideportiva",
     "04. Guia de correccion de jugadas/02. Errores de reglas",
     "04. Guia de correccion de jugadas/01. Introduccion/1.3 Conjuntos ocultos (Hidden Sets)",

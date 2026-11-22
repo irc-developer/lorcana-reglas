@@ -1,1 +1,0 @@
-A todos nos gusta ver las partidas de nuestros amigos o compañeros de equipo pero puede ser potencialmente desagradable para los jugadores. Mejor mantén una distancia con ellos y trata de seguir la partida desde ahí. Si vas a hablar con otros espectadores, hazlo en voz baja para evitar molestias.

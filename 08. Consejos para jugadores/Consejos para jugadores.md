@@ -1,0 +1,34 @@
+# Consejos para jugadores de Disney Lorcana
+
+Una guía para preparar tu torneo, mantener la partida clara y saber a quién acudir cuando surja una duda.
+
+## Antes de salir
+
+- **Comprueba el horario y el formato.** Llega con margen para registrarte, localiza al equipo de arbitraje y averigua dónde se anuncian los emparejamientos. Entre rondas, deja tu material listo para estar en tu mesa a tiempo.
+- **Coteja el mazo con la lista que vas a entregar.** Comprueba las cantidades carta por carta y usa el nombre completo de cada una, incluida la versión en personajes y localizaciones. Revisa el plazo y el método de entrega que indique el torneo. [[3. Operaciones en los torneos|Reglas de torneo 3.8]] · [Revisión de mazos del Lore Guide Institute](https://institute.lorcanajudges.com/learn/enforcement-11-deck-checks/).
+- **Revisa las fundas.** Comprueba que sean uniformes, opacas por detrás y que ninguna marca permita distinguir una carta. Lleva repuestos del mismo tipo. [[3. Operaciones en los torneos|Reglas de torneo 3.11]].
+- **Prepara lo básico.** Lleva agua y algo de comer para los descansos. Ven con ropa limpia y cuida tu higiene personal, por comodidad de quienes vais a compartir mesa durante varias rondas.
+- **Practica un turno completo.** Repasa cómo empieza el turno, cómo se entinta y se paga una carta, cómo se desafía y cuándo se resuelven las habilidades de la bolsa. [Estructura del turno](https://institute.lorcanajudges.com/learn/rules-02-turn-structure/) · [Cómo funciona la bolsa](https://institute.lorcanajudges.com/learn/rules-03-the-bag/).
+
+## Durante la partida
+
+- **Haz una cosa cada vez.** Respeta los pasos de preparado, listo y robo (*Ready, Set, Draw*). Quien empieza la partida se salta el robo en su primer turno. Al jugar una carta, anúnciala y paga el coste antes de seguir. Señala los efectos obligatorios, vengan de tus cartas o de las de tu oponente. [[3.2. Fase inicial del turno (Start-of-Turn Phase)|Reglas completas 3.2]] · [[5. Información y comunicación|Reglas de torneo 5.4]].
+- **Mantén la mesa legible.** Separa la mano, el descarte y las demás cartas del pozo de tinta. Cuando entintes con la acción normal del turno, anuncia el nombre completo de la carta, muestra el símbolo de tinta y, en torneo, déjala boca arriba hasta el final de ese turno. [[Entintar boca arriba en torneo|Cómo entintar en torneo]] · [[5. Información y comunicación|Reglas de torneo 5.1, 5.4 y 5.5]].
+- **Di cuánto lore cambia y cuál es el total.** Por ejemplo, «Gano dos de lore, subo a doce». Puedes anotar los totales y usarlos para comprobar dónde empezó una discrepancia. [[5. Información y comunicación|Reglas de torneo 5.2 y 5.4]] · [Comunicación y gestión de discrepancias](https://institute.lorcanajudges.com/learn/enforcement-09-communication-and-deescalation/).
+- **Cuida el trato.** Saluda, da las gracias y pide permiso antes de tocar cartas ajenas. Si te ofrecen el mazo para cortarlo o barajarlo, manipúlalo con cuidado. Si necesitas ausentarte durante la partida, avisa a tu oponente y pide indicaciones a un Lore Guide antes de levantarte. [[3. Operaciones en los torneos|Reglas de torneo 3.4]].
+
+## Si necesitas ayuda
+
+- **Pausa la partida y llama a un Lore Guide.** Levanta la mano y, si hace falta, di «¡Juez!» e indica el número de mesa. Conserva las cartas y los contadores tal como están. Explica desde el último punto en que ambos coincidís, señala qué detalle falta por aclarar y deja que tu oponente cuente su versión. Si conoces al Lore Guide, trátalo igual que al resto del equipo. [Cómo se reconstruye una jugada](https://institute.lorcanajudges.com/learn/enforcement-02-taking-a-call-ii/) · [[4. Fraternización|Imparcialidad en mesa]].
+- **Pide autorización para rectificar.** Si quieres deshacer tu última jugada, detente enseguida y llama a un Lore Guide. En torneo, su autorización es necesaria incluso cuando ambos jugadores están de acuerdo. Si detectas una posible infracción, describe lo ocurrido y espera sus indicaciones antes de mover cartas. [[3. Operaciones en los torneos|Reglas de torneo 3.7]] · [Rectificaciones y rebobinados](https://institute.lorcanajudges.com/learn/enforcement-06-takebacks-and-rewinds/).
+- **Pide una aclaración o apela.** Si quieres que se revise el fallo, di «Quiero apelar al Lead Lore Guide». Deja la mesa como está y concreta qué parte del fallo quieres que revise. Su decisión es final. [[2. Roles del torneo|Reglas de torneo 2.2]] · [[9. Apelaciones|Cómo se tramita una apelación]].
+- **Si una conducta te incomoda, pide ayuda enseguida.** Durante una partida, un intercambio o cualquier actividad, puedes pedir que pare y avisar a un Lore Guide, a la organización o al personal del local. Si alguien que observa la partida te incomoda, puedes pedir a un Lore Guide que intervenga. [[10. Comunidad y actividades/Código de la comunidad (Community Code)|Código de la comunidad]] · [[2. Roles del torneo|Reglas de torneo 2.6]] · [[7. Conducta del Jugador|Reglas de torneo 7.1]].
+
+## Al cerrar el encuentro y entre rondas
+
+- **Concede o acuerda un empate conforme al reglamento.** Puedes conceder tu partida o encuentro por decisión propia. Puedes proponer un empate intencional una vez por encuentro, antes de que termine. Está prohibido pedir al oponente que conceda u ofrecer o aceptar premios o favores a cambio de una concesión o un empate. Si te hacen una oferta así, avisa a un Lore Guide. [[3. Operaciones en los torneos|Reglas de torneo 3.6]].
+- **Consulta a la organización si queréis repartir premios.** En torneos de nivel inicial o competitivo, el personal puede autorizarlo si todos los jugadores que siguen en el torneo están de acuerdo, lo comunican antes del reparto y el acuerdo es independiente del resultado. [[7. Conducta del Jugador|Reglas de torneo 7.1]].
+- **Verificad el resultado antes de enviarlo.** Comprobad quién figura como ganador, si lo hay, y el número de partidas ganadas, perdidas y empatadas. Usad el medio indicado por la organización y avisad enseguida si falta el resultado o hay una discrepancia. [[3. Operaciones en los torneos|Reglas de torneo 3.4]] · [Procedimiento del encuentro y registro del resultado](https://institute.lorcanajudges.com/learn/enforcement-08-match-procedure-and-clock/).
+- **Si miras otra partida, mantén distancia y silencio.** Evita dar consejos o comentar las jugadas. Si crees haber visto una infracción, pide que pausen la partida y cuenta lo que viste a un Lore Guide fuera del alcance de los jugadores. [[2. Roles del torneo|Reglas de torneo 2.6]].
+
+Aprovecha las pausas y recuerda que habéis venido a disfrutar del juego. Para seguir practicando, el [[Lore Guide Institute - formación gratuita para Lore Guides|Lore Guide Institute]] reúne lecciones comunitarias en inglés, incluida una sobre [dudas frecuentes en mesa](https://institute.lorcanajudges.com/learn/rules-07-common-misconceptions/).

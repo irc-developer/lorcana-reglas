@@ -26,7 +26,7 @@ Si una situación de higiene dificulta la participación, conviene comunicarla d
 - [Comprehensive Rules 2.3.0 (PDF oficial)](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): las reglas generales de juego no establecen una obligación expresa de higiene corporal.
 - [Play Correction Guidelines (PDF oficial)](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): no define una infracción específica de higiene personal.
 - [Community Code (PDF oficial)](https://files.disneylorcana.com/community-code-en.pdf): expectativas generales de convivencia; resumen en [[10. Comunidad y actividades/Código de la comunidad (Community Code)|Código de la comunidad]].
-- **Cuida tu higiene personal**, en **08. Consejos para jugadores**: recomendación no normativa recogida en el apartado de respuesta.
+- [[08. Consejos para jugadores/Consejos para jugadores|Consejos para jugadores]] recoge la recomendación de higiene personal en «Antes de salir».
 
 ---
 
