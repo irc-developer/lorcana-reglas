@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 262 | **Última actualización:** 21 de noviembre de 2026
+**Total de casos:** 262 | **Última actualización:** 22 de noviembre de 2026
 
 ---
 
@@ -408,6 +408,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Tod y retirada de daño sin chosen**: [I'm Never Not by Your Side: elección pendiente de aclaración](<11.7. Dudas por desarrollar/Tod e I'm Never Not by Your Side - elección pendiente de aclaración.md>)
 
 ### Por mecánica de cartas
+- **Stone by Day y robo de turno** — [Preparar con dos cartas en la mano antes de robar la tercera](<11.4. Habilidades/Enderezar un personaje.md>)
 - **Woody y Grandmother Willow** — [Coste impreso y descuento al jugar gratis](<11.3. Costes y Requisitos/Woody y Grandmother Willow - el coste impreso al jugar gratis.md>)
 - **Acumulación de palabras clave** — [Duración de Evasivo, Temerario y Apoyo](<11.5. Keywords/Palabras clave repetidas y duración.md>)
 - **Un Poco Loco con un personaje**: [Elegir dos es un requisito; no se devuelve el único personaje](<11.0. Timing y Resolución/Elegir múltiples objetivos.md>)
