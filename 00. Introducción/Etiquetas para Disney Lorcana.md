@@ -2,7 +2,7 @@
 
 El [[Registro de Tags - Master List|registro maestro]] define las etiquetas canónicas para los casos. Esta guía resume sus significados; antes de añadir una etiqueta nueva, incorpórala al registro. Usa entre dos y seis etiquetas que describan el contenido.
 
-CR 2.3 entra en vigor el **16/10/2026**. Adventurous y las gotas de tinta se explican con esa fecha; hasta el 15/10 se aplica CR 2.2. Alert ya existía en CR 2.2 y no significa preparar un personaje.
+La lista incluye Aventurero (Adventurous) y las gotas de tinta. Alerta (Alert) permite ignorar la restricción de Evasivo (Evasive) al desafiar.
 
 ## Mecánicas y Habilidades
 
@@ -118,6 +118,6 @@ CR 2.3 entra en vigor el **16/10/2026**. Adventurous y las gotas de tinta se exp
 Consulta [[Guía de Etiquetas para Búsqueda]] para combinar etiquetas. Los disparos pendientes usan la bolsa; una pila física de cartas se trata con #under. Boost es un efecto secuencial con límite, no una habilidad activada solo por usar el momento en que podrían activarse habilidades. «Can’t» puede ser una restricción estática y no identifica por sí solo un reemplazo.
 
 - [[Tipos de habilidades]], [[7.7. Bolsa (Bag)]], [[8.1. Generalidades (General)]] y [[1.13. Contadores (Counters)]].
-- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8; [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), vigente antes del 16/10.
+- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8.
 
 Última actualización: 09/10/2026.

@@ -8,7 +8,7 @@ En Obsidian puedes combinar `tag:#resist` con `path:"01. Reglas"`, o buscar dos 
 
 ## Palabras clave
 
-CR 2.2 recoge catorce palabras clave. Desde el **16/10/2026**, CR 2.3 añade Adventurous y la lista tiene quince:
+Las Comprehensive Rules 2.3.0 definen quince palabras clave:
 
 | Etiqueta | Significado |
 | --- | --- |
@@ -50,6 +50,6 @@ Usa #hand, #deck, #discard, #inkwell, #play-zone y #bag para las zonas. Las cart
 
 - [[8.1. Generalidades (General)|CR 8: lista y reglas de palabras clave]].
 - [[Tipos de habilidades]], [[1.13. Contadores (Counters)]] y [[4.1. General]].
-- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8, efectiva el 16/10/2026; [CR 2.2.0](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf), vigente antes de esa fecha.
+- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8, efectiva el 16/10/2026.
 
 Última actualización: 09/10/2026.

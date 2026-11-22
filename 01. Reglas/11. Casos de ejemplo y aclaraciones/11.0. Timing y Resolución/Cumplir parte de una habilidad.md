@@ -18,7 +18,7 @@ Si no puedes completar A, no continúas a B. Si rechazas el único «may», no r
 
 - [[6.1. General (General)|6.1.4 y 6.1.5.1: efecto opcional y dependencia A para B]].
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.2–6.7.2.3: daño calculado antes y ejecución en orden haciendo tanto como sea posible]].
-- [CR 2.2.0, 6.1.5.1, p.26](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=26); [CR 2.3.0, 6.1.5.1, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26).
+- [CR 2.3.0, 6.1.5.1, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26).
 
 ---
 

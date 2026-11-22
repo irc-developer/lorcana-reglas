@@ -33,12 +33,12 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|4.6. Desafío]], **4.6.3–4.6.5**: declaración y daño son pasos separados; los disparos de «challenges» e «is challenged» se resuelven desde la bolsa antes del daño. **4.6.9–4.6.9.2**: si un participante sale del desafío, primero se resuelve la bolsa pendiente y después termina el desafío. CR 2.2.0, pp. 15–16.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]], **6.2.1–6.2.3**: se dispara cada habilidad cuya condición se cumpla y se añade a la bolsa. CR 2.2.0, p. 30.
-- [[7.7. Bolsa (Bag)|7.7. Bolsa]], **7.7.3.1 y 7.7.4.2–7.7.4.4**: se añaden simultáneamente las habilidades que se disparan a la vez; primero resuelve el jugador activo las suyas y, tras la comprobación del estado del juego, se pasa la bolsa al oponente cuando corresponde. CR 2.2.0, p. 40.
-- [[7.1. General|7.1. General de zonas]], **7.1.5–7.1.6**: la carta que sale de la zona de juego se convierte en una carta nueva. La regla admite excepciones de seguimiento, pero On the Move no establece recuperación desde el descarte. CR 2.2.0, p. 38; aplicación interpretativa al texto de Scrooge.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de cartas y efectos]], **6.7.2.3 y 6.7.5**, junto con **1.2.3**: se hace todo lo posible al resolver un efecto y se comprueba el estado del juego tras la resolución. CR 2.2.0, pp. 3 y 36–37.
-- **1.1.7**: el texto entre paréntesis en cursiva es recordatorio, no texto de reglas. CR 2.2.0, p. 3.
+- [[4.6 Desafío (Challenge)|4.6. Desafío]], **4.6.3–4.6.5**: declaración y daño son pasos separados; los disparos de «challenges» e «is challenged» se resuelven desde la bolsa antes del daño. **4.6.9–4.6.9.2**: si un participante sale del desafío, primero se resuelve la bolsa pendiente y después termina el desafío. CR 2.3.0, pp. 15–16.
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]], **6.2.1–6.2.3**: se dispara cada habilidad cuya condición se cumpla y se añade a la bolsa. CR 2.3.0, p. 30.
+- [[7.7. Bolsa (Bag)|7.7. Bolsa]], **7.7.3.1 y 7.7.4.2–7.7.4.4**: se añaden simultáneamente las habilidades que se disparan a la vez; primero resuelve el jugador activo las suyas y, tras la comprobación del estado del juego, se pasa la bolsa al oponente cuando corresponde. CR 2.3.0, p. 40.
+- [[7.1. General|7.1. General de zonas]], **7.1.5–7.1.6**: la carta que sale de la zona de juego se convierte en una carta nueva. La regla admite excepciones de seguimiento, pero On the Move no establece recuperación desde el descarte. CR 2.3.0, p. 38; aplicación interpretativa al texto de Scrooge.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de cartas y efectos]], **6.7.2.3 y 6.7.5**, junto con **1.2.3**: se hace todo lo posible al resolver un efecto y se comprueba el estado del juego tras la resolución. CR 2.3.0, pp. 3 y 36–37.
+- **1.1.7**: el texto entre paréntesis en cursiva es recordatorio, no texto de reglas. CR 2.3.0, p. 3.
 - Las [Attack of the Vine Set Release Notes](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), **p. 26**, confirman expresamente el destierro de Piglet por Kid-Tastrophe! antes del daño. No contienen un ruling específico de Boo contra Scrooge.
 
 ---

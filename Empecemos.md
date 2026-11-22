@@ -6,9 +6,9 @@
 
 Este sitio está diseñado para ayudar a **jugadores/as, juezas/es y organizadores/as** de torneos de Lorcana a comprender todas las mecánicas del juego, en especial aquellas que no siempre están claras en la documentación oficial en inglés.
 
-Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octubre y aplicables desde el **16 de octubre de 2026**. Hasta el 15 de octubre se aplica el original 2.2.0. El PDF inglés correspondiente a la fecha es la fuente normativa; esta documentación en español es una adaptación explicativa.
+Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octubre y aplicables desde el **16 de octubre de 2026**. El PDF inglés es la fuente normativa; esta documentación en español es una adaptación explicativa.
 
-> **Actualización 2.3:** [[Reglas completas de Disney Lorcana 2.3 - cambios respecto a 2.2|qué cambia respecto a 2.2]], [[1.13. Contadores (Counters)|contadores y gotas de tinta]] y [[8.16. Aventurero (Adventurous)|Adventurous]].
+> **Actualización 2.3:** [[Reglas completas de Disney Lorcana 2.3|resumen de las reglas vigentes]], [[1.13. Contadores (Counters)|contadores y gotas de tinta]] y [[8.16. Aventurero (Adventurous)|Adventurous]].
 
 > ***Hago esto porque ojalá hubiera tenido yo algo así cuando empecé en Lorcana.***
 

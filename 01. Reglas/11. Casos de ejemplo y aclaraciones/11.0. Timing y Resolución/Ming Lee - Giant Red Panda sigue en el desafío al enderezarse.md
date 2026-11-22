@@ -16,7 +16,7 @@ Los estados preparado y agotado importan para poder declarar legalmente el desaf
 
 - [[4.6 Desafío (Challenge)|4.6. Desafío]] establece la declaración y la posterior resolución de disparos antes del daño.
 - [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] distingue entre preparado y agotado sin convertir el cambio de estado en un movimiento de zona.
-- CR 2.2, regla 4.6.4.4, confirma la aclaración general; las *release notes* la aplican expresamente a Ming Lee.
+- CR 2.3.0, regla 4.6.4.4, confirma la aclaración general; las *release notes* la aplican expresamente a Ming Lee.
 
 ---
 

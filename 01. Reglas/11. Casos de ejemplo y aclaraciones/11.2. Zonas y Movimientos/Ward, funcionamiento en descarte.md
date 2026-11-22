@@ -19,7 +19,7 @@ Ward tampoco impide desafiar legalmente al personaje protegido; ni evita efectos
 - [[8.15 Protección (ward)|8.15: alcance de Ward]].
 - [[5.3. Personajes (Characters)|5.3.1: personaje y carta de personaje]].
 - [[6.1. General (General)|6.1.12: habilidades fuera del juego]].
-- [CR 2.2](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) y [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; el alcance se conserva.
+- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; el alcance se conserva.
 
 ---
 

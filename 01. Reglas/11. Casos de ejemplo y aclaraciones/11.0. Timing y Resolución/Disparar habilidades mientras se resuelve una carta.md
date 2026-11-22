@@ -25,8 +25,6 @@ Primero se resuelve por completo el efecto de la canción y se coloca esa acció
 Por ejemplo, si la canción cambia las cartas de tu mazo, BIG HIT mira las tres cartas superiores que haya **después** de resolver la canción. No puedes adelantar BIG HIT para mirar las que había antes. Si hay otros disparos tuyos pendientes, podrás elegir el orden entre ellos cuando corresponda resolver la bolsa, pero esa elección no adelanta ninguno a la canción.
 
 > [!IMPORTANT] Hyperia City, desde el 16/10/2026
-> Héctor Rivera - Worldwide Sensation se incorpora con Hyperia City. Este caso aplica desde su lanzamiento, con CR 2.3; la espera de los disparos hasta terminar de jugar una acción ya aparece también en CR 2.2.
-
 ### Tremaine y las Musas: la canción destierra la fuente del disparo
 
 **Las dos habilidades se disparan al jugar la canción y esperan en la bolsa, aunque después su personaje sea desterrado. Tremaine no permite robar en este caso; las Musas sí pueden devolver otro personaje legal a la mano.**

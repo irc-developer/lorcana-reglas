@@ -24,7 +24,7 @@ Por ejemplo, [Demona - Betrayer of the Clan](https://cards.lorcast.io/card/digit
 - [[1.2. Regla de oro (Golden Rules)|1.2.2–1.2.3: prohibiciones y hacer tanto como sea posible]].
 - [[8.7. Temerario (Reckless)|8.7: desafío legal y final del turno]].
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4: condiciones de habilidades estáticas]].
-- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas, efectiva el 16/10/2026. Las conclusiones de Sven y Stone by Day también se sostienen con [CR 2.2](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf) antes de esa fecha.
+- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas, efectiva el 16/10/2026.
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), sección Stone by Day Returns.
 
 ---

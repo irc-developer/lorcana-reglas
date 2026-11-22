@@ -19,7 +19,7 @@ Si no tienes una carta que descartar o una prohibición impide el descarte, no c
 - [[6.1. General (General)|6.1.4 y 6.1.5.1: opción de resolver y requisito A para B]].
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3: ejecutar en orden tanto como sea posible]].
 - [[Cumplir parte de una habilidad]]: la misma dirección de dependencia.
-- [CR 2.2.0, 6.1.5.1, p.26](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=26); [CR 2.3.0, 6.1.5.1, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26).
+- [CR 2.3.0, 6.1.5.1, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26).
 
 ---
 

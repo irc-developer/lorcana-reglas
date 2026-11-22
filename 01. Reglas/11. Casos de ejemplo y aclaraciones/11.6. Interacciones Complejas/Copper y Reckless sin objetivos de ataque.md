@@ -19,7 +19,7 @@ Copper todavía puede cantar, pagar costes de agotamiento o activar habilidades 
 - [[8.7. Temerario (Reckless)|8.7.2–8.7.4: prohibición de aventura, final de turno y otras acciones]].
 - [[8.9. Prisa (Rush)|8.9: permiso de desafío]].
 - [[1.2. Regla de oro (Golden Rules)|1.2.2: impedir prevalece]].
-- [CR 2.2.0, 8.7, p.41](https://files.disneylorcana.com/Comprehensive-Rules_2.2.0-EN.pdf#page=41); [CR 2.3.0, 8.7, p.42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
+- [CR 2.3.0, 8.7, p.42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
 
 ---
 

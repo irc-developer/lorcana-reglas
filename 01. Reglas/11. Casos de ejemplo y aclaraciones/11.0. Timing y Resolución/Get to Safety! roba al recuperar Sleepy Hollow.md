@@ -8,7 +8,7 @@ No tengo ninguna localización llamada Sleepy Hollow en mi zona de juego. Juego 
 
 **Sí, robas una carta.** Sleepy Hollow tiene coste 3 y puede jugarse con la primera instrucción. Entra en la zona de juego durante la resolución de Get to Safety!, antes de comprobar la condición de la segunda frase. En ese momento ya tienes una localización llamada Sleepy Hollow en juego.
 
-**Existe una aclaración oficial que describe exactamente este caso:** el ejemplo de la regla **6.7.8 de las Comprehensive Rules 2.2.0, página 37**. El ejemplo incluye además a Jim Hawkins - Space Traveler: su habilidad por jugar una localización se añade a la bolsa, pero espera; Get to Safety! continúa resolviéndose y permite robar porque Sleepy Hollow ya está en juego.
+**Existe una aclaración oficial que describe exactamente este caso:** el ejemplo de la regla **6.7.8 de las Comprehensive Rules 2.3.0, página 37**. El ejemplo incluye además a Jim Hawkins - Space Traveler: su habilidad por jugar una localización se añade a la bolsa, pero espera; Get to Safety! continúa resolviéndose y permite robar porque Sleepy Hollow ya está en juego.
 
 La distinción decisiva es entre **jugar una carta durante una resolución** y **resolver los efectos que se generan al jugarla**. La entrada de la localización no espera hasta que termine Get to Safety!. Los disparos producidos al jugarla sí esperan. Si la carta jugada por un efecto fuera una acción, su efecto esperaría conforme a 6.7.8.1.
 

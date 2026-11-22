@@ -6,7 +6,7 @@ Si [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_
 
 ## ✅ Respuesta
 
-**Sí.** Desde las CR 2.2, si Resist reduce el daño a 0, la acción sigue considerándose que ha infligido daño y STEADY AIM se dispara.
+**Sí.** Si Resist reduce el daño a 0, la acción sigue considerándose que ha infligido daño y STEADY AIM se dispara.
 
 La regla 1.9.5 separa el daño que **inflige la fuente** del daño que **recibe el personaje**. La acción cuenta como que ha infligido daño, mientras que el personaje con Resist no recibe ninguno.
 

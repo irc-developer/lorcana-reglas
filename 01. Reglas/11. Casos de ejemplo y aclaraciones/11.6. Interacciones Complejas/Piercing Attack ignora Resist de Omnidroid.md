@@ -17,7 +17,7 @@ El daño base de Piercing Attack es 2. Resist +2 normalmente lo reduciría a 0, 
 - [[1.9. Daño (Damage)|1.9. Daño]] regula daño infligido y contadores de daño.
 - [[8.8. Resistir (Resist)|8.8. Resist]] define la reducción de daño.
 - [[1.2. Regla de oro (Golden Rules)|1.2. Regla de oro]] hace prevalecer la prohibición específica de Piercing Attack.
-- Las *Attack of the Vine Set Release Notes* confirman la secuencia de cálculo y anuncian su centralización en CR 2.2 sin cambio funcional general.
+- Las *Attack of the Vine Set Release Notes* confirman la secuencia de cálculo del daño.
 
 ---
 
