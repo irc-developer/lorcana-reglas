@@ -4,18 +4,26 @@ El **Lore Guide Institute** es un proyecto educativo de la comunidad de Disney L
 
 ## Qué encontrarás
 
-La formación empieza con un recorrido de **Reglas**, centrado en las reglas del juego, las habilidades, las interacciones y la resolución de dudas. Después puedes seguir uno de estos caminos —o los dos—:
+La formación empieza con un [recorrido de Reglas](https://institute.lorcanajudges.com/learn/), centrado en las reglas del juego, las habilidades, las interacciones y la resolución de dudas. Después puedes seguir uno de estos caminos —o los dos—:
 
 - **Education**: cómo enseñar a jugar, acompañar a personas que empiezan y explicar las reglas con claridad.
 - **Enforcement**: cómo atender llamadas, aplicar correcciones, gestionar torneos y tratar situaciones difíciles con imparcialidad.
 
-Las lecciones incluyen explicaciones, ejemplos trabajados y ejercicios. En **Practice** puedes resolver escenarios y comparar tu respuesta con la explicación. El contenido enlaza las reglas oficiales que utiliza como referencia.
+Las lecciones incluyen explicaciones, ejemplos trabajados y ejercicios. Las lecciones enlazan las reglas oficiales que utiliza como referencia.
 
 ## Cómo empezar
 
-Las clases, las páginas de reglas y las cartas se pueden consultar gratis. No hace falta una cuenta para leer las lecciones; una cuenta gratuita permite hacer los cuestionarios y escenarios, acceder a Practice y guardar el progreso. Algunas clases conceden insignias del propio Institute al completar sus cuestionarios.
+Puedes leer las lecciones y consultar las reglas y las cartas gratis, sin cuenta. Para hacer los cuestionarios de clase, completar los escenarios interactivos y guardar el progreso, inicia sesión con una cuenta gratuita. Algunas clases conceden insignias del Institute al aprobar su cuestionario.
 
-Puedes empezar por el recorrido de [Reglas](https://institute.lorcanajudges.com/learn/) y después elegir [Education o Enforcement](https://institute.lorcanajudges.com/learn/). También puedes consultar sus [escenarios de práctica](https://institute.lorcanajudges.com/practice/) y la sección de [documentos oficiales](https://institute.lorcanajudges.com/rules/).
+La sección [Practice](https://institute.lorcanajudges.com/practice/) ofrece pruebas avanzadas ligadas a las insignias obtenidas. Se desbloquea al completar el itinerario de Reglas con sesión iniciada. El sitio anuncia las pruebas avanzadas de Education y Enforcement como próximas.
+
+## Lecciones para preparar el arbitraje
+
+- Para reconstruir una jugada con versiones distintas y explicar el fallo en una mesa tensa. [Investigación de una llamada](https://institute.lorcanajudges.com/learn/enforcement-02-taking-a-call-ii/) · [Comunicación y desescalada](https://institute.lorcanajudges.com/learn/enforcement-09-communication-and-deescalation/).
+- Para ensayar cómo trasladar una apelación y qué debe revisar el Lead Lore Guide. [Apelaciones](https://institute.lorcanajudges.com/learn/enforcement-14-appeals/).
+- Para organizar la recogida, la revisión y la devolución de los mazos. [Deck checks](https://institute.lorcanajudges.com/learn/enforcement-11-deck-checks/).
+
+En la wiki tienes un [[6. Cómo atender una llamada de Juez#Ejercicio. Dos versiones de un total de lore|ejercicio de llamada en castellano]] para practicar estos pasos en una discrepancia de lore.
 
 ## Un recurso comunitario independiente
 

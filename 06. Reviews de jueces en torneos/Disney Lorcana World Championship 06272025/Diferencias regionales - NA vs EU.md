@@ -12,6 +12,6 @@
 
 ---
 ### Qué términos deberías revisar:
-  [[8. El juez principal]] 
+  [[8. El juez principal|El Lead Lore Guide]]
   [8.3 Rebobinar (“Rewind”)]].
   

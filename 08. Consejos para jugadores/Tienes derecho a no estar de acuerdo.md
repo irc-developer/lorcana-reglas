@@ -1,3 +1,1 @@
-Puedes no estar de acuerdo con la decisión de un juez a la hora de resolver un problema o de entender una situación. El juez no está obligado a recordarte tus derechos y conocerlos te servirá para evitar problemas. Si no estás de acuerdo puedes recurrir a que avise al juez o jueza principal y esta figura se encargará emitir el veredicto final (y no es recurrible ya).
-
-En la sección de jueces [[6.5. Comunicar el fallo]] se indica en el último punto, una vez el juez explica su veredicto, el jugador puede avisar a su superior.
+Si discrepas de la decisión de un Lore Guide, puedes decirle «Quiero apelar al Lead Lore Guide». Deja la mesa como está y explica qué hecho o qué parte del fallo quieres que revise. La decisión del Lead Lore Guide es final. [[2. Roles del torneo#2.2 Lead Lore Guide|TR 2.2]] · [[9. Apelaciones|Cómo se tramita una apelación]].

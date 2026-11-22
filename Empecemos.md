@@ -1,6 +1,6 @@
 # Guía Completa de Disney Lorcana TCG en Español
 
-*Última actualización 21/11/26*
+*Última actualización 22/11/26*
 
 ¡Hola! Me llamo Iván (Shinobana), apasionado jugador de lorcana y juez en ciernes. Sé bienvenido/a a la **guía definitiva en español sobre Disney Lorcana TCG**, el juego de cartas coleccionables de Disney. Aquí encontrarás **reglas oficiales adaptadas al castellano**, explicaciones detalladas, glosario completo, materiales para árbitros y mucho más.
 
@@ -31,10 +31,8 @@ Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octub
 
 ---
 
-### ⚖️ Guía de Arbitraje y Corrección de Errores
-> ¿Te interesa ser juez o árbitro de Lorcana? Aquí tienes una guía paso a paso para formarte y arbitrar con confianza.
-
-> [[03. Reglas de Torneo/Índice|Reglas de torneo]]
+### ⚖️ Arbitraje y corrección de jugadas
+> [[05. Consejos de jueces/Índice|Guía de arbitraje para Lore Guides]] · [[Guía competitiva para Lore Guides — Metajuego y situaciones de arbitraje|Preparación competitiva y consulta rápida]] · [[03. Reglas de Torneo/Índice|Reglas de torneo]]
 
 > [[04. Guia de correccion de jugadas/1. Introducción]] · [[2. Errores de reglas]] · [[3. Errores de torneo]] · [[4. Conducta antideportiva]] · [[5. Consejos generales]]
 
