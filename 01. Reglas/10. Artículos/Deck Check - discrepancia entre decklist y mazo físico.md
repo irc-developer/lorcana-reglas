@@ -24,7 +24,7 @@ flowchart TD
 
 ## Legalidad y comunicación
 
-En Construido se requieren al menos 60 cartas, un máximo de dos tintas y hasta cuatro copias por **nombre completo inglés**, incluida la versión. También se comprueban la rotación y las prohibiciones del formato concreto. Véanse [[1.3. Formatos de Torneo]] y [[1.6 Legalidad de Sets (Set Legality)]].
+En Construido se requieren al menos 60 cartas, un máximo de dos tintas y hasta cuatro copias por **nombre completo inglés**, incluida la versión. También se comprueban la rotación y las prohibiciones del formato concreto. Véanse [[1. Definiciones de torneo#1.3. Formatos de Torneo|1.3. Formatos de Torneo]] y [[1. Definiciones de torneo#1.6 Legalidad de Sets (Set Legality)|1.6 Legalidad de Sets (Set Legality)]].
 
 Ante una discrepancia, llama al Lore Guide y conserva mazo y lista para la investigación. No cambies ninguno por tu cuenta. Las PCG distinguen error menor y mayor y contemplan escalamiento por reiteración; no es correcto resumirlas como «siempre Game Loss».
 

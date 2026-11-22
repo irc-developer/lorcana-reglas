@@ -16,9 +16,9 @@ Si lo ocurrido fue un error de reglas durante la resolución, hay que llamar al 
 
 ## 📘 Referencias
 
-- [[3.7 Takebacks|Tournament Rules 3.7 — los takebacks son una excepción que requiere autorización]].
-- [[3.7.1 Elegibilidad y limitaciones de takebacks|Tournament Rules 3.7.1 — los efectos y habilidades disparadas que se resuelven cuentan como información adicional]].
-- [[3.7.3 Ejemplos de takebacks permitidos|Tournament Rules 3.7.3 — solicitudes inmediatas antes de resolver]].
+- [[3. Operaciones en los torneos#3.7 Takebacks|Tournament Rules 3.7 — los takebacks son una excepción que requiere autorización]].
+- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Tournament Rules 3.7.1 — los efectos y habilidades disparadas que se resuelven cuentan como información adicional]].
+- [[3. Operaciones en los torneos#3.7.3 Ejemplos de takebacks permitidos|Tournament Rules 3.7.3 — solicitudes inmediatas antes de resolver]].
 - [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3 — alcanzar 20 de lore gana la partida]].
 - [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)|General Rule Error — pedir corrección si se cometió un error de reglas]].
 

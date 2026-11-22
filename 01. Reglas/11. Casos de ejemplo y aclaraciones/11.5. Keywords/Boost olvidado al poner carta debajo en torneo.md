@@ -32,9 +32,9 @@ Completar una habilidad ya declarada no es lo mismo que deshacerla para escoger 
 ## 📘 Referencias
 
 [[8.4. Impulso (boost)|8.4 Impulso (Boost)]]: define Boost como efecto secuencial que pone la carta superior del mazo boca abajo debajo de la carta.
-- [[3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)|3.5 Secuenciación Fuera de Orden]]: permite cierta flexibilidad solo si se llega al mismo estado legal sin obtener información.
-- [[3.7 Takebacks]]: los takebacks son excepcionales y requieren Lore Guide.
-- [[3.7.2 Acciones ilegales y errores de reglas en takebacks]]: una acción ilegal o error de reglas puede requerir corrección o rebobinado parcial.
+- [[3. Operaciones en los torneos#3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)|3.5 Secuenciación Fuera de Orden]]: permite cierta flexibilidad solo si se llega al mismo estado legal sin obtener información.
+- [[3. Operaciones en los torneos#3.7 Takebacks|3.7 Takebacks]]: los takebacks son excepcionales y requieren Lore Guide.
+- [[3. Operaciones en los torneos#3.7.2 Acciones ilegales y errores de reglas en takebacks|3.7.2 Acciones ilegales y errores de reglas en takebacks]]: una acción ilegal o error de reglas puede requerir corrección o rebobinado parcial.
 - [[04. Guia de correccion de jugadas/1. Introducción#1.2.3 Criterios para el rebobinado|Criterios para el rebobinado]]: no rebobinar si el arreglo empeora el estado, si no está claro el orden o si abarca demasiadas decisiones.
 - [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)|General Rule Error]]: categoría base para errores de reglas no cubiertos por otros apartados.
 - [[2. Errores de reglas#2.1 Efecto disparado perdido (Missed Trigger)|Missed Trigger]]: relevante solo para disparos derivados, no para el Boost en sí.

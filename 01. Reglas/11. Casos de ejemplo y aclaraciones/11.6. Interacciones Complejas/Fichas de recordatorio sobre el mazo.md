@@ -14,8 +14,8 @@ No puede utilizarse para registrar información privada del oponente ni para rep
 
 ## 📘 Referencias
 
-- [[5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|5.2. Notas y seguimiento de información]]: permite fichas para seguir información pública propia, pero prohíbe representaciones numéricas salvo el daño.
-- [[5.1. Disposición de Juego (Game Layout)|5.1. Disposición de juego]]: la mesa debe mantenerse clara y sin ambigüedades.
+- [[5. Información y comunicación#5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|5.2. Notas y seguimiento de información]]: permite fichas para seguir información pública propia, pero prohíbe representaciones numéricas salvo el daño.
+- [[5. Información y comunicación#5.1. Disposición de Juego (Game Layout)|5.1. Disposición de juego]]: la mesa debe mantenerse clara y sin ambigüedades.
 - [Tournament Rules](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), reglas 5.1 y 5.2.
 
 ---

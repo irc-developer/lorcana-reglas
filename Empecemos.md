@@ -34,6 +34,8 @@ Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octub
 ### ⚖️ Guía de Arbitraje y Corrección de Errores
 > ¿Te interesa ser juez o árbitro de Lorcana? Aquí tienes una guía paso a paso para formarte y arbitrar con confianza.
 
+> [[03. Reglas de Torneo/Índice|Reglas de torneo]]
+
 > [[04. Guia de correccion de jugadas/1. Introducción]] · [[2. Errores de reglas]] · [[3. Errores de torneo]] · [[4. Conducta antideportiva]] · [[5. Consejos generales]]
 
 ---

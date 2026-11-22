@@ -20,7 +20,7 @@ En torneos Competitive y Premier, las firmas están permitidas si no modifican l
 
 ## 📘 Referencias
 
-- [[3.11 Accesorios Aprobados (Approved Accessories)|Accesorios aprobados]]
+- [[3. Operaciones en los torneos#3.11 Accesorios Aprobados (Approved Accessories)|Accesorios aprobados]]
 
 ---
 

@@ -12,7 +12,7 @@ No existe un permiso universal de sideboard entre partidas o rondas de Limited e
 
 ## 📘 Referencias
 
-- [[6.1 Descripción general de Limitado (Limited Overview)|6.1. Descripción general de Limited]], [[6.2 Sellado (Sealed)|6.2. Sellado]] y [[6.4 Draft|6.4. Draft]].
+- [[1. Definiciones de torneo#1.3.2 Formatos de Limitado|1.3.2 Formatos de Limitado]], [[1. Definiciones de torneo#1.3.2.2 Sealed|1.3.2.2 Sellado (Sealed)]] y [[1. Definiciones de torneo#1.3.2.4 Draft|1.3.2.4 Draft]].
 
 ## 🔄 Cómo se resuelve
 

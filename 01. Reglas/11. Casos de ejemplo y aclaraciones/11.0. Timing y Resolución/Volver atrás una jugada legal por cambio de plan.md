@@ -34,7 +34,7 @@ Sí puede corregirse la jugada si lo que ocurrió fue una **acción ilegal** y t
 
 - [[4.6 Desafío (Challenge)]]: el desafío tiene pasos definidos y el jugador solo elige su siguiente acción cuando el desafío ya terminó.
 - [[1.7. Game Actions, Timing, y Illegal Actions]]: si una acción era ilegal, se deshace hasta donde sea razonable; si la acción fue legal, no hay una regla general que permita rebobinarla por arrepentimiento táctico.
-- [[3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)]]: no sirve para reordenar acciones cuando el orden cambia la información obtenida o el resultado práctico.
+- [[3. Operaciones en los torneos#3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)|3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)]]: no sirve para reordenar acciones cuando el orden cambia la información obtenida o el resultado práctico.
 - [[Reversión de jugadas (takebacks)]]: en torneo, los takebacks son una excepción limitada y arbitral; no son un derecho automático del jugador ni dependen del consentimiento del rival.
 
 ---

@@ -33,7 +33,7 @@ Usa la [[#2. Consulta rápida — Situaciones prioritarias|consulta rápida]] pa
 
 | Prioridad | Situación | Respuesta inicial | Explicación |
 | --- | --- | --- | --- |
-| P0 | Tiempo en Swiss Bo3 | Termina el turno 0 y cuenta cinco turnos totales más. Una partida sin terminar se registra como empate. | [TR 3.3–3.4](../../03.%20Reglas%20de%20Torneo/3.%20Operaciones%20en%20los%20torneos/3.4.1%20Procedimiento%20de%20final%20de%20partida%20%28end%E2%80%91of%E2%80%91match%20procedure%29.md) |
+| P0 | Tiempo en Swiss Bo3 | Termina el turno 0 y cuenta cinco turnos totales más. Una partida sin terminar se registra como empate. | [[3. Operaciones en los torneos#3.4.1 Procedimiento de final de partida (end‑of‑match procedure)\|TR 3.3–3.4]] |
 | P0 | Disparo obligatorio omitido | Confirma conciencia, ciclo y duración. Dentro del plazo, el rival decide si se incorpora a la bolsa. | [[2. Errores de reglas#2.1 Efecto disparado perdido (Missed Trigger)\|PCG 2.1]] |
 | P0 | Disparo anunciado y lore mal comunicado | Determina si se concedió el lore y si el rival tomó una decisión basada en un total erróneo. | [PCG 2.1 y 3.6 · TR 5.4](../11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Disparo%20anunciado%20y%20total%20de%20lore%20incorrecto.md) |
 | P0 | Error con acciones posteriores | Reconstruye lo sucedido y pide al Lead Lore Guide que valore el rebobinado. Si se mantiene la partida, corrige el estado ilegal actual. | [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)\|PCG 1.2 y 2.4]] |
@@ -125,7 +125,7 @@ Los personajes baratos dan bases de Shift y presión en mesa. **Judy Hopps - Lea
 
 ## 6. Procedimientos de torneo
 
-En una llamada, registra la hora si pausas el encuentro y pregunta a ambos jugadores por el último hecho en que coinciden. Aclara qué se anunció, qué salió de qué zona y qué información se conoció después. Explica la jugada legal antes de decidir si hubo infracción y qué remedio procede. [[6. Cómo atender una llamada de Juez|Cómo atender una llamada]] · [[2.3 Jueces (Judges)|TR 2.3]].
+En una llamada, registra la hora si pausas el encuentro y pregunta a ambos jugadores por el último hecho en que coinciden. Aclara qué se anunció, qué salió de qué zona y qué información se conoció después. Explica la jugada legal antes de decidir si hubo infracción y qué remedio procede. [[6. Cómo atender una llamada de Juez|Cómo atender una llamada]] · [[2. Roles del torneo#2.3 Lore Guides|TR 2.3]].
 
 | Lo que encuentras | Qué debes comprobar | Política |
 | --- | --- | --- |
@@ -133,10 +133,10 @@ En una llamada, registra la hora si pausas el encuentro y pregunta a ambos jugad
 | Total de lore incorrecto | Determina si se concedió el lore, qué total se comunicó y si el oponente tomó una decisión basándose en él. La política de comunicación contempla Warning en Competitivo y posible rebobinado autorizado. | [TR 5.4 · PCG 3.6](../11.%20Casos%20de%20ejemplo%20y%20aclaraciones/11.8.%20Correcciones%20de%20jugadas/Disparo%20anunciado%20y%20total%20de%20lore%20incorrecto.md) |
 | «Quiero rectificar» o jugada ilegal | Si fue una jugada legal, comprueba si es la última y si hubo acción posterior o información nueva. Si fue ilegal, identifica la infracción y la corrección aplicable. El rebobinado general requiere aprobación del Lead Lore Guide. | [TR 3.7](Reversi%C3%B3n%20de%20jugadas%20%28takebacks%29.md) · [[04. Guia de correccion de jugadas/1. Introducción#1.2 Rebobinar una partida (Rewinding a Game)\|PCG 1.2]] |
 | Carta de más vista o en mano | Identifica la zona y si la carta cambió de conjunto oculto. Mirar accidentalmente y añadir una carta a mano se corrigen con apartados distintos. | [[2. Errores de reglas#2.2 Error de información oculta (Hidden Information Error)\|PCG 2.2]] · [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)\|PCG 2.3]] |
-| Duda sobre la tinta | En el entintado normal se anuncia la carta y se verifica el icono. Se puede preguntar por cantidad y estado del pozo. La identidad de las cartas que están boca abajo es privada. | [TR 5.4](../../03.%20Reglas%20de%20Torneo/5%20Informaci%C3%B3n%20y%20comunicaci%C3%B3n/5.4%20Informaci%C3%B3n%20en%20el%20Juego%20%28In-Game%20Information%29.md) · [TR 5.5](../../03.%20Reglas%20de%20Torneo/5%20Informaci%C3%B3n%20y%20comunicaci%C3%B3n/5.5%20Pozo%20de%20tinta.md) |
+| Duda sobre la tinta | En el entintado normal se anuncia la carta y se verifica el icono. Se puede preguntar por cantidad y estado del pozo. La identidad de las cartas que están boca abajo es privada. | [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)\|TR 5.4]] · [[5. Información y comunicación#5.5 Pozo de tinta\|TR 5.5]] |
 | Mazo y lista difieren | Conserva ambos, confirma las versiones exactas y comprueba si corregir el mazo permite respetar la lista registrada. Cambiar la lista puede llevar a error mayor, con Game Loss. | [PCG 3.3–3.4](Deck%20Check%20-%20discrepancia%20entre%20decklist%20y%20mazo%20f%C3%ADsico.md) |
-| Se anuncia el tiempo | Identifica si es Swiss o eliminación directa y el número de partidas ya ganadas. En eliminación directa con límite de tiempo, si alguien lleva más victorias al anunciarse el tiempo, gana el encuentro. Con empate en partidas, consulta los turnos adicionales y el desempate por lore. | [TR 3.4](../../03.%20Reglas%20de%20Torneo/3.%20Operaciones%20en%20los%20torneos/3.4.1%20Procedimiento%20de%20final%20de%20partida%20%28end%E2%80%91of%E2%80%91match%20procedure%29.md) · [TR 6.1](../../03.%20Reglas%20de%20Torneo/6.%20L%C3%ADmites%20de%20tiempo/6.1%20L%C3%ADmites%20de%20Tiempo%20Generales%20de%20Torneo%20%28General%20Tournament%20Time%20Limits%29.md) |
-| Apelación o extensión | El jugador puede apelar al Lead Lore Guide, cuyo fallo es final. Si un oficial pausa la ronda más de un minuto por la llamada, da una extensión igual a la pausa. Para un deck check, añade tres minutos al tiempo del chequeo. | [TR 2.2](../../03.%20Reglas%20de%20Torneo/2.%20Roles%20en%20los%20torneos/2.2%20Juez%20Principal%20%28Head%20Judge%29.md) · [TR 3.12](../../03.%20Reglas%20de%20Torneo/3.%20Operaciones%20en%20los%20torneos/3.12%20Extensiones%20de%20Tiempo%20%28Time%20Extensions%29.md) |
+| Se anuncia el tiempo | Identifica si es Swiss o eliminación directa y el número de partidas ya ganadas. En eliminación directa con límite de tiempo, si alguien lleva más victorias al anunciarse el tiempo, gana el encuentro. Con empate en partidas, consulta los turnos adicionales y el desempate por lore. | [[3. Operaciones en los torneos#3.4.1 Procedimiento de final de partida (end‑of‑match procedure)\|TR 3.4]] · [[6. Límites de tiempo#6.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits)\|TR 6.1]] |
+| Apelación o extensión | El jugador puede apelar al Lead Lore Guide, cuyo fallo es final. Si un oficial pausa la ronda más de un minuto por la llamada, da una extensión igual a la pausa. Para un deck check, añade tres minutos al tiempo del chequeo. | [[2. Roles del torneo#2.2 Lead Lore Guide\|TR 2.2]] · [[3. Operaciones en los torneos#3.12 Extensiones de Tiempo (Time Extensions)\|TR 3.12]] |
 
 
 ## 7. Casos prácticos para Lore Guides
@@ -147,7 +147,7 @@ A entinta por su acción normal. B pide verificar el icono y ver las demás cart
 
 **Preguntas.** ¿Qué puede comprobar B? ¿Puede A preparar un personaje con On Repeat?
 
-**Resoluciones.** B puede verificar la carta que se entinta y conocer la cantidad y el estado del pozo. La identidad de las cartas boca abajo sigue siendo privada. Jukebox requiere otra carta con el mismo nombre en el descarte al resolver. [[5.4 Información en el Juego (In-Game Information)|TR 5.4–5.5]] · [[Jukebox requiere otra canción con el mismo nombre en el descarte|CR 6.2.4 y 6.7.1.2 · errata de Jukebox]].
+**Resoluciones.** B puede verificar la carta que se entinta y conocer la cantidad y el estado del pozo. La identidad de las cartas boca abajo sigue siendo privada. Jukebox requiere otra carta con el mismo nombre en el descarte al resolver. [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|TR 5.4–5.5]] · [[Jukebox requiere otra canción con el mismo nombre en el descarte|CR 6.2.4 y 6.7.1.2 · errata de Jukebox]].
 
 ### Intermedio · «Hasta dos» con un personaje rival obligatorio
 
@@ -171,7 +171,7 @@ A anuncia a tiempo un disparo de ganar lore y lo resuelve, pero comunica mal su 
 
 En un Swiss Bo3, A ganó la primera. Se anuncia tiempo durante el turno de B en la segunda. Al terminar el último turno adicional, B tiene más lore, pero nadie gana. En el deck check de otra mesa hay 59 cartas en Construido, lista legal y la carta ausente dentro de la caja.
 
-**Resoluciones.** B termina el turno 0. A gana el encuentro 1-0-1 si, después de cinco turnos totales más, la segunda partida sigue sin ganador. El caso del mazo es menor en los hechos dados. Ajusta el mazo a la lista y aplica Warning. Si la carta no aparece, el supuesto cambia a mayor. [[3.4.1 Procedimiento de final de partida (end‑of‑match procedure)|TR 3.3–3.4]] · [[Deck Check - discrepancia entre decklist y mazo físico|PCG 3.3–3.4]].
+**Resoluciones.** B termina el turno 0. A gana el encuentro 1-0-1 si, después de cinco turnos totales más, la segunda partida sigue sin ganador. El caso del mazo es menor en los hechos dados. Ajusta el mazo a la lista y aplica Warning. Si la carta no aparece, el supuesto cambia a mayor. [[3. Operaciones en los torneos#3.4.1 Procedimiento de final de partida (end‑of‑match procedure)|TR 3.3–3.4]] · [[Deck Check - discrepancia entre decklist y mazo físico|PCG 3.3–3.4]].
 
 ## 8. Plan de estudio antes del torneo
 
@@ -187,6 +187,6 @@ Para revisar el metajuego en otro evento, actualiza la fecha y el bloque de arqu
 
 - **Reglas generales.** [[1.8. Chequeo del estado del juego (Game State Check)|Chequeo del estado]] · [[7.7. Bolsa (Bag)|Bolsa]] · [[6.1. General (General)|Elecciones y resolución]] · [[3.4. Fase final de turno (End-of-Phase)|Final de turno]].
 - **Combate y costes.** [[4.6 Desafío (Challenge)|Desafío]] · [[1.9. Daño (Damage)|Daño]] · [[8.10. Cambio (Shift)|Shift]] · [[4.3. Jugar una carta (Play a Card)|Jugar una carta]].
-- **Reglas de Torneo (TR).** [[03. Reglas de Torneo/Índice|Índice]] · [[3.4 Procedimiento de Partida (Match Procedure)|Procedimiento de partida]] · [[5.4 Información en el Juego (In-Game Information)|Información y comunicación]].
+- **Reglas de Torneo (TR).** [[03. Reglas de Torneo/Índice|Índice]] · [[3. Operaciones en los torneos#3.4 Procedimiento de Partida (Match Procedure)|Procedimiento de partida]] · [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|Información y comunicación]].
 - **Guía de corrección de jugadas (PCG).** [[2. Errores de reglas|Errores de reglas]] · [[04. Guia de correccion de jugadas/1. Introducción#1.2 Rebobinar una partida (Rewinding a Game)|Rebobinados]] · [[Deck Check - discrepancia entre decklist y mazo físico|Errores de registro y deck checks]].
 - **Preparación en mesa.** [[6. Cómo atender una llamada de Juez|Llamada de arbitraje]] · [[Detectives Zafiro Acero - guía de pilotaje para Hyperia City|Detectives Zafiro/Acero]].

@@ -12,9 +12,9 @@ La consulta previa a sentarse y antes de comenzar las acciones de la partida que
 
 ## 📘 Referencias
 
-- [[5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|Notas y asistencia externa]]
+- [[5. Información y comunicación#5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|Notas y asistencia externa]]
 - [[3. Errores de torneo#3.8 Asistencia externa (outside assistance)|Outside Assistance]]
-- [[3.4 Procedimiento de Partida (Match Procedure)|Inicio del procedimiento de partida]]
+- [[3. Operaciones en los torneos#3.4 Procedimiento de Partida (Match Procedure)|Inicio del procedimiento de partida]]
 
 ---
 

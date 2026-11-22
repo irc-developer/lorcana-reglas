@@ -54,5 +54,5 @@ El Local Qualifier es una vía de acceso al circuito. No debe confundirse con un
 
 - [Disney Lorcana Challenge — temporada 2026–2027, apartado Introducing Local Qualifiers](https://www.disneylorcana.com/en-GB/play/lorcana-challenge): confirma la ruta desde Set Championships y la plaza obtenida al ganar el Local Qualifier.
 - Diapositiva de Ravensburger **Organized Play Program — Local Qualifiers**, reproducida en este artículo: presenta el acceso desde Set Championships y las promos de participación y Top 32. No incorpora fecha ni condiciones completas de la convocatoria.
-- [[1.2 Niveles de Torneo (Tournament Levels)|Niveles de torneo]]: distingue los niveles de exigencia de los eventos.
+- [[1. Definiciones de torneo#1.2 Niveles de Torneo (Tournament Levels)|Niveles de torneo]]: distingue los niveles de exigencia de los eventos.
 - [[10. Comunidad y actividades/Índice|Comunidad y actividades]] y [[03. Reglas de Torneo/Índice|Reglas de Torneo]]: recursos generales para participantes y organizadores.

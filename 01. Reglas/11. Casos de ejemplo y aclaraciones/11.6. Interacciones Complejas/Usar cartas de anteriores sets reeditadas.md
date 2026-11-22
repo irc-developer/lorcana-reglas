@@ -10,7 +10,7 @@ Sí, si **esa misma carta es legal en el formato del torneo**, puedes usar una i
 
 ## 📘 Referencias
 
-- [[1.6 Legalidad de Sets (Set Legality)|Legalidad de sets e impresiones]]
+- [[1. Definiciones de torneo#1.6 Legalidad de Sets (Set Legality)|Legalidad de sets e impresiones]]
 
 ---
 

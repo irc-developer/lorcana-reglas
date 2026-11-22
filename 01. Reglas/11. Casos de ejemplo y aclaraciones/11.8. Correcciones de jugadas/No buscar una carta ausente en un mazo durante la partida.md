@@ -12,9 +12,9 @@ No. El juez no debe registrar una zona privada durante la partida para tranquili
 
 ## 📘 Referencias
 
-- [[3.8 Registro de Mazos (Deck Registration)|La lista como referencia]]
-- [[3.9 Revisión de Mazos (Deck Checks)|Deck check]]
-- [[5.4 Información en el Juego (In-Game Information)|Zonas privadas]]
+- [[3. Operaciones en los torneos#3.8 Registro de Mazos (Deck Registration)|La lista como referencia]]
+- [[3. Operaciones en los torneos#3.9 Revisión de Mazos (Deck Checks)|Deck check]]
+- [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|Zonas privadas]]
 
 ---
 

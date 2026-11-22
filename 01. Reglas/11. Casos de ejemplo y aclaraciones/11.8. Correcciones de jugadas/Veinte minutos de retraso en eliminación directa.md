@@ -13,7 +13,7 @@ A los veinte minutos se supera el umbral de diez minutos: corresponde una Match 
 ## 📘 Referencias
 
 - [[3. Errores de torneo#3.1 Retraso (Tardiness)|Umbral de tardiness]]
-- [[6.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits)|Excepción por inicio anticipado]]
+- [[6. Límites de tiempo#6.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits)|Excepción por inicio anticipado]]
 
 ---
 

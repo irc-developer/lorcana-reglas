@@ -34,8 +34,8 @@ Si el jugador advierte Flash inmediatamente después de jugar a Demona, **antes 
 
 ## 📘 Referencias
 
-- [[3.7.1 Elegibilidad y limitaciones de takebacks|Solo la jugada más reciente, sin acciones posteriores ni información adicional]].
-- [[3.7.2 Acciones ilegales y errores de reglas en takebacks|Diferencia entre takeback y corrección de una acción ilegal]].
+- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Solo la jugada más reciente, sin acciones posteriores ni información adicional]].
+- [[3. Operaciones en los torneos#3.7.2 Acciones ilegales y errores de reglas en takebacks|Diferencia entre takeback y corrección de una acción ilegal]].
 - [[1.7. Game Actions, Timing, y Illegal Actions|CR 1.7.5–1.7.6: secado y reversión de la acción ilegal]].
 - [[4.4. Usar una habilidad activada (Use an Activated Ability)|CR 4.4.3–4.4.4: pago del coste y resolución de la habilidad]].
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.2.3: resolver tanto como sea posible]].

@@ -1,6 +1,6 @@
 ## 🕐 Antes de jugar
 - 📦 **Revisa tu mazo y fundas.**  
-    Máximo 2 tintas y mínimo 60 cartas. Comprueba [[1.6 Legalidad de Sets (Set Legality)|la rotación y la lista de prohibidas]].
+    Máximo 2 tintas y mínimo 60 cartas. Comprueba [[1. Definiciones de torneo#1.6 Legalidad de Sets (Set Legality)|la rotación y la lista de prohibidas]].
 - 🎲 **Decide quién juega primero antes de ver las manos iniciales.** Si el evento sigue la estructura de TR 3.3, en la primera partida del suizo se sortea quién elige jugar o robar primero. En la primera del Top Cut elige quien obtuvo mejor posición en el suizo. En las siguientes elige quien perdió la anterior.
 - 🔄 **Baraja bien y ofrece el mazo al rival.**
 - 🪶 **Mantén tu zona limpia y visible.**  

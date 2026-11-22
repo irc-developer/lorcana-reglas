@@ -12,7 +12,7 @@ El nombre de un mazo forma parte de la comunicación del evento y está sujeto a
 
 ## 📘 Referencias
 
-- [[5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones]] y [[7.1. Conducta Prohibida (Prohibited Conduct)|7.1. Conducta prohibida]].
+- [[5. Información y comunicación#5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones]] y [[7. Conducta del Jugador#7.1. Conducta Prohibida (Prohibited Conduct)|7.1. Conducta prohibida]].
 
 ## 🔄 Cómo se resuelve
 

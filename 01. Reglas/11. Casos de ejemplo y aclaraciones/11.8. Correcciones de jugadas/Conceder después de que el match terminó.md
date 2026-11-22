@@ -16,9 +16,9 @@ Si el match aún no tiene resultado —por ejemplo, sigue en curso una partida d
 
 ## 📘 Referencias
 
-- [[3.3 Estructura de Partida (Match Structure)|Tournament Rules 3.3 — en Bo3, gana el match quien gana dos partidas]].
-- [[3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions)|Tournament Rules 3.6 — solo se puede conceder una partida o match incompleto]].
-- [[3.4 Procedimiento de Partida (Match Procedure)|Tournament Rules 3.4 — verificar y reportar correctamente el resultado final]].
+- [[3. Operaciones en los torneos#3.3 Estructura de Partida (Match Structure)|Tournament Rules 3.3 — en Bo3, gana el match quien gana dos partidas]].
+- [[3. Operaciones en los torneos#3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions)|Tournament Rules 3.6 — solo se puede conceder una partida o match incompleto]].
+- [[3. Operaciones en los torneos#3.4 Procedimiento de Partida (Match Procedure)|Tournament Rules 3.4 — verificar y reportar correctamente el resultado final]].
 - [[1.1. General|CR 1.1.3 — las reglas de torneo pueden añadir o modificar las reglas generales]].
 - [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3.4 — regla general de concesión, incluida Cleanup; en torneo se aplica junto con las restricciones de Tournament Rules]].
 

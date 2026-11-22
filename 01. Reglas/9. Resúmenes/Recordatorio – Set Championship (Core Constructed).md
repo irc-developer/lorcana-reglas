@@ -6,7 +6,7 @@
 - **Sistema:** Mejor de 3 (_Bo3_).
 - **Top Cut:** depende de la asistencia y del kit. En Hyperia City, con 8 jugadores se disputan 3 rondas sin Top Cut. Con 9–16 se disputan 4 rondas y Top 4. A partir de 17 hay Top 8.
 - **Mazos:** solo cartas legales en rotación (Sets 9 en adelante, desde el lanzamiento del Set 13; se permiten impresiones antiguas de cartas reeditadas legales).
-- **Cartas prohibidas:** [My Adventure Book](https://cards.lorcast.io/card/digital/large/crd_a2348103280d45639331013b3de78bf8.avif?1783188915) está prohibida en Core Constructed desde el 3 de noviembre de 2026. Consulta [[1.6 Legalidad de Sets (Set Legality)|la lista vigente]].
+- **Cartas prohibidas:** [My Adventure Book](https://cards.lorcast.io/card/digital/large/crd_a2348103280d45639331013b3de78bf8.avif?1783188915) está prohibida en Core Constructed desde el 3 de noviembre de 2026. Consulta [[1. Definiciones de torneo#1.6 Legalidad de Sets (Set Legality)|la lista vigente]].
 
 > 📄 Verifica tu lista antes del torneo. El Lore Guide determina la corrección y la medida aplicable según el tipo de error.
 

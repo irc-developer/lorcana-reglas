@@ -14,7 +14,7 @@ La selección aleatoria corresponde a los encuentros de Swiss en Premier; no sus
 
 ## 📘 Referencias
 
-- [[3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]], apartados Premier Play y eliminación directa.
+- [[3. Operaciones en los torneos#3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]], apartados Premier Play y eliminación directa.
 
 ## 🔄 Cómo se resuelve
 
