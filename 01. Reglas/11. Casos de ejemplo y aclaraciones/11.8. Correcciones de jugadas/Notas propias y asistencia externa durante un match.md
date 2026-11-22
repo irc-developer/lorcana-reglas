@@ -13,8 +13,8 @@ Son conductas distintas. Durante un match solo se permite anotar los totales de 
 ## 📘 Referencias
 
 - [[5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|Notas y seguimiento]]
-- [[3.6 Error de comunicación e información (Information and communication error)|Information and Communication Error]]
-- [[3.8 Asistencia externa (outside assistance)|Outside Assistance]]
+- [[3. Errores de torneo#3.6 Error de comunicación e información (Information and communication error)|Information and Communication Error]]
+- [[3. Errores de torneo#3.8 Asistencia externa (outside assistance)|Outside Assistance]]
 
 ---
 

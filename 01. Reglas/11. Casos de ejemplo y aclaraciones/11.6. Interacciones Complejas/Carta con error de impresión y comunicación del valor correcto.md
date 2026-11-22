@@ -18,7 +18,7 @@ Una impresión extranjera o con una errata no es automáticamente una carta marc
 - [[1.1. General|1.1.4. Idiomas]]: la versión inglesa es la referencia oficial para cartas, reglas y decisiones.
 - [[5.4 Información en el Juego (In-Game Information)|5.4. Información en el juego]]: los jugadores deben comunicar correctamente el estado de la partida.
 - [[5.6. Nomenclatura y Descripciones de Cartas (Card Naming and Descriptions)|5.6. Nomenclatura y descripciones de cartas]]: las referencias a cartas deben permitir identificarlas correctamente.
-- [[3.6 Error de comunicación e información (Information and communication error)|3.6. Error de comunicación e información]] y [[3.7 Cartas marcadas (marked cards)|3.7. Cartas marcadas]].
+- [[3. Errores de torneo#3.6 Error de comunicación e información (Information and communication error)|3.6. Error de comunicación e información]] y [[3. Errores de torneo#3.7 Cartas marcadas (marked cards)|3.7. Cartas marcadas]].
 - [Tournament Rules](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), reglas 5.4 y 5.6.
 
 ---

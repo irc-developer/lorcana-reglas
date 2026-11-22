@@ -1,2 +1,0 @@
-Esta es la forma más básica de acción correctiva. Se le indica al jugador que debe tener más cuidado para evitar cometer el mismo error en el futuro. No se registra ni se rastrea. 
-#caution

@@ -14,7 +14,7 @@ El juez debe investigar la intención; no se ofrece al jugador la opción de esc
 
 - [[3.8 Registro de Mazos (Deck Registration)|La lista como referencia de intención]]
 - [[3.9 Revisión de Mazos (Deck Checks)|Objetivo del deck check]]
-- [[3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|DRE Minor]] y [[3.4 Error de mazo-registro mayor (Deck-Registration Error major)|DRE Major]]
+- [[3. Errores de torneo#3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|DRE Minor]] y [[3. Errores de torneo#3.4 Error de mazo-registro mayor (Deck-Registration Error major)|DRE Major]]
 
 ---
 

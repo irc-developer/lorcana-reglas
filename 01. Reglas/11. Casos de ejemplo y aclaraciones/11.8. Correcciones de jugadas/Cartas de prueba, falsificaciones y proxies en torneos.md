@@ -49,9 +49,9 @@ La penalización final depende de los hechos, del momento en que se descubre el 
 ## 📘 Referencias
 
 - [[3.11 Accesorios Aprobados (Approved Accessories)|TR 3.11: cartas oficialmente autorizadas]].
-- [[3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|Error de mazo-registro menor]].
-- [[3.4 Error de mazo-registro mayor (Deck-Registration Error major)|Error de mazo-registro mayor]].
-- [[4.4 Trampas (Cheating)|Cheating]].
+- [[3. Errores de torneo#3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|Error de mazo-registro menor]].
+- [[3. Errores de torneo#3.4 Error de mazo-registro mayor (Deck-Registration Error major)|Error de mazo-registro mayor]].
+- [[4. Conducta antideportiva#4.4 Trampas (Cheating)|Cheating]].
 - [[Investigar la intención en una discrepancia entre mazo y lista]].
 - [[10. Errores de Registro - Guía rápida para jueces|Guía rápida de errores de registro]], apartado de Ink Card Proxy.
 

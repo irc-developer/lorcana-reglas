@@ -14,7 +14,7 @@ Sí. El estado de preparado o agotado debe representar las acciones realmente re
 
 - [[5.5 Pozo de tinta|Estado del pozo de tinta]]
 - [[1.7. Game Actions, Timing, y Illegal Actions|Acciones ilegales y deshacer]]
-- [[2.4 Error general de reglas (General Rule Error)|General Rules Error]]
+- [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)|General Rules Error]]
 
 ---
 

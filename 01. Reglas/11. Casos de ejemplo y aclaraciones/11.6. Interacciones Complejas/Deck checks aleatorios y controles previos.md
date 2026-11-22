@@ -32,9 +32,9 @@ No conviene confiscar mazos silenciosamente ni prometer que todos serán revisad
 
 ## ⚖️ Qué ocurre si aparece un problema
 
-- Una discrepancia accidental que no obliga a modificar la decklist puede ser un [[3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|Error de mazo-registro menor]].
-- Si hay que modificar la lista, el mazo queda ilegal o no se pueden aportar las cartas necesarias, puede ser un [[3.4 Error de mazo-registro mayor (Deck-Registration Error major)|Error de mazo-registro mayor]].
-- Si el jugador ocultó o mantuvo conscientemente la discrepancia para obtener ventaja, debe investigarse como posible [[4.4 Trampas (Cheating)|Cheating]], no tratarse automáticamente como un simple error.
+- Una discrepancia accidental que no obliga a modificar la decklist puede ser un [[3. Errores de torneo#3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|Error de mazo-registro menor]].
+- Si hay que modificar la lista, el mazo queda ilegal o no se pueden aportar las cartas necesarias, puede ser un [[3. Errores de torneo#3.4 Error de mazo-registro mayor (Deck-Registration Error major)|Error de mazo-registro mayor]].
+- Si el jugador ocultó o mantuvo conscientemente la discrepancia para obtener ventaja, debe investigarse como posible [[4. Conducta antideportiva#4.4 Trampas (Cheating)|Cheating]], no tratarse automáticamente como un simple error.
 
 ---
 

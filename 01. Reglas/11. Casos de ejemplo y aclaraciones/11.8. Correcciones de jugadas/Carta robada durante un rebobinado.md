@@ -12,8 +12,8 @@ El rebobinado debe deshacer también el robo de Nick. Como la carta que robó ya
 
 ## 📘 Referencias
 
-- [[1.2.1 Orden en el rebobinado|Orden del rebobinado]]
-- [[1.2.2 Rebobinando situaciones que impliquen zonas privadas|Zonas privadas]]
+- [[04. Guia de correccion de jugadas/1. Introducción#1.2.1 Orden en el rebobinado|Orden del rebobinado]]
+- [[04. Guia de correccion de jugadas/1. Introducción#1.2.2 Rebobinando situaciones que impliquen zonas privadas|Zonas privadas]]
 
 ---
 

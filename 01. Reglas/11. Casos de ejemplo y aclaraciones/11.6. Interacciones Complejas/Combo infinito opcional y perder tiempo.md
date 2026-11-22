@@ -23,7 +23,7 @@ En torneo, si un jugador usa ese proceso para tardar más de lo razonable en tom
 ## 📘 Referencias
 
 - [[6.1. General (General)|6.1.10. Si todos entienden el bucle, el jugador declara cuántas repeticiones hace y el juego avanza hasta ese punto]]
-- [[3.2 Juego lento (slow play)|3.2 Juego lento (slow play): el jugador tarda demasiado en muchas de sus decisiones]]
+- [[3. Errores de torneo#3.2 Juego lento (slow play)|3.2 Juego lento (slow play): el jugador tarda demasiado en muchas de sus decisiones]]
 
 La consecuencia práctica es doble:
 
@@ -72,7 +72,7 @@ Si el bucle existe y es comprensible, el árbitro debería pedir al jugador que 
 - qué recursos cambian en cada iteración,
 - y en qué estado final queda la partida.
 
-Si el jugador insiste en ejecutarlo lentamente sin necesidad, eso encaja en la lógica de [[3.2 Juego lento (slow play)|juego lento]].
+Si el jugador insiste en ejecutarlo lentamente sin necesidad, eso encaja en la lógica de [[3. Errores de torneo#3.2 Juego lento (slow play)|juego lento]].
 
 ---
 

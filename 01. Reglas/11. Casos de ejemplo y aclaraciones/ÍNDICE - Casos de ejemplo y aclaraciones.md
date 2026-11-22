@@ -354,7 +354,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - [Fichas de recordatorio sobre el mazo](<11.6. Interacciones Complejas/Fichas de recordatorio sobre el mazo.md>)
 - [Reversión de jugadas (takebacks)](<../10. Artículos/Reversión de jugadas (takebacks).md>)
 - [Reversión de jugadas (takebacks)](<../10. Artículos/Reversión de jugadas (takebacks).md>)
-- [4.5 Resultado de un encuentro inapropiado (Improper Match Result)](<../../04. Guia de correccion de jugadas/04. Conducta antideportiva/4.5 Resultado de un encuentro inapropiado (Improper Match Result).md>)
+- [[4. Conducta antideportiva#4.5 Resultado de un encuentro inapropiado (Improper Match Result)|4.5 Resultado de un encuentro inapropiado (Improper Match Result)]]
 - [Habilidades estáticas presentes en juego y sus interacciones](<11.4. Habilidades/Habilidades estáticas presentes en juego y sus interacciones.md>)
 - [Posey - Vampire Potato puede usar Potato Shift sobre Morph](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>)
 - [Escudos (replacement) vs Resist](<11.4. Habilidades/Escudos (replacement) vs Resist.md>)

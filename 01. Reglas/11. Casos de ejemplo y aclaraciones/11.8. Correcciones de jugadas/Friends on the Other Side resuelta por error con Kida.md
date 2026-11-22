@@ -12,7 +12,7 @@ La corrección es un Card Count Error, Warning en Competitive: la resolución in
 
 ## 📘 Referencias
 
-- [[2.3 Error en el conteo de cartas (Card Count Error)|Corrección de cartas de más y de menos]]
+- [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)|Corrección de cartas de más y de menos]]
 - [[3.7.1 Elegibilidad y limitaciones de takebacks|Información adicional impide reabrir la línea]]
 - [Friends On The Other Side](https://cards.lorcast.io/card/digital/large/crd_f9097c53f99d488aa8685b73ea5a9373.avif?1709690747) y [Kida - Creative Thinker](https://cards.lorcast.io/card/digital/large/crd_19e9e680d0d044d6a5fa0d39b5ab3206.avif?1740589756).
 

@@ -20,7 +20,7 @@ Si lo ocurrido fue un error de reglas durante la resolución, hay que llamar al 
 - [[3.7.1 Elegibilidad y limitaciones de takebacks|Tournament Rules 3.7.1 — los efectos y habilidades disparadas que se resuelven cuentan como información adicional]].
 - [[3.7.3 Ejemplos de takebacks permitidos|Tournament Rules 3.7.3 — solicitudes inmediatas antes de resolver]].
 - [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3 — alcanzar 20 de lore gana la partida]].
-- [[2.4 Error general de reglas (General Rule Error)|General Rule Error — pedir corrección si se cometió un error de reglas]].
+- [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)|General Rule Error — pedir corrección si se cometió un error de reglas]].
 
 Fuentes oficiales vigentes: [Comprehensive Rules 2.3.0 (16/10/2026)](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 

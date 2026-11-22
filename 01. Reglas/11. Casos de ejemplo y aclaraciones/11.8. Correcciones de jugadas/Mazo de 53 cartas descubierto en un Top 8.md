@@ -14,7 +14,7 @@ No hay una Match Loss automática por el mero descubrimiento. En un Set Champion
 
 - [[1.3. Formatos de Torneo|Mínimo de 60 cartas en Construido]]
 - [[3.8 Registro de Mazos (Deck Registration)|Registro obligatorio]]
-- [[3.4 Error de mazo-registro mayor (Deck-Registration Error major)|DRE Major y su solución]]
+- [[3. Errores de torneo#3.4 Error de mazo-registro mayor (Deck-Registration Error major)|DRE Major y su solución]]
 
 ---
 

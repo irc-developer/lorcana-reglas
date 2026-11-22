@@ -13,7 +13,7 @@ Es un Card Count Error en un torneo Competitive y corresponde una Warning. Prime
 ## 📘 Referencias
 
 - [[3.4 Procedimiento de Partida (Match Procedure)|Una sola alteración de la mano inicial]]
-- [[2.3 Error en el conteo de cartas (Card Count Error)|Card Count Error]]
+- [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)|Card Count Error]]
 
 ---
 

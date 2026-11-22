@@ -13,8 +13,8 @@ Depende de dónde terminó la carta. Si se añadió a la mano, hay una carta de 
 ## 📘 Referencias
 
 - [Mushu - Stealthy Dragon](https://cards.lorcast.io/card/digital/large/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871): el robo solo es posible si un oponente tiene más cartas en su mano.
-- [[2.2 Error de información oculta (Hidden Information Error)|Hidden Information Error]]
-- [[2.3 Error en el conteo de cartas (Card Count Error)|Card Count Error]]
+- [[2. Errores de reglas#2.2 Error de información oculta (Hidden Information Error)|Hidden Information Error]]
+- [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)|Card Count Error]]
 
 ---
 

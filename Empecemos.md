@@ -8,8 +8,6 @@ Este sitio está diseñado para ayudar a **jugadores/as, juezas/es y organizador
 
 Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octubre y aplicables desde el **16 de octubre de 2026**. El PDF inglés es la fuente normativa; esta documentación en español es una adaptación explicativa.
 
-> **Actualización 2.3:** [[Reglas completas de Disney Lorcana 2.3|resumen de las reglas vigentes]], [[1.13. Contadores (Counters)|contadores y gotas de tinta]] y [[8.16. Aventurero (Adventurous)|Adventurous]].
-
 > ***Hago esto porque ojalá hubiera tenido yo algo así cuando empecé en Lorcana.***
 
 ---
@@ -35,6 +33,8 @@ Esta guía incorpora las **Comprehensive Rules 2.3.0**, publicadas el 8 de octub
 
 ### ⚖️ Guía de Arbitraje y Corrección de Errores
 > ¿Te interesa ser juez o árbitro de Lorcana? Aquí tienes una guía paso a paso para formarte y arbitrar con confianza.
+
+> [[04. Guia de correccion de jugadas/1. Introducción]] · [[2. Errores de reglas]] · [[3. Errores de torneo]] · [[4. Conducta antideportiva]] · [[5. Consejos generales]]
 
 ---
 
