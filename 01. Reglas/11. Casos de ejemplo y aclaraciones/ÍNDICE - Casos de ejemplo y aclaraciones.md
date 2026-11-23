@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 262 | **Última actualización:** 22 de noviembre de 2026
+**Total de casos:** 262 | **Última actualización:** 23 de noviembre de 2026
 
 ---
 

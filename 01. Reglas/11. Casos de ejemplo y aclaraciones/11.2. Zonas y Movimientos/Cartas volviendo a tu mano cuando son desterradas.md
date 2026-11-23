@@ -1,44 +1,30 @@
 ## ❓ Duda
 
-Cuando una carta dice que “al ser desterrada” vuelve a tu mano (por ejemplo, [HeiHei - Persistent Presence](https://cards.lorcast.io/card/digital/large/crd_907f9d8972fd47b6903590bd53f1e662.avif?1709690747) o [Gale - Wind Spirit](https://cards.lorcast.io/card/digital/large/crd_a9888f3a8e1845588922ff69068e6f78.avif?1723917209)), ¿pasa primero por el descarte o vuelve directamente?  
-Y si esa carta estaba debajo de otra en una pila (por Boost), ¿se considera desterrada para disparar esa habilidad?
+La reimpresión de [Heihei - Persistent Presence](https://cards.lorcast.io/card/digital/large/crd_122d3f9ccb034f7d9e59245d311a7004.avif?1770259460) en *Winterspell* dice que vuelve a tu mano «desde tu descarte». La impresión de [HeiHei - Persistent Presence](https://cards.lorcast.io/card/digital/large/crd_907f9d8972fd47b6903590bd53f1e662.avif?1709690747) en *Rise of the Floodborn* y [Will o' the Wisp - Forest Spirit](https://cards.lorcast.io/card/digital/large/crd_4d61ccc401a942719bfcafde3a132578.avif?1777687337) solo dicen que la carta vuelve a tu mano. ¿Qué regla determina si Will o' the Wisp también pasa por el descarte cuando es desterrado en un desafío?
 
 ---
 
 ## ✅ Respuesta
 
-Pasa primero por el descarte y luego vuelve a la mano cuando se resuelve su habilidad.  
-No es un cambio funcional nuevo: la redacción que especifica “desde el descarte” aclara una secuencia que ya seguía el flujo de zonas.
+**Will o' the Wisp pasa por el descarte, igual que HeiHei en ambas impresiones.** La reimpresión hace explícita la zona desde la que se recoge la carta. El recorrido se deduce de dos partes de la frase «cuando este personaje sea desterrado en un desafío, puedes devolver esta carta a tu mano».
 
-Si la carta estaba debajo de otra en una pila, no se considera en juego como carta independiente. Cuando la carta superior sale de la zona de juego, toda la pila se mueve a la misma zona; por tanto, la carta “under” no dispara por sí sola un “cuando este personaje sea desterrado” como si estuviera en juego independiente.
+1. **«Cuando este personaje sea desterrado en un desafío» es la condición de disparo.** Según el glosario, desterrar un personaje significa moverlo de la zona de juego al descarte. Antes de que la carta salga de juego, se comprueba si ese movimiento dispararía *Come On Out*. Al cumplirse la condición, la habilidad se añade a la bolsa.
+2. **«Puedes devolver esta carta a tu mano» es el efecto que se resuelve desde la bolsa.** Para entonces, el destierro ya ha movido la carta al descarte. Si eliges devolverla y sigue en el descarte, pasa del descarte a tu mano. El ejemplo B del desafío en las reglas muestra esta misma secuencia con una habilidad que tiene el mismo texto.
 
-Esto también puede cumplir una condición que comprueba si una carta ha salido del descarte este turno. Por ejemplo, si [Will o' the Wisp - Forest Spirit](https://cards.lorcast.io/card/digital/large/crd_4d61ccc401a942719bfcafde3a132578.avif?1777687337) es desterrado en un desafío, su habilidad *Come On Out* se dispara. Si al resolverla eliges devolverlo a tu mano, Will o' the Wisp habrá salido del descarte. En consecuencia, [Anna - Soothing Sister](https://cards.lorcast.io/card/digital/large/crd_be89cf4d06b54426801f296b3cbf751d.avif?1770259425) obtiene *Shift* 0 {I} durante ese turno.
+Si Will o' the Wisp vuelve así a la mano, ha salido del descarte este turno y se cumple la condición de [Anna - Soothing Sister](https://cards.lorcast.io/card/digital/large/crd_be89cf4d06b54426801f296b3cbf751d.avif?1770259425) para obtener *Shift* 0. Puedes usar ese coste alternativo después de que termine el desafío si es tu turno, tienes esa carta en mano y tienes otro personaje llamado Anna en juego.
 
-La habilidad de Anna no se dispara: *Shift* es una habilidad estática, y el regreso de Will o' the Wisp hace que se cumpla su condición. La habilidad de Will se resuelve dentro de la bolsa del desafío; podrás usar el *Shift* de Anna cuando el desafío termine si eres el jugador activo, sigues en ese turno y tienes otro personaje llamado Anna en juego.
+Si una de estas cartas estaba debajo de otra en una pila, como ocurre con *Boost*, se mueve al descarte con la carta superior cuando esta es desterrada. Solo la carta superior se considera en juego, de modo que la carta de debajo no dispara su propia habilidad de retorno.
 
 ---
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)|7.4.3. Cartas abandonando la zona de Juego]]
-- [[7.6. Pila de descarte (Discard pile)|7.6.1. Definición de descarte]]
-- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]
-- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila (In a stack)]]
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.3. Evaluación cíclica]]: los disparos por el destierro se resuelven en la bolsa antes de continuar.
-- [[4.6 Desafío (Challenge)]]: el efecto de Will o' the Wisp se resuelve durante la bolsa del desafío.
-- [[8.10. Cambio (Shift)|8.10.1. Definición]]: *Shift* es una habilidad estática que permite jugar la carta pagando un coste alternativo.
-- [CR 2.3.0, 4.6.7, p. 15](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=15): cierre normal del desafío. [CR 2.3.0, 4.6.9–4.6.9.2, pp. 16–18](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=16): si un participante sale del desafío, se resuelven los disparos pendientes antes de cerrarlo. El ejemplo B muestra una devolución a la mano como la de Will o' the Wisp.
-- [CR 2.3.0, 8.10.1, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
-
----
-
-## 🔄 Cómo se resuelve
-
-1. **Evento de inicio**: ocurre el evento que destierra al personaje.
-2. **Costes y requisitos (si aplica)**: no hay pago de coste adicional en este caso.
-3. **Elecciones y objetivos**: no aplica objetivo adicional para el propio evento de destierro.
-4. **Resolución**: la carta abandona zona de juego y entra en descarte; si su texto tiene trigger de retorno, queda preparado para bolsa.
-5. **Disparos y bolsa**: la habilidad de retorno entra en la bolsa y, al resolverse, mueve la carta del descarte a la mano.
+- [[Glosario|Desterrar (banish)]] en las [CR 2.3.0, p. 47](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=47).
+- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.2 y 6.2.3. Condición de disparo y bolsa]] en las [CR 2.3.0, p. 30](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30).
+- [[7.4. Juego (Play)|7.4.3. Disparos al salir de juego]] en las [CR 2.3.0, p. 39](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=39) y [[7.7. Bolsa (Bag)|7.7.1. Habilidades que esperan en la bolsa]] en la [p. 40](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=40).
+- [[4.6 Desafío (Challenge)|4.6.9. Resolución de la bolsa antes de cerrar el desafío]] y [ejemplo B de las CR 2.3.0, p. 17](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=17).
+- [[8.10. Cambio (Shift)|8.10.1. Shift como coste alternativo]] en las [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
+- [[5.1. Estados de las cartas (Card States)|5.1.1.5 y 5.1.1.7. Cartas debajo y en una pila]] en las [CR 2.3.0, pp. 19–20](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=19).
 
 ---
 
