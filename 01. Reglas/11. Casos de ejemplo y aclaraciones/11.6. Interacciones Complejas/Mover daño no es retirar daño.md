@@ -19,10 +19,17 @@ Si un efecto solo indica retirar daño, los contadores se quitan de la carta. Cu
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|CR 2.3.0, 1.9.2.3–1.9.3, p. 7]]. Retirar, mover y recibir daño.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 2.3.0, 6.7.4–6.7.5, pp. 36–37]]. Los disparos esperan a que se resuelva la habilidad y el chequeo de estado se hace después de sus efectos.
-- [[8.8. Resistir (Resist)|CR 2.3.0, 8.8.3, p. 42]]. Resist ante daño movido o puesto.
-- Las notas del set confirman que mover daño puede disparar **Do No Wrong** y que retirar varios contadores juntos genera un solo disparo. [Notas oficiales de Wilds Unknown, p. 6](https://files.disneylorcana.com/Wilds-Unknown_SetReleaseNotes_EN.pdf#page=6).
+### Wiki de Lorcana
+
+- [[1.9. Daño (Damage)|Retirar, mover y recibir daño]]
+- [[Luisa Madrigal - I Can Take It, condición Then-if y GSC|Cómo se resuelven las dos instrucciones de I Can Take It]]
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cuándo se resuelven los disparos y se comprueba el estado del juego]]
+- [[8.8. Resistir (Resist)|Cómo se aplica Resistir al daño movido o puesto]]
+
+### Fuentes oficiales
+
+- [Notas de Wilds Unknown, p. 6](https://files.disneylorcana.com/Wilds-Unknown_SetReleaseNotes_EN.pdf#page=6). La aclaración de **Do No Wrong** confirma que mover daño cuenta como retirarlo y que retirar varios contadores juntos genera un solo disparo.
+- **Comprehensive Rules 2.3.0.** Retirar, mover y recibir daño, §§ 1.9.2.3, 1.9.2.4 y 1.9.3 (p. 7). Disparos y chequeo de estado, §§ 6.7.4 y 6.7.5 (pp. 36–37). Resistir, § 8.8.3 (p. 42).
 
 ---
 
