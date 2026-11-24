@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 262 | **Última actualización:** 23 de noviembre de 2026
+**Total de casos:** 263 | **Última actualización:** 24 de noviembre de 2026
 
 ---
 
@@ -293,7 +293,7 @@ La subsección reúne seis casos desarrollados y una interacción pendiente de a
 
 ---
 
-### 11.8. Correcciones de jugadas (28 casos)
+### 11.8. Correcciones de jugadas (29 casos)
 
 Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante una partida.
 
@@ -325,6 +325,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 26. [Minnie Mouse - Practical Traveler y lore olvidado.md](<11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado.md>)
 27. [Higiene personal, tapetes y vestimenta en torneos.md](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>) — Requisitos expresos de limpieza y alcance del consejo de higiene personal.
 28. [Disparo anunciado y total de lore incorrecto.md](<11.8. Correcciones de jugadas/Disparo anunciado y total de lore incorrecto.md>) — Distingue un disparo reconocido de un error de información que motivó una decisión.
+29. [Judy Hopps y una carta puesta en la mano sin revelar.md](<11.8. Correcciones de jugadas/Judy Hopps y una carta puesta en la mano sin revelar.md>) — Evalúa el remedio cuando la mano ya se mezcló y hubo una jugada posterior.
 
 ---
 
@@ -391,15 +392,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 45 | 17.2% |
+| **11.0 Timing y Resolución** | 45 | 17.1% |
 | **11.2 Zonas y Movimientos** | 26 | 9.9% |
 | **11.3 Costes y Requisitos** | 26 | 9.9% |
-| **11.4 Habilidades** | 38 | 14.5% |
-| **11.5 Keywords** | 24 | 9.2% |
-| **11.6 Interacciones Complejas** | 68 | 26.0% |
+| **11.4 Habilidades** | 38 | 14.4% |
+| **11.5 Keywords** | 24 | 9.1% |
+| **11.6 Interacciones Complejas** | 68 | 25.9% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
-| **11.8 Correcciones de jugadas** | 28 | 10.7% |
-| **TOTAL** | **262** | **100%** |
+| **11.8 Correcciones de jugadas** | 29 | 11.0% |
+| **TOTAL** | **263** | **100%** |
 
 ---
 
@@ -459,6 +460,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Flash y Madam Mim - Fox**: [Rush vuelve a aplicarse al devolver Flash a la mano](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>)
 - **Mover al mismo lugar**: [El intento de acción de turno se deshace; un efecto no produce movimiento](<11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago.md>)
 - **Higiene y limpieza en torneos**: [Tapetes limpios, vestimenta para contenido y consejo de higiene personal](<11.8. Correcciones de jugadas/Higiene personal, tapetes y vestimenta en torneos.md>)
+- **Carta sin revelar en torneo**: [Judy Hopps y el remedio tras mezclar la mano](<11.8. Correcciones de jugadas/Judy Hopps y una carta puesta en la mano sin revelar.md>)
 - **Hyperia City, desde 16/10/2026**: [Clawhauser - Safety Officer no ignora su condición al jugarse gratis](<11.3. Costes y Requisitos/Clawhauser - Safety Officer no ignora su condición al jugarse gratis.md>)
 - **Hyperia City, desde 16/10/2026**: [Flippant Taunt mantiene su efecto cuando su jugador abandona la partida](<11.7. Dudas por desarrollar/Flippant Taunt mantiene su efecto cuando su jugador abandona la partida.md>)
 - **Hyperia City, desde 16/10/2026**: [Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados](<11.0. Timing y Resolución/Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados.md>)
