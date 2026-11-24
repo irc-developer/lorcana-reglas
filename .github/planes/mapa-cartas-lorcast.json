@@ -3836,6 +3836,34 @@
       "imagen": "https://cards.lorcast.io/card/digital/large/crd_6e2faccbf9a240219279b1c4acff7bd5.avif?1709690747",
       "obtenido": "2026-10-09",
       "estado": "resuelto"
+    },
+    "02. Listado de Cartas/Set 12 - Wilds Unknown.md#Isabela Madrigal - Caring Cultivator": {
+      "archivo_local": "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+      "epigrafe": "Isabela Madrigal - Caring Cultivator",
+      "ficha_verificada": "Isabela Madrigal - Caring Cultivator",
+      "nombre": "Isabela Madrigal",
+      "version": "Caring Cultivator",
+      "set": "12",
+      "numero": "19",
+      "idioma": "en",
+      "id": "crd_36cd916ef6924852970d3b63c2666f74",
+      "imagen": "https://cards.lorcast.io/card/digital/large/crd_36cd916ef6924852970d3b63c2666f74.avif?1777687193",
+      "obtenido": "2026-11-24",
+      "estado": "resuelto"
+    },
+    "02. Listado de Cartas/Set 12 - Wilds Unknown.md#Luisa Madrigal - Confident Climber": {
+      "archivo_local": "02. Listado de Cartas/Set 12 - Wilds Unknown.md",
+      "epigrafe": "Luisa Madrigal - Confident Climber",
+      "ficha_verificada": "Luisa Madrigal - Confident Climber",
+      "nombre": "Luisa Madrigal",
+      "version": "Confident Climber",
+      "set": "12",
+      "numero": "60",
+      "idioma": "en",
+      "id": "crd_46ca002a8945440398b20c8e4ad6b6eb",
+      "imagen": "https://cards.lorcast.io/card/digital/large/crd_46ca002a8945440398b20c8e4ad6b6eb.avif?1777687396",
+      "obtenido": "2026-11-24",
+      "estado": "resuelto"
     }
   }
 }

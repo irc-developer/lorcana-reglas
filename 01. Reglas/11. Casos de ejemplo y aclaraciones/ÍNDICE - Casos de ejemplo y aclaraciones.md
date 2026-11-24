@@ -240,7 +240,7 @@ Casos que involucran múltiples cartas, combinaciones complejas y escenarios ava
 30. [Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md](<11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño.md>)
 31. [Modifica su fuerza mientras reta.md](<11.6. Interacciones Complejas/Modifica su fuerza mientras reta.md>)
 32. [Mor'du y Simba - enderezar al final del turno vs ready del inicio.md](<11.6. Interacciones Complejas/Mor'du y Simba - enderezar al final del turno vs ready del inicio.md>)
-33. [Mover daño no es retirar daño.md](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
+33. [Mover daño cuenta como retirar daño](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
 34. [Oswald y Keep the Ancient Ways.md](<11.6. Interacciones Complejas/Oswald y Keep the Ancient Ways.md>) — La canción impide jugar objetos gratis con Gadget Hackwrench y Oswald.
 35. [Piercing Attack ignora Resist de Omnidroid.md](<11.6. Interacciones Complejas/Piercing Attack ignora Resist de Omnidroid.md>) **(NUEVO: ATTACK OF THE VINE)**
 36. [Potato Shift sobre Morph — confirmado oficialmente](<11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph.md>) **(NUEVO: ATTACK OF THE VINE)**
@@ -409,6 +409,7 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Tod y retirada de daño sin chosen**: [I'm Never Not by Your Side: elección pendiente de aclaración](<11.7. Dudas por desarrollar/Tod e I'm Never Not by Your Side - elección pendiente de aclaración.md>)
 
 ### Por mecánica de cartas
+- **Isabela y Luisa Madrigal** — [Dos retiradas de daño generan dos disparos de Do No Wrong](<11.6. Interacciones Complejas/Mover daño no es retirar daño.md>)
 - **Stone by Day y robo de turno** — [Preparar con dos cartas en la mano antes de robar la tercera](<11.4. Habilidades/Enderezar un personaje.md>)
 - **Woody y Grandmother Willow** — [Coste impreso y descuento al jugar gratis](<11.3. Costes y Requisitos/Woody y Grandmother Willow - el coste impreso al jugar gratis.md>)
 - **Acumulación de palabras clave** — [Duración de Evasivo, Temerario y Apoyo](<11.5. Keywords/Palabras clave repetidas y duración.md>)

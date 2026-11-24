@@ -1,59 +1,31 @@
 ## ❓ Duda
 
-¿Cuando se mueve un daño de un personaje a otro se considera que estamos eliminando el daño de un personaje para ponérselo a otro?
+¿Mover daño cuenta como retirarlo? Si controlas a [Isabela Madrigal - Caring Cultivator](https://cards.lorcast.io/card/digital/large/crd_36cd916ef6924852970d3b63c2666f74.avif?1777687193) y a [Luisa Madrigal - Confident Climber](https://cards.lorcast.io/card/digital/large/crd_46ca002a8945440398b20c8e4ad6b6eb.avif?1777687396), ¿cuánto lore ganas cuando Luisa mueve 1 daño de otro personaje tuyo hacia sí misma y después mueve sus 3 daños a un personaje rival que puede elegir?
+
+---
 
 ## ✅ Respuesta
 
-Sí. La propia redacción actual de las **Comprehensive Rules** ya lo deja desarrollado: **mover daño implica quitar contadores de daño del origen y colocarlos en el destino**, aunque el juego siga tratando todo ello como una única acción de "mover daño".
+**Ganas 4 de lore al resolver los dos disparos de Do No Wrong.** Mover daño retira los contadores del origen y los pone en el destino. Cada uno de los dos movimientos retira daño de un personaje tuyo.
 
-La forma más precisa de leerlo es esta:
+1. Luisa empieza con 2 daños. Mueve 1 desde otro personaje tuyo hacia ella. Al retirar ese contador del primer personaje, **Do No Wrong** se dispara por **1 de lore**.
+2. Luisa ya tiene 3 daños y los mueve juntos al personaje rival. Al retirarlos de Luisa, **Do No Wrong** se dispara una vez por **3 de lore**.
 
-- **Retirar daño** describe quitar contadores de daño de un personaje o localización.
-- **Poner daño** describe colocar contadores de daño sobre un personaje o localización.
-- **Mover daño** sigue siendo un verbo propio de reglas, pero su definición ya incorpora esas dos operaciones: quitar del origen y poner en el destino.
+Los dos disparos esperan en la bolsa hasta que termine de resolverse **I Can Take It**.
 
-Por eso, cuando se mueve daño:
-
-- el personaje o localización de **origen** pierde contadores de daño;
-- el personaje o localización de **destino** recibe daño, porque recibir daño incluye que el daño sea infligido, colocado o movido.
-
-Lo que **no** cambia es el alcance de una instrucción. Si un efecto solo te dice **retirar daño**, eso no te da permiso para escoger un destino y recolocarlo allí; para eso el texto debe decir expresamente que lo **mueves**.
+Si un efecto solo indica retirar daño, los contadores se quitan de la carta. Cuando el efecto los mueve, el destino recibe ese daño. Resist solo reduce daño infligido. Si el destino acaba con daño letal, se destierra durante el chequeo de estado posterior a la resolución.
 
 ---
 
 ## 📘 Referencias
 
-**Definición: la propia regla de Move ya desarrolla el quitar del origen y poner en el destino**
-
-La definición general del daño distingue los verbos "remove", "put" y "move", pero la propia definición de "move" ya desarrolla exactamente esas dos operaciones: quitar contadores de daño de un objeto y colocarlos sobre otro. Por eso esta lectura ya sale del texto de reglas, sin necesidad de apoyarse en una nota editorial adicional.
-
-**Definición: el destino del daño movido recibe daño**
-
-La regla de "take" indica que un personaje o localización recibe daño cuando se le inflige, se le coloca o se le mueve daño.
-
-**Definición: Resist no afecta al daño movido**
-
-Esto confirma que el daño movido no se trata como daño infligido, pero sigue siendo daño puesto sobre el destino.
-
-- [[1.9. Daño (Damage)|1.9.1. Contadores de daño]]
-- [[1.9. Daño (Damage)|1.9.2.2. Poner daño]]
-- [[1.9. Daño (Damage)|1.9.2.3. Retirar daño]]
-- [[1.9. Daño (Damage)|1.9.2.4. Mover daño]]
-- [[1.9. Daño (Damage)|1.9.3. Recibir daño]]
-- [[8.8. Resistir (Resist)|8.8.3 Daño movido o puesto]]
-
----
-
-## 🔄 Cómo se resuelve
-
-1. Un efecto indica **mover** una cantidad de daño desde un origen válido a un destino válido.
-2. Al resolverse, esa cantidad de contadores de daño se **quita** del origen.
-3. Esos mismos contadores se **colocan** sobre el destino.
-4. La propia definición de **Move** deja visible que eso incluye **retirar** daño del origen y **poner** daño en el destino dentro de la misma resolución.
-5. Cuando el efecto termina de resolverse, se hace el chequeo de estado del juego; si el destino tiene daño letal, será desterrado en ese momento.
+- [[1.9. Daño (Damage)|CR 2.3.0, 1.9.2.3–1.9.3, p. 7]]. Retirar, mover y recibir daño.
+- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 2.3.0, 6.7.4–6.7.5, pp. 36–37]]. Los disparos esperan a que se resuelva la habilidad y el chequeo de estado se hace después de sus efectos.
+- [[8.8. Resistir (Resist)|CR 2.3.0, 8.8.3, p. 42]]. Resist ante daño movido o puesto.
+- Las notas del set confirman que mover daño puede disparar **Do No Wrong** y que retirar varios contadores juntos genera un solo disparo. [Notas oficiales de Wilds Unknown, p. 6](https://files.disneylorcana.com/Wilds-Unknown_SetReleaseNotes_EN.pdf#page=6).
 
 ---
 
 ## 🏷️ Tags
 
-#damage #move-damage #resist #gsc
+#damage #move-damage #resist #gsc #triggered-ability #lore-gain
