@@ -1,6 +1,6 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 263 | **Última actualización:** 24 de noviembre de 2026
+**Total de casos:** 264 | **Última actualización:** 27 de noviembre de 2026
 
 ---
 
@@ -62,7 +62,7 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 
 ---
 
-### 11.2. Zonas y Movimientos (26 casos)
+### 11.2. Zonas y Movimientos (27 casos)
 
 Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo).
 
@@ -70,28 +70,29 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 2. [Anna - Braving the Storm no funciona en descarte.md](<11.2. Zonas y Movimientos/Anna - Braving the Storm no funciona en descarte.md>)
 3. [Be Prepared con Sid Phillips - Toy Surgeon.md](<11.2. Zonas y Movimientos/Be Prepared con Sid Phillips - Toy Surgeon.md>)
 4. [Be Prepared y devolver personajes a la mano.md](<11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano.md>)
-5. [Carta que me impide el descarte vs carta que me indica descartar.md](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>) — Kronk con Megara y Sign the Scroll: el descarte está impedido y quien juega la acción gana 2 lore por ese oponente.
-6. [Cartas volviendo a tu mano cuando son desterradas.md](<11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md>)
-7. [Desterrar y volver a la mano desde la zona de juego.md](<11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md>)
-8. [Elegir 0 cartas para barajar en el mazo no baraja el mazo.md](<11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md>)
-9. [Escoger robar la carta superior o no.md](<11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md>)
-10. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) — Incluye Flash y Madam Mim - Fox: Mim recupera Rush cuando Flash vuelve a la mano.
-11. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
-12. [Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>) — Incluye The Cold Never Bothered Me: mirar no cambia la zona de origen y cada copia genera su disparo.
-13. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
-14. [Look What You've Done no se dispara al terminar de resolverse.md](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>) **(NUEVO: ATTACK OF THE VINE)**
-15. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
-16. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>) — The Horned King no evita la restricción de nombres; Retro Evolution Device puede volver a jugar al mismo Mickey desterrado si su nombre sigue permitido.
-17. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
-18. [Sulley & Boo permite jugar las cartas que estaban boca abajo.md](<11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md>) **(NUEVO: ATTACK OF THE VINE)**
-19. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
-20. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
-21. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
-22. [Ursula - Deal Maker solo puede elegir un personaje en juego.md](<11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md>)
-23. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>) — Elegir a dos Iago ilesos con Making Magic dispara Vanish dos veces.
-24. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
-25. [Diablo y el robo aparente tras un desafío.md](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>) **(DISCORD 2026)**
-26. [Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron](<11.2. Zonas y Movimientos/Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+5. [Buscar en el mazo y cuándo barajar.md](<11.2. Zonas y Movimientos/Buscar en el mazo y cuándo barajar.md>)
+6. [Carta que me impide el descarte vs carta que me indica descartar.md](<11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar.md>) — Kronk con Megara y Sign the Scroll: el descarte está impedido y quien juega la acción gana 2 lore por ese oponente.
+7. [Cartas volviendo a tu mano cuando son desterradas.md](<11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas.md>)
+8. [Desterrar y volver a la mano desde la zona de juego.md](<11.2. Zonas y Movimientos/Desterrar y volver a la mano desde la zona de juego.md>)
+9. [Elegir 0 cartas para barajar en el mazo no baraja el mazo.md](<11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo.md>)
+10. [Escoger robar la carta superior o no.md](<11.2. Zonas y Movimientos/Escoger robar la carta superior o no.md>)
+11. [Fuente estática abandona el juego.md](<11.2. Zonas y Movimientos/Fuente estática abandona el juego.md>) — Incluye Flash y Madam Mim - Fox: Mim recupera Rush cuando Flash vuelve a la mano.
+12. [Hades - Looking for a Deal sobre personaje con Boost.md](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
+13. [Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md](<11.2. Zonas y Movimientos/Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner.md>) — Incluye The Cold Never Bothered Me: mirar no cambia la zona de origen y cada copia genera su disparo.
+14. [Hide Away sobre The Black Cauldron con Hades debajo.md](<11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo.md>)
+15. [Look What You've Done no se dispara al terminar de resolverse.md](<11.2. Zonas y Movimientos/Look What You've Done no se dispara al terminar de resolverse.md>) **(NUEVO: ATTACK OF THE VINE)**
+16. [Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md](<11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald.md>)
+17. [Remember Me permite jugar personajes desde la mano y el descarte.md](<11.2. Zonas y Movimientos/Remember Me permite jugar personajes desde la mano y el descarte.md>) — The Horned King no evita la restricción de nombres; Retro Evolution Device puede volver a jugar al mismo Mickey desterrado si su nombre sigue permitido.
+18. [Revelar cartas del mazo.md](<11.2. Zonas y Movimientos/Revelar cartas del mazo.md>)
+19. [Sulley & Boo permite jugar las cartas que estaban boca abajo.md](<11.2. Zonas y Movimientos/Sulley & Boo permite jugar las cartas que estaban boca abajo.md>) **(NUEVO: ATTACK OF THE VINE)**
+20. [The Queen - Conceited Ruler y descarte sin retorno.md](<11.2. Zonas y Movimientos/The Queen - Conceited Ruler y descarte sin retorno.md>)
+21. [Tod + You Came Back y habilidades en el Bolsa.md](<11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa.md>)
+22. [Under the Sea y reordenación de pilas al mazo.md](<11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo.md>)
+23. [Ursula - Deal Maker solo puede elegir un personaje en juego.md](<11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego.md>)
+24. [Vanish e interacciones.md](<11.2. Zonas y Movimientos/Vanish e interacciones.md>) — Elegir a dos Iago ilesos con Making Magic dispara Vanish dos veces.
+25. [Ward, funcionamiento en descarte.md](<11.2. Zonas y Movimientos/Ward, funcionamiento en descarte.md>)
+26. [Diablo y el robo aparente tras un desafío.md](<11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío.md>) **(DISCORD 2026)**
+27. [Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron](<11.2. Zonas y Movimientos/Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron.md>) **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
 
 ---
 
@@ -392,15 +393,15 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 
 | Categoría                        | Casos | % Total |
 | -------------------------------- | ----- | ------- |
-| **11.0 Timing y Resolución** | 45 | 17.1% |
-| **11.2 Zonas y Movimientos** | 26 | 9.9% |
-| **11.3 Costes y Requisitos** | 26 | 9.9% |
+| **11.0 Timing y Resolución** | 45 | 17.0% |
+| **11.2 Zonas y Movimientos** | 27 | 10.2% |
+| **11.3 Costes y Requisitos** | 26 | 9.8% |
 | **11.4 Habilidades** | 38 | 14.4% |
 | **11.5 Keywords** | 24 | 9.1% |
-| **11.6 Interacciones Complejas** | 68 | 25.9% |
+| **11.6 Interacciones Complejas** | 68 | 25.8% |
 | **11.7 Dudas por desarrollar** | 7 | 2.7% |
 | **11.8 Correcciones de jugadas** | 29 | 11.0% |
-| **TOTAL** | **263** | **100%** |
+| **TOTAL** | **264** | **100%** |
 
 ---
 
@@ -453,6 +454,8 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Boost**: [Boost olvidado al poner carta debajo en torneo](<11.5. Keywords/Boost olvidado al poner carta debajo en torneo.md>) | [Fairy Godmother – Magical x2](<11.5. Keywords/Fairy Godmother – Magical x2.md>) | [Hades - Looking for a Deal sobre personaje con Boost](<11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost.md>)
 
 ### Por concepto
+- **Buscar en el mazo**: [Cuándo hay que barajar y qué hacer si solo miras las cartas superiores](<11.2. Zonas y Movimientos/Buscar en el mazo y cuándo barajar.md>)
+
 - **Elegir entre coste normal y jugar gratis**: [Pudge permite pagar las 2 {I} aunque puedas jugarlo gratis](<11.3. Costes y Requisitos/Pudge - jugar gratis no impide pagar tinta.md>)
 
 - **Recuperar un objeto y jugarlo entre disparos**: [Honey Lemon y su laboratorio: el objeto debe estar en juego al resolver el destierro](<11.0. Timing y Resolución/Honey Lemon y su laboratorio - recuperar no permite jugar entre disparos.md>)
