@@ -50,11 +50,11 @@ Puedes terminar el turno aunque Mickey esté preparado. También puede cantar, p
 
 La regla 8.1.2 sobre duraciones de palabras clave repetidas no cambia esta interacción: Adventurous y Reckless son dos palabras clave distintas. Cuando termine el efecto que le concede Reckless, Mickey volverá a estar sujeto solo a Adventurous, salvo que otro efecto mantenga la prohibición de irse de aventura.
 
-Esta variante usa **CR 2.3.0 y las cartas de Hyperia City**, con entrada en vigor el 16 de octubre de 2026. Adventurous se define en 8.16: prohíbe desafiar e impide declarar el final del turno si el personaje está preparado y puede irse de aventura.
+Esta variante usa **CR 2.3.0 y las cartas de Hyperia City**. Adventurous se define en 8.16: prohíbe desafiar e impide declarar el final del turno si el personaje está preparado y puede irse de aventura.
 
 ---
 
-### Errata de This Growing Pressure, desde el 16/10/2026
+### Errata de This Growing Pressure
 
 La actualización oficial sustituye la redacción previa de obligación de aventura por la concesión de Adventurous, conservando la duración propia del efecto. La prohibición de Strange Things sigue impidiendo la aventura: Adventurous no la anula, y el personaje tampoco puede desafiar. Cantar, pagar costes de agotamiento y moverse siguen siendo posibles si se cumplen sus requisitos.
 

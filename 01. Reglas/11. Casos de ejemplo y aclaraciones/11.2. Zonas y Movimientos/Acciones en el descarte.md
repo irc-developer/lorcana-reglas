@@ -13,7 +13,7 @@ Mientras se resuelve [All Is Found](https://cards.lorcast.io/card/digital/large/
 
 ### Contar el descarte y resolver después una habilidad
 
-**Hyperia City, desde el 16/10/2026:** [Everyone Knows Juanita](https://cards.lorcast.io/card/digital/large/crd_7799029b28da4f72b7755e36a9f8c3a6.avif?1790278554) no se cuenta entre las diez cartas de su propio efecto: sigue en juego mientras resuelve y va al descarte después. Con nueve cartas en el descarte al resolver, robas dos; no tres por sumar la canción que estás jugando.
+**Hyperia City:** [Everyone Knows Juanita](https://cards.lorcast.io/card/digital/large/crd_7799029b28da4f72b7755e36a9f8c3a6.avif?1790278554) no se cuenta entre las diez cartas de su propio efecto: sigue en juego mientras resuelve y va al descarte después. Con nueve cartas en el descarte al resolver, robas dos; no tres por sumar la canción que estás jugando.
 
 Esto se distingue de [[Jukebox requiere otra canción con el mismo nombre en el descarte|Jukebox]], cuyo disparo se resuelve después de la canción. La errata de Jukebox exige además otra carta y evita que la canción recién jugada se cuente a sí misma.
 

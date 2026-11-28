@@ -12,7 +12,7 @@ Seven Dwarfs’ Mine dice **«during your turn, the first time»**: solo el prim
 
 The Bitterwood dice **«once during your turn, whenever»** y exige que el personaje movido tenga Fuerza 5 o más. «Whenever» no elimina ese límite adicional; no es un ejemplo de disparos ilimitados.
 
-**Hyperia City, desde el 16/10/2026:** si [Russell - Junior Wilderness Explorer](https://cards.lorcast.io/card/digital/large/crd_c78da4f23cfe4cb39c87abf0893dbcb4.avif?1783188796) mueve dos personajes simultáneamente a Port Authority, se añaden dos disparos a la bolsa. El primero que se resuelve con efecto da a cada jugador 1 gota y 1 de Leyenda; el segundo resuelve sin efecto porque ya se utilizó «once during your turn». Cada jugador obtiene 1 de cada, no 2.
+**Hyperia City:** si [Russell - Junior Wilderness Explorer](https://cards.lorcast.io/card/digital/large/crd_c78da4f23cfe4cb39c87abf0893dbcb4.avif?1783188796) mueve dos personajes simultáneamente a Port Authority, se añaden dos disparos a la bolsa. El primero que se resuelve con efecto da a cada jugador 1 gota y 1 de Leyenda; el segundo resuelve sin efecto porque ya se utilizó «once during your turn». Cada jugador obtiene 1 de cada, no 2.
 
 Una habilidad que únicamente diga «whenever», sin límite adicional, puede producir su efecto cada vez que ocurra el evento. Cada copia de una carta tiene su propio límite; no son un límite compartido por nombre.
 

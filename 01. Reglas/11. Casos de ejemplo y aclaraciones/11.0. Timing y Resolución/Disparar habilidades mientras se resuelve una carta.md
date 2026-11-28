@@ -2,7 +2,7 @@
 
 Si [Buzz Lightyear - Jungle Ranger](https://cards.lorcast.io/card/digital/large/crd_0b928f0cd5d2473482e07a609205c26b.avif?1777688111) entra en juego mediante [Let's Get Dangerous](https://cards.lorcast.io/card/digital/large/crd_bdf35f1859df44e19594261c5bcede11.avif?1770260086), ¿puede su habilidad TAKE CHARGE devolver esa misma acción del descarte a la mano?
 
-Desde el lanzamiento de Hyperia City, si [Héctor Rivera - Worldwide Sensation](https://cards.lorcast.io/card/digital/large/crd_e0931f5fb3664ed59dc5c600e2e27845.avif?1790886751) canta una canción por primera vez ese turno, ¿puedo resolver **BIG HIT** desde la bolsa antes de resolver la canción?
+Si [Héctor Rivera - Worldwide Sensation](https://cards.lorcast.io/card/digital/large/crd_e0931f5fb3664ed59dc5c600e2e27845.avif?1790886751) canta una canción por primera vez ese turno, ¿puedo resolver **BIG HIT** desde la bolsa antes de resolver la canción?
 
 Si [If She Doesn't Scare You](https://cards.lorcast.io/card/digital/large/crd_00e1c34974a942bbbff49c7fbb2cf2e0.avif?1790886798) destierra a mi único personaje, [Lady Tremaine - Scornful Snob](https://cards.lorcast.io/card/digital/large/crd_69501b880fee49e28903ee6227f0ab08.avif?1790792896), ¿puedo resolver DELICATE SENSIBILITIES para dañarla y robar? Si en su lugar destierro a [The Muses - Proclaimers of Heroes](https://cards.lorcast.io/card/digital/large/crd_12e044565cad4dea9a798105ec0df2f2.avif?1716052430), ¿puedo resolver THE GOSPEL TRUTH después de la canción? Supón que Tremaine aún no ha usado su habilidad ese turno.
 
@@ -24,7 +24,6 @@ Primero se resuelve por completo el efecto de la canción y se coloca esa acció
 
 Por ejemplo, si la canción cambia las cartas de tu mazo, BIG HIT mira las tres cartas superiores que haya **después** de resolver la canción. No puedes adelantar BIG HIT para mirar las que había antes. Si hay otros disparos tuyos pendientes, podrás elegir el orden entre ellos cuando corresponda resolver la bolsa, pero esa elección no adelanta ninguno a la canción.
 
-> [!IMPORTANT] Hyperia City, desde el 16/10/2026
 ### Tremaine y las Musas: la canción destierra la fuente del disparo
 
 **Las dos habilidades se disparan al jugar la canción y esperan en la bolsa, aunque después su personaje sea desterrado. Tremaine no permite robar en este caso; las Musas sí pueden devolver otro personaje legal a la mano.**
@@ -66,7 +65,7 @@ El personaje se elige durante la resolución de la acción y debe cumplir ya su 
 - [[4.3. Jugar una carta (Play a Card)|Jugar una carta]], CR 4.3.2.4, 4.3.3.2 y 4.3.4: pagar, resolver la acción y colocarla en el descarte precede a resolver los disparos pendientes.
 - [[5.4. Acciones (Actions)|Acciones y canciones]], CR 5.4.1.2 y 5.4.4.2: cantar es pagar un coste alternativo; el efecto de una acción no entra en la bolsa.
 - [[4.1. General|Acciones de turno]], CR 4.1.5, y [[7.7. Bolsa (Bag)|Bolsa]], CR 7.7.3.1: añadir un disparo y resolverlo son momentos distintos.
-- [Comprehensive Rules 2.3.0 — PDF oficial](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13), pp. 12–13, 24 y 40, para el caso de Héctor desde el 16/10/2026.
+- [Comprehensive Rules 2.3.0 — PDF oficial](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13), pp. 12–13, 24 y 40, para el caso de Héctor.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 6.7.1.2, 6.7.4 y 6.7.8.
 
 ---

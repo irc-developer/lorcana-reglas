@@ -12,7 +12,7 @@ La obligación significa que el jugador rival no puede terminar su turno sin env
 
 ---
 
-### Errata de Hyperia City, desde el 16/10/2026
+### Errata de Hyperia City
 
 Woody es una de las cinco cartas actualizadas para conceder **Adventurous**, conservando la condición y duración de MOVE ALONG. El resultado de esta duda se mantiene: el personaje no puede desafiar y no puedes terminar el turno mientras pueda irse de aventura, pero puede cantar o pagar costes de agotamiento antes.
 

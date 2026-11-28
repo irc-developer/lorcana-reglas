@@ -14,7 +14,7 @@
 
 [Zipper - Big Helper](https://cards.lorcast.io/card/digital/large/crd_d515c85e0daa4cfd8c3a84154d328cd4.avif?1777688081) no tiene Support impreso. Con Alice presente lo gana, y al questear se disparan Support y BUZZING ENTHUSIASM: el primero usa su Fuerza actual y el segundo su Voluntad actual. Puedes elegir el mismo otro personaje para ambos si es legal, o distintos. No se trata de dos instancias de Support.
 
-**Desde el 16/10/2026**, CR 8.1.2 compara la duración cuando se vuelve a conceder una palabra clave sin +N: aplica la de mayor duración y la otra deja de existir. Esto no duplica Support ni elimina las bonificaciones de Fuerza ya generadas al resolverlo. Una habilidad continua como la de Alice mantiene sus condiciones y deja de afectar cuando su fuente sale del juego.
+CR 8.1.2 compara la duración cuando se vuelve a conceder una palabra clave sin +N: aplica la de mayor duración y la otra deja de existir. Esto no duplica Support ni elimina las bonificaciones de Fuerza ya generadas al resolverlo. Una habilidad continua como la de Alice mantiene sus condiciones y deja de afectar cuando su fuente sale del juego.
 
 ---
 

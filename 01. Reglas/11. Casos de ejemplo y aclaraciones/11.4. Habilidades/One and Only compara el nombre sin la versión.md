@@ -158,7 +158,7 @@ Los personajes son desterrados por el efecto de la acción, no por el personaje 
 
 ### Nombres diferentes al jugar un objeto
 
-**Hyperia City, desde el 16/10/2026:** [Spyglass Hat](https://cards.lorcast.io/card/digital/large/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928) y [Ariel - Collector of Oddities](https://cards.lorcast.io/card/digital/large/crd_5f0de7933f2d434097be4c11bbd80828.avif?1790886849) comprueban si el objeto jugado tiene un nombre distinto del de cada **otro** objeto que tienes en juego. El propio objeto no se compara consigo mismo.
+**Hyperia City:** [Spyglass Hat](https://cards.lorcast.io/card/digital/large/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928) y [Ariel - Collector of Oddities](https://cards.lorcast.io/card/digital/large/crd_5f0de7933f2d434097be4c11bbd80828.avif?1790886849) comprueban si el objeto jugado tiene un nombre distinto del de cada **otro** objeto que tienes en juego. El propio objeto no se compara consigo mismo.
 
 Jugar una segunda Spyglass Hat encuentra otra del mismo nombre y no cumple la condición: los disparos correspondientes se resuelven sin efecto. No basta con que sea una carta física diferente. Las dos habilidades producen efectos distintos cuando sí se cumple la condición; coincidencia de nombre no significa coincidencia de texto.
 

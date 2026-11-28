@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 En una partida de cuatro jugadores, un oponente elige a mi personaje con [Flippant Taunt](https://cards.lorcast.io/card/digital/large/crd_9b97ce9d348d470682c87e873d65c213.avif?1790792883) y después abandona la partida. ¿Mi personaje pierde Reckless inmediatamente?

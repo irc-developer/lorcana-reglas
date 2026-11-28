@@ -28,7 +28,7 @@ La prohibición de Remember Me termina con el turno. El permiso de The Horned Ki
 
 ### Combinar el permiso con jugar gratis
 
-**Desde Hyperia City (16/10/2026), la aclaración oficial confirma que puedes combinar Remember Me con un efecto que te permita jugar un personaje gratis.** Puedes elegir una carta legal del descarte: el coste gratuito sustituye el pago normal, pero el personaje entra agotado y su nombre queda bloqueado por Remember Me. El permiso de zona no anula otros requisitos.
+**La aclaración oficial confirma que puedes combinar Remember Me con un efecto que te permita jugar un personaje gratis.** Puedes elegir una carta legal del descarte: el coste gratuito sustituye el pago normal, pero el personaje entra agotado y su nombre queda bloqueado por Remember Me. El permiso de zona no anula otros requisitos.
 
 Resolver Remember Me durante el turno rival, si algún efecto lo permite, no concede por sí solo una acción de turno para jugar. Necesitas además un efecto que te dé una oportunidad de jugar un personaje en ese momento. En esa oportunidad el permiso de descarte sí puede utilizarse. [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), las dos preguntas sobre Remember Me.
 

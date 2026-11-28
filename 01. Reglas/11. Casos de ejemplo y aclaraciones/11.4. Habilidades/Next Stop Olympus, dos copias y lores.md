@@ -10,7 +10,7 @@
 
 Los disparos creados **existen fuera de la bolsa hasta que ocurre ese desafío**. No se añaden a la bolsa al jugar la acción. Cuando se cumple la condición, ambos se añaden y se resuelven por separado: 1 de Leyenda por cada uno. Desafiar una localización no cumple «another character».
 
-**Variante de Hyperia City, desde el 16/10/2026:** cada activación resuelta de Yama crea una habilidad flotante durante ese turno. Dos activaciones generan dos disparos cada vez que uno de tus personajes desafía a otro personaje y, al resolverlos, obtienes una gota por cada uno. Yama dice «whenever», por lo que puede ocurrir en varios desafíos; Next Stop, Olympus dice «the next time» y cada copia se aplica al siguiente evento correspondiente.
+**Variante de Hyperia City:** cada activación resuelta de Yama crea una habilidad flotante durante ese turno. Dos activaciones generan dos disparos cada vez que uno de tus personajes desafía a otro personaje y, al resolverlos, obtienes una gota por cada uno. Yama dice «whenever», por lo que puede ocurrir en varios desafíos; Next Stop, Olympus dice «the next time» y cada copia se aplica al siguiente evento correspondiente.
 
 ---
 

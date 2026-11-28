@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 Juego una canción con [Jukebox](https://cards.lorcast.io/card/digital/large/crd_5dc5db4d928b415e92f2202aa861f8bf.avif?1790442574) en juego, pero no tengo otra carta con su nombre en el descarte. ¿Puede esa canción cumplir la condición de ON REPEAT cuando termine de resolverse?

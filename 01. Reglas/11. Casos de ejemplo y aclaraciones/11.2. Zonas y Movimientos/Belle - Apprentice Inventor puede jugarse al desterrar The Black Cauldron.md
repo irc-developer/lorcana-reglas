@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 Tengo a [Belle - Apprentice Inventor](https://cards.lorcast.io/card/digital/large/crd_13859ddeec154d23a532a94835179144.avif?1740589736) debajo de [The Black Cauldron](https://cards.lorcast.io/card/digital/large/crd_02bc7b97b6044592b68b86b9afadd113.avif?1761752078) y ya resolví RISE AND JOIN ME! este turno. ¿Puedo desterrar el propio Caldero para jugar gratis a Belle?

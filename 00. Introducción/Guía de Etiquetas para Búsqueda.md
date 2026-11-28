@@ -26,9 +26,9 @@ Las Comprehensive Rules 2.3.0 definen quince palabras clave:
 | #support | Al hacer quest, puede añadir su Fuerza actual a la de otro personaje este turno. |
 | #vanish | Se dispara cuando un oponente elige al personaje con la habilidad de una acción. |
 | #ward | Impide que un oponente elija la carta salvo para desafiarla; no protege de efectos que no eligen. |
-| #adventurous | Desde CR 2.3: impide desafiar y terminar el turno mientras el personaje pueda irse de aventura. |
+| #adventurous | Impide desafiar y terminar el turno mientras el personaje pueda irse de aventura. |
 
-Las palabras clave pueden representar distintos tipos de habilidad. Torrent es el nombre de una habilidad de Mrs. Incredible, no una palabra clave del capítulo 8. Desde CR 2.3, las instancias repetidas sin +N se comparan por duración; Challenger +N y Resist +N conservan su acumulación.
+Las palabras clave pueden representar distintos tipos de habilidad. Torrent es el nombre de una habilidad de Mrs. Incredible, no una palabra clave del capítulo 8. Las instancias repetidas sin +N se comparan por duración; Challenger +N y Resist +N conservan su acumulación.
 
 ## Acciones, zonas y recursos
 
@@ -50,6 +50,6 @@ Usa #hand, #deck, #discard, #inkwell, #play-zone y #bag para las zonas. Las cart
 
 - [[8.1. Generalidades (General)|CR 8: lista y reglas de palabras clave]].
 - [[Tipos de habilidades]], [[1.13. Contadores (Counters)]] y [[4.1. General]].
-- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8, efectiva el 16/10/2026.
+- [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), capítulos 4, 6, 7 y 8.
 
 Última actualización: 09/10/2026.

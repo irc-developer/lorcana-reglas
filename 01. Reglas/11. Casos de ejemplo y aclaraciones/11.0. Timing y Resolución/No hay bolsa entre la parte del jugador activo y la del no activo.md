@@ -14,7 +14,7 @@ No hay una bolsa intermedia ni una decisión simultánea oculta.
 
 Si varios jugadores tienen que actuar como parte de la misma instrucción, siguen dentro de una única resolución. Primero actúa el jugador activo y después lo hace el resto en orden de turno.
 
-Desde el **16 de octubre de 2026**, CR 2.3 desarrolla el caso de un efecto con varias partes en 6.7.6.1: todos completan la primera parte antes de pasar a la segunda, y se repite ese orden en cada parte. El jugador activo no realiza todas las partes antes de que actúe el siguiente. En el ejemplo de una única instrucción de jugar, el resultado se mantiene.
+CR 2.3 desarrolla el caso de un efecto con varias partes en 6.7.6.1: todos completan la primera parte antes de pasar a la segunda, y se repite ese orden en cada parte. El jugador activo no realiza todas las partes antes de que actúe el siguiente. En el ejemplo de una única instrucción de jugar, el resultado se mantiene.
 
 ```mermaid
 flowchart TD
@@ -36,7 +36,7 @@ Así que, en el ejemplo, tu personaje entra primero y cualquier trigger que gene
 
 ## 📘 Referencias
 
-- [CR 2.3.0, 6.7.6.1, p. 37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37): orden por partes, aplicable desde el 16 de octubre de 2026.
+- [CR 2.3.0, 6.7.6.1, p. 37](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=37): orden por partes.
 
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El efecto se resuelve por completo y en el orden escrito]]
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4. Los triggers creados durante una resolución esperan]]

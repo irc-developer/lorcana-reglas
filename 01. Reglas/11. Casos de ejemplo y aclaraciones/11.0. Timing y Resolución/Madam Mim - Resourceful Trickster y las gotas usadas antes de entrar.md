@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 Utilizo una gota para pagar el coste de [Madam Mim - Resourceful Trickster](https://cards.lorcast.io/card/digital/large/crd_a3dedabdcc464fd1bea731c85f439226.avif?1790194812). ¿Se disparan tanto UPPER HAND como BAUBLE GAME por esa gota?

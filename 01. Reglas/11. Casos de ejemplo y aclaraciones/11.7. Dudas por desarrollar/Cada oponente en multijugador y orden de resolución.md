@@ -22,7 +22,7 @@ En resumen:
 
 ---
 
-### Efectos con varias partes, desde el 16/10/2026
+### Efectos con varias partes
 
 Cada jugador afectado completa **la primera parte**, en orden de turno; después todos completan la segunda, y así sucesivamente. No se resuelve el efecto entero para un jugador antes de pasar al siguiente. No se intercalan bolsa ni chequeos de estado entre partes.
 

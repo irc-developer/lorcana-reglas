@@ -20,7 +20,7 @@ Esto difiere de un modificador que reduce daño a 0: la regla 1.9.5 distingue in
 - [[1.9. Daño (Damage)|1.9.5: daño infligido y recibido]].
 - [[6.1. General (General)|6.1.5.1: primera parte requerida para la segunda]].
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4: prohibición estática]].
-- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), efectiva el 16/10/2026.
+- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

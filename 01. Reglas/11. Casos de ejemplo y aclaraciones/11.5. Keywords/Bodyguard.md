@@ -46,7 +46,7 @@ Si Tigger desafía y se prepara por **Protective Charge**, puede volver a estar 
 
 ---
 
-### Orden de entrada desde CR 2.3 (16/10/2026)
+### Orden de entrada
 
 Los efectos «enters» son estáticos. Primero se aplican los de la propia carta que va a entrar y después los de otras fuentes, antes de colocarla realmente en juego. Bodyguard permite la entrada agotada en este proceso; no espera a una habilidad disparada posterior ni se clasifica automáticamente como reemplazo.
 

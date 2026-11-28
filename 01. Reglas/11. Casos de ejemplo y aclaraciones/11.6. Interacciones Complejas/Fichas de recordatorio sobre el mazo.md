@@ -31,7 +31,7 @@ No puede utilizarse para registrar información privada del oponente ni para rep
 
 ### No usar números para recordar Fuerza o Voluntad
 
-Los dados, papeles o fichas con «+1», «−1» o «−3» no pueden representar cambios numéricos de Fuerza o Voluntad. Se pueden usar recordatorios no numéricos que no oculten cartas ni creen ambigüedad. La excepción numérica prevista en TR 5.2 es el daño. Desde el 16/10/2026, CR 1.13 introduce también gotas de tinta; consulta al Lore Guide cómo representarlas en torneo, porque el texto de TR 5.2 no incorpora expresamente ese nuevo contador.
+Los dados, papeles o fichas con «+1», «−1» o «−3» no pueden representar cambios numéricos de Fuerza o Voluntad. Se pueden usar recordatorios no numéricos que no oculten cartas ni creen ambigüedad. La excepción numérica prevista en TR 5.2 es el daño. CR 1.13 introduce también gotas de tinta; consulta al Lore Guide cómo representarlas en torneo, porque el texto de TR 5.2 no incorpora expresamente ese nuevo contador.
 
 Fundamento: secciones 5.1–5.2 de [Tournament Rules 7.14](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 

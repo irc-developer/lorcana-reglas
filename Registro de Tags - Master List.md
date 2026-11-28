@@ -15,7 +15,7 @@
 | Tag | Descripción | Ejemplo de uso |
 |-----|-------------|-----------------|
 | `#activated-ability` | Habilidades activadas (costeadas) | Dudas sobre costes de habilidades |
-| `#adventurous` | Desde 16/10/2026: impide desafiar y obliga a irse de aventura si puede | Casos sobre adventurous |
+| `#adventurous` | Impide desafiar y obliga a irse de aventura si puede | Casos sobre adventurous |
 | `#alert` | Ignora el limitador de Evasive al desafiar | Casos sobre alert |
 | `#alternate-cost` | Costes alternativos | Cartas con múltiples formas de pagar |
 | `#bag` | Bolsa de habilidades disparadas pendientes | Casos sobre bag |

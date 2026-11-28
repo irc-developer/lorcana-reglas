@@ -6,7 +6,7 @@ Cuando juego una carta usando Shift (coste alternativo) y hay un efecto que redu
 
 ## ✅ Respuesta
 
-**Sí, cuando la reducción afecta a ese pago de tinta.** Si utilizas Shift como coste alternativo, las reducciones de coste de tinta se aplican sobre el valor del Shift. Puedes terminar pagando menos tinta o incluso 0 mediante reducciones de coste. Sigues usando Shift: no has elegido el coste alternativo «for free». Las reducciones de tinta no eliminan pagos no expresados en tinta, como retirar directamente gotas con Baymax desde el 16/10/2026.
+**Sí, cuando la reducción afecta a ese pago de tinta.** Si utilizas Shift como coste alternativo, las reducciones de coste de tinta se aplican sobre el valor del Shift. Puedes terminar pagando menos tinta o incluso 0 mediante reducciones de coste. Sigues usando Shift: no has elegido el coste alternativo «for free». Las reducciones de tinta no eliminan pagos no expresados en tinta, como retirar directamente gotas con Baymax.
 
 ---
 

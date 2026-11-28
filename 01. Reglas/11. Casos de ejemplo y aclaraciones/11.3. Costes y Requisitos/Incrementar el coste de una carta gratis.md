@@ -10,7 +10,7 @@
 
 Cuando un efecto permite **usar una habilidad activada gratis**, CR 1.5.5.4 permite omitir **todos sus costes excepto el símbolo de agotamiento {E}**. No se limita al coste de tinta. Eso no convierte cualquier habilidad escrita como «descarta una carta — efecto» en gratuita: hace falta un permiso que realmente permita usarla gratis.
 
-En ambos casos, gratis no elimina condiciones del texto ni autoriza una acción prohibida. Véase [[Clawhauser - Safety Officer no ignora su condición al jugarse gratis]], aplicable desde el 16/10/2026.
+En ambos casos, gratis no elimina condiciones del texto ni autoriza una acción prohibida. Véase [[Clawhauser - Safety Officer no ignora su condición al jugarse gratis]].
 
 ---
 

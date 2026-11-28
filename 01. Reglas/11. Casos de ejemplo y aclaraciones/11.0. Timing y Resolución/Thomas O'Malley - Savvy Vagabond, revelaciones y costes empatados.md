@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 [Thomas O'Malley - Savvy Vagabond](https://cards.lorcast.io/card/digital/large/crd_58f4cf1d04434ab7b352cad8452232d0.avif?1790194838) hace quest. Mi carta revelada cuesta 5 y la de un oponente también cuesta 5. ¿Quién recibe las cartas y cuándo se comparan?

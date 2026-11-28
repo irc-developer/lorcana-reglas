@@ -29,7 +29,7 @@ Por ejemplo, [Demona - Betrayer of the Clan](https://cards.lorcast.io/card/digit
 - [[8.7. Temerario (Reckless)|8.7: desafío legal y final del turno]].
 - [[6.4. Habilidades Estáticas (Static Abilities)|6.4: condiciones de habilidades estáticas]].
 - [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1.1 y 3.2.3.1 — Preparar y robar]].
-- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), efectiva el 16/10/2026. El orden de Preparado, Listo y Robar figura en la p. 11 (§§ 3.1.2 y 3.2).
+- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf). El orden de Preparado, Listo y Robar figura en la p. 11 (§§ 3.1.2 y 3.2).
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), sección Stone by Day Returns.
 
 ---

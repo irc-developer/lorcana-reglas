@@ -4,7 +4,7 @@ Esta guía estudia la lista de 60 cartas de Iván para el set 14. Su plan es des
 
 **La decisión central es cuándo necesitas más recursos y cuándo necesitas convertir los que ya tienes en una victoria.** Launchpad y Judy mantienen el flujo de personajes; Lead Detective permite intercambios eficientes; Darkwing Duck & Launchpad convierte ciertos desafíos en sabiduría. Goliath y los Guardaespaldas ayudan a sostener ese plan, pero exigen elecciones distintas a las de otras versiones de Detectives.
 
-El análisis de construcción, mulligan y enfrentamientos es una propuesta de pilotaje razonada a partir de la lista y de las fuentes citadas. No presupone pruebas de esta versión ni porcentajes de victoria. Las interacciones reglamentarias se apoyan en el texto de las cartas y en las CR 2.3, aplicables desde el 16 de octubre de 2026, con Hyperia City.
+El análisis de construcción, mulligan y enfrentamientos es una propuesta de pilotaje razonada a partir de la lista y de las fuentes citadas. No presupone pruebas de esta versión ni porcentajes de victoria. Las interacciones reglamentarias se apoyan en el texto de las cartas y en las CR 2.3.
 
 ## 1. La lista que estamos aprendiendo
 
@@ -314,7 +314,7 @@ Para comparar versiones, intenta jugar varias partidas contra la misma familia d
 
 ### Reglas necesarias para pilotar esta lista
 
-La referencia es el [PDF oficial de CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), efectivo el 16/10/2026. Los enlaces de las cartas de la tabla permiten consultar su texto.
+La referencia es el [PDF oficial de CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf). Los enlaces de las cartas de la tabla permiten consultar su texto.
 
 | Concepto | Referencia del PDF |
 | --- | --- |

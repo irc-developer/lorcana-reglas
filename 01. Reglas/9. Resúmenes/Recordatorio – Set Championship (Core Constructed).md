@@ -47,7 +47,7 @@
 ## 🎲 Accesorios permitidos
 - **Fundas:** opacas, limpias, del mismo color y tipo.
 - **Tapete:** plano, sin objetos ni bultos. 
-- **Dados:** accesorios aprobados para representar daño o determinar resultados aleatorios. Desde el 16/10/2026 existen también gotas de tinta; consulta al Lore Guide su representación en torneo conforme a CR 1.13 y TR 5.2.
+- **Dados:** accesorios aprobados para representar daño o determinar resultados aleatorios. También existen gotas de tinta; consulta al Lore Guide su representación en torneo conforme a CR 1.13 y TR 5.2.
     > No los pongas sobre cartas en la mano o el mazo.
 - **Tokens**: para indicar el resto de cosas (pej. estados).
 - **Contadores de lore:** visibles y fáciles de leer.

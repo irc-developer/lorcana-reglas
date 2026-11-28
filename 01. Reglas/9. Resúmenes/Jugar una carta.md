@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3.0
-> Adaptación de las Comprehensive Rules 2.3.0, vigentes desde el **16 de octubre de 2026**.
-
 # Jugar una carta
 
 1. **Anunciar y revelar** la carta desde su zona actual.

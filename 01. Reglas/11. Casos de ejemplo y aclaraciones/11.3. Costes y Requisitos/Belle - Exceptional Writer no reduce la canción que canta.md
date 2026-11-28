@@ -42,7 +42,7 @@ Por ejemplo, Belle cuesta 5 y puede cantar una canción de coste 5 si está prep
 
 ### Varias reducciones ya resueltas
 
-**Desde Hyperia City (16/10/2026):** si agotas a Belle dos veces y resuelves ambos disparos antes de jugar otra acción, la siguiente acción recibe una reducción total de 4 {I}. Las reducciones independientes se suman y se consumen con esa misma acción; el excedente no pasa a otra. Véase [[Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow]].
+**Reducciones acumuladas:** si agotas a Belle dos veces y resuelves ambos disparos antes de jugar otra acción, la siguiente acción recibe una reducción total de 4 {I}. Las reducciones independientes se suman y se consumen con esa misma acción; el excedente no pasa a otra. Véase [[Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow]].
 
 Las notas oficiales de Hyperia City confirman esta acumulación con dos misiones de Belle antes de jugar la siguiente acción.
 

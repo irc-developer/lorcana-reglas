@@ -12,7 +12,7 @@ Si Tod ya está preparado, ese disparo no lo prepara una segunda vez. Puedes rec
 
 La bolsa contiene habilidades pendientes, no personajes que regresen al juego. You Came Back no recupera una carta del descarte ni vuelve a jugar a Tod. Las habilidades activadas tampoco se «disparan»: se anuncian y pagan por su procedimiento.
 
-Desde el 16/10/2026, CR 6.1.13.2 precisa el criterio de resoluciones completas para «once» y sus variantes. Véase [[Tod y The Horseman Strikes! - rechazar el destierro no elige personaje]] para una opción de acción que no llega a elegirlo.
+CR 6.1.13.2 precisa el criterio de resoluciones completas para «once» y sus variantes. Véase [[Tod y The Horseman Strikes! - rechazar el destierro no elige personaje]] para una opción de acción que no llega a elegirlo.
 
 ---
 
@@ -21,7 +21,7 @@ Desde el 16/10/2026, CR 6.1.13.2 precisa el criterio de resoluciones completas p
 - [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4: los disparos esperan]].
 - [[7.7. Bolsa (Bag)|7.7.4: resolución antes de otra acción]].
 - [[6.1. General (General)|6.1.4 y 6.1.13.2: opciones y límites de uso]].
-- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), desde el 16/10/2026.
+- [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

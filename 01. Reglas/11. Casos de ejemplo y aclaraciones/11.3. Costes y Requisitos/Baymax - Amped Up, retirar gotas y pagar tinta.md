@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 Para jugar a [Baymax - Amped Up](https://cards.lorcast.io/card/digital/large/crd_fd8709ece8b04d599379c9d168510c43.avif?1790886853) con su Shift retiro dos gotas de tinta. ¿Estoy pagando 2 de tinta? ¿Puedo sustituir esas gotas agotando cartas de tinta?

@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 Un efecto me permite jugar un personaje gratis. ¿Puedo elegir a [Clawhauser - Safety Officer](https://cards.lorcast.io/card/digital/large/crd_d8c841ce44b749b991c57ae36d0850f4.avif?1790869364) si todavía no he jugado otro personaje este turno?

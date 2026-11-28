@@ -10,7 +10,7 @@
 
 Los disparos de Support que ya se hayan generado permanecen en la bolsa, y una bonificación de Fuerza que ya se haya resuelto conserva su duración durante ese turno. Esos efectos independientes no implican que el personaje conserve la palabra clave.
 
-Desde el 16/10/2026, CR 8.1.2 también distingue instancias y duraciones de palabras clave: véase [[Support - Interacciones]].
+CR 8.1.2 también distingue instancias y duraciones de palabras clave: véase [[Support - Interacciones]].
 
 ---
 

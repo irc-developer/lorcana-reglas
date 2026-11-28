@@ -1,8 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3 e Hyperia City
-> Esta explicación se aplica desde el **16 de octubre de 2026**, con las [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
-
 ## ❓ Duda
 
 [Minnie Mouse - Urban Visionary](https://cards.lorcast.io/card/digital/large/crd_3c5e60f59da54544b4757e8f00d5c902.avif?1790278641) está agotada al final de mi turno. ¿Rechazar una de las dos opciones de ALL BY DESIGN impide hacer la otra? ¿Cuándo se agota todo el pozo de tinta?

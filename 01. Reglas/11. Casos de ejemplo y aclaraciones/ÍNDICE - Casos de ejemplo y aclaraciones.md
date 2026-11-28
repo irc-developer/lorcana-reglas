@@ -1,12 +1,10 @@
 # ÍNDICE - Casos de ejemplo y aclaraciones (Carpeta 11)
 
-**Total de casos:** 264 | **Última actualización:** 27 de noviembre de 2026
+**Total de casos:** 264 | **Última actualización:** 28 de noviembre de 2026
 
 ---
 
 ## 📋 Estructura por categoría
-
-> **(NUEVO: HYPERIA CITY)** marca aclaraciones que aplican desde el **16/10/2026**.
 
 > **(NUEVO: ATTACK OF THE VINE)** identifica los casos incorporados desde las *Set Release Notes: Attack of the Vine!*.
 
@@ -50,14 +48,14 @@ Casos sobre el orden de resolución, timing de efectos y secuencia de resolució
 34. [[Three Arrows y Gopher - Resist permanece hasta el GSC|Three Arrows y Gopher - Resist permanece hasta el GSC.md]]
 35. [[Tod y The Horseman Strikes! - rechazar el destierro no elige personaje|Tod y The Horseman Strikes! - rechazar el destierro no elige personaje.md]]
 36. [[Volver atrás una jugada legal por cambio de plan|Volver atrás una jugada legal por cambio de plan.md]]
-37. [[Wasabi y Shere Khan - gota antes de resolver Twin Blades|Wasabi y Shere Khan - gota antes de resolver Twin Blades.md]] **(NUEVO: HYPERIA CITY)**
+37. [[Wasabi y Shere Khan - gota antes de resolver Twin Blades|Wasabi y Shere Khan - gota antes de resolver Twin Blades.md]]
 38. [[Woody - Helping a Friend resuelve las opciones en el orden impreso|Woody - Helping a Friend resuelve las opciones en el orden impreso.md]] **(NUEVO: ATTACK OF THE VINE)**
 39. [[World's Greatest Criminal Mind sin objetivo válido|World's Greatest Criminal Mind sin objetivo válido.md]]
 40. [[Milo - Scholar's Gambit, descartar y devolver personaje|Milo - Scholar's Gambit, descartar y devolver personaje.md]] **(DISCORD 2026)**
 41. [[Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío|Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío.md]]
-42. [[Minnie Mouse - Urban Visionary y las dos decisiones opcionales]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-43. [[Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-44. [[Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+42. [[Minnie Mouse - Urban Visionary y las dos decisiones opcionales]]
+43. [[Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar]]
+44. [[Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados]]
 45. [[Dodge! y Mickey - de quién es el próximo turno|Dodge! y Mickey - de quién es el próximo turno.md]] — «Tu próximo turno» remite a quien generó el efecto, también sobre un personaje rival.
 
 ---
@@ -92,7 +90,7 @@ Casos sobre movimiento de cartas entre zonas (mano, juego, descarte, bolsa, mazo
 24. [[Vanish e interacciones|Vanish e interacciones.md]] — Elegir a dos Iago ilesos con Making Magic dispara Vanish dos veces.
 25. [[Ward, funcionamiento en descarte|Ward, funcionamiento en descarte.md]]
 26. [[Diablo y el robo aparente tras un desafío|Diablo y el robo aparente tras un desafío.md]] **(DISCORD 2026)**
-27. [[Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+27. [[Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron]]
 
 ---
 
@@ -121,9 +119,9 @@ Casos sobre pago de costes, requisitos y cómo se calculan.
 19. [[Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria|Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria.md]] **(NUEVO: ATTACK OF THE VINE)**
 20. [[Permisos adicionales para entintar se acumulan|Permisos adicionales para entintar se acumulan.md]] **(DISCORD 2026)**
 21. [[Entintar boca arriba en torneo|Entintar boca arriba en torneo.md]] **(DISCORD 2026)**
-22. [[Baymax - Amped Up, retirar gotas y pagar tinta]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-23. [[Clawhauser - Safety Officer no ignora su condición al jugarse gratis]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
-24. [[Mover un personaje al lugar donde ya está - elección y pago]] — CR 2.3 desde el 16/10/2026: acción de turno incompleta y movimiento por efecto.
+22. [[Baymax - Amped Up, retirar gotas y pagar tinta]]
+23. [[Clawhauser - Safety Officer no ignora su condición al jugarse gratis]]
+24. [[Mover un personaje al lugar donde ya está - elección y pago]] — CR 2.3: acción de turno incompleta y movimiento por efecto.
 25. [[Woody y Grandmother Willow - el coste impreso al jugar gratis]]
 26. [[Pudge - jugar gratis no impide pagar tinta|Pudge - jugar gratis no impide pagar tinta.md]] - GOOD FRIEND ofrece jugar gratis; también puedes pagar las 2 {I}.
 
@@ -169,7 +167,7 @@ Casos sobre habilidades estáticas, disparadas y sus efectos.
 34. [[With a Few Good Friends cuenta tipos de tinta y no símbolos|With a Few Good Friends cuenta tipos de tinta y no símbolos.md]] **(NUEVO: ATTACK OF THE VINE)**
 35. [[Bruno y equipos con varios nombres|Bruno y equipos con varios nombres.md]] **(DISCORD 2026)** — Merlin’s Wand conserva el nombre compartido: Peter Pan & Tinker Bell sí recibe el descuento; Tinker Bell individual no.
 36. [[Source of the Vine y responsabilidad de anunciar|Source of the Vine y responsabilidad de anunciar.md]] **(DISCORD 2026)**
-37. [[Jukebox requiere otra canción con el mismo nombre en el descarte]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+37. [[Jukebox requiere otra canción con el mismo nombre en el descarte]]
 38. [[Baymax y Higitus Figitus - reemplazo parcial y límites por evento]] — Kyle confirma una sola gota con las reglas actuales y anuncia un cambio futuro; rechazo opcional pendiente de aclaración.
 
 ---
@@ -199,7 +197,7 @@ Casos sobre palabras clave específicas de Lorcana.
 19. [[Cantar no es usar una habilidad activada|Cantar no es usar una habilidad activada.md]]
 20. [[Torrent solo reduce el siguiente coste de Shift|Torrent solo reduce el siguiente coste de Shift.md]]
 21. [[Aladdin & Genie - Shift sobre un solo personaje|Aladdin & Genie - Shift sobre un solo personaje.md]] **(DISCORD 2026)**
-22. [[Peter Pan's Shadow y Pegasus - duración de Evasive|Peter Pan's Shadow y Pegasus - duración de Evasive.md]] — Duración indefinida de Tiptoe frente a Hop On!; CR 2.3 desde el 16/10/2026.
+22. [[Peter Pan's Shadow y Pegasus - duración de Evasive|Peter Pan's Shadow y Pegasus - duración de Evasive.md]] — Duración indefinida de Tiptoe frente a Hop On!; CR 2.3.
 23. [[Palabras clave repetidas y duración]] — Evasivo con dos duraciones, Temerario con Cinderella y Cogsworth, y un solo disparo de Apoyo.
 24. [[Judy Hopps - Shift cuenta como haber jugado otro personaje este turno]]
 
@@ -289,7 +287,7 @@ La subsección reúne seis casos desarrollados y una interacción pendiente de a
 3. [[Elegirte a ti mismo cuando un efecto dice chosen player|Elegirte a ti mismo cuando un efecto dice chosen player.md]]
 4. [[Ganar Ward antes de la segunda elección del mismo efecto|Ganar Ward antes de la segunda elección del mismo efecto.md]]
 5. [[Moverse a una localización recién jugada|Moverse a una localización recién jugada.md]]
-6. [[Flippant Taunt mantiene su efecto cuando su jugador abandona la partida]] **(NUEVO: HYPERIA CITY, desde 16/10/2026)**
+6. [[Flippant Taunt mantiene su efecto cuando su jugador abandona la partida]]
 7. [[Tod e I'm Never Not by Your Side - elección pendiente de aclaración]] — Retirada de daño sin «chosen»: interacción pendiente; comparación con canciones que eligen y con movimiento.
 
 ---
@@ -465,14 +463,14 @@ Casos de reglas de torneo y correcciones aplicadas por los Lore Guides durante u
 - **Mover al mismo lugar**: [[Mover un personaje al lugar donde ya está - elección y pago|El intento de acción de turno se deshace; un efecto no produce movimiento]]
 - **Higiene y limpieza en torneos**: [[Higiene personal, tapetes y vestimenta en torneos|Tapetes limpios, vestimenta para contenido y consejo de higiene personal]]
 - **Carta sin revelar en torneo**: [[Judy Hopps y una carta puesta en la mano sin revelar|Judy Hopps y el remedio tras mezclar la mano]]
-- **Hyperia City, desde 16/10/2026**: [[Clawhauser - Safety Officer no ignora su condición al jugarse gratis]]
-- **Hyperia City, desde 16/10/2026**: [[Flippant Taunt mantiene su efecto cuando su jugador abandona la partida]]
-- **Hyperia City, desde 16/10/2026**: [[Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados]]
-- **Hyperia City, desde 16/10/2026**: [[Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar]]
-- **Hyperia City, desde 16/10/2026**: [[Baymax - Amped Up, retirar gotas y pagar tinta]]
-- **Hyperia City, desde 16/10/2026**: [[Minnie Mouse - Urban Visionary y las dos decisiones opcionales]]
-- **Hyperia City, desde 16/10/2026**: [[Jukebox requiere otra canción con el mismo nombre en el descarte]]
-- **Hyperia City, desde 16/10/2026**: [[Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron]]
+- **Hyperia City**: [[Clawhauser - Safety Officer no ignora su condición al jugarse gratis]]
+- **Hyperia City**: [[Flippant Taunt mantiene su efecto cuando su jugador abandona la partida]]
+- **Hyperia City**: [[Thomas O'Malley - Savvy Vagabond, revelaciones y costes empatados]]
+- **Hyperia City**: [[Madam Mim - Resourceful Trickster y las gotas usadas antes de entrar]]
+- **Hyperia City**: [[Baymax - Amped Up, retirar gotas y pagar tinta]]
+- **Hyperia City**: [[Minnie Mouse - Urban Visionary y las dos decisiones opcionales]]
+- **Hyperia City**: [[Jukebox requiere otra canción con el mismo nombre en el descarte]]
+- **Hyperia City**: [[Belle - Apprentice Inventor puede jugarse al desterrar The Black Cauldron]]
 - **Jugar una localización durante una resolución**: [[Get to Safety! roba al recuperar Sleepy Hollow|Sleepy Hollow entra antes de comprobar el robo de Get to Safety!; los disparos esperan]]
 - **Del mazo al descarte y condición secundaria**: [[Héctor Rivera - Worldwide Sensation sí dispara The Torn Corner|Mirar cartas con Héctor o The Cold Never Bothered Me no cambia su zona; The Torn Corner puede jugarse gratis con la foto en juego]]
 - **Elección dentro de un efecto opcional**: [[Tod y The Horseman Strikes! - rechazar el destierro no elige personaje|Rechazar «may» omite la elección y no dispara a Tod]]

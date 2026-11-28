@@ -7,7 +7,7 @@ La lista incluye Aventurero (Adventurous) y las gotas de tinta. Alerta (Alert) p
 ## Mecánicas y Habilidades
 
 - #activated-ability — Habilidades activadas (costeadas).
-- #adventurous — Desde 16/10/2026: impide desafiar y obliga a irse de aventura si puede.
+- #adventurous — Impide desafiar y obliga a irse de aventura si puede.
 - #alert — Ignora el limitador de Evasive al desafiar.
 - #alternate-cost — Costes alternativos.
 - #bag — Bolsa de habilidades disparadas pendientes.

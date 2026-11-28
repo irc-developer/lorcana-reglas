@@ -12,7 +12,7 @@ Cuando un efecto pide a ambos jugadores que jueguen una carta a la vez, cada jug
 - Pones en juego [Hans – Noble Scoundrel](https://cards.lorcast.io/card/digital/large/crd_9b50f321f3a44275b82b5e49b6766c7c.avif?1716052430).
 - Tu oponente pone en juego [Anna – Magical Mission](https://cards.lorcast.io/card/digital/large/crd_ae35ed50c6954dab9925888b61a657f2.avif?1747508819).
 
-**ROYAL SCHEMES comprueba la condición al resolver, no al dispararse.** Si Anna ya está en juego entonces y tiene la clasificación Princess, Hans gana 1 lore. The Return of Hercules termina antes de resolver esos disparos; no hay una bolsa intermedia entre las jugadas de los dos jugadores. Fundamento: CR 6.2.4, 6.7.6 y 6.7.8. Desde el 16/10/2026, 6.7.6.1 explicita el orden por partes.
+**ROYAL SCHEMES comprueba la condición al resolver, no al dispararse.** Si Anna ya está en juego entonces y tiene la clasificación Princess, Hans gana 1 lore. The Return of Hercules termina antes de resolver esos disparos; no hay una bolsa intermedia entre las jugadas de los dos jugadores. Fundamento: CR 6.2.4, 6.7.6 y 6.7.8. La regla 6.7.6.1 explicita el orden por partes.
 
 ## 📘 Referencias
 

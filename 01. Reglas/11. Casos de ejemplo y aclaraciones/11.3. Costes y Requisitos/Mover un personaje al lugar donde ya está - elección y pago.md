@@ -1,6 +1,5 @@
 <!-- CR-ACTIVA-DESDE: 2026-10-16 -->
 
-> [!IMPORTANT] CR 2.3, desde el 16/10/2026
 ## ❓ Duda
 
 Un personaje mío ya está en una localización mía. CR 2.3, 4.7.2, dice que, si elijo moverlo allí, el movimiento no ocurre. ¿Puedo seguir los pasos de la acción de turno, elegir ese mismo lugar en 4.7.3.1 y pagar su coste en 4.7.3.4, aunque el personaje no cambie de lugar? ¿En qué punto se detiene el intento?
