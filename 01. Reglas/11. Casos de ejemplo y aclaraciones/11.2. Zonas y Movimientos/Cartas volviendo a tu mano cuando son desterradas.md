@@ -19,12 +19,25 @@ Si una de estas cartas estaba debajo de otra en una pila, como ocurre con *Boost
 
 ## 📘 Referencias
 
-- [[Glosario|Desterrar (banish)]] en las [CR 2.3.0, p. 47](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=47).
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.2 y 6.2.3. Condición de disparo y bolsa]] en las [CR 2.3.0, p. 30](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30).
-- [[7.4. Juego (Play)|7.4.3. Disparos al salir de juego]] en las [CR 2.3.0, p. 39](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=39) y [[7.7. Bolsa (Bag)|7.7.1. Habilidades que esperan en la bolsa]] en la [p. 40](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=40).
-- [[4.6 Desafío (Challenge)|4.6.9. Resolución de la bolsa antes de cerrar el desafío]] y [ejemplo B de las CR 2.3.0, p. 17](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=17).
-- [[8.10. Cambio (Shift)|8.10.1. Shift como coste alternativo]] en las [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
-- [[5.1. Estados de las cartas (Card States)|5.1.1.5 y 5.1.1.7. Cartas debajo y en una pila]] en las [CR 2.3.0, pp. 19–20](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=19).
+### Wiki de Lorcana
+
+- [[01. Reglas/Glosario|Qué significa desterrar una carta]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)|Cómo se detectan los movimientos al abandonar la zona de juego]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Coste alternativo, estados y pilas creadas con Cambio]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y movimiento de las pilas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila|Qué ocurre con las cartas que estaban debajo al desterrarse la pila]]
+
+### Fuentes oficiales
+
+- Desterrar (banish) en las [CR 2.3.0, p. 47](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=47).
+- 6.2.2 y 6.2.3. Condición de disparo y bolsa en las [CR 2.3.0, p. 30](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30).
+- 7.4.3. Disparos al salir de juego en las [CR 2.3.0, p. 39](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=39) y 7.7.1. Habilidades que esperan en la bolsa en la [p. 40](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=40).
+- 4.6.9. Resolución de la bolsa antes de cerrar el desafío y [ejemplo B de las CR 2.3.0, p. 17](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=17).
+- 8.10.1. Shift como coste alternativo en las [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
+- 5.1.1.5 y 5.1.1.7. Cartas debajo y en una pila en las [CR 2.3.0, pp. 19–20](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=19).
 
 ---
 

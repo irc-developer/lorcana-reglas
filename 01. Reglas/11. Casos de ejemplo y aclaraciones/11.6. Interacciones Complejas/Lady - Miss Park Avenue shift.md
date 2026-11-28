@@ -26,9 +26,17 @@ También se dispara **SOMETHING WONDERFUL**, la habilidad propia de Miss Park Av
 
 ## 📘 Referencias
 
-- [[4.3. Jugar una carta (Play a Card)|CR 4.3.3–4.3.4.2 — Entrada, bolsa y disparo de la carta que queda debajo]]: la excepción expresa que responde a la duda; 4.3.4.1 cubre la habilidad de entrada de la carta superior.
-- [[5.1. Estados de las cartas (Card States)|CR 5.1.1.5–5.1.1.6 — Debajo y encima]] y [[8.10. Cambio (Shift)|CR 8.10.1 y 8.10.5 — Shift y texto no heredado]]: la carta inferior deja de considerarse en juego y la superior no gana su texto.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|CR 6.2.3 — Añadir el disparo a la bolsa]] y [[7.7. Bolsa (Bag)|CR 7.7.4.2 — Elegir un disparo propio para resolver]]: el disparo pendiente y el orden de las dos habilidades de Lady.
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Procedimiento de jugar una carta y resolver sus disparos]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y cartas colocadas debajo de otras]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados de la pila]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift|Heredar una palabra clave al hacer shift]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0 — PDF oficial](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13), reglas 4.3.3–4.3.4.2 (p. 13), 5.1.1.5–5.1.1.6 (p. 19), 6.2.3 (p. 30), 7.7.4.2 (p. 40) y 8.10.1 y 8.10.5 (p. 42).
 
 ---

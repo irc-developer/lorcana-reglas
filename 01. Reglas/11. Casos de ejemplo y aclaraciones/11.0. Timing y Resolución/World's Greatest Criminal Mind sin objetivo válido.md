@@ -18,11 +18,12 @@ La clave aquí no es el nombre de la carta, sino el momento en que el juego exig
 
 ## 📘 Referencias
 
-- [[4.3. Jugar una carta (Play a Card)|4.3.3.2. Las acciones se juegan y luego resuelven su efecto inmediatamente]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3. Las elecciones se hacen durante la resolución]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Si no hay elección legal, el efecto se resuelve sin efecto; si la elección fue ilegal, se corrige desde ese punto]]
-- [[6.1. General (General)|6.1.2. Resolver tanto como sea posible]]
-- [[6.1. General (General)|6.1.3. Confirmación de que choose/chosen se decide al resolver]]
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Elecciones legales y corrección de acciones ilegales]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|Cómo corregir una elección inválida sin deshacer toda la carta]]
 
 ---
 

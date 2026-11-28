@@ -14,9 +14,11 @@ Las habilidades disparadas que ocurran durante esa jugada se añaden a la bolsa 
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2 Resolución]]
-- [[7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
-- [[8.10. Cambio (Shift)|Shift]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados de la pila]]
 
 ---
 

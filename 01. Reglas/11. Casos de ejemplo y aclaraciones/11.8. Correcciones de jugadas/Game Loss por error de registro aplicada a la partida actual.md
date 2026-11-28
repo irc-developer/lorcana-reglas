@@ -12,9 +12,12 @@ No. Un único error de mazo produce una única acción correctiva. La Game Loss 
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.8 Registro de Mazos (Deck Registration)|Registro de mazos]]: la lista y el mazo se comprueban como parte del torneo.
-- [[04. Guia de correccion de jugadas/1. Introducción#Pérdida de partida (Game Loss)|Game Loss]]: la acción correctiva se aplica a una partida, no reescribe partidas terminadas.
-- [[3. Errores de torneo#3.4 Error de mazo-registro mayor (Deck-Registration Error major)|DRE Major]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Registro de mazos]]
+- [[04. Guia de correccion de jugadas/1. Introducción|Cómo se aplica una pérdida de partida]]
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Error mayor de mazo o registro y su corrección]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Mazo de 53 cartas descubierto en un Top 8|Mazo de 53 cartas descubierto en un Top 8]]
 
 ---
 

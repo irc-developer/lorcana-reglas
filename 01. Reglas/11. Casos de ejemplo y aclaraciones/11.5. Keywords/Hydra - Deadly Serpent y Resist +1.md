@@ -31,19 +31,22 @@ Si la fuente intentara infligir 2 daños, Resist +1 los reduciría a 1. Hydra s�
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Distinguir daño infligido, puesto, movido y recibido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Reducir el daño infligido y distinguirlo del daño recibido]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist|Contraste entre un disparo por daño infligido y otro por daño recibido]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent|Aplicar la protección de Rapunzel al nuevo daño de WATCH THE TEETH]]
+
+### Textos de cartas
+
 - [Hydra - Deadly Serpent](https://cards.lorcast.io/card/digital/large/crd_f9025821a35c4cea9fd04182f7db5896.avif?1709690747): WATCH THE TEETH se dispara cuando se inflige daño a Hydra.
-- [[1.9. Daño (Damage)|1.9.2. «Is dealt damage» significa que el personaje recibe daño]]
-- [[1.9. Daño (Damage)|1.9.5. La fuente puede infligir daño aunque el personaje no lo reciba]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Una habilidad disparada solo se añade a la bolsa cuando se cumple su condición]]
-- [[8.8. Resistir (Resist)|8.8.1–8.8.2. Resist es una habilidad estática y el objeto no recibe daño si se reduce a 0]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.9.2, 1.9.5, 6.2, 8.8.1, 8.8.2.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.9.5 y 8.8.1–8.8.2.
-
----
-
-## 🔗 Véase también
-
-- [[Merida - Steady Aim y Resist]]: contraste entre un disparo que comprueba si la acción infligió daño y otro que requiere que el personaje lo reciba.
-- [[Rapunzel - Ready for Adventure y Hydra - Deadly Serpent]]: interacción entre WATCH THE TEETH y la protección de Rapunzel.
 
 ---
 

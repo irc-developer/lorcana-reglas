@@ -14,9 +14,18 @@ Se pueden elegir hasta dos cartas y cada una debe tener coste 2 o menos. Por eje
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1. Reglas generales de efectos]] regula las elecciones exigidas por el texto de un efecto.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de efectos]] exige realizar las elecciones conforme a todos los calificadores impresos.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir múltiples objetivos|Elegir cartas distintas y respetar los limitadores de cada elección]]
+
+### Criterio de aplicación
+
 - La palabra `each` distribuye el límite «cost 2 or less» sobre cada carta, no crea un total compartido.
+
+### Fuentes oficiales
+
 - Las *Attack of the Vine Set Release Notes* confirman las combinaciones legales anteriores.
 
 ---

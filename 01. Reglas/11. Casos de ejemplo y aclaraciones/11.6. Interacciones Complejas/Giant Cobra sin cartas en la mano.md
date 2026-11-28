@@ -13,9 +13,10 @@ Ambas habilidades se disparan al mismo tiempo y se añaden a la bolsa simultáne
 
 ## 📘 Referencias
 
-- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
-- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]
-- [[7.7. Bolsa (Bag)|7.7.4.3. Escoger siguiente habilidad]]
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Orden de resolución en habilidades disparadas|Orden de resolución en habilidades disparadas]]
 
 ---
 

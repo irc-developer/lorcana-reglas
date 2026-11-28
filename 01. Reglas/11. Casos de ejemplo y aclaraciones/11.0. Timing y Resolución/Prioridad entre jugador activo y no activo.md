@@ -15,9 +15,10 @@ Se resuelven primero los disparos del jugador activo en la bolsa y luego se pasa
 
 ## 📘 Referencias
 
-- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
-- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]
-- [[7.7. Bolsa (Bag)|7.7.4.4. Pasar la bolsa]]
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío|Bambi recupera cartas antes de resolver el descarte de Dr. Bushroot]]
 
 ---
 

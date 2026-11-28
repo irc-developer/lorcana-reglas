@@ -32,12 +32,21 @@ Una vez terminada la resolución y atendidas las habilidades pendientes, Mim pue
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|Diferencias entre el coste y el efecto de una habilidad activada]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.9. Prisa (Rush)|Qué permite hacer Prisa mientras el personaje se está secando]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío|La protección de Hercules termina antes del disparo de Mulan]]
+
+### Texto de las cartas
+
 - [The Horned King - Merciless Master](https://cards.lorcast.io/card/digital/large/crd_979b5517872f41dd902e486a8d50435f.avif?1783188492): CAULDRON'S POWER permite jugar personajes desde tu descarte mientras The Horned King está agotado.
 - [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649): desterrar el personaje elegido es parte del coste de TURN INTO DINOSAUR.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3. Habilidades estáticas generadas por cartas en juego]]: el efecto termina cuando su fuente abandona la zona de juego.
-- [[6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades activadas]]: primero se paga el coste y después se resuelve el efecto.
-- [[6.2. Habilidades disparadas (Triggered Abilities)|6.2.3: la habilidad de entrada de Mim se añade a la bolsa]].
-- [[8.9. Prisa (Rush)|8.9.1: Rush permite desafiar mientras el personaje sigue secándose]].
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0, p. 32](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=32), reglas 6.4.1 y 6.4.2.3: duración de las habilidades estáticas y fin inmediato al salir su fuente. Véanse también 6.2.3 (p. 30), 6.3 (p. 31) y 8.9.1 (p. 42).
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), Flash - Efficient Clerk / Donald Duck - Taxi Driver: la prohibición de obtener Rush se aplica mientras Flash está en juego.
 

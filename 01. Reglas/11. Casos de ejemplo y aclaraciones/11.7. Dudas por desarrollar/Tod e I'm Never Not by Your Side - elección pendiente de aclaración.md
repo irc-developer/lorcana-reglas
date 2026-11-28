@@ -35,11 +35,16 @@ Tod tiene dos daños y otro personaje tuyo tiene otros dos. Retiras los cuatro c
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|CR 1.9.2.3: definición de retirar daño]].
-- [[6.1. General (General)|CR 6.1.3–6.1.3.1 y 6.1.13.2: elecciones, requisitos y límite de resoluciones]].
-- [[4.7 Mover un personaje (Move a character)|CR 4.7.1 y 4.7.3.1: elecciones expresas al mover]].
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|CR 6.2.1–6.2.3: cumplimiento de la condición y entrada en la bolsa]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.2.3 y 6.7.4: decisiones y espera de los disparos]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)|Elegir personaje y localización y pagar el movimiento]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 7, 18, 25–26, 28, 30 y 36–37. La duda pendiente es la aplicación de «chosen» a esta selección, no el momento de resolver el disparo.
 
 ---

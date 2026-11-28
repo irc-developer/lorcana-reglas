@@ -20,32 +20,43 @@ Ejemplo: "Elige 2 personajes para agotar"
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Choose up to X no evita restricción|Por qué elegir «hasta» una cantidad no evita la restricción de John Smith]]
+
+### Notas de lectura
+
 **Diferencia: Requisitos de elección vs Restricciones de elección**
 
 - **Requisito de elección** = "Debes elegir exactamente N"
-  - El efecto determina cuántos personajes se deben elegir, hasta donde sea posible
-  - Cambiar este número violaría la resolución del efecto
+
+- El efecto determina cuántos personajes se deben elegir, hasta donde sea posible
+
+- Cambiar este número violaría la resolución del efecto
 
 - **Restricción de elección** = "Si eliges, debe ser X si es posible"
-  - El efecto influye en **a cuál** objetivo elegir, no en **cuántos**
-  - La restricción se aplica dentro del requisito de N objetivos
+
+- El efecto influye en **a cuál** objetivo elegir, no en **cuántos**
+
+- La restricción se aplica dentro del requisito de N objetivos
 
 **Analogía oficial - Bodyguard:**
-
 En un desafío:
+
 - El requisito es: "Debes elegir exactamente 1 personaje para desafiar"
+
 - La restricción Bodyguard dice: "Debe ser un personaje con Bodyguard si es posible"
+
 - El resultado: **Debes elegir exactamente 1 personaje, y debe tener Bodyguard si hay opción**
-
 Del mismo modo, con "Do your worst" y "elige 2 personajes":
+
 - El requisito es: "Debes elegir exactamente 2 personajes"
+
 - La restricción dice: "Uno de ellos debe ser John Smith si es posible"
+
 - **No puedes elegir solo 1 para evadir.**
-
-**Base normativa:**
-- [[6.1. General (General)|6.1.3. Elecciones requeridas de exactitud]]
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Restricciones que no modifican cantidad requerida]]
-
 ---
 
 ## 🔄 Cómo se resuelve

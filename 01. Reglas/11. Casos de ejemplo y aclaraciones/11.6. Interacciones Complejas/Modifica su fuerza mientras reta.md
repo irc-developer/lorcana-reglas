@@ -16,9 +16,11 @@ Si Jafar desafía a [Flynn Rider - Charming Rogue](https://cards.lorcast.io/card
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|4.6.5–4.6.6: bolsa antes del daño]].
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3: actualización continua]].
-- [[7.7. Bolsa (Bag)|7.7: resolución de disparos]].
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, habilidades y daño del desafío]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
 
 ---
 

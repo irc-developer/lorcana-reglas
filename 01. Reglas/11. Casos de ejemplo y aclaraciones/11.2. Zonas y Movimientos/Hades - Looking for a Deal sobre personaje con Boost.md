@@ -24,13 +24,17 @@ Esto es distinto de [[Under the Sea y reordenación de pilas al mazo]]: ese efec
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|A quién se refieren los efectos y quién decide sobre las cartas]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y movimiento de las pilas]]
+- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)|Acceso, orden y colocación de cartas en el mazo]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost)|Colocar cartas boca abajo debajo de otra con Impulso]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Under the Sea y reordenación de pilas al mazo|El contraste con un efecto que permite ordenar todas las cartas entre sí]]
+
+### Texto de las cartas
+
 - [Hades - Looking for a Deal](https://cards.lorcast.io/card/digital/large/crd_d4514592d27b40cca5821f510aea2db2.avif?1761752189): el jugador del personaje elegido puede poner esa carta en la parte inferior de su mazo.
-- [[1.4 Cartas (Cards)|1.4.3. El jugador decide sobre sus cartas y las manipula físicamente]]
-- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo]]: las cartas boca abajo debajo de otra no pueden mirarse, ni siquiera por su propietario.
-- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila]]: cuando la carta superior abandona el juego, todas las cartas de la pila pasan a la misma zona.
-- [[7.2. Mazo (Deck)|7.2.2. El mazo es una zona privada y sus cartas permanecen boca abajo]]
-- [[7.2. Mazo (Deck)|7.2.3.1. Cartas de pilas que se añaden al mazo en cualquier orden]]
-- [[8.4. Impulso (boost)|8.4.2. Boost no permite mirar la carta puesta debajo]]
 
 ---
 

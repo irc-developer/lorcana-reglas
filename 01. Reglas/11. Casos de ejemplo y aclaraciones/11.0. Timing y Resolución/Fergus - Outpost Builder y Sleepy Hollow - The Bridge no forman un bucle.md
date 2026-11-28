@@ -33,14 +33,22 @@ flowchart TD
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest)|Completar la aventura antes de resolver sus disparos]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.6. Localizaciones (Locations)|Qué ocurre con los personajes cuando una localización sale del juego]]
+- [[01. Reglas/7. Zonas (Zones)/7.1. General|Qué cambia cuando una carta pasa de una zona a otra]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Honey Lemon y su laboratorio - recuperar no permite jugar entre disparos|Recuperar una carta no concede permiso para jugarla entre disparos]]
+
+### Texto de las cartas
+
 - **Texto de las cartas:** JUST THE SPOT permite jugar una localización de tu mano o descarte de coste 4 o menos gratis cuando Fergus se agota durante tu turno. HEAD FOR THE BRIDGE! permite desterrar esa localización para ganar 2 lore y otorgar Evasive al personaje que fue de aventura allí. Las fichas completas están enlazadas en la duda.
-- [[4.5 Irse de aventura (Quest)|4.5.1.3–4.5.2. Agotar, ganar lore y resolver disparos]]: primero se agota el personaje y se gana el lore de la aventura; después pueden resolverse las habilidades pendientes. JUST THE SPOT se genera al agotar a Fergus y HEAD FOR THE BRIDGE! por la aventura, sin una resolución de bolsa entre ambos eventos.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Una vez por cada condición cumplida]]: cada habilidad requiere que vuelva a producirse su evento de disparo; mantener un estado no lo repite.
-- [[7.7. Bolsa (Bag)|7.7.4.2–7.7.4.3. Elección de habilidad y comprobación del estado del juego]]: el jugador activo escoge qué habilidad propia resolver primero y la resuelve por completo antes de escoger la siguiente.
-- [[6.1. General (General)|6.1.3–6.1.5. Elecciones y efectos secuenciales]]: la localización que se jugará se determina al resolver; para obtener el lore y Evasive de Sleepy Hollow debes efectuar su destierro.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8. Jugar una carta durante la resolución]]: Fergus juega la localización como parte de resolver su habilidad.
-- [[5.6. Localizaciones (Locations)|5.6.6. La localización abandona el juego]]: sus personajes permanecen en juego y dejan de estar en una localización.
-- [[7.1. General|7.1.6. Cambio de zona]]: al abandonar la zona de juego, Sleepy Hollow pasa a ser una carta nueva. Su retorno no recupera la asociación previa con Fergus.
+
+### Fuentes oficiales
 
 **Fuente primaria:** [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 4.1.5 (p. 12), 4.5.1–4.5.3 (pp. 14–15), 5.6.6 (p. 25), 6.1.3–6.1.5.1 (pp. 25–26), 6.2.1 (p. 30), 6.7.8 (p. 37), 7.1.6 (p. 38) y 7.7.4.2–7.7.4.3 (p. 40). Las comprobaciones y el final de partida se rigen por 1.8.1–1.8.3 (pp. 6–7).
 

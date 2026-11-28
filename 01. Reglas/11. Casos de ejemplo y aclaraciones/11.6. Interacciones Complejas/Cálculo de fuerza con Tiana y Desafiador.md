@@ -15,9 +15,11 @@ El bono de Challenger (+2) y la penalización de Tiana (−3) se aplican en el c
 
 ## 📘 Referencias
 
-- [[8.5. Desafiador (Challenger)|8.5.1. Definición de Challenger]]
-- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.2. Combinar modificadores de Fuerza]]
-- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.2. Fuerza negativa]]
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.5. Desafiador (Challenger)|Cómo aumenta Desafiador la Fuerza durante el desafío]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)|Cómo se combinan los modificadores de Fuerza y sus límites]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elisa Maza - Forever Strong y reducciones de Fuerza previas|Elisa Maza - Forever Strong y reducciones de Fuerza previas]]
 
 ---
 

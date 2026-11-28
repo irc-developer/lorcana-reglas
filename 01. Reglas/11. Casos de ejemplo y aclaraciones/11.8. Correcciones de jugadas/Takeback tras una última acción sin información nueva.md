@@ -12,9 +12,10 @@ El jugador no puede deshacerlo por su cuenta ni depende del consentimiento del o
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.7 Takebacks|Takebacks]]
-- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Elegibilidad y límites]]
-- [[3. Operaciones en los torneos#3.7.3 Ejemplos de takebacks permitidos|Ejemplos permitidos]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Qué exige la autorización de un takeback de la última jugada]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior|Takeback denegado después de una acción posterior]]
 
 ---
 

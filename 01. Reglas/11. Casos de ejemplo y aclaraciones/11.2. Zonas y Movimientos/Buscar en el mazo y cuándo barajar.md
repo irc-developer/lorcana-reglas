@@ -19,6 +19,7 @@ Si un efecto me permite buscar una carta en el mazo, ¿tengo que barajarlo al te
 
 - [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)|Qué se puede mirar o cambiar en el mazo]]
 - [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones de un efecto en orden]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Elegir 0 cartas para barajar en el mazo no baraja el mazo|Elegir cero cartas y distinguir una orden independiente de barajar]]
 
 ### Fuentes oficiales
 

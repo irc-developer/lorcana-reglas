@@ -22,17 +22,27 @@ Por eso, Dale no altera efectos fuera del desafío que miran la Fuerza real de u
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.1. Definición]]
-- [[4.6 Desafío (Challenge)|4.6.6.1. Calcular daño]]
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.4. Daño sobre personajes o localizaciones]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, habilidades y daño del desafío]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Dale - Challenger no suma a la Voluntad|Demona con Dale - Challenger no suma a la Voluntad]]
+
+### Notas de lectura
 
 La combinación de estas reglas lleva a esta conclusión:
 
 - El daño se representa con contadores de daño; no dice que reduzca características.
+
 - En el paso de cálculo del daño del challenge solo se tienen en cuenta los efectos que modifiquen la característica relevante y el propio daño a infligir.
+
 - La habilidad de Dale cambia qué característica usa tu personaje para hacer daño en el challenge: usa su Willpower en vez de su Strength.
+
 - Eso no modifica la característica de Fuerza del personaje fuera de ese cálculo concreto.
+
 - Por tanto, los efectos que preguntan por personajes con cierta {S} siguen usando la Fuerza normal del personaje, no su Willpower.
+
 - El daño ya marcado no baja esa Willpower; solo hace que sea más fácil alcanzar el umbral para ser desterrado en el game state check.
 
 ---

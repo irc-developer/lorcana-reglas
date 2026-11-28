@@ -25,12 +25,11 @@ En una mesa de tres jugadores, por tanto, no hay una resolución alterna tipo A-
 
 ## 📘 Referencias
 
-- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers simultáneos se añaden a la bolsa simultáneamente]]
-- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo empieza resolviendo una de las suyas]]
-- [[7.7. Bolsa (Bag)|7.7.4.3. El mismo jugador sigue mientras aún tenga habilidades propias]]
-- [[7.7. Bolsa (Bag)|7.7.4.4. La bolsa pasa al siguiente jugador en orden de turno]]
-- [[7.7. Bolsa (Bag)|7.7.4.5. El proceso continúa por todos los jugadores]]
-- [[2.1. General|2.1.3. En multijugador el orden sigue hacia la izquierda]]
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/2. Juego (Gameplay)/2.1. General|Orden de turno en partidas multijugador]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.7. Dudas por desarrollar/Cada oponente en multijugador y orden de resolución|Cada oponente en multijugador y orden de resolución]]
 
 ---
 

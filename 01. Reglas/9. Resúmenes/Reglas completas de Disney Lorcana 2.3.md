@@ -96,7 +96,18 @@ Véanse [[6.1. General (General)]] y [[6.7. Resolución de Cartas y Efectos (Res
 
 Véanse [[6.4. Habilidades Estáticas (Static Abilities)]], [[7.1. General]], [[8.10. Cambio (Shift)]], [[8.3. Guardaespaldas (Bodyguard)]], [[Jugar una carta]] y [[Glosario]].
 
-## Fuentes oficiales
+## Referencias
+
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.13. Contadores (Counters)|Cómo obtener y gastar gotas de tinta]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.16. Aventurero (Adventurous)|Obligaciones y prohibiciones de Aventurero]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Cambios de zona y efectos de entrada al jugar cartas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Efectos secuenciales y efectos de entrada]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)|Elegir la localización actual y pagar un movimiento]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.1. Generalidades (General)|Duración de palabras clave repetidas]]
+
+### Fuentes oficiales
 
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): original normativo desde el 16 de octubre; resumen oficial de cambios en pp. 53–54.
 - [Recursos oficiales de Disney Lorcana](https://www.disneylorcana.com/en-US/resources/): publicación de los reglamentos.

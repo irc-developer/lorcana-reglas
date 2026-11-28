@@ -12,9 +12,10 @@ El espectador debe permanecer en silencio y no intervenir en la partida. Si obse
 
 ## 📘 Referencias
 
-- [[2. Roles del torneo#2.6 Espectador (Spectator)|Deberes del espectador]]
-- [[2. Roles del torneo#2.3 Lore Guides|Imparcialidad del Lore Guide]]
-- [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|Comunicación durante la partida]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/2. Roles del torneo|Deberes del espectador e imparcialidad del Lore Guide]]
+- [[03. Reglas de Torneo/5. Información y comunicación|Comunicación durante la partida]]
 
 ---
 

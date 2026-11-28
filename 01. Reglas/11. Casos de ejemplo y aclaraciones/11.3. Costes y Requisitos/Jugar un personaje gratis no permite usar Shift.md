@@ -18,11 +18,14 @@ Si eliges el modo Shift y un descuento reduce a 0 la tinta que debes pagar, el p
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2.3. Hacer todo lo que se pueda]].
-- [[1.5 Costes (Costs)|1.5.5.3. «Gratis» es un coste alternativo]].
-- [[4.3. Jugar una carta (Play a Card)|4.3.2.2. Anunciar el modo y saltar el cálculo y el pago cuando es gratis]].
-- [[6.1. General (General)|6.1.7. Jugar una carta gratis durante la resolución de un efecto]].
-- [[Jugar una carta con shift reduciendo su coste (incluso gratis)|Qué ocurre cuando un descuento reduce el coste de Shift a cero]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Cómo se aplican los permisos y las prohibiciones de las cartas]]
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes, descuentos y formas alternativas de pago]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis)|Reducir Shift a cero conserva el modo de juego elegido]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Pudge - jugar gratis no impide pagar tinta|Cuándo un permiso de jugar gratis deja elegir pagar tinta]]
 
 ---
 

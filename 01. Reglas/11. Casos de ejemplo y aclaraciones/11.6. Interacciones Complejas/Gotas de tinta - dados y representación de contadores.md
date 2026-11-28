@@ -28,7 +28,12 @@ Tienes tres gotas y las representas con un dado dedicado a ellas en el pozo de t
 
 ## 📘 Referencias
 
-- [[1.13. Contadores (Counters)|1.13.1.2–1.13.3.4: ubicación, uso y representación de los contadores]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.13. Contadores (Counters)|Uso y representación de los contadores y las gotas de tinta]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0, sección 1.13, p. 9](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=9).
 - [Notas oficiales de Hyperia City, «Ink Drops»](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/): contadores impresos, dados y otros objetos.
 - [Tournament Rules, sección 5.2, p. 23](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf#page=23): limitación de las representaciones numéricas en fichas.

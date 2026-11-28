@@ -38,18 +38,21 @@ Un permiso que diga «como si estuviera en tu mano», como el del caso D, es dif
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8. Jugando cartas como resultado de un efecto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8.1. Orden de resolución de las acciones]]
-- [[4.3. Jugar una carta (Play a Card)|4.3.2.2. Modo de juego]]
-- [[1.5 Costes (Costs)|1.5.5.1. Cantar es un coste alternativo]]
-- [[4.3. Jugar una carta (Play a Card)|4.3.3.2. Acciones]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4. El evento reemplazado no ocurre]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. La condición secundaria se comprueba al resolver]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Procedimiento de jugar una carta y resolver sus disparos]]
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes alternativos al jugar cartas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Qué ocurre cuando un efecto reemplaza un evento]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.4. Acciones (Actions)|Acciones, canciones y costes de cantar]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.11. Cantante (Singer)|Cantar usando Cantante]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.12. Cantar Juntos (Sing Together)|Pagar una canción cantando juntos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/We Know The Way no puede seleccionarse a sí misma|We Know The Way no puede seleccionarse a sí misma]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0, pp. 12–13](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=12), reglas 3.4.1.1 y 4.3.3.2, y [pp. 30–33](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30), reglas 6.2.4 y 6.5.4.
-- [[5.4. Acciones (Actions)|5.4.4.2. Las canciones permiten pagar un coste alternativo]]
-- [[8.11. Cantante (Singer)|8.11.1. Singer permite pagar ese coste alternativo]]
-- [[8.12. Cantar Juntos (Sing Together)|8.12.1. Definición]]
-- [[We Know The Way no puede seleccionarse a sí misma]]
 
 ---
 

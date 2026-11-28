@@ -18,10 +18,14 @@ El orden no depende de cuál habilidad entró antes en la bolsa. La bolsa da pri
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|4.6.4.4 Agotar]]: el personaje desafiante se agota durante la declaración; ahí se cumple la condición de *Come See!*.
-- [[4.6 Desafío (Challenge)|4.6.4.5 Efectos]] y [[4.6 Desafío (Challenge)|4.6.5 Habilidades disparadas]]: ocurre el desafío y las habilidades que dicen «is challenged» se añaden y resuelven desde la bolsa junto con los demás disparos de la declaración, antes del paso de daño.
-- [[7.7. Bolsa (Bag)|7.7.3.1 Añadir a la bolsa]]: una habilidad disparada entra en la bolsa cuando se cumple su condición.
-- [[7.7. Bolsa (Bag)|7.7.4.2 Prioridad del jugador activo]] y [[7.7. Bolsa (Bag)|7.7.4.4 Pasar la bolsa]]: primero resuelve el jugador activo sus habilidades; después, el oponente resuelve las suyas.
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Prioridad entre jugador activo y no activo|Un ejemplo de recuperar una carta antes del descarte rival]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): fuente oficial de las reglas 4.6.4–4.6.6 y 7.7.3–7.7.4.
 
 ---

@@ -68,20 +68,15 @@ Si, en cambio, eliges resolver primero **Healing Home**, puedes quitar hasta **2
 
 ## 📘 Referencias
 
-- [[7.7. Bolsa (Bag)]]: la subregla **7.7.3.1** indica que si varias habilidades disparadas ocurren al mismo tiempo, se añaden a la bolsa simultáneamente.
-- [[7.7. Bolsa (Bag)]]: las subreglas **7.7.4.2** y **7.7.4.3** indican que el jugador activo elige una de sus habilidades disparadas en la bolsa y la resuelve por completo antes de elegir la siguiente.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: la subregla **6.7.4** aclara que las habilidades disparadas creadas durante una resolución esperan a la bolsa y no se mezclan dentro de esa misma resolución.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: la subregla **6.7.5** establece que la comprobación del estado del juego se realiza después de que se resuelvan todos los efectos de una acción o habilidad.
-- [[1.8. Chequeo del estado del juego (Game State Check)]]: un personaje con daño igual o superior a su Voluntad es desterrado en esa comprobación.
-- [[Múltiples habilidades a la vez]]: resume que los triggers simultáneos no se resuelven a la vez, sino uno por uno desde la bolsa.
+### Wiki de Lorcana
 
----
-
-## 🔗 Véase también
-
-- [[Luisa Madrigal - I Can Take It, condición Then-if y GSC]]
-- [[Mover daño no es retirar daño]]
-- [[Múltiples habilidades a la vez]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Múltiples habilidades a la vez|Múltiples habilidades a la vez]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC|Resolver las dos instrucciones de I Can Take It antes del chequeo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Cómo mover daño retira contadores y puede generar disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra|Por qué Luisa puede quitarse el daño letal antes del chequeo]]
 
 ---
 

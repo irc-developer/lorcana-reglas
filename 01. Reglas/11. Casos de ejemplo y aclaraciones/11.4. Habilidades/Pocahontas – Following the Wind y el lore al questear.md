@@ -27,10 +27,15 @@ La clave es distinguir dos tipos de efectos:
 
 ## 📘 Referencias
 
-- [[5.3. Personajes (Characters)|5.3.6.4. Valor de Lore]] — {L} es una característica del personaje usada cuando un efecto la referencia.
-- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.]] — Los modificadores de característica (como +X {L}) se aplican de forma continua e inmediata.
-- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.2.]] — Cuando varios modificadores se aplican a una característica, todos se combinan.
+### Wiki de Lorcana
 
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|Distinguir personajes en juego, cartas de personaje y clasificaciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)|Aplicar y combinar modificadores de características]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mulan - Resourceful Recruit gana 7 lore con Buzz|Distinguir el valor de lore modificado del lore obtenido por una habilidad]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 5.3.6.4, 6.6.1, 6.6.1.2.
 > **Referencia oficial (EN):** §6.6.1 — *"Some abilities and effects can modify a characteristic of a character or location in play, such as {S} or {L}. […] Whenever a modifier applies to a card's characteristic, that characteristic changes immediately."*
 
 ---

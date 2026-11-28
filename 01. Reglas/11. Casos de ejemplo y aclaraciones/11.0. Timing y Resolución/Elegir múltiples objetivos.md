@@ -25,10 +25,21 @@ Con dos personajes tuyos elegibles, uno de coste 3 y otro de coste 6, eliges amb
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|CR 6.1.3–6.1.3.1: elecciones al resolver, requisitos y limitadores]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3: una selección debe cumplir todos sus requisitos]].
-- [[1.7. Game Actions, Timing, y Illegal Actions|CR 1.7.7: sin elecciones legales, la parte del efecto que depende de ellas no hace nada]].
-- [[4.3. Jugar una carta (Play a Card)|CR 4.3.3.2: resolver una acción y ponerla en el descarte]].
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Elecciones legales y corrección de acciones ilegales]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Narrow Escape aplica coste 2 a cada carta elegida|Cómo se aplica un límite por separado a cada carta elegida]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|Diferenciar una elección imposible de una elección inválida]]
+
+### Fuentes oficiales
+
+- CR 6.1.3–6.1.3.1: elecciones al resolver, requisitos y limitadores.
+- CR 6.7.3: una selección debe cumplir todos sus requisitos.
+- CR 1.7.7: sin elecciones legales, la parte del efecto que depende de ellas no hace nada.
+- CR 4.3.3.2: resolver una acción y ponerla en el descarte.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26), CR 1.2.3 (p. 3), 1.7.7 (p. 6), 4.3.3.2 (p. 13), 6.1.3–6.1.3.1 (pp. 25–26) y 6.7.3 (p. 36).
 
 ---

@@ -12,9 +12,14 @@ Depende de dónde terminó la carta. Si se añadió a la mano, hay una carta de 
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Distinguir información oculta y conteo incorrecto de cartas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Friends on the Other Side resuelta por error con Kida|Corregir cartas de más al resolver una habilidad como un robo distinto]]
+
+### Cartas citadas
+
 - [Mushu - Stealthy Dragon](https://cards.lorcast.io/card/digital/large/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871): el robo solo es posible si un oponente tiene más cartas en su mano.
-- [[2. Errores de reglas#2.2 Error de información oculta (Hidden Information Error)|Hidden Information Error]]
-- [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)|Card Count Error]]
 
 ---
 

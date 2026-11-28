@@ -16,10 +16,17 @@ Por ejemplo, el rival tiene dos personajes elegibles, A con 2 daños y B sin da�
 
 ## 📘 Referencias
 
-- [[1.3. Jugadores (Players)|CR 1.3.3 y 1.3.5.2: las referencias a oponentes se interpretan respecto del jugador que generó el efecto]].
-- [[6.1. General (General)|CR 6.1.3–6.1.3.1: elecciones y limitadores]].
-- [[1.9. Daño (Damage)|CR 1.9.2.4: mover daño retira contadores del origen y los pone en otro personaje o localización]].
-- [[8.15 Protección (ward)|CR 8.15: restricción para elegir una carta rival]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.3. Jugadores (Players)|Interpretar las referencias a jugadores y oponentes]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Distinguir daño infligido, puesto, movido y recibido]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Protección impide elecciones rivales, pero no los efectos que no eligen]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC|Mover daño respetando las elecciones y sin intercalar un chequeo de estado]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.3.3, 1.3.5.2, 6.1.3, 6.1.3.1, 1.9.2.4, 8.15.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=4), CR 1.3.3–1.3.5.3 (pp. 3–4), 1.9.2.4 (p. 7), 6.1.3–6.1.3.1 (pp. 25–26) y 8.15 (p. 44).
 
 ---

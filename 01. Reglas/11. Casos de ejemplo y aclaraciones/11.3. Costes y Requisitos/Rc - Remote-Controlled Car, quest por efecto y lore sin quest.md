@@ -54,17 +54,17 @@ Questear y ganar lore no son exactamente la misma cosa. El quest normal incluye 
 
 ## 📘 Referencias
 
-- [[8.7. Temerario (Reckless)|8.7.2. Reckless significa que el personaje no puede hacer quest]]
-- [[8.7. Temerario (Reckless)|8.7.3. Reckless no te deja acabar el turno si el personaje está ready y puede desafiar]]
-- [[4.5 Irse de aventura (Quest)|4.5.1.2. Al hacer quest se comprueban limitadores y se pagan los costes exigidos]]
-- [[4.6 Desafío (Challenge)|4.6.4.3. Al desafiar también se comprueban requisitos y se pagan los costes exigidos]]
-- [[4.5 Irse de aventura (Quest)|4.5.1.4. Ganar lore es un paso del procedimiento de quest, no su definición completa]]
-- [[4.5 Irse de aventura (Quest)|4.5.2. Un personaje ha "questeado" cuando completa ese proceso]]
-- [[1.5 Costes (Costs)|1.5.3. Un coste debe pagarse completo; si no puedes pagarlo entero, no puedes realizar la acción que lo exige]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3. Las decisiones se toman en el momento en que el efecto o acción se resuelve]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Si una elección concreta es ilegal, se retrocede solo hasta esa elección]]
-- [[6.1. General (General)|6.1.16.1. Con «unless», el efecto sigue aplicándose mientras la condición sea falsa]]
-- [[6.1. General (General)|6.1.3. Las elecciones se hacen en su punto propio de resolución]]
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)|Obligaciones y restricciones de Temerario]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest)|Completar la aventura antes de resolver sus disparos]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes, descuentos y formas alternativas de pago]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Elecciones legales y corrección de acciones ilegales]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Copper y Reckless sin objetivos de ataque|Cuándo Temerario permite terminar el turno sin desafiar]]
+
+### Criterio de aplicación
 
 **Nota de criterio:** esta interpretación distingue entre dos cosas distintas: por un lado, la restricción de Reckless sobre cuándo puedes cerrar el turno; por otro, la decisión aparte de declarar un challenge pagando LOW BATTERIES.
 

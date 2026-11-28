@@ -22,19 +22,26 @@ Al jugar un personaje, primero se aplican los efectos que modifican **cómo entr
 
 ## 📘 Referencias
 
-- [[4.3. Jugar una carta (Play a Card)|4.3.3: modificar la entrada y colocar la carta en juego]].
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3: habilidades continuas que afectan al personaje al entrar]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.9: efectos que modifican cómo entra una carta]].
-- [[8.3. Guardaespaldas (Bodyguard)|8.3.2: opción de entrar agotado]].
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.5: efectos independientes del mismo disparo]].
+### Wiki de Lorcana
 
-[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 13, 30, 32, 38 y 41.
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Completar la jugada y la resolución de la carta antes de atender los disparos]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.3. Guardaespaldas (Bodyguard)|Entrar agotado y elegir defensores legales con Guardaespaldas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bodyguard|Aplicar Guardaespaldas al determinar la entrada y al elegir defensores]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Wisp Conjurer entra ya agotada|Distinguir entrar agotado de agotar al personaje después de entrar]]
 
----
+### Aclaraciones de las referencias
 
 ### Aplicar conjuntamente daño y agotamiento al entrar
 
 Si un efecto hace que el personaje entre con daño y otro hace que entre agotado, se aplican ambos durante la jugada salvo que el texto establezca una incompatibilidad. La regla 6.7.9 aplica primero los efectos de la carta entrante y después los de otras fuentes. El personaje entra agotado y con daño mientras sigue secándose.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 4.3.3, 6.4.2.3, 6.7.9, 8.3.2, 6.2.5.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 13, 30, 32, 38 y 41.
 
 ---
 

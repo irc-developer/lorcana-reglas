@@ -44,17 +44,15 @@ Si, en cambio, no puedes aplicar legalmente la segunda parte, Luisa se quedará 
 
 ## 📘 Referencias
 
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8. Chequeo del estado del juego]]: el **GSC** se realiza después de que se resuelvan todos los efectos de una acción o habilidad, no entre frases de una misma habilidad.
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.5. Las condiciones solo se cumplen cuando ocurre el GSC]]: si una condición de daño letal se cumple durante la resolución pero deja de cumplirse antes del **GSC**, el personaje no es desterrado.
-- [[1.9. Daño (Damage)|1.9.2.4. Mover daño]]: mover daño quita contadores del origen y los pone en el destino dentro de la misma resolución.
-- [[6.1. General (General)|6.1. General]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: las instrucciones se resuelven en orden y tanto como sea posible.
+### Wiki de Lorcana
 
----
-
-## 🔗 Véase también
-
-- [[Luisa Madrigal - I Can Take It, condición Then-if y GSC]]
-- [[Mover daño no es retirar daño]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC|Resolver las dos instrucciones de I Can Take It antes del chequeo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Cómo mover daño retira contadores y puede generar disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard|El chequeo entre dos disparos: por qué una curación posterior puede llegar tarde]]
 
 ---
 

@@ -12,7 +12,11 @@ Una descalificación se aplica al evento en el que se dicta y no crea por sí so
 
 ## 📘 Referencias
 
-- [[7. Conducta del Jugador#7.1. Conducta Prohibida (Prohibited Conduct)|7.1. Conducta prohibida]] y las condiciones de elegibilidad comunicadas por la organización.
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/7. Conducta del Jugador|Conducta prohibida]]
+
+---
 
 ## 🔄 Cómo se resuelve
 

@@ -13,9 +13,10 @@ Mientras están en pila, las cartas de debajo no se consideran en juego como car
 
 ## 📘 Referencias
 
-- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]
-- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila (In a stack)]]
-- [[5.1. Estados de las cartas (Card States)|5.1.1.10. Boca abajo (Facedown)]]
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y movimiento de las pilas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo|Una pila completa que se convierte en tinta al salir del juego]]
 
 ---
 

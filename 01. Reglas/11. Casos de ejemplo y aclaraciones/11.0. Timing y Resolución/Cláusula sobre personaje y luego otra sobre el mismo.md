@@ -13,8 +13,11 @@ Esto es aplicable también a:
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)|7.7.4. Orden]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Agotar personaje varias veces|La segunda instrucción sigue refiriéndose al mismo personaje]]
 
 ---
 

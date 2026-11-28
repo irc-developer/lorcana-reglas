@@ -16,8 +16,14 @@ Si no puedes completar A, no continúas a B. Si rechazas el único «may», no r
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.4 y 6.1.5.1: efecto opcional y dependencia A para B]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.2–6.7.2.3: daño calculado antes y ejecución en orden haciendo tanto como sea posible]].
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje|Descartar para devolver: la misma dirección de dependencia]]
+
+### Fuentes oficiales
+
 - [CR 2.3.0, 6.1.5.1, p.26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26).
 
 ---

@@ -13,8 +13,14 @@ En las cartas, “they/them/their” funciona como pronombre neutro singular y n
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.1. Texto de habilidad y efecto]]
-- [[6.1. General (General)|6.1.2. Interpretación por estructura completa del texto]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Uso de pronombres neutros en textos de cartas (they, their, them)|Interpretar they, their y them siguiendo el sujeto definido por la habilidad]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.1.1, 6.1.2.
 
 ---
 

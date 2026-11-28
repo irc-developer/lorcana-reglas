@@ -16,9 +16,18 @@ Si Goliath está controlado por el oponente, primero se resuelven las habilidade
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'|Por qué una habilidad de final de turno no vuelve a dispararse]]
+
+### Texto de las cartas
+
 - [Clarabelle - Light on Her Hooves](https://cards.lorcast.io/card/digital/large/crd_7e4aa6ffcba9401b916220a6f79c355c.avif?1723917209) y [Goliath - Clan Leader](https://cards.lorcast.io/card/digital/large/crd_daf2fde77da94e85898ad1cbd36059e6.avif?1761764707).
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. Condición secundaria]]: la condición se comprueba al resolver, no al dispararse.
-- [[7.7. Bolsa (Bag)|7.7. Bolsa]]: el jugador activo elige primero sus habilidades y después se pasa la bolsa en orden de turno.
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 6.2.4, 7.7.3 y 7.7.4.
 
 ---

@@ -40,14 +40,19 @@ La habilidad es opcional, pero no permite escoger solo algunas de las Princesas 
 
 ## 📘 Referencias
 
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Definición]]
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1. Definición]]
-- [[4.6 Desafío (Challenge)|4.6.5. Desafío y habilidades disparadas]]
-- [[4.6 Desafío (Challenge)|4.6.6. Paso de daño por desafío]]
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1.1. Enderezar cartas]]
-- [[4.3. Jugar una carta (Play a Card)|4.3.2.2. Modo de juego]]
-- [[4.5 Irse de aventura (Quest)|4.5.1–4.5.3: requisitos de misión y resolución de sus disparos]].
-- [[6.1. General (General)|6.1.3.1 y 6.1.5.1: limitadores y efectos secuenciales]].
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Comprobar la legalidad del desafío y seguir su secuencia]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|Preparar las cartas antes de robar al empezar el turno]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Completar la jugada y la resolución de la carta antes de atender los disparos]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.5 Irse de aventura (Quest)|Cumplir los requisitos de la aventura y resolver sus disparos]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.2.1, 6.4.1, 4.6.5, 4.6.6, 3.2.1.1, 4.3.2.2, 4.5.1, 4.5.3, 6.1.3.1, 6.1.5.1.
 - [Notas oficiales de Fabled, Moana - Of Motunui](https://www.disneylorcana.com/en-US/news/2025/08/2025-8-release-notes-fabled): texto actualizado y obligación de preparar todo el grupo pertinente.
 - [CR 2.3.0, 6.1.3.1 y 6.1.5.1, p. 26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=26), y [4.5, pp. 14–15](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=14).
 

@@ -16,9 +16,16 @@ Un personaje con valor de Leyenda 0 puede igualmente ganar Leyenda mediante una 
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2.2: prohibiciones]].
-- [[6.1. General (General)|6.1.2: resolver en orden tanto como sea posible]].
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3: condición]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Aplicar el texto de las cartas, respetar prohibiciones y hacer tanto como sea posible]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Strange Things y This Growing Pressure - prohibición frente a obligación condicional|Cómo prevalecen las prohibiciones sin impedir otras instrucciones legales]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.2.2, 6.1.2, 6.4.2.3.
 - [Notas de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), aclaración sobre Leyenda 0.
 
 ---

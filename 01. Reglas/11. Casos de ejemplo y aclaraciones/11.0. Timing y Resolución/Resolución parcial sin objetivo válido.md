@@ -15,8 +15,11 @@ Sí. La primera no puede resolverse al no tener un objetivo válido, por lo que 
 
 ## 📘 Referencias
 
-- [[8.15 Protección (ward)|Protección]]
-- [[8.5. Desafiador (Challenger)|Desafiador + 2]]
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Qué elecciones impide Protección y en qué zonas funciona]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.5. Desafiador (Challenger)|Cuándo aumenta la Fuerza de Desafiador]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|La diferencia entre no tener objetivo y elegir uno inválido]]
 
 ---
 
@@ -24,7 +27,9 @@ Sí. La primera no puede resolverse al no tener un objetivo válido, por lo que 
 
 Scream Canister puede activarse y pagarse aunque no exista un objetivo legal para su efecto. El coste se paga al iniciar la acción; al resolver, se hace todo lo posible y se omite la elección que no tiene objetivo. Pagar el coste no convierte una elección sin objetivo en una elección válida.
 
-Fundamento: reglas 1.2.3, 4.4.3 y 6.7.2 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
+### Fuentes oficiales
+
+- Reglas 1.2.3, 4.4.3 y 6.7.2 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

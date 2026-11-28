@@ -14,16 +14,21 @@ Cada Roo ve a la otra copia como otro personaje Hunny, por lo que ambas pueden g
 
 ## 📘 Referencias
 
-- [[5.3. Personajes (Characters)|5.3. Personajes]] regula clasificaciones como Hunny.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas]] aplica Elusive Expertise continuamente mientras se cumpla su condición.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|Distinguir personajes en juego, cartas de personaje y clasificaciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh - Hunny Archmage cuenta otra copia como other Hunny|Otra aplicación de other que distingue cartas sin exigir nombres diferentes]]
+
+### Aclaraciones de las referencias
+
 - `Another` excluye a la propia carta que aplica el efecto, no a las cartas con el mismo nombre.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 5.3, 6.4.
 - Las *Attack of the Vine Set Release Notes* confirman esta interpretación.
-
----
-
-## 📚 Fuente oficial
-
-Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
+- Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

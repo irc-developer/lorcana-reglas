@@ -31,13 +31,18 @@ Completar una habilidad ya declarada no es lo mismo que deshacerla para escoger 
 
 ## 📘 Referencias
 
-[[8.4. Impulso (boost)|8.4 Impulso (Boost)]]: define Boost como efecto secuencial que pone la carta superior del mazo boca abajo debajo de la carta.
-- [[3. Operaciones en los torneos#3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)|3.5 Secuenciación Fuera de Orden]]: permite cierta flexibilidad solo si se llega al mismo estado legal sin obtener información.
-- [[3. Operaciones en los torneos#3.7 Takebacks|3.7 Takebacks]]: los takebacks son excepcionales y requieren Lore Guide.
-- [[3. Operaciones en los torneos#3.7.2 Acciones ilegales y errores de reglas en takebacks|3.7.2 Acciones ilegales y errores de reglas en takebacks]]: una acción ilegal o error de reglas puede requerir corrección o rebobinado parcial.
-- [[04. Guia de correccion de jugadas/1. Introducción#1.2.3 Criterios para el rebobinado|Criterios para el rebobinado]]: no rebobinar si el arreglo empeora el estado, si no está claro el orden o si abarca demasiadas decisiones.
-- [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)|General Rule Error]]: categoría base para errores de reglas no cubiertos por otros apartados.
-- [[2. Errores de reglas#2.1 Efecto disparado perdido (Missed Trigger)|Missed Trigger]]: relevante solo para disparos derivados, no para el Boost en sí.
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost)|Poner la carta superior del mazo debajo mediante Impulso]]
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Secuenciación fuera de orden y límites de los takebacks]]
+- [[04. Guia de correccion de jugadas/1. Introducción|Criterios del Lore Guide para autorizar un rebobinado]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Distinguir una resolución incompleta de un disparo olvidado]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.4.
+- Tournament Rules, reglas 3.5, 3.7, 3.7.2.
+- Play Correction Guidelines, reglas 1.2.3, 2.4, 2.1.
 
 ---
 

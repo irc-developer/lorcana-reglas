@@ -18,25 +18,29 @@ Un personaje agotado puede ser seleccionado legalmente. Cuando Elsa intenta agot
 
 ## 📘 Referencias
 
-**Definición: Estados de carta y redundancia**
+### Wiki de Lorcana
 
-[[1.2. Regla de oro (Golden Rules)|Regla de Oro (1.2.3)]]: Si un efecto indica que hagas algo, debes hacer todo lo que puedas, aunque no puedas completar el efecto entero. Esto se conoce como *doing as much as you can*.
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Prohibiciones y resolución de todo lo que sea posible]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y cartas colocadas debajo de otras]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir un personaje agotado por restricción|Elegir un personaje agotado por restricción]]
 
-Aplicación a Elsa:
-- **Selección**: No hay limitación que impida elegir un personaje agotado en el texto de Elsa.
-- **Intentar agotar**: El efecto intenta cambiar el estado de agotado a agotado (redundante).
-- **Estado actual y nuevo**: Si una carta está agotada y se intenta aplicar "agotar", no cambia de estado porque YA está en ese estado.
-- **Efecto adicional**: La parte "They can't ready at the start of their next turn" se aplica incluso al personaje agotado.
-
-**Texto relevante de carta:**
+### Cartas citadas
 
 [Elsa - Spirit of Winter](https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747): *"When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."*
 
-**Referencias normativas:**
+### Notas de lectura
 
-- [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]]
-- [[6.1. General (General)|Elecciones y resolución de efectos]]
+**Definición: Estados de carta y redundancia**
+Aplicación a Elsa:
 
+- **Selección**: No hay limitación que impida elegir un personaje agotado en el texto de Elsa.
+
+- **Intentar agotar**: El efecto intenta cambiar el estado de agotado a agotado (redundante).
+
+- **Estado actual y nuevo**: Si una carta está agotada y se intenta aplicar "agotar", no cambia de estado porque YA está en ese estado.
+
+- **Efecto adicional**: La parte "They can't ready at the start of their next turn" se aplica incluso al personaje agotado.
 ---
 
 ## 🔄 Cómo se resuelve

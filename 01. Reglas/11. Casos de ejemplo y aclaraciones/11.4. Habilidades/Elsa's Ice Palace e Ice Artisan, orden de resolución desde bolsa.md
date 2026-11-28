@@ -24,12 +24,24 @@ O, ¿requiere Ice Palace tener un objetivo legal válido **cuando se añade a la
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|Elegir durante la resolución con las opciones legales de ese momento]]
+
+### Textos de cartas
+
 - **Elsa's Ice Palace - Place of Solitude** (ETERNAL WINTER): "When you play this location, **choose an exerted character**. While this location is in play, that character can't ready at the start of their turn."
 - **Elsa - Ice Artisan** (ENDLESS WINTER): "When you play this character and whenever you play a location, **you may exert chosen character with 3 {S} or less**."
-- En [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]: "Si varias habilidades disparadas ocurren al mismo tiempo, **se añaden a la bolsa simultáneamente**."
-- En [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]: "Si alguna de esas habilidades disparadas pertenece al jugador activo, **este elige una de sus habilidades disparadas y la resuelve por completo**."
-- En [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]: "El jugador realiza las instrucciones del texto del efecto que se está resolviendo y **toma las elecciones requeridas por el efecto que no se hayan hecho en el paso anterior**."
+
+### Aclaraciones de las referencias
+
 - **Distinción crítica**: Los objetivos se eligen durante la resolución (paso correspondiente de 6.7.2), no cuando la habilidad entra a la bolsa (7.7.3.1)
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 7.7.3.1, 7.7.4.2, 6.7.2.3.
 
 ---
 

@@ -12,9 +12,12 @@ No hay una Match Loss automática por el mero descubrimiento. En un Set Champion
 
 ## 📘 Referencias
 
-- [[1. Definiciones de torneo#1.3. Formatos de Torneo|Mínimo de 60 cartas en Construido]]
-- [[3. Operaciones en los torneos#3.8 Registro de Mazos (Deck Registration)|Registro obligatorio]]
-- [[3. Errores de torneo#3.4 Error de mazo-registro mayor (Deck-Registration Error major)|DRE Major y su solución]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/1. Definiciones de torneo|Mínimo de 60 cartas en Construido]]
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Registro obligatorio]]
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Cómo corregir un error mayor de mazo o registro]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Game Loss por error de registro aplicada a la partida actual|Game Loss por error de registro aplicada a la partida actual]]
 
 ---
 

@@ -22,11 +22,24 @@ MEND THE PHOTO se añade a la bolsa cuando ocurre ese movimiento y espera a que 
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|Diferencias entre el coste y el efecto de una habilidad activada]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Disparar habilidades mientras se resuelve una carta|El disparo de Héctor al cantar espera a que termine la canción]]
+
+### Texto de las cartas
+
 - **Cartas enlazadas arriba**: la canción y BIG HIT ponen las cartas restantes del mazo en el descarte; MEND THE PHOTO exige ese movimiento y comprueba Rivera Family Photo en juego.
-- [[6.1. General (General)|Reglas generales de habilidades]], CR 6.1.11.1, 6.1.12 y 6.1.14: una carta referenciada debe seguir en la zona indicada; algunas habilidades funcionan fuera de la zona de juego; revelar muestra una carta.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|Habilidades disparadas]], CR 6.2.1, 6.2.3 y 6.2.4: el evento genera el disparo y la condición secundaria se comprueba al resolver.
-- [[6.3. Habilidades Activadas (Activated Abilities)|Habilidades activadas]], CR 6.3.1: FOND MEMORIES tiene un coste y un efecto; no es una habilidad disparada.
-- [[7.7. Bolsa (Bag)|Bolsa]], CR 7.7.3.1: los disparos generados durante un efecto esperan a que ese efecto termine.
+
+### Fuentes oficiales
+
+- Reglas generales de habilidades, CR 6.1.11.1, 6.1.12 y 6.1.14: una carta referenciada debe seguir en la zona indicada; algunas habilidades funcionan fuera de la zona de juego; revelar muestra una carta.
+- Habilidades disparadas, CR 6.2.1, 6.2.3 y 6.2.4: el evento genera el disparo y la condición secundaria se comprueba al resolver.
+- Habilidades activadas, CR 6.3.1: FOND MEMORIES tiene un coste y un efecto; no es una habilidad disparada.
+- Bolsa, CR 7.7.3.1: los disparos generados durante un efecto esperan a que ese efecto termine.
 - [Comprehensive Rules 2.3.0 — PDF oficial](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=28), pp. 28–31 y 40.
 
 ---

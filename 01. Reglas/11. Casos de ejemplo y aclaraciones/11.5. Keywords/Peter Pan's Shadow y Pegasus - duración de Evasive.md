@@ -22,8 +22,15 @@ Si Peter Pan's Shadow abandona la zona de juego antes de resolver **Hop On!** y 
 
 ## 📘 Referencias
 
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1 y 6.4.2.2–6.4.2.3]]: habilidades continuas de cartas en juego y concesiones aplicadas por efectos resueltos.
-- [[6.1. General (General)|6.1.13.3–6.1.13.4]]: diferencia entre «hasta» y «este turno».
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Palabras clave repetidas y duración|Más ejemplos de duración, condiciones y concesiones que dejan de existir]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.4.1, 6.4.2.2, 6.4.2.3, 6.1.13.3, 6.1.13.4.
 - [Comprehensive Rules 2.3.0, p. 41](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41), regla 8.1.2: comparación de duraciones; el ejemplo distingue duración indefinida y final de turno. Véanse también pp. 29 y 32 para duración y habilidades estáticas.
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartado «Keyword Stacking».
 

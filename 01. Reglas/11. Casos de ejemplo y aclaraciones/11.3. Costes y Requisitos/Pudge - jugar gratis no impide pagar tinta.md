@@ -14,8 +14,14 @@ La CR 1.5.5.3 explica que un efecto que permite jugar una carta gratis significa
 
 ## 📘 Referencias
 
-- [[1.5 Costes (Costs)|1.5.5.3 Gratis (for free)]]: un efecto que permite jugar una carta gratis significa que puedes jugarla sin pagar su coste.
-- [[4.3. Jugar una carta (Play a Card)|4.3.2.2 Modo de juego]]: se anuncia si se paga el coste de tinta o uno alternativo; al elegir «gratis», se ignoran todos los costes.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes, descuentos y formas alternativas de pago]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift|El contraste con una canción que obliga a jugar gratis]]
+
+### Fuentes oficiales
+
 - [CR 2.3.0, p. 5](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=5) y [p. 13](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13).
 
 ---

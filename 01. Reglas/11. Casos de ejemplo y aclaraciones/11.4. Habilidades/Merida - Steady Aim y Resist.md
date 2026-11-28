@@ -26,11 +26,18 @@ La interacción completa con los dos escudos está desarrollada en [[Merida fren
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.2.1. Deal y 1.9.2.2. Put son operaciones distintas]]
-- [[1.9. Daño (Damage)|1.9.5. La fuente sigue considerándose que inflige daño si los modificadores lo reducen a 0]], CR 2.3.0, p. 8.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Cálculo y resolución del daño]]
-- [[8.8. Resistir (Resist)|8.8.2. El personaje o la localización no reciben daño si se reduce a 0]].
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4 y 6.5.8. Disparos después de un reemplazo y ejemplo de ACT OF KINDNESS]], CR 2.3.0, pp. 33–34.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Distinguir daño infligido, puesto, movido y recibido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Reducir el daño infligido y distinguirlo del daño recibido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Cómo se aplican y se combinan los efectos de reemplazo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño|Comparar Resist con las protecciones de Lilo y Rapunzel]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Hydra - Deadly Serpent y Resist +1|Contraste con una habilidad que exige que su personaje reciba daño]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.9.2.1, 1.9.2.2, 1.9.5, 6.7.2, 8.8.2, 6.5.4, 6.5.8.
 
 ---
 

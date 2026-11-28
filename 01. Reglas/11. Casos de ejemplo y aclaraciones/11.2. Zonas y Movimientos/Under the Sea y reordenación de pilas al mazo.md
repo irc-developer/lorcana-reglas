@@ -24,9 +24,11 @@ Por tanto, un orden como **B1, C3, C1, B2, C2, F1** es legal si todas esas carta
 
 ## 📘 Referencias
 
-- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona.
-- [[7.2. Mazo (Deck)|7.2.3. Origen del En cualquier orden]]: al poner cartas en la parte superior o inferior del mazo “en cualquier orden”, el jugador puede ordenar y mezclar libremente las pilas individuales antes de colocarlas.
-- [[7.2. Mazo (Deck)|7.2.3.1. Abandonar una zona para ir al mazo]]: si esas cartas estaban en una o más pilas, cualquiera de las cartas de esas pilas puede combinarse y ordenarse libremente con las demás cartas que se añadan al mazo, incluidas cartas de otras pilas.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y movimiento de las pilas]]
+- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)|Acceso, orden y colocación de cartas en el mazo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hades - Looking for a Deal sobre personaje con Boost|El contraste cuando el efecto fija el personaje en la posición inferior]]
 
 ---
 

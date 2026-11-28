@@ -14,9 +14,15 @@ El daño base de Piercing Attack es 2. Resist +2 normalmente lo reduciría a 0, 
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9. Daño]] regula daño infligido y contadores de daño.
-- [[8.8. Resistir (Resist)|8.8. Resist]] define la reducción de daño.
-- [[1.2. Regla de oro (Golden Rules)|1.2. Regla de oro]] hace prevalecer la prohibición específica de Piercing Attack.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Qué daño reduce Resistir y qué ocurre al reducirlo a cero]]
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Prohibiciones y resolución de todo lo que sea posible]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Hydra - Deadly Serpent y Resist +1|Hydra - Deadly Serpent y Resist +1]]
+
+### Fuentes oficiales
+
 - Las *Attack of the Vine Set Release Notes* confirman la secuencia de cálculo del daño.
 
 ---

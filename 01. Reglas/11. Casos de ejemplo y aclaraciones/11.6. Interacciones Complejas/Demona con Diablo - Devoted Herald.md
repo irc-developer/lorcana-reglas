@@ -22,20 +22,26 @@ Tampoco se forma un bucle. Cuando luego el controlador de Diablo robe por su pro
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El texto se resuelve en el orden en que está escrito]]
-- [[1.12 Robo (Drawing)|1.12. Robo]]
-- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers creados durante una resolución esperan a que el efecto actual termine]]
-- [[Colors of the Wind - Resolución de robo múltiple]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Robar cartas de una en una y distinguirlo de ponerlas en la mano]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Colors of the Wind - Resolución de robo múltiple|Colors of the Wind - Resolución de robo múltiple]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald|Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald]]
+
+### Notas de lectura
 
 La interacción se apoya en cuatro ideas distintas:
 
 - Demona primero **agota** a los personajes rivales y luego hace robar hasta 3.
+
 - Robar varias cartas sigue siendo **robar carta a carta**, no un único evento de robo global.
+
 - Cada robo que cumpla la condición de Diablo genera un **disparo independiente**.
+
 - Si ese disparo ocurre mientras Demona todavía se está resolviendo, entra en la **bolsa** pero espera a que la resolución actual acabe.
-
 Por eso, si el rival tenía a Diablo preparado antes de que empezara a resolverse Demona, Demona misma lo dejará agotado a tiempo para que vea tus robos posteriores dentro de esa misma resolución.
-
 El mismo criterio aclara el segundo caso: un Diablo que controlas tú no mira lo que tú robas en tu propio turno, porque su texto está limitado a los turnos de tus oponentes.
 
 ---

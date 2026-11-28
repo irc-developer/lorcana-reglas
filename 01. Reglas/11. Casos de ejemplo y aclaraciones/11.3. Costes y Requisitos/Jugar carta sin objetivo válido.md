@@ -14,10 +14,14 @@ Al resolverla, se hace todo lo posible. Si un efecto obligatorio pide elegir un 
 
 ## 📘 Referencias
 
-- [[4.3. Jugar una carta (Play a Card)|4.3. Jugar una carta]]: jugar una acción exige que el proceso de juego y su pago sean legales.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Resolver tanto como sea posible]]: se realizan todas las instrucciones que puedan realizarse.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.3. Elecciones legales]]: cada elección debe cumplir todos sus requisitos.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5. GSC]]: la comprobación se hace después de la resolución completa.
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|La diferencia entre carecer de objetivo y elegir uno ilegal]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 4.3, 6.7.2.3 y 6.7.3.
 
 ---

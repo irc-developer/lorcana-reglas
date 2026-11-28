@@ -14,10 +14,12 @@ Advanced Mimicry permite elegir a Morph aunque no sea un objeto ni se llame Pota
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2. Regla de oro]] hace prevalecer la excepción específica de Advanced Mimicry.
-- [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales de Shift.
+### Wiki de Lorcana
 
----
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Prohibiciones y resolución de todo lo que sea posible]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados de la pila]]
+
+### Fuentes oficiales
 
 - [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): aclaraciones de Morph y Potato Shift.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), 8.10.4.1 y 8.10.8.6: soporte no personaje y Potato Shift.

@@ -20,10 +20,21 @@ Lo que determina qué daño evita Rapunzel es cuál es la siguiente instancia de
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Distinguir daño infligido, puesto, movido y recibido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Cómo se aplican y se combinan los efectos de reemplazo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Hydra - Deadly Serpent y Resist +1|Cuándo Hydra recibe daño suficiente para generar WATCH THE TEETH]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0|Conservar la protección cuando el cálculo del daño ya lo deja en cero]]
+
+### Textos de cartas
+
 - **ACT OF KINDNESS:** “The next time they would be dealt damage they take no damage instead.”
 - **WATCH THE TEETH:** “Whenever this character is dealt damage, deal that much damage to chosen opposing character.”
-- [[1.9. Daño (Damage)|1.9.2.1. Deal]]: el daño puede ser infligido durante un desafío **o como resultado de un efecto que inflige daño**.
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]: ACT OF KINDNESS sustituye la siguiente instancia aplicable por no recibir daño.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.9.2.1, 6.5.
 
 ---
 

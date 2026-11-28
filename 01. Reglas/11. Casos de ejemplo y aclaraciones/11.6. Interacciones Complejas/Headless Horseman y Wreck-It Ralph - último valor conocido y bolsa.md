@@ -28,11 +28,14 @@ La consecuencia práctica es esta:
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.7. Último valor conocido]]
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3. Fin inmediato del efecto al salir del juego]]
-- [[7.4. Juego (Play)|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
-- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers creados durante una resolución esperan a que el efecto actual termine]]
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.3. La bolsa se resuelve después de completar las comprobaciones y resoluciones en curso]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)|Habilidades que observan salidas simultáneas del juego]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego|Fuente estática abandona el juego]]
 
 ---
 

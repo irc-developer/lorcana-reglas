@@ -23,11 +23,16 @@ Coconut permite construir con hasta tres tipos de tinta y aplica las reglas norm
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2.2. Impedir tiene prioridad sobre permitir]].
-- [[6.1. General (General)|6.1.5 y 6.1.5.1. Si la parte inicial no se completa, la secuencia no continúa]].
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1. La prevención de Kronk permanece activa mientras está en la zona de juego]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4 y 6.7.5. Bolsa pendiente y comprobación después de resolver]].
-- [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Cómo se aplican los permisos y las prohibiciones de las cartas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Carta que me impide el descarte vs carta que me indica descartar|La misma prohibición ante un descarte opcional u obligatorio]]
+
+### Fuentes oficiales
 
 **Fuente primaria:** [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 3, 26, 32 y 37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
 

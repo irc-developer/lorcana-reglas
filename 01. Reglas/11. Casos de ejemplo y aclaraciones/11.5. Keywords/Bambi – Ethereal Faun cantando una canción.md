@@ -13,9 +13,16 @@ La canción se resuelve primero. La habilidad disparada de [Bambi - Ethereal Faw
 
 ## 📘 Referencias
 
-- [[1.5 Costes (Costs)|1.5.5.1. Cantar]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.2. Resolución completa]]
-- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Pagar costes alternativos y aplicar reducciones al pago]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Completar las acciones y respetar los requisitos de legalidad]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Ariel Ethereal Voice, boost y Beyond the Horizon|Otro disparo de canción que debe esperar a su resolución completa]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.5.5.1, 1.7.2, 7.7.3.1.
 
 ---
 

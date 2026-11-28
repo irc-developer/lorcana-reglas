@@ -71,11 +71,21 @@ El Singer concedido por la guitarra y sus modificadores al coste para cantar exp
 
 ## 📘 Referencias
 
-- [[8.1. Generalidades (General)|8.1.2. Palabras clave no acumulables y duración]]: el Singer impreso prevalece sobre la concesión temporal.
-- [[8.11. Cantante (Singer)|8.11.1–8.11.3. Singer y coste para cantar]]: distingue la habilidad, el coste utilizado para cantar y los modificadores a ese coste.
-- [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.2. Combinación de modificadores]]: las bonificaciones al coste para cantar se suman.
-- [[5.3. Personajes (Characters)|5.3.1. Personajes en juego]], [[7.1. General|7.1.5–7.1.6. Zonas y pérdida de efectos obtenidos]] y [[8.15 Protección (ward)|8.15.1. Restricción de elección de Ward]].
-- [[6.1. General (General)|6.1.13.4. Duración «este turno»]].
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.1. Generalidades (General)|Comparar la duración de palabras clave repetidas]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.11. Cantante (Singer)|Distinguir Cantante del coste con el que cuenta un personaje al cantar]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)|Aplicar y combinar modificadores de características]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|Distinguir personajes en juego, cartas de personaje y clasificaciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.1. General|Zonas de las cartas y pérdida de efectos al cambiar de zona]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Protección impide elecciones rivales, pero no los efectos que no eligen]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades estáticas globales y zonas|Por qué Cantante concedido en juego no se aplica a una carta del mazo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Palabras clave repetidas y duración|Cómo prevalece una palabra clave de duración mayor sobre otra concesión]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.1.2, 8.11.1, 8.11.3, 6.6.1.2, 5.3.1, 7.1.5, 7.1.6, 8.15.1, 6.1.13.4.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), especialmente 8.1.2 y 8.11, pp. 41 y 43–44.
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartado «Ancestral Guitar»: el modificador +2 se aplica aunque el personaje ya tenga Singer.
 

@@ -12,7 +12,10 @@ No hay contradicción. Las Comprehensive Rules describen la acción normal de po
 
 ## 📘 Referencias
 
-- [[4.2 Entintar una carta (Ink a Card)|4.2. Entintar una carta]] y [[5. Información y comunicación#5.5 Pozo de tinta|5.5. Pozo de tinta en torneo]].
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.2 Entintar una carta (Ink a Card)|Cómo se realiza la acción de entintar]]
+- [[03. Reglas de Torneo/5. Información y comunicación|Cómo se muestra y comunica el pozo de tinta en torneo]]
 
 ---
 

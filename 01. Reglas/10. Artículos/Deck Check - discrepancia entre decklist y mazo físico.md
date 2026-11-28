@@ -30,5 +30,13 @@ Ante una discrepancia, llama al Lore Guide y conserva mazo y lista para la inves
 
 ## Referencias
 
+### Wiki de Lorcana
+
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Distinguir errores menores y mayores de mazo o registro]]
+- [[03. Reglas de Torneo/1. Definiciones de torneo|Requisitos de construcción y legalidad de los formatos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Mazo de 53 cartas descubierto en un Top 8|Cómo investigar un mazo incompleto descubierto durante la partida]]
+
+### Fuentes oficiales
+
 - [Play Correction Guidelines, 3.3–3.4, pp.9–10](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf#page=9), efectivas el 21/05/2024.
 - [Tournament Rules, 1.3.1 y 3.8–3.9, pp.5 y 19–20](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf#page=19), efectivas el 14/07/2026.

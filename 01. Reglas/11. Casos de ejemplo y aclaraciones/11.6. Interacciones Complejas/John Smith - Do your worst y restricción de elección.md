@@ -24,23 +24,23 @@ Por lo tanto, cuando el oponente juega Hypnotic Strength:
 
 ## 📘 Referencias
 
-**Definición: "If able" en restricciones de elección**
+### Wiki de Lorcana
 
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Elsa – Spirit of Winter elegir personaje agotado|Elsa eligiendo personajes agotados]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Procedimiento de jugar una carta y resolver sus disparos]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Education or Elimination|Cuándo John Smith deja de ser una elección legal]]
+
+### Notas de lectura
+
+**Definición: "If able" en restricciones de elección**
 Cuando una habilidad estática contiene una restricción con "if able" (si es posible), esa restricción aplica cuando existe AL MENOS UNA opción legal que cumpla el criterio. Si el jugador tiene múltiples opciones pero UNA DE ELLAS está restringida, el jugador debe elegir la opción restringida si es legal.
 
 **Definición crítica: Scope de "Chosen character" en acciones**
-
 Una acción que dice simplemente "Chosen character" o "a character" SIN especificar propiedad (sin decir "your character", "one of your characters", "your opponent's character", etc.) permite elegir **CUALQUIER personaje en juego**, a menos que el contexto o una capacidad previa lo restrinja.
 
 **Nota comparativa: "Si es posible" no evalúa el estado de la carta**
-
-A diferencia de [[Elsa – Spirit of Winter elegir personaje agotado|Elsa eligiendo personajes agotados]], donde la restricción de elección no impide seleccionar un personaje en un estado particular, la restricción "if able" de John Smith se refiere a si el **objetivo es legalmente seleccionable**, no a su estado de juego.
-
-**Fundamento:**
-- [[6.1. General (General)|Elecciones y resolución de efectos]]
-- [[4.3. Jugar una carta (Play a Card)|Jugar una carta]]
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4 Habilidades estáticas y restricciones]]
-
 ---
 
 ## 🔄 Cómo se resuelve

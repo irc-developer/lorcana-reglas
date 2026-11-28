@@ -185,8 +185,21 @@ Para revisar el metajuego en otro evento, actualiza la fecha y el bloque de arqu
 
 ## 9. Referencias y recursos
 
-- **Reglas generales.** [[1.8. Chequeo del estado del juego (Game State Check)|Chequeo del estado]] · [[7.7. Bolsa (Bag)|Bolsa]] · [[6.1. General (General)|Elecciones y resolución]] · [[3.4. Fase final de turno (End-of-Phase)|Final de turno]].
-- **Combate y costes.** [[4.6 Desafío (Challenge)|Desafío]] · [[1.9. Daño (Damage)|Daño]] · [[8.10. Cambio (Shift)|Shift]] · [[4.3. Jugar una carta (Play a Card)|Jugar una carta]].
-- **Reglas de Torneo (TR).** [[03. Reglas de Torneo/Índice|Índice]] · [[3. Operaciones en los torneos#3.4 Procedimiento de Partida (Match Procedure)|Procedimiento de partida]] · [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|Información y comunicación]].
-- **Guía de corrección de jugadas (PCG).** [[2. Errores de reglas|Errores de reglas]] · [[04. Guia de correccion de jugadas/1. Introducción#1.2 Rebobinar una partida (Rewinding a Game)|Rebobinados]] · [[Deck Check - discrepancia entre decklist y mazo físico|Errores de registro y deck checks]].
-- **Arbitraje en mesa.** [[05. Consejos de jueces/Índice|Guía de arbitraje para Lore Guides]] · [[6. Cómo atender una llamada de Juez|Cómo atender una llamada]] · [[Detectives Zafiro Acero - guía de pilotaje para Hyperia City|Detectives Zafiro/Acero]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba la victoria y el daño letal]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden de resolución de los disparos de ambos jugadores]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, costes y resolución de habilidades]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.4. Fase final de turno (End-of-Phase)|Disparos y efectos al final del turno]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración y resolución del desafío]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Daño infligido, recibido, retirado y movido]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Qué estados conserva un personaje al jugarlo con Cambio]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Costes alternativos y proceso de jugar una carta]]
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Procedimiento de partida y final del tiempo]]
+- [[03. Reglas de Torneo/5. Información y comunicación|Información pública y comunicación entre jugadores]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Disparos perdidos y errores generales de reglas]]
+- [[04. Guia de correccion de jugadas/1. Introducción|Autoridad del Lore Guide y límites del rebobinado]]
+- [[01. Reglas/10. Artículos/Deck Check - discrepancia entre decklist y mazo físico|Cómo distinguir errores de mazo y de lista]]
+- [[05. Consejos de jueces/6. Cómo atender una llamada de Juez|Cómo atender una llamada en mesa]]
+- [[09. Recursos/Detectives Zafiro Acero - guía de pilotaje para Hyperia City|Lista de Detectives y ejemplos de sus motores]]
+

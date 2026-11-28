@@ -16,10 +16,11 @@ En consecuencia, ese efecto te dará **2 cartas en el inkwell**: el propio [Blac
 
 ## 📘 Referencias
 
-- [[5.1. Estados de las cartas (Card States)|5.1.1.5. Debajo (Under)]]: una carta debajo de otra no se considera en juego como carta independiente.
-- [[5.1. Estados de las cartas (Card States)|5.1.1.7. En una pila (In a stack)]]: si la carta superior abandona el juego, todas las cartas de la pila se mueven a la misma zona que esa carta.
-- [[7.5. Pozo de tinta (Inkwell)|7.5.2. Uso]]: si varias cartas se colocan en el inkwell al mismo tiempo, cada una se trata como una instancia separada.
-- [[7.5. Pozo de tinta (Inkwell)|7.5.6. Entintar boca abajo]]: cuando un efecto coloca una carta en el inkwell, entra boca abajo como tinta.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y movimiento de las pilas]]
+- [[01. Reglas/7. Zonas (Zones)/7.5. Pozo de tinta (Inkwell)|Cómo entran y se tratan las cartas en el pozo de tinta]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila|Por qué todas las cartas de la pila acompañan a la superior]]
 
 ---
 

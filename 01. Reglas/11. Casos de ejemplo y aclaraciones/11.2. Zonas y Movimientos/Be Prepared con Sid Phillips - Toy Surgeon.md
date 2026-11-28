@@ -17,9 +17,12 @@ Sid no genera lore por su propio destierro, porque la condición pide que sea de
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)|7.4.3. Las habilidades disparadas ven a las cartas que abandonan el juego simultáneamente]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Cuando se cumple la condición, la habilidad se añade a la bolsa]]
-- [[7.7. Bolsa (Bag)|7.7.3.1. Los triggers generados durante una resolución esperan hasta que el efecto actual termine]]
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)|Cómo se detectan los movimientos al abandonar la zona de juego]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared y devolver personajes a la mano|Por qué un disparo pendiente no devuelve los personajes ya desterrados]]
 
 ---
 

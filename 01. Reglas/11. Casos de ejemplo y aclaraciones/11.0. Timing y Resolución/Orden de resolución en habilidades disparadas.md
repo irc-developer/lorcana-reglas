@@ -13,9 +13,11 @@ Por tanto, si ambos triggers entran a la vez al final del turno, no se resuelven
 
 ## 📘 Referencias
 
-- [[3.4. Fase final de turno (End-of-Phase)|3.4.1.1. Habilidades de final de turno]]
-- [[7.7. Bolsa (Bag)|7.7.4.2. El jugador activo escoge]]
-- [[7.7. Bolsa (Bag)|7.7.4.4. Pasar la bolsa (passing the bag)]]
+### Wiki de Lorcana
+
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.4. Fase final de turno (End-of-Phase)|Resolver las habilidades y las comprobaciones al finalizar el turno]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en mano y el cálculo de triggers|Cómo influye el orden sobre las condiciones que se comprueban al resolver]]
 
 ---
 

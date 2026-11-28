@@ -16,9 +16,15 @@ Copper todavía puede cantar, pagar costes de agotamiento o activar habilidades 
 
 ## 📘 Referencias
 
-- [[8.7. Temerario (Reckless)|8.7.2–8.7.4: prohibición de aventura, final de turno y otras acciones]].
-- [[8.9. Prisa (Rush)|8.9: permiso de desafío]].
-- [[1.2. Regla de oro (Golden Rules)|1.2.2: impedir prevalece]].
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)|Obligación de desafiar y prohibición de irse de aventura]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.9. Prisa (Rush)|Desafiar con un personaje que todavía se está secando]]
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Prohibiciones y resolución de todo lo que sea posible]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria|Woody - Town Sheriff permite cantar antes de cumplir la aventura obligatoria]]
+
+### Fuentes oficiales
+
 - [CR 2.3.0, 8.7, p.42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
 
 ---

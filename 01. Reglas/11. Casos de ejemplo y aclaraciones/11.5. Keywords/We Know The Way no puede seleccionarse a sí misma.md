@@ -13,8 +13,12 @@ Esto no es una prohibición general de que una carta se afecte a sí misma: el t
 
 ## 📘 Referencias
 
-- [[1.7. Game Actions, Timing, y Illegal Actions|Acciones de juego y tempo]]
-- [[7.7. Bolsa (Bag)|Bolsa]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Completar las acciones y respetar los requisitos de legalidad]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Acciones en el descarte|Por qué una acción no puede elegirse a sí misma desde el descarte durante su resolución]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Jukebox requiere otra canción con el mismo nombre en el descarte|Contraste con un disparo posterior que exige además otra copia de la canción]]
 
 ---
 

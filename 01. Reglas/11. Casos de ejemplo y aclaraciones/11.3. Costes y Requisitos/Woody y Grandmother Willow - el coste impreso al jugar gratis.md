@@ -22,10 +22,18 @@ El permiso de Woody y el descuento de Willow se aplican a personajes. Si la cart
 
 ## 📘 Referencias
 
-- [[1.5 Costes (Costs)|Coste y modificadores de pago]]: CR 1.5.1 y CR 1.5.4 distinguen el coste de la carta y lo que se paga para jugarla. [CR 2.3.0, p. 5](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=5).
-- [[4.3. Jugar una carta (Play a Card)|Siguiente personaje que juegues]]: CR 4.3.6 aplica el descuento al próximo personaje aunque se juegue gratis. [CR 2.3.0, p. 13](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13).
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes, descuentos y formas alternativas de pago]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow|Cómo se consumen los descuentos acumulados]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Cantar o jugar gratis cuenta como pagar 0 tinta|La diferencia entre coste impreso y tinta pagada al jugar gratis]]
+
+### Fuentes oficiales
+
+- Coste y modificadores de pago: CR 1.5.1 y CR 1.5.4 distinguen el coste de la carta y lo que se paga para jugarla. [CR 2.3.0, p. 5](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=5).
+- Siguiente personaje que juegues: CR 4.3.6 aplica el descuento al próximo personaje aunque se juegue gratis. [CR 2.3.0, p. 13](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13).
 - [Notas oficiales de Winterspell, p. 5](https://files.disneylorcana.com/Winterspell_SetReleaseNotes_EN.pdf#page=5): aclaran cuándo se aplica el descuento de Willow.
-- [[Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow|Descuentos acumulados]] y [[Cantar o jugar gratis cuenta como pagar 0 tinta|Tinta pagada al jugar gratis]].
 
 ---
 

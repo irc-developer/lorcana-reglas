@@ -18,10 +18,24 @@ Este orden es el mismo para el daño procedente de acciones, habilidades y desaf
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.4. Cálculo del daño]]
-- [[1.9. Daño (Damage)|1.9.5. Fuente y receptor]]
-- [[8.8. Resistir (Resist)|8.8. Resist]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Distinguir daño infligido, puesto, movido y recibido]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Reducir el daño infligido y distinguirlo del daño recibido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Cómo se aplican y se combinan los efectos de reemplazo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño|Distinguir los disparos por daño de los eventos modificados por una protección]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Rapunzel conserva su protección si Resist reduce el daño a 0|Ejemplo de una protección que se conserva porque Resist reduce el daño a cero]]
+
+### Aclaraciones de las referencias
+
+### Resist, daño infligido y daño recibido
+
+Resist modifica el daño que recibe el objetivo. Si reduce la cantidad a cero, el efecto de origen sigue siendo un efecto que **inflige daño**, aunque el personaje no reciba daño. La cantidad que una habilidad de Mulan copie o utilice depende de su texto exacto y no debe inferirse del debate; hay que separar siempre daño indicado por el efecto, daño infligido y daño recibido.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.9.4, 1.9.5, 8.8, 6.5.
+- Fundamento: reglas 1.9.3–1.9.5 y 8.8 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 
@@ -33,21 +47,6 @@ Este orden es el mismo para el daño procedente de acciones, habilidades y desaf
 4. Si la cantidad es 0, el escudo no se aplica.
 5. Si queda al menos 1, el efecto de reemplazo aplicable sustituye ese daño por no recibir daño.
 6. Los disparos generados esperan en la bolsa hasta que termine de resolverse la acción, habilidad o desafío correspondiente.
-
----
-
-## 🔗 Véase también
-
-- [[Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño]]
-- [[Rapunzel conserva su protección si Resist reduce el daño a 0]]
-
----
-
-### Resist, daño infligido y daño recibido
-
-Resist modifica el daño que recibe el objetivo. Si reduce la cantidad a cero, el efecto de origen sigue siendo un efecto que **inflige daño**, aunque el personaje no reciba daño. La cantidad que una habilidad de Mulan copie o utilice depende de su texto exacto y no debe inferirse del debate; hay que separar siempre daño indicado por el efecto, daño infligido y daño recibido.
-
-Fundamento: reglas 1.9.3–1.9.5 y 8.8 de [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

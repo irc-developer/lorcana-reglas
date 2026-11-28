@@ -12,9 +12,11 @@ No. El juez no debe registrar una zona privada durante la partida para tranquili
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.8 Registro de Mazos (Deck Registration)|La lista como referencia]]
-- [[3. Operaciones en los torneos#3.9 Revisión de Mazos (Deck Checks)|Deck check]]
-- [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|Zonas privadas]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|La lista registrada y el procedimiento de comprobación del mazo]]
+- [[03. Reglas de Torneo/5. Información y comunicación|Zonas privadas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Investigar la intención en una discrepancia entre mazo y lista|Investigar la intención en una discrepancia entre mazo y lista]]
 
 ---
 

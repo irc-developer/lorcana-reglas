@@ -43,10 +43,20 @@ Por tanto, un personaje secándose no puede pagarlo.
 
 ## 📘 Referencias
 
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.5]]: restricciones de un personaje secándose.
-- [[4.3. Jugar una carta (Play a Card)|4.3.2.4]]: pagar los costes adicionales de la carta.
-- [[5.1. Estados de las cartas (Card States)|5.1.1.11–5.1.1.12]]: agotar para pagar un coste según el estado del personaje.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Completar las acciones y respetar los requisitos de legalidad]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Completar la jugada y la resolución de la carta antes de atender los disparos]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y funcionamiento de las pilas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Agotar personaje varias veces|Por qué un coste de agotamiento exige un personaje que pueda pagarlo]]
+
+### Textos de cartas
+
 - [Performance Review](https://cards.lorcast.io/card/digital/large/crd_222374c54b4848939d442c144758404e.avif?1761752265): texto completo.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.7.5, 4.3.2.4, 5.1.1.11, 5.1.1.12.
 
 ---
 

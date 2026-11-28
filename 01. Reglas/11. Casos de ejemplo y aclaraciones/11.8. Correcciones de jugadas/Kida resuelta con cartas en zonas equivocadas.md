@@ -12,8 +12,14 @@ Es un Card Count Error, Warning en Competitive. El resultado conocido es una car
 
 ## 📘 Referencias
 
-- [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)|Conteo incorrecto en mano y pozo de tinta]]
-- [[04. Guia de correccion de jugadas/1. Introducción#1.2.3 Criterios para el rebobinado|Criterios de rebobinado]]
+### Wiki de Lorcana
+
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Conteo incorrecto en mano y pozo de tinta]]
+- [[04. Guia de correccion de jugadas/1. Introducción|Criterios de rebobinado]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Friends on the Other Side resuelta por error con Kida|Corregir cartas de más al resolver una habilidad como un robo distinto]]
+
+### Cartas citadas
+
 - [Kida - Creative Thinker](https://cards.lorcast.io/card/digital/large/crd_19e9e680d0d044d6a5fa0d39b5ab3206.avif?1740589756): la habilidad determina las dos zonas de destino.
 
 ---

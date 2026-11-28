@@ -16,10 +16,21 @@ La reducción solo modifica el coste de **Shift** del siguiente personaje que ha
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Pagar costes alternativos y aplicar reducciones al pago]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar una carta con shift reduciendo su coste (incluso gratis)|Aplicar reducciones al coste de Shift sin cambiar el coste alternativo elegido]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Reducciones de coste apiladas - Akood et Emuti y Grandmother Willow|Cómo se consumen juntas las reducciones del siguiente personaje]]
+
+### Textos de cartas
+
 - [Mrs. Incredible - Created by the Vine](https://cards.lorcast.io/card/digital/large/crd_59f3338b5aa642849d3646909844a459.avif?1783189928): Torrent se dispara cada vez que uno de tus personajes Floodborn hace quest y reduce en 1 el siguiente coste de Shift de ese turno.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]]: cada cumplimiento independiente de la condición añade una instancia a la bolsa.
-- [[6.1. General (General)|6.1.2. Frases y efectos independientes]]: cada instancia se resuelve por separado.
-- [[1.5 Costes (Costs)|1.5.4. Coste y modificadores de pago]] y [[1.5 Costes (Costs)|1.5.5.2. Shift]].
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.2, 6.1.2, 1.5.4, 1.5.5.2.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.5, 6.1.2 y 6.2.
 
 ---

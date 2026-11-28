@@ -33,14 +33,18 @@ Con 5 de Fuerza frente a Resist +1, Mulan inflige **4 daños** tras aplicar el m
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.2.1, 1.9.2.2 y 1.9.3. Infligir, poner y recibir daño]].
-- [[1.9. Daño (Damage)|1.9.4.1–1.9.4.3 y 1.9.5. Cálculo de la cantidad y disparos si el daño se reduce a cero]], CR 2.3.0, p. 8.
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4 y 6.5.8. El evento original no ocurre y las habilidades que dependen de él no se disparan]], CR 2.3.0, pp. 33-34.
-- [[4.6 Desafío (Challenge)|4.6.6.1 y 4.6.6.2. Cálculo y aplicación simultánea del daño del desafío]], CR 2.3.0, p. 15.
-- [[8.8. Resistir (Resist)|8.8.1. Resist reduce la cantidad de daño del desafío]], CR 2.3.0, p. 42.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Qué ocurre cuando un efecto reemplaza un evento]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, habilidades y daño del desafío]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Qué daño reduce Resistir y qué ocurre al reducirlo a cero]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist|Por qué infligir daño puede generar un disparo aunque se reduzca a cero]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary|Caso de Lilo con contadores puestos]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0, glosario «take/took damage»](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=52): recibir daño comprende el daño infligido, puesto o movido a un personaje o localización.
-- [[Merida - Steady Aim y Resist|Caso de Merida con Resist]].
-- [[Lilo - Bundled Up y Malicious, Mean, and Scary|Caso de Lilo con contadores puestos]].
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 1.9 y 6.5.
 - [Notas oficiales de Winterspell, p. 6](https://files.disneylorcana.com/Winterspell_SetReleaseNotes_EN.pdf#page=6), aclaración de EXTRA LAYERS.
 

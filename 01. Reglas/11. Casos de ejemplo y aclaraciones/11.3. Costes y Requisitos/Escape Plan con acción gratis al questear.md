@@ -24,16 +24,15 @@ Por tanto:
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2.2 Si un efecto impide algo, prevalece sobre lo que permite]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.2 Los efectos deben resolverse completamente antes de pasar al siguiente]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3 Las elecciones se hacen en el momento de resolver]]
-- [[1.5 Costes (Costs)|1.5.5.3 Gratis (for free) es un coste alternativo]]
-- [[4.3. Jugar una carta (Play a Card)|4.3.2 Procedimiento para jugar una carta]]
-- [[6.1. General (General)|6.1.2 Los efectos se resuelven en el orden escrito]]
-- [[6.1. General (General)|6.1.3 Las elecciones se hacen al resolverse el efecto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3 Las instrucciones se realizan en el orden escrito]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8 Si un efecto te dice jugar una carta, la juegas durante esa resolución]]
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.16.1 «No puedes [hacer algo] salvo que...» es un efecto dependiente de una condición]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Cómo se aplican los permisos y las prohibiciones de las cartas]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Elecciones legales y corrección de acciones ilegales]]
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes, descuentos y formas alternativas de pago]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Firefly Swarm con Robin Hood - Sharpshooter sí habilita el segundo modo|El contraste entre una restricción para jugar y un modo elegido al resolver]]
 
 ---
 

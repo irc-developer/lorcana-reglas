@@ -18,14 +18,17 @@ Si el efecto tiene dos (o más) estructuras de elección **completamente separad
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir múltiples objetivos|Elegir múltiples objetivos]]
+
+### Notas de lectura
+
 **Regla 6.1.3 - Elecciones Múltiples (Multiple Choices):**
-
 _"Si un efecto permite elegir 'hasta N' (up to N): No se puede elegir el mismo objetivo más de una vez. 'Hasta' incluye 0 como elección válida."_
-
 _"Si el efecto contiene múltiples instancias de 'choose' o 'chosen', entonces el mismo objetivo puede elegirse para cada instancia independiente."_
 
 **Estructura única vs Estructuras múltiples:**
-
 | Elección | ¿Se puede repetir personaje? |
 | --- | --- |
 | Una instancia: «hasta 3 personajes elegidos» | No |
@@ -34,28 +37,38 @@ _"Si el efecto contiene múltiples instancias de 'choose' o 'chosen', entonces e
 
 **Ejemplos del documento oficial:**
 
-**Painting the Roses Red:**  
+**Painting the Roses Red:**
 _"Up to 2 chosen characters get -1 {S} this turn. Draw a card."_
+
 - Una instancia única de "chosen"
+
 - No puedes elegir el mismo personaje dos veces
 
-**The Queen – Commanding Presence:**  
+**The Queen – Commanding Presence:**
 _"chosen opposing character gets -4 {S} [POINT] chosen character gets +4 {S}"_
+
 - DOS instancias independientes de "chosen"
+
 - La primera es "opposing character"
+
 - La segunda es "character" (sin restricción de propiedad)
+
 - Se PUEDE elegir al mismo personaje para ambas si ese personaje cumple los requisitos de ambas elecciones
 
 **Aplicación a John Smith:**
-
 Si un efecto dice: _"Elige hasta 3 personajes para agotar"_
-- Una instancia única
-- No puedes elegir a John Smith 3 veces
-- Máximo: elegir a John Smith 1 vez + 2 personajes adicionales
 
+- Una instancia única
+
+- No puedes elegir a John Smith 3 veces
+
+- Máximo: elegir a John Smith 1 vez + 2 personajes adicionales
 Si un efecto dice: _"Chosen personaje gana Exert. Chosen personaje diferente pierde 2 de Fuerza"_
+
 - DOS instancias diferentes (note: "diferente" en la segunda)
+
 - Debes elegir personajes DIFERENTES en cada instancia
+
 - Resultado: No puedes aplicar ambas a John Smith
 
 ---

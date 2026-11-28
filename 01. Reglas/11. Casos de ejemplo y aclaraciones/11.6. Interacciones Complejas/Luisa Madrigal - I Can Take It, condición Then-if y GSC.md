@@ -68,24 +68,21 @@ flowchart TD
 
 ## 📘 Referencias
 
-- [[6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades Activadas]]: la subregla 6.3.1.1 indica que una habilidad activada en un personaje que no tenga el símbolo de exert como parte del coste puede usarse el mismo turno en que ese personaje entra en juego; por tanto, esta restricción no impide usar I Can Take It el turno en que Luisa entra en juego.
-- [[6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades Activadas]]: la subregla 6.3.2 fija el momento general en el que puede usarse una habilidad activada.
-- [[4.4. Usar una habilidad activada (Use an Activated Ability)|4.4. Usar una habilidad activada]]: las subreglas 4.4.3 y 4.4.4 establecen que primero se anuncia la habilidad, se calcula y paga el coste, y solo después se resuelve el efecto; el procedimiento no exige fijar objetivos antes de activar.
-- [[6.1. General (General)|6.1. General]]: las subreglas 6.1.2 y 6.1.3 indican que las frases se resuelven en orden, que se hace todo lo posible y que las elecciones se realizan durante la resolución; además, “hasta” incluye 0.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de Cartas y Efectos]]: las subreglas 6.7.2.3 y 6.7.5 establecen que las instrucciones del texto se cumplen en orden y tanto como sea posible, y que el GSC se realiza tras resolverse el efecto.
-- [[1.7. Game Actions, Timing, y Illegal Actions]]: la subregla 1.7.7 indica que si se hace una elección ilegal durante la resolución, se retrocede hasta ese punto y se elige de nuevo; si no existe ninguna elección legal, esa parte del efecto se resuelve sin efecto.
-- [[1.9. Daño (Damage)|1.9. Daño]]: 1.9.2.3–1.9.2.4 definen retirar y mover daño, y 1.9.3 establece cuándo un personaje lo recibe.
-- [[8.15 Protección (ward)]]: Ward significa que tus oponentes no pueden elegir esa carta al resolver un efecto.
-- [[8.8. Resistir (Resist)|8.8. Resistir]]: la subregla 8.8.3 aclara que Resist no reduce daño movido o puesto.
-- [[Resolución parcial sin objetivo válido]]: si una primera cláusula no puede realizarse, una segunda cláusula independiente puede resolverse igualmente.
+### Wiki de Lorcana
 
----
-
-## 🔗 Véase también
-
-- [[No tener objetivo legal vs elegir un objetivo inválido]]
-- [[Mover daño no es retirar daño]]
-- [[El uso de Then]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|Cuándo pueden usarse las habilidades activadas]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)|Anunciar una habilidad activada, pagarla y resolverla]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Acciones ilegales y corrección de elecciones]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Qué personajes impide elegir Protección]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Qué daño reduce Resistir y qué ocurre al reducirlo a cero]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Resolución parcial sin objetivo válido|Resolución parcial sin objetivo válido]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|No tener objetivo legal vs elegir un objetivo inválido]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Cómo mover daño retira contadores y puede generar disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/El uso de Then|El uso de Then]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - No Pressure y Casa Madrigal - Courtyard|El chequeo entre dos disparos: por qué una curación posterior puede llegar tarde]]
 
 ---
 

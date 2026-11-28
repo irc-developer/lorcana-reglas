@@ -18,8 +18,14 @@ Si eligen a John, gana +1 {L} durante ese turno. Su Lore impreso es 2, por lo qu
 
 ## 🔎 Referencias
 
-- [[6.1. General (General)|CR 6.1.3–6.1.3.1]]: «hasta N» incluye cero y no permite repetir la misma elección; todos los requisitos y limitadores siguen aplicándose.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3.2–6.7.3.3]]: la elección se comprueba frente a los limitadores; el ejemplo oficial de **DO YOUR WORST** exige elegir a John Smith si es posible.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Education or Elimination|Cuándo John Smith deja de ser una elección legal]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0, pp. 25–26](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=25) y [p. 36](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=36).
 
 ---

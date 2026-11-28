@@ -26,9 +26,12 @@ No, no podrías. No podrás llevar a cabo las dos habilidades en ninguna combina
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2 Resolución]]
-- [[7.7. Bolsa (Bag)|7.7.4 Orden en la bolsa]]
-- [[1.8. Chequeo del estado del juego (Game State Check)|Comprobación del estado del juego]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, llega a 4 daños y no se destierra|Por qué Luisa puede quitarse el daño letal antes del chequeo]]
 
 ---
 

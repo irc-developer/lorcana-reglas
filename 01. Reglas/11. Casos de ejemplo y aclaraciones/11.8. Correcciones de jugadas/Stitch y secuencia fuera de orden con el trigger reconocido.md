@@ -12,8 +12,14 @@ Sí. Angela reconoció el trigger de Stitch en el momento correcto y todos los j
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.5. Secuenciación Fuera de Orden (Out-of-Order Sequencing)|Out-of-Order Sequencing]]
-- [[2. Errores de reglas#2.1 Efecto disparado perdido (Missed Trigger)|Missed Trigger]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Cuándo puede aceptarse una secuencia fuera de orden]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Cuándo se considera olvidada una habilidad disparada]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Disparo anunciado y total de lore incorrecto|Distinguir un disparo olvidado de un error al comunicar el lore]]
+
+### Cartas citadas
+
 - [Stitch - Carefree Snowboarder](https://cards.lorcast.io/card/digital/large/crd_26dc8e8705a240689f8af906cb3c600a.avif?1770259228)
 
 ---

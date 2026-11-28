@@ -14,7 +14,11 @@ La selección aleatoria corresponde a los encuentros de Swiss en Premier; no sus
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]], apartados Premier Play y eliminación directa.
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Estructura de partida]]
+
+---
 
 ## 🔄 Cómo se resuelve
 

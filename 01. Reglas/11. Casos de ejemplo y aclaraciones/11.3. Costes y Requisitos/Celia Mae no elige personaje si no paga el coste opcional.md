@@ -12,8 +12,14 @@ Si juegas [Celia Mae – Friendly Receptionist](https://cards.lorcast.io/card/di
 
 ## 📘 Referencias
 
-- [[1.5 Costes (Costs)|1.5. Costes]] exige que un coste se pague por completo.
-- [[6.1. General (General)|6.1. Reglas generales de efectos]] establece que rechazar un efecto opcional hace que esa parte se resuelva sin efecto.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes, descuentos y formas alternativas de pago]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Tod y The Horseman Strikes! - rechazar el destierro no elige personaje|Rechazar el may impide que llegue a elegirse un personaje]]
+
+### Fuentes oficiales
+
 - CR 2.3.0, reglas 6.1.4 y 6.1.4.1, confirma que no pagar o no poder pagar el coste unido a `may` se trata como elegir «no».
 
 ---

@@ -16,11 +16,14 @@ Si el match aún no tiene resultado —por ejemplo, sigue en curso una partida d
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.3 Estructura de Partida (Match Structure)|Tournament Rules 3.3 — en Bo3, gana el match quien gana dos partidas]].
-- [[3. Operaciones en los torneos#3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions)|Tournament Rules 3.6 — solo se puede conceder una partida o match incompleto]].
-- [[3. Operaciones en los torneos#3.4 Procedimiento de Partida (Match Procedure)|Tournament Rules 3.4 — verificar y reportar correctamente el resultado final]].
-- [[1.1. General|CR 1.1.3 — las reglas de torneo pueden añadir o modificar las reglas generales]].
-- [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3.4 — regla general de concesión, incluida Cleanup; en torneo se aplica junto con las restricciones de Tournament Rules]].
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Estructura del encuentro, concesiones y reporte del resultado]]
+- [[01. Reglas/1. Principios generales/1.1. General|Idioma de referencia y normas aplicables al evento]]
+- [[01. Reglas/2. Juego (Gameplay)/2.3. Etapa de juego (In-Game Stage)|Cómo termina una partida y cuándo puede concederse]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida|Takeback después de resolver una habilidad disparada que gana la partida]]
+
+### Fuentes oficiales
 
 Fuentes oficiales vigentes: [Comprehensive Rules 2.3.0 (16/10/2026)](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 

@@ -39,11 +39,13 @@ La palabra importante es **this character**. En el descarte, Anna - Braving the 
 
 ## 📘 Referencias
 
-- [[5.3. Personajes (Characters)|5.3.1. Definición]]: una carta de personaje en la zona de juego es un personaje; en cualquier otra zona es una **character card**.
-- [[7.1. General|7.1.5. Cartas en juego o no según la zona]]: solo las cartas en la zona de juego se consideran en juego. Las cartas en el mazo, descarte, mano e inkwell no están en juego.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1. Definición]]: una habilidad estática sin duración está activa mientras la carta que genera el efecto esté en juego.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3. Habilidades estáticas continuas generadas por cartas en juego]]: si una carta que genera una habilidad estática abandona la zona de juego, su efecto termina inmediatamente.
-- [[6.1. General (General)|6.1.12. Algunas habilidades funcionan fuera de la zona de juego]]: una habilidad funciona fuera de la zona de juego solo si su propio texto lo indica.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|Diferencias entre un personaje en juego y una carta de personaje]]
+- [[01. Reglas/7. Zonas (Zones)/7.1. General|Qué cambia cuando una carta pasa de una zona a otra]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ward, funcionamiento en descarte|Otra habilidad que no protege a una carta en el descarte]]
 
 ---
 

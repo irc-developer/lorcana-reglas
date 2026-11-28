@@ -18,15 +18,18 @@ Sin embargo, Morph no altera el número de cartas exigido. Duo Shift necesita do
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2. Regla de oro]] permite que el texto específico de Morph cree una excepción a los requisitos ordinarios.
-- [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales de Shift.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Aplicar el texto de las cartas, respetar prohibiciones y hacer tanto como sea posible]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados y efectos de la pila]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Posey - Vampire Potato puede usar Potato Shift sobre Morph|Ejemplo de la excepción de Morph con Potato Shift]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift|Por qué Morph no sustituye los dos personajes exigidos por Duo Shift]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.2, 8.10.
 - Las *Attack of the Vine Set Release Notes* confirman que Advanced Mimicry alcanza todas las variantes, pero no modifica la cantidad de personajes requerida.
-
----
-
-## 📚 Fuente oficial
-
-[Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): aclaración específica de Morph. CR 2.3.0, 8.10.8, recoge las variantes de Shift. Véase [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
+- [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf): aclaración específica de Morph. CR 2.3.0, 8.10.8, recoge las variantes de Shift. Véase [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

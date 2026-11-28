@@ -12,8 +12,14 @@ No. La habilidad de Pete fue una jugada anterior ya completada. Jugar Merlin fue
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Jugada más reciente]]
-- [[04. Guia de correccion de jugadas/1. Introducción#1.2.3 Criterios para el rebobinado|Información y decisiones posteriores]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Jugada más reciente]]
+- [[04. Guia de correccion de jugadas/1. Introducción|Información y decisiones posteriores]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior|Takeback denegado después de una acción posterior]]
+
+### Cartas citadas
+
 - [Pete - Ghost of Christmas Future](https://cards.lorcast.io/card/digital/large/crd_cc4685ee359648a9b100d7a20c00ee5f.avif?1770259895) y [Merlin - Envisioning the Future](https://cards.lorcast.io/card/digital/large/crd_ffac3ba82292480ba3fa2114f0c7a3f8.avif?1783189179)
 
 ---

@@ -22,13 +22,19 @@ Si tienes otra copia de Dream Come True en juego, esta sí se dispara al final d
 
 ## 📘 Referencias
 
-- [[1.6 Habilidades (Abilities)|1.6.1: las habilidades normalmente requieren que su fuente esté en juego]].
-- [[3.4. Fase final de turno (End-of-Phase)|3.4.1.1: habilidades de final de turno]].
-- [[5.1. Estados de las cartas (Card States)|5.1.1.5 y 5.1.1.8: una carta debajo de otra no se considera en juego]].
-- [[8.10. Cambio (Shift)|8.10.1 y 8.10.5: jugar mediante Shift y no heredar el texto de la carta inferior]].
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4: condición secundaria al resolver]].
-- [[6.1. General (General)|6.1.5.1: A para B]].
-- [[7.7. Bolsa (Bag)|7.7: resoluciones individuales]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.6 Habilidades (Abilities)|Cuándo funcionan las habilidades de una carta]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.4. Fase final de turno (End-of-Phase)|Disparos y efectos al final del turno]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y cartas colocadas debajo de otras]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados de la pila]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Habilidades disparadas 'Al final del turno'|Habilidades disparadas 'Al final del turno']]
+
+### Fuentes oficiales
+
 - [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; para el caso de Shift, CR 2.3.0, 1.6.1 (p. 5), 3.4.1.1 (p. 12), 5.1.1.5 (p. 19), 5.1.1.8 (p. 20), 6.2.4 (p. 30) y 8.10.1 y 8.10.5 (p. 42).
 
 ---

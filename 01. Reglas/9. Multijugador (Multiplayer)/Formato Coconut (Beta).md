@@ -37,7 +37,15 @@ La hoja de reglas ocupa una sola página y deja varios extremos sin desarrollar:
 
 Estas lagunas no deben completarse suponiendo reglas que el PDF no contiene. Para jugar la beta, conviene acordar de antemano cualquier detalle que la documentación oficial aún no resuelva.
 
-## Fuentes oficiales
+## Referencias
+
+### Wiki de Lorcana
+
+- [[01. Reglas/9. Multijugador (Multiplayer)/Cartas Coconut de la beta|Elecciones de personaje y habilidades de las cartas Coconut]]
+- [[01. Reglas/9. Multijugador (Multiplayer)/9.1. Partidas multijugador (Multiplayer Games)|Preparación de una partida multijugador]]
+- [[01. Reglas/9. Multijugador (Multiplayer)/9.2. Reglas adicionales de multijugador (Multiplayer Rules)|Turnos y resolución de efectos entre varios jugadores]]
+
+### Fuentes oficiales
 
 - [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf).
 - [Beta \[Coconut\] Cards](https://files.disneylorcana.com/FormatCoconut_BetaCoconutCards.pdf).

@@ -24,13 +24,24 @@ Tener contadores de un turno anterior no basta. En cambio, si un personaje rival
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|Daño]]: CR 1.9.2.2 y CR 1.9.3 explican qué cuenta como recibir daño. [CR 2.3.0, p. 7](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=7).
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Qué ocurre cuando un efecto reemplaza un evento]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Qué daño reduce Resistir y qué ocurre al reducirlo a cero]]
+- [[01. Reglas/1. Principios generales/1.13. Contadores (Counters)|Uso y representación de los contadores y las gotas de tinta]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Lilo - Bundled Up y Malicious, Mean, and Scary|Lilo frente a la canción]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist|Por qué infligir daño puede generar un disparo aunque se reduzca a cero]]
+
+### Fuentes oficiales
+
+- : CR 1.9.2.2 y CR 1.9.3 explican qué cuenta como recibir daño. [CR 2.3.0, p. 7](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=7).
 - CR 1.9.5 determina qué ocurre cuando el daño infligido se reduce a 0. [CR 2.3.0, p. 8](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=8).
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|Condición secundaria]]: CR 6.2.3 y CR 6.2.4 explican cuándo entra el disparo en la bolsa y cuándo se comprueba la condición. [CR 2.3.0, p. 30](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30).
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|Efectos de reemplazo]]: CR 6.5.1 explica cómo EXTRA LAYERS sustituye el evento de recibir daño. [CR 2.3.0, p. 33](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=33).
-- [[8.8. Resistir (Resist)|Resist]]: CR 8.8.1–8.8.3 reduce daño infligido, pero no daño puesto o movido. [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
-- [[1.13. Contadores (Counters)|Gotas de tinta]]: CR 1.13.1.2 permite retirarlas para pagar costes de tinta. [CR 2.3.0, p. 9](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=9).
-- [[Lilo - Bundled Up y Malicious, Mean, and Scary|Lilo frente a la canción]] y [[Merida - Steady Aim y Resist|Merida y daño infligido]]: casos relacionados para comparar las condiciones de cada habilidad.
+- : CR 6.2.3 y CR 6.2.4 explican cuándo entra el disparo en la bolsa y cuándo se comprueba la condición. [CR 2.3.0, p. 30](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=30).
+- : CR 6.5.1 explica cómo EXTRA LAYERS sustituye el evento de recibir daño. [CR 2.3.0, p. 33](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=33).
+- : CR 8.8.1–8.8.3 reduce daño infligido, pero no daño puesto o movido. [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
+- : CR 1.13.1.2 permite retirarlas para pagar costes de tinta. [CR 2.3.0, p. 9](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=9).
 
 ---
 

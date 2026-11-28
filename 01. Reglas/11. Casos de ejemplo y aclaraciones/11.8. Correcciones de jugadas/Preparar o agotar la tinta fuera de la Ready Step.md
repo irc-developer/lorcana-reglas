@@ -12,9 +12,12 @@ Sí. El estado de preparado o agotado debe representar las acciones realmente re
 
 ## 📘 Referencias
 
-- [[5. Información y comunicación#5.5 Pozo de tinta|Estado del pozo de tinta]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|Acciones ilegales y deshacer]]
-- [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)|General Rules Error]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/5. Información y comunicación|Estado del pozo de tinta]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Acciones ilegales y corrección de elecciones]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Cómo corregir un error general de reglas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback denegado después de una acción posterior|Takeback denegado después de una acción posterior]]
 
 ---
 

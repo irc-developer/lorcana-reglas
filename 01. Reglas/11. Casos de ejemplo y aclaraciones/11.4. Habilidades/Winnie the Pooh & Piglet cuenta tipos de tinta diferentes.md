@@ -14,10 +14,21 @@ Winnie the Pooh & Piglet tiene los tipos Amethyst y Sapphire. El otro personaje 
 
 ## 📘 Referencias
 
-- [[5.2. Partes de una carta (Parts of a Card)|5.2. Partes de una carta]] regula los símbolos y tipos de tinta, incluidas las cartas con dos tipos.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas]] aplica continuamente el modificador de Magical Mix.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card)|Distinguir nombres, versiones y tipos de tinta de una carta]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos|Otro efecto que cuenta tipos de tinta distintos sin sumar repeticiones]]
+
+### Aclaraciones de las referencias
+
 - Repetir un tipo ya presente no aumenta el número de tipos diferentes.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 5.2, 6.4.
 - Las *Attack of the Vine Set Release Notes* confirman el resultado de 2 lore.
+- Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 
@@ -27,12 +38,6 @@ Winnie the Pooh & Piglet tiene los tipos Amethyst y Sapphire. El otro personaje 
 2. Winnie the Pooh & Piglet aporta Amethyst y Sapphire.
 3. El otro personaje repite Amethyst.
 4. Hay dos tipos diferentes, así que el personaje obtiene +2 {L}.
-
----
-
-## 📚 Fuente oficial
-
-Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

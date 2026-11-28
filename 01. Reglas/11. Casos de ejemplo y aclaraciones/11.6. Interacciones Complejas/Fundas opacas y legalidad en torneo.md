@@ -12,7 +12,12 @@ Las fundas deben tener el reverso completamente opaco y no reflectante, ser unif
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.11 Accesorios Aprobados (Approved Accessories)|3.11. Accesorios aprobados]], apartado Fundas.
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Accesorios aprobados]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cartas en idiomas extranjeros en torneos|Usar impresiones extranjeras sin alterar la legalidad ni marcar cartas]]
+
+---
 
 ## 🔄 Cómo se resuelve
 

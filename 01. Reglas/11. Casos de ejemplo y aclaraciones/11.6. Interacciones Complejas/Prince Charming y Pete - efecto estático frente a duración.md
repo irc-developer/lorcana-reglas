@@ -26,11 +26,15 @@ La diferencia no es que uno sea “más fuerte”, sino **cuándo se crea el efe
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego|Fuente estática abandona el juego]]
+
+### Cartas citadas
+
 - [Prince Charming - Protector of the Realm](https://cards.lorcast.io/card/digital/large/crd_fafe3c3da4484cf6b0485a5f5a1c557a.avif?1761764872): restricción estática que funciona mientras la fuente está en juego.
 - [Pete - Games Referee](https://cards.lorcast.io/card/digital/large/crd_d82108b67c434df495ba7ce11b811e79.avif?1723917209): habilidad disparada que crea una prohibición hasta un momento concreto.
-- [[6.4. Habilidades Estáticas (Static Abilities)|Habilidades estáticas]]: una habilidad estática de una carta en juego deja de aplicarse cuando su fuente abandona esa zona, salvo que el texto indique otra cosa.
-- [[Fuente estática abandona el juego]].
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.1: efectos resueltos con duración]].
 
 ---
 

@@ -28,12 +28,12 @@ Antes de deshacer una jugada completa, distingue entre una acción que no podía
 
 ## 📘 Referencias
 
-[[1.7. Game Actions, Timing, y Illegal Actions|1.7.6. Acción ilegal]]: si un jugador intenta hacer una game action que no puede hacer o empieza una turn action que no puede llevar a cabo al completo, se deshace hasta donde sea razonable.
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3. Elecciones durante la resolución]]: las elecciones de tipo choose/chosen se hacen cuando el efecto se está resolviendo.
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Corrección de jugadas]]: si la elección fue ilegal, se deshace hasta ese momento; si no existe ninguna elección legal, el efecto se resuelve sin efecto y se hace todo lo posible con lo demás.
-- [[6.1. General (General)|6.1.2. Resolver en orden y hacer todo lo posible]]: los efectos se siguen en orden y se resuelven tanto como sea posible.
-- [[6.1. General (General)|6.1.3. Las elecciones se hacen al resolver]]: confirma que la legalidad de la elección se comprueba en ese punto de la resolución.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Resolución del texto]]: el jugador cumple las instrucciones y toma las decisiones requeridas en el orden escrito, haciendo todo lo posible.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Elecciones legales y corrección de acciones ilegales]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Ohana Means Family y Brawl sin objetivo válido o con objetivo inválido|Ohana Means Family y Brawl como ejemplos de elecciones legales]]
 
 ---
 

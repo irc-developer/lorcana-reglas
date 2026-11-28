@@ -24,11 +24,18 @@ COMMAND PERFORMANCE funciona tanto si pagas la canción con tinta como si la can
 
 ## 📘 Referencias
 
-- [[4.3. Jugar una carta (Play a Card)|CR 4.3.3.2–4.3.4: la acción se resuelve y va al descarte antes de resolver los disparos]].
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|CR 6.2.3–6.2.4: entrada en la bolsa y condición secundaria comprobada al resolver]].
-- [[7.7. Bolsa (Bag)|CR 7.7.3.1: los disparos esperan a la resolución completa del efecto en curso]].
-- [[6.1. General (General)|CR 6.1.13.2: límite de una vez durante el turno]].
-- [[1.12 Robo (Drawing)|CR 1.12.2: las cartas se roban de una en una]].
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Resolver la canción y enviarla al descarte antes de los disparos]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Comprobar al resolver si Ariel tiene una carta debajo]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Esperar a que termine toda la canción antes del robo de Ariel]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Comprobar el límite de una vez durante el turno]]
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Resolver cada carta robada como un robo individual]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bambi – Ethereal Faun cantando una canción|Por qué cantar tampoco permite adelantar el disparo a la canción]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 4.3.3.2, 4.3.4, 6.2.3, 6.2.4, 7.7.3.1, 6.1.13.2, 1.12.2.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=13), CR 1.12.2 (p. 9), 4.3.3.2–4.3.4 (p. 13), 6.1.13.2 (p. 28), 6.2.3–6.2.4 (p. 30) y 7.7.3.1 (p. 40).
 
 ---

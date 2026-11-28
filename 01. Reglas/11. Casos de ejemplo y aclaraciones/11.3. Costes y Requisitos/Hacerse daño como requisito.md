@@ -13,9 +13,12 @@ Si una prohibición dice que no se puede infligir daño al personaje, no se comp
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.5. Efectos secuenciales]]
-- [[6.1. General (General)#6.1.5.1. En estructuras [A] to [B] o [A]. If you do, [B]|6.1.5.1. Estructuras [A] to [B]]] 
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1. Efectos de reemplazo]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Cuándo se aplica un efecto de reemplazo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Pagar un coste y resistir|Daño impedido frente a daño reducido a cero por Resist]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Interacción entre efectos de reemplazo y habilidades disparadas con requisitos|Una prohibición estática que impide completar la secuencia]]
 
 ---
 

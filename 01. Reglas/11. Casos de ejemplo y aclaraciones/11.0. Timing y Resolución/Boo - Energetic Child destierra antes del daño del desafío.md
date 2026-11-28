@@ -33,11 +33,22 @@ La conclusión presupone que Scrooge tiene 3 {S} o menos cuando ocurre el desaf�
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|4.6. Desafío]], **4.6.3–4.6.5**: declaración y daño son pasos separados; los disparos de «challenges» e «is challenged» se resuelven desde la bolsa antes del daño. **4.6.9–4.6.9.2**: si un participante sale del desafío, primero se resuelve la bolsa pendiente y después termina el desafío. CR 2.3.0, pp. 15–16.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]], **6.2.1–6.2.3**: se dispara cada habilidad cuya condición se cumpla y se añade a la bolsa. CR 2.3.0, p. 30.
-- [[7.7. Bolsa (Bag)|7.7. Bolsa]], **7.7.3.1 y 7.7.4.2–7.7.4.4**: se añaden simultáneamente las habilidades que se disparan a la vez; primero resuelve el jugador activo las suyas y, tras la comprobación del estado del juego, se pasa la bolsa al oponente cuando corresponde. CR 2.3.0, p. 40.
-- [[7.1. General|7.1. General de zonas]], **7.1.5–7.1.6**: la carta que sale de la zona de juego se convierte en una carta nueva. La regla admite excepciones de seguimiento, pero On the Move no establece recuperación desde el descarte. CR 2.3.0, p. 38; aplicación interpretativa al texto de Scrooge.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de cartas y efectos]], **6.7.2.3 y 6.7.5**, junto con **1.2.3**: se hace todo lo posible al resolver un efecto y se comprueba el estado del juego tras la resolución. CR 2.3.0, pp. 3 y 36–37.
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/7. Zonas (Zones)/7.1. General|Qué cambia cuando una carta pasa de una zona a otra]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas|Cuándo un disparo sí devuelve su propia carta desde el descarte]]
+
+### Fuentes oficiales
+
+- 4.6. Desafío, **4.6.3–4.6.5**: declaración y daño son pasos separados; los disparos de «challenges» e «is challenged» se resuelven desde la bolsa antes del daño. **4.6.9–4.6.9.2**: si un participante sale del desafío, primero se resuelve la bolsa pendiente y después termina el desafío. CR 2.3.0, pp. 15–16.
+- 6.2. Habilidades disparadas, **6.2.1–6.2.3**: se dispara cada habilidad cuya condición se cumpla y se añade a la bolsa. CR 2.3.0, p. 30.
+- 7.7. Bolsa, **7.7.3.1 y 7.7.4.2–7.7.4.4**: se añaden simultáneamente las habilidades que se disparan a la vez; primero resuelve el jugador activo las suyas y, tras la comprobación del estado del juego, se pasa la bolsa al oponente cuando corresponde. CR 2.3.0, p. 40.
+- 7.1. General de zonas, **7.1.5–7.1.6**: la carta que sale de la zona de juego se convierte en una carta nueva. La regla admite excepciones de seguimiento, pero On the Move no establece recuperación desde el descarte. CR 2.3.0, p. 38; aplicación interpretativa al texto de Scrooge.
+- 6.7. Resolución de cartas y efectos, **6.7.2.3 y 6.7.5**, junto con **1.2.3**: se hace todo lo posible al resolver un efecto y se comprueba el estado del juego tras la resolución. CR 2.3.0, pp. 3 y 36–37.
 - **1.1.7**: el texto entre paréntesis en cursiva es recordatorio, no texto de reglas. CR 2.3.0, p. 3.
 - Las [Attack of the Vine Set Release Notes](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf), **p. 26**, confirman expresamente el destierro de Piglet por Kid-Tastrophe! antes del daño. No contienen un ruling específico de Boo contra Scrooge.
 

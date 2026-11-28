@@ -40,10 +40,12 @@ No conviene confiscar mazos silenciosamente ni prometer que todos serán revisad
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.9 Revisión de Mazos (Deck Checks)|3.9. Revisión de mazos]]: los checks pueden realizarse en distintos momentos y, en Premier, existe una expectativa mínima del 10 %.
-- [[Set Championships - decklists y deck checks|Set Championships: decklists y deck checks]].
-- [[11. Guía práctica - Deck Checks antes del inicio del torneo|Cómo hacer un deck check]].
-- [[Investigar la intención en una discrepancia entre mazo y lista]].
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Revisión de mazos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Set Championships - decklists y deck checks|Set Championships: decklists y deck checks]]
+- [[05. Consejos de jueces/11. Guía práctica - Deck Checks antes del inicio del torneo|Cómo hacer un deck check]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Investigar la intención en una discrepancia entre mazo y lista|Investigar la intención en una discrepancia entre mazo y lista]]
 
 ---
 

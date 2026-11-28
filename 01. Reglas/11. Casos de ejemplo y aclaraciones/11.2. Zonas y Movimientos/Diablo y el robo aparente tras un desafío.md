@@ -12,7 +12,15 @@ No hay dos robos de Diablo en la secuencia descrita. Una carta vuelve a la mano 
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)|7.4. Juego]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de cartas y efectos]], junto con el texto de [Will O' The Wisp](https://cards.lorcast.io/card/digital/large/crd_4d61ccc401a942719bfcafde3a132578.avif?1777687337) y [Diablo](https://cards.lorcast.io/card/digital/large/crd_af531020efc14cb38f4ffeb159eb8eff.avif?1716052430).
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)|Cómo se detectan los movimientos al abandonar la zona de juego]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Poner una carta del mazo en tu mano no es robar ni dispara Diablo - Devoted Herald|Distinguir un robo de otros movimientos de cartas hacia la mano]]
+
+### Texto de las cartas
+
+- 7.4. Juego y 6.7. Resolución de cartas y efectos, junto con el texto de [Will O' The Wisp](https://cards.lorcast.io/card/digital/large/crd_4d61ccc401a942719bfcafde3a132578.avif?1777687337) y [Diablo](https://cards.lorcast.io/card/digital/large/crd_af531020efc14cb38f4ffeb159eb8eff.avif?1716052430).
 
 ---
 

@@ -14,9 +14,15 @@ Por tanto, un efecto que se dispare o se aplique por usar una habilidad activada
 
 ## 📘 Referencias
 
-- [[5.4. Acciones (Actions)|5.4.4.2. Cantar una canción sustituye el coste de tinta]]: cantar es un coste alternativo de una acción Song.
-- [[6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades activadas]]: una habilidad activada tiene un coste y un efecto que el jugador decide usar.
-- [[8.11. Cantante (Singer)|8.11. Cantante]]: Singer permite agotar un personaje para pagar el coste alternativo de una canción.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.4. Acciones (Actions)|Cantar como coste alternativo para jugar una canción]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|Pagar un coste para usar una habilidad activada]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.11. Cantante (Singer)|Distinguir Cantante del coste con el que cuenta un personaje al cantar]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 5.4.4.2, 6.3, 8.11.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 4.3, 6.3 y 8.11.
 
 ---

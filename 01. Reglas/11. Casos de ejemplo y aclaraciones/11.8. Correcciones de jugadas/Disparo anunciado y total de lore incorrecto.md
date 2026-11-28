@@ -16,9 +16,18 @@ Si el jugador **no** anunció ni mostró conciencia del disparo antes de que afe
 
 ## 📘 Referencias
 
-- [Comprehensive Rules 2.3.0, 1.11.1–1.11.3 y 4.5.1.4](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): lore total, lore obtenido al hacer quest y condición de victoria. [[1.11 Leyenda (Lore)|Referencia en castellano]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.11 Leyenda (Lore)|Lore de los personajes y total de lore]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Minnie Mouse - Practical Traveler y lore olvidado|Cómo se corrige una habilidad olvidada que concede lore]]
+
+### Fuentes oficiales
+
+- [Comprehensive Rules 2.3.0, 1.11.1–1.11.3 y 4.5.1.4](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): lore total, lore obtenido al hacer quest y condición de victoria..
 - [Play Correction Guidelines, 2.1 *Missed Trigger*, pp. 5–6](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): conciencia del disparo, ciclo de turnos, elección del oponente y acción correctiva.
 - [Play Correction Guidelines, 3.6 *Information and Communication Error*, p. 11](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): decisión de juego basada en información errónea, acción correctiva y posible rebobinado con aprobación del Head Judge.
+
+---
 
 ## 🏷️ Tags
 

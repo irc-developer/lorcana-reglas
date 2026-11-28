@@ -31,8 +31,13 @@ Ofrecer o aceptar un incentivo por una concesión, o decidir un resultado median
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.6 Empates Intencionales y Concesiones (Intentional Draws and Concessions)|Empates intencionales y concesiones]].
-- [[7. Conducta del Jugador#7.1. Conducta Prohibida (Prohibited Conduct)|Conducta prohibida y reparto de premios]].
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Empates intencionales y concesiones]]
+- [[03. Reglas de Torneo/7. Conducta del Jugador|Conducta prohibida y reparto de premios]]
+
+### Fuentes oficiales
+
 - [Tournament Rules, efectivas el 14/07/2026](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf): §§ 3.4 y 3.6, pp. 15–17; § 7.1, pp. 26–27.
 - [Play Correction Guidelines, efectivas el 21/05/2024](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf): §§ 4.5–4.6, p. 15, resultados inapropiados y apuestas. Sus niveles se denominan Casual y Competitive.
 

@@ -12,9 +12,24 @@ El controlador de Source of the Vine debe comunicar su disparo obligatorio cuand
 
 ## 📘 Referencias
 
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Habilidades disparadas]] y [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|5.4. Información en el juego]], junto al texto de [Source of the Vine](https://cards.lorcast.io/card/digital/large/crd_87d57ff7547647d0a7e44061cb55efd8.avif?1783188745).
+### Wiki de Lorcana
 
-- [[2. Errores de reglas#2.1 Efecto disparado perdido (Missed Trigger)|PCG 2.1: responsabilidad y remedio]].
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[03. Reglas de Torneo/5. Información y comunicación|Mantener clara la información del estado de juego]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Responsabilidad y remedio de los disparos olvidados]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Disparo anunciado y total de lore incorrecto|Distinguir un disparo olvidado de un error al comunicar o calcular el lore]]
+
+### Textos de cartas
+
+- [Source of the Vine](https://cards.lorcast.io/card/digital/large/crd_87d57ff7547647d0a7e44061cb55efd8.avif?1783188745)
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.2.
+- Tournament Rules, reglas 5.4.
+- Play Correction Guidelines, reglas 2.1.
+
+---
 
 ## 🔄 Cómo se resuelve
 

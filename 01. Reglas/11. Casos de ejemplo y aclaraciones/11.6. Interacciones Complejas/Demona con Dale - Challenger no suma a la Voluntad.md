@@ -21,19 +21,26 @@ En otras palabras:
 
 ## 📘 Referencias
 
-- [[Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante]]
-- [[Cálculo de fuerza con Tiana y Desafiador]]
-- [8.5.1 Challenger](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41)
-- [4.6.6.1 Challenge Damage step](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=15)
-- [5.3.6.2 Strength](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=23)
-- [5.3.6.3 Willpower](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=23)
+### Wiki de Lorcana
+
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Dale - Spike Suit usa la Voluntad completa, no la Voluntad restante|Distinguir Voluntad, Fuerza y daño marcado con Dale]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Cálculo de fuerza con Tiana y Desafiador|Cálculo de fuerza con Tiana y Desafiador]]
+
+### Notas de lectura
 
 La clave es separar dos cosas distintas:
 
 - **Challenger** modifica una característica concreta: la **Fuerza {S}**.
-- Dale cambia qué característica usa tu personaje para **hacer daño en el desafío**: usa la **Voluntad {W}** en lugar de la **Fuerza {S}**.
 
+- Dale cambia qué característica usa tu personaje para **hacer daño en el desafío**: usa la **Voluntad {W}** en lugar de la **Fuerza {S}**.
 Como el bono de Challenger nunca dice que aumente la Voluntad ni que añada daño directamente, no se suma al valor usado por Dale.
+
+### Fuentes oficiales
+
+- [8.5.1 Challenger](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41)
+- [4.6.6.1 Challenge Damage step](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=15)
+- [5.3.6.2 Strength](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=23)
+- [5.3.6.3 Willpower](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=23)
 
 ---
 

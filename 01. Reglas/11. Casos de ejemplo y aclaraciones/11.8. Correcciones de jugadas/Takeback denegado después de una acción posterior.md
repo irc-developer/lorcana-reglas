@@ -34,11 +34,16 @@ Si el jugador advierte Flash inmediatamente después de jugar a Demona, **antes 
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Solo la jugada más reciente, sin acciones posteriores ni información adicional]].
-- [[3. Operaciones en los torneos#3.7.2 Acciones ilegales y errores de reglas en takebacks|Diferencia entre takeback y corrección de una acción ilegal]].
-- [[1.7. Game Actions, Timing, y Illegal Actions|CR 1.7.5–1.7.6: secado y reversión de la acción ilegal]].
-- [[4.4. Usar una habilidad activada (Use an Activated Ability)|CR 4.4.3–4.4.4: pago del coste y resolución de la habilidad]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.2.3: resolver tanto como sea posible]].
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Elegibilidad de un takeback y diferencia frente a corregir una acción ilegal]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Acciones ilegales y corrección de elecciones]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)|Anunciar una habilidad activada, pagarla y resolverla]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback tras una última acción sin información nueva|Takeback tras una última acción sin información nueva]]
+
+### Fuentes oficiales
+
 - [Tournament Rules, efectivas el 14/07/2026](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf#page=16), §§ 3.5 y 3.7–3.7.4, pp. 16–19: secuencias fuera de orden, elegibilidad y autoridad del Lore Guide.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=6), 1.2.2 (p. 3), 1.7.5–1.7.6 (p. 6), 4.4 (p. 14), 4.6.4.1 (p. 15), 6.3.1.1 (p. 31), 6.7.2.3 (p. 36) y 8.9.1 (p. 42): prohibiciones, secado, habilidades activadas, resolución parcial y Rush.
 - [Play Correction Guidelines, efectivas el 21/05/2024](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf#page=4), §§ 1.2 y 2.4, pp. 4 y 7–8: rebobinar hasta el error y tratamiento del error general de reglas; el rebobinado de torneo requiere autorización del juez principal.

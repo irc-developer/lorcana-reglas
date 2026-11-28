@@ -10,7 +10,10 @@ Sí, si **esa misma carta es legal en el formato del torneo**, puedes usar una i
 
 ## 📘 Referencias
 
-- [[1. Definiciones de torneo#1.6 Legalidad de Sets (Set Legality)|Legalidad de sets e impresiones]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/1. Definiciones de torneo|Legalidad de sets e impresiones]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad y prohibiciones - fuente oficial vigente|Legalidad y prohibiciones - fuente oficial vigente]]
 
 ---
 

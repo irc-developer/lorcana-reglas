@@ -18,17 +18,24 @@ La clave es que **no estás obligado a dañar a uno de tus personajes solo porqu
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.2. Frases independientes y resolución en orden]]
-- [[6.1. General (General)|6.1.3. Las elecciones se hacen al resolver]]
-- [[6.1. General (General)|6.1.4. may hace opcional esa frase]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Resolver instrucciones en orden]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Three Arrows y Gopher - Resist permanece hasta el GSC|Three Arrows y Gopher - Resist permanece hasta el GSC]]
+
+### Notas de lectura
 
 La combinación relevante es esta:
 
 - Three Arrows tiene dos frases separadas por punto.
+
 - La primera frase elige un personaje y le hace 2 de daño.
+
 - La segunda frase contiene un "may", así que puedes no hacer nada en ella.
+
 - Si decides hacerla, debes elegir "another chosen character", es decir, un personaje distinto del primero.
+
 - Esa segunda elección no está restringida a personajes del oponente.
 
 ---
@@ -46,8 +53,7 @@ La combinación relevante es esta:
 
 ---
 
-## 🔗 Véase también
-
+## 🔗
 - [[No tener objetivo legal vs elegir un objetivo inválido]]
 - [[Resolución parcial sin objetivo válido]]
 

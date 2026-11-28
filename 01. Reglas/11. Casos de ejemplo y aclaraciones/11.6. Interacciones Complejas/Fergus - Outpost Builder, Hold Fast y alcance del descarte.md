@@ -23,19 +23,29 @@ Así que la traducción española "de tu mano o del descarte" debe interpretarse
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, habilidades y daño del desafío]]
+
+### Cartas citadas
+
 - [Fergus - Outpost Builder](https://cards.lorcast.io/card/digital/large/crd_e9a024091f294cfab0aebe2882414fdc.avif?1777687910) usa dos wordings relevantes:
   - "play a location from your hand or discard with cost 4 or less for free"
   - "whenever a location is challenged and banished, you may deal 4 damage to chosen character"
-- [[4.6 Desafío (Challenge)|4.6.1]] define que el objetivo de un desafío es un personaje o localización del oponente.
-- [[4.6 Desafío (Challenge)|4.6.8.1]] precisa que al desafiar una localización eliges una localización enemiga.
-- [7.1.1](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=38) recuerda que todas las zonas son separadas entre sí.
-- [7.6.1](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=40) y [7.6.2](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=40) dejan claro que cada jugador tiene su propio discard pile como zona pública separada.
 - Como contraste de wording, [Magic Broom - Bucket Brigade](https://cards.lorcast.io/card/digital/large/crd_95ecf1d59f004e4399a2c61e280dfd13.avif?1709690747) sí dice "from any discard" cuando una carta puede usar cualquier descarte.
+
+### Notas de lectura
 
 La consecuencia interpretativa es directa:
 
 - Si el texto no limita la localización desterrada por controlador, HOLD FAST ve cualquier localización que cumpla el evento.
+
 - Si el texto no dice "any discard" ni identifica el descarte de otro jugador, no autoriza cambiar una carta desde el descarte rival a tu propia zona de juego.
+
+### Fuentes oficiales
+
+- [7.1.1](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=38) recuerda que todas las zonas son separadas entre sí.
+- [7.6.1](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=40) y [7.6.2](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=40) dejan claro que cada jugador tiene su propio discard pile como zona pública separada.
 
 ---
 

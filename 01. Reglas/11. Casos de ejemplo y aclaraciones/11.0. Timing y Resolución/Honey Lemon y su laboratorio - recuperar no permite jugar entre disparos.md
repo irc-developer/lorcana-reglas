@@ -30,14 +30,19 @@ En tu siguiente turno puedes repetir la variante válida si conservas las piezas
 
 ## 📘 Referencias
 
-- [[4.1. General|4.1.2–4.1.3. Acciones de turno]] y [[7.7. Bolsa (Bag)|7.7.3.1 y 7.7.4.2–7.7.4.5. Orden de resolución]]: se puede escoger entre disparos propios, pero no insertar otra acción de turno.
-- [[5.5 Objetos (items)|5.5.1. Objeto y carta de objeto]] y [[6.1. General (General)|6.1.5.1. Efectos secuenciales]]: fuera de la zona de juego es una carta de objeto; sin efectuar el destierro no se obtiene la parte dependiente de Honey Lemon.
-- [[7.4. Juego (Play)|7.4.3. Disparos al abandonar el juego]]: Prototype Chem Ball ve su propio destierro y genera ENIGMA BURST.
-- [[6.1. General (General)|6.1.13.2–6.1.13.3. Una vez y hasta]]: el límite comprueba las resoluciones completas de esa habilidad durante el periodo indicado; Resist dura hasta el momento escrito en el objeto.
-- [[1.13. Contadores (Counters)|1.13.1.2. Gotas de tinta]]: se retiran para pagar costes; no son cartas de tinta.
-- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 4.1.2–4.1.3 (p. 12), 5.5.1 (p. 24), 6.1.5.1 (p. 26), 6.1.13.2–6.1.13.3 (pp. 28–29), 7.4.3 (p. 39), 7.7.3.1 y 7.7.4 (p. 40), y 1.13.1.2 (p. 9).
+### Wiki de Lorcana
 
-Relacionado: [[Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle]]. Allí Fergus sí permite jugar una carta durante la resolución de su habilidad; BREAK TIME solo la devuelve a la mano.
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.1. General|Cuándo pueden realizarse las acciones de turno]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.5 Objetos (items)|Diferencias entre un objeto en juego y una carta de objeto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)|Cómo se detectan los movimientos al abandonar la zona de juego]]
+- [[01. Reglas/1. Principios generales/1.13. Contadores (Counters)|Qué son las gotas de tinta y cómo se usan]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Fergus - Outpost Builder y Sleepy Hollow - The Bridge no forman un bucle|Fergus sí permite jugar una carta durante su resolución]]
+
+### Fuentes oficiales
+
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 4.1.2–4.1.3 (p. 12), 5.5.1 (p. 24), 6.1.5.1 (p. 26), 6.1.13.2–6.1.13.3 (pp. 28–29), 7.4.3 (p. 39), 7.7.3.1 y 7.7.4 (p. 40), y 1.13.1.2 (p. 9).
 
 ---
 

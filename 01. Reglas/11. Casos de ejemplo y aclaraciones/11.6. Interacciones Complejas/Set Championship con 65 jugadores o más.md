@@ -16,8 +16,13 @@ El Top Cut sí es obligatorio en torneos Competitive y Premier Play según 3.2.
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.2 Mínimo de Rondas (Round Minimums)|3.2. Mínimo de rondas]]: exige al menos 3 rondas y aconseja 7 rondas y Top 8 para 65–128 jugadores.
-- [[3. Operaciones en los torneos#3.3 Estructura de Partida (Match Structure)|3.3. Estructura de partida]]: advierte que eventos como Set Championships pueden tener requisitos adicionales.
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Mínimo de rondas, tabla recomendada y requisitos del evento]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/16 jugadores y rondas adicionales en Set Championship|Jugadores y rondas adicionales en Set Championship]]
+
+### Fuentes oficiales
+
 - [Tournament Rules, documento efectivo 14/07/2026](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf), reglas 3.2 y 3.3.
 
 ---

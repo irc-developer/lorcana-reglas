@@ -14,8 +14,13 @@ Los estados preparado y agotado importan para poder declarar legalmente el desaf
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|4.6. Desafío]] establece la declaración y la posterior resolución de disparos antes del daño.
-- [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] distingue entre preparado y agotado sin convertir el cambio de estado en un movimiento de zona.
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y movimiento de las pilas]]
+
+### Fuentes oficiales
+
 - CR 2.3.0, regla 4.6.4.4, confirma la aclaración general; las *release notes* la aplican expresamente a Ming Lee.
 
 ---

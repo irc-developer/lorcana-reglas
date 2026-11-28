@@ -13,9 +13,10 @@ Todas entran a la bolsa y se resuelven siguiendo su orden reglamentario: jugador
 
 ## 📘 Referencias
 
-- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa]]
-- [[7.7. Bolsa (Bag)|7.7.4. Orden]]
-- [[7.7. Bolsa (Bag)|7.7.4.4. Pasar la bolsa]]
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío|Un desafío con habilidades pendientes de ambos jugadores]]
 
 ---
 

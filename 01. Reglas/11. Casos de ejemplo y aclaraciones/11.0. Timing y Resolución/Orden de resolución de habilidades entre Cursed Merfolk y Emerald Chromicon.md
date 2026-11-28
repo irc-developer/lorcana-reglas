@@ -51,9 +51,12 @@ En el caso hipotético de que ambas habilidades **se disparasen al mismo tiempo*
 
 ## 📘 Referencias
 
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Cuándo se cocinan los disparos]] – Los disparos se cocinan cuando su condición se cumple de forma secuencial.
-- [[7.7. Bolsa (Bag)|7.7.4. Orden de resolución]] – En la bolsa, los disparos se resuelven en orden de prioridad de jugadores por cada disparo generado.
-- [[4.6 Desafío (Challenge)|Declaración y resolución del desafío]] – Un desafío se resuelve: se compara fuerza/voluntad, se aplica daño, se desterran si corresponde.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Bambi - Ethereal Fawn y Dr. Bushroot - Evil Botanist en un desafío|El contraste con dos habilidades de la declaración del desafío]]
 
 ---
 

@@ -13,8 +13,11 @@ La restricción no agota al personaje ni cambia su estado actual. Su alcance dep
 
 ## 📘 Referencias
 
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1. Preparado (Ready)]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Habilidades disparadas]]
+### Wiki de Lorcana
+
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|Preparar las cartas y resolver el comienzo del turno]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Elegir un personaje agotado por restricción|Una prohibición estática que impide preparar a Demona]]
 
 ---
 

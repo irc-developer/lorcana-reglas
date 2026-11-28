@@ -13,9 +13,12 @@ El evento de destierro ocurrió en el momento en que la carta abandonó la zona 
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)|7.4.3. Cartas abandonando la zona de Juego]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3. Interacción de disparos]]
-- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa]]
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)|Cómo se detectan los movimientos al abandonar la zona de juego]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Cartas volviendo a tu mano cuando son desterradas|Un ejemplo del recorrido del juego al descarte y después a la mano]]
 
 ---
 

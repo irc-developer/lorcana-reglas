@@ -42,10 +42,20 @@ Para resolver una partida que dependa de esa distinción, debe solicitarse un cr
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Aplicar parcialmente un reemplazo sin repetirlo en el mismo evento]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Decidir si se acepta un efecto opcional]]
+- [[01. Reglas/1. Principios generales/1.6 Habilidades (Abilities)|Identificar la fuente de una habilidad]]
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Resolver cada carta robada como un robo individual]]
+- [[01. Reglas/1. Principios generales/1.13. Contadores (Counters)|Cómo se generan y utilizan las gotas de tinta]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez|Cómo se consumen las instancias idénticas de un reemplazo temporal]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.5.1, 6.5.5, 6.5.8, 6.1.4, 1.6.1, 1.12.2, 1.13.1.2, 7.7.3.1.
 - [Kyle (RAV_Kyle), aclaración oficial en Discord, mensaje «Update»](https://github.com/irc-developer/lorcana-reglas/blob/main/Documentacion%20Oficial/Discord/Kyle-Baymax-reemplazo.md): Baymax reemplaza una gota cuando se generan varias; funcionamiento no intencionado y cambio anunciado para la próxima publicación de reglas. El mensaje no especifica el funcionamiento futuro.
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|CR 6.5.1–6.5.5 y 6.5.8 — Evento, reemplazo parcial, una oportunidad e instancias idénticas]].
-- [[6.1. General (General)|CR 6.1.4 — Efectos opcionales]] y [[1.6 Habilidades (Abilities)|CR 1.6.1 — Fuente de una habilidad]].
-- [[1.12 Robo (Drawing)|CR 1.12.2 — Robos individuales]], [[1.13. Contadores (Counters)|CR 1.13.1.2 — Gotas de tinta]] y [[7.7. Bolsa (Bag)|CR 7.7.3.1 — Espera de los disparos durante una resolución]].
 - [Comprehensive Rules 2.3.0, pp. 33–34](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=33): reglas de reemplazo; robos y gotas, p. 9; opcionalidad, p. 26; resolución, CR 6.7.2.3, p. 36; bolsa, p. 40.
 - [Notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/), apartados Ink Drops y Baymax: texto de las cartas y naturaleza de las gotas. La respuesta específica sobre Baymax trata su coste de Shift; no resuelve estas dos dudas de reemplazo.
 

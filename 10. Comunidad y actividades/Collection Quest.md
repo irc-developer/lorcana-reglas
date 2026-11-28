@@ -18,7 +18,13 @@ Esas instrucciones permiten que la organización entregue una recompensa incluso
 
 La actividad invita a buscar intercambios; las instrucciones no obligan a nadie a aceptar una propuesta ni a entregar una carta concreta. Si una persona rechaza un intercambio, se debe respetar su decisión. Las expectativas de conducta para todas las personas que se reúnen a intercambiar cartas están en el [[Código de la comunidad (Community Code)|Disney Lorcana Community Code]].
 
-## Fuentes oficiales
+## Referencias
+
+### Wiki de Lorcana
+
+- [[10. Comunidad y actividades/Código de la comunidad (Community Code)|Respeto y convivencia al intercambiar cartas]]
+
+### Fuentes oficiales
 
 - [Evergreen Collection Quest Organizer Instructions](https://files.disneylorcana.com/Evergreen%20Collection%20Quest%20Organizer%20Instructions.pdf): procedimiento general para organizadores.
 - [Qué es una Collection Quest y en qué se diferencia de un torneo](https://www.disneylorcana.com/en-US/news/2026/07/rph-collection-quest): explicación de Ravensburger y ejemplo de una convocatoria de 2026.

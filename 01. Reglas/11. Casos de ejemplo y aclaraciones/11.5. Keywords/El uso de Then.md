@@ -22,9 +22,15 @@ La redacción que sí convertiría la segunda parte en dependiente de la primera
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.2 Resolver en orden y hacer tanto como sea posible]]
-- [[6.1. General (General)|6.1.5 Efectos secuenciales y cuándo se corta la secuencia]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2 Resolución]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cumplir parte de una habilidad|Contraste con una secuencia que sí exige completar la primera parte]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.1.2, 6.1.5, 6.7.2.
 
 ---
 

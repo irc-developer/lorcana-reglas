@@ -22,12 +22,17 @@ En torneo, si un jugador usa ese proceso para tardar más de lo razonable en tom
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.10. Si todos entienden el bucle, el jugador declara cuántas repeticiones hace y el juego avanza hasta ese punto]]
-- [[3. Errores de torneo#3.2 Juego lento (slow play)|3.2 Juego lento (slow play): el jugador tarda demasiado en muchas de sus decisiones]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Abreviar un bucle declarando un número finito de repeticiones]]
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Cuándo la lentitud al jugar constituye una infracción]]
+
+### Notas de lectura
 
 La consecuencia práctica es doble:
 
 - En reglas, los bucles se abrevian.
+
 - En torneo, no se permite usar esa abreviación de forma torticera ni negarse a abreviarla para quemar reloj.
 
 ---

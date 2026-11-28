@@ -22,8 +22,10 @@ La carta no deja de ser del otro color por cumplir uno de ellos: sigue siendo de
 
 ## 📘 Referencias
 
-- [[5.2. Partes de una carta (Parts of a Card)|5.2.5. Tipo de tinta]]: el tipo de tinta de la carta puede ser referenciado por reglas de cartas.
-- [[5.2. Partes de una carta (Parts of a Card)|5.2.5.1. Múltiples colores de tinta]]: las cartas con dos tipos muestran dos símbolos y **cuentan como ambos tipos**.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card)|Tipos de tinta y cartas multicolor]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/With a Few Good Friends cuenta tipos de tinta y no símbolos|Contar tipos de tinta distintos en cartas multicolor]]
 
 ---
 

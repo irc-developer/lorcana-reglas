@@ -12,7 +12,13 @@ La referencia vinculante es el comunicado o la lista oficial vigente para el eve
 
 ## 📘 Referencias
 
-- [[1. Definiciones de torneo#1.6 Legalidad de Sets (Set Legality)|1.6. Legalidad de sets]] y [[5. Información y comunicación#5.4 Información en el Juego (In-Game Information)|5.4. Información en el juego]]. La lista de prohibiciones y el anuncio del evento prevalecen para ese evento y fecha.
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/1. Definiciones de torneo|Legalidad de sets]]
+- [[03. Reglas de Torneo/5. Información y comunicación|Información en el juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Usar cartas de anteriores sets reeditadas|Usar cartas de anteriores sets reeditadas]]
+
+---
 
 ## 🔄 Cómo se resuelve
 

@@ -20,11 +20,19 @@ Solo habría disparo si el efecto incluyera una instrucción separada de "draw a
 
 ## 📘 Referencias
 
-- [[1.12 Robo (Drawing)|1.12. Robo (Drawing)]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Diferencias entre robar y poner una carta en la mano]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Diablo y el robo aparente tras un desafío|Una carta que vuelve a la mano no representa un segundo robo]]
+
+### Texto de las cartas
+
 - [Nani - Stage Manager](https://cards.lorcast.io/card/digital/large/crd_20232422b3314d02b054a923d610d81d.avif?1770259288) usa "put it into your hand", no "draw".
 - [Ariel - Spectacular Singer](https://cards.lorcast.io/card/digital/large/crd_be92bba983424f2f9546f237e65ce357.avif?1709690747) usa "put it into your hand", no "draw".
 - [Judy Hopps - Uncovering Clues](https://cards.lorcast.io/card/digital/large/crd_977a785a450a4621b0dcff4404592877.avif?1761764552) usa "put it into your hand", no "draw".
 - [Diablo - Devoted Herald](https://cards.lorcast.io/card/digital/large/crd_af531020efc14cb38f4ffeb159eb8eff.avif?1716052430) solo se dispara "During each opponent's turn, whenever they draw a card while this character is exerted, you may draw a card."
+
+### Criterio de aplicación
 
 La regla 1.12.3 es concluyente: si un efecto dice "put a card into your hand", eso no cuenta como robar, aunque físicamente la carta termine en tu mano. Por tanto, en este escenario no ocurre ningún evento de robo que Diablo pueda detectar.
 

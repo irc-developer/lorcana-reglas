@@ -18,10 +18,12 @@ Sí, con matices.
 
 ## 📘 Referencias
 
-- [[4.3. Jugar una carta (Play a Card)|4.3.3.2. Acciones]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.3. Elecciones durante la resolución]]
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Corrección de jugadas]]
-- [[8.15 Protección (ward)|8.15.1. Definición de Ward]]
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Elecciones legales y corrección de acciones ilegales]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Qué elecciones impide Protección y en qué zonas funciona]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|Cuándo se omite una elección y cuándo debe corregirse]]
 
 ---
 

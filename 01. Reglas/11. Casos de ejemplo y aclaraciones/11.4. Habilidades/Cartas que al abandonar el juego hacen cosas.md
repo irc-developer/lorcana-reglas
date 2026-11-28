@@ -17,9 +17,16 @@ Cuando varias cartas abandonan la zona de juego a la vez, las habilidades dispar
 
 ## 📘 Referencias
 
-- [[7.4. Juego (Play)|7.4.3. Cartas abandonando la zona de Juego]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Definición]]
-- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
+### Wiki de Lorcana
+
+- [[01. Reglas/7. Zonas (Zones)/7.4. Juego (Play)|Qué ven las habilidades cuando varias cartas abandonan el juego a la vez]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Be Prepared con Sid Phillips - Toy Surgeon|Otro ejemplo de disparos que ven las cartas desterradas junto a su fuente]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 7.4.3, 6.2.1, 7.7.3.1.
 
 ---
 

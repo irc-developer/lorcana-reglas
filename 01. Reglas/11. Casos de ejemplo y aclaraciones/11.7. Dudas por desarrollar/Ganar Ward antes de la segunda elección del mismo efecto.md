@@ -16,10 +16,13 @@ Para las demás elecciones, se usa el estado de la partida al llegar a la instru
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.2 y 6.1.3. Efectos separados y momento de las elecciones]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.2 y 6.7.2.3. Elecciones para el daño y ejecución de las instrucciones]].
-- [[8.15 Protección (ward)|8.15.1. Ward impide que los oponentes elijan esa carta al resolver un efecto]].
-- [[1.7. Game Actions, Timing, y Illegal Actions|1.7.7. Elección ilegal durante la resolución]].
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Qué personajes impide elegir Protección]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Acciones ilegales y corrección de elecciones]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|No tener objetivo legal vs elegir un objetivo inválido]]
 
 ---
 

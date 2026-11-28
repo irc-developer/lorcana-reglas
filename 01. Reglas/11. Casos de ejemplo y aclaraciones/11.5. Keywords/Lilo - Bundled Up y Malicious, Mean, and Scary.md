@@ -15,11 +15,16 @@ Si EXTRA LAYERS ya se aplicó en ese turno del oponente, **sí** se le puede pon
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.3. Recibir daño]]
-- [[1.9. Daño (Damage)|1.9.2.2. Poner daño]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.1.1. Instead]]
+### Wiki de Lorcana
 
-[Notas oficiales de Winterspell](https://www.disneylorcana.com/en-GB/news/2026/02/winterspell-release-notes), aclaración de EXTRA LAYERS.
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Distinguir daño infligido, puesto, movido y recibido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Cómo se aplican y se combinan los efectos de reemplazo]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño|Distinguir el daño recibido por Lilo de los disparos que observan a la fuente]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 1.9.3, 1.9.2.2, 6.5.1.1.
+- [Notas oficiales de Winterspell](https://www.disneylorcana.com/en-GB/news/2026/02/winterspell-release-notes), aclaración de EXTRA LAYERS.
 
 ---
 

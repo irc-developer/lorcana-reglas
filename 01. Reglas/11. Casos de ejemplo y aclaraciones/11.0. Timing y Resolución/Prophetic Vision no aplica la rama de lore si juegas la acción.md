@@ -14,9 +14,18 @@ Esa rama se aplica si la carta revelada no es una acción o si es una acción y 
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1. Reglas generales de efectos]] regula efectos opcionales y condicionales.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de efectos]] exige seguir la estructura y el orden del texto.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Escoger robar la carta superior o no|Cómo leer opciones y ramas alternativas sin equiparar textos diferentes]]
+
+### Criterio de aplicación
+
 - `Otherwise` introduce el resultado alternativo de no realizar la opción anterior en la estructura concreta de esta carta.
+
+### Fuentes oficiales
+
 - Las *Attack of the Vine Set Release Notes* confirman que jugar la acción excluye la rama de lore.
 
 ---

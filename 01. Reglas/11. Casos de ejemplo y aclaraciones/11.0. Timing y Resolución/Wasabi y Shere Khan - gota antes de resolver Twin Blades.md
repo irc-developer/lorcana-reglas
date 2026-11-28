@@ -42,10 +42,22 @@ La elección del personaje adicional se explica en [[Wasabi - Called into Battle
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|CR 4.6.6.2–4.6.6.3 y 4.6.9.1 — Daño, GSC y bolsa]]: el daño es simultáneo y después se hace el chequeo; salir un participante del desafío no elimina las habilidades pendientes.
-- [[1.8. Chequeo del estado del juego (Game State Check)|CR 1.8.1.4 y 1.8.2–1.8.3 — Destierros y comprobaciones completas]]: se atribuye a Wasabi el destierro por su daño del desafío; los disparos generados por el GSC esperan a que terminen las comprobaciones.
-- [[7.7. Bolsa (Bag)|CR 7.7.4.2–7.7.4.3 — Escoger una habilidad propia]]: el jugador activo elige cuál de sus habilidades pendientes resuelve primero; después de cada resolución se completa el GSC correspondiente.
-- [[6.4. Habilidades Estáticas (Static Abilities)|CR 6.4.1 y 6.4.2.3 — Modificación continua de Fuerza]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.2.2 y 6.7.7 — Cálculo del daño y último valor conocido]]: se usa la Fuerza pertinente al resolver, o su último valor conocido si Wasabi ya salió de la zona de juego.
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego y se destierran los personajes]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Mulan - Elite Archer y Hercules - Mighty Leader tras el daño del desafío|Un destierro del chequeo de estado que cambia la habilidad pendiente]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Wasabi - Called into Battle y another chosen character|Qué personaje adicional debe elegir Twin Blades]]
+
+### Fuentes oficiales
+
+- CR 4.6.6.2–4.6.6.3 y 4.6.9.1 — Daño, GSC y bolsa: el daño es simultáneo y después se hace el chequeo; salir un participante del desafío no elimina las habilidades pendientes.
+- CR 1.8.1.4 y 1.8.2–1.8.3 — Destierros y comprobaciones completas: se atribuye a Wasabi el destierro por su daño del desafío; los disparos generados por el GSC esperan a que terminen las comprobaciones.
+- CR 7.7.4.2–7.7.4.3 — Escoger una habilidad propia: el jugador activo elige cuál de sus habilidades pendientes resuelve primero; después de cada resolución se completa el GSC correspondiente.
+- CR 6.4.1 y 6.4.2.3 — Modificación continua de Fuerza y CR 6.7.2.2 y 6.7.7 — Cálculo del daño y último valor conocido: se usa la Fuerza pertinente al resolver, o su último valor conocido si Wasabi ya salió de la zona de juego.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): GSC, pp. 6–7; contadores de gota de tinta, 1.13.1.2, p. 9; desafío, pp. 15–16; habilidades estáticas, p. 32; resolución y último valor conocido, pp. 35–37; bolsa, p. 40.
 
 ---

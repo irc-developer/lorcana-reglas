@@ -48,12 +48,14 @@ La penalización final depende de los hechos, del momento en que se descubre el 
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.11 Accesorios Aprobados (Approved Accessories)|TR 3.11: cartas oficialmente autorizadas]].
-- [[3. Errores de torneo#3.3 Error de mazo-registro menor (Deck-Registration Error - minor)|Error de mazo-registro menor]].
-- [[3. Errores de torneo#3.4 Error de mazo-registro mayor (Deck-Registration Error major)|Error de mazo-registro mayor]].
-- [[4. Conducta antideportiva#4.4 Trampas (Cheating)|Cheating]].
-- [[Investigar la intención en una discrepancia entre mazo y lista]].
-- [[10. Errores de Registro - Guía rápida para jueces#Si hacen falta cartas de sustitución|Errores de registro e Ink Card Proxies]].
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Cartas oficialmente autorizadas]]
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Errores menores y mayores de mazo o registro]]
+- [[04. Guia de correccion de jugadas/4. Conducta antideportiva|Cuándo investigar trampas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Investigar la intención en una discrepancia entre mazo y lista|Investigar la intención en una discrepancia entre mazo y lista]]
+- [[05. Consejos de jueces/10. Errores de Registro - Guía rápida para jueces|Errores de registro e Ink Card Proxies]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Mazo de 53 cartas descubierto en un Top 8|Mazo de 53 cartas descubierto en un Top 8]]
 
 ---
 

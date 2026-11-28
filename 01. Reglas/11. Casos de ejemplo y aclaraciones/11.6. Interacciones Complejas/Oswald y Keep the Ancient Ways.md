@@ -16,12 +16,14 @@ Si mi oponente ha resuelto [Keep the Ancient Ways](https://cards.lorcast.io/card
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|Regla de oro 1.2.2]] (CR 2.3.0, p. 3). Una prohibición prevalece sobre un permiso. El ejemplo oficial aplica esta regla a una acción que Genie permite jugar gratis y Tiana impide jugar.
-- [[4.3. Jugar una carta (Play a Card)|4.3.1]] (p. 13). La mano es la zona desde la que se juega una carta por defecto.
-- [[6.1. General (General)|6.1.2, 6.1.4 y 6.1.7]] (pp. 25–27). Resuelve lo posible según el texto de la habilidad. Jugar gratis elimina los costes.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3]] (p. 30). La habilidad se añade a la bolsa cuando se cumple la condición de disparo.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.1]] (p. 32). El efecto continuo de la canción se aplica durante su duración.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8]] (p. 37). La carta se jugaría durante la resolución de la habilidad que lo permite.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Prohibiciones y resolución de todo lo que sea posible]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Procedimiento de jugar una carta y resolver sus disparos]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
 
 ---
 

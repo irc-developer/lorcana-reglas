@@ -23,14 +23,13 @@ Si controlas a [Jessie - Lively Cowgirl](https://cards.lorcast.io/card/digital/l
 
 ## 📘 Referencias
 
-- [[1.5 Costes (Costs)|1.5.4 El coste no cambia, pero sí la cantidad total pagada]]
-- [[1.5 Costes (Costs)|1.5.5 Los costes alternativos se pagan en lugar del coste normal]]
-- [[1.5 Costes (Costs)|1.5.5.1 Cantar es un coste alternativo]]
-- [[1.5 Costes (Costs)|1.5.5.3 Jugar gratis es un coste alternativo]]
-- [[4.3. Jugar una carta (Play a Card)|4.3.2.3 El total a pagar parte del ink cost o del coste alternativo]]
-- [[4.3. Jugar una carta (Play a Card)|4.3.5 Los efectos como Singer no cambian el ink cost]]
-- [[5.4. Acciones (Actions)|5.4.4.2 Cantar una canción sustituye el coste de tinta por un coste alternativo]]
-- [[8.11. Cantante (Singer)|8.11.2 Singer no cambia el coste de tinta real]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.5 Costes (Costs)|Costes, descuentos y formas alternativas de pago]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.3. Jugar una carta (Play a Card)|Elegir el modo de juego, pagar y resolver una carta]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.4. Acciones (Actions)|Cómo se juegan las acciones y se cantan las canciones]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.11. Cantante (Singer)|Cómo se determina el coste con el que un personaje puede cantar]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Woody y Grandmother Willow - el coste impreso al jugar gratis|El contraste entre el coste impreso y la tinta que se paga]]
 
 ---
 

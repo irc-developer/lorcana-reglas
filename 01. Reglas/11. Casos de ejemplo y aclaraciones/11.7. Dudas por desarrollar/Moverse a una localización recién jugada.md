@@ -24,12 +24,13 @@ Así que la respuesta corta es:
 
 ## 📘 Referencias
 
-- [[4.7 Mover un personaje (Move a character)|4.7.3.1. Elegir personaje y localización; 4.7.3.2–4.7.3.4. Elegir, calcular y pagar el coste; 4.7.4. Completar el movimiento]]. El pago puede incluir gotas de tinta.
+### Wiki de Lorcana
 
-- [[5.1. Estados de las cartas (Card States)|5.1.1.11. Secarse es un estado de personajes, no de localizaciones]]
-- [[5.1. Estados de las cartas (Card States)|5.1.2.3. Las localizaciones entran en juego sin estado de ready, exerted ni drying]]
-- [[5.6. Localizaciones (Locations)|5.6.4. Una localización puede usarse el mismo turno en que se juega]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.8. El ejemplo de Jim Hawkins confirma que una localización recién jugada ya puede recibir un movimiento]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.7 Mover un personaje (Move a character)|Elegir personaje y localización y pagar el movimiento]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y cartas colocadas debajo de otras]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.6. Localizaciones (Locations)|Cuándo puede usarse una localización recién jugada]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Mover un personaje al lugar donde ya está - elección y pago|Mover un personaje al lugar donde ya está - elección y pago]]
 
 ---
 

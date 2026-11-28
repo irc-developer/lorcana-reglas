@@ -12,8 +12,10 @@ El rebobinado debe deshacer también el robo de Nick. Como la carta que robó ya
 
 ## 📘 Referencias
 
-- [[04. Guia de correccion de jugadas/1. Introducción#1.2.1 Orden en el rebobinado|Orden del rebobinado]]
-- [[04. Guia de correccion de jugadas/1. Introducción#1.2.2 Rebobinando situaciones que impliquen zonas privadas|Zonas privadas]]
+### Wiki de Lorcana
+
+- [[04. Guia de correccion de jugadas/1. Introducción|Orden del rebobinado y tratamiento de las zonas privadas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Judy Hopps y una carta puesta en la mano sin revelar|Investigar y corregir una carta puesta en la mano sin revelarla]]
 
 ---
 

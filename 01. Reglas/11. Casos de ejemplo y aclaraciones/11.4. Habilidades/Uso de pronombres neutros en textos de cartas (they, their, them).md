@@ -13,8 +13,14 @@ En Lorcana esos pronombres se usan de forma neutra según el contexto gramatical
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.1. Texto de habilidad y efecto]]
-- [[6.1. General (General)|6.1.2. Lectura por estructura completa]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Habilidades que contienen 'they'|Ejemplo de they referido a un único jugador definido en el texto]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.1.1, 6.1.2.
 
 ---
 

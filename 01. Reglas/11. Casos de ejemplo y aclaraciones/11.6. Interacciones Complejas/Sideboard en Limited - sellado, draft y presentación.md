@@ -12,7 +12,11 @@ No existe un permiso universal de sideboard entre partidas o rondas de Limited e
 
 ## 📘 Referencias
 
-- [[1. Definiciones de torneo#1.3.2 Formatos de Limitado|1.3.2 Formatos de Limitado]], [[1. Definiciones de torneo#1.3.2.2 Sealed|1.3.2.2 Sellado (Sealed)]] y [[1. Definiciones de torneo#1.3.2.4 Draft|1.3.2.4 Draft]].
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/1. Definiciones de torneo|Construcción y cambios de mazo en sellado y draft]]
+
+---
 
 ## 🔄 Cómo se resuelve
 

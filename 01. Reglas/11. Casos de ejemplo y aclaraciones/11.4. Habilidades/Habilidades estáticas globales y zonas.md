@@ -20,10 +20,16 @@ Si entre las nueve hay un personaje con Cantante impreso como palabra clave, pue
 
 ## 📘 Referencias
 
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3: efectos de cartas en juego]].
-- [[5.3. Personajes (Characters)|5.3.3: clasificaciones]].
-- [[7.1. General|7.1: zonas y cartas]].
-- [[5.3. Personajes (Characters)|5.3.1. Personajes en juego y cartas de personaje en otras zonas]].
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|Distinguir personajes en juego, cartas de personaje y clasificaciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.1. General|Zonas de las cartas y pérdida de efectos al cambiar de zona]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Ancestral Guitar no convierte Singer en Singer X|Por qué conceder Cantante en juego no cambia las cartas del mazo o el descarte]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.4.2.3, 5.3.3, 7.1, 5.3.1.
 - [Comprehensive Rules 2.3.0, 6.4.1 y 6.4.2.3, p. 32](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=32).
 
 ---

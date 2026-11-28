@@ -19,20 +19,23 @@ La restricción se aplica porque:
 
 ## 📘 Referencias
 
-**Definición: Restricciones de elección estáticas**
+### Wiki de Lorcana
 
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/1. Principios generales/1.3. Jugadores (Players)|Quiénes son los jugadores y los oponentes de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Education or Elimination|Cuándo John Smith deja de ser una elección legal]]
+
+### Notas de lectura
+
+**Definición: Restricciones de elección estáticas**
 Las habilidades estáticas pueden crear restricciones sobre qué objetivos se pueden elegir. Una restricción con "if able" es condicional: requiere elegir el objetivo restringido SOLO si existe al menos una opción legal que lo cumpla.
 
 **Analogía oficial - Bodyguard:**
-
 El documento oficial define Bodyguard así:
 _"If an opponent would choose one of your characters to challenge, they must choose this character or another character with Bodyguard if able."_
-
 "Do your worst" funciona de manera idéntica para elecciones de **acciones y habilidades**, según su texto; no obliga a desafiarlo. Si surge una oportunidad de elegir cualquier personaje y John Smith es legal, debe elegirse.
+### Fuentes oficiales
 
-**Base normativa:**
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Habilidades estáticas y restricciones]]
-- [[1.3. Jugadores (Players)|Concepto de "if able"]]
 - Analogía en Keywords: [Bodyguard: must choose this character if able](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf)
 
 ---

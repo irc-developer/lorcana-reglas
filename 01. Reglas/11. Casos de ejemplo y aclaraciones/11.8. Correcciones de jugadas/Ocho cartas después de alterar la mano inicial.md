@@ -12,8 +12,11 @@ Es un Card Count Error en un torneo Competitive y corresponde una Warning. Prime
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.4 Procedimiento de Partida (Match Procedure)|Una sola alteración de la mano inicial]]
-- [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)|Card Count Error]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Una sola alteración de la mano inicial]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Cómo corregir un conteo incorrecto de cartas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Kida resuelta con cartas en zonas equivocadas|Corregir cartas enviadas por error a la mano o al pozo de tinta]]
 
 ---
 

@@ -17,9 +17,12 @@ Si eliges usar la habilidad, no puedes «cortar» voluntariamente el efecto para
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2.3. Hacer todo lo que se pueda]]: si un efecto indica hacer algo, haces todo lo posible aunque no puedas completar alguna parte.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]: las instrucciones se realizan en su totalidad y en el orden escrito; se toman las decisiones requeridas por el efecto.
-- [[El uso de Then]] (criterio de resolución parcial por cláusulas): cuando una parte no puede hacerse, se hace la parte posible; no habilita omitir de forma voluntaria una parte que sí puede hacerse.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Cómo se aplican los permisos y las prohibiciones de las cartas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/El uso de Then|El uso de Then]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje|Por qué no puede omitirse la devolución cuando es posible]]
 
 ---
 

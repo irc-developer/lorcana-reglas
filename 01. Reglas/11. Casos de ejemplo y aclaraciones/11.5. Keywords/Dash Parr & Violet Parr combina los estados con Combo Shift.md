@@ -17,15 +17,17 @@ Combo Shift puede utilizar un personaje con cualquiera de los dos nombres o dos 
 
 ## 📘 Referencias
 
-- [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales vigentes de Shift y pilas.
-- [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] define seco, secándose, preparado y agotado.
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados y efectos de la pila]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y funcionamiento de las pilas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Mickey Mouse & Minnie Mouse necesita dos personajes para Duo Shift|Cómo se combinan estados al usar dos personajes con otra variante de Shift]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.10, 5.1.
 - Combo Shift y la combinación de estados están confirmados en CR 2.3.0, reglas 8.10.8.4 y 8.10.4.2.
-
----
-
-## 📚 Fuente oficial
-
-Aclaración de carta: [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf) y reglas generales confirmadas por CR 2.3.0. Véase [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
+- Aclaración de carta: [Notas oficiales de Attack of the Vine](https://files.disneylorcana.com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf) y reglas generales confirmadas por CR 2.3.0. Véase [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

@@ -16,11 +16,21 @@ Si INSPIRING VOICE se resolviera **después del Shift**, cuando la Ariel superio
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.1. Generalidades (General)|Comparar la duración de palabras clave repetidas]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados y efectos de la pila]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Palabras clave repetidas y duración|Por qué la concesión temporal más corta deja de existir]]
+
+### Textos de cartas
+
 - [Ariel - Adventurous Collector](https://cards.lorcast.io/card/digital/large/crd_341f45661be2402b86ec54dd9e402bd3.avif?1709690747): Evasive impreso; al jugar una canción, INSPIRING VOICE concede Evasive a un personaje tuyo hasta el comienzo del siguiente turno.
 - [Ariel - Sonic Warrior](https://cards.lorcast.io/card/digital/large/crd_fd34f98e6230426fb411e1fd8528a7dc.avif?1716052430): Shift 4 y AMPLIFIED VOICE; no tiene Evasive impreso.
-- [[8.1. Generalidades (General)|8.1.2. Prevalece la instancia de mayor duración]].
-- [[8.10. Cambio (Shift)|8.10.5. Shift conserva efectos aplicados, sin heredar automáticamente el texto inferior]].
-- [[6.1. General (General)|6.1.6. Another y other]].
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.1.2, 8.10.5, 6.1.6.
 - [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), 8.1.2 p. 41 y 8.10.5 p. 42.
 
 ---

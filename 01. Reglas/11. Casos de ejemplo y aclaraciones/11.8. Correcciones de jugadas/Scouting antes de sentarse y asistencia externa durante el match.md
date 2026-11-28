@@ -12,9 +12,12 @@ La consulta previa a sentarse y antes de comenzar las acciones de la partida que
 
 ## 📘 Referencias
 
-- [[5. Información y comunicación#5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|Notas y asistencia externa]]
-- [[3. Errores de torneo#3.8 Asistencia externa (outside assistance)|Outside Assistance]]
-- [[3. Operaciones en los torneos#3.4 Procedimiento de Partida (Match Procedure)|Inicio del procedimiento de partida]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/5. Información y comunicación|Notas y asistencia externa]]
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Cuándo una consulta constituye asistencia externa]]
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Inicio del procedimiento de partida]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Notas propias y asistencia externa durante un match|Notas propias y asistencia externa durante un match]]
 
 ---
 

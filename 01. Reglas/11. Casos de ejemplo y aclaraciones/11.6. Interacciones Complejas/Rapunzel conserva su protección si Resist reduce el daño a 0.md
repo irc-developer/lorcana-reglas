@@ -27,17 +27,14 @@ La secuencia correcta es:
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Resolución]]
-- [[1.9. Daño (Damage)|1.9.5. Fuente y receptor]]
-- [[8.8. Resistir (Resist)|8.8.2. Daño reducido a 0]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Efectos de reemplazo]]
+### Wiki de Lorcana
 
----
-
-## 🔗 Véase también
-
-- [[Escudos (replacement) vs Resist]]
-- [[Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Qué daño reduce Resistir y qué ocurre al reducirlo a cero]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Qué ocurre cuando un efecto reemplaza un evento]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Escudos (replacement) vs Resist|Escudos (replacement) vs Resist]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Merida frente a Lilo y Rapunzel - infligir daño no es recibir daño|Distinguir daño infligido y recibido al aplicar una protección]]
 
 ---
 

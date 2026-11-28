@@ -16,9 +16,12 @@ Por ejemplo, si el personaje protegido sigue en juego después de la canción y 
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.2.1, 1.9.2.2, 1.9.2.4 y 1.9.3. Infligir, poner, mover y recibir daño]], CR 2.3.0, p. 7.
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.3 y 6.5.8. Condición del reemplazo y ejemplo oficial de ACT OF KINDNESS]], CR 2.3.0, pp. 33–34.
-- [[Rapunzel - Ready for Adventure y Hydra - Deadly Serpent|ACT OF KINDNESS frente al daño de un desafío y al de una habilidad]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Qué ocurre cuando un efecto reemplaza un evento]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - Ready for Adventure y Hydra - Deadly Serpent|ACT OF KINDNESS frente al daño de un desafío y al de una habilidad]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Cómo mover daño retira contadores y puede generar disparos]]
 
 ---
 

@@ -16,10 +16,17 @@ Si la Judy sobre la que haces Shift ya estaba en juego desde un turno anterior y
 
 ## 📘 Referencias
 
-- [[8.10. Cambio (Shift)|8.10.1. Shift permite jugar un personaje con un coste alternativo]].
-- [[6.1. General (General)|6.1.6. «Another» y «other» se refieren a otra carta distinta de la fuente]].
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. La condición secundaria se comprueba al resolver la habilidad]].
-- [[4.1. General|4.1.2. Resolver los disparos de una acción antes de realizar otra acción de turno]].
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados y efectos de la pila]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.1. General|Resolver las habilidades pendientes antes de otra acción de turno]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny|Por qué otra carta con el mismo nombre sigue siendo otra carta]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.10.1, 6.1.6, 6.2.4, 4.1.2.
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 4.1.2 (p. 12), 6.1.6 (p. 27), 6.2.4 (p. 30) y 8.10.1 (p. 42).
 
 ---

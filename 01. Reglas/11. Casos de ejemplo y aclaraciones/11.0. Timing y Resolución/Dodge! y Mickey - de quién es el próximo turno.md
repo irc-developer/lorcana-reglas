@@ -22,8 +22,13 @@ Por ejemplo, A juega Dodge! sobre un personaje de B durante su turno. A termina 
 
 ## 📘 Referencias
 
-- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|1.4.3.1. «You», «your» y «yours»]]: identifica al jugador al que remite el efecto.
-- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|6.1.13.3. Duración «hasta»]]: el efecto se aplica hasta el momento que indica su texto.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|A quién se refieren los efectos y quién decide sobre las cartas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0, página 4](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=4): regla 1.4.3.1.
 - [Comprehensive Rules 2.3.0, página 29](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=29): regla 6.1.13.3 y ejemplo de Dodge!.
 

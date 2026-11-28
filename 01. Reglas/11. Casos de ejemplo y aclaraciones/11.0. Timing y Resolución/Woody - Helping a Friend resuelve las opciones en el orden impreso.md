@@ -14,9 +14,18 @@ Primero puedes devolver desde tu descarte a tu mano una carta de personaje de co
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1. Reglas generales de efectos]] exige resolver los efectos en el orden escrito.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de efectos]] regula la ejecución completa y ordenada de las instrucciones.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Milo - Scholar's Gambit, descartar y devolver personaje|El contraste entre opciones sucesivas y una dependencia para continuar]]
+
+### Criterio de aplicación
+
 - Elegir ambas opciones no autoriza a reordenarlas.
+
+### Fuentes oficiales
+
 - Las *Attack of the Vine Set Release Notes* confirman expresamente este orden.
 
 ---

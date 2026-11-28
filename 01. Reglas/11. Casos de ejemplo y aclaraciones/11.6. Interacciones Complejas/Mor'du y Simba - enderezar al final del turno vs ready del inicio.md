@@ -28,20 +28,23 @@ En otras palabras: esta interacción depende del jugador al que apunta cada "you
 
 ## 📘 Referencias
 
-- [[1.4 Cartas (Cards)|1.4.3.1. "You" y "your" se refieren al jugador que jugó la carta o generó el efecto]]
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1. El enderezado normal ocurre en Ready, al inicio del turno]]
-- [[3.4. Fase final de turno (End-of-Phase)|3.4.1.1. Las habilidades "At the end of your turn" se añaden a la bolsa y se resuelven al final del turno]]
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4. Las habilidades estáticas pueden modificar reglas del juego y el estado del juego]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2. Las habilidades disparadas ocurren cuando sucede su condición]]
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5. Los efectos de reemplazo sustituyen un evento por otro modificado]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.4 Cartas (Cards)|A quién se refieren «tú» y «tu» en el texto de una carta]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|Preparar cartas y ganar lore al comenzar el turno]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.4. Fase final de turno (End-of-Phase)|Disparos y efectos al final del turno]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Alcance y duración de las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Qué ocurre cuando un efecto reemplaza un evento]]
+
+### Notas de lectura
 
 La lectura correcta separa dos eventos de juego distintos:
 
 - El enderezado automático del paso Ready.
+
 - Un efecto o habilidad que endereza personajes en otro momento.
-
 Mor'du solo limita el primero. Simba produce el segundo.
-
 Por eso, técnicamente, aquí la idea útil no es "Mor'du reemplaza el evento de ready", sino "Mor'du impone una prohibición estática sobre quién puede enderezarse durante ese paso". Aunque ambos enfoques lleven a que esos personajes no se enderecen en Ready, en este caso el texto y la estructura de reglas encajan mejor en habilidades estáticas que en reemplazo.
 
 ---

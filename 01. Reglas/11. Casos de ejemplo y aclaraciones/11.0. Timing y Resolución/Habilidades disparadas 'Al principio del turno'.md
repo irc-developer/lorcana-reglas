@@ -20,11 +20,11 @@ Casos típicos:
 
 ## 📘 Referencias
 
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2 Fase inicial del turno]]
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1 Ready step]]
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.2 Set step]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4 Condición secundaria al resolver]]
-- [[7.7. Bolsa (Bag)|7.7 Bolsa]]
+### Wiki de Lorcana
+
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|Preparar las cartas y resolver el comienzo del turno]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
 
 ---
 

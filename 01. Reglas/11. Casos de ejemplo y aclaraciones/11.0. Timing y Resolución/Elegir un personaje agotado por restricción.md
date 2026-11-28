@@ -13,9 +13,12 @@ Mientras la condición de su texto restrictivo se cumpla, ese efecto actúa como
 
 ## 📘 Referencias
 
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1. Habilidades estáticas]]
-- [[1.2. Regla de oro (Golden Rules)|1.2.2: impedir prevalece sobre permitir]].
-- [[3.2. Fase inicial del turno (Start-of-Turn Phase)|3.2.1. Paso de preparado]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Cómo se aplican los permisos y las prohibiciones de las cartas]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.2. Fase inicial del turno (Start-of-Turn Phase)|Preparar las cartas y resolver el comienzo del turno]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas|Una restricción a prepararse no agota al personaje elegido]]
 
 ---
 

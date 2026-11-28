@@ -12,8 +12,13 @@ El Lore Guide puede permitir el takeback si la solicitud es inmediata y el desaf
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.7.3 Ejemplos de takebacks permitidos|Desafío declarado y retirado antes de resolver]]
-- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Criterios de takeback]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Requisitos de un takeback inmediato antes de resolver]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback después de resolver una habilidad disparada que gana la partida|Takeback después de resolver una habilidad disparada que gana la partida]]
+
+### Cartas citadas
+
 - [Mickey Mouse - Snowboard Ace](https://cards.lorcast.io/card/digital/large/crd_23f005944c784e158b9709de1c587d1e.avif?1770259608): el efecto de abandonar el juego es información pública.
 
 ---

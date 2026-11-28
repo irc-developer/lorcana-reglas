@@ -15,9 +15,19 @@ Cuando se dispara LATEST ENTRY, puedes pagar 1 tinta para robar una carta.
 
 ## 📘 Referencias
 
-- [[8.10. Cambio (Shift)|Shift, 8.10.1]]: colocar el personaje encima.
-- [[8.4. Impulso (boost)|Boost]]: poner una carta debajo del personaje.
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Jugar mediante Cambio y conservar los estados y efectos de la pila]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.4. Impulso (boost)|Poner la carta superior del mazo debajo mediante Impulso]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en una pila|Qué significa que una carta quede debajo y cómo se mueve la pila]]
+
+### Textos de cartas
+
 - [Webby's Diary](https://cards.lorcast.io/card/digital/large/crd_553961389abc4bd4b49cc302ee271ba8.avif?1761752072): texto completo de LATEST ENTRY.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.10.1.
 
 ---
 

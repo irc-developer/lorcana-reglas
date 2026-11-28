@@ -22,12 +22,16 @@ Coconut permite hasta tres tipos de tinta y utiliza las reglas normales de multi
 
 ## 📘 Referencias
 
-- [[1.2. Regla de oro (Golden Rules)|1.2.2. Impedir tiene prioridad sobre permitir]].
-- [[6.1. General (General)|6.1.2 y 6.1.4. Las frases se resuelven en orden; «may» solo hace opcional su propio efecto]].
-- [[6.1. General (General)|6.1.5.2. Si una opción de la elección obligatoria no puede elegirse, debe elegirse la otra]].
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.1. La prevención de Kronk está activa mientras permanece en la zona de juego]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2, 6.7.4, 6.7.5 y 6.7.6. Resolución de acciones, bolsa, GSC y orden entre jugadores]].
-- [[Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]].
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Cómo se aplican los permisos y las prohibiciones de las cartas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/9. Multijugador (Multiplayer)/Formato Coconut (Beta)|Reglas de construcción y de partida de Coconut]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Descartar como requisito para resolver una habilidad|El contraste con descartar como requisito para obtener otro efecto]]
+
+### Fuentes oficiales
 
 **Fuente primaria:** [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 3, 25–26, 32 y 36–37; [Rules for \[Format Coconut\] Beta](https://files.disneylorcana.com/FormatCoconut_Rules.pdf), p. 1.
 

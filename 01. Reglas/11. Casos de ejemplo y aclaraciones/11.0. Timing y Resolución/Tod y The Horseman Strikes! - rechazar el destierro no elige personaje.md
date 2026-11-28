@@ -17,10 +17,16 @@ No hay una ventana para resolver IMPRESSIVE LEAPS entre elegir a Tod y desterrar
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.2–6.1.4]]: orden de las frases y efecto opcional completo.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1–6.2.3]] y [[7.7. Bolsa (Bag)|7.7.3.1–7.7.4]]: el disparo se genera por la elección y espera en la bolsa.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.1.2, 6.7.2.3 y 6.7.4–6.7.5]]: la acción termina antes de resolver los disparos.
-- [[7.1. General|7.1.5–7.1.6]]: cambio de zona y pérdida de la identidad del personaje en juego.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/7. Zonas (Zones)/7.1. General|Qué cambia cuando una carta pasa de una zona a otra]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Tod + You Came Back y habilidades en el Bolsa|Elegir y preparar a Tod tampoco abre una acción de turno intermedia]]
+
+### Fuentes oficiales
 
 [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 25–26, 30, 36–38 y 40.
 

@@ -20,14 +20,19 @@ La respuesta sería distinta si el texto exigiera **`chosen damaged character`**
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Prohibiciones y resolución de todo lo que sea posible]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|Un objetivo legal cuyo resultado sea 0]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/John Smith - Education or Elimination|Cuándo John Smith deja de ser una elección legal]]
+
+### Cartas citadas
+
 - [Violet Parr - Learning New Powers](https://cards.lorcast.io/card/digital/large/crd_20da43997f8642f6b33d1fa04865209d.avif?1777687342): distingue entre `chosen character` y una condición expresa de daño.
 - [John Smith - Undaunted Protector](https://cards.lorcast.io/card/digital/large/crd_26b1e9d58acf429aa2d77f89f6534c16.avif?1770260064): `DO YOUR WORST` obliga a los oponentes a elegirlo para acciones y habilidades si es posible, pero no añade una condición de daño.
-- [[1.2. Regla de oro (Golden Rules)|Hacer todo lo que se pueda]].
-- [[No tener objetivo legal vs elegir un objetivo inválido|Un objetivo legal cuyo resultado sea 0]].
 
 ---
-
-- [[1.9. Daño (Damage)|1.9.2.4: mover contadores a otra carta; 1.9.3: recibir daño]].
 
 ## 🔄 Cómo se resuelve
 

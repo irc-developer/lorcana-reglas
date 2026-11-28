@@ -16,9 +16,15 @@ Ward tampoco impide desafiar legalmente al personaje protegido; ni evita efectos
 
 ## 📘 Referencias
 
-- [[8.15 Protección (ward)|8.15: alcance de Ward]].
-- [[5.3. Personajes (Characters)|5.3.1: personaje y carta de personaje]].
-- [[6.1. General (General)|6.1.12: habilidades fuera del juego]].
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Qué elecciones impide Protección y en qué zonas funciona]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|Diferencias entre un personaje en juego y una carta de personaje]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Ursula - Deal Maker solo puede elegir un personaje en juego|Por qué character se refiere a un personaje de la zona de juego]]
+
+### Fuentes oficiales
+
 - [CR 2.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas citadas; el alcance se conserva.
 
 ---

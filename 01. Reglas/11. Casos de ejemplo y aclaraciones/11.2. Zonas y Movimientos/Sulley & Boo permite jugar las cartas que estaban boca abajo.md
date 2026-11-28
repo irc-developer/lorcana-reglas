@@ -19,9 +19,15 @@ Respecto a Combo Shift:
 
 ## 📘 Referencias
 
-- [[5.1. Estados de las cartas (Card States)|5.1. Estados de las cartas]] regula las pilas, las cartas bajo otra carta y los cambios de estado al cambiar de zona.
-- [[7.6. Pila de descarte (Discard pile)|7.6. Pila de descarte]] determina que las cartas del descarte son visibles.
-- [[8.10. Cambio (Shift)|8.10. Shift]] contiene las reglas generales de las pilas creadas con Shift.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.1. Estados de las cartas (Card States)|Estados de las cartas y movimiento de las pilas]]
+- [[01. Reglas/7. Zonas (Zones)/7.6. Pila de descarte (Discard pile)|Información visible de las cartas en el descarte]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.10. Cambio (Shift)|Coste alternativo, estados y pilas creadas con Cambio]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Hide Away sobre The Black Cauldron con Hades debajo|Otro movimiento de todas las cartas de una pila a la misma zona]]
+
+### Fuentes oficiales
+
 - Combo Shift y la combinación de estados están confirmados por CR 2.3.0, reglas 8.10.8.4 y 8.10.4.2; el cambio de estado al abandonar la pila está en 5.1.1.7.
 
 ---

@@ -22,12 +22,19 @@ Cada Iago dispara **Vanish** al ser elegido. Como el Iago de origen está ileso,
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.2 y 6.1.3.1 — Resolución parcial, requisitos y limitadores]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.3.2 — Elecciones legales]].
-- [[1.9. Daño (Damage)|1.9.2.4 — Mover contadores de daño]].
-- [[7.7. Bolsa (Bag)|7.7.3.1 y 7.7.4 — Añadir y resolver disparos en la bolsa]].
-- [[8.14. Desvanecer (Vanish)|8.14.1 y 8.14.2 — Disparo y resolución de Vanish]].
-- [[8.6. Evasivo (Evasive)|8.6.1 — Restricción de Evasive]] y [[8.15 Protección (ward)|8.15.1 — Restricción de Ward]].
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Diferencias entre infligir, recibir y mover daño]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.14. Desvanecer (Vanish)|Cuándo se dispara y se resuelve Desvanecer]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.6. Evasivo (Evasive)|Qué personajes pueden desafiar a un Evasivo]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Qué elecciones impide Protección y en qué zonas funciona]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/No tener objetivo legal vs elegir un objetivo inválido|Una elección legal puede producir cero daño y conservar los demás efectos]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 7, 25–26, 36, 40, 42 y 44.
 
 ---

@@ -26,17 +26,15 @@ Si Mother Gothel mueve daño al personaje desafiado y eso hace que alcance o sup
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|4.6 Desafío]]: la subregla 4.6.4.5 indica que el challenge ocurre y que los efectos "while challenging" empiezan a aplicar en ese momento.
-- [[4.6 Desafío (Challenge)|4.6 Desafío]]: la subregla 4.6.5 establece que las habilidades que dicen "challenges" o "is challenged" se añaden a la bolsa y se resuelven antes del Challenge Damage step.
-- [[6.1. General (General)|6.1 General]]: la subregla 6.1.3 indica que todas las elecciones se realizan durante la resolución del efecto.
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8 Chequeo del estado del juego]]: la subregla 1.8.1.4 indica que un personaje con daño igual o superior a su Willpower es desterrado en el game state check.
-- [[4.6 Desafío (Challenge)|4.6 Desafío]]: las subreglas 4.6.7 y 4.6.9 aclaran que el challenge solo termina al final del proceso normal o antes si un personaje sale del challenge.
-- [[1.9. Daño (Damage)|1.9 Daño]]: las subreglas 1.9.2.4 y 1.9.3 aclaran que mover daño quita contadores del origen y pone esos mismos contadores en el destino, y que ese destino recibe daño.
+### Wiki de Lorcana
 
-## 🔗 Véase también
-
-- [[Mover daño no es retirar daño]]
-- [[Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, habilidades y daño del desafío]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Infligir, poner, mover y recibir daño]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Mover daño no es retirar daño|Cómo mover daño retira contadores y puede generar disparos]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa|Headless Horseman y Wreck-It Ralph - último valor conocido y bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Boo - Energetic Child destierra antes del daño del desafío|Boo - Energetic Child destierra antes del daño del desafío]]
 
 ---
 

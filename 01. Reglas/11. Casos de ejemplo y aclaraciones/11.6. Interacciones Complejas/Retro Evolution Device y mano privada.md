@@ -16,10 +16,20 @@ Esto no es lo mismo que iniciar una acción de turno ilegal para jugar una carta
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|Cuándo pueden usarse las habilidades activadas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/7. Zonas (Zones)/7.1. General|Zonas públicas y privadas de cada jugador]]
+- [[01. Reglas/7. Zonas (Zones)/7.3. Mano (Hand)|Privacidad de las cartas de la mano]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Jugar un personaje gratis no permite usar Shift|Jugar un personaje gratis no permite usar Shift]]
+
+### Cartas citadas
+
 - [Retro Evolution Device](https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649): exige agotar el objeto, pagar 1 de tinta y desterrar un personaje elegido como coste; después indica jugar un personaje gratis.
-- [[6.3. Habilidades Activadas (Activated Abilities)|6.3. Habilidades activadas]]: una habilidad activada se usa anunciándola y pagando su coste.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Seguir las instrucciones del texto]]: un efecto se resuelve tanto como sea posible.
-- [[7.1. General|7.1. Zonas]] y [[7.3. Mano (Hand)|7.3. Mano]]: la mano es privada y no se puede inspeccionar por el oponente.
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 4.4, 6.7.2.3, 7.1.2, 7.1.4 y 7.3.2.
 
 ---

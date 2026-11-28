@@ -16,8 +16,16 @@ Tener dos o más copias no cambia esta conclusión.
 
 ## 📘 Referencias
 
-- [[1.10. Materiales (Materials)|1.10. Materiales]] contiene los requisitos generales de construcción de mazo.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.10. Materiales (Materials)|Requisitos de construcción del mazo]]
+
+### Criterio de aplicación
+
 - La excepción solo alcanza al conjunto definido por «other Hunny characters».
+
+### Fuentes oficiales
+
 - CR 2.3.0, regla 1.10.1.3, confirma que la fuente de una excepción de construcción debe ser legal antes de aplicar su habilidad.
 
 ---

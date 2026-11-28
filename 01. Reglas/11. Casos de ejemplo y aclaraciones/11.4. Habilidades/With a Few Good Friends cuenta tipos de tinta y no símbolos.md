@@ -16,16 +16,18 @@ Además, si el resultado es X, «draw a card for each» produce X robos individu
 
 ## 📘 Referencias
 
-- [[5.2. Partes de una carta (Parts of a Card)|5.2. Partes de una carta]] define los tipos de tinta y las cartas con dos tipos.
-- [[1.12 Robo (Drawing)|1.12. Robo]] trata cada carta robada como un evento de robo individual.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7. Resolución de efectos]] calcula primero el número definido por `for each`.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card)|Distinguir nombres, versiones y tipos de tinta de una carta]]
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Resolver cada carta robada como un robo individual]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Winnie the Pooh & Piglet cuenta tipos de tinta diferentes|Ejemplo de dos tipos de tinta que no aumentan por repetir uno]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 5.2, 1.12, 6.7.
 - Las *Attack of the Vine Set Release Notes* confirman dónde se identifican los símbolos de tinta.
-
----
-
-## 📚 Fuente oficial
-
-Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
+- Reglas vigentes: [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf).
 
 ---
 

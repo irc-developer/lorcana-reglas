@@ -22,16 +22,24 @@ Pero esos disparos esperan en la **bolsa** hasta que [Grab Your Sword](https://c
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Protección impide elecciones rivales, pero no los efectos que no eligen]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Distinguir daño infligido, puesto, movido y recibido]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Cómo se aplican y se combinan los efectos de reemplazo]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego y se destierran personajes con daño letal]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Merida - Steady Aim y Resist|Cómo se resuelve el nuevo daño de Merida cuando el receptor tiene Resist]]
+
+### Textos de cartas
+
 - [Merida - Formidable Archer](https://cards.lorcast.io/card/digital/large/crd_4811e7317e3149db966bab69151147cc.avif?1777688117): "Whenever one of your actions deals damage to an opposing character, deal 2 damage to that character."
 - [Grab Your Sword](https://cards.lorcast.io/card/digital/large/crd_48cd856a0632489c916bc354a3090cb2.avif?1709690747): "Deal 2 damage to each opposing character."
-- [[8.15 Protección (ward)|8.15.1. Ward]]: los oponentes no pueden **elegir** esa carta al resolver un efecto.
-- [[8.15 Protección (ward)|8.15.2. Ward no protege de efectos que no eligen]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. El daño de un mismo efecto se inflige simultáneamente]].
-- [[1.9. Daño (Damage)|1.9.4–1.9.5. Cálculo del daño y disparos si se reduce a cero]], CR 2.3.0, p. 8.
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4. El reemplazo modifica el evento y los disparos que causa]], CR 2.3.0, p. 33.
-- [[7.7. Bolsa (Bag)|7.7.3.1. Los disparos ocurridos durante la resolución entran en la bag y esperan; si varios ocurren a la vez, entran simultáneamente]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5. El GSC ocurre después de resolver la acción o habilidad]].
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.4. El daño letal destierra al personaje en el GSC]].
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.15.1, 8.15.2, 6.7.2.3, 1.9.4, 1.9.5, 6.5.4, 7.7.3.1, 6.7.5, 1.8.1.4.
 
 ---
 

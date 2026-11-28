@@ -41,19 +41,35 @@ Las [notas oficiales de Hyperia City](https://disneylorcana.com/en/news/2026/10/
 
 ## 📘 Referencias
 
-- [[5.3. Personajes (Characters)|CR 5.3.1. Personaje y carta de personaje]] y [[5.2. Partes de una carta (Parts of a Card)|CR 5.2.6. Nombre y versión]]: PICTURE PERFECT elige un personaje en la zona de juego y compara su nombre con el de la carta revelada de la mano.
-- [[6.1. General (General)|CR 6.1.2 y 6.1.6. Contexto completo y significado de «otro»]]: `another/other` distingue la carta de la fuente o de una selección anterior. CR 6.1.2 exige considerar el contexto y la estructura completos de la habilidad. El ejemplo oficial de CR 6.1.6 explica que Mulan - Imperial Soldier no se incluye entre sus propios «otros personajes».
-- [[6.1. General (General)|CR 6.1.3, 6.1.3.1 y 6.1.4. Elecciones, limitadores y efectos opcionales]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.3. Legalidad de las elecciones]]: el personaje se elige al resolver, respetando los limitadores. Una elección previa no elimina la exclusión de la fuente.
-- [[1.2. Regla de oro (Golden Rules)|CR 1.2.3. Hacer tanto como sea posible]] y [[1.7. Game Actions, Timing, y Illegal Actions|CR 1.7.7. Ausencia de elecciones legales]]: se hace el daño si puede hacerse; no se inventa una elección inválida si falta un personaje elegible.
-- [[4.6 Desafío (Challenge)|CR 4.6.6.2–4.6.6.3. Daño simultáneo y chequeo del estado del juego]], [[6.2. Habilidades Disparadas (Triggered Abilities)|CR 6.2.3. Añadir el disparo a la bolsa]] y [[7.7. Bolsa (Bag)|CR 7.7.4. Resolución de la bolsa]]: el daño del desafío precede a la resolución de Twin Blades.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|CR 6.7.7. Último valor conocido]]: si Wasabi ya no está en la zona de juego, se usa su última Fuerza conocida. Si sigue en juego, se usa su Fuerza al resolver.
-- [[8.15 Protección (ward)|CR 8.15.1. Protección frente a elecciones rivales]]: Twin Blades elige mediante una habilidad; no declara otro desafío.
+### Wiki de Lorcana
+
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.3. Personajes (Characters)|Distinguir personajes en juego, cartas de personaje y clasificaciones]]
+- [[01. Reglas/5. Cartas y tipos de carta (Cards and Card types)/5.2. Partes de una carta (Parts of a Card)|Distinguir nombres, versiones y tipos de tinta de una carta]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Aplicar el texto de las cartas, respetar prohibiciones y hacer tanto como sea posible]]
+- [[01. Reglas/1. Principios generales/1.7. Game Actions, Timing, y Illegal Actions|Completar las acciones y respetar los requisitos de legalidad]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Comprobar la legalidad del desafío y seguir su secuencia]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.15 Protección (ward)|Protección impide elecciones rivales, pero no los efectos que no eligen]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos|Comparar una elección de otro personaje que sí forma parte de un efecto opcional]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Roo - Hunny Rogue cuenta otra copia como another Hunny|Another distingue cartas, no nombres]]
+
+### Aclaraciones de las referencias
 
 ### Por qué también se excluye al defensor
 
 El primer `another character` identifica al personaje que recibe el daño del desafío y lo distingue de Wasabi. El segundo, `another chosen character`, pide un personaje adicional respecto de ese personaje ya identificado, conservando la exclusión de Wasabi como fuente.
 
 **La elección del defensor se hizo durante el desafío, no mediante una primera instrucción de Twin Blades.** Por eso no basta con afirmar que CR 6.1.6 lo excluye literalmente por haber sido «elegido por la habilidad». Esta exclusión se explica con CR 6.1.2 y 6.1.6 junto con el texto completo de Twin Blades; no implica una prohibición general de volver a elegir cualquier personaje mencionado en una habilidad.
+
+**Alcance:** interpretación del texto de Twin Blades y las reglas generales; no se ha localizado una aclaración oficial específica que resuelva esta duda.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 5.3.1, 5.2.6, 6.1.2, 6.1.6, 6.1.3, 6.1.3.1, 6.1.4, 6.7.3, 1.2.3, 1.7.7, 4.6.6.2, 4.6.6.3, 6.2.3, 7.7.4, 6.7.7, 8.15.1.
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 5.2.6 y 5.3.1, pp. 22–23, y 6.1.2 y 6.1.6, pp. 25–27.
 
 ---
 
@@ -67,21 +83,6 @@ El primer `another character` identifica al personaje que recibe el daño del de
 6. Si no hay personaje elegible, esa instrucción se resuelve sin efecto. Después se realiza otro chequeo del estado del juego y se continúa con la bolsa.
 
 Este daño adicional procede de una **habilidad**, no de un nuevo desafío. Por sí mismo no vuelve a disparar Twin Blades.
-
----
-
-## 📚 Fuente oficial
-
-[Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 5.2.6 y 5.3.1, pp. 22–23, y 6.1.2 y 6.1.6, pp. 25–27.
-
-**Alcance:** interpretación del texto de Twin Blades y las reglas generales; no se ha localizado una aclaración oficial específica que resuelva esta duda.
-
----
-
-## 🔗 Véase también
-
-- [[Three Arrows - no obliga a dañar a los tuyos]]: otra elección en un efecto con `may`.
-- [[Roo - Hunny Rogue cuenta otra copia como another Hunny]]: «otro» distingue cartas, no nombres.
 
 ---
 

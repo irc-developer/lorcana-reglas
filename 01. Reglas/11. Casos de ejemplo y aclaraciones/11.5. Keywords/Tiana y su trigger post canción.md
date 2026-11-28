@@ -13,9 +13,15 @@ Si una habilidad disparada ocurre durante la resolución de una acción, se aña
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. Tercer paso - seguir las instrucciones del texto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4. Habilidades disparadas durante la resolución]]
-- [[7.7. Bolsa (Bag)|7.7.3.1. Añadir a la bolsa un efecto]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Bambi – Ethereal Faun cantando una canción|Otro ejemplo de un disparo que espera a terminar la canción]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.7.2.3, 6.7.4, 7.7.3.1.
 
 ---
 

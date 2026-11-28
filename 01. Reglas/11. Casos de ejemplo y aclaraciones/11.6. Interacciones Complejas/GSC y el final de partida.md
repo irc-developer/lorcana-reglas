@@ -30,9 +30,19 @@ Si juegas [I2I](https://cards.lorcast.io/card/digital/large/crd_aab461b250e4450b
 
 ## 📘 Referencias
 
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.1–1.8.1.2 y 1.8.4–1.8.5]] y [[3.4. Fase final de turno (End-of-Phase)|3.4.2]] para el momento del chequeo y las condiciones de victoria y derrota.
-- [[1.2. Regla de oro (Golden Rules)|1.2.3]] y [[1.12 Robo (Drawing)|1.12.2]] para hacer todo lo posible y robar de una en una.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1 y 6.2.3]], [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4–6.7.6]] y [[7.7. Bolsa (Bag)|7.7.4.2–7.7.4.4]] para el orden de resolución, la bolsa y el chequeo tras cada habilidad.
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego]]
+- [[01. Reglas/3. Estructura del turno (Turn Structure)/3.4. Fase final de turno (End-of-Phase)|Disparos y efectos al final del turno]]
+- [[01. Reglas/1. Principios generales/1.2. Regla de oro (Golden Rules)|Prohibiciones y resolución de todo lo que sea posible]]
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Robar cartas de una en una y distinguirlo de ponerlas en la mano]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Derrota, timing mazo vacío|Derrota, timing mazo vacío]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), pp. 3, 6–7, 9, 12, 30, 36–37 y 40.
 
 ---

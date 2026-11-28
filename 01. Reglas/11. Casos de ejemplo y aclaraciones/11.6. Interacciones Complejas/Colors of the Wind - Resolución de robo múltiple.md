@@ -19,10 +19,19 @@ Las habilidades que se disparan por cada carta robada pueden dispararse durante 
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Robar cartas de una en una y distinguirlo de ponerlas en la mano]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Orden y resolución individual de las habilidades de la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Demona con Diablo - Devoted Herald|Demona con Diablo - Devoted Herald]]
+
+### Cartas citadas
+
 - [Colors of the Wind](https://cards.lorcast.io/card/digital/large/crd_0e8280a06c6a482caa3cb51b207fe284.avif?1770259487): canción de coste 4; revela cada jugador y roba quien resuelve la canción según los tipos de tinta revelados.
-- [[1.12 Robo (Drawing)|1.12.2. Las cartas se roban de una en una]].
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3, 6.7.4 y 6.7.6. Orden escrito, disparos pendientes y orden entre jugadores]].
-- [[7.7. Bolsa (Bag)|7.7.3.1. Resolución completa del efecto actual antes de resolver la bolsa]].
+
+### Fuentes oficiales
+
 - [CR 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), 1.12.2 (p. 9) y 6.7.6–6.7.6.1 (p. 37).
 
 ---

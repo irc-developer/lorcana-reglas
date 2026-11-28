@@ -22,10 +22,12 @@ No en los tres casos.
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.5.1: agotar como primera parte requerida de un efecto secuencial]].
-- [[6.1. General (General)|6.1.5 Efectos secuenciales]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3 Disparo y entrada en bolsa]]
-- [[7.7. Bolsa (Bag)|7.7.3 Resolución en bolsa tras completar el proceso]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cláusula sobre personaje y luego otra sobre el mismo|Las dos instrucciones se refieren al mismo personaje]]
 
 ---
 

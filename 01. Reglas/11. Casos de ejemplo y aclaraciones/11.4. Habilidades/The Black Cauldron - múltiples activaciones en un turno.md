@@ -16,9 +16,16 @@ Eso sí: cada activación pone **solo 1 character card** desde tu descarte debaj
 
 ## 📘 Referencias
 
-- [[6.3. Habilidades Activadas (Activated Abilities)|6.3.1. Definición]]: una habilidad activada puede usarse pagando su coste para generar su efecto.
-- [[4.4. Usar una habilidad activada (Use an Activated Ability)|4.4.3.4. Pagar el coste]]: para usar la habilidad debes pagar completamente el coste, incluido el exert del item y el coste de tinta.
-- [[4.2 Entintar una carta (Ink a Card)|4.2.3.2. Entintar boca abajo por un efecto]]: ejemplo análogo de habilidad activada que puede usarse tantas veces como puedas pagar su coste, salvo que el texto imponga un límite adicional.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|Pagar un coste para usar una habilidad activada]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.4. Usar una habilidad activada (Use an Activated Ability)|Pagar completamente los costes para usar una habilidad activada]]
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.2 Entintar una carta (Ink a Card)|Distinguir la acción de entintar de poner cartas en el pozo por un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Agotar personaje varias veces|Pagar cada agotamiento y preparar la carta antes de volver a usarla]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.3.1, 4.4.3.4, 4.2.3.2.
 
 ---
 

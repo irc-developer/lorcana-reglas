@@ -18,16 +18,24 @@ Si **Hercules sobrevive y sigue agotado** cuando se resuelve TRIPLE SHOT, EVER V
 
 ## 📘 Referencias
 
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Declaración, daño y habilidades pendientes del desafío]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego y se destierran los personajes]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Cuándo se añaden los disparos y en qué orden se resuelven]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.2. Zonas y Movimientos/Fuente estática abandona el juego|Por qué termina una habilidad estática al salir su fuente]]
+
+### Texto de las cartas
+
 - [Mulan - Elite Archer](https://cards.lorcast.io/card/digital/large/crd_d716dab053a54d448c9544db720aa77c.avif?1716052430): TRIPLE SHOT hace, a hasta dos otros personajes elegidos, la misma cantidad de daño que Mulan hizo al personaje del desafío durante su turno. Su ficha incluye también Shift 5 y STRAIGHT SHOOTER. La [reimpresión de Fabled](https://cards.lorcast.io/card/digital/large/crd_44fe3bead4bf40f79163468a4fd647e5.avif?1755540935) conserva esas habilidades y los valores 2 {S}/6 {W}.
 - [Hercules - Mighty Leader](https://cards.lorcast.io/card/digital/large/crd_ee4bc5f80eb74a19b749e0b31be7d920.avif?1761763643): EVER VIGILANT permite hacerle daño si está siendo desafiado. EVER VALIANT protege a sus otros Héroes mientras Hercules está agotado, salvo que ellos estén siendo desafiados. Sus valores son 5 {S}/3 {W}.
-- [[4.6 Desafío (Challenge)|4.6.2, 4.6.6.2–4.6.6.3 y 4.6.9.1 — Participantes, daño, GSC y bolsa]]: solo los dos personajes implicados participan; el daño es simultáneo, luego se hace el GSC y se resuelven los disparos pendientes aunque un participante salga del desafío.
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.4 y 1.8.3 — Daño letal y evaluación cíclica]]: el GSC destierra a un personaje con daño igual o superior a su Voluntad; las comprobaciones se completan antes de resolver la bolsa.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3 — Disparo y bolsa]] y [[7.7. Bolsa (Bag)|7.7.3.1 — Añadir a la bolsa]]: cumplir la condición añade la habilidad a la bolsa para su resolución posterior.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3 — Habilidades estáticas de cartas en juego]]: el efecto termina inmediatamente al salir su fuente de la zona de juego.
-- [[6.1. General (General)|6.1.3 — Elecciones durante la resolución]]: la elección de hasta dos personajes se hace al resolver TRIPLE SHOT; no puede elegirse dos veces el mismo personaje.
-- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 1.8.1.4 y 1.8.3 (pp. 6–7), 4.6.2, 4.6.6.2–4.6.6.3 y 4.6.9.1 (pp. 15–16), 6.1.3 (pp. 25–26), 6.2.3 (p. 30), 6.4.2.3 (p. 32) y 7.7.3.1 (p. 40). El PDF inglés es la fuente normativa; los enlaces en castellano sirven de localización.
 
-Relacionado: [[Fuente estática abandona el juego]]. Este caso concreta el GSC entre el daño del desafío y la resolución de una habilidad disparada que intenta dañar a personajes protegidos.
+### Fuentes oficiales
+
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 1.8.1.4 y 1.8.3 (pp. 6–7), 4.6.2, 4.6.6.2–4.6.6.3 y 4.6.9.1 (pp. 15–16), 6.1.3 (pp. 25–26), 6.2.3 (p. 30), 6.4.2.3 (p. 32) y 7.7.3.1 (p. 40). El PDF inglés es la fuente normativa; los enlaces en castellano sirven de localización.
 
 ---
 

@@ -20,13 +20,19 @@ No puedes jugar a Sven como una acción de turno en mitad del desafío. El cambi
 
 ## 📘 Referencias
 
-**Efecto generado con duración**
+### Wiki de Lorcana
 
-El efecto de daño reducido (−3 de fuerza) de [Tiana - Restaurant Owner](https://cards.lorcast.io/card/digital/large/crd_c01f3a4124be48dbb77aaa45281e74ba.avif?1730901319) es un efecto estático aplicado generado al resolver el disparo y dura ese turno. No es un reemplazo. No se remueve si el personaje afectado se endereza.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se dispara una habilidad y cuándo se comprueban sus condiciones]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Restricciones a enderezar impuestas por habilidades disparadas|Distinguir el estado preparado de la duración de una restricción]]
 
-**Fundamento:**
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4: efectos aplicados de una resolución]]
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.3: disparo y bolsa]]
+### Textos de cartas
+
+- El efecto de daño reducido (−3 de fuerza) de [Tiana - Restaurant Owner](https://cards.lorcast.io/card/digital/large/crd_c01f3a4124be48dbb77aaa45281e74ba.avif?1730901319) es un efecto estático aplicado generado al resolver el disparo y dura ese turno. No es un reemplazo. No se remueve si el personaje afectado se endereza.
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.4, 6.2.3.
 
 ---
 

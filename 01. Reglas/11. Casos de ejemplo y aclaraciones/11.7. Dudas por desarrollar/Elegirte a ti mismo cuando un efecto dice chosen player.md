@@ -24,10 +24,10 @@ No hay una regla general que convierta "player" en "otro jugador" por defecto.
 
 ## 📘 Referencias
 
-- [[1.3. Jugadores (Players)|1.3.1. Jugador significa cualquier persona que participa en la partida]]
-- [[1.3. Jugadores (Players)|1.3.3. Si el efecto menciona un tipo concreto de jugador, solo se refiere a ese tipo]]
-- [[1.3. Jugadores (Players)|1.3.5.2. "Opponent" sí restringe expresamente a jugadores distintos del generador del efecto]]
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2.3. La elección se hace al resolver el texto que realmente aparece]]
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.3. Jugadores (Players)|Quiénes son los jugadores y los oponentes de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones y esperar antes de resolver nuevos disparos]]
 
 ---
 

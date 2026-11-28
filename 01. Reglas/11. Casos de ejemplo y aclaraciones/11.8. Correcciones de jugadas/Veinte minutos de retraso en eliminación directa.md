@@ -12,8 +12,10 @@ A los veinte minutos se supera el umbral de diez minutos: corresponde una Match 
 
 ## 📘 Referencias
 
-- [[3. Errores de torneo#3.1 Retraso (Tardiness)|Umbral de tardiness]]
-- [[6. Límites de tiempo#6.1 Límites de Tiempo Generales de Torneo (General Tournament Time Limits)|Excepción por inicio anticipado]]
+### Wiki de Lorcana
+
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Umbral de tardiness]]
+- [[03. Reglas de Torneo/6. Límites de tiempo|Excepción por inicio anticipado]]
 
 ---
 

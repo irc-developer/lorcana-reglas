@@ -16,9 +16,14 @@ Esto no impide que otras habilidades distintas se disparen por los eventos que o
 
 ## 📘 Referencias
 
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.1. Definición]]: una instancia se dispara por cada vez que se cumple su condición.
-- [[6.2. Habilidades Disparadas (Triggered Abilities)|6.2.4. Condición secundaria]]: la condición secundaria se verifica al resolver.
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.4. Habilidades durante la resolución]]: los disparos nuevos esperan en la bolsa, pero son eventos nuevos.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.2. Habilidades Disparadas (Triggered Abilities)|Cuándo se disparan las habilidades y se comprueban sus condiciones]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Cartas en mano y el cálculo de triggers|Clarabelle comprueba el tamaño de las manos al resolver]]
+
+### Fuentes oficiales
+
 - [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf), reglas 6.2.1, 6.2.4 y 7.7.3.
 
 ---

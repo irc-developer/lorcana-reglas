@@ -14,9 +14,18 @@ Por ejemplo, durante tu fase principal, después de que Shere Khan termine un de
 
 ## 📘 Referencias
 
-- [[1.9. Daño (Damage)|1.9.5. Daño infligido y recibido al reducirlo a 0]]. [CR 2.3.0, p. 8](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=8).
-- [[6.3. Habilidades Activadas (Activated Abilities)|6.3.1–6.3.2. Coste, efecto y momento de activación]]. [CR 2.3.0, p. 31](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=31).
-- [[8.8. Resistir (Resist)|8.8.1–8.8.2. Reducción de daño por Resist]]. [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
+### Wiki de Lorcana
+
+- [[01. Reglas/1. Principios generales/1.9. Daño (Damage)|Diferencias entre infligir, recibir y mover daño]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.3. Habilidades Activadas (Activated Abilities)|Diferencias entre el coste y el efecto de una habilidad activada]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Cómo se reduce el daño con Resistir]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.3. Costes y Requisitos/Hacerse daño como requisito|Por qué una prohibición de infligir daño tiene otro resultado]]
+
+### Fuentes oficiales
+
+- 1.9.5. Daño infligido y recibido al reducirlo a 0. [CR 2.3.0, p. 8](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=8).
+- 6.3.1–6.3.2. Coste, efecto y momento de activación. [CR 2.3.0, p. 31](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=31).
+- 8.8.1–8.8.2. Reducción de daño por Resist. [CR 2.3.0, p. 42](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=42).
 
 ---
 

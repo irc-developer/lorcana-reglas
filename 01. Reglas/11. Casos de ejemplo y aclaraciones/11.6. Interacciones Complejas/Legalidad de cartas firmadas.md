@@ -20,7 +20,9 @@ En torneos Competitive y Premier, las firmas están permitidas si no modifican l
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.11 Accesorios Aprobados (Approved Accessories)|Accesorios aprobados]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Accesorios aprobados]]
 
 ---
 

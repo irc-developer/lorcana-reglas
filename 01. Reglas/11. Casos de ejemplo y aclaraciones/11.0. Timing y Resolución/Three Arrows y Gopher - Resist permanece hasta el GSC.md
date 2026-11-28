@@ -22,13 +22,19 @@ Si Gopher está preparado, FORTIFYING MEAL no está activa. Los 2 daños sobre G
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|6.1.2 — Resolución en orden]] y [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.5 — GSC tras todos los efectos]]: las frases de una misma acción forman parte de la misma resolución.
-- [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1, 1.8.1.4 y 1.8.5 — Momento del GSC y daño letal]]: el destierro por daño se comprueba al terminar; incluye el ejemplo oficial de Luisa.
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3 — Fuente estática en juego]]: la protección termina cuando Gopher abandona la zona de juego.
-- [[8.8. Resistir (Resist)|8.8.1–8.8.2 — Reducción del daño]]: Resist +1 reduce el daño en 1; un resultado de 0 significa que el personaje no recibe daño.
-- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 1.8.1 y 1.8.1.4 (p. 6), 1.8.5 (p. 7), 6.1.2 (p. 25), 6.4.2.3 (p. 32), 6.7.5 (p. 37) y 8.8.1–8.8.2 (p. 42).
+### Wiki de Lorcana
 
-Relacionado: [[Three Arrows - no obliga a dañar a los tuyos]] explica que la segunda instrucción es opcional y exige otro personaje. [[Luisa Madrigal - I Can Take It, condición Then-if y GSC]] desarrolla sus otras casuísticas.
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones, opciones y dependencias entre instrucciones de un efecto]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones y resolver las habilidades pendientes]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego y se destierran los personajes]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan y terminan las habilidades estáticas]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.8. Resistir (Resist)|Cómo se reduce el daño con Resistir]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Three Arrows - no obliga a dañar a los tuyos|Qué personajes permite elegir el daño adicional de Three Arrows]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Luisa Madrigal - I Can Take It, condición Then-if y GSC|Cómo completar instrucciones sucesivas antes del chequeo de estado]]
+
+### Fuentes oficiales
+
+- [Comprehensive Rules 2.3.0](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf): reglas 1.8.1 y 1.8.1.4 (p. 6), 1.8.5 (p. 7), 6.1.2 (p. 25), 6.4.2.3 (p. 32), 6.7.5 (p. 37) y 8.8.1–8.8.2 (p. 42).
 
 ---
 

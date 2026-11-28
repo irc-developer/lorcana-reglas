@@ -12,9 +12,11 @@ Son conductas distintas. Durante un match solo se permite anotar los totales de 
 
 ## 📘 Referencias
 
-- [[5. Información y comunicación#5.2 Notas y Seguimiento de Información (Notes and Information Tracking)|Notas y seguimiento]]
-- [[3. Errores de torneo#3.6 Error de comunicación e información (Information and communication error)|Information and Communication Error]]
-- [[3. Errores de torneo#3.8 Asistencia externa (outside assistance)|Outside Assistance]]
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/5. Información y comunicación|Notas y seguimiento]]
+- [[04. Guia de correccion de jugadas/3. Errores de torneo|Diferenciar el registro de notas y la asistencia externa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Scouting antes de sentarse y asistencia externa durante el match|Scouting antes de sentarse y asistencia externa durante el match]]
 
 ---
 

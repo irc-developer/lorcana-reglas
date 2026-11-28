@@ -12,8 +12,14 @@ La corrección es un Card Count Error, Warning en Competitive: la resolución in
 
 ## 📘 Referencias
 
-- [[2. Errores de reglas#2.3 Error en el conteo de cartas (Card Count Error)|Corrección de cartas de más y de menos]]
-- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Información adicional impide reabrir la línea]]
+### Wiki de Lorcana
+
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Corrección de cartas de más y de menos]]
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Información adicional impide reabrir la línea]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Kida resuelta con cartas en zonas equivocadas|Corregir cartas enviadas por error a la mano o al pozo de tinta]]
+
+### Cartas citadas
+
 - [Friends On The Other Side](https://cards.lorcast.io/card/digital/large/crd_f9097c53f99d488aa8685b73ea5a9373.avif?1709690747) y [Kida - Creative Thinker](https://cards.lorcast.io/card/digital/large/crd_19e9e680d0d044d6a5fa0d39b5ab3206.avif?1740589756).
 
 ---

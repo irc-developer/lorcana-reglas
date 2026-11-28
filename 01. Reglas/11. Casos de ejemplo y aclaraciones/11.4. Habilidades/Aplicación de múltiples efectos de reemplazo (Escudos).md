@@ -16,9 +16,14 @@ Si **varias instancias del mismo reemplazo** pueden aplicarse al mismo evento, e
 
 ## 📘 Referencias
 
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.4–6.5.7. Evento modificado, prioridad del autorreemplazo y orden de aplicación]].
-- [[6.5. Efectos de Reemplazo (Replacement Effects)|6.5.8. Varias instancias del mismo reemplazo]].
-- [[Rapunzel - dos escudos de Act of Kindness se consumen a la vez|Ejemplo de dos protecciones de Rapunzel]].
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.5. Efectos de Reemplazo (Replacement Effects)|Ordenar reemplazos, volver a evaluar el evento y tratar instancias idénticas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.4. Habilidades/Rapunzel - dos escudos de Act of Kindness se consumen a la vez|Ejemplo de dos protecciones idénticas que se consumen en un mismo evento]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.5.4, 6.5.7, 6.5.8.
 
 ---
 

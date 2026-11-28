@@ -14,9 +14,15 @@ Si ya controlas otros dos personajes agotados, WILD RIDE está activo antes de d
 
 ## 📘 Referencias
 
-- [[4.6 Desafío (Challenge)|4.6.3: legalidad antes del pago]].
-- [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.3: condición continua]].
-- [[8.6. Evasivo (Evasive)|Evasive]].
+### Wiki de Lorcana
+
+- [[01. Reglas/4. Acciones de turno (Turn Actions)/4.6 Desafío (Challenge)|Comprobar la legalidad del desafío y seguir su secuencia]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.6. Evasivo (Evasive)|Restricciones de Evasivo para elegir al defensor de un desafío]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 4.6.3, 6.4.2.3.
 
 ---
 

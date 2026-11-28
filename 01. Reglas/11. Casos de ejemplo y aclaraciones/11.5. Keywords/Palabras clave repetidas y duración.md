@@ -42,10 +42,23 @@ Si otro personaje con Apoyo también se va de aventura, genera su propio disparo
 
 ## 📘 Referencias
 
-- [[8.1. Generalidades (General)|8.1.2. Acumulación y duración]] y [[6.4. Habilidades Estáticas (Static Abilities)|6.4.2.2–6.4.2.3. Efectos aplicados y continuos]].
-- [[6.1. General (General)|6.1.13.1 y 6.1.13.3–6.1.13.5. Duración de los efectos]] y [[8.6. Evasivo (Evasive)|8.6.1. Evasivo]].
-- [[8.7. Temerario (Reckless)|8.7.2–8.7.4. Restricciones de Temerario]], [[1.8. Chequeo del estado del juego (Game State Check)|1.8.1.1 y 1.8.1.4. Victoria y destierro]] y [[7.7. Bolsa (Bag)|7.7. Resolución de la bolsa]].
-- [[8.13. Apoyo (Support)|8.13.1. Disparo de Apoyo]] y [[6.6. Modificadores de Habilidad (Ability Modifiers)|6.6.1.2. Combinación de modificadores]].
+### Wiki de Lorcana
+
+- [[01. Reglas/8. Palabras clave (Keywords)/8.1. Generalidades (General)|Comparar la duración de palabras clave repetidas]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.4. Habilidades Estáticas (Static Abilities)|Cuándo funcionan las habilidades estáticas y a qué cartas afectan]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Leer las elecciones, dependencias y duración de un efecto]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.6. Evasivo (Evasive)|Restricciones de Evasivo para elegir al defensor de un desafío]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.7. Temerario (Reckless)|Obligación de desafiar solo cuando existe un desafío legal]]
+- [[01. Reglas/1. Principios generales/1.8. Chequeo del estado del juego (Game State Check)|Cuándo se comprueba el estado del juego y se destierran personajes con daño letal]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/8. Palabras clave (Keywords)/8.13. Apoyo (Support)|Añadir la Fuerza actual a otro personaje al resolver Apoyo]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.6. Modificadores de Habilidad (Ability Modifiers)|Aplicar y combinar modificadores de características]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Peter Pan's Shadow y Pegasus - duración de Evasive|Comparar una concesión continua de Evasivo con una duración limitada]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.5. Keywords/Heredar una palabra clave al hacer shift|Por qué Shift no recupera una concesión temporal que dejó de existir]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 8.1.2, 6.4.2.2, 6.4.2.3, 6.1.13.1, 6.1.13.3, 6.1.13.5, 8.6.1, 8.7.2, 8.7.4, 1.8.1.1, 1.8.1.4, 7.7, 8.13.1, 6.6.1.2.
 - [Comprehensive Rules 2.3.0, p. 41](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=41) y [notas oficiales de Hyperia City, «Keyword Stacking»](https://disneylorcana.com/en/news/2026/10/disney-lorcana-tcg-set-release-notes-hyperia-city/#keyword-stacking).
 
 ---

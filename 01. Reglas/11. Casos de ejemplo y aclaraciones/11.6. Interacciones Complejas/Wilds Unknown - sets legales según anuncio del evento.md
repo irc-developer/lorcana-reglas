@@ -12,7 +12,12 @@ No puede decidirse entre «9–12» y «todo Core» usando solo una tabla actual
 
 ## 📘 Referencias
 
-- [[1. Definiciones de torneo#1.6 Legalidad de Sets (Set Legality)|1.6. Legalidad de sets]], incluida la rotación de Core, y el anuncio o kit específico del campeonato.
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/1. Definiciones de torneo|Legalidad de sets]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.6. Interacciones Complejas/Legalidad y prohibiciones - fuente oficial vigente|Legalidad y prohibiciones - fuente oficial vigente]]
+
+---
 
 ## 🔄 Cómo se resuelve
 

@@ -26,9 +26,23 @@ Si se mantiene el estado y Besties se jugó legalmente, se termina de resolver l
 
 ## 📘 Referencias
 
-- [[6.1. General (General)|Revelar cartas]] y [[1.12 Robo (Drawing)|Poner en la mano y robar]]. [Comprehensive Rules 2.3.0, §§ 1.12.3, 4.3.2.4, 4.3.3.2 y 6.1.14.1–6.1.14.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=29), pp. 9, 13 y 29.
-- [[04. Guia de correccion de jugadas/1. Introducción|Acciones correctivas, rebobinado y conjuntos ocultos]], [[2. Errores de reglas|Errores de reglas]] y [[4. Conducta antideportiva|Trampas]]. [Play Correction Guidelines, efectivas el 21/05/2024, §§ 1.1–1.3, 2, 2.1–2.4 y 4.4](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf#page=3), pp. 3–8 y 14.
-- [[2. Roles del torneo|Funciones del Lead Lore Guide]], [[3. Operaciones en los torneos|Extensión de tiempo]] y [[5. Información y comunicación|Privacidad de la mano]]. [Tournament Rules, efectivas el 14/07/2026, §§ 2.2, 3.12 y 5.4](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf#page=10), pp. 10 y 21–24.
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.1. General (General)|Elecciones y resolución de instrucciones]]
+- [[01. Reglas/1. Principios generales/1.12 Robo (Drawing)|Robar cartas de una en una y distinguirlo de ponerlas en la mano]]
+- [[04. Guia de correccion de jugadas/1. Introducción|Acciones correctivas, rebobinado y conjuntos ocultos]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Errores de reglas]]
+- [[04. Guia de correccion de jugadas/4. Conducta antideportiva|Trampas]]
+- [[03. Reglas de Torneo/2. Roles del torneo|Funciones del Lead Lore Guide]]
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Extensión de tiempo]]
+- [[03. Reglas de Torneo/5. Información y comunicación|Privacidad de la mano]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Carta robada durante un rebobinado|Carta robada durante un rebobinado]]
+
+### Fuentes oficiales
+
+- [Comprehensive Rules 2.3.0, §§ 1.12.3, 4.3.2.4, 4.3.3.2 y 6.1.14.1–6.1.14.3](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=29), pp. 9, 13 y 29.
+- [Play Correction Guidelines, efectivas el 21/05/2024, §§ 1.1–1.3, 2, 2.1–2.4 y 4.4](https://files.disneylorcana.com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf#page=3), pp. 3–8 y 14.
+- [Tournament Rules, efectivas el 14/07/2026, §§ 2.2, 3.12 y 5.4](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf#page=10), pp. 10 y 21–24.
 
 ---
 

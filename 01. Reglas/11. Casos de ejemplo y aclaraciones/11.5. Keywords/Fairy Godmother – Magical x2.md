@@ -58,8 +58,15 @@ Como controlas ambas habilidades:
 
 ## 📘 Referencias
 
-- [[6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|6.7.2. Resolución]]
-- [[7.7. Bolsa (Bag)|7.7.4. Orden]]
+### Wiki de Lorcana
+
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Resolver las instrucciones antes de atender los disparos y el estado del juego]]
+- [[01. Reglas/7. Zonas (Zones)/7.7. Bolsa (Bag)|Añadir y resolver las habilidades pendientes en la bolsa]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.0. Timing y Resolución/Múltiples habilidades a la vez|Cómo se resuelven las habilidades que entran a la bolsa al mismo tiempo]]
+
+### Fuentes oficiales
+
+- Comprehensive Rules, reglas 6.7.2, 7.7.4.
 
 ---
 

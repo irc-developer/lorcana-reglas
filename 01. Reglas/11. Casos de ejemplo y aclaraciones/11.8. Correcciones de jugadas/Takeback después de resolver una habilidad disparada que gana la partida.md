@@ -16,11 +16,14 @@ Si lo ocurrido fue un error de reglas durante la resolución, hay que llamar al 
 
 ## 📘 Referencias
 
-- [[3. Operaciones en los torneos#3.7 Takebacks|Tournament Rules 3.7 — los takebacks son una excepción que requiere autorización]].
-- [[3. Operaciones en los torneos#3.7.1 Elegibilidad y limitaciones de takebacks|Tournament Rules 3.7.1 — los efectos y habilidades disparadas que se resuelven cuentan como información adicional]].
-- [[3. Operaciones en los torneos#3.7.3 Ejemplos de takebacks permitidos|Tournament Rules 3.7.3 — solicitudes inmediatas antes de resolver]].
-- [[2.3. Etapa de juego (In-Game Stage)|CR 2.3.3 — alcanzar 20 de lore gana la partida]].
-- [[2. Errores de reglas#2.4 Error general de reglas (General Rule Error)|General Rule Error — pedir corrección si se cometió un error de reglas]].
+### Wiki de Lorcana
+
+- [[03. Reglas de Torneo/3. Operaciones en los torneos|Cuándo puede autorizarse un takeback y qué información lo impide]]
+- [[01. Reglas/2. Juego (Gameplay)/2.3. Etapa de juego (In-Game Stage)|Cómo termina una partida y cuándo puede concederse]]
+- [[04. Guia de correccion de jugadas/2. Errores de reglas|Cuándo corresponde corregir un error general de reglas]]
+- [[01. Reglas/11. Casos de ejemplo y aclaraciones/11.8. Correcciones de jugadas/Takeback de un desafío antes de resolverlo|Takeback de un desafío antes de resolverlo]]
+
+### Fuentes oficiales
 
 Fuentes oficiales vigentes: [Comprehensive Rules 2.3.0 (16/10/2026)](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf) y [Tournament Rules (14/07/2026)](https://files.disneylorcana.com/Tournament-Rules-7.14.2026_Update_EN.pdf).
 
