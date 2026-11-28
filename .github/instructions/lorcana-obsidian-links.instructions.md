@@ -16,6 +16,8 @@ description: "Usar cuando redactes o corrijas documentación de reglas de Lorcan
 
 ## Reglas y artículos
 
+- Always use internal note links (Obsidian wikilinks or Markdown note paths) between wiki notes. Never substitute Publish URLs or custom-domain URLs, even for published targets: external URLs do not create graph edges or backlinks. Keep public URLs in publication evidence and external handoffs only. Verify that each internal destination resolves to the intended existing note; use the full vault path when a short name is ambiguous.
+
 - Prefiere enlaces simples al nombre exacto del archivo cuando el destino sea inequívoco.
 - Si el nombre del archivo no basta o la validación falla, usa la ruta completa sin anchors.
 - No uses anchors `#...` para referencias de reglas si puedes resolver el enlace por archivo.

@@ -15,13 +15,15 @@ Si un efecto me permite buscar una carta en el mazo, ¿tengo que barajarlo al te
 
 ## 📘 Referencias
 
-- [CR 2.3.0, reglas 7.1.3 y 7.2.2, p. 38](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=38). Acceso a zonas privadas y orden del mazo.
-- [CR 2.3.0, regla 6.7.2.3, p. 36](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=36). Las instrucciones se ejecutan en el orden escrito y se hace todo lo posible.
-
 ### Wiki de Lorcana
 
-- [Qué se puede mirar o cambiar en el mazo](https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/7.%20Zonas%20%28Zones%29/7.2.%20Mazo%20%28Deck%29)
-- [Cómo seguir las instrucciones de un efecto en orden](https://publish.obsidian.md/reglas-lorcana/01.%20Reglas/6.%20Habilidades%2C%20efectos%20y%20resoluci%C3%B3n%20%28abilities%2C%20effects%2C%20and%20resolving%29/6.7.%20Resoluci%C3%B3n%20de%20Cartas%20y%20Efectos%20%28Resolving%20Cards%20and%20Effects%29)
+- [[01. Reglas/7. Zonas (Zones)/7.2. Mazo (Deck)|Qué se puede mirar o cambiar en el mazo]]
+- [[01. Reglas/6. Habilidades, efectos y resolución (abilities, effects, and resolving)/6.7. Resolución de Cartas y Efectos (Resolving Cards and Effects)|Cómo seguir las instrucciones de un efecto en orden]]
+
+### Fuentes oficiales
+
+- [CR 2.3.0, reglas 7.1.3 y 7.2.2, p. 38](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=38). Acceso a zonas privadas y orden del mazo.
+- [CR 2.3.0, regla 6.7.2.3, p. 36](https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf#page=36). Las instrucciones se ejecutan en el orden escrito y se hace todo lo posible.
 
 ---
 
